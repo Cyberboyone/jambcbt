@@ -30,14 +30,38 @@ class AdService {
     if (_initialized) return;
     _initialized = true;
     debugPrint('[AdService] Initializing Google Mobile Ads');
-    await MobileAds.instance.initialize();
-    debugPrint('[AdService] Google Mobile Ads initialized');
+    try {
+      // Timeout: a wedged SDK init must never leave the app waiting.
+      await MobileAds.instance.initialize().timeout(const Duration(seconds: 10));
+      debugPrint('[AdService] Google Mobile Ads initialized');
+    } catch (e) {
+      // Ads are disabled for this session only — the app itself is unaffected.
+      debugPrint('[AdService] Mobile Ads init failed - ads disabled this session: $e');
+      _initFailed = true;
+      return;
+    }
     _loadAll();
     _listenConnectivity();
     _startPeriodicPreload();
   }
 
-  void _loadAll() {
+  /// True when the device currently has a network connection. When unsure,
+  /// assumes online so ads still try (a failed load just retries later).
+  Future<bool> _hasConnection() async {
+    try {
+      final result = await Connectivity().checkConnectivity();
+      return result != ConnectivityResult.none;
+    } catch (_) {
+      return true;
+    }
+  }
+
+  Future<void> _loadAll() async {
+    if (_initFailed) return;
+    if (!await _hasConnection()) {
+      debugPrint('[AdService] Offline - skipping ad loads until back online');
+      return; // the connectivity listener re-kicks everything on reconnect
+    }
     loadInterstitial();
     loadRewarded();
     _topUpBannerCache();
@@ -105,6 +129,185 @@ class AdService {
             },
           );
         },
+        onAdFailedToLoad: (error) {
+          debugPrint('[AdService] Interstitial load failed: $error');
+          _interstitialAd = null;
+          Timer(const Duration(seconds: 10), () async {
+            if (await _hasConnection()) loadInterstitial();
+          });
+        },
+      ),
+    );
+  }
+
+  void loadRewarded() {
+    if (_initFailed) return;
+    debugPrint('[AdService] Loading rewarded');
+    RewardedAd.load(
+      adUnitId: AppConstants.admobRewardedUnitId,
+      request: const AdRequest(),
+      rewardedAdLoadCallback: RewardedAdLoadCallback(
+        onAdLoaded: (ad) {
+          debugPrint('[AdService] Rewarded loaded');
+          _rewardedAd = ad;
+          ad.fullScreenContentCallback = FullScreenContentCallback(
+            onAdDismissedFullScreenContent: (ad) {
+              debugPrint('[AdService] Rewarded dismissed');
+              ad.dispose();
+              _rewardedAd = null;
+              loadRewarded();
+            },
+            onAdFailedToShowFullScreenContent: (ad, error) {
+              debugPrint('[AdService] Rewarded show failed: $error');
+              ad.dispose();
+              _rewardedAd = null;
+              loadRewarded();
+            },
+          );
+        },
+        onAdFailedToLoad: (error) {
+          debugPrint('[AdService] Rewarded load failed: $error');
+          _rewardedAd = null;
+          Timer(const Duration(seconds: 10), () async {
+            if (await _hasConnection()) loadRewarded();
+          });
+        },
+      ),
+    );
+  }
+
+  void showInterstitial({VoidCallback? onComplete}) {
+    debugPrint('[AdService] showInterstitial called (ready: $_interstitialReady)');
+
+    bool callbackFired = false;
+    void fireCallback() {
+      if (!callbackFired) {
+        callbackFired = true;
+        onComplete?.call();
+      }
+    }
+
+    if (!_interstitialReady || _interstitialAd == null) {
+      debugPrint('[AdService] Interstitial not ready - skipping');
+      Future.microtask(() => fireCallback());
+      return;
+    }
+
+    final ad = _interstitialAd!;
+    _interstitialAd = null;
+
+    ad.fullScreenContentCallback = FullScreenContentCallback(
+      onAdDismissedFullScreenContent: (a) {
+        debugPrint('[AdService] Interstitial dismissed');
+        a.dispose();
+        loadInterstitial();
+        fireCallback();
+      },
+      onAdFailedToShowFullScreenContent: (a, error) {
+        debugPrint('[AdService] Interstitial show failed: $error');
+        a.dispose();
+        loadInterstitial();
+        fireCallback();
+      },
+    );
+
+    ad.show();
+  }
+
+  void showRewarded({VoidCallback? onRewarded, VoidCallback? onFailed}) {
+    debugPrint('[AdService] showRewarded called (ready: $_rewardedReady)');
+
+    bool callbackFired = false;
+    void fireReward() {
+      if (!callbackFired) {
+        callbackFired = true;
+        onRewarded?.call();
+      }
+    }
+
+    void fireFail() {
+      if (!callbackFired) {
+        callbackFired = true;
+        onFailed?.call();
+      }
+    }
+
+    if (!_rewardedReady || _rewardedAd == null) {
+      debugPrint('[AdService] Rewarded not ready - skipping');
+      Future.microtask(() => fireFail());
+      return;
+    }
+
+    final ad = _rewardedAd!;
+    _rewardedAd = null;
+
+    ad.fullScreenContentCallback = FullScreenContentCallback(
+      onAdDismissedFullScreenContent: (a) {
+        debugPrint('[AdService] Rewarded dismissed');
+        a.dispose();
+        loadRewarded();
+        fireFail();
+      },
+      onAdFailedToShowFullScreenContent: (a, error) {
+        debugPrint('[AdService] Rewarded show failed: $error');
+        a.dispose();
+        loadRewarded();
+        fireFail();
+      },
+    );
+
+    ad.show(
+      onUserEarnedReward: (ad, reward) {
+        debugPrint('[AdService] Rewarded completed - granting reward');
+        fireReward();
+      },
+    );
+  }
+
+  void preloadInterstitial() => loadInterstitial();
+  void preloadRewarded() => loadRewarded();
+  void preloadBanner() => _topUpBannerCache();
+
+  /// Fills the banner cache up to the target size by loading fresh banner ads.
+  /// Safe to call any number of times — it only loads when there is spare
+  /// capacity, so ads are continuously "caught" in the background while data is
+  /// on and stay ready for instant display.
+  void _topUpBannerCache() {
+    if (_initFailed) return;
+    while (_bannerCache.length < _bannerCacheTarget) {
+      _loadOneBanner();
+    }
+  }
+
+  void _loadOneBanner() {
+    BannerAd(
+      adUnitId: AppConstants.admobBannerUnitId,
+      request: const AdRequest(),
+      size: AdSize.banner,
+      listener: BannerAdListener(
+        onAdLoaded: (ad) {
+          debugPrint('[AdService] Banner preloaded (cache ${_bannerCache.length + 1}/$_bannerCacheTarget)');
+          _bannerCache.add(ad as BannerAd);
+        },
+        onAdFailedToLoad: (ad, error) {
+          debugPrint('[AdService] Banner preload failed: $error');
+          ad.dispose();
+        },
+      ),
+    )..load();
+  }
+
+  /// Hands a preloaded banner to a widget for display (or null if the cache is
+  /// empty). The widget that calls this owns the returned ad and must dispose
+  /// it, but the cache keeps top-ups flowing so a replacement is already being
+  /// fetched in the background.
+  BannerAd? takeBanner() {
+    if (_bannerCache.isEmpty) return null;
+    final ad = _bannerCache.removeLast();
+    _topUpBannerCache();
+    return ad;
+  }
+}        },
         onAdFailedToLoad: (error) {
           debugPrint('[AdService] Interstitial load failed: $error');
           _interstitialAd = null;
