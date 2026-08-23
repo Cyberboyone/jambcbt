@@ -7,7 +7,6 @@ import 'providers/settings_provider.dart';
 import 'providers/course_provider.dart';
 import 'providers/quiz_provider.dart';
 import 'services/ad_service.dart';
-import 'services/startup_diagnostics.dart';
 import 'screens/splash_screen.dart';
 import 'screens/onboarding_screen.dart';
 import 'screens/home_screen.dart';
@@ -66,23 +65,10 @@ class _JambCbtAppState extends State<JambCbtApp> with WidgetsBindingObserver {
             theme: AppTheme.lightTheme,
             darkTheme: AppTheme.darkTheme,
             themeMode: isDarkMode ? ThemeMode.dark : ThemeMode.light,
-            builder: (context, child) {
-              final app = AppThemeScope(
-                isDark: isDarkMode,
-                child: child ?? const SizedBox.shrink(),
-              );
-              // Startup diagnostics overlay (non-interactive, auto-hides).
-              return Stack(
-                children: [
-                  app,
-                  Positioned.fill(
-                    child: IgnorePointer(
-                      child: StartupOverlay(),
-                    ),
-                  ),
-                ],
-              );
-            },
+            builder: (context, child) => AppThemeScope(
+              isDark: isDarkMode,
+              child: child ?? const SizedBox.shrink(),
+            ),
             initialRoute: AppRoutes.splash,
             routes: {
               AppRoutes.splash: (context) => const SplashScreen(),
@@ -107,4 +93,4 @@ class _JambCbtAppState extends State<JambCbtApp> with WidgetsBindingObserver {
       ),
     );
   }
-}
+} 
