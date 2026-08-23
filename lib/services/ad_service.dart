@@ -12,15 +12,29 @@ class AdService {
   bool _initFailed = false;
   StreamSubscription? _connectivitySubscription;
   Timer? _periodicTimer;
+  Timer? _kickoffTimer;
 
   InterstitialAd? _interstitialAd;
   RewardedAd? _rewardedAd;
+  bool _interstitialLoading = false;
+  bool _rewardedLoading = false;
+  int _bannersInFlight = 0;
 
-  // Preloaded banner ads, ready to be shown instantly when the app is used.
-  // Ads are fetched in the background whenever there is connectivity so they are
-  // already "caught" by the time a banner slot is rendered.
+  // Preloaded banner ads, ready to be shown instantly when a screen needs
+  // one. Kept SMALL on purpose: every banner ad is a WebView created on the
+  // Android main thread. Loading several at once during launch froze
+  // low-end devices whenever data was on — so we cap the cache at 2 and
+  // load them one at a time, staggered.
   final List<BannerAd> _bannerCache = [];
-  static const int _bannerCacheTarget = 4;
+  static const int _bannerCacheTarget = 2;
+
+  /// First ad load happens this long after the app started — never during
+  /// launch or the first navigation.
+  static const Duration _firstLoadDelay = Duration(seconds: 15);
+
+  /// Gap between individual ad loads so the ad SDK's main-thread work
+  /// (WebView creation) never piles up.
+  static const Duration _stagger = Duration(seconds: 4);
 
   bool get _interstitialReady => _interstitialAd != null;
   bool get _rewardedReady => _rewardedAd != null;
@@ -40,9 +54,9 @@ class AdService {
       _initFailed = true;
       return;
     }
-    _loadAll();
     _listenConnectivity();
     _startPeriodicPreload();
+    _scheduleLoads();
   }
 
   /// True when the device currently has a network connection. When unsure,
@@ -56,15 +70,20 @@ class AdService {
     }
   }
 
-  Future<void> _loadAll() async {
+  /// Loads ads ONE AT A TIME, well after launch:
+  /// interstitial -> (+4s) rewarded -> (+4s) banner cache top-up.
+  void _scheduleLoads() {
     if (_initFailed) return;
-    if (!await _hasConnection()) {
-      debugPrint('[AdService] Offline - skipping ad loads until back online');
-      return; // the connectivity listener re-kicks everything on reconnect
-    }
-    loadInterstitial();
-    loadRewarded();
-    _topUpBannerCache();
+    _kickoffTimer?.cancel();
+    _kickoffTimer = Timer(_firstLoadDelay, () async {
+      if (!await _hasConnection()) return; // reconnect listener re-kicks
+      loadInterstitial();
+      await Future<void>.delayed(_stagger);
+      if (!await _hasConnection()) return;
+      loadRewarded();
+      await Future<void>.delayed(_stagger);
+      if (await _hasConnection()) _topUpBannerCache();
+    });
   }
 
   void _listenConnectivity() {
@@ -72,7 +91,7 @@ class AdService {
     _connectivitySubscription = Connectivity().onConnectivityChanged.listen((result) {
       if (result != ConnectivityResult.none) {
         debugPrint('[AdService] Network available - loading ads');
-        _loadAll();
+        _scheduleLoads();
       }
     });
   }
@@ -80,22 +99,25 @@ class AdService {
   void _startPeriodicPreload() {
     _periodicTimer?.cancel();
     _periodicTimer = Timer.periodic(const Duration(seconds: 30), (_) {
-      if (!_initFailed) {
-        _loadAll();
-      }
+      if (_initFailed) return;
+      // All three are no-ops when the ad is already loaded or loading.
+      loadInterstitial();
+      loadRewarded();
+      _topUpBannerCache();
     });
   }
 
   void onAppResume() {
     if (!_initFailed) {
       debugPrint('[AdService] App resumed - refreshing ad cache');
-      _loadAll();
+      _scheduleLoads();
     }
   }
 
   void dispose() {
     _connectivitySubscription?.cancel();
     _periodicTimer?.cancel();
+    _kickoffTimer?.cancel();
     _interstitialAd?.dispose();
     _rewardedAd?.dispose();
     for (final ad in _bannerCache) {
@@ -105,13 +127,17 @@ class AdService {
   }
 
   void loadInterstitial() {
-    if (_initFailed) return;
+    // Guard: never start a second load while one is in flight or an ad is
+    // already ready (prevents leaks and duplicate main-thread work).
+    if (_initFailed || _interstitialReady || _interstitialLoading) return;
+    _interstitialLoading = true;
     debugPrint('[AdService] Loading interstitial');
     InterstitialAd.load(
       adUnitId: AppConstants.admobInterstitialUnitId,
       request: const AdRequest(),
       adLoadCallback: InterstitialAdLoadCallback(
         onAdLoaded: (ad) {
+          _interstitialLoading = false;
           debugPrint('[AdService] Interstitial loaded');
           _interstitialAd = ad;
           ad.fullScreenContentCallback = FullScreenContentCallback(
@@ -130,6 +156,7 @@ class AdService {
           );
         },
         onAdFailedToLoad: (error) {
+          _interstitialLoading = false;
           debugPrint('[AdService] Interstitial load failed: $error');
           _interstitialAd = null;
           Timer(const Duration(seconds: 10), () async {
@@ -141,13 +168,15 @@ class AdService {
   }
 
   void loadRewarded() {
-    if (_initFailed) return;
+    if (_initFailed || _rewardedReady || _rewardedLoading) return;
+    _rewardedLoading = true;
     debugPrint('[AdService] Loading rewarded');
     RewardedAd.load(
       adUnitId: AppConstants.admobRewardedUnitId,
       request: const AdRequest(),
       rewardedAdLoadCallback: RewardedAdLoadCallback(
         onAdLoaded: (ad) {
+          _rewardedLoading = false;
           debugPrint('[AdService] Rewarded loaded');
           _rewardedAd = ad;
           ad.fullScreenContentCallback = FullScreenContentCallback(
@@ -166,6 +195,7 @@ class AdService {
           );
         },
         onAdFailedToLoad: (error) {
+          _rewardedLoading = false;
           debugPrint('[AdService] Rewarded load failed: $error');
           _rewardedAd = null;
           Timer(const Duration(seconds: 10), () async {
@@ -268,13 +298,12 @@ class AdService {
   void preloadRewarded() => loadRewarded();
   void preloadBanner() => _topUpBannerCache();
 
-  /// Fills the banner cache up to the target size by loading fresh banner ads.
-  /// Safe to call any number of times — it only loads when there is spare
-  /// capacity, so ads are continuously "caught" in the background while data is
-  /// on and stay ready for instant display.
+  /// Fills the banner cache up to the target size, loading one banner at a
+  /// time. Safe to call any number of times.
   void _topUpBannerCache() {
     if (_initFailed) return;
-    while (_bannerCache.length < _bannerCacheTarget) {
+    while (_bannerCache.length + _bannersInFlight < _bannerCacheTarget) {
+      _bannersInFlight++;
       _loadOneBanner();
     }
   }
@@ -286,10 +315,12 @@ class AdService {
       size: AdSize.banner,
       listener: BannerAdListener(
         onAdLoaded: (ad) {
+          if (_bannersInFlight > 0) _bannersInFlight--;
           debugPrint('[AdService] Banner preloaded (cache ${_bannerCache.length + 1}/$_bannerCacheTarget)');
           _bannerCache.add(ad as BannerAd);
         },
         onAdFailedToLoad: (ad, error) {
+          if (_bannersInFlight > 0) _bannersInFlight--;
           debugPrint('[AdService] Banner preload failed: $error');
           ad.dispose();
         },
@@ -307,4 +338,4 @@ class AdService {
     _topUpBannerCache();
     return ad;
   }
-}
+} 
