@@ -7,68 +7,50 @@ import 'package:audioplayers/audioplayers.dart';
 import 'services/hive_service.dart';
 import 'services/ad_service.dart';
 import 'services/sound_service.dart';
-import 'services/startup_diagnostics.dart';
 import 'models/question.dart';
 import 'app.dart';
 
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
-  StartupLog.step('app: starting');
 
   // Local database only — fast, and the first screen needs it.
-  StartupLog.step('hive: opening boxes');
   final hiveService = HiveService();
   await hiveService.init();
-  StartupLog.step('hive: ok');
 
-  // UI on screen immediately.
+  // UI on screen immediately; all heavy work happens after first paint.
   runApp(const JambCbtApp());
-  StartupLog.step('ui: runApp');
-
-  // Heavy work starts only after the app is visible.
   unawaited(_runStartupTasks(hiveService));
 }
 
-/// Startup tasks, fully traced so a freeze on any device is diagnosable
-/// from the on-screen StartupOverlay.
+/// Startup tasks that must never block the first frame.
 Future<void> _runStartupTasks(HiveService hiveService) async {
-  // Let the first frames paint.
+  // Let the first frames paint and animate.
   await Future<void>.delayed(const Duration(milliseconds: 600));
 
-  // 1) Seed bundled questions (parsing in a background isolate).
-  StartupLog.step('seed: starting');
+  // 1) Seed bundled questions (JSON parsing in a background isolate).
   try {
     await _seedStarterQuestions(hiveService);
-    StartupLog.step('seed: done');
   } catch (e) {
-    StartupLog.fail('seed', e);
+    debugPrint('Seeding failed: $e');
   }
 
-  // 2) Ads: SDK init is delayed ~5s (past the launch window) and the first
-  //    ad loads are staggered inside AdService. Firing 6 ad loads during
-  //    launch froze low-end devices whenever data was on — each banner is a
-  //    WebView created on the Android main thread, and they piled up.
-  StartupLog.step('ads: init scheduled (delayed + staggered)');
+  // 2) Ads: SDK init delayed past the launch window; first loads are
+  //    staggered inside AdService (see ad_service.dart) so their main-thread
+  //    work never piles up during launch.
   unawaited(
     Future<void>.delayed(const Duration(seconds: 5))
         .then((_) => AdService.instance.init()),
   );
 
-  // 3) Audio context — traced separately so if this device's audio service
-  //    blocks the platform thread, the trace ends on this line.
-  StartupLog.step('audio: setting context');
+  // 3) Audio context so app sounds mix with (never pause) device audio.
+  //    Timeout-guarded so a slow audio service can never stall the app.
   try {
     await AudioPlayer.global
         .setAudioContext(AppSound.context)
         .timeout(const Duration(seconds: 3));
-    StartupLog.step('audio: ok');
   } catch (e) {
-    StartupLog.fail('audio', e);
+    debugPrint('Audio context setup skipped: $e');
   }
-
-  StartupLog.step('startup complete');
-  await Future<void>.delayed(const Duration(seconds: 2));
-  StartupLog.hide();
 }
 
 /// Seeds the local Hive question cache from bundled JSON assets
@@ -82,13 +64,12 @@ Future<void> _seedStarterQuestions(HiveService hiveService) async {
 
     try {
       final jsonStr = await rootBundle.loadString('assets/questions/$courseId.json');
-      StartupLog.step('seed $courseId: parsing');
+      // Parse and build the questions OFF the UI thread.
       final questions = await compute(parseQuestionsJson, jsonStr);
-      StartupLog.step('seed $courseId: saving ${questions.length}');
       await hiveService.cacheQuestions(courseId, questions);
-      StartupLog.step('seed $courseId: saved');
+      debugPrint('Seeded ${questions.length} questions for $courseId');
     } catch (e) {
-      StartupLog.fail('seed $courseId', e);
+      debugPrint('Failed to seed $courseId: $e');
     }
   }
 }
