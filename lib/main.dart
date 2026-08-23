@@ -44,17 +44,18 @@ Future<void> _runStartupTasks(HiveService hiveService) async {
     StartupLog.fail('seed', e);
   }
 
-  // 2) Ads: SDK init (local disk work + network when online).
-  StartupLog.step('ads: initializing');
-  try {
-    await AdService.instance.init();
-    StartupLog.step('ads: ok');
-  } catch (e) {
-    StartupLog.fail('ads', e);
-  }
+  // 2) Ads: SDK init is delayed ~5s (past the launch window) and the first
+  //    ad loads are staggered inside AdService. Firing 6 ad loads during
+  //    launch froze low-end devices whenever data was on — each banner is a
+  //    WebView created on the Android main thread, and they piled up.
+  StartupLog.step('ads: init scheduled (delayed + staggered)');
+  unawaited(
+    Future<void>.delayed(const Duration(seconds: 5))
+        .then((_) => AdService.instance.init()),
+  );
 
-  // 3) Audio context LAST — traced separately so if this device's audio
-  //    service blocks the platform thread, the trace ends on this line.
+  // 3) Audio context — traced separately so if this device's audio service
+  //    blocks the platform thread, the trace ends on this line.
   StartupLog.step('audio: setting context');
   try {
     await AudioPlayer.global
@@ -108,4 +109,4 @@ List<Question> parseQuestionsJson(String jsonStr) {
       difficulty: map['difficulty'] as int? ?? 1,
     );
   }).toList();
-}
+} 
