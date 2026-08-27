@@ -1,6 +1,6 @@
 name: jamb_cbt
 description: A complete CBT practice app for the Nigerian UTME (JAMB) — 10 subjects, 200 original syllabus-aligned questions each, offline-first with local Hive storage.
-version: 1.0.0+1
+version: 1.0.1+2
 
 environment:
   sdk: '>=3.2.0 <4.0.0'

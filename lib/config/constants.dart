@@ -108,11 +108,12 @@ class AppConstants {
   // all other subjects = 40 questions / 30 min (see Course.examQuestions/examMinutes).
 
   // App Metadata
-  static const String appVersion = '1.0.0';
+  static const String appVersion = '1.0.1';
   static const String appName = 'JAMB CBT';
   static const String poweredBy = 'Powered by JAMB CBT';
   static const String contactEmail = 'support@jambcbt.app';
-  static const String webUrl = 'https://jambcbt.app';
+  // URL opened when the "Powered by" footer is tapped.
+  static const String webUrl = 'https://siyayya.com';
 
   // --- AdMob ---
   static const String admobAppId = 'ca-app-pub-9529770421530115~9117049442';
