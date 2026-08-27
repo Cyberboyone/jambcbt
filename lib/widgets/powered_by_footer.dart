@@ -23,7 +23,7 @@ class PoweredByFooter extends StatelessWidget {
             children: [
               const TextSpan(text: 'Powered by '),
               TextSpan(
-                text: 'JAMB CBT',
+                text: 'Siyayya.com',
                 style: const TextStyle(
                   color: AppColors.primary,
                   fontWeight: FontWeight.w700,
