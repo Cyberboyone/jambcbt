@@ -1,4 +1,4 @@
-import 'package:flutter/material.dart';
+﻿import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 import 'config/theme.dart';
 import 'config/routes.dart';
@@ -31,6 +31,9 @@ class _JambCbtAppState extends State<JambCbtApp> with WidgetsBindingObserver {
   void initState() {
     super.initState();
     WidgetsBinding.instance.addObserver(this);
+    Future.delayed(const Duration(seconds: 2), () {
+      if (mounted) AdService.instance.handleAppOpened();
+    });
   }
 
   @override
@@ -42,7 +45,7 @@ class _JambCbtAppState extends State<JambCbtApp> with WidgetsBindingObserver {
   @override
   void didChangeAppLifecycleState(AppLifecycleState state) {
     if (state == AppLifecycleState.resumed) {
-      AdService.instance.onAppResume();
+      AdService.instance.handleAppOpened();
     }
   }
 
