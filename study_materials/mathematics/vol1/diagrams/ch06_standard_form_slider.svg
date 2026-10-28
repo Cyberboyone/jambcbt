@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 740 195" width="740" height="195">
+  <defs>
+    <marker id="arrow-green" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#008751"/>
+    </marker>
+    <marker id="arrow-navy" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#0E1F40"/>
+    </marker>
+    <marker id="arrow-amber" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#D97706"/>
+    </marker>
+    <marker id="arrow-red" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#DC2626"/>
+    </marker>
+    <marker id="arrow-blue" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#2563EB"/>
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="740" height="195" rx="10" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="1.2"/>
+  <text x="370" y="25" fill="#0E1F40" font-family="DejaVu Sans" font-size="13.5" font-weight="bold" text-anchor="middle">Standard Form A × 10ⁿ (1 ≤ A &lt; 10): Decimal Shift Direction Rule</text>
+<rect x="26" y="44" width="332" height="132" rx="8" fill="#ECFDF5" fill-opacity="0.45" stroke="#008751" stroke-width="1.6"/>
+<text x="192" y="65" fill="#008751" font-family="DejaVu Sans" font-size="11.5" font-weight="bold" text-anchor="middle">LARGE NUMBERS (&gt; 10): Move Point LEFT</text>
+<text x="192" y="96" fill="#0E1F40" font-family="DejaVu Sans Mono" font-size="16" font-weight="bold" text-anchor="middle">4 5 8 0 0 0 . 0</text>
+<line x1="252" y1="106" x2="145" y2="106" stroke="#008751" stroke-width="2.4" marker-end="url(#arrow-green)"/>
+<text x="192" y="124" fill="#008751" font-family="DejaVu Sans" font-size="10.5" font-weight="bold" text-anchor="middle">5 places LEFT  ⇒  n = +5 (Positive)</text>
+<text x="192" y="152" fill="#0E1F40" font-family="DejaVu Sans Mono" font-size="14" font-weight="bold" text-anchor="middle">= 4.58 × 10⁵</text>
+<rect x="382" y="44" width="332" height="132" rx="8" fill="#FEE2E2" fill-opacity="0.40" stroke="#DC2626" stroke-width="1.6"/>
+<text x="548" y="65" fill="#DC2626" font-family="DejaVu Sans" font-size="11.5" font-weight="bold" text-anchor="middle">SMALL DECIMALS (&lt; 1): Move Point RIGHT</text>
+<text x="548" y="96" fill="#0E1F40" font-family="DejaVu Sans Mono" font-size="16" font-weight="bold" text-anchor="middle">0 . 0 0 0 4 3</text>
+<line x1="504" y1="106" x2="585" y2="106" stroke="#DC2626" stroke-width="2.4" marker-end="url(#arrow-red)"/>
+<text x="548" y="124" fill="#DC2626" font-family="DejaVu Sans" font-size="10.5" font-weight="bold" text-anchor="middle">4 places RIGHT  ⇒  n = −4 (Negative)</text>
+<text x="548" y="152" fill="#0E1F40" font-family="DejaVu Sans Mono" font-size="14" font-weight="bold" text-anchor="middle">= 4.3 × 10⁻⁴</text>
+</svg>

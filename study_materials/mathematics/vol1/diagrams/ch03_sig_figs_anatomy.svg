@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 740 215" width="740" height="215">
+  <defs>
+    <marker id="arrow-green" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#008751"/>
+    </marker>
+    <marker id="arrow-navy" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#0E1F40"/>
+    </marker>
+    <marker id="arrow-amber" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#D97706"/>
+    </marker>
+    <marker id="arrow-red" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#DC2626"/>
+    </marker>
+    <marker id="arrow-blue" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#2563EB"/>
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="740" height="215" rx="10" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="1.2"/>
+  <text x="370" y="26" fill="#0E1F40" font-family="DejaVu Sans" font-size="13.5" font-weight="bold" text-anchor="middle">Significant Figures vs. Decimal Places Anatomy: 0.0040850 (5 s.f., 7 d.p.)</text>
+<rect x="71" y="64" width="48" height="48" rx="7" fill="#F1F5F9" stroke="#64748B" stroke-width="1.8"/>
+<text x="95" y="96" fill="#64748B" font-family="DejaVu Sans Mono" font-size="22" font-weight="bold" text-anchor="middle">0</text>
+<circle cx="148" cy="92" r="6" fill="#0E1F40"/>
+<rect x="176" y="64" width="48" height="48" rx="7" fill="#F1F5F9" stroke="#64748B" stroke-width="1.8"/>
+<text x="200" y="96" fill="#64748B" font-family="DejaVu Sans Mono" font-size="22" font-weight="bold" text-anchor="middle">0</text>
+<rect x="236" y="64" width="48" height="48" rx="7" fill="#F1F5F9" stroke="#64748B" stroke-width="1.8"/>
+<text x="260" y="96" fill="#64748B" font-family="DejaVu Sans Mono" font-size="22" font-weight="bold" text-anchor="middle">0</text>
+<rect x="306" y="64" width="48" height="48" rx="7" fill="#ECFDF5" stroke="#008751" stroke-width="1.8"/>
+<text x="330" y="96" fill="#0E1F40" font-family="DejaVu Sans Mono" font-size="22" font-weight="bold" text-anchor="middle">4</text>
+<rect x="371" y="64" width="48" height="48" rx="7" fill="#FEF3C7" stroke="#D97706" stroke-width="1.8"/>
+<text x="395" y="96" fill="#0E1F40" font-family="DejaVu Sans Mono" font-size="22" font-weight="bold" text-anchor="middle">0</text>
+<rect x="436" y="64" width="48" height="48" rx="7" fill="#ECFDF5" stroke="#008751" stroke-width="1.8"/>
+<text x="460" y="96" fill="#0E1F40" font-family="DejaVu Sans Mono" font-size="22" font-weight="bold" text-anchor="middle">8</text>
+<rect x="501" y="64" width="48" height="48" rx="7" fill="#ECFDF5" stroke="#008751" stroke-width="1.8"/>
+<text x="525" y="96" fill="#0E1F40" font-family="DejaVu Sans Mono" font-size="22" font-weight="bold" text-anchor="middle">5</text>
+<rect x="566" y="64" width="48" height="48" rx="7" fill="#FEF3C7" stroke="#D97706" stroke-width="1.8"/>
+<text x="590" y="96" fill="#0E1F40" font-family="DejaVu Sans Mono" font-size="22" font-weight="bold" text-anchor="middle">0</text>
+<line x1="75" y1="125" x2="282" y2="125" stroke="#DC2626" stroke-width="2"/>
+<text x="178" y="143" fill="#DC2626" font-family="DejaVu Sans" font-size="10.5" font-weight="bold" text-anchor="middle">Leading Zeros: NOT Significant</text>
+<text x="178" y="158" fill="#334155" font-family="DejaVu Sans" font-size="9.5" text-anchor="middle">(Only place-holders for scale)</text>
+<line x1="308" y1="125" x2="615" y2="125" stroke="#008751" stroke-width="2.5"/>
+<text x="462" y="143" fill="#008751" font-family="DejaVu Sans" font-size="11" font-weight="bold" text-anchor="middle">ALL 5 DIGITS ARE SIGNIFICANT (1st s.f. = 4, 2nd = 0, 3rd = 8, 4th = 5, 5th = 0)</text>
+<text x="462" y="159" fill="#D97706" font-family="DejaVu Sans" font-size="10" font-weight="bold" text-anchor="middle">Captive zero (between 4 &amp; 8) AND trailing zero after decimal ARE significant!</text>
+<rect x="65" y="172" width="610" height="30" rx="6" fill="#0E1F40"/>
+<text x="370" y="191" fill="#FFFFFF" font-family="DejaVu Sans" font-size="11" font-weight="bold" text-anchor="middle">Rounded to 2 s.f. → 0.0041     |     Rounded to 3 s.f. → 0.00409     |     Rounded to 3 d.p. → 0.004</text>
+</svg>

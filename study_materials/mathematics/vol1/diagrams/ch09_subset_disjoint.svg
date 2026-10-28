@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 740 200" width="740" height="200">
+  <defs>
+    <marker id="arrow-green" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#008751"/>
+    </marker>
+    <marker id="arrow-navy" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#0E1F40"/>
+    </marker>
+    <marker id="arrow-amber" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#D97706"/>
+    </marker>
+    <marker id="arrow-red" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#DC2626"/>
+    </marker>
+    <marker id="arrow-blue" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#2563EB"/>
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="740" height="200" rx="10" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="1.2"/>
+  <text x="370" y="25" fill="#0E1F40" font-family="DejaVu Sans" font-size="13.5" font-weight="bold" text-anchor="middle">Special Set Configurations: Proper Subset (A ⊂ B) vs. Disjoint Sets (A ∩ B = ∅)</text>
+<rect x="30" y="45" width="325" height="138" rx="8" fill="#FFFFFF" stroke="#0E1F40" stroke-width="1.6"/>
+<text x="44" y="63" fill="#334155" font-family="DejaVu Sans" font-size="10.5" font-weight="bold">ℰ</text>
+<ellipse cx="150" cy="112" rx="78" ry="52" fill="#DBEAFE" stroke="#2563EB" stroke-width="2"/>
+<circle cx="136" cy="116" r="30" fill="#A7F3D0" stroke="#008751" stroke-width="2"/>
+<text x="136" y="120" fill="#0E1F40" font-family="DejaVu Sans" font-size="12" font-weight="bold" text-anchor="middle">A</text>
+<text x="200" y="96" fill="#2563EB" font-family="DejaVu Sans" font-size="12" font-weight="bold" text-anchor="middle">B</text>
+<text x="242" y="80" fill="#0E1F40" font-family="DejaVu Sans" font-size="10" font-weight="bold">If A ⊂ B, then:</text>
+<text x="242" y="100" fill="#008751" font-family="DejaVu Sans" font-size="10" font-weight="bold">• A ∩ B = A</text>
+<text x="242" y="118" fill="#2563EB" font-family="DejaVu Sans" font-size="10" font-weight="bold">• A ∪ B = B</text>
+<text x="242" y="136" fill="#DC2626" font-family="DejaVu Sans" font-size="10" font-weight="bold">• A ∩ B' = ∅</text>
+<text x="242" y="154" fill="#334155" font-family="DejaVu Sans" font-size="10" font-weight="bold">• B' ⊂ A'</text>
+<rect x="385" y="45" width="325" height="138" rx="8" fill="#FFFFFF" stroke="#0E1F40" stroke-width="1.6"/>
+<text x="399" y="63" fill="#334155" font-family="DejaVu Sans" font-size="10.5" font-weight="bold">ℰ</text>
+<circle cx="458" cy="115" r="42" fill="#ECFDF5" stroke="#008751" stroke-width="2"/>
+<circle cx="562" cy="115" r="42" fill="#FEF3C7" stroke="#D97706" stroke-width="2"/>
+<text x="458" y="120" fill="#008751" font-family="DejaVu Sans" font-size="12.5" font-weight="bold" text-anchor="middle">A</text>
+<text x="562" y="120" fill="#D97706" font-family="DejaVu Sans" font-size="12.5" font-weight="bold" text-anchor="middle">B</text>
+<text x="615" y="82" fill="#0E1F40" font-family="DejaVu Sans" font-size="10" font-weight="bold">Disjoint Sets:</text>
+<text x="615" y="102" fill="#DC2626" font-family="DejaVu Sans" font-size="10" font-weight="bold">• A ∩ B = ∅</text>
+<text x="615" y="122" fill="#008751" font-family="DejaVu Sans" font-size="10" font-weight="bold">• n(A∩B) = 0</text>
+<text x="615" y="142" fill="#0E1F40" font-family="DejaVu Sans" font-size="9.5" font-weight="bold">• n(A∪B) =</text>
+<text x="622" y="157" fill="#0E1F40" font-family="DejaVu Sans" font-size="9.5" font-weight="bold">n(A) + n(B)</text>
+</svg>

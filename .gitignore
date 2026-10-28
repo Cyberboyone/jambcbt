@@ -49,3 +49,8 @@ job_log*.txt
 *.ps1
 build_log.txt
 keystore_secrets.txt
+
+# Study-material build environment & generated PDFs
+.venv/
+**/*.pdf
+__pycache__/

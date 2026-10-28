@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 740 210" width="740" height="210">
+  <defs>
+    <marker id="arrow-green" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#008751"/>
+    </marker>
+    <marker id="arrow-navy" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#0E1F40"/>
+    </marker>
+    <marker id="arrow-amber" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#D97706"/>
+    </marker>
+    <marker id="arrow-red" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#DC2626"/>
+    </marker>
+    <marker id="arrow-blue" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#2563EB"/>
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="740" height="210" rx="10" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="1.2"/>
+  <text x="370" y="26" fill="#0E1F40" font-family="DejaVu Sans" font-size="13.5" font-weight="bold" text-anchor="middle">Error Interval for Length L = 25.4 cm (Measured to Nearest 0.1 cm)</text>
+<text x="370" y="46" fill="#334155" font-family="DejaVu Sans" font-size="10.5" text-anchor="middle">Unit of accuracy = 0.1 cm   ⇒   Maximum Absolute Error = ±½(0.1) = ±0.05 cm</text>
+<rect x="210" y="76" width="320" height="44" fill="#A7F3D0" fill-opacity="0.65"/>
+<line x1="70" y1="98" x2="670" y2="98" stroke="#0E1F40" stroke-width="2.2" marker-end="url(#arrow-navy)" marker-start="url(#arrow-navy)"/>
+<line x1="110" y1="88" x2="110" y2="108" stroke="#64748B" stroke-width="1.5"/>
+<text x="110" y="126" fill="#64748B" font-family="DejaVu Sans Mono" font-size="10.5" text-anchor="middle">25.30</text>
+<line x1="210" y1="70" x2="210" y2="126" stroke="#008751" stroke-width="2.2" stroke-dasharray="4,3"/>
+<circle cx="210" cy="98" r="6.5" fill="#008751" stroke="#FFFFFF" stroke-width="1.5"/>
+<text x="210" y="144" fill="#008751" font-family="DejaVu Sans Mono" font-size="11.5" font-weight="bold" text-anchor="middle">25.35 cm</text>
+<text x="210" y="159" fill="#008751" font-family="DejaVu Sans" font-size="10" font-weight="bold" text-anchor="middle">Lower Bound (Included ≤)</text>
+<line x1="370" y1="76" x2="370" y2="120" stroke="#0E1F40" stroke-width="2.2"/>
+<circle cx="370" cy="98" r="5.5" fill="#0E1F40"/>
+<text x="370" y="68" fill="#0E1F40" font-family="DejaVu Sans Mono" font-size="12" font-weight="bold" text-anchor="middle">Recorded = 25.40 cm</text>
+<line x1="530" y1="70" x2="530" y2="126" stroke="#DC2626" stroke-width="2.2" stroke-dasharray="4,3"/>
+<circle cx="530" cy="98" r="6.5" fill="#FFFFFF" stroke="#DC2626" stroke-width="2.4"/>
+<text x="530" y="144" fill="#DC2626" font-family="DejaVu Sans Mono" font-size="11.5" font-weight="bold" text-anchor="middle">25.45 cm</text>
+<text x="530" y="159" fill="#DC2626" font-family="DejaVu Sans" font-size="10" font-weight="bold" text-anchor="middle">Upper Bound (Strict &lt;)</text>
+<line x1="630" y1="88" x2="630" y2="108" stroke="#64748B" stroke-width="1.5"/>
+<text x="630" y="126" fill="#64748B" font-family="DejaVu Sans Mono" font-size="10.5" text-anchor="middle">25.50</text>
+<rect x="145" y="172" width="450" height="27" rx="6" fill="#F8FAFC" stroke="#0E1F40"/>
+<text x="370" y="190" fill="#0E1F40" font-family="DejaVu Sans" font-size="11" font-weight="bold" text-anchor="middle">Exact True Value Inequality:   25.35 cm ≤ L_true &lt; 25.45 cm</text>
+</svg>

@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 740 215" width="740" height="215">
+  <defs>
+    <marker id="arrow-green" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#008751"/>
+    </marker>
+    <marker id="arrow-navy" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#0E1F40"/>
+    </marker>
+    <marker id="arrow-amber" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#D97706"/>
+    </marker>
+    <marker id="arrow-red" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#DC2626"/>
+    </marker>
+    <marker id="arrow-blue" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#2563EB"/>
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="740" height="215" rx="10" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="1.2"/>
+  <text x="370" y="26" fill="#0E1F40" font-family="DejaVu Sans" font-size="13.5" font-weight="bold" text-anchor="middle">Commercial Pricing Chain: Cost Price → Marked Price → Selling Price → VAT Invoice</text>
+<rect x="26" y="72" width="138" height="68" rx="8" fill="#F1F5F9" stroke="#0E1F40" stroke-width="1.8"/>
+<text x="95" y="98" fill="#0E1F40" font-family="DejaVu Sans" font-size="11.5" font-weight="bold" text-anchor="middle">Cost Price (CP)</text>
+<text x="95" y="116" fill="#334155" font-family="DejaVu Sans" font-size="10" text-anchor="middle">Base for Profit %</text>
+<text x="95" y="131" fill="#008751" font-family="DejaVu Sans Mono" font-size="10.5" font-weight="bold" text-anchor="middle">e.g. ₦40,000</text>
+<line x1="164" y1="106" x2="210" y2="106" stroke="#008751" stroke-width="2.2" marker-end="url(#arrow-green)"/>
+<text x="187" y="96" fill="#008751" font-family="DejaVu Sans" font-size="9.5" font-weight="bold" text-anchor="middle">+50%</text>
+<rect x="214" y="72" width="144" height="68" rx="8" fill="#FEF3C7" stroke="#D97706" stroke-width="1.8"/>
+<text x="286" y="98" fill="#0E1F40" font-family="DejaVu Sans" font-size="11.5" font-weight="bold" text-anchor="middle">Marked Price (MP)</text>
+<text x="286" y="116" fill="#334155" font-family="DejaVu Sans" font-size="10" text-anchor="middle">Base for Discount %</text>
+<text x="286" y="131" fill="#D97706" font-family="DejaVu Sans Mono" font-size="10.5" font-weight="bold" text-anchor="middle">₦60,000</text>
+<line x1="358" y1="106" x2="404" y2="106" stroke="#DC2626" stroke-width="2.2" marker-end="url(#arrow-red)"/>
+<text x="381" y="96" fill="#DC2626" font-family="DejaVu Sans" font-size="9.5" font-weight="bold" text-anchor="middle">−10% disc</text>
+<rect x="408" y="72" width="144" height="68" rx="8" fill="#ECFDF5" stroke="#008751" stroke-width="1.8"/>
+<text x="480" y="98" fill="#0E1F40" font-family="DejaVu Sans" font-size="11.5" font-weight="bold" text-anchor="middle">Selling Price (SP)</text>
+<text x="480" y="116" fill="#334155" font-family="DejaVu Sans" font-size="10" text-anchor="middle">Net Revenue to Seller</text>
+<text x="480" y="131" fill="#008751" font-family="DejaVu Sans Mono" font-size="10.5" font-weight="bold" text-anchor="middle">₦54,000 (+35% gain)</text>
+<line x1="552" y1="106" x2="594" y2="106" stroke="#2563EB" stroke-width="2.2" marker-end="url(#arrow-blue)"/>
+<text x="573" y="96" fill="#2563EB" font-family="DejaVu Sans" font-size="9.5" font-weight="bold" text-anchor="middle">+7.5% VAT</text>
+<rect x="598" y="72" width="120" height="68" rx="8" fill="#DBEAFE" stroke="#2563EB" stroke-width="1.8"/>
+<text x="658" y="98" fill="#0E1F40" font-family="DejaVu Sans" font-size="11.5" font-weight="bold" text-anchor="middle">Buyer Pays</text>
+<text x="658" y="116" fill="#334155" font-family="DejaVu Sans" font-size="10" text-anchor="middle">SP × 1.075</text>
+<text x="658" y="131" fill="#2563EB" font-family="DejaVu Sans Mono" font-size="10.5" font-weight="bold" text-anchor="middle">₦58,050</text>
+<rect x="40" y="158" width="660" height="40" rx="7" fill="#0E1F40"/>
+<text x="370" y="176" fill="#FCD34D" font-family="DejaVu Sans" font-size="10.5" font-weight="bold" text-anchor="middle">TWO GOLDEN RULES JAMB TESTS EVERY YEAR:</text>
+<text x="370" y="192" fill="#FFFFFF" font-family="DejaVu Sans" font-size="10.2" text-anchor="middle">1) Profit/Loss % is ALWAYS on Cost Price (CP).   2) Share Dividend % is ALWAYS on Nominal (Par) Value, NEVER Market Price!</text>
+</svg>

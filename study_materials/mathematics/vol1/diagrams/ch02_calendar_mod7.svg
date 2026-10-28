@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 740 195" width="740" height="195">
+  <defs>
+    <marker id="arrow-green" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#008751"/>
+    </marker>
+    <marker id="arrow-navy" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#0E1F40"/>
+    </marker>
+    <marker id="arrow-amber" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#D97706"/>
+    </marker>
+    <marker id="arrow-red" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#DC2626"/>
+    </marker>
+    <marker id="arrow-blue" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#2563EB"/>
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="740" height="195" rx="10" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="1.2"/>
+  <text x="370" y="25" fill="#0E1F40" font-family="DejaVu Sans" font-size="13.5" font-weight="bold" text-anchor="middle">Calendar Day-of-Week Cycle (Modulo 7) — High-Yield UTME Word Problem Pattern</text>
+<rect x="32" y="48" width="88" height="44" rx="7" fill="#F8FAFC" stroke="#CBD5E1" stroke-width="1.7"/>
+<text x="76" y="75" fill="#0E1F40" font-family="DejaVu Sans" font-size="11.5" font-weight="bold" text-anchor="middle">Sun (0)</text>
+<rect x="130" y="48" width="88" height="44" rx="7" fill="#F8FAFC" stroke="#CBD5E1" stroke-width="1.7"/>
+<text x="174" y="75" fill="#0E1F40" font-family="DejaVu Sans" font-size="11.5" font-weight="bold" text-anchor="middle">Mon (1)</text>
+<rect x="228" y="48" width="88" height="44" rx="7" fill="#ECFDF5" stroke="#008751" stroke-width="1.7"/>
+<text x="272" y="75" fill="#0E1F40" font-family="DejaVu Sans" font-size="11.5" font-weight="bold" text-anchor="middle">Tue (2)</text>
+<rect x="326" y="48" width="88" height="44" rx="7" fill="#F8FAFC" stroke="#CBD5E1" stroke-width="1.7"/>
+<text x="370" y="75" fill="#0E1F40" font-family="DejaVu Sans" font-size="11.5" font-weight="bold" text-anchor="middle">Wed (3)</text>
+<rect x="424" y="48" width="88" height="44" rx="7" fill="#F8FAFC" stroke="#CBD5E1" stroke-width="1.7"/>
+<text x="468" y="75" fill="#0E1F40" font-family="DejaVu Sans" font-size="11.5" font-weight="bold" text-anchor="middle">Thu (4)</text>
+<rect x="522" y="48" width="88" height="44" rx="7" fill="#F8FAFC" stroke="#CBD5E1" stroke-width="1.7"/>
+<text x="566" y="75" fill="#0E1F40" font-family="DejaVu Sans" font-size="11.5" font-weight="bold" text-anchor="middle">Fri (5)</text>
+<rect x="620" y="48" width="88" height="44" rx="7" fill="#ECFDF5" stroke="#008751" stroke-width="1.7"/>
+<text x="664" y="75" fill="#0E1F40" font-family="DejaVu Sans" font-size="11.5" font-weight="bold" text-anchor="middle">Sat (6)</text>
+<rect x="32" y="108" width="674" height="70" rx="8" fill="#DBEAFE" fill-opacity="0.4" stroke="#2563EB" stroke-width="1.4"/>
+<text x="370" y="130" fill="#0E1F40" font-family="DejaVu Sans" font-size="11" font-weight="bold" text-anchor="middle">Example: If today is Tuesday (Code 2), what day of the week will it be in 100 days?</text>
+<text x="370" y="150" fill="#2563EB" font-family="DejaVu Sans Mono" font-size="11.5" font-weight="bold" text-anchor="middle">Step 1: 100 ÷ 7 = 14 weeks remainder 2   ⇒   100 ≡ 2 (mod 7)</text>
+<text x="370" y="168" fill="#008751" font-family="DejaVu Sans" font-size="11" font-weight="bold" text-anchor="middle">Step 2: Advance 2 days from Tuesday (2 ⊕₇ 2 = 4)  ⇒  Thursday!  (In 365 days: 365 ≡ 1 mod 7 → +1 day)</text>
+</svg>

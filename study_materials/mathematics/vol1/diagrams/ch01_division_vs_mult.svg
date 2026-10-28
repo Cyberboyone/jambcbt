@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 740 275" width="740" height="275">
+  <defs>
+    <marker id="arrow-green" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#008751"/>
+    </marker>
+    <marker id="arrow-navy" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#0E1F40"/>
+    </marker>
+    <marker id="arrow-amber" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#D97706"/>
+    </marker>
+    <marker id="arrow-red" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#DC2626"/>
+    </marker>
+    <marker id="arrow-blue" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#2563EB"/>
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="740" height="275" rx="10" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="1.2"/>
+  <text x="370" y="26" fill="#0E1F40" font-family="DejaVu Sans" font-size="13.5" font-weight="bold" text-anchor="middle">Converting 29.625₁₀ to Base 2: Integer vs. Fractional Algorithms</text>
+<rect x="22" y="40" width="335" height="220" rx="8" fill="#ECFDF5" fill-opacity="0.45" stroke="#008751" stroke-width="1.4"/>
+<text x="190" y="60" fill="#008751" font-family="DejaVu Sans" font-size="11.5" font-weight="bold" text-anchor="middle">STEP 1: Integer Part (29₁₀) — Divide by 2</text>
+<line x1="85" y1="74" x2="85" y2="210" stroke="#0E1F40" stroke-width="1.6"/>
+<line x1="175" y1="74" x2="175" y2="210" stroke="#0E1F40" stroke-width="1.6"/>
+<line x1="55" y1="95" x2="275" y2="95" stroke="#CBD5E1" stroke-width="0.9"/>
+<text x="70" y="90" fill="#008751" font-family="DejaVu Sans Mono" font-size="11.5" font-weight="bold" text-anchor="middle">2</text>
+<text x="130" y="90" fill="#0E1F40" font-family="DejaVu Sans Mono" font-size="11.5" font-weight="bold" text-anchor="middle">29</text>
+<text x="232" y="90" fill="#334155" font-family="DejaVu Sans Mono" font-size="11" font-weight="bold" text-anchor="middle">Quotient →</text>
+<line x1="55" y1="118" x2="275" y2="118" stroke="#CBD5E1" stroke-width="0.9"/>
+<text x="70" y="113" fill="#008751" font-family="DejaVu Sans Mono" font-size="11.5" font-weight="bold" text-anchor="middle">2</text>
+<text x="130" y="113" fill="#0E1F40" font-family="DejaVu Sans Mono" font-size="11.5" font-weight="bold" text-anchor="middle">14</text>
+<text x="232" y="113" fill="#DC2626" font-family="DejaVu Sans Mono" font-size="11" font-weight="bold" text-anchor="middle">rem 1   (LSB)</text>
+<line x1="55" y1="141" x2="275" y2="141" stroke="#CBD5E1" stroke-width="0.9"/>
+<text x="70" y="136" fill="#008751" font-family="DejaVu Sans Mono" font-size="11.5" font-weight="bold" text-anchor="middle">2</text>
+<text x="130" y="136" fill="#0E1F40" font-family="DejaVu Sans Mono" font-size="11.5" font-weight="bold" text-anchor="middle">7</text>
+<text x="232" y="136" fill="#DC2626" font-family="DejaVu Sans Mono" font-size="11" font-weight="bold" text-anchor="middle">rem 0</text>
+<line x1="55" y1="164" x2="275" y2="164" stroke="#CBD5E1" stroke-width="0.9"/>
+<text x="70" y="159" fill="#008751" font-family="DejaVu Sans Mono" font-size="11.5" font-weight="bold" text-anchor="middle">2</text>
+<text x="130" y="159" fill="#0E1F40" font-family="DejaVu Sans Mono" font-size="11.5" font-weight="bold" text-anchor="middle">3</text>
+<text x="232" y="159" fill="#DC2626" font-family="DejaVu Sans Mono" font-size="11" font-weight="bold" text-anchor="middle">rem 1</text>
+<line x1="55" y1="187" x2="275" y2="187" stroke="#CBD5E1" stroke-width="0.9"/>
+<text x="70" y="182" fill="#008751" font-family="DejaVu Sans Mono" font-size="11.5" font-weight="bold" text-anchor="middle">2</text>
+<text x="130" y="182" fill="#0E1F40" font-family="DejaVu Sans Mono" font-size="11.5" font-weight="bold" text-anchor="middle">1</text>
+<text x="232" y="182" fill="#DC2626" font-family="DejaVu Sans Mono" font-size="11" font-weight="bold" text-anchor="middle">rem 1</text>
+<line x1="55" y1="210" x2="275" y2="210" stroke="#CBD5E1" stroke-width="0.9"/>
+<text x="70" y="205" fill="#008751" font-family="DejaVu Sans Mono" font-size="11.5" font-weight="bold" text-anchor="middle"></text>
+<text x="130" y="205" fill="#0E1F40" font-family="DejaVu Sans Mono" font-size="11.5" font-weight="bold" text-anchor="middle">0</text>
+<text x="232" y="205" fill="#DC2626" font-family="DejaVu Sans Mono" font-size="11" font-weight="bold" text-anchor="middle">rem 1   (MSB)</text>
+<line x1="312" y1="206" x2="312" y2="104" stroke="#008751" stroke-width="2.6" marker-end="url(#arrow-green)"/>
+<text x="330" y="158" fill="#008751" font-family="DejaVu Sans" font-size="10.5" font-weight="bold" text-anchor="middle" transform="rotate(-90 330 158)">READ UPWARD ↑</text>
+<text x="190" y="246" fill="#0E1F40" font-family="DejaVu Sans" font-size="11.5" font-weight="bold" text-anchor="middle">Result: 29₁₀ = 11101₂</text>
+<rect x="383" y="40" width="335" height="220" rx="8" fill="#DBEAFE" fill-opacity="0.40" stroke="#2563EB" stroke-width="1.4"/>
+<text x="550" y="60" fill="#2563EB" font-family="DejaVu Sans" font-size="11.5" font-weight="bold" text-anchor="middle">STEP 2: Fraction (0.625₁₀) — Multiply by 2</text>
+<text x="400" y="96" fill="#0E1F40" font-family="DejaVu Sans Mono" font-size="11" font-weight="bold">0.625 × 2 = 1.250</text>
+<rect x="578" y="82" width="84" height="20" rx="4" fill="#FFFFFF" stroke="#2563EB"/>
+<text x="620" y="96" fill="#2563EB" font-family="DejaVu Sans Mono" font-size="11" font-weight="bold" text-anchor="middle">Carry = 1</text>
+<text x="400" y="128" fill="#0E1F40" font-family="DejaVu Sans Mono" font-size="11" font-weight="bold">0.250 × 2 = 0.500</text>
+<rect x="578" y="114" width="84" height="20" rx="4" fill="#FFFFFF" stroke="#2563EB"/>
+<text x="620" y="128" fill="#2563EB" font-family="DejaVu Sans Mono" font-size="11" font-weight="bold" text-anchor="middle">Carry = 0</text>
+<text x="400" y="160" fill="#0E1F40" font-family="DejaVu Sans Mono" font-size="11" font-weight="bold">0.500 × 2 = 1.000</text>
+<rect x="578" y="146" width="84" height="20" rx="4" fill="#FFFFFF" stroke="#2563EB"/>
+<text x="620" y="160" fill="#2563EB" font-family="DejaVu Sans Mono" font-size="11" font-weight="bold" text-anchor="middle">Carry = 1</text>
+<text x="400" y="192" fill="#0E1F40" font-family="DejaVu Sans Mono" font-size="11" font-weight="bold">Fractional part = .000 → STOP!</text>
+<line x1="682" y1="86" x2="682" y2="170" stroke="#2563EB" stroke-width="2.6" marker-end="url(#arrow-blue)"/>
+<text x="700" y="130" fill="#2563EB" font-family="DejaVu Sans" font-size="10.5" font-weight="bold" text-anchor="middle" transform="rotate(90 700 130)">READ DOWN ↓</text>
+<text x="550" y="222" fill="#0E1F40" font-family="DejaVu Sans" font-size="11.5" font-weight="bold" text-anchor="middle">Result: 0.625₁₀ = 0.101₂</text>
+<text x="550" y="246" fill="#008751" font-family="DejaVu Sans" font-size="11.5" font-weight="bold" text-anchor="middle">Combined: 29.625₁₀ = 11101.101₂</text>
+</svg>

@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 740 205" width="740" height="205">
+  <defs>
+    <marker id="arrow-green" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#008751"/>
+    </marker>
+    <marker id="arrow-navy" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#0E1F40"/>
+    </marker>
+    <marker id="arrow-amber" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#D97706"/>
+    </marker>
+    <marker id="arrow-red" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#DC2626"/>
+    </marker>
+    <marker id="arrow-blue" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#2563EB"/>
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="740" height="205" rx="10" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="1.2"/>
+  <text x="370" y="25" fill="#0E1F40" font-family="DejaVu Sans" font-size="13.5" font-weight="bold" text-anchor="middle">Combined Work &amp; Cistern Net-Rate Model:  1/T_net = 1/T_A + 1/T_B − 1/T_drain</text>
+<rect x="55" y="58" width="145" height="36" rx="6" fill="#ECFDF5" stroke="#008751" stroke-width="1.8"/>
+<text x="127" y="80" fill="#008751" font-family="DejaVu Sans" font-size="11" font-weight="bold" text-anchor="middle">Tap A: +1/a per hr</text>
+<line x1="200" y1="76" x2="278" y2="96" stroke="#008751" stroke-width="2.8" marker-end="url(#arrow-green)"/>
+<rect x="55" y="114" width="145" height="36" rx="6" fill="#DBEAFE" stroke="#2563EB" stroke-width="1.8"/>
+<text x="127" y="136" fill="#2563EB" font-family="DejaVu Sans" font-size="11" font-weight="bold" text-anchor="middle">Tap B: +1/b per hr</text>
+<line x1="200" y1="132" x2="278" y2="118" stroke="#2563EB" stroke-width="2.8" marker-end="url(#arrow-blue)"/>
+<rect x="285" y="55" width="170" height="125" rx="8" fill="#E0F2FE" stroke="#0E1F40" stroke-width="2.4"/>
+<rect x="287" y="102" width="166" height="76" rx="5" fill="#38BDF8" fill-opacity="0.45"/>
+<text x="370" y="90" fill="#0E1F40" font-family="DejaVu Sans" font-size="12" font-weight="bold" text-anchor="middle">TANK CAPACITY = 1</text>
+<text x="370" y="138" fill="#0E1F40" font-family="DejaVu Sans" font-size="11" font-weight="bold" text-anchor="middle">Net Fraction / hr:</text>
+<text x="370" y="158" fill="#0E1F40" font-family="DejaVu Sans Mono" font-size="11.5" font-weight="bold" text-anchor="middle">R = 1/a + 1/b − 1/c</text>
+<line x1="455" y1="154" x2="532" y2="154" stroke="#DC2626" stroke-width="2.8" marker-end="url(#arrow-red)"/>
+<rect x="538" y="134" width="155" height="40" rx="6" fill="#FEE2E2" stroke="#DC2626" stroke-width="1.8"/>
+<text x="615" y="158" fill="#DC2626" font-family="DejaVu Sans" font-size="11" font-weight="bold" text-anchor="middle">Leak C: −1/c per hr</text>
+<rect x="490" y="55" width="215" height="60" rx="6" fill="#FEF3C7" stroke="#D97706" stroke-width="1.4"/>
+<text x="597" y="76" fill="#0E1F40" font-family="DejaVu Sans" font-size="10.5" font-weight="bold" text-anchor="middle">2-Tap Shortcut (No Leak):</text>
+<text x="597" y="98" fill="#D97706" font-family="DejaVu Sans Mono" font-size="12" font-weight="bold" text-anchor="middle">T = (a × b) / (a + b)</text>
+</svg>
