@@ -13,7 +13,7 @@
       <path d="M 0 1 L 10 5 L 0 9 z" fill="#DC2626"/>
     </marker>
   </defs>
-  <rect x="0" y="0" width="760" height="150" fill="#ECFDF5"/>
+  <rect x="0" y="0" width="760" height="150" fill="#0E1F40"/>
 <rect x="0" y="0" width="760" height="150" rx="10" fill="#ECFDF5" stroke="#008751" stroke-width="1.4"/>
 <rect x="0" y="0" width="760" height="6" rx="3" fill="#008751"/>
 <text x="380" y="46" font-family="DejaVu Sans" font-size="15" fill="#0E1F40" text-anchor="middle" font-weight="bold">MATTER  •  THE MOLE  •  ATOMS  •  BONDING</text>

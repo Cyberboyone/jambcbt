@@ -39,7 +39,7 @@ def cover_banner():
          t(380, 90, "Atomic Structure and Isotopes, the Periodic Table, Chemical Bonding", size=11, fill=SLATE),
          t(380, 120, "240 drill questions · two 40-question CBT mocks · 120-question master bank · 40 rapid-fire pairs",
            size=9.4, fill=MUTED)]
-    write_svg("cover_banner.svg", svg(w, h, "\n".join(b), bg=GREEN_LIGHT))
+    write_svg("cover_banner.svg", svg(w, h, "\n".join(b), bg="#0E1F40"))
 
 
 def utme_weight_chart():
