@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 300" width="760" height="300">
+  <defs>
+    <marker id="ag" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#008751"/>
+    </marker>
+    <marker id="an" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#0E1F40"/>
+    </marker>
+    <marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#D97706"/>
+    </marker>
+    <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#DC2626"/>
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="760" height="300" fill="#FFFFFF"/>
+<text x="380" y="24" font-family="DejaVu Sans" font-size="13.2" fill="#0E1F40" text-anchor="middle" font-weight="bold">A MOTOR NEURONE — STRUCTURE AND FUNCTION</text>
+<line x1="96" y1="150" x2="56" y2="124" stroke="#2563EB" stroke-width="2.4"/>
+<circle cx="56" cy="124" r="3.2" fill="#2563EB"/>
+<line x1="96" y1="150" x2="50" y2="150" stroke="#2563EB" stroke-width="2.4"/>
+<circle cx="50" cy="150" r="3.2" fill="#2563EB"/>
+<line x1="96" y1="150" x2="56" y2="176" stroke="#2563EB" stroke-width="2.4"/>
+<circle cx="56" cy="176" r="3.2" fill="#2563EB"/>
+<line x1="96" y1="150" x2="72" y2="110" stroke="#2563EB" stroke-width="2.4"/>
+<circle cx="72" cy="110" r="3.2" fill="#2563EB"/>
+<line x1="96" y1="150" x2="72" y2="190" stroke="#2563EB" stroke-width="2.4"/>
+<circle cx="72" cy="190" r="3.2" fill="#2563EB"/>
+<circle cx="112" cy="150" r="26" fill="#DBEAFE" stroke="#2563EB" stroke-width="2.0"/>
+<circle cx="112" cy="150" r="9" fill="#7C3AED"/>
+<line x1="138" y1="150" x2="560" y2="150" stroke="#008751" stroke-width="3.2"/>
+<rect x="168" y="135" width="78" height="30" rx="12" fill="#FFFFFF" stroke="#008751" stroke-width="1.8"/>
+<rect x="268" y="135" width="78" height="30" rx="12" fill="#FFFFFF" stroke="#008751" stroke-width="1.8"/>
+<rect x="368" y="135" width="78" height="30" rx="12" fill="#FFFFFF" stroke="#008751" stroke-width="1.8"/>
+<rect x="468" y="135" width="78" height="30" rx="12" fill="#FFFFFF" stroke="#008751" stroke-width="1.8"/>
+<line x1="560" y1="150" x2="596.0" y2="128" stroke="#008751" stroke-width="2.2"/>
+<circle cx="600.0" cy="128" r="5.2" fill="#A7F3D0" stroke="#008751" stroke-width="1.2"/>
+<line x1="560" y1="150" x2="596.0" y2="150" stroke="#008751" stroke-width="2.2"/>
+<circle cx="600.0" cy="150" r="5.2" fill="#A7F3D0" stroke="#008751" stroke-width="1.2"/>
+<line x1="560" y1="150" x2="596.0" y2="172" stroke="#008751" stroke-width="2.2"/>
+<circle cx="600.0" cy="172" r="5.2" fill="#A7F3D0" stroke="#008751" stroke-width="1.2"/>
+<line x1="560" y1="150" x2="599.2" y2="138" stroke="#008751" stroke-width="2.2"/>
+<circle cx="603.2" cy="138" r="5.2" fill="#A7F3D0" stroke="#008751" stroke-width="1.2"/>
+<line x1="560" y1="150" x2="599.2" y2="162" stroke="#008751" stroke-width="2.2"/>
+<circle cx="603.2" cy="162" r="5.2" fill="#A7F3D0" stroke="#008751" stroke-width="1.2"/>
+<text x="70" y="96" font-family="DejaVu Sans" font-size="10" fill="#2563EB" text-anchor="middle" font-weight="bold">Dendrites</text>
+<line x1="78" y1="100" x2="96" y2="124" stroke="#2563EB" stroke-width="1.0"/>
+<text x="112" y="208" font-family="DejaVu Sans" font-size="10" fill="#0E1F40" text-anchor="middle" font-weight="bold">Cell body</text>
+<line x1="112" y1="196" x2="112" y2="176" stroke="#0E1F40" stroke-width="1.0"/>
+<text x="112" y="226" font-family="DejaVu Sans" font-size="8.6" fill="#64748B" text-anchor="middle" font-weight="normal">(nucleus inside)</text>
+<text x="230" y="108" font-family="DejaVu Sans" font-size="10" fill="#008751" text-anchor="middle" font-weight="bold">Myelin sheath</text>
+<line x1="232" y1="112" x2="208" y2="134" stroke="#008751" stroke-width="1.0"/>
+<text x="340" y="92" font-family="DejaVu Sans" font-size="10" fill="#D97706" text-anchor="middle" font-weight="bold">Node of Ranvier</text>
+<line x1="340" y1="96" x2="350" y2="134" stroke="#D97706" stroke-width="1.0"/>
+<text x="300" y="208" font-family="DejaVu Sans" font-size="10" fill="#008751" text-anchor="middle" font-weight="bold">Axon</text>
+<line x1="300" y1="196" x2="320" y2="166" stroke="#008751" stroke-width="1.0"/>
+<text x="640" y="96" font-family="DejaVu Sans" font-size="10" fill="#008751" text-anchor="middle" font-weight="bold">Axon terminals</text>
+<line x1="646" y1="100" x2="622" y2="122" stroke="#008751" stroke-width="1.0"/>
+<text x="660" y="208" font-family="DejaVu Sans" font-size="8.6" fill="#64748B" text-anchor="middle" font-weight="normal">(synapse with the next cell)</text>
+<line x1="600" y1="208" x2="610" y2="178" stroke="#64748B" stroke-width="1.1" marker-end="url(#an)"/>
+<text x="380" y="268" font-family="DejaVu Sans" font-size="9.4" fill="#64748B" text-anchor="middle" font-weight="normal">Impulse direction: dendrites → cell body → axon → axon terminals (one way only).</text>
+</svg>

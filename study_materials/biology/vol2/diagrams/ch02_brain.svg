@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 350" width="760" height="350">
+  <defs>
+    <marker id="ag" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#008751"/>
+    </marker>
+    <marker id="an" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#0E1F40"/>
+    </marker>
+    <marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#D97706"/>
+    </marker>
+    <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#DC2626"/>
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="760" height="350" fill="#FFFFFF"/>
+<text x="380" y="26" font-family="DejaVu Sans" font-size="13.0" fill="#0E1F40" text-anchor="middle" font-weight="bold">THE HUMAN BRAIN IN SECTION — THE PARTS THE EXAMINER ASKS FOR</text>
+<ellipse cx="300" cy="130" rx="168" ry="84" fill="#DBEAFE" stroke="#2563EB" stroke-width="2.2"/>
+<path d="M 168 84 q 56 -20 112 0 t 112 0" fill="none" stroke="#2563EB" stroke-width="1.1" stroke-linecap="round"/>
+<path d="M 168 116 q 56 -20 112 0 t 112 0" fill="none" stroke="#2563EB" stroke-width="1.1" stroke-linecap="round"/>
+<path d="M 168 148 q 56 -20 112 0 t 112 0" fill="none" stroke="#2563EB" stroke-width="1.1" stroke-linecap="round"/>
+<ellipse cx="512" cy="200" rx="78" ry="46" fill="#EDE9FE" stroke="#7C3AED" stroke-width="2.2"/>
+<path d="M 442 182 q 62 -8 132 0" fill="none" stroke="#7C3AED" stroke-width="1.0" stroke-linecap="round"/>
+<path d="M 452 196 q 62 -8 132 0" fill="none" stroke="#7C3AED" stroke-width="1.0" stroke-linecap="round"/>
+<path d="M 462 210 q 62 -8 132 0" fill="none" stroke="#7C3AED" stroke-width="1.0" stroke-linecap="round"/>
+<polygon points="396,208 432,208 438,250 418,290 396,250" fill="#FFFFFF" stroke="#008751" stroke-width="2.0"/>
+<rect x="400" y="286" width="36" height="24" rx="3" fill="#FFFFFF" stroke="#008751" stroke-width="2.0"/>
+<circle cx="352" cy="196" r="13" fill="#FEF3C7" stroke="#D97706" stroke-width="1.8"/>
+<circle cx="348" cy="230" r="7" fill="#FEE2E2" stroke="#DC2626" stroke-width="1.6"/>
+<text x="196" y="58" font-family="DejaVu Sans" font-size="11" fill="#2563EB" text-anchor="end" font-weight="bold">Cerebrum</text>
+<line x1="202" y1="54" x2="246" y2="74" stroke="#2563EB" stroke-width="1.0"/>
+<text x="286" y="178" font-family="DejaVu Sans" font-size="10.2" fill="#D97706" text-anchor="end" font-weight="bold">Hypothalamus</text>
+<line x1="292" y1="182" x2="340" y2="194" stroke="#D97706" stroke-width="1.0"/>
+<text x="286" y="250" font-family="DejaVu Sans" font-size="10.2" fill="#DC2626" text-anchor="end" font-weight="bold">Pituitary gland</text>
+<line x1="292" y1="246" x2="340" y2="232" stroke="#DC2626" stroke-width="1.0"/>
+<text x="604" y="176" font-family="DejaVu Sans" font-size="11" fill="#7C3AED" text-anchor="start" font-weight="bold">Cerebellum</text>
+<line x1="598" y1="180" x2="562" y2="190" stroke="#7C3AED" stroke-width="1.0"/>
+<text x="470" y="262" font-family="DejaVu Sans" font-size="10.2" fill="#008751" text-anchor="start" font-weight="bold">Medulla oblongata</text>
+<line x1="464" y1="258" x2="434" y2="246" stroke="#008751" stroke-width="1.0"/>
+<text x="470" y="312" font-family="DejaVu Sans" font-size="10.2" fill="#008751" text-anchor="start" font-weight="bold">Spinal cord</text>
+<line x1="464" y1="306" x2="438" y2="298" stroke="#008751" stroke-width="1.0"/>
+<rect x="24" y="320" width="712" height="24" rx="6" fill="#ECFDF5" stroke="#008751" stroke-width="1.1"/>
+<text x="380" y="336" font-family="DejaVu Sans" font-size="8.6" fill="#334155" text-anchor="middle" font-weight="normal">Cerebrum = thinking, memory, voluntary movement · Cerebellum = balance and coordination · Medulla = breathing, heart rate</text>
+</svg>

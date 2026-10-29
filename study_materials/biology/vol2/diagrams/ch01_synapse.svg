@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 300" width="760" height="300">
+  <defs>
+    <marker id="ag" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#008751"/>
+    </marker>
+    <marker id="an" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#0E1F40"/>
+    </marker>
+    <marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#D97706"/>
+    </marker>
+    <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#DC2626"/>
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="760" height="300" fill="#FFFFFF"/>
+<text x="380" y="24" font-family="DejaVu Sans" font-size="13.2" fill="#0E1F40" text-anchor="middle" font-weight="bold">THE SYNAPSE — HOW AN IMPULSE CROSSES THE GAP</text>
+<polygon points="70,70 250,90 250,210 70,230" fill="#DBEAFE" stroke="#2563EB" stroke-width="2.0"/>
+<circle cx="110" cy="110" r="11" fill="#FFFFFF" stroke="#2563EB" stroke-width="1.3"/>
+<circle cx="110" cy="110" r="3.4" fill="#2563EB"/>
+<circle cx="110" cy="160" r="11" fill="#FFFFFF" stroke="#2563EB" stroke-width="1.3"/>
+<circle cx="110" cy="160" r="3.4" fill="#2563EB"/>
+<circle cx="110" cy="200" r="11" fill="#FFFFFF" stroke="#2563EB" stroke-width="1.3"/>
+<circle cx="110" cy="200" r="3.4" fill="#2563EB"/>
+<circle cx="160" cy="120" r="11" fill="#FFFFFF" stroke="#2563EB" stroke-width="1.3"/>
+<circle cx="160" cy="120" r="3.4" fill="#2563EB"/>
+<circle cx="160" cy="175" r="11" fill="#FFFFFF" stroke="#2563EB" stroke-width="1.3"/>
+<circle cx="160" cy="175" r="3.4" fill="#2563EB"/>
+<circle cx="205" cy="140" r="11" fill="#FFFFFF" stroke="#2563EB" stroke-width="1.3"/>
+<circle cx="205" cy="140" r="3.4" fill="#2563EB"/>
+<circle cx="205" cy="190" r="11" fill="#FFFFFF" stroke="#2563EB" stroke-width="1.3"/>
+<circle cx="205" cy="190" r="3.4" fill="#2563EB"/>
+<rect x="252" y="60" width="46" height="180" rx="0" fill="#F8FAFC" stroke="#CBD5E1" stroke-width="1.0" stroke-dasharray="4 3"/>
+<polygon points="300,60 700,60 700,240 300,240" fill="#ECFDF5" stroke="#008751" stroke-width="2.0"/>
+<rect x="292" y="87" width="26" height="26" rx="4" fill="#FFFFFF" stroke="#008751" stroke-width="1.4"/>
+<rect x="292" y="135" width="26" height="26" rx="4" fill="#FFFFFF" stroke="#008751" stroke-width="1.4"/>
+<rect x="292" y="183" width="26" height="26" rx="4" fill="#FFFFFF" stroke="#008751" stroke-width="1.4"/>
+<circle cx="265" cy="128" r="5.4" fill="#D97706"/>
+<circle cx="280" cy="150" r="5.4" fill="#D97706"/>
+<circle cx="270" cy="178" r="5.4" fill="#D97706"/>
+<line x1="232" y1="150" x2="262" y2="150" stroke="#D97706" stroke-width="2.0" marker-end="url(#aa)"/>
+<line x1="330" y1="148" x2="452" y2="148" stroke="#008751" stroke-width="2.0" marker-end="url(#ag)"/>
+<text x="150" y="258" font-family="DejaVu Sans" font-size="10.2" fill="#2563EB" text-anchor="middle" font-weight="bold">Presynaptic knob</text>
+<text x="150" y="274" font-family="DejaVu Sans" font-size="8.8" fill="#64748B" text-anchor="middle" font-weight="normal">vesicles of transmitter</text>
+<text x="275" y="46" font-family="DejaVu Sans" font-size="10.2" fill="#0E1F40" text-anchor="middle" font-weight="bold">Synaptic cleft</text>
+<text x="500" y="40" font-family="DejaVu Sans" font-size="10.2" fill="#008751" text-anchor="middle" font-weight="bold">Postsynaptic membrane (next neurone)</text>
+<text x="400" y="272" font-family="DejaVu Sans" font-size="9.2" fill="#64748B" text-anchor="middle" font-weight="normal">Receptor proteins pick up the transmitter and start a new impulse.</text>
+<text x="392" y="108" font-family="DejaVu Sans" font-size="9.4" fill="#D97706" text-anchor="middle" font-weight="normal">Transmitter released by exocytosis</text>
+<text x="392" y="136" font-family="DejaVu Sans" font-size="9.4" fill="#008751" text-anchor="middle" font-weight="normal">New impulse in the next neurone</text>
+<text x="560" y="232" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="middle" font-weight="normal">Transmitter is destroyed by an enzyme, so the signal stops</text>
+</svg>

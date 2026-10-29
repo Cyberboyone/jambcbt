@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 400" width="760" height="400">
+  <defs>
+    <marker id="ag" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#008751"/>
+    </marker>
+    <marker id="an" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#0E1F40"/>
+    </marker>
+    <marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#D97706"/>
+    </marker>
+    <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#DC2626"/>
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="760" height="400" fill="#FFFFFF"/>
+<text x="380" y="26" font-family="DejaVu Sans" font-size="13.0" fill="#0E1F40" text-anchor="middle" font-weight="bold">THE HUMAN EYE IN SECTION — LATERAL VIEW</text>
+<circle cx="372" cy="200" r="122" fill="#FFFFFF" stroke="#334155" stroke-width="2.4"/>
+<circle cx="372" cy="200" r="113" fill="none" stroke="#D97706" stroke-width="5.0"/>
+<circle cx="372" cy="200" r="105" fill="none" stroke="#2563EB" stroke-width="4.0"/>
+<circle cx="372" cy="200" r="98" fill="#F8FAFC"/>
+<path d="M 286 116 Q 220 200 286 284" fill="#ECFDF5" stroke="#008751" stroke-width="2.4" stroke-linecap="round"/>
+<ellipse cx="308" cy="200" rx="24" ry="54" fill="#DBEAFE" stroke="#2563EB" stroke-width="2.2"/>
+<polygon points="332,122 306,134 306,160 332,150" fill="#FFFFFF" stroke="#0E1F40" stroke-width="1.6"/>
+<polygon points="332,278 306,266 306,240 332,250" fill="#FFFFFF" stroke="#0E1F40" stroke-width="1.6"/>
+<path d="M 312 138 L 364 108" fill="none" stroke="#D97706" stroke-width="3.0" stroke-linecap="round"/>
+<path d="M 312 262 L 364 292" fill="none" stroke="#D97706" stroke-width="3.0" stroke-linecap="round"/>
+<path d="M 476 246 q 66 26 118 44" fill="none" stroke="#7C3AED" stroke-width="9" stroke-linecap="round"/>
+<text x="208" y="92" font-family="DejaVu Sans" font-size="10.6" fill="#D97706" text-anchor="end" font-weight="bold">Ciliary body</text>
+<line x1="212" y1="88" x2="336" y2="124" stroke="#D97706" stroke-width="1.0"/>
+<text x="208" y="132" font-family="DejaVu Sans" font-size="10.6" fill="#008751" text-anchor="end" font-weight="bold">Cornea</text>
+<line x1="212" y1="128" x2="240" y2="148" stroke="#008751" stroke-width="1.0"/>
+<text x="208" y="196" font-family="DejaVu Sans" font-size="10.6" fill="#0E1F40" text-anchor="end" font-weight="bold">Iris and pupil</text>
+<line x1="212" y1="192" x2="300" y2="160" stroke="#0E1F40" stroke-width="1.0"/>
+<text x="208" y="252" font-family="DejaVu Sans" font-size="10.6" fill="#2563EB" text-anchor="end" font-weight="bold">Lens</text>
+<line x1="212" y1="248" x2="300" y2="238" stroke="#2563EB" stroke-width="1.0"/>
+<text x="520" y="140" font-family="DejaVu Sans" font-size="10.6" fill="#2563EB" text-anchor="start" font-weight="bold">Retina</text>
+<line x1="516" y1="136" x2="478" y2="150" stroke="#2563EB" stroke-width="1.0"/>
+<text x="604" y="274" font-family="DejaVu Sans" font-size="10.6" fill="#7C3AED" text-anchor="start" font-weight="bold">Optic nerve</text>
+<line x1="600" y1="270" x2="566" y2="258" stroke="#7C3AED" stroke-width="1.0"/>
+<text x="536" y="306" font-family="DejaVu Sans" font-size="10.6" fill="#334155" text-anchor="start" font-weight="bold">Sclera (outer coat)</text>
+<line x1="532" y1="302" x2="462" y2="276" stroke="#334155" stroke-width="1.0"/>
+<rect x="24" y="352" width="712" height="34" rx="6" fill="#ECFDF5" stroke="#008751" stroke-width="1.1"/>
+<text x="380" y="368" font-family="DejaVu Sans" font-size="9.0" fill="#334155" text-anchor="middle" font-weight="normal">Light path: cornea → aqueous humour → pupil → lens → vitreous humour → retina → optic nerve → brain.</text>
+<text x="380" y="382" font-family="DejaVu Sans" font-size="8.8" fill="#64748B" text-anchor="middle" font-weight="normal">The cornea does most of the bending; the lens adjusts the focus (accommodation).</text>
+</svg>

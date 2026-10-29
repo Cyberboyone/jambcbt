@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 250" width="760" height="250">
+  <defs>
+    <marker id="ag" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#008751"/>
+    </marker>
+    <marker id="an" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#0E1F40"/>
+    </marker>
+    <marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#D97706"/>
+    </marker>
+    <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#DC2626"/>
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="760" height="250" fill="#FFFFFF"/>
+<text x="380" y="24" font-family="DejaVu Sans" font-size="13.0" fill="#0E1F40" text-anchor="middle" font-weight="bold">FROM STIMULUS TO RESPONSE — THE PATHWAY OF AN IMPULSE</text>
+<rect x="14" y="62" width="88" height="96" rx="8" fill="#FFFFFF" stroke="#D97706" stroke-width="1.6"/>
+<rect x="14" y="62" width="88" height="5" rx="2.5" fill="#D97706"/>
+<text x="58" y="92" font-family="DejaVu Sans" font-size="10.0" fill="#D97706" text-anchor="middle" font-weight="bold">STIMULUS</text>
+<text x="58" y="128" font-family="DejaVu Sans" font-size="7.8" fill="#64748B" text-anchor="middle" font-weight="normal">heat, light,</text>
+<text x="58" y="139" font-family="DejaVu Sans" font-size="7.8" fill="#64748B" text-anchor="middle" font-weight="normal">pressure</text>
+<line x1="104" y1="110" x2="120" y2="110" stroke="#64748B" stroke-width="1.6" marker-end="url(#an)"/>
+<rect x="120" y="62" width="88" height="96" rx="8" fill="#FFFFFF" stroke="#D97706" stroke-width="1.6"/>
+<rect x="120" y="62" width="88" height="5" rx="2.5" fill="#D97706"/>
+<text x="164" y="92" font-family="DejaVu Sans" font-size="10.0" fill="#D97706" text-anchor="middle" font-weight="bold">RECEPTOR</text>
+<text x="164" y="128" font-family="DejaVu Sans" font-size="7.8" fill="#64748B" text-anchor="middle" font-weight="normal">skin, retina,</text>
+<text x="164" y="139" font-family="DejaVu Sans" font-size="7.8" fill="#64748B" text-anchor="middle" font-weight="normal">ear</text>
+<line x1="210" y1="110" x2="226" y2="110" stroke="#64748B" stroke-width="1.6" marker-end="url(#an)"/>
+<rect x="226" y="62" width="88" height="96" rx="8" fill="#FFFFFF" stroke="#2563EB" stroke-width="1.6"/>
+<rect x="226" y="62" width="88" height="5" rx="2.5" fill="#2563EB"/>
+<text x="270" y="92" font-family="DejaVu Sans" font-size="10.0" fill="#2563EB" text-anchor="middle" font-weight="bold">SENSORY</text>
+<text x="270" y="105" font-family="DejaVu Sans" font-size="10.0" fill="#2563EB" text-anchor="middle" font-weight="bold">NEURONE</text>
+<text x="270" y="128" font-family="DejaVu Sans" font-size="7.8" fill="#64748B" text-anchor="middle" font-weight="normal">to the CNS</text>
+<line x1="316" y1="110" x2="332" y2="110" stroke="#64748B" stroke-width="1.6" marker-end="url(#an)"/>
+<rect x="332" y="62" width="88" height="96" rx="8" fill="#FFFFFF" stroke="#0E1F40" stroke-width="1.6"/>
+<rect x="332" y="62" width="88" height="5" rx="2.5" fill="#0E1F40"/>
+<text x="376" y="92" font-family="DejaVu Sans" font-size="10.0" fill="#0E1F40" text-anchor="middle" font-weight="bold">CNS</text>
+<text x="376" y="128" font-family="DejaVu Sans" font-size="7.8" fill="#64748B" text-anchor="middle" font-weight="normal">spinal cord</text>
+<text x="376" y="139" font-family="DejaVu Sans" font-size="7.8" fill="#64748B" text-anchor="middle" font-weight="normal">or brain</text>
+<line x1="422" y1="110" x2="438" y2="110" stroke="#64748B" stroke-width="1.6" marker-end="url(#an)"/>
+<rect x="438" y="62" width="88" height="96" rx="8" fill="#FFFFFF" stroke="#008751" stroke-width="1.6"/>
+<rect x="438" y="62" width="88" height="5" rx="2.5" fill="#008751"/>
+<text x="482" y="92" font-family="DejaVu Sans" font-size="10.0" fill="#008751" text-anchor="middle" font-weight="bold">MOTOR</text>
+<text x="482" y="105" font-family="DejaVu Sans" font-size="10.0" fill="#008751" text-anchor="middle" font-weight="bold">NEURONE</text>
+<text x="482" y="128" font-family="DejaVu Sans" font-size="7.8" fill="#64748B" text-anchor="middle" font-weight="normal">away from CNS</text>
+<line x1="528" y1="110" x2="544" y2="110" stroke="#64748B" stroke-width="1.6" marker-end="url(#an)"/>
+<rect x="544" y="62" width="88" height="96" rx="8" fill="#FFFFFF" stroke="#DC2626" stroke-width="1.6"/>
+<rect x="544" y="62" width="88" height="5" rx="2.5" fill="#DC2626"/>
+<text x="588" y="92" font-family="DejaVu Sans" font-size="10.0" fill="#DC2626" text-anchor="middle" font-weight="bold">EFFECTOR</text>
+<text x="588" y="128" font-family="DejaVu Sans" font-size="7.8" fill="#64748B" text-anchor="middle" font-weight="normal">muscle or</text>
+<text x="588" y="139" font-family="DejaVu Sans" font-size="7.8" fill="#64748B" text-anchor="middle" font-weight="normal">gland</text>
+<line x1="634" y1="110" x2="650" y2="110" stroke="#64748B" stroke-width="1.6" marker-end="url(#an)"/>
+<rect x="650" y="62" width="88" height="96" rx="8" fill="#FFFFFF" stroke="#7C3AED" stroke-width="1.6"/>
+<rect x="650" y="62" width="88" height="5" rx="2.5" fill="#7C3AED"/>
+<text x="694" y="92" font-family="DejaVu Sans" font-size="10.0" fill="#7C3AED" text-anchor="middle" font-weight="bold">RESPONSE</text>
+<text x="694" y="128" font-family="DejaVu Sans" font-size="7.8" fill="#64748B" text-anchor="middle" font-weight="normal">movement or</text>
+<text x="694" y="139" font-family="DejaVu Sans" font-size="7.8" fill="#64748B" text-anchor="middle" font-weight="normal">secretion</text>
+<rect x="18" y="176" width="724" height="46" rx="8" fill="#ECFDF5" stroke="#008751" stroke-width="1.2"/>
+<text x="380" y="196" font-family="DejaVu Sans" font-size="9.6" fill="#334155" text-anchor="middle" font-weight="normal">A reflex action is the whole pathway without waiting for the brain: the spinal cord does the linking.</text>
+<text x="380" y="212" font-family="DejaVu Sans" font-size="9.6" fill="#334155" text-anchor="middle" font-weight="normal">Three neurones, one gap each — sensory → relay → motor.</text>
+</svg>
