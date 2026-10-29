@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 268" width="900" height="268">
+  <defs>
+    <marker id="ag" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#008751"/>
+    </marker>
+    <marker id="an" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#0E1F40"/>
+    </marker>
+    <marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#D97706"/>
+    </marker>
+    <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#DC2626"/>
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="900" height="268" fill="#FFFFFF"/>
+<text x="450" y="22" font-family="DejaVu Sans" font-size="12" fill="#0E1F40" text-anchor="middle" font-weight="bold">THE FOUR VARIATIONS AND THEIR EQUATIONS</text>
+<rect x="310" y="42" width="280" height="50" rx="8" fill="#0E1F40" stroke="#0E1F40" stroke-width="1"/>
+<text x="450" y="73" font-family="DejaVu Sans" font-size="13" fill="#FFFFFF" text-anchor="middle" font-weight="bold">y varies ...</text>
+<line x1="360" y1="94" x2="190" y2="130" stroke="#008751" stroke-width="1.6" marker-end="url(#ag)"/>
+<line x1="430" y1="94" x2="390" y2="130" stroke="#2563EB" stroke-width="1.6" marker-end="url(#an)"/>
+<line x1="470" y1="94" x2="520" y2="130" stroke="#D97706" stroke-width="1.6" marker-end="url(#aa)"/>
+<line x1="540" y1="94" x2="700" y2="130" stroke="#DC2626" stroke-width="1.6" marker-end="url(#ar)"/>
+<rect x="20" y="134" width="200" height="92" rx="8" fill="#FFFFFF" stroke="#008751" stroke-width="1.5"/>
+<text x="120" y="156" font-family="DejaVu Sans" font-size="8.8" fill="#008751" text-anchor="middle" font-weight="bold">DIRECTLY as x</text>
+<text x="120" y="188" font-family="DejaVu Sans" font-size="15" fill="#0E1F40" text-anchor="middle" font-weight="bold">y = kx</text>
+<text x="120" y="210" font-family="DejaVu Sans" font-size="8.4" fill="#64748B" text-anchor="middle" font-weight="normal">y/x = k (constant)</text>
+<rect x="240" y="134" width="200" height="92" rx="8" fill="#FFFFFF" stroke="#2563EB" stroke-width="1.5"/>
+<text x="340" y="156" font-family="DejaVu Sans" font-size="8.8" fill="#2563EB" text-anchor="middle" font-weight="bold">INVERSELY as x</text>
+<text x="340" y="188" font-family="DejaVu Sans" font-size="15" fill="#0E1F40" text-anchor="middle" font-weight="bold">y = k/x</text>
+<text x="340" y="210" font-family="DejaVu Sans" font-size="8.4" fill="#64748B" text-anchor="middle" font-weight="normal">xy = k (constant)</text>
+<rect x="460" y="134" width="200" height="92" rx="8" fill="#FFFFFF" stroke="#D97706" stroke-width="1.5"/>
+<text x="560" y="156" font-family="DejaVu Sans" font-size="8.8" fill="#D97706" text-anchor="middle" font-weight="bold">JOINTLY as x and z</text>
+<text x="560" y="188" font-family="DejaVu Sans" font-size="15" fill="#0E1F40" text-anchor="middle" font-weight="bold">y = kxz</text>
+<text x="560" y="210" font-family="DejaVu Sans" font-size="8.4" fill="#64748B" text-anchor="middle" font-weight="normal">y/(xz) = k</text>
+<rect x="680" y="134" width="200" height="92" rx="8" fill="#FFFFFF" stroke="#DC2626" stroke-width="1.5"/>
+<text x="780" y="156" font-family="DejaVu Sans" font-size="8.8" fill="#DC2626" text-anchor="middle" font-weight="bold">PARTLY as x</text>
+<text x="780" y="188" font-family="DejaVu Sans" font-size="15" fill="#0E1F40" text-anchor="middle" font-weight="bold">y = kx + c</text>
+<text x="780" y="210" font-family="DejaVu Sans" font-size="8.4" fill="#64748B" text-anchor="middle" font-weight="normal">linear, not through O</text>
+<text x="450" y="252" font-family="DejaVu Sans" font-size="9.6" fill="#0E1F40" text-anchor="middle" font-weight="normal">Find k from the given pair, then substitute the new value. Never round k before the final answer.</text>
+</svg>

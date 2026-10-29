@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 320" width="900" height="320">
+  <defs>
+    <marker id="ag" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#008751"/>
+    </marker>
+    <marker id="an" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#0E1F40"/>
+    </marker>
+    <marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#D97706"/>
+    </marker>
+    <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#DC2626"/>
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="900" height="320" fill="#FFFFFF"/>
+<text x="450" y="24" font-family="DejaVu Sans" font-size="12" fill="#0E1F40" text-anchor="middle" font-weight="bold">THE SIX FAMILIES AND THEIR FIRST MOVE</text>
+<rect x="20" y="48" width="280" height="122" rx="7" fill="#FFFFFF" stroke="#008751" stroke-width="1.4"/>
+<rect x="20" y="48" width="280" height="5" rx="2.5" fill="#008751"/>
+<text x="160.0" y="72" font-family="DejaVu Sans" font-size="10.5" fill="#0E1F40" text-anchor="middle" font-weight="bold">A.  y = ax + b</text>
+<text x="160.0" y="90" font-family="DejaVu Sans" font-size="9" fill="#334155" text-anchor="middle" font-weight="normal">Subject multiplied, then added.</text>
+<text x="160.0" y="103" font-family="DejaVu Sans" font-size="9" fill="#334155" text-anchor="middle" font-weight="normal">First: subtract b.</text>
+<text x="160.0" y="116" font-family="DejaVu Sans" font-size="9" fill="#334155" text-anchor="middle" font-weight="normal">Then divide by a.</text>
+<rect x="313" y="48" width="280" height="122" rx="7" fill="#FFFFFF" stroke="#2563EB" stroke-width="1.4"/>
+<rect x="313" y="48" width="280" height="5" rx="2.5" fill="#2563EB"/>
+<text x="453.0" y="72" font-family="DejaVu Sans" font-size="10.5" fill="#0E1F40" text-anchor="middle" font-weight="bold">B.  y = a / x</text>
+<text x="453.0" y="90" font-family="DejaVu Sans" font-size="9" fill="#334155" text-anchor="middle" font-weight="normal">Subject in a denominator.</text>
+<text x="453.0" y="103" font-family="DejaVu Sans" font-size="9" fill="#334155" text-anchor="middle" font-weight="normal">First: cross-multiply.</text>
+<text x="453.0" y="116" font-family="DejaVu Sans" font-size="9" fill="#334155" text-anchor="middle" font-weight="normal">Then divide by y.</text>
+<rect x="606" y="48" width="280" height="122" rx="7" fill="#FFFFFF" stroke="#D97706" stroke-width="1.4"/>
+<rect x="606" y="48" width="280" height="5" rx="2.5" fill="#D97706"/>
+<text x="746.0" y="72" font-family="DejaVu Sans" font-size="10.5" fill="#0E1F40" text-anchor="middle" font-weight="bold">C.  ax + bx = c</text>
+<text x="746.0" y="90" font-family="DejaVu Sans" font-size="9" fill="#334155" text-anchor="middle" font-weight="normal">Subject appears twice.</text>
+<text x="746.0" y="103" font-family="DejaVu Sans" font-size="9" fill="#334155" text-anchor="middle" font-weight="normal">First: factorise x out.</text>
+<text x="746.0" y="116" font-family="DejaVu Sans" font-size="9" fill="#334155" text-anchor="middle" font-weight="normal">Never divide it away.</text>
+<rect x="20" y="186" width="280" height="122" rx="7" fill="#FFFFFF" stroke="#7C3AED" stroke-width="1.4"/>
+<rect x="20" y="186" width="280" height="5" rx="2.5" fill="#7C3AED"/>
+<text x="160.0" y="210" font-family="DejaVu Sans" font-size="10.5" fill="#0E1F40" text-anchor="middle" font-weight="bold">D.  T = 2π√(l/g)</text>
+<text x="160.0" y="228" font-family="DejaVu Sans" font-size="9" fill="#334155" text-anchor="middle" font-weight="normal">Subject under a root.</text>
+<text x="160.0" y="241" font-family="DejaVu Sans" font-size="9" fill="#334155" text-anchor="middle" font-weight="normal">First: divide, then square</text>
+<text x="160.0" y="254" font-family="DejaVu Sans" font-size="9" fill="#334155" text-anchor="middle" font-weight="normal">the whole side; then invert.</text>
+<rect x="313" y="186" width="280" height="122" rx="7" fill="#FFFFFF" stroke="#DC2626" stroke-width="1.4"/>
+<rect x="313" y="186" width="280" height="5" rx="2.5" fill="#DC2626"/>
+<text x="453.0" y="210" font-family="DejaVu Sans" font-size="10.5" fill="#0E1F40" text-anchor="middle" font-weight="bold">E.  y = aˣ</text>
+<text x="453.0" y="228" font-family="DejaVu Sans" font-size="9" fill="#334155" text-anchor="middle" font-weight="normal">Subject in the exponent.</text>
+<text x="453.0" y="241" font-family="DejaVu Sans" font-size="9" fill="#334155" text-anchor="middle" font-weight="normal">First: take logarithms</text>
+<text x="453.0" y="254" font-family="DejaVu Sans" font-size="9" fill="#334155" text-anchor="middle" font-weight="normal">of both sides.</text>
+<rect x="606" y="186" width="280" height="122" rx="7" fill="#FFFFFF" stroke="#334155" stroke-width="1.4"/>
+<rect x="606" y="186" width="280" height="5" rx="2.5" fill="#334155"/>
+<text x="746.0" y="210" font-family="DejaVu Sans" font-size="10.5" fill="#0E1F40" text-anchor="middle" font-weight="bold">F.  2πr² + 2πhr = A</text>
+<text x="746.0" y="228" font-family="DejaVu Sans" font-size="9" fill="#334155" text-anchor="middle" font-weight="normal">Subject squared and linear.</text>
+<text x="746.0" y="241" font-family="DejaVu Sans" font-size="9" fill="#334155" text-anchor="middle" font-weight="normal">First: arrange as a</text>
+<text x="746.0" y="254" font-family="DejaVu Sans" font-size="9" fill="#334155" text-anchor="middle" font-weight="normal">quadratic; keep the valid root.</text>
+</svg>

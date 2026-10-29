@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 230" width="900" height="230">
+  <defs>
+    <marker id="ag" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#008751"/>
+    </marker>
+    <marker id="an" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#0E1F40"/>
+    </marker>
+    <marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#D97706"/>
+    </marker>
+    <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#DC2626"/>
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="900" height="230" fill="#FFFFFF"/>
+<text x="450" y="24" font-family="DejaVu Sans" font-size="12" fill="#0E1F40" text-anchor="middle" font-weight="bold">ONE QUADRATIC, THREE DISGUISES</text>
+<rect x="20" y="54" width="260" height="120" rx="8" fill="#FFFFFF" stroke="#008751" stroke-width="1.5"/>
+<text x="150" y="78" font-family="DejaVu Sans" font-size="9.6" fill="#008751" text-anchor="middle" font-weight="bold">STANDARD</text>
+<text x="150" y="104" font-family="DejaVu Sans" font-size="13" fill="#0E1F40" text-anchor="middle" font-weight="bold">y = ax² + bx + c</text>
+<text x="150" y="128" font-family="DejaVu Sans" font-size="9" fill="#64748B" text-anchor="middle" font-weight="normal">2x² − 8x + 6</text>
+<text x="150" y="144" font-family="DejaVu Sans" font-size="9" fill="#64748B" text-anchor="middle" font-weight="normal">read c as the y-intercept</text>
+<rect x="320" y="54" width="260" height="120" rx="8" fill="#FFFFFF" stroke="#2563EB" stroke-width="1.5"/>
+<text x="450" y="78" font-family="DejaVu Sans" font-size="9.6" fill="#2563EB" text-anchor="middle" font-weight="bold">FACTORISED</text>
+<text x="450" y="104" font-family="DejaVu Sans" font-size="13" fill="#0E1F40" text-anchor="middle" font-weight="bold">y = a(x − p)(x − q)</text>
+<text x="450" y="128" font-family="DejaVu Sans" font-size="9" fill="#64748B" text-anchor="middle" font-weight="normal">2(x − 1)(x − 3)</text>
+<text x="450" y="144" font-family="DejaVu Sans" font-size="9" fill="#64748B" text-anchor="middle" font-weight="normal">read p, q as the roots</text>
+<rect x="620" y="54" width="260" height="120" rx="8" fill="#FFFFFF" stroke="#7C3AED" stroke-width="1.5"/>
+<text x="750" y="78" font-family="DejaVu Sans" font-size="9.6" fill="#7C3AED" text-anchor="middle" font-weight="bold">VERTEX</text>
+<text x="750" y="104" font-family="DejaVu Sans" font-size="13" fill="#0E1F40" text-anchor="middle" font-weight="bold">y = a(x − h)² + k</text>
+<text x="750" y="128" font-family="DejaVu Sans" font-size="9" fill="#64748B" text-anchor="middle" font-weight="normal">2(x − 2)² − 2</text>
+<text x="750" y="144" font-family="DejaVu Sans" font-size="9" fill="#64748B" text-anchor="middle" font-weight="normal">read (h, k) as the turning point</text>
+<line x1="282" y1="114" x2="318" y2="114" stroke="#D97706" stroke-width="1.6" marker-end="url(#aa)"/>
+<line x1="602" y1="114" x2="618" y2="114" stroke="#D97706" stroke-width="1.6" marker-end="url(#aa)"/>
+<text x="300" y="100" font-family="DejaVu Sans" font-size="8.6" fill="#D97706" text-anchor="middle" font-weight="normal">expand</text>
+<text x="610" y="100" font-family="DejaVu Sans" font-size="8.6" fill="#D97706" text-anchor="middle" font-weight="normal">complete</text>
+<text x="610" y="142" font-family="DejaVu Sans" font-size="8.6" fill="#D97706" text-anchor="middle" font-weight="normal">the square</text>
+<text x="450" y="210" font-family="DejaVu Sans" font-size="9.6" fill="#64748B" text-anchor="middle" font-weight="normal">All three describe the same parabola: a = 2 (upright, narrow), vertex (2, −2), roots 1 and 3.</text>
+</svg>

@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 276" width="860" height="276">
+  <defs>
+    <marker id="ag" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#008751"/>
+    </marker>
+    <marker id="an" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#0E1F40"/>
+    </marker>
+    <marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#D97706"/>
+    </marker>
+    <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#DC2626"/>
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="860" height="276" fill="#FFFFFF"/>
+<text x="430" y="22" font-family="DejaVu Sans" font-size="12" fill="#0E1F40" text-anchor="middle" font-weight="bold">GAUSS PAIRING: Sₙ = n/2 (a + l)</text>
+<circle cx="110" cy="74" r="15" fill="#ECFDF5" stroke="#008751" stroke-width="1.3"/>
+<text x="110" y="79" font-family="DejaVu Sans" font-size="10" fill="#008751" text-anchor="middle" font-weight="bold">3</text>
+<circle cx="168" cy="74" r="15" fill="#ECFDF5" stroke="#008751" stroke-width="1.3"/>
+<text x="168" y="79" font-family="DejaVu Sans" font-size="10" fill="#008751" text-anchor="middle" font-weight="bold">5</text>
+<circle cx="226" cy="74" r="15" fill="#ECFDF5" stroke="#008751" stroke-width="1.3"/>
+<text x="226" y="79" font-family="DejaVu Sans" font-size="10" fill="#008751" text-anchor="middle" font-weight="bold">7</text>
+<circle cx="284" cy="74" r="15" fill="#ECFDF5" stroke="#008751" stroke-width="1.3"/>
+<text x="284" y="79" font-family="DejaVu Sans" font-size="10" fill="#008751" text-anchor="middle" font-weight="bold">9</text>
+<circle cx="342" cy="74" r="15" fill="#ECFDF5" stroke="#008751" stroke-width="1.3"/>
+<text x="342" y="79" font-family="DejaVu Sans" font-size="10" fill="#008751" text-anchor="middle" font-weight="bold">11</text>
+<circle cx="400" cy="74" r="15" fill="#ECFDF5" stroke="#008751" stroke-width="1.3"/>
+<text x="400" y="79" font-family="DejaVu Sans" font-size="10" fill="#008751" text-anchor="middle" font-weight="bold">13</text>
+<circle cx="458" cy="74" r="15" fill="#ECFDF5" stroke="#008751" stroke-width="1.3"/>
+<text x="458" y="79" font-family="DejaVu Sans" font-size="10" fill="#008751" text-anchor="middle" font-weight="bold">15</text>
+<circle cx="516" cy="74" r="15" fill="#ECFDF5" stroke="#008751" stroke-width="1.3"/>
+<text x="516" y="79" font-family="DejaVu Sans" font-size="10" fill="#008751" text-anchor="middle" font-weight="bold">17</text>
+<circle cx="574" cy="74" r="15" fill="#ECFDF5" stroke="#008751" stroke-width="1.3"/>
+<text x="574" y="79" font-family="DejaVu Sans" font-size="10" fill="#008751" text-anchor="middle" font-weight="bold">19</text>
+<circle cx="632" cy="74" r="15" fill="#ECFDF5" stroke="#008751" stroke-width="1.3"/>
+<text x="632" y="79" font-family="DejaVu Sans" font-size="10" fill="#008751" text-anchor="middle" font-weight="bold">21</text>
+<text x="371.0" y="40" font-family="DejaVu Sans" font-size="9.4" fill="#64748B" text-anchor="middle" font-weight="normal">first term a = 3  ...  last term l = 21</text>
+<path d="M 110 94 Q 371.0 148 632 94" fill="none" stroke="#2563EB" stroke-width="1.2" opacity="0.75"/>
+<path d="M 168 94 Q 371.0 157 574 94" fill="none" stroke="#2563EB" stroke-width="1.2" opacity="0.75"/>
+<path d="M 226 94 Q 371.0 166 516 94" fill="none" stroke="#2563EB" stroke-width="1.2" opacity="0.75"/>
+<path d="M 284 94 Q 371.0 175 458 94" fill="none" stroke="#2563EB" stroke-width="1.2" opacity="0.75"/>
+<path d="M 342 94 Q 371.0 184 400 94" fill="none" stroke="#2563EB" stroke-width="1.2" opacity="0.75"/>
+<text x="430" y="168" font-family="DejaVu Sans" font-size="10.4" fill="#0E1F40" text-anchor="middle" font-weight="normal">Each pair sums to a + l = 24.  There are n/2 pairs.</text>
+<rect x="180" y="188" width="500" height="48" rx="8" fill="#ECFDF5" stroke="#008751" stroke-width="1.3"/>
+<text x="430" y="218" font-family="DejaVu Sans" font-size="14" fill="#008751" text-anchor="middle" font-weight="bold">S₁₀ = 10/2 × (3 + 21) = 5 × 24 = 120</text>
+<text x="430" y="262" font-family="DejaVu Sans" font-size="9" fill="#64748B" text-anchor="middle" font-weight="normal">Check: Sₙ = n/2 [2a + (n − 1)d] = 5[6 + 18] = 120 ✓</text>
+</svg>

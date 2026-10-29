@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 256" width="900" height="256">
+  <defs>
+    <marker id="ag" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#008751"/>
+    </marker>
+    <marker id="an" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#0E1F40"/>
+    </marker>
+    <marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#D97706"/>
+    </marker>
+    <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#DC2626"/>
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="900" height="256" fill="#FFFFFF"/>
+<text x="450" y="22" font-family="DejaVu Sans" font-size="12" fill="#0E1F40" text-anchor="middle" font-weight="bold">SOLVING A MATRIX EQUATION</text>
+<rect x="20" y="54" width="196" height="108" rx="8" fill="#FFFFFF" stroke="#0E1F40" stroke-width="1.5"/>
+<text x="118" y="92" font-family="DejaVu Sans" font-size="17" fill="#0E1F40" text-anchor="middle" font-weight="bold">AX = B</text>
+<text x="118" y="120" font-family="DejaVu Sans" font-size="8.6" fill="#64748B" text-anchor="middle" font-weight="normal">the system written</text>
+<text x="118" y="135" font-family="DejaVu Sans" font-size="8.6" fill="#64748B" text-anchor="middle" font-weight="normal">as one matrix equation</text>
+<line x1="218" y1="108" x2="234" y2="108" stroke="#D97706" stroke-width="1.4" marker-end="url(#aa)"/>
+<rect x="238" y="54" width="196" height="108" rx="8" fill="#FFFFFF" stroke="#2563EB" stroke-width="1.5"/>
+<text x="336" y="92" font-family="DejaVu Sans" font-size="17" fill="#2563EB" text-anchor="middle" font-weight="bold">A⁻¹AX = A⁻¹B</text>
+<text x="336" y="120" font-family="DejaVu Sans" font-size="8.6" fill="#64748B" text-anchor="middle" font-weight="normal">multiply BOTH sides</text>
+<text x="336" y="135" font-family="DejaVu Sans" font-size="8.6" fill="#64748B" text-anchor="middle" font-weight="normal">on the LEFT by A⁻¹</text>
+<line x1="436" y1="108" x2="452" y2="108" stroke="#D97706" stroke-width="1.4" marker-end="url(#aa)"/>
+<rect x="456" y="54" width="196" height="108" rx="8" fill="#FFFFFF" stroke="#D97706" stroke-width="1.5"/>
+<text x="554" y="92" font-family="DejaVu Sans" font-size="17" fill="#D97706" text-anchor="middle" font-weight="bold">IX = A⁻¹B</text>
+<text x="554" y="120" font-family="DejaVu Sans" font-size="8.6" fill="#64748B" text-anchor="middle" font-weight="normal">A⁻¹A = I, the identity</text>
+<line x1="654" y1="108" x2="670" y2="108" stroke="#D97706" stroke-width="1.4" marker-end="url(#aa)"/>
+<rect x="674" y="54" width="196" height="108" rx="8" fill="#FFFFFF" stroke="#008751" stroke-width="1.5"/>
+<text x="772" y="92" font-family="DejaVu Sans" font-size="17" fill="#008751" text-anchor="middle" font-weight="bold">X = A⁻¹B</text>
+<text x="772" y="120" font-family="DejaVu Sans" font-size="8.6" fill="#64748B" text-anchor="middle" font-weight="normal">the solution vector</text>
+<rect x="120" y="186" width="660" height="56" rx="8" fill="#FEE2E2" stroke="#DC2626" stroke-width="1.3"/>
+<text x="450" y="210" font-family="DejaVu Sans" font-size="10.2" fill="#DC2626" text-anchor="middle" font-weight="bold">CRITICAL: matrix multiplication is NOT commutative — never multiply on the right.</text>
+<text x="450" y="232" font-family="DejaVu Sans" font-size="9.2" fill="#64748B" text-anchor="middle" font-weight="normal">If det A = 0, A⁻¹ does not exist and the system has no unique solution.</text>
+</svg>

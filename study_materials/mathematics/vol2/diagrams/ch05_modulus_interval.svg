@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 250" width="900" height="250">
+  <defs>
+    <marker id="ag" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#008751"/>
+    </marker>
+    <marker id="an" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#0E1F40"/>
+    </marker>
+    <marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#D97706"/>
+    </marker>
+    <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#DC2626"/>
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="900" height="250" fill="#FFFFFF"/>
+<text x="450" y="22" font-family="DejaVu Sans" font-size="12" fill="#0E1F40" text-anchor="middle" font-weight="bold">MODULUS AS A DISTANCE:  |x − 2| &lt; 3</text>
+<line x1="120" y1="120" x2="780" y2="120" stroke="#334155" stroke-width="1.4"/>
+<line x1="240" y1="112" x2="240" y2="128" stroke="#334155" stroke-width="1.2"/>
+<text x="240" y="146" font-family="DejaVu Sans" font-size="9.4" fill="#64748B" text-anchor="middle" font-weight="normal">-1</text>
+<line x1="465" y1="112" x2="465" y2="128" stroke="#334155" stroke-width="1.2"/>
+<text x="465" y="146" font-family="DejaVu Sans" font-size="9.4" fill="#64748B" text-anchor="middle" font-weight="normal">2</text>
+<line x1="690" y1="112" x2="690" y2="128" stroke="#334155" stroke-width="1.2"/>
+<text x="690" y="146" font-family="DejaVu Sans" font-size="9.4" fill="#64748B" text-anchor="middle" font-weight="normal">5</text>
+<line x1="240" y1="120" x2="690" y2="120" stroke="#008751" stroke-width="4"/>
+<circle cx="240" cy="120" r="6" fill="#FFFFFF" stroke="#008751" stroke-width="2"/>
+<circle cx="690" cy="120" r="6" fill="#FFFFFF" stroke="#008751" stroke-width="2"/>
+<line x1="390" y1="74" x2="690" y2="74" stroke="#D97706" stroke-width="1.4"/>
+<line x1="390" y1="74" x2="380" y2="74" stroke="#D97706" stroke-width="1.4" marker-end="url(#aa)"/>
+<text x="540" y="66" font-family="DejaVu Sans" font-size="9.4" fill="#D97706" text-anchor="middle" font-weight="normal">distance 3 on each side of 2</text>
+<circle cx="390" cy="120" r="4" fill="#0E1F40"/>
+<text x="390" y="50" font-family="DejaVu Sans" font-size="9.4" fill="#0E1F40" text-anchor="middle" font-weight="bold">centre x = 2</text>
+<text x="450" y="200" font-family="DejaVu Sans" font-size="13" fill="#008751" text-anchor="middle" font-weight="bold">−1 &lt; x &lt; 5, i.e. x ∈ (−1, 5)</text>
+<text x="450" y="232" font-family="DejaVu Sans" font-size="9.6" fill="#64748B" text-anchor="middle" font-weight="normal">|x − 2| &gt; 3 would mean x &lt; −1 or x &gt; 5 — the two outer rays.</text>
+</svg>

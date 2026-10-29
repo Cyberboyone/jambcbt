@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 780 320" width="780" height="320">
+  <defs>
+    <marker id="ag" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#008751"/>
+    </marker>
+    <marker id="an" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#0E1F40"/>
+    </marker>
+    <marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#D97706"/>
+    </marker>
+    <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#DC2626"/>
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="780" height="320" fill="#FFFFFF"/>
+<text x="400" y="24" font-family="DejaVu Sans" font-size="12" fill="#0E1F40" text-anchor="middle" font-weight="bold">COMPLETING THE SQUARE AS A PICTURE:  x² + bx</text>
+<rect x="70" y="60" width="150" height="150" rx="4" fill="#ECFDF5" stroke="#008751" stroke-width="1.4"/>
+<text x="145" y="140" font-family="DejaVu Sans" font-size="20" fill="#008751" text-anchor="middle" font-weight="bold">x²</text>
+<text x="145" y="48" font-family="DejaVu Sans" font-size="11" fill="#008751" text-anchor="middle" font-weight="normal">x</text>
+<text x="58" y="140" font-family="DejaVu Sans" font-size="11" fill="#008751" text-anchor="middle" font-weight="normal">x</text>
+<rect x="220" y="60" width="75" height="150" rx="4" fill="#DBEAFE" stroke="#2563EB" stroke-width="1.4"/>
+<text x="257" y="140" font-family="DejaVu Sans" font-size="13" fill="#2563EB" text-anchor="middle" font-weight="bold">½bx</text>
+<rect x="70" y="210" width="150" height="75" rx="4" fill="#DBEAFE" stroke="#2563EB" stroke-width="1.4"/>
+<text x="145" y="253" font-family="DejaVu Sans" font-size="13" fill="#2563EB" text-anchor="middle" font-weight="bold">½bx</text>
+<rect x="220" y="210" width="75" height="75" rx="4" fill="#FEF3C7" stroke="#D97706" stroke-width="1.4"/>
+<text x="257" y="253" font-family="DejaVu Sans" font-size="13" fill="#D97706" text-anchor="middle" font-weight="bold">¼b²</text>
+<text x="257" y="300" font-family="DejaVu Sans" font-size="8.8" fill="#D97706" text-anchor="middle" font-weight="normal">the piece needed to complete</text>
+<line x1="300" y1="248" x2="336" y2="200" stroke="#0E1F40" stroke-width="1.4" marker-end="url(#an)"/>
+<text x="300" y="292" font-family="DejaVu Sans" font-size="8" fill="#0E1F40" text-anchor="middle" font-weight="normal"></text>
+<rect x="390" y="90" width="360" height="130" rx="8" fill="#FFFFFF" stroke="#0E1F40" stroke-width="1.4"/>
+<text x="570" y="118" font-family="DejaVu Sans" font-size="17" fill="#0E1F40" text-anchor="middle" font-weight="bold">x² + bx + ¼b² = (x + ½b)²</text>
+<text x="570" y="148" font-family="DejaVu Sans" font-size="13" fill="#334155" text-anchor="middle" font-weight="normal">so   x² + bx = (x + ½b)² − ¼b²</text>
+<text x="570" y="180" font-family="DejaVu Sans" font-size="11" fill="#008751" text-anchor="middle" font-weight="normal">In general:  x² + bx = (x + b/2)² − (b/2)²</text>
+<text x="570" y="202" font-family="DejaVu Sans" font-size="9.4" fill="#64748B" text-anchor="middle" font-weight="normal">and for ax² + bx + c, take out a first.</text>
+</svg>

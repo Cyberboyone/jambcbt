@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 340" width="860" height="340">
+  <defs>
+    <marker id="ag" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#008751"/>
+    </marker>
+    <marker id="an" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#0E1F40"/>
+    </marker>
+    <marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#D97706"/>
+    </marker>
+    <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#DC2626"/>
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="860" height="340" fill="#FFFFFF"/>
+<text x="430" y="24" font-family="DejaVu Sans" font-size="12" fill="#0E1F40" text-anchor="middle" font-weight="bold">FROM COEFFICIENTS TO ROOTS — AND BACK</text>
+<rect x="230" y="50" width="400" height="56" rx="8" fill="#0E1F40" stroke="#0E1F40" stroke-width="1"/>
+<text x="430" y="84" font-family="DejaVu Sans" font-size="17" fill="#FFFFFF" text-anchor="middle" font-weight="bold">a x² + b x + c = 0 ,   a ≠ 0</text>
+<line x1="360" y1="108" x2="210" y2="152" stroke="#008751" stroke-width="1.8" marker-end="url(#ag)"/>
+<line x1="500" y1="108" x2="650" y2="152" stroke="#008751" stroke-width="1.8" marker-end="url(#ag)"/>
+<rect x="40" y="156" width="340" height="92" rx="8" fill="#ECFDF5" stroke="#008751" stroke-width="1.4"/>
+<text x="210" y="182" font-family="DejaVu Sans" font-size="9.4" fill="#008751" text-anchor="middle" font-weight="bold">SUM OF ROOTS</text>
+<text x="210" y="212" font-family="DejaVu Sans" font-size="19" fill="#008751" text-anchor="middle" font-weight="bold">α + β = − b / a</text>
+<text x="210" y="236" font-family="DejaVu Sans" font-size="9" fill="#64748B" text-anchor="middle" font-weight="normal">note the MINUS sign</text>
+<rect x="480" y="156" width="340" height="92" rx="8" fill="#DBEAFE" stroke="#2563EB" stroke-width="1.4"/>
+<text x="650" y="182" font-family="DejaVu Sans" font-size="9.4" fill="#2563EB" text-anchor="middle" font-weight="bold">PRODUCT OF ROOTS</text>
+<text x="650" y="212" font-family="DejaVu Sans" font-size="19" fill="#2563EB" text-anchor="middle" font-weight="bold">α β = c / a</text>
+<text x="650" y="236" font-family="DejaVu Sans" font-size="9" fill="#64748B" text-anchor="middle" font-weight="normal">no sign change</text>
+<rect x="40" y="264" width="780" height="62" rx="8" fill="#FFFFFF" stroke="#D97706" stroke-width="1.4"/>
+<text x="430" y="286" font-family="DejaVu Sans" font-size="12.5" fill="#0E1F40" text-anchor="middle" font-weight="bold">Building the equation from the roots:   x² − (α + β)x + (α β) = 0</text>
+<text x="430" y="310" font-family="DejaVu Sans" font-size="10.4" fill="#334155" text-anchor="middle" font-weight="normal">α² + β² = (α + β)² − 2αβ        (α − β)² = (α + β)² − 4αβ</text>
+</svg>

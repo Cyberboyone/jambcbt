@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 282" width="900" height="282">
+  <defs>
+    <marker id="ag" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#008751"/>
+    </marker>
+    <marker id="an" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#0E1F40"/>
+    </marker>
+    <marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#D97706"/>
+    </marker>
+    <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#DC2626"/>
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="900" height="282" fill="#FFFFFF"/>
+<text x="450" y="22" font-family="DejaVu Sans" font-size="12" fill="#0E1F40" text-anchor="middle" font-weight="bold">MATRIX ANATOMY</text>
+<path d="M 78 52 h -12 v 108 h 12" fill="none" stroke="#0E1F40" stroke-width="2"/>
+<path d="M 312 52 h 12 v 108 h -12" fill="none" stroke="#0E1F40" stroke-width="2"/>
+<rect x="90" y="60" width="70" height="46" rx="3" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="1"/>
+<text x="125.0" y="88.0" font-family="DejaVu Sans" font-size="11" fill="#0E1F40" text-anchor="middle" font-weight="normal">a₁₁</text>
+<rect x="160" y="60" width="70" height="46" rx="3" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="1"/>
+<text x="195.0" y="88.0" font-family="DejaVu Sans" font-size="11" fill="#0E1F40" text-anchor="middle" font-weight="normal">a₁₂</text>
+<rect x="230" y="60" width="70" height="46" rx="3" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="1"/>
+<text x="265.0" y="88.0" font-family="DejaVu Sans" font-size="11" fill="#0E1F40" text-anchor="middle" font-weight="normal">a₁₃</text>
+<rect x="90" y="106" width="70" height="46" rx="3" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="1"/>
+<text x="125.0" y="134.0" font-family="DejaVu Sans" font-size="11" fill="#0E1F40" text-anchor="middle" font-weight="normal">a₂₁</text>
+<rect x="160" y="106" width="70" height="46" rx="3" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="1"/>
+<text x="195.0" y="134.0" font-family="DejaVu Sans" font-size="11" fill="#0E1F40" text-anchor="middle" font-weight="normal">a₂₂</text>
+<rect x="230" y="106" width="70" height="46" rx="3" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="1"/>
+<text x="265.0" y="134.0" font-family="DejaVu Sans" font-size="11" fill="#0E1F40" text-anchor="middle" font-weight="normal">a₂₃</text>
+<text x="195.0" y="40" font-family="DejaVu Sans" font-size="9.2" fill="#008751" text-anchor="middle" font-weight="normal">3 columns</text>
+<text x="66" y="106" font-family="DejaVu Sans" font-size="9.2" fill="#008751" text-anchor="end" font-weight="normal">2 rows</text>
+<text x="195.0" y="180" font-family="DejaVu Sans" font-size="9.6" fill="#0E1F40" text-anchor="middle" font-weight="bold">order 2 × 3 (rows × columns)</text>
+<line x1="336" y1="106" x2="376" y2="106" stroke="#D97706" stroke-width="1.6" marker-end="url(#aa)"/>
+<text x="356" y="94" font-family="DejaVu Sans" font-size="8.4" fill="#D97706" text-anchor="middle" font-weight="normal">transpose</text>
+<rect x="396" y="60" width="70" height="46" rx="3" fill="#ECFDF5" stroke="#008751" stroke-width="1"/>
+<text x="431.0" y="88.0" font-family="DejaVu Sans" font-size="11" fill="#008751" text-anchor="middle" font-weight="normal">a₁₁</text>
+<rect x="466" y="60" width="70" height="46" rx="3" fill="#ECFDF5" stroke="#008751" stroke-width="1"/>
+<text x="501.0" y="88.0" font-family="DejaVu Sans" font-size="11" fill="#008751" text-anchor="middle" font-weight="normal">a₂₁</text>
+<rect x="396" y="106" width="70" height="46" rx="3" fill="#ECFDF5" stroke="#008751" stroke-width="1"/>
+<text x="431.0" y="134.0" font-family="DejaVu Sans" font-size="11" fill="#008751" text-anchor="middle" font-weight="normal">a₁₂</text>
+<rect x="466" y="106" width="70" height="46" rx="3" fill="#ECFDF5" stroke="#008751" stroke-width="1"/>
+<text x="501.0" y="134.0" font-family="DejaVu Sans" font-size="11" fill="#008751" text-anchor="middle" font-weight="normal">a₂₂</text>
+<rect x="396" y="152" width="70" height="46" rx="3" fill="#ECFDF5" stroke="#008751" stroke-width="1"/>
+<text x="431.0" y="180.0" font-family="DejaVu Sans" font-size="11" fill="#008751" text-anchor="middle" font-weight="normal">a₁₃</text>
+<rect x="466" y="152" width="70" height="46" rx="3" fill="#ECFDF5" stroke="#008751" stroke-width="1"/>
+<text x="501.0" y="180.0" font-family="DejaVu Sans" font-size="11" fill="#008751" text-anchor="middle" font-weight="normal">a₂₃</text>
+<text x="466" y="226" font-family="DejaVu Sans" font-size="9.6" fill="#008751" text-anchor="middle" font-weight="bold">order 3 × 2  (Aᵀ)</text>
+<text x="450" y="262" font-family="DejaVu Sans" font-size="9.4" fill="#64748B" text-anchor="middle" font-weight="normal">Only square matrices (n × n) have determinants and inverses.</text>
+</svg>

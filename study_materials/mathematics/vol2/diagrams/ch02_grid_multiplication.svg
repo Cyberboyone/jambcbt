@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 310" width="760" height="310">
+  <defs>
+    <marker id="ag" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#008751"/>
+    </marker>
+    <marker id="an" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#0E1F40"/>
+    </marker>
+    <marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#D97706"/>
+    </marker>
+    <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#DC2626"/>
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="760" height="310" fill="#FFFFFF"/>
+<text x="380" y="24" font-family="DejaVu Sans" font-size="12" fill="#0E1F40" text-anchor="middle" font-weight="bold">THE GRID (BOX) METHOD:  (2x + 3)(x − 4)</text>
+<text x="345.0" y="56" font-family="DejaVu Sans" font-size="14" fill="#008751" text-anchor="middle" font-weight="bold">x</text>
+<text x="495.0" y="56" font-family="DejaVu Sans" font-size="14" fill="#008751" text-anchor="middle" font-weight="bold">− 4</text>
+<text x="104" y="109.0" font-family="DejaVu Sans" font-size="14" fill="#2563EB" text-anchor="end" font-weight="bold">2x</text>
+<text x="104" y="183.0" font-family="DejaVu Sans" font-size="14" fill="#2563EB" text-anchor="end" font-weight="bold">+ 3</text>
+<rect x="120" y="66" width="150" height="74" rx="5" fill="#ECFDF5" stroke="#008751" stroke-width="1.4"/>
+<text x="195.0" y="112.0" font-family="DejaVu Sans" font-size="20" fill="#008751" text-anchor="middle" font-weight="bold">2x²</text>
+<rect x="270" y="66" width="150" height="74" rx="5" fill="#FEF3C7" stroke="#D97706" stroke-width="1.4"/>
+<text x="345.0" y="112.0" font-family="DejaVu Sans" font-size="20" fill="#D97706" text-anchor="middle" font-weight="bold">− 8x</text>
+<rect x="120" y="140" width="150" height="74" rx="5" fill="#DBEAFE" stroke="#2563EB" stroke-width="1.4"/>
+<text x="195.0" y="186.0" font-family="DejaVu Sans" font-size="20" fill="#2563EB" text-anchor="middle" font-weight="bold">3x</text>
+<rect x="270" y="140" width="150" height="74" rx="5" fill="#FEE2E2" stroke="#DC2626" stroke-width="1.4"/>
+<text x="345.0" y="186.0" font-family="DejaVu Sans" font-size="20" fill="#DC2626" text-anchor="middle" font-weight="bold">− 12</text>
+<text x="380" y="268" font-family="DejaVu Sans" font-size="12.5" fill="#0E1F40" text-anchor="middle" font-weight="bold">Add the four cells:  2x² − 8x + 3x − 12  =  2x² − 5x − 12</text>
+<text x="380" y="292" font-family="DejaVu Sans" font-size="9.4" fill="#64748B" text-anchor="middle" font-weight="normal">The grid makes every product visible, so no term is ever dropped.</text>
+</svg>

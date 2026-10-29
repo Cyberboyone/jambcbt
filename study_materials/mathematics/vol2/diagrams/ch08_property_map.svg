@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 258" width="900" height="258">
+  <defs>
+    <marker id="ag" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#008751"/>
+    </marker>
+    <marker id="an" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#0E1F40"/>
+    </marker>
+    <marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#D97706"/>
+    </marker>
+    <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#DC2626"/>
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="900" height="258" fill="#FFFFFF"/>
+<text x="450" y="22" font-family="DejaVu Sans" font-size="12" fill="#0E1F40" text-anchor="middle" font-weight="bold">FIVE PROPERTIES YOU MUST BE ABLE TO TEST</text>
+<rect x="14" y="48" width="160" height="108" rx="7" fill="#FFFFFF" stroke="#008751" stroke-width="1.4"/>
+<rect x="14" y="48" width="160" height="5" rx="2.5" fill="#008751"/>
+<text x="94.0" y="72" font-family="DejaVu Sans" font-size="10" fill="#0E1F40" text-anchor="middle" font-weight="bold">CLOSURE</text>
+<text x="94.0" y="90" font-family="DejaVu Sans" font-size="8.8" fill="#334155" text-anchor="middle" font-weight="normal">a * b stays in S</text>
+<text x="94.0" y="103" font-family="DejaVu Sans" font-size="8.8" fill="#334155" text-anchor="middle" font-weight="normal">for every pair a, b</text>
+<rect x="190" y="48" width="160" height="108" rx="7" fill="#FFFFFF" stroke="#2563EB" stroke-width="1.4"/>
+<rect x="190" y="48" width="160" height="5" rx="2.5" fill="#2563EB"/>
+<text x="270.0" y="72" font-family="DejaVu Sans" font-size="10" fill="#0E1F40" text-anchor="middle" font-weight="bold">COMMUTATIVE</text>
+<text x="270.0" y="90" font-family="DejaVu Sans" font-size="8.8" fill="#334155" text-anchor="middle" font-weight="normal">a * b = b * a</text>
+<text x="270.0" y="103" font-family="DejaVu Sans" font-size="8.8" fill="#334155" text-anchor="middle" font-weight="normal">table symmetric</text>
+<rect x="366" y="48" width="160" height="108" rx="7" fill="#FFFFFF" stroke="#7C3AED" stroke-width="1.4"/>
+<rect x="366" y="48" width="160" height="5" rx="2.5" fill="#7C3AED"/>
+<text x="446.0" y="72" font-family="DejaVu Sans" font-size="10" fill="#0E1F40" text-anchor="middle" font-weight="bold">ASSOCIATIVE</text>
+<text x="446.0" y="90" font-family="DejaVu Sans" font-size="8.8" fill="#334155" text-anchor="middle" font-weight="normal">(a * b) * c</text>
+<text x="446.0" y="103" font-family="DejaVu Sans" font-size="8.8" fill="#334155" text-anchor="middle" font-weight="normal">= a * (b * c)</text>
+<rect x="542" y="48" width="160" height="108" rx="7" fill="#FFFFFF" stroke="#D97706" stroke-width="1.4"/>
+<rect x="542" y="48" width="160" height="5" rx="2.5" fill="#D97706"/>
+<text x="622.0" y="72" font-family="DejaVu Sans" font-size="10" fill="#0E1F40" text-anchor="middle" font-weight="bold">IDENTITY</text>
+<text x="622.0" y="90" font-family="DejaVu Sans" font-size="8.8" fill="#334155" text-anchor="middle" font-weight="normal">a * e = e * a = a</text>
+<text x="622.0" y="103" font-family="DejaVu Sans" font-size="8.8" fill="#334155" text-anchor="middle" font-weight="normal">solve for e</text>
+<rect x="718" y="48" width="160" height="108" rx="7" fill="#FFFFFF" stroke="#DC2626" stroke-width="1.4"/>
+<rect x="718" y="48" width="160" height="5" rx="2.5" fill="#DC2626"/>
+<text x="798.0" y="72" font-family="DejaVu Sans" font-size="10" fill="#0E1F40" text-anchor="middle" font-weight="bold">INVERSE</text>
+<text x="798.0" y="90" font-family="DejaVu Sans" font-size="8.8" fill="#334155" text-anchor="middle" font-weight="normal">a * b = e</text>
+<text x="798.0" y="103" font-family="DejaVu Sans" font-size="8.8" fill="#334155" text-anchor="middle" font-weight="normal">b is the inverse of a</text>
+<rect x="120" y="176" width="660" height="66" rx="8" fill="#FFFFFF" stroke="#0E1F40" stroke-width="1.3"/>
+<text x="450" y="200" font-family="DejaVu Sans" font-size="10.4" fill="#0E1F40" text-anchor="middle" font-weight="bold">Find the identity by solving   a * e = a   with a kept general.</text>
+<text x="450" y="224" font-family="DejaVu Sans" font-size="10.4" fill="#334155" text-anchor="middle" font-weight="normal">Then find the inverse of a by solving   a * b = e   for b.</text>
+</svg>
