@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 330" width="760" height="330">
+  <defs>
+    <marker id="ag" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#008751"/>
+    </marker>
+    <marker id="an" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#0E1F40"/>
+    </marker>
+    <marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#D97706"/>
+    </marker>
+    <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#DC2626"/>
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="760" height="330" fill="#FFFFFF"/>
+<text x="380" y="22" font-family="DejaVu Sans" font-size="12.6" fill="#0E1F40" text-anchor="middle" font-weight="bold">SHELLS, SUBSHELLS AND THE ORDER OF FILLING</text>
+<text x="150" y="46" font-family="DejaVu Sans" font-size="9.2" fill="#0E1F40" text-anchor="middle" font-weight="bold">Chlorine — shells 2, 8, 7</text>
+<circle cx="150" cy="162" r="17" fill="#FEE2E2" stroke="#DC2626" stroke-width="1.2"/>
+<text x="150" y="165.5" font-family="DejaVu Sans" font-size="7.6" fill="#DC2626" text-anchor="middle" font-weight="bold">+17</text>
+<circle cx="150" cy="162" r="34" fill="none" stroke="#CBD5E1" stroke-width="0.9" stroke-dasharray="3,3"/>
+<circle cx="150.0" cy="128.0" r="2.9" fill="#008751"/>
+<circle cx="150.0" cy="196.0" r="2.9" fill="#008751"/>
+<circle cx="150" cy="162" r="62" fill="none" stroke="#CBD5E1" stroke-width="0.9" stroke-dasharray="3,3"/>
+<circle cx="150.0" cy="100.0" r="2.9" fill="#2563EB"/>
+<circle cx="193.84062043356596" cy="118.15937956643405" r="2.9" fill="#2563EB"/>
+<circle cx="212.0" cy="162.0" r="2.9" fill="#2563EB"/>
+<circle cx="193.84062043356596" cy="205.84062043356596" r="2.9" fill="#2563EB"/>
+<circle cx="150.0" cy="224.0" r="2.9" fill="#2563EB"/>
+<circle cx="106.15937956643405" cy="205.84062043356596" r="2.9" fill="#2563EB"/>
+<circle cx="88.0" cy="162.0" r="2.9" fill="#2563EB"/>
+<circle cx="106.15937956643404" cy="118.15937956643405" r="2.9" fill="#2563EB"/>
+<circle cx="150" cy="162" r="90" fill="none" stroke="#CBD5E1" stroke-width="0.9" stroke-dasharray="3,3"/>
+<circle cx="150.0" cy="72.0" r="2.9" fill="#7C3AED"/>
+<circle cx="220.36483342212267" cy="105.88591783271399" r="2.9" fill="#7C3AED"/>
+<circle cx="237.74351209636413" cy="182.0268840560683" r="2.9" fill="#7C3AED"/>
+<circle cx="189.04953652058023" cy="243.08719811121773" r="2.9" fill="#7C3AED"/>
+<circle cx="110.95046347941977" cy="243.08719811121773" r="2.9" fill="#7C3AED"/>
+<circle cx="62.25648790363587" cy="182.0268840560683" r="2.9" fill="#7C3AED"/>
+<circle cx="79.63516657787731" cy="105.885917832714" r="2.9" fill="#7C3AED"/>
+<text x="150" y="262" font-family="DejaVu Sans" font-size="7.6" fill="#64748B" text-anchor="middle" font-weight="normal">shells hold at most 2, 8, 8 …</text>
+<text x="530" y="46" font-family="DejaVu Sans" font-size="9.2" fill="#0E1F40" text-anchor="middle" font-weight="bold">Sodium — 1s² 2s² 2p⁶ 3s¹</text>
+<text x="320" y="76" font-family="DejaVu Sans" font-size="9" fill="#7C3AED" text-anchor="middle" font-weight="bold">3s</text>
+<rect x="354" y="64" width="40" height="22" rx="3" fill="#EDE9FE" stroke="#7C3AED" stroke-width="1.2"/>
+<text x="374" y="79" font-family="DejaVu Sans" font-size="11" fill="#7C3AED" text-anchor="middle" font-weight="normal">↑</text>
+<text x="320" y="116" font-family="DejaVu Sans" font-size="9" fill="#2563EB" text-anchor="middle" font-weight="bold">2p</text>
+<rect x="354" y="104" width="40" height="22" rx="3" fill="#DBEAFE" stroke="#2563EB" stroke-width="1.2"/>
+<text x="374" y="119" font-family="DejaVu Sans" font-size="10.5" fill="#2563EB" text-anchor="middle" font-weight="normal">↑↓</text>
+<rect x="398" y="104" width="40" height="22" rx="3" fill="#DBEAFE" stroke="#2563EB" stroke-width="1.2"/>
+<text x="418" y="119" font-family="DejaVu Sans" font-size="10.5" fill="#2563EB" text-anchor="middle" font-weight="normal">↑↓</text>
+<rect x="442" y="104" width="40" height="22" rx="3" fill="#DBEAFE" stroke="#2563EB" stroke-width="1.2"/>
+<text x="462" y="119" font-family="DejaVu Sans" font-size="10.5" fill="#2563EB" text-anchor="middle" font-weight="normal">↑↓</text>
+<text x="320" y="156" font-family="DejaVu Sans" font-size="9" fill="#2563EB" text-anchor="middle" font-weight="bold">2s</text>
+<rect x="354" y="144" width="40" height="22" rx="3" fill="#DBEAFE" stroke="#2563EB" stroke-width="1.2"/>
+<text x="374" y="159" font-family="DejaVu Sans" font-size="10.5" fill="#2563EB" text-anchor="middle" font-weight="normal">↑↓</text>
+<text x="320" y="196" font-family="DejaVu Sans" font-size="9" fill="#008751" text-anchor="middle" font-weight="bold">1s</text>
+<rect x="354" y="184" width="40" height="22" rx="3" fill="#ECFDF5" stroke="#008751" stroke-width="1.2"/>
+<text x="374" y="199" font-family="DejaVu Sans" font-size="10.5" fill="#008751" text-anchor="middle" font-weight="normal">↑↓</text>
+<line x1="520" y1="210" x2="520.0" y2="80.85" stroke="#64748B" stroke-width="1.2"/><polygon points="520.0,70.0 524.1,80.8 515.9,80.8" fill="#64748B"/>
+<text x="534" y="140" font-family="DejaVu Sans" font-size="7.6" fill="#64748B" text-anchor="start" font-weight="normal">energy</text>
+<text x="530" y="232" font-family="DejaVu Sans" font-size="7.4" fill="#334155" text-anchor="middle" font-weight="normal">one box = one orbital, holding at most two electrons</text>
+<text x="530" y="246" font-family="DejaVu Sans" font-size="7.4" fill="#334155" text-anchor="middle" font-weight="normal">with opposite spins (↑↓); degenerate orbitals fill singly first</text>
+<rect x="20" y="268" width="230" height="50" rx="7" fill="#ECFDF5" stroke="#008751" stroke-width="1.1"/>
+<text x="135" y="286" font-family="DejaVu Sans" font-size="9.2" fill="#008751" text-anchor="middle" font-weight="bold">AUFBAU</text>
+<text x="135" y="302" font-family="DejaVu Sans" font-size="7.4" fill="#334155" text-anchor="middle" font-weight="normal">fill the lowest energy level first</text>
+<text x="135" y="313" font-family="DejaVu Sans" font-size="7.4" fill="#334155" text-anchor="middle" font-weight="normal"></text>
+<rect x="264" y="268" width="230" height="50" rx="7" fill="#FFFFFF" stroke="#008751" stroke-width="1.1"/>
+<text x="379" y="286" font-family="DejaVu Sans" font-size="9.2" fill="#008751" text-anchor="middle" font-weight="bold">PAULI</text>
+<text x="379" y="302" font-family="DejaVu Sans" font-size="7.4" fill="#334155" text-anchor="middle" font-weight="normal">no orbital holds more than two electrons</text>
+<text x="379" y="313" font-family="DejaVu Sans" font-size="7.4" fill="#334155" text-anchor="middle" font-weight="normal"></text>
+<rect x="508" y="268" width="230" height="50" rx="7" fill="#FFFFFF" stroke="#008751" stroke-width="1.1"/>
+<text x="623" y="286" font-family="DejaVu Sans" font-size="9.2" fill="#008751" text-anchor="middle" font-weight="bold">HUND</text>
+<text x="623" y="302" font-family="DejaVu Sans" font-size="7.4" fill="#334155" text-anchor="middle" font-weight="normal">degenerate orbitals fill singly before pairing</text>
+<text x="623" y="313" font-family="DejaVu Sans" font-size="7.4" fill="#334155" text-anchor="middle" font-weight="normal"></text>
+</svg>

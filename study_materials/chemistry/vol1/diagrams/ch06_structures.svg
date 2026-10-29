@@ -1,0 +1,141 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 340" width="760" height="340">
+  <defs>
+    <marker id="ag" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#008751"/>
+    </marker>
+    <marker id="an" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#0E1F40"/>
+    </marker>
+    <marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#D97706"/>
+    </marker>
+    <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#DC2626"/>
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="760" height="340" fill="#FFFFFF"/>
+<text x="380" y="22" font-family="DejaVu Sans" font-size="13.0" fill="#0E1F40" text-anchor="middle" font-weight="bold">FOUR KINDS OF STRUCTURE AND WHAT THEY DO TO A MELTING POINT</text>
+<rect x="26" y="40" width="160" height="176" rx="8" fill="#FFFFFF" stroke="#008751" stroke-width="1.3"/>
+<rect x="26" y="40" width="160" height="4.5" rx="2.2" fill="#008751"/>
+<text x="106" y="62" font-family="DejaVu Sans" font-size="8.6" fill="#008751" text-anchor="middle" font-weight="bold">IONIC</text>
+<text x="106" y="76" font-family="DejaVu Sans" font-size="7.6" fill="#64748B" text-anchor="middle" font-weight="normal">NaCl</text>
+<rect x="212" y="40" width="160" height="176" rx="8" fill="#FFFFFF" stroke="#2563EB" stroke-width="1.3"/>
+<rect x="212" y="40" width="160" height="4.5" rx="2.2" fill="#2563EB"/>
+<text x="292" y="62" font-family="DejaVu Sans" font-size="8.6" fill="#2563EB" text-anchor="middle" font-weight="bold">SIMPLE MOLECULAR</text>
+<text x="292" y="76" font-family="DejaVu Sans" font-size="7.6" fill="#64748B" text-anchor="middle" font-weight="normal">I₂</text>
+<rect x="398" y="40" width="160" height="176" rx="8" fill="#FFFFFF" stroke="#D97706" stroke-width="1.3"/>
+<rect x="398" y="40" width="160" height="4.5" rx="2.2" fill="#D97706"/>
+<text x="478" y="62" font-family="DejaVu Sans" font-size="8.6" fill="#D97706" text-anchor="middle" font-weight="bold">GIANT COVALENT</text>
+<text x="478" y="76" font-family="DejaVu Sans" font-size="7.6" fill="#64748B" text-anchor="middle" font-weight="normal">diamond</text>
+<rect x="584" y="40" width="160" height="176" rx="8" fill="#FFFFFF" stroke="#7C3AED" stroke-width="1.3"/>
+<rect x="584" y="40" width="160" height="4.5" rx="2.2" fill="#7C3AED"/>
+<text x="664" y="62" font-family="DejaVu Sans" font-size="8.6" fill="#7C3AED" text-anchor="middle" font-weight="bold">METALLIC</text>
+<text x="664" y="76" font-family="DejaVu Sans" font-size="7.6" fill="#64748B" text-anchor="middle" font-weight="normal">iron</text>
+<circle cx="46" cy="100" r="8.5" fill="#FFFFFF" stroke="#008751" stroke-width="1.1"/>
+<text x="46" y="104" font-family="DejaVu Sans" font-size="9.6" fill="#008751" text-anchor="middle" font-weight="bold">+</text>
+<circle cx="76" cy="100" r="8.5" fill="#FFFFFF" stroke="#008751" stroke-width="1.1"/>
+<text x="76" y="104" font-family="DejaVu Sans" font-size="9.6" fill="#008751" text-anchor="middle" font-weight="bold">−</text>
+<circle cx="106" cy="100" r="8.5" fill="#FFFFFF" stroke="#008751" stroke-width="1.1"/>
+<text x="106" y="104" font-family="DejaVu Sans" font-size="9.6" fill="#008751" text-anchor="middle" font-weight="bold">+</text>
+<circle cx="136" cy="100" r="8.5" fill="#FFFFFF" stroke="#008751" stroke-width="1.1"/>
+<text x="136" y="104" font-family="DejaVu Sans" font-size="9.6" fill="#008751" text-anchor="middle" font-weight="bold">−</text>
+<circle cx="46" cy="128" r="8.5" fill="#FFFFFF" stroke="#008751" stroke-width="1.1"/>
+<text x="46" y="132" font-family="DejaVu Sans" font-size="9.6" fill="#008751" text-anchor="middle" font-weight="bold">−</text>
+<circle cx="76" cy="128" r="8.5" fill="#FFFFFF" stroke="#008751" stroke-width="1.1"/>
+<text x="76" y="132" font-family="DejaVu Sans" font-size="9.6" fill="#008751" text-anchor="middle" font-weight="bold">+</text>
+<circle cx="106" cy="128" r="8.5" fill="#FFFFFF" stroke="#008751" stroke-width="1.1"/>
+<text x="106" y="132" font-family="DejaVu Sans" font-size="9.6" fill="#008751" text-anchor="middle" font-weight="bold">−</text>
+<circle cx="136" cy="128" r="8.5" fill="#FFFFFF" stroke="#008751" stroke-width="1.1"/>
+<text x="136" y="132" font-family="DejaVu Sans" font-size="9.6" fill="#008751" text-anchor="middle" font-weight="bold">+</text>
+<circle cx="46" cy="156" r="8.5" fill="#FFFFFF" stroke="#008751" stroke-width="1.1"/>
+<text x="46" y="160" font-family="DejaVu Sans" font-size="9.6" fill="#008751" text-anchor="middle" font-weight="bold">+</text>
+<circle cx="76" cy="156" r="8.5" fill="#FFFFFF" stroke="#008751" stroke-width="1.1"/>
+<text x="76" y="160" font-family="DejaVu Sans" font-size="9.6" fill="#008751" text-anchor="middle" font-weight="bold">−</text>
+<circle cx="106" cy="156" r="8.5" fill="#FFFFFF" stroke="#008751" stroke-width="1.1"/>
+<text x="106" y="160" font-family="DejaVu Sans" font-size="9.6" fill="#008751" text-anchor="middle" font-weight="bold">+</text>
+<circle cx="136" cy="156" r="8.5" fill="#FFFFFF" stroke="#008751" stroke-width="1.1"/>
+<text x="136" y="160" font-family="DejaVu Sans" font-size="9.6" fill="#008751" text-anchor="middle" font-weight="bold">−</text>
+<circle cx="46" cy="184" r="8.5" fill="#FFFFFF" stroke="#008751" stroke-width="1.1"/>
+<text x="46" y="188" font-family="DejaVu Sans" font-size="9.6" fill="#008751" text-anchor="middle" font-weight="bold">−</text>
+<circle cx="76" cy="184" r="8.5" fill="#FFFFFF" stroke="#008751" stroke-width="1.1"/>
+<text x="76" y="188" font-family="DejaVu Sans" font-size="9.6" fill="#008751" text-anchor="middle" font-weight="bold">+</text>
+<circle cx="106" cy="184" r="8.5" fill="#FFFFFF" stroke="#008751" stroke-width="1.1"/>
+<text x="106" y="188" font-family="DejaVu Sans" font-size="9.6" fill="#008751" text-anchor="middle" font-weight="bold">−</text>
+<circle cx="136" cy="184" r="8.5" fill="#FFFFFF" stroke="#008751" stroke-width="1.1"/>
+<text x="136" y="188" font-family="DejaVu Sans" font-size="9.6" fill="#008751" text-anchor="middle" font-weight="bold">+</text>
+<circle cx="219" cy="104" r="9" fill="#DBEAFE" stroke="#2563EB" stroke-width="1.1"/>
+<circle cx="237" cy="104" r="9" fill="#DBEAFE" stroke="#2563EB" stroke-width="1.1"/>
+<circle cx="291" cy="104" r="9" fill="#DBEAFE" stroke="#2563EB" stroke-width="1.1"/>
+<circle cx="309" cy="104" r="9" fill="#DBEAFE" stroke="#2563EB" stroke-width="1.1"/>
+<circle cx="255" cy="156" r="9" fill="#DBEAFE" stroke="#2563EB" stroke-width="1.1"/>
+<circle cx="273" cy="156" r="9" fill="#DBEAFE" stroke="#2563EB" stroke-width="1.1"/>
+<text x="264" y="190" font-family="DejaVu Sans" font-size="7.0" fill="#64748B" text-anchor="middle" font-weight="normal">weak forces between molecules</text>
+<line x1="438" y1="92" x2="418" y2="130" stroke="#D97706" stroke-width="1.0"/>
+<line x1="478" y1="92" x2="458" y2="130" stroke="#D97706" stroke-width="1.0"/>
+<line x1="418" y1="130" x2="458" y2="130" stroke="#D97706" stroke-width="1.0"/>
+<line x1="458" y1="130" x2="498" y2="130" stroke="#D97706" stroke-width="1.0"/>
+<line x1="418" y1="130" x2="438" y2="168" stroke="#D97706" stroke-width="1.0"/>
+<line x1="458" y1="130" x2="478" y2="168" stroke="#D97706" stroke-width="1.0"/>
+<line x1="498" y1="130" x2="478" y2="168" stroke="#D97706" stroke-width="1.0"/>
+<line x1="438" y1="168" x2="478" y2="168" stroke="#D97706" stroke-width="1.0"/>
+<line x1="438" y1="92" x2="458" y2="130" stroke="#D97706" stroke-width="1.0"/>
+<line x1="478" y1="92" x2="498" y2="130" stroke="#D97706" stroke-width="1.0"/>
+<circle cx="438" cy="92" r="6.2" fill="#FEF3C7" stroke="#D97706" stroke-width="1.0"/>
+<circle cx="478" cy="92" r="6.2" fill="#FEF3C7" stroke="#D97706" stroke-width="1.0"/>
+<circle cx="418" cy="130" r="6.2" fill="#FEF3C7" stroke="#D97706" stroke-width="1.0"/>
+<circle cx="458" cy="130" r="6.2" fill="#FEF3C7" stroke="#D97706" stroke-width="1.0"/>
+<circle cx="498" cy="130" r="6.2" fill="#FEF3C7" stroke="#D97706" stroke-width="1.0"/>
+<circle cx="438" cy="168" r="6.2" fill="#FEF3C7" stroke="#D97706" stroke-width="1.0"/>
+<circle cx="478" cy="168" r="6.2" fill="#FEF3C7" stroke="#D97706" stroke-width="1.0"/>
+<circle cx="610" cy="104" r="9.5" fill="#EDE9FE" stroke="#7C3AED" stroke-width="1.1"/>
+<text x="610" y="108" font-family="DejaVu Sans" font-size="9.4" fill="#7C3AED" text-anchor="middle" font-weight="bold">+</text>
+<circle cx="654" cy="104" r="9.5" fill="#EDE9FE" stroke="#7C3AED" stroke-width="1.1"/>
+<text x="654" y="108" font-family="DejaVu Sans" font-size="9.4" fill="#7C3AED" text-anchor="middle" font-weight="bold">+</text>
+<circle cx="698" cy="104" r="9.5" fill="#EDE9FE" stroke="#7C3AED" stroke-width="1.1"/>
+<text x="698" y="108" font-family="DejaVu Sans" font-size="9.4" fill="#7C3AED" text-anchor="middle" font-weight="bold">+</text>
+<circle cx="610" cy="138" r="9.5" fill="#EDE9FE" stroke="#7C3AED" stroke-width="1.1"/>
+<text x="610" y="142" font-family="DejaVu Sans" font-size="9.4" fill="#7C3AED" text-anchor="middle" font-weight="bold">+</text>
+<circle cx="654" cy="138" r="9.5" fill="#EDE9FE" stroke="#7C3AED" stroke-width="1.1"/>
+<text x="654" y="142" font-family="DejaVu Sans" font-size="9.4" fill="#7C3AED" text-anchor="middle" font-weight="bold">+</text>
+<circle cx="698" cy="138" r="9.5" fill="#EDE9FE" stroke="#7C3AED" stroke-width="1.1"/>
+<text x="698" y="142" font-family="DejaVu Sans" font-size="9.4" fill="#7C3AED" text-anchor="middle" font-weight="bold">+</text>
+<circle cx="610" cy="172" r="9.5" fill="#EDE9FE" stroke="#7C3AED" stroke-width="1.1"/>
+<text x="610" y="176" font-family="DejaVu Sans" font-size="9.4" fill="#7C3AED" text-anchor="middle" font-weight="bold">+</text>
+<circle cx="654" cy="172" r="9.5" fill="#EDE9FE" stroke="#7C3AED" stroke-width="1.1"/>
+<text x="654" y="176" font-family="DejaVu Sans" font-size="9.4" fill="#7C3AED" text-anchor="middle" font-weight="bold">+</text>
+<circle cx="698" cy="172" r="9.5" fill="#EDE9FE" stroke="#7C3AED" stroke-width="1.1"/>
+<text x="698" y="176" font-family="DejaVu Sans" font-size="9.4" fill="#7C3AED" text-anchor="middle" font-weight="bold">+</text>
+<circle cx="600" cy="196" r="2.2" fill="#7C3AED"/>
+<text x="612" y="199" font-family="DejaVu Sans" font-size="6.8" fill="#7C3AED" text-anchor="start" font-weight="normal">= delocalised electron</text>
+<circle cx="682.0137471910721" cy="169.1603868833835" r="2.2" fill="#7C3AED"/>
+<circle cx="703.6987393953078" cy="111.3678183391909" r="2.2" fill="#7C3AED"/>
+<circle cx="635.2239450272165" cy="167.12559630407853" r="2.2" fill="#7C3AED"/>
+<circle cx="592.7582038574427" cy="162.6256439809179" r="2.2" fill="#7C3AED"/>
+<circle cx="706.7779977402946" cy="132.24240594455998" r="2.2" fill="#7C3AED"/>
+<circle cx="635.6366694619811" cy="115.9446026406665" r="2.2" fill="#7C3AED"/>
+<circle cx="628.7012206221939" cy="130.2765623059076" r="2.2" fill="#7C3AED"/>
+<circle cx="664.6549492899453" cy="139.60077227840634" r="2.2" fill="#7C3AED"/>
+<circle cx="735.3520408145525" cy="160.16892505238275" r="2.2" fill="#7C3AED"/>
+<circle cx="681.5938090395274" cy="177.0505727006421" r="2.2" fill="#7C3AED"/>
+<circle cx="623.0044525459263" cy="105.77823491177463" r="2.2" fill="#7C3AED"/>
+<circle cx="680.2057030153164" cy="95.77901268467897" r="2.2" fill="#7C3AED"/>
+<circle cx="597.1379601433979" cy="136.28043854333785" r="2.2" fill="#7C3AED"/>
+<circle cx="659.1336676468417" cy="170.8764284945853" r="2.2" fill="#7C3AED"/>
+<rect x="26" y="226" width="160" height="44" rx="7" fill="#FFFFFF" stroke="#008751" stroke-width="1.0"/>
+<text x="106" y="242" font-family="DejaVu Sans" font-size="7.4" fill="#334155" text-anchor="middle" font-weight="normal">high m.p.</text>
+<text x="106" y="254" font-family="DejaVu Sans" font-size="7.4" fill="#334155" text-anchor="middle" font-weight="normal">conducts when molten</text>
+<rect x="212" y="226" width="160" height="44" rx="7" fill="#FFFFFF" stroke="#2563EB" stroke-width="1.0"/>
+<text x="292" y="242" font-family="DejaVu Sans" font-size="7.4" fill="#334155" text-anchor="middle" font-weight="normal">low m.p.</text>
+<text x="292" y="254" font-family="DejaVu Sans" font-size="7.4" fill="#334155" text-anchor="middle" font-weight="normal">does not conduct</text>
+<rect x="398" y="226" width="160" height="44" rx="7" fill="#FFFFFF" stroke="#D97706" stroke-width="1.0"/>
+<text x="478" y="242" font-family="DejaVu Sans" font-size="7.4" fill="#334155" text-anchor="middle" font-weight="normal">very high m.p.</text>
+<text x="478" y="254" font-family="DejaVu Sans" font-size="7.4" fill="#334155" text-anchor="middle" font-weight="normal">hard</text>
+<text x="478" y="266" font-family="DejaVu Sans" font-size="7.4" fill="#334155" text-anchor="middle" font-weight="normal">no conduction</text>
+<rect x="584" y="226" width="160" height="44" rx="7" fill="#FFFFFF" stroke="#7C3AED" stroke-width="1.0"/>
+<text x="664" y="242" font-family="DejaVu Sans" font-size="7.4" fill="#334155" text-anchor="middle" font-weight="normal">conducts</text>
+<text x="664" y="254" font-family="DejaVu Sans" font-size="7.4" fill="#334155" text-anchor="middle" font-weight="normal">malleable</text>
+<text x="664" y="266" font-family="DejaVu Sans" font-size="7.4" fill="#334155" text-anchor="middle" font-weight="normal">ductile</text>
+<rect x="26" y="288" width="708" height="40" rx="8" fill="#ECFDF5" stroke="#008751" stroke-width="1.1"/>
+<text x="380" y="305" font-family="DejaVu Sans" font-size="8.4" fill="#008751" text-anchor="middle" font-weight="bold">Melting point tells you the structure: strong continuous bonds throughout a giant structure give a high melting point,</text>
+<text x="380" y="320" font-family="DejaVu Sans" font-size="8.4" fill="#334155" text-anchor="middle" font-weight="normal">weak forces between separate molecules give a low one — and only mobile ions or electrons can carry a current.</text>
+</svg>

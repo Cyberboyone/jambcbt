@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 300" width="760" height="300">
+  <defs>
+    <marker id="ag" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#008751"/>
+    </marker>
+    <marker id="an" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#0E1F40"/>
+    </marker>
+    <marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#D97706"/>
+    </marker>
+    <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#DC2626"/>
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="760" height="300" fill="#FFFFFF"/>
+<text x="380" y="22" font-family="DejaVu Sans" font-size="13.2" fill="#0E1F40" text-anchor="middle" font-weight="bold">IONIC AND COVALENT BONDING — DOT-AND-CROSS</text>
+<text x="140" y="46" font-family="DejaVu Sans" font-size="9.6" fill="#008751" text-anchor="middle" font-weight="bold">A · IONIC (NaCl)</text>
+<circle cx="72" cy="132" r="22" fill="#ECFDF5" stroke="#008751" stroke-width="1.4"/><text x="72" y="136" font-family="DejaVu Sans" font-size="10.4" fill="#0E1F40" text-anchor="middle" font-weight="bold">Na</text>
+<text x="72" y="172" font-family="DejaVu Sans" font-size="7.2" fill="#64748B" text-anchor="middle" font-weight="normal">loses its one</text>
+<text x="72" y="183" font-family="DejaVu Sans" font-size="7.2" fill="#64748B" text-anchor="middle" font-weight="normal">outer electron</text>
+<line x1="100" y1="132" x2="117.15" y2="132.0" stroke="#008751" stroke-width="1.4"/><polygon points="128.0,132.0 117.2,136.1 117.2,127.9" fill="#008751"/>
+<text x="114" y="124" font-family="DejaVu Sans" font-size="7.6" fill="#008751" text-anchor="middle" font-weight="bold">e⁻</text>
+<circle cx="198" cy="132" r="26" fill="#DBEAFE" stroke="#2563EB" stroke-width="1.4"/><text x="198" y="136" font-family="DejaVu Sans" font-size="11.0" fill="#0E1F40" text-anchor="middle" font-weight="bold"></text>
+<text x="198" y="136" font-family="DejaVu Sans" font-size="12.0" fill="#0E1F40" text-anchor="middle" font-weight="bold">Cl</text>
+<line x1="224.6" y1="128.6" x2="231.4" y2="135.4" stroke="#DC2626" stroke-width="1.5"/><line x1="224.6" y1="135.4" x2="231.4" y2="128.6" stroke="#DC2626" stroke-width="1.5"/>
+<line x1="215.81320343559642" y1="149.81320343559642" x2="222.61320343559643" y2="156.61320343559643" stroke="#DC2626" stroke-width="1.5"/><line x1="215.81320343559642" y1="156.61320343559643" x2="222.61320343559643" y2="149.81320343559642" stroke="#DC2626" stroke-width="1.5"/>
+<line x1="194.6" y1="158.6" x2="201.4" y2="165.4" stroke="#DC2626" stroke-width="1.5"/><line x1="194.6" y1="165.4" x2="201.4" y2="158.6" stroke="#DC2626" stroke-width="1.5"/>
+<line x1="173.38679656440357" y1="149.81320343559642" x2="180.18679656440358" y2="156.61320343559643" stroke="#DC2626" stroke-width="1.5"/><line x1="173.38679656440357" y1="156.61320343559643" x2="180.18679656440358" y2="149.81320343559642" stroke="#DC2626" stroke-width="1.5"/>
+<line x1="164.6" y1="128.6" x2="171.4" y2="135.4" stroke="#DC2626" stroke-width="1.5"/><line x1="164.6" y1="135.4" x2="171.4" y2="128.6" stroke="#DC2626" stroke-width="1.5"/>
+<line x1="173.38679656440357" y1="107.38679656440357" x2="180.18679656440358" y2="114.18679656440358" stroke="#DC2626" stroke-width="1.5"/><line x1="173.38679656440357" y1="114.18679656440358" x2="180.18679656440358" y2="107.38679656440357" stroke="#DC2626" stroke-width="1.5"/>
+<line x1="194.6" y1="98.6" x2="201.4" y2="105.4" stroke="#DC2626" stroke-width="1.5"/><line x1="194.6" y1="105.4" x2="201.4" y2="98.6" stroke="#DC2626" stroke-width="1.5"/>
+<line x1="215.81320343559642" y1="107.38679656440357" x2="222.61320343559643" y2="114.18679656440358" stroke="#DC2626" stroke-width="1.5"/><line x1="215.81320343559642" y1="114.18679656440358" x2="222.61320343559643" y2="107.38679656440357" stroke="#DC2626" stroke-width="1.5"/>
+<text x="198" y="74" font-family="DejaVu Sans" font-size="7.2" fill="#334155" text-anchor="middle" font-weight="normal">[Cl]⁻ — eight electrons,</text>
+<text x="198" y="85" font-family="DejaVu Sans" font-size="7.2" fill="#334155" text-anchor="middle" font-weight="normal">one gained from sodium</text>
+<text x="140" y="208" font-family="DejaVu Sans" font-size="7.8" fill="#334155" text-anchor="middle" font-weight="normal">Na⁺ and Cl⁻ are held by the</text>
+<text x="140" y="220" font-family="DejaVu Sans" font-size="7.8" fill="#334155" text-anchor="middle" font-weight="normal">attraction between opposite charges</text>
+<text x="380" y="46" font-family="DejaVu Sans" font-size="9.6" fill="#2563EB" text-anchor="middle" font-weight="bold">B · COVALENT (H₂O)</text>
+<circle cx="380" cy="118" r="26" fill="#DBEAFE" stroke="#2563EB" stroke-width="1.4"/><text x="380" y="122" font-family="DejaVu Sans" font-size="12.0" fill="#0E1F40" text-anchor="middle" font-weight="bold">O</text>
+<circle cx="318" cy="182" r="17" fill="#FFFFFF" stroke="#334155" stroke-width="1.4"/><text x="318" y="186" font-family="DejaVu Sans" font-size="9.6" fill="#0E1F40" text-anchor="middle" font-weight="bold">H</text>
+<circle cx="442" cy="182" r="17" fill="#FFFFFF" stroke="#334155" stroke-width="1.4"/><text x="442" y="186" font-family="DejaVu Sans" font-size="9.6" fill="#0E1F40" text-anchor="middle" font-weight="bold">H</text>
+<line x1="362" y1="136" x2="331" y2="168" stroke="#334155" stroke-width="1.2"/>
+<line x1="398" y1="136" x2="429" y2="168" stroke="#334155" stroke-width="1.2"/>
+<circle cx="344.5" cy="150.0" r="2.6" fill="#2563EB"/><circle cx="348.5" cy="154.0" r="2.6" fill="#DC2626"/>
+<circle cx="411.5" cy="150.0" r="2.6" fill="#2563EB"/><circle cx="415.5" cy="154.0" r="2.6" fill="#DC2626"/>
+<circle cx="406.79236562262855" cy="97.06750983892762" r="2.6" fill="#DC2626"/>
+<circle cx="395.9620331347203" cy="87.97978184279648" r="2.6" fill="#DC2626"/>
+<circle cx="364.0379668652797" cy="87.97978184279648" r="2.6" fill="#DC2626"/>
+<circle cx="353.20763437737145" cy="97.0675098389276" r="2.6" fill="#DC2626"/>
+<text x="380" y="216" font-family="DejaVu Sans" font-size="7.8" fill="#334155" text-anchor="middle" font-weight="normal">two bonding pairs and two lone pairs</text>
+<text x="620" y="46" font-family="DejaVu Sans" font-size="9.6" fill="#7C3AED" text-anchor="middle" font-weight="bold">C · DOUBLE BONDS (CO₂)</text>
+<circle cx="620" cy="130" r="24" fill="#EDE9FE" stroke="#7C3AED" stroke-width="1.4"/><text x="620" y="134" font-family="DejaVu Sans" font-size="11.4" fill="#0E1F40" text-anchor="middle" font-weight="bold">C</text>
+<circle cx="534" cy="130" r="22" fill="#DBEAFE" stroke="#2563EB" stroke-width="1.4"/><text x="534" y="134" font-family="DejaVu Sans" font-size="11.0" fill="#0E1F40" text-anchor="middle" font-weight="bold">O</text>
+<circle cx="706" cy="130" r="22" fill="#DBEAFE" stroke="#2563EB" stroke-width="1.4"/><text x="706" y="134" font-family="DejaVu Sans" font-size="11.0" fill="#0E1F40" text-anchor="middle" font-weight="bold">O</text>
+<line x1="558" y1="122" x2="596" y2="122" stroke="#334155" stroke-width="1.0"/>
+<line x1="558" y1="138" x2="596" y2="138" stroke="#334155" stroke-width="1.0"/>
+<line x1="644" y1="122" x2="682" y2="122" stroke="#334155" stroke-width="1.0"/>
+<line x1="644" y1="138" x2="682" y2="138" stroke="#334155" stroke-width="1.0"/>
+<circle cx="570" cy="119.8" r="2.6" fill="#2563EB"/><circle cx="570" cy="124.2" r="2.6" fill="#2563EB"/>
+<circle cx="570" cy="135.8" r="2.6" fill="#DC2626"/><circle cx="570" cy="140.2" r="2.6" fill="#DC2626"/>
+<circle cx="584" cy="119.8" r="2.6" fill="#2563EB"/><circle cx="584" cy="124.2" r="2.6" fill="#2563EB"/>
+<circle cx="584" cy="135.8" r="2.6" fill="#DC2626"/><circle cx="584" cy="140.2" r="2.6" fill="#DC2626"/>
+<circle cx="656" cy="119.8" r="2.6" fill="#2563EB"/><circle cx="656" cy="124.2" r="2.6" fill="#2563EB"/>
+<circle cx="656" cy="135.8" r="2.6" fill="#DC2626"/><circle cx="656" cy="140.2" r="2.6" fill="#DC2626"/>
+<circle cx="670" cy="119.8" r="2.6" fill="#2563EB"/><circle cx="670" cy="124.2" r="2.6" fill="#2563EB"/>
+<circle cx="670" cy="135.8" r="2.6" fill="#DC2626"/><circle cx="670" cy="140.2" r="2.6" fill="#DC2626"/>
+<circle cx="534.0" cy="162.0" r="2.6" fill="#2563EB"/>
+<circle cx="706.0" cy="162.0" r="2.6" fill="#2563EB"/>
+<circle cx="534.0" cy="98.0" r="2.6" fill="#2563EB"/>
+<circle cx="706.0" cy="98.0" r="2.6" fill="#2563EB"/>
+<text x="620" y="216" font-family="DejaVu Sans" font-size="7.8" fill="#334155" text-anchor="middle" font-weight="normal">O = C = O — two shared pairs in each bond</text>
+<rect x="24" y="246" width="712" height="40" rx="8" fill="#ECFDF5" stroke="#008751" stroke-width="1.1"/>
+<text x="380" y="263" font-family="DejaVu Sans" font-size="8.4" fill="#008751" text-anchor="middle" font-weight="bold">Ionic: electrons are transferred, and the ions then attract one another.   Covalent: electrons are shared between two atoms.</text>
+<text x="380" y="279" font-family="DejaVu Sans" font-size="8.0" fill="#334155" text-anchor="middle" font-weight="normal">Crosses show electrons that came from one atom; dots show electrons from the other — the origin is the only difference.</text>
+</svg>

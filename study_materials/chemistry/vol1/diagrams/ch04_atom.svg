@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 320" width="760" height="320">
+  <defs>
+    <marker id="ag" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#008751"/>
+    </marker>
+    <marker id="an" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#0E1F40"/>
+    </marker>
+    <marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#D97706"/>
+    </marker>
+    <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#DC2626"/>
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="760" height="320" fill="#FFFFFF"/>
+<text x="380" y="22" font-family="DejaVu Sans" font-size="12.6" fill="#0E1F40" text-anchor="middle" font-weight="bold">THE GOLD-FOIL EXPERIMENT AND WHAT IT PROVED</text>
+<rect x="20" y="120" width="54" height="60" rx="5" fill="#FEF3C7" stroke="#D97706" stroke-width="1.3"/>
+<text x="47" y="140" font-family="DejaVu Sans" font-size="15" fill="#D97706" text-anchor="middle" font-weight="bold">α</text>
+<text x="47" y="158" font-family="DejaVu Sans" font-size="6.8" fill="#D97706" text-anchor="middle" font-weight="normal">source</text>
+<text x="47" y="170" font-family="DejaVu Sans" font-size="6.4" fill="#64748B" text-anchor="middle" font-weight="normal">²⁴⁴Ra</text>
+<line x1="76" y1="150" x2="250" y2="150" stroke="#D97706" stroke-width="1.4" stroke-dasharray="5,3"/>
+<text x="150" y="142" font-family="DejaVu Sans" font-size="7.2" fill="#D97706" text-anchor="middle" font-weight="normal">beam of α particles</text>
+<rect x="250" y="66" width="5" height="170" rx="1" fill="#FDE68A" stroke="#B45309" stroke-width="1.2"/>
+<text x="252" y="58" font-family="DejaVu Sans" font-size="7.2" fill="#B45309" text-anchor="middle" font-weight="normal">thin gold foil</text>
+<text x="252" y="250" font-family="DejaVu Sans" font-size="6.8" fill="#64748B" text-anchor="middle" font-weight="normal">(a few thousand atoms thick)</text>
+<line x1="255" y1="150" x2="349.15" y2="150.0" stroke="#008751" stroke-width="1.5"/><polygon points="360.0,150.0 349.1,154.1 349.1,145.9" fill="#008751"/>
+<path d="M 255 146 L 300 132 L 344 96" fill="none" stroke="#008751" stroke-width="1.4" stroke-linecap="round"/><line x1="330" y1="108" x2="344.6597944719122" y2="94.67291411644342" stroke="#008751" stroke-width="1.2"/><polygon points="352.0,88.0 347.2,97.4 342.2,91.9" fill="#008751"/>
+<path d="M 255 154 L 300 170 L 330 216" fill="none" stroke="#DC2626" stroke-width="1.4" stroke-linecap="round"/><line x1="324" y1="202" x2="331.2497868636487" y2="215.2912759166893" stroke="#DC2626" stroke-width="1.2"/><polygon points="336.0,224.0 328.0,217.1 334.5,213.5" fill="#DC2626"/>
+<path d="M 255 150 L 276 148 L 250 120" fill="none" stroke="#7C3AED" stroke-width="1.2" stroke-linecap="round" stroke-dasharray="3,2"/><line x1="252" y1="128" x2="238.7779412659655" y2="117.4223530127724" stroke="#7C3AED" stroke-width="1.0"/><polygon points="232.0,112.0 240.8,114.9 236.7,120.0" fill="#7C3AED"/>
+<text x="372" y="146" font-family="DejaVu Sans" font-size="7.4" fill="#008751" text-anchor="start" font-weight="normal">most pass straight</text>
+<text x="372" y="160" font-family="DejaVu Sans" font-size="7.4" fill="#008751" text-anchor="start" font-weight="normal">through</text>
+<text x="346" y="236" font-family="DejaVu Sans" font-size="7.4" fill="#DC2626" text-anchor="start" font-weight="normal">a few are deflected</text>
+<text x="150" y="96" font-family="DejaVu Sans" font-size="7.4" fill="#7C3AED" text-anchor="start" font-weight="normal">a very few bounce back</text>
+<path d="M 300 60 A 96 96 0 0 1 300 240" fill="none" stroke="#CBD5E1" stroke-width="1.0" stroke-linecap="round" stroke-dasharray="4,3"/>
+<text x="300" y="270" font-family="DejaVu Sans" font-size="6.8" fill="#64748B" text-anchor="middle" font-weight="normal">fluorescent screen</text>
+<rect x="20" y="258" width="200" height="46" rx="6" fill="#FEE2E2" stroke="#DC2626" stroke-width="1.1"/>
+<text x="120" y="274" font-family="DejaVu Sans" font-size="7.2" fill="#334155" text-anchor="middle" font-weight="normal">the mass is concentrated in a tiny,</text>
+<text x="120" y="288" font-family="DejaVu Sans" font-size="7.2" fill="#334155" text-anchor="middle" font-weight="normal">positive nucleus (1/10 000 of the atom)</text>
+<rect x="440" y="40" width="300" height="200" rx="9" fill="#F8FBF9" stroke="#008751" stroke-width="1.4"/>
+<text x="590.0" y="62" font-family="DejaVu Sans" font-size="9.6" fill="#008751" text-anchor="middle" font-weight="bold">WHAT THE RESULT MEANS</text>
+<text x="456" y="86" font-family="DejaVu Sans" font-size="7.8" fill="#008751" text-anchor="start" font-weight="normal">The atom is mostly empty space.</text>
+<text x="456" y="103" font-family="DejaVu Sans" font-size="7.8" fill="#008751" text-anchor="start" font-weight="normal">It has a small, dense, positively</text>
+<text x="456" y="120" font-family="DejaVu Sans" font-size="7.8" fill="#008751" text-anchor="start" font-weight="normal">charged centre — the nucleus.</text>
+<text x="456" y="137" font-family="DejaVu Sans" font-size="7.8" fill="#2563EB" text-anchor="start" font-weight="normal">The electrons occupy the space</text>
+<text x="456" y="154" font-family="DejaVu Sans" font-size="7.8" fill="#2563EB" text-anchor="start" font-weight="normal">round the nucleus and carry</text>
+<text x="456" y="171" font-family="DejaVu Sans" font-size="7.8" fill="#2563EB" text-anchor="start" font-weight="normal">almost none of the mass.</text>
+<text x="456" y="188" font-family="DejaVu Sans" font-size="7.8" fill="#DC2626" text-anchor="start" font-weight="normal">Deflection needs a heavy positive</text>
+<text x="456" y="205" font-family="DejaVu Sans" font-size="7.8" fill="#DC2626" text-anchor="start" font-weight="normal">target: α particles are helium</text>
+<text x="456" y="222" font-family="DejaVu Sans" font-size="7.8" fill="#DC2626" text-anchor="start" font-weight="normal">nuclei, and like charges repel.</text>
+</svg>

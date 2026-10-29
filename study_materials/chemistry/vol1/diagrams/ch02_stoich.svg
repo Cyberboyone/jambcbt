@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 250" width="760" height="250">
+  <defs>
+    <marker id="ag" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#008751"/>
+    </marker>
+    <marker id="an" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#0E1F40"/>
+    </marker>
+    <marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#D97706"/>
+    </marker>
+    <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#DC2626"/>
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="760" height="250" fill="#FFFFFF"/>
+<text x="380" y="24" font-family="DejaVu Sans" font-size="12.6" fill="#0E1F40" text-anchor="middle" font-weight="bold">FOUR STEPS FROM AN EQUATION TO AN ANSWER</text>
+<rect x="24" y="60" width="166" height="74" rx="7" fill="#ECFDF5" stroke="#008751" stroke-width="1.4"/>
+<rect x="24" y="60" width="166" height="4.5" rx="2.2" fill="#008751"/>
+<text x="107" y="82" font-family="DejaVu Sans" font-size="9.0" fill="#008751" text-anchor="middle" font-weight="bold">1 · BALANCE</text>
+<text x="107" y="102" font-family="DejaVu Sans" font-size="7.6" fill="#334155" text-anchor="middle" font-weight="normal">the equation</text>
+<text x="107" y="116" font-family="DejaVu Sans" font-size="7.6" fill="#334155" text-anchor="middle" font-weight="normal">first</text>
+<line x1="192" y1="97" x2="192.07999999999998" y2="97.0" stroke="#334155" stroke-width="1.6"/><polygon points="202.0,97.0 192.1,100.7 192.1,93.3" fill="#334155"/>
+<rect x="206" y="60" width="166" height="74" rx="7" fill="#DBEAFE" stroke="#2563EB" stroke-width="1.4"/>
+<rect x="206" y="60" width="166" height="4.5" rx="2.2" fill="#2563EB"/>
+<text x="289" y="82" font-family="DejaVu Sans" font-size="9.0" fill="#2563EB" text-anchor="middle" font-weight="bold">2 · RATIO</text>
+<text x="289" y="102" font-family="DejaVu Sans" font-size="7.6" fill="#334155" text-anchor="middle" font-weight="normal">moles of wanted ÷</text>
+<text x="289" y="116" font-family="DejaVu Sans" font-size="7.6" fill="#334155" text-anchor="middle" font-weight="normal">moles of given</text>
+<line x1="374" y1="97" x2="374.08" y2="97.0" stroke="#334155" stroke-width="1.6"/><polygon points="384.0,97.0 374.1,100.7 374.1,93.3" fill="#334155"/>
+<rect x="388" y="60" width="166" height="74" rx="7" fill="#FEF3C7" stroke="#D97706" stroke-width="1.4"/>
+<rect x="388" y="60" width="166" height="4.5" rx="2.2" fill="#D97706"/>
+<text x="471" y="82" font-family="DejaVu Sans" font-size="9.0" fill="#D97706" text-anchor="middle" font-weight="bold">3 · MOLES</text>
+<text x="471" y="102" font-family="DejaVu Sans" font-size="7.6" fill="#334155" text-anchor="middle" font-weight="normal">of the substance</text>
+<text x="471" y="116" font-family="DejaVu Sans" font-size="7.6" fill="#334155" text-anchor="middle" font-weight="normal">you are asked about</text>
+<line x1="556" y1="97" x2="556.08" y2="97.0" stroke="#334155" stroke-width="1.6"/><polygon points="566.0,97.0 556.1,100.7 556.1,93.3" fill="#334155"/>
+<rect x="570" y="60" width="166" height="74" rx="7" fill="#EDE9FE" stroke="#7C3AED" stroke-width="1.4"/>
+<rect x="570" y="60" width="166" height="4.5" rx="2.2" fill="#7C3AED"/>
+<text x="653" y="82" font-family="DejaVu Sans" font-size="9.0" fill="#7C3AED" text-anchor="middle" font-weight="bold">4 · CONVERT</text>
+<text x="653" y="102" font-family="DejaVu Sans" font-size="7.6" fill="#334155" text-anchor="middle" font-weight="normal">to mass, gas volume</text>
+<text x="653" y="116" font-family="DejaVu Sans" font-size="7.6" fill="#334155" text-anchor="middle" font-weight="normal">or concentration</text>
+<rect x="24" y="152" width="712" height="84" rx="8" fill="#F8FBF9" stroke="#008751" stroke-width="1.1"/>
+<text x="380" y="172" font-family="DejaVu Sans" font-size="9.0" fill="#008751" text-anchor="middle" font-weight="bold">Worked pattern:  CaCO₃ → CaO + CO₂</text>
+<text x="380" y="192" font-family="DejaVu Sans" font-size="8.2" fill="#334155" text-anchor="middle" font-weight="normal">10 g of CaCO₃ (M_r 100) = 0.1 mol → ratio 1 : 1 → 0.1 mol CaO → 0.1 × 56 = 5.6 g of CaO</text>
+<text x="380" y="210" font-family="DejaVu Sans" font-size="8.2" fill="#334155" text-anchor="middle" font-weight="normal">…and 0.1 mol of CO₂, which is 0.1 × 24 = 2.4 dm³ at r.t.p., or 0.1 × 22.4 = 2.24 dm³ at s.t.p.</text>
+<text x="380" y="228" font-family="DejaVu Sans" font-size="8.2" fill="#0E1F40" text-anchor="middle" font-weight="bold">Never convert grams of one substance directly into grams of another — go through moles.</text>
+</svg>

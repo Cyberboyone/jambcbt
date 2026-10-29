@@ -1,0 +1,86 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 292" width="760" height="292">
+  <defs>
+    <marker id="ag" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#008751"/>
+    </marker>
+    <marker id="an" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#0E1F40"/>
+    </marker>
+    <marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#D97706"/>
+    </marker>
+    <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#DC2626"/>
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="760" height="292" fill="#FFFFFF"/>
+<text x="380" y="22" font-family="DejaVu Sans" font-size="13.2" fill="#0E1F40" text-anchor="middle" font-weight="bold">WHY A GAS BEHAVES AS IT DOES</text>
+<rect x="24" y="36" width="224" height="116" rx="9" fill="#F8FBF9" stroke="#008751" stroke-width="1.4"/>
+<circle cx="195.7805730540945" cy="121.09878949681145" r="3.4" fill="#008751"/>
+<line x1="195.7805730540945" y1="121.09878949681145" x2="196.45576497484078" y2="125.7803507609795" stroke="#64748B" stroke-width="0.8"/><polygon points="197.2,131.0 194.5,126.1 198.4,125.5" fill="#64748B"/>
+<circle cx="139.00380996425983" cy="75.15052144775646" r="3.4" fill="#2563EB"/>
+<circle cx="48.57041766680466" cy="83.7364615091256" r="3.4" fill="#D97706"/>
+<circle cx="118.06074826231973" cy="53.98421706341517" r="3.4" fill="#008751"/>
+<circle cx="47.55651130252494" cy="137.9274981257263" r="3.4" fill="#2563EB"/>
+<line x1="47.55651130252494" y1="137.9274981257263" x2="51.29384041417617" y2="135.02831356602604" stroke="#64748B" stroke-width="0.8"/><polygon points="55.5,131.8 52.5,136.6 50.1,133.5" fill="#64748B"/>
+<circle cx="165.86434587124558" cy="70.6368977469445" r="3.4" fill="#D97706"/>
+<circle cx="123.24972023612784" cy="135.72838500681448" r="3.4" fill="#008751"/>
+<circle cx="213.94481118927555" cy="124.2923313095692" r="3.4" fill="#2563EB"/>
+<circle cx="114.91131420961652" cy="93.38602564839334" r="3.4" fill="#D97706"/>
+<line x1="114.91131420961652" y1="93.38602564839334" x2="118.18700929527168" y2="89.97388237680954" stroke="#64748B" stroke-width="0.8"/><polygon points="121.8,86.2 119.6,91.3 116.8,88.6" fill="#64748B"/>
+<circle cx="170.63111295888893" cy="55.35063874030893" r="3.4" fill="#008751"/>
+<circle cx="210.41162997364475" cy="55.65087048347281" r="3.4" fill="#2563EB"/>
+<circle cx="171.11958047218752" cy="126.56778820482029" r="3.4" fill="#D97706"/>
+<text x="136" y="168" font-family="DejaVu Sans" font-size="9.8" fill="#008751" text-anchor="middle" font-weight="bold">1 · THE MODEL</text>
+<text x="136" y="184" font-family="DejaVu Sans" font-size="8.2" fill="#334155" text-anchor="middle" font-weight="normal">Pressure comes from the total</text>
+<text x="136" y="197" font-family="DejaVu Sans" font-size="8.2" fill="#334155" text-anchor="middle" font-weight="normal">force of the collisions per unit</text>
+<text x="136" y="210" font-family="DejaVu Sans" font-size="8.2" fill="#334155" text-anchor="middle" font-weight="normal">area of the walls.</text>
+<rect x="268" y="36" width="150" height="116" rx="9" fill="#F8FBF9" stroke="#2563EB" stroke-width="1.4"/>
+<circle cx="380.2103566969364" cy="121.09878949681145" r="3.4" fill="#008751"/>
+<line x1="380.2103566969364" y1="121.09878949681145" x2="375.4812590104549" y2="121.006404044952" stroke="#64748B" stroke-width="0.8"/><polygon points="370.2,120.9 375.5,119.0 375.4,123.0" fill="#64748B"/>
+<circle cx="344.86971844714134" cy="75.15052144775646" r="3.4" fill="#2563EB"/>
+<circle cx="288.5795456905621" cy="83.7364615091256" r="3.4" fill="#D97706"/>
+<circle cx="331.83373106123986" cy="53.98421706341517" r="3.4" fill="#008751"/>
+<circle cx="287.9484407087145" cy="137.9274981257263" r="3.4" fill="#2563EB"/>
+<line x1="287.9484407087145" y1="137.9274981257263" x2="283.59057724698766" y2="139.7664994984682" stroke="#64748B" stroke-width="0.8"/><polygon points="278.7,141.8 282.8,137.9 284.4,141.6" fill="#64748B"/>
+<circle cx="361.5890316137345" cy="70.6368977469445" r="3.4" fill="#D97706"/>
+<circle cx="335.0636013714673" cy="135.72838500681448" r="3.4" fill="#008751"/>
+<circle cx="329.87336904884296" cy="93.38602564839334" r="3.4" fill="#2563EB"/>
+<circle cx="389.3174431468605" cy="55.65087048347281" r="3.4" fill="#D97706"/>
+<line x1="389.3174431468605" y1="55.65087048347281" x2="390.68978447311474" y2="60.177412130719055" stroke="#64748B" stroke-width="0.8"/><polygon points="392.2,65.2 388.8,60.7 392.6,59.6" fill="#64748B"/>
+<circle cx="364.86014702860655" cy="126.56778820482029" r="3.4" fill="#008751"/>
+<circle cx="309.73286006963076" cy="128.7994450684431" r="3.4" fill="#2563EB"/>
+<circle cx="368.3144592151356" cy="50.10557215564092" r="3.4" fill="#D97706"/>
+<rect x="418" y="40" width="8" height="108" rx="2" fill="#E2E8F0" stroke="#334155" stroke-width="1.2"/>
+<rect x="426" y="84" width="14" height="22" rx="3" fill="#E2E8F0" stroke="#334155" stroke-width="1.2"/>
+<line x1="470" y1="95" x2="444.85" y2="95.0" stroke="#2563EB" stroke-width="1.6"/><polygon points="434.0,95.0 444.9,90.9 444.9,99.1" fill="#2563EB"/>
+<text x="452" y="84" font-family="DejaVu Sans" font-size="8.4" fill="#2563EB" text-anchor="middle" font-weight="bold">push</text>
+<text x="343" y="168" font-family="DejaVu Sans" font-size="9.8" fill="#2563EB" text-anchor="middle" font-weight="bold">2 · SMALLER VOLUME</text>
+<text x="343" y="184" font-family="DejaVu Sans" font-size="8.2" fill="#334155" text-anchor="middle" font-weight="normal">The same molecules now hit</text>
+<text x="343" y="197" font-family="DejaVu Sans" font-size="8.2" fill="#334155" text-anchor="middle" font-weight="normal">the walls more often, so the</text>
+<text x="343" y="210" font-family="DejaVu Sans" font-size="8.2" fill="#334155" text-anchor="middle" font-weight="normal">pressure rises (Boyle).</text>
+<rect x="512" y="36" width="224" height="116" rx="9" fill="#F8FBF9" stroke="#D97706" stroke-width="1.4"/>
+<circle cx="683.7805730540945" cy="121.09878949681145" r="3.4" fill="#008751"/>
+<line x1="683.7805730540945" y1="121.09878949681145" x2="686.0259787440182" y2="136.66770253811455" stroke="#64748B" stroke-width="0.8"/><polygon points="686.8,141.9 684.1,136.9 688.0,136.4" fill="#64748B"/>
+<circle cx="627.0038099642599" cy="75.15052144775646" r="3.4" fill="#2563EB"/>
+<circle cx="536.5704176668047" cy="83.7364615091256" r="3.4" fill="#D97706"/>
+<circle cx="606.0607482623197" cy="53.98421706341517" r="3.4" fill="#008751"/>
+<circle cx="535.556511302525" cy="137.9274981257263" r="3.4" fill="#2563EB"/>
+<line x1="535.556511302525" y1="137.9274981257263" x2="547.985303464528" y2="128.28602389230457" stroke="#64748B" stroke-width="0.8"/><polygon points="552.1,125.1 549.2,129.8 546.8,126.7" fill="#64748B"/>
+<circle cx="653.8643458712456" cy="70.6368977469445" r="3.4" fill="#D97706"/>
+<circle cx="611.2497202361278" cy="135.72838500681448" r="3.4" fill="#008751"/>
+<circle cx="701.9448111892756" cy="124.2923313095692" r="3.4" fill="#2563EB"/>
+<circle cx="602.9113142096165" cy="93.38602564839334" r="3.4" fill="#D97706"/>
+<line x1="602.9113142096165" y1="93.38602564839334" x2="613.804904843307" y2="82.03866546614952" stroke="#64748B" stroke-width="0.8"/><polygon points="617.5,78.2 615.2,83.4 612.4,80.7" fill="#64748B"/>
+<circle cx="658.6311129588889" cy="55.35063874030893" r="3.4" fill="#008751"/>
+<circle cx="698.4116299736447" cy="55.65087048347281" r="3.4" fill="#2563EB"/>
+<circle cx="659.1195804721875" cy="126.56778820482029" r="3.4" fill="#D97706"/>
+<text x="624" y="168" font-family="DejaVu Sans" font-size="9.8" fill="#D97706" text-anchor="middle" font-weight="bold">3 · HIGHER TEMPERATURE</text>
+<text x="624" y="184" font-family="DejaVu Sans" font-size="8.2" fill="#334155" text-anchor="middle" font-weight="normal">Heat added: the molecules move</text>
+<text x="624" y="197" font-family="DejaVu Sans" font-size="8.2" fill="#334155" text-anchor="middle" font-weight="normal">faster, collide harder and more</text>
+<text x="624" y="210" font-family="DejaVu Sans" font-size="8.2" fill="#334155" text-anchor="middle" font-weight="normal">often, so the pressure rises if</text>
+<text x="624" y="223" font-family="DejaVu Sans" font-size="8.2" fill="#334155" text-anchor="middle" font-weight="normal">the volume is held constant.</text>
+<rect x="24" y="234" width="712" height="48" rx="8" fill="#ECFDF5" stroke="#008751" stroke-width="1.1"/>
+<text x="380" y="252" font-family="DejaVu Sans" font-size="9.2" fill="#008751" text-anchor="middle" font-weight="bold">Volume down → pressure up  ·  Temperature up → pressure up  ·  More moles → pressure up</text>
+<text x="380" y="272" font-family="DejaVu Sans" font-size="8.4" fill="#334155" text-anchor="middle" font-weight="normal">Absolute temperature means kelvin: T(K) = °C + 273. At 0 K every motion stops and the pressure would be zero.</text>
+</svg>

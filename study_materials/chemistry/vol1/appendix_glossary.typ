@@ -1,0 +1,128 @@
+#import "template.typ": *
+
+#current-chapter.update("Appendix F: Glossary")
+#pagebreak()
+
+#hide[#heading(level: 1, outlined: true)[Appendix F: Glossary of Key Terms]]
+
+#block(
+  width: 100%,
+  fill: jamb-navy,
+  stroke: 1.5pt + jamb-bright,
+  radius: 10pt,
+  inset: 18pt,
+)[
+  #text(font: "DejaVu Sans", size: 8.8pt, weight: "bold", fill: rgb("#A7F3D0"))[APPENDIX F]
+  #v(6pt)
+  #text(font: "DejaVu Sans", size: 20pt, weight: "bold", fill: white)[Glossary of Key Terms]
+  #v(4pt)
+  #text(font: "DejaVu Sans", size: 10.5pt, fill: rgb("#CBD5E1"))[Ninety definitions in the exact wording the examiner rewards. Read a column a night; the definitions are also the answers to the “define” questions that open many papers.]
+]
+
+#v(4pt)
+
+#[
+  #set text(size: 8.9pt)
+  #table(
+    columns: (1.05fr, 2.85fr),
+    inset: (x: 5pt, y: 3.0pt),
+    align: (left + horizon, left + horizon),
+    stroke: (x, y) => if y == 0 { 1pt + jamb-navy } else { (bottom: 0.3pt + jamb-border) },
+    fill: (x, y) => if y == 0 { jamb-navy } else if calc.odd(y) { white } else { jamb-light },
+    table.header(
+      text(font: "DejaVu Sans", size: 8.0pt, weight: "bold", fill: white)[Term],
+      text(font: "DejaVu Sans", size: 8.0pt, weight: "bold", fill: white)[Definition],
+    ),
+    [matter], [anything that has mass and occupies space],
+    [element], [a substance that cannot be split into simpler substances by chemical means],
+    [compound], [a substance formed when two or more elements combine chemically in a fixed ratio],
+    [mixture], [two or more substances combined without chemical bonding, in variable proportions],
+    [atom], [the smallest particle of an element that can take part in a chemical reaction],
+    [molecule], [the smallest particle of a covalent substance, made of two or more atoms bonded together],
+    [ion], [an atom or group of atoms that has gained or lost electrons and so carries a charge],
+    [sublimation], [the change of a solid directly to a gas without passing through the liquid state],
+    [fusion], [the change of a solid to a liquid on heating],
+    [filtrate], [the liquid that passes through the filter paper during filtration],
+    [residue], [the insoluble solid left on the filter paper during filtration],
+    [distillation], [separation by boiling off a liquid and condensing its vapour],
+    [chromatography], [separation of dissolved substances by their different rates of movement up a stationary phase],
+    [Rf value], [distance moved by the spot divided by distance moved by the solvent front],
+    [pure substance], [a substance that melts at a sharp, constant temperature and contains only one kind of particle],
+    [mole], [the amount of substance containing $6.02 times 10^23$ particles],
+    [Avogadro's constant], [the number of particles in one mole, $6.02 times 10^23$ mol⁻¹],
+    [relative atomic mass], [the average mass of the atoms of an element compared with 1/12 the mass of a carbon-12 atom],
+    [relative molecular mass], [the sum of the relative atomic masses in a molecular formula],
+    [relative formula mass], [the sum of the relative atomic masses in the formula of an ionic compound],
+    [empirical formula], [the simplest whole-number ratio of the atoms in a compound],
+    [molecular formula], [the actual number of atoms of each element in one molecule],
+    [molar volume], [the volume occupied by one mole of a gas — 22.4 dm³ at s.t.p. and 24 dm³ at r.t.p.],
+    [limiting reagent], [the reactant used up first, which controls the amount of product formed],
+    [percentage yield], [the actual yield divided by the theoretical yield, multiplied by 100],
+    [Boyle's law], [at constant temperature the volume of a fixed mass of gas is inversely proportional to its pressure],
+    [Charles' law], [at constant pressure the volume of a fixed mass of gas is directly proportional to its absolute temperature],
+    [pressure law], [at constant volume the pressure of a fixed mass of gas is directly proportional to its absolute temperature],
+    [ideal gas], [a gas that obeys $P V = n R T$ exactly, with no forces between particles and negligible particle volume],
+    [Dalton's law], [the total pressure of a mixture of non-reacting gases is the sum of their partial pressures],
+    [diffusion], [the spreading of the particles of one substance through another by random motion],
+    [Graham's law], [the rate of diffusion of a gas is inversely proportional to the square root of its relative molecular mass],
+    [kinetic theory], [the model in which a gas consists of particles in constant random motion with elastic collisions],
+    [absolute zero], [the temperature at which particles have minimum kinetic energy, 0 K or −273 °C],
+    [atomic number], [the number of protons in the nucleus of an atom],
+    [mass number], [the total number of protons and neutrons in the nucleus],
+    [isotope], [atoms of the same element with the same number of protons but different numbers of neutrons],
+    [nucleon], [a proton or a neutron, found in the nucleus],
+    [shell], [a region of fixed energy around the nucleus in which electrons are found],
+    [orbital], [a region of space that holds at most two electrons of opposite spin],
+    [subshell], [a group of orbitals of equal energy within a shell, labelled s, p, d or f],
+    [aufbau principle], [electrons occupy the lowest available energy level first],
+    [Pauli exclusion principle], [no orbital may hold more than two electrons, and they must have opposite spins],
+    [Hund's rule], [orbitals of equal energy are filled singly, with parallel spins, before any is paired],
+    [ionisation energy], [the energy needed to remove one mole of electrons from one mole of gaseous atoms],
+    [period], [a horizontal row of the periodic table],
+    [group], [a vertical column of the periodic table, whose members have the same number of outer electrons],
+    [periodicity], [the regular repetition of properties with increasing atomic number],
+    [electronegativity], [the tendency of an atom to attract the shared pair of electrons in a covalent bond],
+    [metal], [an element that loses electrons to form positive ions and conducts when solid],
+    [non-metal], [an element that gains or shares electrons and does not conduct when solid],
+    [metalloid], [an element with properties between those of metals and non-metals],
+    [amphoteric], [describing an oxide that reacts with both acids and alkalis],
+    [transition metal], [a $d$-block metal with variable oxidation states and coloured compounds],
+    [alkali metal], [a Group I metal, soft and highly reactive with water],
+    [halogen], [a Group VII non-metal with seven outer electrons, forming 1− ions],
+    [noble gas], [a Group 0 element with a full outer shell, and so almost unreactive],
+    [displacement], [a reaction in which a more reactive element takes the place of a less reactive one in a compound],
+    [chemical bond], [the force holding atoms together in a compound],
+    [ionic bond], [the electrostatic attraction between oppositely charged ions],
+    [covalent bond], [a bond formed by a shared pair of electrons between two atoms],
+    [co-ordinate bond], [a covalent bond in which both electrons of the shared pair come from the same atom],
+    [metallic bond], [the attraction between a lattice of positive ions and a sea of delocalised electrons],
+    [lattice], [a regular three-dimensional arrangement of ions or atoms],
+    [delocalised electron], [an electron not attached to any one atom but free to move through a structure],
+    [giant covalent structure], [a network of covalently bonded atoms extending throughout the substance],
+    [simple molecular substance], [a substance made of small discrete molecules held together by weak intermolecular forces],
+    [van der Waals force], [a weak attraction between molecules caused by temporary dipoles],
+    [dipole–dipole force], [an attraction between the permanent dipoles of polar molecules],
+    [hydrogen bond], [a strong attraction between a hydrogen atom bonded to N, O or F and a lone pair on a neighbouring molecule],
+    [bond energy], [the energy needed to break one mole of a particular bond in the gaseous state],
+    [bond angle], [the angle between two bonds meeting at the same atom],
+    [octet rule], [atoms tend to gain, lose or share electrons until surrounded by eight in their outer shell],
+    [oxidation state], [the charge an atom would carry if the bonding electrons were assigned to the more electronegative atom],
+    [solution], [a homogeneous mixture of a solute dissolved in a solvent],
+    [concentration], [the amount of solute in moles per cubic decimetre of solution],
+    [standard solution], [a solution whose concentration is known accurately],
+    [titration], [a procedure for finding the concentration of a solution by reacting measured volumes],
+    [indicator], [a substance that changes colour at a particular pH],
+    [precipitate], [an insoluble solid formed when two solutions react],
+    [catalyst], [a substance that speeds up a reaction without being used up],
+    [exothermic], [describing a reaction that releases heat to the surroundings],
+    [endothermic], [describing a reaction that absorbs heat from the surroundings],
+    [reduction], [the gain of electrons, or the loss of oxygen, by a substance],
+    [oxidation], [the loss of electrons, or the gain of oxygen, by a substance],
+    [electrolysis], [the decomposition of a compound by passing a direct current through it, molten or in solution],
+    [alloy], [a mixture of a metal with other elements, usually to improve its properties],
+    [anhydrous], [containing no water of crystallisation],
+    [hydrated], [containing water of crystallisation within the crystal lattice],
+    [effervescence], [the escape of bubbles of gas from a liquid during a reaction],
+    [meniscus], [the curved upper surface of a liquid in a narrow tube, read at its lowest point],
+  )
+]

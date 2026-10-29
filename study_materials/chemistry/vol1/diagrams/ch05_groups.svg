@@ -1,0 +1,99 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 350" width="760" height="350">
+  <defs>
+    <marker id="ag" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#008751"/>
+    </marker>
+    <marker id="an" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#0E1F40"/>
+    </marker>
+    <marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#D97706"/>
+    </marker>
+    <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#DC2626"/>
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="760" height="350" fill="#FFFFFF"/>
+<text x="380" y="22" font-family="DejaVu Sans" font-size="13.2" fill="#0E1F40" text-anchor="middle" font-weight="bold">THE MAIN GROUPS OF THE PERIODIC TABLE</text>
+<text x="123.0" y="60" font-family="DejaVu Sans" font-size="10.0" fill="#0E1F40" text-anchor="middle" font-weight="bold">I</text>
+<text x="197.0" y="60" font-family="DejaVu Sans" font-size="10.0" fill="#0E1F40" text-anchor="middle" font-weight="bold">II</text>
+<text x="271.0" y="60" font-family="DejaVu Sans" font-size="10.0" fill="#0E1F40" text-anchor="middle" font-weight="bold">III</text>
+<text x="345.0" y="60" font-family="DejaVu Sans" font-size="10.0" fill="#0E1F40" text-anchor="middle" font-weight="bold">IV</text>
+<text x="419.0" y="60" font-family="DejaVu Sans" font-size="10.0" fill="#0E1F40" text-anchor="middle" font-weight="bold">V</text>
+<text x="493.0" y="60" font-family="DejaVu Sans" font-size="10.0" fill="#0E1F40" text-anchor="middle" font-weight="bold">VI</text>
+<text x="567.0" y="60" font-family="DejaVu Sans" font-size="10.0" fill="#0E1F40" text-anchor="middle" font-weight="bold">VII</text>
+<text x="641.0" y="60" font-family="DejaVu Sans" font-size="10.0" fill="#0E1F40" text-anchor="middle" font-weight="bold">0</text>
+<text x="64" y="99" font-family="DejaVu Sans" font-size="9.6" fill="#64748B" text-anchor="middle" font-weight="bold">1</text>
+<rect x="89" y="74" width="68" height="34" rx="5" fill="#DBEAFE" stroke="#2563EB" stroke-width="1.3"/>
+<text x="123.0" y="96.0" font-family="DejaVu Sans" font-size="10.6" fill="#0E1F40" text-anchor="middle" font-weight="bold">H</text>
+<rect x="163" y="74" width="68" height="34" rx="5" fill="#FFFFFF" stroke="#E2E8F0" stroke-width="0.8"/>
+<rect x="237" y="74" width="68" height="34" rx="5" fill="#FFFFFF" stroke="#E2E8F0" stroke-width="0.8"/>
+<rect x="311" y="74" width="68" height="34" rx="5" fill="#FFFFFF" stroke="#E2E8F0" stroke-width="0.8"/>
+<rect x="385" y="74" width="68" height="34" rx="5" fill="#FFFFFF" stroke="#E2E8F0" stroke-width="0.8"/>
+<rect x="459" y="74" width="68" height="34" rx="5" fill="#FFFFFF" stroke="#E2E8F0" stroke-width="0.8"/>
+<rect x="533" y="74" width="68" height="34" rx="5" fill="#FFFFFF" stroke="#E2E8F0" stroke-width="0.8"/>
+<rect x="607" y="74" width="68" height="34" rx="5" fill="#EDE9FE" stroke="#7C3AED" stroke-width="1.3"/>
+<text x="641.0" y="96.0" font-family="DejaVu Sans" font-size="10.6" fill="#0E1F40" text-anchor="middle" font-weight="bold">He</text>
+<text x="64" y="139" font-family="DejaVu Sans" font-size="9.6" fill="#64748B" text-anchor="middle" font-weight="bold">2</text>
+<rect x="89" y="114" width="68" height="34" rx="5" fill="#ECFDF5" stroke="#008751" stroke-width="1.3"/>
+<text x="123.0" y="136.0" font-family="DejaVu Sans" font-size="10.6" fill="#0E1F40" text-anchor="middle" font-weight="bold">Li</text>
+<rect x="163" y="114" width="68" height="34" rx="5" fill="#ECFDF5" stroke="#008751" stroke-width="1.3"/>
+<text x="197.0" y="136.0" font-family="DejaVu Sans" font-size="10.6" fill="#0E1F40" text-anchor="middle" font-weight="bold">Be</text>
+<rect x="237" y="114" width="68" height="34" rx="5" fill="#FEF3C7" stroke="#D97706" stroke-width="1.3"/>
+<text x="271.0" y="136.0" font-family="DejaVu Sans" font-size="10.6" fill="#0E1F40" text-anchor="middle" font-weight="bold">B</text>
+<rect x="311" y="114" width="68" height="34" rx="5" fill="#DBEAFE" stroke="#2563EB" stroke-width="1.3"/>
+<text x="345.0" y="136.0" font-family="DejaVu Sans" font-size="10.6" fill="#0E1F40" text-anchor="middle" font-weight="bold">C</text>
+<rect x="385" y="114" width="68" height="34" rx="5" fill="#DBEAFE" stroke="#2563EB" stroke-width="1.3"/>
+<text x="419.0" y="136.0" font-family="DejaVu Sans" font-size="10.6" fill="#0E1F40" text-anchor="middle" font-weight="bold">N</text>
+<rect x="459" y="114" width="68" height="34" rx="5" fill="#DBEAFE" stroke="#2563EB" stroke-width="1.3"/>
+<text x="493.0" y="136.0" font-family="DejaVu Sans" font-size="10.6" fill="#0E1F40" text-anchor="middle" font-weight="bold">O</text>
+<rect x="533" y="114" width="68" height="34" rx="5" fill="#DBEAFE" stroke="#2563EB" stroke-width="1.3"/>
+<text x="567.0" y="136.0" font-family="DejaVu Sans" font-size="10.6" fill="#0E1F40" text-anchor="middle" font-weight="bold">F</text>
+<rect x="607" y="114" width="68" height="34" rx="5" fill="#EDE9FE" stroke="#7C3AED" stroke-width="1.3"/>
+<text x="641.0" y="136.0" font-family="DejaVu Sans" font-size="10.6" fill="#0E1F40" text-anchor="middle" font-weight="bold">Ne</text>
+<text x="64" y="179" font-family="DejaVu Sans" font-size="9.6" fill="#64748B" text-anchor="middle" font-weight="bold">3</text>
+<rect x="89" y="154" width="68" height="34" rx="5" fill="#ECFDF5" stroke="#008751" stroke-width="1.3"/>
+<text x="123.0" y="176.0" font-family="DejaVu Sans" font-size="10.6" fill="#0E1F40" text-anchor="middle" font-weight="bold">Na</text>
+<rect x="163" y="154" width="68" height="34" rx="5" fill="#ECFDF5" stroke="#008751" stroke-width="1.3"/>
+<text x="197.0" y="176.0" font-family="DejaVu Sans" font-size="10.6" fill="#0E1F40" text-anchor="middle" font-weight="bold">Mg</text>
+<rect x="237" y="154" width="68" height="34" rx="5" fill="#ECFDF5" stroke="#008751" stroke-width="1.3"/>
+<text x="271.0" y="176.0" font-family="DejaVu Sans" font-size="10.6" fill="#0E1F40" text-anchor="middle" font-weight="bold">Al</text>
+<rect x="311" y="154" width="68" height="34" rx="5" fill="#FEF3C7" stroke="#D97706" stroke-width="1.3"/>
+<text x="345.0" y="176.0" font-family="DejaVu Sans" font-size="10.6" fill="#0E1F40" text-anchor="middle" font-weight="bold">Si</text>
+<rect x="385" y="154" width="68" height="34" rx="5" fill="#DBEAFE" stroke="#2563EB" stroke-width="1.3"/>
+<text x="419.0" y="176.0" font-family="DejaVu Sans" font-size="10.6" fill="#0E1F40" text-anchor="middle" font-weight="bold">P</text>
+<rect x="459" y="154" width="68" height="34" rx="5" fill="#DBEAFE" stroke="#2563EB" stroke-width="1.3"/>
+<text x="493.0" y="176.0" font-family="DejaVu Sans" font-size="10.6" fill="#0E1F40" text-anchor="middle" font-weight="bold">S</text>
+<rect x="533" y="154" width="68" height="34" rx="5" fill="#DBEAFE" stroke="#2563EB" stroke-width="1.3"/>
+<text x="567.0" y="176.0" font-family="DejaVu Sans" font-size="10.6" fill="#0E1F40" text-anchor="middle" font-weight="bold">Cl</text>
+<rect x="607" y="154" width="68" height="34" rx="5" fill="#EDE9FE" stroke="#7C3AED" stroke-width="1.3"/>
+<text x="641.0" y="176.0" font-family="DejaVu Sans" font-size="10.6" fill="#0E1F40" text-anchor="middle" font-weight="bold">Ar</text>
+<text x="64" y="219" font-family="DejaVu Sans" font-size="9.6" fill="#64748B" text-anchor="middle" font-weight="bold">4</text>
+<rect x="89" y="194" width="68" height="34" rx="5" fill="#ECFDF5" stroke="#008751" stroke-width="1.3"/>
+<text x="123.0" y="216.0" font-family="DejaVu Sans" font-size="10.6" fill="#0E1F40" text-anchor="middle" font-weight="bold">K</text>
+<rect x="163" y="194" width="68" height="34" rx="5" fill="#ECFDF5" stroke="#008751" stroke-width="1.3"/>
+<text x="197.0" y="216.0" font-family="DejaVu Sans" font-size="10.6" fill="#0E1F40" text-anchor="middle" font-weight="bold">Ca</text>
+<rect x="237" y="194" width="68" height="34" rx="5" fill="#ECFDF5" stroke="#008751" stroke-width="1.3"/>
+<text x="271.0" y="216.0" font-family="DejaVu Sans" font-size="10.6" fill="#0E1F40" text-anchor="middle" font-weight="bold">Ga</text>
+<rect x="311" y="194" width="68" height="34" rx="5" fill="#FEF3C7" stroke="#D97706" stroke-width="1.3"/>
+<text x="345.0" y="216.0" font-family="DejaVu Sans" font-size="10.6" fill="#0E1F40" text-anchor="middle" font-weight="bold">Ge</text>
+<rect x="385" y="194" width="68" height="34" rx="5" fill="#FEF3C7" stroke="#D97706" stroke-width="1.3"/>
+<text x="419.0" y="216.0" font-family="DejaVu Sans" font-size="10.6" fill="#0E1F40" text-anchor="middle" font-weight="bold">As</text>
+<rect x="459" y="194" width="68" height="34" rx="5" fill="#DBEAFE" stroke="#2563EB" stroke-width="1.3"/>
+<text x="493.0" y="216.0" font-family="DejaVu Sans" font-size="10.6" fill="#0E1F40" text-anchor="middle" font-weight="bold">Se</text>
+<rect x="533" y="194" width="68" height="34" rx="5" fill="#DBEAFE" stroke="#2563EB" stroke-width="1.3"/>
+<text x="567.0" y="216.0" font-family="DejaVu Sans" font-size="10.6" fill="#0E1F40" text-anchor="middle" font-weight="bold">Br</text>
+<rect x="607" y="194" width="68" height="34" rx="5" fill="#EDE9FE" stroke="#7C3AED" stroke-width="1.3"/>
+<text x="641.0" y="216.0" font-family="DejaVu Sans" font-size="10.6" fill="#0E1F40" text-anchor="middle" font-weight="bold">Kr</text>
+<rect x="96" y="250" width="16" height="12" rx="3" fill="#ECFDF5" stroke="#008751" stroke-width="1.1"/>
+<text x="118" y="260" font-family="DejaVu Sans" font-size="8.0" fill="#334155" text-anchor="start" font-weight="normal">metal</text>
+<rect x="256" y="250" width="16" height="12" rx="3" fill="#FEF3C7" stroke="#D97706" stroke-width="1.1"/>
+<text x="278" y="260" font-family="DejaVu Sans" font-size="8.0" fill="#334155" text-anchor="start" font-weight="normal">metalloid</text>
+<rect x="416" y="250" width="16" height="12" rx="3" fill="#DBEAFE" stroke="#2563EB" stroke-width="1.1"/>
+<text x="438" y="260" font-family="DejaVu Sans" font-size="8.0" fill="#334155" text-anchor="start" font-weight="normal">non-metal</text>
+<rect x="576" y="250" width="16" height="12" rx="3" fill="#EDE9FE" stroke="#7C3AED" stroke-width="1.1"/>
+<text x="598" y="260" font-family="DejaVu Sans" font-size="8.0" fill="#334155" text-anchor="start" font-weight="normal">noble gas</text>
+<text x="380" y="292" font-family="DejaVu Sans" font-size="8.2" fill="#334155" text-anchor="middle" font-weight="normal">Group I — alkali metals · Group II — alkaline earth metals · Group VII — halogens · Group 0 — noble gases</text>
+<text x="380" y="312" font-family="DejaVu Sans" font-size="8.2" fill="#0E1F40" text-anchor="middle" font-weight="bold">Elements in the same group have the same number of outer-shell electrons, which is why their chemistry is so similar.</text>
+<text x="380" y="332" font-family="DejaVu Sans" font-size="8.6" fill="#DC2626" text-anchor="middle" font-weight="bold">Metallic character increases down a group, and towards the left across a period.</text>
+</svg>

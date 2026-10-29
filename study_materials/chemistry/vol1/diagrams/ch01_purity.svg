@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 330" width="760" height="330">
+  <defs>
+    <marker id="ag" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#008751"/>
+    </marker>
+    <marker id="an" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#0E1F40"/>
+    </marker>
+    <marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#D97706"/>
+    </marker>
+    <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#DC2626"/>
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="760" height="330" fill="#FFFFFF"/>
+<text x="380" y="24" font-family="DejaVu Sans" font-size="12.6" fill="#0E1F40" text-anchor="middle" font-weight="bold">MELTING POINT — HOW A PURE SUBSTANCE IS RECOGNISED</text>
+<line x1="96" y1="272" x2="680" y2="272" stroke="#0E1F40" stroke-width="1.4"/>
+<line x1="96" y1="272" x2="96" y2="62" stroke="#0E1F40" stroke-width="1.4"/>
+<text x="104" y="74" font-family="DejaVu Sans" font-size="8.2" fill="#64748B" text-anchor="start" font-weight="normal">temperature</text>
+<text x="680" y="290" font-family="DejaVu Sans" font-size="8.2" fill="#64748B" text-anchor="end" font-weight="normal">time of heating</text>
+<path d="M 96 246 L 210 186 L 250 158" fill="none" stroke="#008751" stroke-width="2.0" stroke-linecap="round"/>
+<line x1="250" y1="158" x2="430" y2="158" stroke="#008751" stroke-width="3.6"/>
+<path d="M 430 158 L 470 128 L 560 114" fill="none" stroke="#008751" stroke-width="2.0" stroke-linecap="round"/>
+<path d="M 96 246 L 190 216 L 260 204 L 340 196 L 420 190 L 470 172 L 540 162" fill="none" stroke="#D97706" stroke-width="2.0" stroke-linecap="round"/>
+<line x1="268" y1="203" x2="418" y2="190" stroke="#D97706" stroke-width="3.0"/>
+<line x1="340" y1="158" x2="340" y2="266" stroke="#CBD5E1" stroke-width="0.9" stroke-dasharray="3 3"/>
+<text x="340" y="262" font-family="DejaVu Sans" font-size="7.4" fill="#64748B" text-anchor="middle" font-weight="normal">m.p. of the pure solid</text>
+<line x1="600" y1="80" x2="640" y2="80" stroke="#008751" stroke-width="3.2"/>
+<text x="648" y="83" font-family="DejaVu Sans" font-size="7.6" fill="#008751" text-anchor="start" font-weight="normal">pure: a sharp plateau at a</text>
+<text x="648" y="95" font-family="DejaVu Sans" font-size="7.6" fill="#008751" text-anchor="start" font-weight="normal">constant temperature</text>
+<line x1="600" y1="118" x2="640" y2="118" stroke="#D97706" stroke-width="3.2"/>
+<text x="648" y="121" font-family="DejaVu Sans" font-size="7.6" fill="#D97706" text-anchor="start" font-weight="normal">impure: melts lower and</text>
+<text x="648" y="133" font-family="DejaVu Sans" font-size="7.6" fill="#D97706" text-anchor="start" font-weight="normal">over a range of temperature</text>
+<text x="150" y="210" font-family="DejaVu Sans" font-size="7.4" fill="#64748B" text-anchor="start" font-weight="normal">liquid</text>
+<rect x="60" y="300" width="640" height="22" rx="6" fill="#ECFDF5" stroke="#008751" stroke-width="1.0"/>
+<text x="380" y="315" font-family="DejaVu Sans" font-size="8.4" fill="#008751" text-anchor="middle" font-weight="bold">A pure solid melts sharply; an impurity lowers the melting point and spreads it over a range.</text>
+</svg>
