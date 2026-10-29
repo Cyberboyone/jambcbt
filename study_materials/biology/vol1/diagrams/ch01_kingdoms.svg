@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 300" width="760" height="300">
+  <defs>
+    <marker id="ag" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#008751"/>
+    </marker>
+    <marker id="an" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#0E1F40"/>
+    </marker>
+    <marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#D97706"/>
+    </marker>
+    <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#DC2626"/>
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="760" height="300" fill="#FFFFFF"/>
+<text x="380" y="24" font-family="DejaVu Sans" font-size="13.5" fill="#0E1F40" text-anchor="middle" font-weight="bold">THE FIVE KINGDOMS OF LIFE</text>
+<rect x="24" y="46" width="150" height="40" rx="7" fill="#FFFFFF" stroke="#008751" stroke-width="1.5"/>
+<text x="99" y="71" font-family="DejaVu Sans" font-size="10.5" fill="#008751" text-anchor="middle" font-weight="bold">MONERA</text>
+<rect x="186" y="46" width="550" height="40" rx="7" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="1.0"/>
+<text x="196" y="63" font-family="DejaVu Sans" font-size="9.4" fill="#0E1F40" text-anchor="start" font-weight="normal">Prokaryotes — bacteria, cyanobacteria</text>
+<text x="196" y="78" font-family="DejaVu Sans" font-size="8.8" fill="#64748B" text-anchor="start" font-weight="normal">No nucleus, no membrane-bound organelles</text>
+<rect x="24" y="94" width="150" height="40" rx="7" fill="#FFFFFF" stroke="#2563EB" stroke-width="1.5"/>
+<text x="99" y="119" font-family="DejaVu Sans" font-size="10.5" fill="#2563EB" text-anchor="middle" font-weight="bold">PROTISTA</text>
+<rect x="186" y="94" width="550" height="40" rx="7" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="1.0"/>
+<text x="196" y="111" font-family="DejaVu Sans" font-size="9.4" fill="#0E1F40" text-anchor="start" font-weight="normal">Eukaryotes — Amoeba, Paramecium, Euglena, Plasmodium</text>
+<text x="196" y="126" font-family="DejaVu Sans" font-size="8.8" fill="#64748B" text-anchor="start" font-weight="normal">Mostly single-celled; nucleus present</text>
+<rect x="24" y="142" width="150" height="40" rx="7" fill="#FFFFFF" stroke="#7C3AED" stroke-width="1.5"/>
+<text x="99" y="167" font-family="DejaVu Sans" font-size="10.5" fill="#7C3AED" text-anchor="middle" font-weight="bold">FUNGI</text>
+<rect x="186" y="142" width="550" height="40" rx="7" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="1.0"/>
+<text x="196" y="159" font-family="DejaVu Sans" font-size="9.4" fill="#0E1F40" text-anchor="start" font-weight="normal">Moulds, yeasts, mushrooms, Rhizopus</text>
+<text x="196" y="174" font-family="DejaVu Sans" font-size="8.8" fill="#64748B" text-anchor="start" font-weight="normal">Heterotrophic, chitin walls, spores</text>
+<rect x="24" y="190" width="150" height="40" rx="7" fill="#FFFFFF" stroke="#00A859" stroke-width="1.5"/>
+<text x="99" y="215" font-family="DejaVu Sans" font-size="10.5" fill="#00A859" text-anchor="middle" font-weight="bold">PLANTAE</text>
+<rect x="186" y="190" width="550" height="40" rx="7" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="1.0"/>
+<text x="196" y="207" font-family="DejaVu Sans" font-size="9.4" fill="#0E1F40" text-anchor="start" font-weight="normal">Mosses, ferns, maize, mango</text>
+<text x="196" y="222" font-family="DejaVu Sans" font-size="8.8" fill="#64748B" text-anchor="start" font-weight="normal">Multicellular, cellulose walls, photosynthesis</text>
+<rect x="24" y="238" width="150" height="40" rx="7" fill="#FFFFFF" stroke="#D97706" stroke-width="1.5"/>
+<text x="99" y="263" font-family="DejaVu Sans" font-size="10.5" fill="#D97706" text-anchor="middle" font-weight="bold">ANIMALIA</text>
+<rect x="186" y="238" width="550" height="40" rx="7" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="1.0"/>
+<text x="196" y="255" font-family="DejaVu Sans" font-size="9.4" fill="#0E1F40" text-anchor="start" font-weight="normal">Sponges to mammals — including humans</text>
+<text x="196" y="270" font-family="DejaVu Sans" font-size="8.8" fill="#64748B" text-anchor="start" font-weight="normal">Multicellular, no cell wall, heterotrophic</text>
+<text x="380" y="292" font-family="DejaVu Sans" font-size="8.4" fill="#64748B" text-anchor="middle" font-weight="normal">Order of size: Monera &lt; Protista &lt; Fungi &lt; Plantae/Animalia (cell number and organisation)</text>
+</svg>

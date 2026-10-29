@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="416.16pt" height="193.738359pt" viewBox="0 0 416.16 193.738359" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-10-29T09:57:04.791303</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 193.738359 
+L 416.16 193.738359 
+L 416.16 -0 
+L 0 -0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 135.7632 51.466359 
+L 179.9568 27.274359 
+L 224.1504 51.466359 
+L 224.1504 91.786359 
+L 179.9568 115.978359 
+L 135.7632 91.786359 
+z
+" clip-path="url(#pb23ba9ee13)" style="fill: #dbeafe; stroke: #2563eb; stroke-width: 1.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="line2d_1">
+    <path d="M 179.9568 115.978359 
+L 179.9568 136.138359 
+" clip-path="url(#pb23ba9ee13)" style="fill: none; stroke: #2563eb; stroke-width: 2.4; stroke-linecap: square"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 168.70752 144.202359 
+L 191.20608 144.202359 
+L 191.20608 135.331959 
+L 168.70752 135.331959 
+z
+" clip-path="url(#pb23ba9ee13)" style="fill: #dbeafe; stroke: #2563eb; stroke-width: 1.4; stroke-linejoin: miter"/>
+   </g>
+   <g id="line2d_2">
+    <path d="M 172.22292 144.202359 
+L 165.8952 162.346359 
+" clip-path="url(#pb23ba9ee13)" style="fill: none; stroke: #2563eb; stroke-width: 1.6; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_3">
+    <path d="M 187.69068 144.202359 
+L 194.0184 162.346359 
+" clip-path="url(#pb23ba9ee13)" style="fill: none; stroke: #2563eb; stroke-width: 1.6; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_4">
+    <path d="M 167.80356 144.202359 
+L 157.86 150.250359 
+" clip-path="url(#pb23ba9ee13)" style="fill: none; stroke: #2563eb; stroke-width: 1.6; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_5">
+    <path d="M 192.11004 144.202359 
+L 202.0536 150.250359 
+" clip-path="url(#pb23ba9ee13)" style="fill: none; stroke: #2563eb; stroke-width: 1.6; stroke-linecap: square"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 126.334889 39.729366 
+Q 130.150517 40.954743 133.966145 42.180121 
+" style="fill: none; stroke: #64748b; stroke-linecap: round"/>
+   </g>
+   <g id="text_1">
+    <text style="font-size: 8.2px; font-family: 'DejaVu Sans'; fill: #334155" transform="translate(45.244484 24.483637)">Protein coat (capsid)</text>
+    <text style="font-size: 8.2px; font-family: 'DejaVu Sans'; fill: #334155" transform="translate(41.533984 34.325879)">built from capsomeres</text>
+   </g>
+   <g id="patch_5">
+    <path d="M 123.642289 74.191198 
+Q 128.143437 73.29795 132.644584 72.404703 
+" style="fill: none; stroke: #64748b; stroke-linecap: round"/>
+   </g>
+   <g id="text_2">
+    <text style="font-size: 8.2px; font-family: 'DejaVu Sans'; fill: #334155" transform="translate(11.228856 82.947637)">No cytoplasm, no nucleus,</text>
+    <text style="font-size: 8.2px; font-family: 'DejaVu Sans'; fill: #334155" transform="translate(12.1552 92.789879)">no organelles — not a cell</text>
+   </g>
+   <g id="patch_6">
+    <path d="M 125.025218 142.16847 
+Q 145.473123 143.645996 165.921027 145.123522 
+" style="fill: none; stroke: #64748b; stroke-linecap: round"/>
+   </g>
+   <g id="text_3">
+    <text style="font-size: 8.2px; font-family: 'DejaVu Sans'; fill: #334155" transform="translate(26.456113 135.363637)">Tail and tail fibres for</text>
+    <text style="font-size: 8.2px; font-family: 'DejaVu Sans'; fill: #334155" transform="translate(17.912097 145.205879)">attachment to a host cell</text>
+   </g>
+   <g id="patch_7">
+    <path d="M 243.819259 55.668145 
+Q 222.882304 60.200145 201.945349 64.732144 
+" style="fill: none; stroke: #64748b; stroke-linecap: round"/>
+   </g>
+   <g id="text_4">
+    <text style="font-size: 8.2px; font-family: 'DejaVu Sans'; fill: #334155" transform="translate(239.013628 40.611637)">Genetic material: DNA or RNA</text>
+    <text style="font-size: 8.2px; font-family: 'DejaVu Sans'; fill: #334155" transform="translate(246.865769 50.453879)">(the only part that enters)</text>
+   </g>
+   <g id="patch_8">
+    <path d="M 239.527367 115.829666 
+Q 222.764352 113.190749 206.001337 110.551832 
+" style="fill: none; stroke: #64748b; stroke-linecap: round"/>
+   </g>
+   <g id="text_5">
+    <text style="font-size: 8.2px; font-family: 'DejaVu Sans'; fill: #334155" transform="translate(243.504009 123.267637)">Obligate parasite: reproduces</text>
+    <text style="font-size: 8.2px; font-family: 'DejaVu Sans'; fill: #334155" transform="translate(256.071791 133.109879)">only inside a living host</text>
+   </g>
+   <g id="text_6">
+    <text style="font-weight: 700; font-size: 10.5px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #0e1f40" x="208.08" y="15.178359" transform="rotate(-0 208.08 15.178359)">Structure of a bacteriophage (a virus)</text>
+   </g>
+   <g id="line2d_6">
+    <path d="M 163.8864 97.834359 
+L 175.9392 85.738359 
+L 167.904 69.610359 
+L 185.9832 77.674359 
+L 179.9568 57.514359 
+L 196.0272 65.578359 
+" clip-path="url(#pb23ba9ee13)" style="fill: none; stroke: #008751; stroke-width: 1.6; stroke-linecap: square"/>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="pb23ba9ee13">
+   <rect x="7.2" y="9.130359" width="401.76" height="177.408"/>
+  </clipPath>
+ </defs>
+</svg>

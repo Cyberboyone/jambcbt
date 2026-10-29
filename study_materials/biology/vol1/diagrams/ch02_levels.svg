@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 210" width="760" height="210">
+  <defs>
+    <marker id="ag" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#008751"/>
+    </marker>
+    <marker id="an" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#0E1F40"/>
+    </marker>
+    <marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#D97706"/>
+    </marker>
+    <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#DC2626"/>
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="760" height="210" fill="#FFFFFF"/>
+<text x="380" y="24" font-family="DejaVu Sans" font-size="12.6" fill="#0E1F40" text-anchor="middle" font-weight="bold">FROM CELL TO ORGANISM — THE LEVELS OF ORGANISATION</text>
+<rect x="18" y="70" width="132" height="78" rx="9" fill="#FFFFFF" stroke="#008751" stroke-width="1.6"/>
+<rect x="18" y="70" width="132" height="6" rx="3" fill="#008751"/>
+<text x="84" y="100" font-family="DejaVu Sans" font-size="11" fill="#008751" text-anchor="middle" font-weight="bold">CELL</text>
+<text x="84" y="122" font-family="DejaVu Sans" font-size="8.8" fill="#334155" text-anchor="middle" font-weight="normal">muscle cell</text>
+<text x="84" y="138" font-family="DejaVu Sans" font-size="7.6" fill="#64748B" text-anchor="middle" font-weight="normal">smallest living unit</text>
+<line x1="152" y1="109" x2="164" y2="109" stroke="#64748B" stroke-width="1.4" marker-end="url(#an)"/>
+<rect x="166" y="70" width="132" height="78" rx="9" fill="#FFFFFF" stroke="#2563EB" stroke-width="1.6"/>
+<rect x="166" y="70" width="132" height="6" rx="3" fill="#2563EB"/>
+<text x="232" y="100" font-family="DejaVu Sans" font-size="11" fill="#2563EB" text-anchor="middle" font-weight="bold">TISSUE</text>
+<text x="232" y="122" font-family="DejaVu Sans" font-size="8.8" fill="#334155" text-anchor="middle" font-weight="normal">muscle tissue</text>
+<text x="232" y="138" font-family="DejaVu Sans" font-size="7.6" fill="#64748B" text-anchor="middle" font-weight="normal">similar cells, one job</text>
+<line x1="300" y1="109" x2="312" y2="109" stroke="#64748B" stroke-width="1.4" marker-end="url(#an)"/>
+<rect x="314" y="70" width="132" height="78" rx="9" fill="#FFFFFF" stroke="#7C3AED" stroke-width="1.6"/>
+<rect x="314" y="70" width="132" height="6" rx="3" fill="#7C3AED"/>
+<text x="380" y="100" font-family="DejaVu Sans" font-size="11" fill="#7C3AED" text-anchor="middle" font-weight="bold">ORGAN</text>
+<text x="380" y="122" font-family="DejaVu Sans" font-size="8.8" fill="#334155" text-anchor="middle" font-weight="normal">stomach</text>
+<text x="380" y="138" font-family="DejaVu Sans" font-size="7.6" fill="#64748B" text-anchor="middle" font-weight="normal">tissues working together</text>
+<line x1="448" y1="109" x2="460" y2="109" stroke="#64748B" stroke-width="1.4" marker-end="url(#an)"/>
+<rect x="462" y="70" width="132" height="78" rx="9" fill="#FFFFFF" stroke="#D97706" stroke-width="1.6"/>
+<rect x="462" y="70" width="132" height="6" rx="3" fill="#D97706"/>
+<text x="528" y="100" font-family="DejaVu Sans" font-size="11" fill="#D97706" text-anchor="middle" font-weight="bold">SYSTEM</text>
+<text x="528" y="122" font-family="DejaVu Sans" font-size="8.8" fill="#334155" text-anchor="middle" font-weight="normal">digestive system</text>
+<text x="528" y="138" font-family="DejaVu Sans" font-size="7.6" fill="#64748B" text-anchor="middle" font-weight="normal">organs working together</text>
+<line x1="596" y1="109" x2="608" y2="109" stroke="#64748B" stroke-width="1.4" marker-end="url(#an)"/>
+<rect x="610" y="70" width="132" height="78" rx="9" fill="#FFFFFF" stroke="#00A859" stroke-width="1.6"/>
+<rect x="610" y="70" width="132" height="6" rx="3" fill="#00A859"/>
+<text x="676" y="100" font-family="DejaVu Sans" font-size="11" fill="#00A859" text-anchor="middle" font-weight="bold">ORGANISM</text>
+<text x="676" y="122" font-family="DejaVu Sans" font-size="8.8" fill="#334155" text-anchor="middle" font-weight="normal">the whole body</text>
+<text x="676" y="138" font-family="DejaVu Sans" font-size="7.6" fill="#64748B" text-anchor="middle" font-weight="normal">all systems together</text>
+<text x="380" y="182" font-family="DejaVu Sans" font-size="8.4" fill="#64748B" text-anchor="middle" font-weight="normal">In the exam a “level of organisation” question is answered by naming the level and one concrete example from it.</text>
+</svg>

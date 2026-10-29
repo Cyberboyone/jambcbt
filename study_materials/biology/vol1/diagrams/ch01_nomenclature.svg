@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 240" width="760" height="240">
+  <defs>
+    <marker id="ag" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#008751"/>
+    </marker>
+    <marker id="an" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#0E1F40"/>
+    </marker>
+    <marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#D97706"/>
+    </marker>
+    <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#DC2626"/>
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="760" height="240" fill="#FFFFFF"/>
+<text x="380" y="24" font-family="DejaVu Sans" font-size="13" fill="#0E1F40" text-anchor="middle" font-weight="bold">BINOMIAL NOMENCLATURE — TWO NAMES, ALWAYS</text>
+<rect x="24" y="40" width="712" height="66" rx="8" fill="#FFFFFF" stroke="#008751" stroke-width="1.4"/>
+<text x="60" y="74" font-family="DejaVu Sans" font-size="22" fill="#008751" text-anchor="middle" font-weight="bold" font-style="italic">Homo</text>
+<text x="190" y="74" font-family="DejaVu Sans" font-size="22" fill="#0E1F40" text-anchor="middle" font-weight="bold" font-style="italic">sapiens</text>
+<text x="60" y="94" font-family="DejaVu Sans" font-size="8.6" fill="#64748B" text-anchor="middle" font-weight="normal">GENUS — capital letter</text>
+<text x="196" y="94" font-family="DejaVu Sans" font-size="8.6" fill="#64748B" text-anchor="middle" font-weight="normal">SPECIES — small letter</text>
+<text x="470" y="68" font-family="DejaVu Sans" font-size="9.6" fill="#334155" text-anchor="start" font-weight="normal">Genus + species, both italic</text>
+<text x="470" y="84" font-family="DejaVu Sans" font-size="9.6" fill="#334155" text-anchor="start" font-weight="normal">in print; underlined when handwritten.</text>
+<text x="380" y="128" font-family="DejaVu Sans" font-size="10" fill="#334155" text-anchor="middle" font-weight="bold">Worked examples across the kingdoms</text>
+<rect x="24" y="142" width="228" height="38" rx="6" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="1.0"/>
+<text x="34" y="158" font-family="DejaVu Sans" font-size="9" fill="#64748B" text-anchor="start" font-weight="normal">Man</text>
+<text x="34" y="173" font-family="DejaVu Sans" font-size="10.5" fill="#0E1F40" text-anchor="start" font-weight="bold" font-style="italic">Homo sapiens</text>
+<rect x="262" y="142" width="228" height="38" rx="6" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="1.0"/>
+<text x="272" y="158" font-family="DejaVu Sans" font-size="9" fill="#64748B" text-anchor="start" font-weight="normal">Maize</text>
+<text x="272" y="173" font-family="DejaVu Sans" font-size="10.5" fill="#0E1F40" text-anchor="start" font-weight="bold" font-style="italic">Zea mays</text>
+<rect x="500" y="142" width="228" height="38" rx="6" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="1.0"/>
+<text x="510" y="158" font-family="DejaVu Sans" font-size="9" fill="#64748B" text-anchor="start" font-weight="normal">Housefly</text>
+<text x="510" y="173" font-family="DejaVu Sans" font-size="10.5" fill="#0E1F40" text-anchor="start" font-weight="bold" font-style="italic">Musca domestica</text>
+<rect x="24" y="188" width="228" height="38" rx="6" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="1.0"/>
+<text x="34" y="204" font-family="DejaVu Sans" font-size="9" fill="#64748B" text-anchor="start" font-weight="normal">Cassava</text>
+<text x="34" y="219" font-family="DejaVu Sans" font-size="10.5" fill="#0E1F40" text-anchor="start" font-weight="bold" font-style="italic">Manihot esculenta</text>
+<rect x="262" y="188" width="228" height="38" rx="6" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="1.0"/>
+<text x="272" y="204" font-family="DejaVu Sans" font-size="9" fill="#64748B" text-anchor="start" font-weight="normal">Amoeba</text>
+<text x="272" y="219" font-family="DejaVu Sans" font-size="10.5" fill="#0E1F40" text-anchor="start" font-weight="bold" font-style="italic">Amoeba proteus</text>
+<rect x="500" y="188" width="228" height="38" rx="6" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="1.0"/>
+<text x="510" y="204" font-family="DejaVu Sans" font-size="9" fill="#64748B" text-anchor="start" font-weight="normal">Mango</text>
+<text x="510" y="219" font-family="DejaVu Sans" font-size="10.5" fill="#0E1F40" text-anchor="start" font-weight="bold" font-style="italic">Mangifera indica</text>
+<text x="380" y="232" font-family="DejaVu Sans" font-size="8.4" fill="#64748B" text-anchor="middle" font-weight="normal">Same genus, different species: Panthera leo (lion) and Panthera tigris (tiger) — but never Panthera Leo.</text>
+</svg>
