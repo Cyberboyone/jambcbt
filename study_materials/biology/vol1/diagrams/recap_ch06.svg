@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 214" width="700" height="214">
+  <defs>
+    <marker id="ag" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#008751"/>
+    </marker>
+    <marker id="an" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#0E1F40"/>
+    </marker>
+    <marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#D97706"/>
+    </marker>
+    <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#DC2626"/>
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="700" height="214" fill="#FFFFFF"/>
+<text x="350" y="26" font-family="DejaVu Sans" font-size="13" fill="#0E1F40" text-anchor="middle" font-weight="bold">Chapter 6 recap card — transport in plants</text>
+<rect x="18" y="44" width="664" height="34" rx="6" fill="#FFFFFF" stroke="#008751" stroke-width="1.1"/>
+<text x="30" y="59" font-family="DejaVu Sans" font-size="9.2" fill="#008751" text-anchor="start" font-weight="bold">Uptake</text>
+<text x="30" y="73" font-family="DejaVu Sans" font-size="8.6" fill="#334155" text-anchor="start" font-weight="normal">Water by osmosis through root hairs; minerals by active transport.</text>
+<rect x="18" y="84" width="664" height="34" rx="6" fill="#FFFFFF" stroke="#008751" stroke-width="1.1"/>
+<text x="30" y="99" font-family="DejaVu Sans" font-size="9.2" fill="#008751" text-anchor="start" font-weight="bold">Xylem</text>
+<text x="30" y="113" font-family="DejaVu Sans" font-size="8.6" fill="#334155" text-anchor="start" font-weight="normal">Dead, lignified, upward: water and mineral salts only.</text>
+<rect x="18" y="124" width="664" height="34" rx="6" fill="#FFFFFF" stroke="#008751" stroke-width="1.1"/>
+<text x="30" y="139" font-family="DejaVu Sans" font-size="9.2" fill="#008751" text-anchor="start" font-weight="bold">Phloem</text>
+<text x="30" y="153" font-family="DejaVu Sans" font-size="8.6" fill="#334155" text-anchor="start" font-weight="normal">Living, with sieve plates, both ways: sugars and amino acids.</text>
+<rect x="18" y="164" width="664" height="34" rx="6" fill="#FFFFFF" stroke="#008751" stroke-width="1.1"/>
+<text x="30" y="179" font-family="DejaVu Sans" font-size="9.2" fill="#008751" text-anchor="start" font-weight="bold">Transpiration</text>
+<text x="30" y="193" font-family="DejaVu Sans" font-size="8.6" fill="#334155" text-anchor="start" font-weight="normal">Faster when hot, dry, bright and windy; driven by the pull from the leaves.</text>
+<text x="350" y="202" font-family="DejaVu Sans" font-size="8.2" fill="#64748B" text-anchor="middle" font-weight="normal">Say each line aloud once; if you can say it, you can answer it.</text>
+</svg>

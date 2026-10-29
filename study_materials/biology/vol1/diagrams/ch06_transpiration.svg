@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 250" width="760" height="250">
+  <defs>
+    <marker id="ag" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#008751"/>
+    </marker>
+    <marker id="an" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#0E1F40"/>
+    </marker>
+    <marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#D97706"/>
+    </marker>
+    <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#DC2626"/>
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="760" height="250" fill="#FFFFFF"/>
+<text x="380" y="22" font-family="DejaVu Sans" font-size="12.4" fill="#0E1F40" text-anchor="middle" font-weight="bold">WHAT CHANGES THE RATE OF TRANSPIRATION</text>
+<rect x="22" y="44" width="348" height="176" rx="8" fill="#ECFDF5" stroke="#A7F3D0" stroke-width="1.2"/>
+<text x="196" y="68" font-family="DejaVu Sans" font-size="9.6" fill="#008751" text-anchor="middle" font-weight="bold">INCREASES the rate</text>
+<text x="40" y="92" font-family="DejaVu Sans" font-size="8.8" fill="#0E1F40" text-anchor="start" font-weight="bold">▲  Bright light</text>
+<text x="40" y="108" font-family="DejaVu Sans" font-size="8" fill="#334155" text-anchor="start" font-weight="normal">stomata open wider</text>
+<text x="40" y="134" font-family="DejaVu Sans" font-size="8.8" fill="#0E1F40" text-anchor="start" font-weight="bold">▲  High temperature</text>
+<text x="40" y="150" font-family="DejaVu Sans" font-size="8" fill="#334155" text-anchor="start" font-weight="normal">more energy to evaporate</text>
+<text x="40" y="176" font-family="DejaVu Sans" font-size="8.8" fill="#0E1F40" text-anchor="start" font-weight="bold">▲  Wind</text>
+<text x="40" y="192" font-family="DejaVu Sans" font-size="8" fill="#334155" text-anchor="start" font-weight="normal">removes the humid layer</text>
+<rect x="390" y="44" width="348" height="176" rx="8" fill="#FEE2E2" stroke="#FCA5A5" stroke-width="1.2"/>
+<text x="564" y="68" font-family="DejaVu Sans" font-size="9.6" fill="#DC2626" text-anchor="middle" font-weight="bold">DECREASES the rate</text>
+<text x="408" y="92" font-family="DejaVu Sans" font-size="8.8" fill="#0E1F40" text-anchor="start" font-weight="bold">▼  High humidity</text>
+<text x="408" y="108" font-family="DejaVu Sans" font-size="8" fill="#334155" text-anchor="start" font-weight="normal">smaller water-potential gradient</text>
+<text x="408" y="134" font-family="DejaVu Sans" font-size="8.8" fill="#0E1F40" text-anchor="start" font-weight="bold">▼  Water shortage</text>
+<text x="408" y="150" font-family="DejaVu Sans" font-size="8" fill="#334155" text-anchor="start" font-weight="normal">stomata close to save water</text>
+<text x="408" y="176" font-family="DejaVu Sans" font-size="8.8" fill="#0E1F40" text-anchor="start" font-weight="bold">▼  Still, cool night</text>
+<text x="408" y="192" font-family="DejaVu Sans" font-size="8" fill="#334155" text-anchor="start" font-weight="normal">stomata closed, air saturated</text>
+<text x="380" y="238" font-family="DejaVu Sans" font-size="8.2" fill="#64748B" text-anchor="middle" font-weight="normal">Everything works through one quantity: the steepness of the water-potential gradient between the leaf and the air.</text>
+</svg>

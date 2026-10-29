@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 780 262" width="780" height="262">
+  <defs>
+    <marker id="ag" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#008751"/>
+    </marker>
+    <marker id="an" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#0E1F40"/>
+    </marker>
+    <marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#D97706"/>
+    </marker>
+    <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#DC2626"/>
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="780" height="262" fill="#FFFFFF"/>
+<text x="390" y="20" font-family="DejaVu Sans" font-size="12.2" fill="#0E1F40" text-anchor="middle" font-weight="bold">FOUR MOVABLE JOINTS — AND THE MOVEMENT EACH ALLOWS</text>
+<rect x="22" y="44" width="180" height="172" rx="8" fill="#FFFFFF" stroke="#008751" stroke-width="1.5"/>
+<rect x="22" y="44" width="180" height="8" rx="4" fill="#008751" stroke="#008751" stroke-width="0"/>
+<text x="112" y="72" font-family="DejaVu Sans" font-size="9.8" fill="#008751" text-anchor="middle" font-weight="bold">HINGE</text>
+<text x="112" y="118" font-family="DejaVu Sans" font-size="34" fill="#008751" text-anchor="middle" font-weight="bold">↕</text>
+<text x="112" y="152" font-family="DejaVu Sans" font-size="8.8" fill="#0E1F40" text-anchor="middle" font-weight="bold">elbow, knee</text>
+<text x="112" y="176" font-family="DejaVu Sans" font-size="7.6" fill="#334155" text-anchor="middle" font-weight="normal">bends and straightens</text>
+<text x="112" y="191" font-family="DejaVu Sans" font-size="7.6" fill="#334155" text-anchor="middle" font-weight="normal">in ONE plane only</text>
+<rect x="210" y="44" width="180" height="172" rx="8" fill="#FFFFFF" stroke="#2563EB" stroke-width="1.5"/>
+<rect x="210" y="44" width="180" height="8" rx="4" fill="#2563EB" stroke="#2563EB" stroke-width="0"/>
+<text x="300" y="72" font-family="DejaVu Sans" font-size="9.8" fill="#2563EB" text-anchor="middle" font-weight="bold">BALL-AND-SOCKET</text>
+<text x="300" y="118" font-family="DejaVu Sans" font-size="34" fill="#2563EB" text-anchor="middle" font-weight="bold">⟳</text>
+<text x="300" y="152" font-family="DejaVu Sans" font-size="8.8" fill="#0E1F40" text-anchor="middle" font-weight="bold">shoulder, hip</text>
+<text x="300" y="176" font-family="DejaVu Sans" font-size="7.6" fill="#334155" text-anchor="middle" font-weight="normal">movement in EVERY</text>
+<text x="300" y="191" font-family="DejaVu Sans" font-size="7.6" fill="#334155" text-anchor="middle" font-weight="normal">direction — widest range</text>
+<rect x="398" y="44" width="180" height="172" rx="8" fill="#FFFFFF" stroke="#7C3AED" stroke-width="1.5"/>
+<rect x="398" y="44" width="180" height="8" rx="4" fill="#7C3AED" stroke="#7C3AED" stroke-width="0"/>
+<text x="488" y="72" font-family="DejaVu Sans" font-size="9.8" fill="#7C3AED" text-anchor="middle" font-weight="bold">PIVOT</text>
+<text x="488" y="118" font-family="DejaVu Sans" font-size="34" fill="#7C3AED" text-anchor="middle" font-weight="bold">↻</text>
+<text x="488" y="152" font-family="DejaVu Sans" font-size="8.8" fill="#0E1F40" text-anchor="middle" font-weight="bold">atlas–axis (neck)</text>
+<text x="488" y="176" font-family="DejaVu Sans" font-size="7.6" fill="#334155" text-anchor="middle" font-weight="normal">rotation — turning</text>
+<text x="488" y="191" font-family="DejaVu Sans" font-size="7.6" fill="#334155" text-anchor="middle" font-weight="normal">the head left and right</text>
+<rect x="586" y="44" width="180" height="172" rx="8" fill="#FFFFFF" stroke="#D97706" stroke-width="1.5"/>
+<rect x="586" y="44" width="180" height="8" rx="4" fill="#D97706" stroke="#D97706" stroke-width="0"/>
+<text x="676" y="72" font-family="DejaVu Sans" font-size="9.8" fill="#D97706" text-anchor="middle" font-weight="bold">GLIDING</text>
+<text x="676" y="118" font-family="DejaVu Sans" font-size="34" fill="#D97706" text-anchor="middle" font-weight="bold">⇄</text>
+<text x="676" y="152" font-family="DejaVu Sans" font-size="8.8" fill="#0E1F40" text-anchor="middle" font-weight="bold">wrist, ankle</text>
+<text x="676" y="176" font-family="DejaVu Sans" font-size="7.6" fill="#334155" text-anchor="middle" font-weight="normal">flat surfaces slide</text>
+<text x="676" y="191" font-family="DejaVu Sans" font-size="7.6" fill="#334155" text-anchor="middle" font-weight="normal">over one another</text>
+<text x="390" y="240" font-family="DejaVu Sans" font-size="8.2" fill="#64748B" text-anchor="middle" font-weight="normal">Also know the IMMOVABLE joints (skull sutures) and the SLIGHTLY-MOVABLE joints between vertebrae.</text>
+</svg>

@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 320" width="760" height="320">
+  <defs>
+    <marker id="ag" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#008751"/>
+    </marker>
+    <marker id="an" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#0E1F40"/>
+    </marker>
+    <marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#D97706"/>
+    </marker>
+    <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#DC2626"/>
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="760" height="320" fill="#FFFFFF"/>
+<text x="380" y="22" font-family="DejaVu Sans" font-size="12.4" fill="#0E1F40" text-anchor="middle" font-weight="bold">MEIOSIS — ONE CELL, FOUR CELLS, HALF THE CHROMOSOMES</text>
+<rect x="24" y="44" width="150" height="84" rx="8" fill="#FFFFFF" stroke="#008751" stroke-width="1.5"/>
+<text x="99" y="66" font-family="DejaVu Sans" font-size="9.6" fill="#008751" text-anchor="middle" font-weight="bold">DIPLOID CELL</text>
+<text x="99" y="84" font-family="DejaVu Sans" font-size="10" fill="#0E1F40" text-anchor="middle" font-weight="normal">2n = 4</text>
+<text x="99" y="112" font-family="DejaVu Sans" font-size="7.6" fill="#64748B" text-anchor="middle" font-weight="normal">homologous pairs</text>
+<line x1="178" y1="86" x2="232" y2="86" stroke="#008751" stroke-width="1.6" marker-end="url(#ag)"/>
+<text x="205" y="76" font-family="DejaVu Sans" font-size="7.4" fill="#64748B" text-anchor="middle" font-weight="normal">prophase I</text>
+<text x="205" y="116" font-family="DejaVu Sans" font-size="7.4" fill="#DC2626" text-anchor="middle" font-weight="normal">crossing over</text>
+<rect x="236" y="44" width="150" height="84" rx="8" fill="#FFFFFF" stroke="#2563EB" stroke-width="1.5"/>
+<text x="311" y="66" font-family="DejaVu Sans" font-size="9.6" fill="#2563EB" text-anchor="middle" font-weight="bold">MEIOSIS I</text>
+<text x="311" y="88" font-family="DejaVu Sans" font-size="8.4" fill="#334155" text-anchor="middle" font-weight="normal">pairs separate</text>
+<text x="311" y="106" font-family="DejaVu Sans" font-size="8.4" fill="#334155" text-anchor="middle" font-weight="normal">2 haploid cells</text>
+<line x1="390" y1="86" x2="444" y2="86" stroke="#2563EB" stroke-width="1.6" marker-end="url(#ag)"/>
+<text x="417" y="76" font-family="DejaVu Sans" font-size="7.4" fill="#64748B" text-anchor="middle" font-weight="normal">meiosis II</text>
+<rect x="448" y="44" width="150" height="84" rx="8" fill="#FFFFFF" stroke="#7C3AED" stroke-width="1.5"/>
+<text x="523" y="66" font-family="DejaVu Sans" font-size="8" fill="#7C3AED" text-anchor="middle" font-weight="bold">CHROMATIDS SEPARATE</text>
+<text x="523" y="88" font-family="DejaVu Sans" font-size="8.4" fill="#334155" text-anchor="middle" font-weight="normal">like mitosis</text>
+<text x="523" y="106" font-family="DejaVu Sans" font-size="8.4" fill="#334155" text-anchor="middle" font-weight="normal">4 haploid cells</text>
+<line x1="600" y1="86" x2="654" y2="86" stroke="#7C3AED" stroke-width="1.6" marker-end="url(#ag)"/>
+<rect x="658" y="44" width="86" height="84" rx="8" fill="#FFFFFF" stroke="#00A859" stroke-width="1.5"/>
+<text x="701" y="70" font-family="DejaVu Sans" font-size="8.6" fill="#00A859" text-anchor="middle" font-weight="bold">4 GAMETES</text>
+<text x="701" y="92" font-family="DejaVu Sans" font-size="10" fill="#0E1F40" text-anchor="middle" font-weight="normal">n = 2</text>
+<text x="701" y="112" font-family="DejaVu Sans" font-size="7.4" fill="#64748B" text-anchor="middle" font-weight="normal">all different</text>
+<rect x="24" y="150" width="344" height="150" rx="8" fill="#ECFDF5" stroke="#A7F3D0" stroke-width="1.2"/>
+<text x="196" y="174" font-family="DejaVu Sans" font-size="10" fill="#008751" text-anchor="middle" font-weight="bold">Two sources of variation</text>
+<text x="40" y="200" font-family="DejaVu Sans" font-size="9" fill="#0E1F40" text-anchor="start" font-weight="bold">1. Crossing over (prophase I)</text>
+<text x="40" y="218" font-family="DejaVu Sans" font-size="8.2" fill="#334155" text-anchor="start" font-weight="normal">Pieces of homologous chromatids are swapped,</text>
+<text x="40" y="232" font-family="DejaVu Sans" font-size="8.2" fill="#334155" text-anchor="start" font-weight="normal">so each chromosome carries a mixture of genes.</text>
+<text x="40" y="256" font-family="DejaVu Sans" font-size="9" fill="#0E1F40" text-anchor="start" font-weight="bold">2. Independent assortment (metaphase I)</text>
+<text x="40" y="274" font-family="DejaVu Sans" font-size="8.2" fill="#334155" text-anchor="start" font-weight="normal">Pairs line up at random, so gametes receive random</text>
+<text x="40" y="288" font-family="DejaVu Sans" font-size="8.2" fill="#334155" text-anchor="start" font-weight="normal">combinations of maternal and paternal chromosomes.</text>
+<rect x="392" y="150" width="344" height="150" rx="8" fill="#DBEAFE" stroke="#2563EB" stroke-width="1.2"/>
+<text x="564" y="174" font-family="DejaVu Sans" font-size="10" fill="#2563EB" text-anchor="middle" font-weight="bold">What the examiner asks</text>
+<text x="408" y="200" font-family="DejaVu Sans" font-size="8.6" fill="#334155" text-anchor="start" font-weight="normal">• How many cells?  Four.</text>
+<text x="408" y="220" font-family="DejaVu Sans" font-size="8.6" fill="#334155" text-anchor="start" font-weight="normal">• How many chromosomes?  Half the parent (n).</text>
+<text x="408" y="240" font-family="DejaVu Sans" font-size="8.6" fill="#334155" text-anchor="start" font-weight="normal">• Where is crossing over?  Prophase I.</text>
+<text x="408" y="260" font-family="DejaVu Sans" font-size="8.6" fill="#334155" text-anchor="start" font-weight="normal">• Why does it happen?  To make gametes and variation.</text>
+<text x="408" y="280" font-family="DejaVu Sans" font-size="8.6" fill="#334155" text-anchor="start" font-weight="normal">• Are the four cells identical?  Never.</text>
+</svg>
