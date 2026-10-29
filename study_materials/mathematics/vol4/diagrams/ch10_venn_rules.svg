@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="355.730357pt" height="180.72pt" viewBox="0 0 355.730357 180.72" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-10-29T09:47:54.264349</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 180.72 
+L 355.730357 180.72 
+L 355.730357 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 122.785714 149.180488 
+C 145.775982 149.180488 167.827722 142.769076 184.084296 131.358293 
+C 200.34087 119.947509 209.475 104.468993 209.475 88.331707 
+C 209.475 72.194422 200.34087 56.715906 184.084296 45.305122 
+C 167.827722 33.894338 145.775982 27.482927 122.785714 27.482927 
+C 99.795447 27.482927 77.743706 33.894338 61.487133 45.305122 
+C 45.230559 56.715906 36.096429 72.194422 36.096429 88.331707 
+C 36.096429 104.468993 45.230559 119.947509 61.487133 131.358293 
+C 77.743706 142.769076 99.795447 149.180488 122.785714 149.180488 
+z
+" clip-path="url(#pcf093fa983)" style="fill: #a7f3d0; opacity: 0.85; stroke: #008751; stroke-width: 1.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 209.475 149.180488 
+C 232.465267 149.180488 254.517008 142.769076 270.773582 131.358293 
+C 287.030156 119.947509 296.164286 104.468993 296.164286 88.331707 
+C 296.164286 72.194422 287.030156 56.715906 270.773582 45.305122 
+C 254.517008 33.894338 232.465267 27.482927 209.475 27.482927 
+C 186.484733 27.482927 164.432992 33.894338 148.176418 45.305122 
+C 131.919844 56.715906 122.785714 72.194422 122.785714 88.331707 
+C 122.785714 104.468993 131.919844 119.947509 148.176418 131.358293 
+C 164.432992 142.769076 186.484733 149.180488 209.475 149.180488 
+z
+" clip-path="url(#pcf093fa983)" style="fill: #dbeafe; opacity: 0.85; stroke: #2563eb; stroke-width: 1.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="text_1">
+    <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #0e1f40" x="88.11" y="88.331707" transform="rotate(-0 88.11 88.331707)">A</text>
+   </g>
+   <g id="text_2">
+    <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #0e1f40" x="244.150714" y="88.331707" transform="rotate(-0 244.150714 88.331707)">B</text>
+   </g>
+   <g id="text_3">
+    <text style="font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #0e1f40" x="166.130357" y="88.331707" transform="rotate(-0 166.130357 88.331707)">A and B</text>
+   </g>
+   <g id="text_4">
+    <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #0e1f40" x="166.130357" y="159.321951" transform="rotate(-0 166.130357 159.321951)">P(A or B) = P(A) + P(B) − P(A and B)</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="pcf093fa983">
+   <rect x="7.2" y="7.2" width="323.64" height="166.32"/>
+  </clipPath>
+ </defs>
+</svg>

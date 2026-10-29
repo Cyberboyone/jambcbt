@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 230" width="760" height="230">
+  <defs>
+    <marker id="ag" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#008751"/>
+    </marker>
+    <marker id="an" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#0E1F40"/>
+    </marker>
+    <marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#D97706"/>
+    </marker>
+    <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#DC2626"/>
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="760" height="230" fill="#FFFFFF"/>
+<rect x="0" y="0" width="760" height="230" rx="10" fill="#FFFFFF" stroke="#7C3AED" stroke-width="1.3"/>
+<text x="380" y="26" font-family="DejaVu Sans" font-size="12" fill="#0E1F40" text-anchor="middle" font-weight="bold">Arranging 3 letters: 3 × 2 × 1 = 6 orders</text>
+<rect x="90" y="52" width="90" height="34" rx="6" fill="#EDE9FE" stroke="#7C3AED" stroke-width="1.2"/>
+<text x="135" y="74" font-family="DejaVu Sans" font-size="9.4" fill="#0E1F40" text-anchor="middle" font-weight="normal">first: A</text>
+<rect x="60" y="104" width="66" height="30" rx="6" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="1.0"/>
+<text x="93" y="124" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="middle" font-weight="normal">AB</text>
+<line x1="135" y1="86" x2="93" y2="104" stroke="#CBD5E1" stroke-width="1.0"/>
+<text x="93" y="152" font-family="DejaVu Sans" font-size="8.8" fill="#7C3AED" text-anchor="middle" font-weight="bold">ABC</text>
+<rect x="135" y="104" width="66" height="30" rx="6" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="1.0"/>
+<text x="168" y="124" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="middle" font-weight="normal">AC</text>
+<line x1="135" y1="86" x2="168" y2="104" stroke="#CBD5E1" stroke-width="1.0"/>
+<text x="168" y="152" font-family="DejaVu Sans" font-size="8.8" fill="#7C3AED" text-anchor="middle" font-weight="bold">ACB</text>
+<rect x="310" y="52" width="90" height="34" rx="6" fill="#EDE9FE" stroke="#7C3AED" stroke-width="1.2"/>
+<text x="355" y="74" font-family="DejaVu Sans" font-size="9.4" fill="#0E1F40" text-anchor="middle" font-weight="normal">first: B</text>
+<rect x="280" y="104" width="66" height="30" rx="6" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="1.0"/>
+<text x="313" y="124" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="middle" font-weight="normal">BA</text>
+<line x1="355" y1="86" x2="313" y2="104" stroke="#CBD5E1" stroke-width="1.0"/>
+<text x="313" y="152" font-family="DejaVu Sans" font-size="8.8" fill="#7C3AED" text-anchor="middle" font-weight="bold">BAC</text>
+<rect x="355" y="104" width="66" height="30" rx="6" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="1.0"/>
+<text x="388" y="124" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="middle" font-weight="normal">BC</text>
+<line x1="355" y1="86" x2="388" y2="104" stroke="#CBD5E1" stroke-width="1.0"/>
+<text x="388" y="152" font-family="DejaVu Sans" font-size="8.8" fill="#7C3AED" text-anchor="middle" font-weight="bold">BCA</text>
+<rect x="530" y="52" width="90" height="34" rx="6" fill="#EDE9FE" stroke="#7C3AED" stroke-width="1.2"/>
+<text x="575" y="74" font-family="DejaVu Sans" font-size="9.4" fill="#0E1F40" text-anchor="middle" font-weight="normal">first: C</text>
+<rect x="500" y="104" width="66" height="30" rx="6" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="1.0"/>
+<text x="533" y="124" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="middle" font-weight="normal">CA</text>
+<line x1="575" y1="86" x2="533" y2="104" stroke="#CBD5E1" stroke-width="1.0"/>
+<text x="533" y="152" font-family="DejaVu Sans" font-size="8.8" fill="#7C3AED" text-anchor="middle" font-weight="bold">CAB</text>
+<rect x="575" y="104" width="66" height="30" rx="6" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="1.0"/>
+<text x="608" y="124" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="middle" font-weight="normal">CB</text>
+<line x1="575" y1="86" x2="608" y2="104" stroke="#CBD5E1" stroke-width="1.0"/>
+<text x="608" y="152" font-family="DejaVu Sans" font-size="8.8" fill="#7C3AED" text-anchor="middle" font-weight="bold">CBA</text>
+<text x="380" y="196" font-family="DejaVu Sans" font-size="10" fill="#334155" text-anchor="middle" font-weight="normal">6 arrangements in all — and $^3P_3 = 3! = 6$</text>
+</svg>
