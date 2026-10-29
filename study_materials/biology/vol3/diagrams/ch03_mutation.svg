@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 320" width="760" height="320">
+  <defs>
+    <marker id="ag" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#008751"/>
+    </marker>
+    <marker id="an" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#0E1F40"/>
+    </marker>
+    <marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#D97706"/>
+    </marker>
+    <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#DC2626"/>
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="760" height="320" fill="#FFFFFF"/>
+<text x="380" y="24" font-family="DejaVu Sans" font-size="12.8" fill="#0E1F40" text-anchor="middle" font-weight="bold">MUTATION — ONE BASE CHANGED, ONE CHARACTERISTIC CHANGED</text>
+<text x="150" y="56" font-family="DejaVu Sans" font-size="9.6" fill="#2563EB" text-anchor="middle" font-weight="bold">Normal gene</text>
+<rect x="96" y="68" width="30" height="26" rx="4" fill="#DBEAFE" stroke="#2563EB" stroke-width="1.2"/>
+<text x="111" y="86" font-family="DejaVu Sans" font-size="12" fill="#2563EB" text-anchor="middle" font-weight="bold">C</text>
+<rect x="130" y="68" width="30" height="26" rx="4" fill="#DBEAFE" stroke="#2563EB" stroke-width="1.2"/>
+<text x="145" y="86" font-family="DejaVu Sans" font-size="12" fill="#2563EB" text-anchor="middle" font-weight="bold">T</text>
+<rect x="164" y="68" width="30" height="26" rx="4" fill="#DBEAFE" stroke="#2563EB" stroke-width="1.2"/>
+<text x="179" y="86" font-family="DejaVu Sans" font-size="12" fill="#2563EB" text-anchor="middle" font-weight="bold">T</text>
+<line x1="196" y1="82" x2="213.6" y2="82.0" stroke="#334155" stroke-width="1.8"/><polygon points="226.0,82.0 213.6,86.6 213.6,77.4" fill="#334155"/>
+<rect x="232" y="68" width="84" height="26" rx="4" fill="#F1F5F9" stroke="#CBD5E1" stroke-width="1.0"/>
+<text x="274" y="86" font-family="DejaVu Sans" font-size="8.6" fill="#334155" text-anchor="middle" font-weight="normal">glutamic acid</text>
+<text x="150" y="116" font-family="DejaVu Sans" font-size="8.6" fill="#64748B" text-anchor="middle" font-weight="normal">normal haemoglobin, round red cell</text>
+<text x="150" y="160" font-family="DejaVu Sans" font-size="9.6" fill="#DC2626" text-anchor="middle" font-weight="bold">Mutated gene</text>
+<rect x="96" y="172" width="30" height="26" rx="4" fill="#FEE2E2" stroke="#DC2626" stroke-width="1.2"/>
+<text x="111" y="190" font-family="DejaVu Sans" font-size="12" fill="#DC2626" text-anchor="middle" font-weight="bold">C</text>
+<rect x="130" y="172" width="30" height="26" rx="4" fill="#FEE2E2" stroke="#DC2626" stroke-width="1.2"/>
+<text x="145" y="190" font-family="DejaVu Sans" font-size="12" fill="#DC2626" text-anchor="middle" font-weight="bold">A</text>
+<rect x="164" y="172" width="30" height="26" rx="4" fill="#FEE2E2" stroke="#DC2626" stroke-width="1.2"/>
+<text x="179" y="190" font-family="DejaVu Sans" font-size="12" fill="#DC2626" text-anchor="middle" font-weight="bold">T</text>
+<line x1="196" y1="186" x2="213.6" y2="186.0" stroke="#334155" stroke-width="1.8"/><polygon points="226.0,186.0 213.6,190.6 213.6,181.4" fill="#334155"/>
+<rect x="232" y="172" width="84" height="26" rx="4" fill="#F1F5F9" stroke="#CBD5E1" stroke-width="1.0"/>
+<text x="274" y="190" font-family="DejaVu Sans" font-size="8.6" fill="#334155" text-anchor="middle" font-weight="normal">valine</text>
+<text x="150" y="220" font-family="DejaVu Sans" font-size="8.6" fill="#64748B" text-anchor="middle" font-weight="normal">sickle haemoglobin, sickle cell</text>
+<text x="150" y="250" font-family="DejaVu Sans" font-size="8.8" fill="#64748B" text-anchor="middle" font-weight="bold">one base substituted: T → A</text>
+<rect x="360" y="56" width="356" height="108" rx="8" fill="#DBEAFE" stroke="#2563EB" stroke-width="1.2"/>
+<text x="538" y="76" font-family="DejaVu Sans" font-size="9.8" fill="#2563EB" text-anchor="middle" font-weight="bold">Gene mutation</text>
+<text x="538" y="96" font-family="DejaVu Sans" font-size="8.6" fill="#334155" text-anchor="middle" font-weight="normal">one or a few bases changed — the protein is altered</text>
+<text x="538" y="114" font-family="DejaVu Sans" font-size="8.6" fill="#334155" text-anchor="middle" font-weight="normal">sickle-cell anaemia, albinism, haemophilia</text>
+<text x="538" y="132" font-family="DejaVu Sans" font-size="8.6" fill="#334155" text-anchor="middle" font-weight="normal">not visible under a microscope</text>
+<text x="538" y="152" font-family="DejaVu Sans" font-size="8.6" fill="#64748B" text-anchor="middle" font-weight="normal">can be inherited if it is in a gamete</text>
+<rect x="360" y="176" width="356" height="108" rx="8" fill="#FEF3C7" stroke="#D97706" stroke-width="1.2"/>
+<text x="538" y="196" font-family="DejaVu Sans" font-size="9.8" fill="#D97706" text-anchor="middle" font-weight="bold">Chromosome mutation</text>
+<text x="538" y="216" font-family="DejaVu Sans" font-size="8.6" fill="#334155" text-anchor="middle" font-weight="normal">a whole chromosome or a piece of one is lost, doubled</text>
+<text x="538" y="234" font-family="DejaVu Sans" font-size="8.6" fill="#334155" text-anchor="middle" font-weight="normal">or attached to the wrong partner</text>
+<text x="538" y="252" font-family="DejaVu Sans" font-size="8.6" fill="#334155" text-anchor="middle" font-weight="normal">Down syndrome — an extra chromosome 21</text>
+<text x="538" y="272" font-family="DejaVu Sans" font-size="8.6" fill="#64748B" text-anchor="middle" font-weight="normal">visible in a karyotype</text>
+</svg>

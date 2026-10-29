@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 340" width="760" height="340">
+  <defs>
+    <marker id="ag" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#008751"/>
+    </marker>
+    <marker id="an" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#0E1F40"/>
+    </marker>
+    <marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#D97706"/>
+    </marker>
+    <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#DC2626"/>
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="760" height="340" fill="#FFFFFF"/>
+<text x="380" y="24" font-family="DejaVu Sans" font-size="13.0" fill="#0E1F40" text-anchor="middle" font-weight="bold">SEX LINKAGE — COLOUR BLINDNESS IN ONE FAMILY</text>
+<text x="380" y="46" font-family="DejaVu Sans" font-size="9.2" fill="#64748B" text-anchor="middle" font-weight="normal">carrier mother × normal father: half the sons are colour blind, no daughter is</text>
+<circle cx="250" cy="96" r="16" fill="#FFFFFF" stroke="#0E1F40" stroke-width="2.0"/>
+<text x="250" y="130" font-family="DejaVu Sans" font-size="8.6" fill="#334155" text-anchor="middle" font-weight="normal">carrier mother</text>
+<text x="234.52" y="70" font-family="DejaVu Sans" font-size="10.0" fill="#DC2626" text-anchor="start" font-weight="bold">X</text><text x="243.62" y="65.8" font-family="DejaVu Sans" font-size="7.199999999999999" fill="#DC2626" text-anchor="start" font-weight="bold">B</text><text x="250.504" y="70" font-family="DejaVu Sans" font-size="10.0" fill="#DC2626" text-anchor="start" font-weight="bold">X</text><text x="259.604" y="65.8" font-family="DejaVu Sans" font-size="7.199999999999999" fill="#DC2626" text-anchor="start" font-weight="bold">b</text>
+<line x1="266" y1="96" x2="320" y2="96" stroke="#334155" stroke-width="2.0"/>
+<rect x="321" y="81" width="30" height="30" rx="2" fill="#FFFFFF" stroke="#0E1F40" stroke-width="2.0"/>
+<text x="336" y="128" font-family="DejaVu Sans" font-size="8.6" fill="#334155" text-anchor="middle" font-weight="normal">normal father</text>
+<text x="323.658" y="70" font-family="DejaVu Sans" font-size="10.0" fill="#0E1F40" text-anchor="start" font-weight="bold">X</text><text x="332.75800000000004" y="65.8" font-family="DejaVu Sans" font-size="7.199999999999999" fill="#0E1F40" text-anchor="start" font-weight="bold">B</text><text x="339.64200000000005" y="70" font-family="DejaVu Sans" font-size="10.0" fill="#0E1F40" text-anchor="start" font-weight="bold">Y</text>
+<line x1="293" y1="112" x2="293" y2="150" stroke="#334155" stroke-width="1.6"/>
+<line x1="150" y1="150" x2="450" y2="150" stroke="#334155" stroke-width="1.6"/>
+<line x1="150" y1="150" x2="150" y2="172" stroke="#334155" stroke-width="1.6"/>
+<circle cx="150" cy="190" r="16" fill="#FFFFFF" stroke="#DC2626" stroke-width="2.0"/>
+<circle cx="150" cy="190" r="4.5" fill="#DC2626"/>
+<text x="150" y="224" font-family="DejaVu Sans" font-size="8.6" fill="#334155" text-anchor="middle" font-weight="normal">carrier daughter</text>
+<line x1="250" y1="150" x2="250" y2="172" stroke="#334155" stroke-width="1.6"/>
+<circle cx="250" cy="190" r="16" fill="#FFFFFF" stroke="#0E1F40" stroke-width="2.0"/>
+<text x="250" y="224" font-family="DejaVu Sans" font-size="8.6" fill="#334155" text-anchor="middle" font-weight="normal">normal daughter</text>
+<line x1="350" y1="150" x2="350" y2="172" stroke="#334155" stroke-width="1.6"/>
+<rect x="335" y="175" width="30" height="30" rx="2" fill="#FFFFFF" stroke="#0E1F40" stroke-width="2.0"/>
+<text x="350" y="222" font-family="DejaVu Sans" font-size="8.6" fill="#334155" text-anchor="middle" font-weight="normal">normal son</text>
+<line x1="450" y1="150" x2="450" y2="172" stroke="#334155" stroke-width="1.6"/>
+<rect x="435" y="175" width="30" height="30" rx="2" fill="#FEE2E2" stroke="#DC2626" stroke-width="2.0"/>
+<text x="450" y="222" font-family="DejaVu Sans" font-size="8.6" fill="#334155" text-anchor="middle" font-weight="normal">colour-blind son</text>
+<rect x="504" y="62" width="232" height="104" rx="8" fill="#F8FAFC" stroke="#CBD5E1" stroke-width="1.1"/>
+<text x="620" y="82" font-family="DejaVu Sans" font-size="9.4" fill="#0E1F40" text-anchor="middle" font-weight="bold">Key</text>
+<rect x="518" y="92" width="13" height="13" rx="1" fill="#FFFFFF" stroke="#0E1F40" stroke-width="1.6"/>
+<text x="538" y="103" font-family="DejaVu Sans" font-size="8.6" fill="#334155" text-anchor="start" font-weight="normal">male</text>
+<circle cx="524" cy="120" r="6.5" fill="#FFFFFF" stroke="#0E1F40" stroke-width="1.6"/>
+<text x="538" y="124" font-family="DejaVu Sans" font-size="8.6" fill="#334155" text-anchor="start" font-weight="normal">female</text>
+<circle cx="524" cy="140" r="3.5" fill="#DC2626"/>
+<text x="538" y="144" font-family="DejaVu Sans" font-size="8.6" fill="#334155" text-anchor="start" font-weight="normal">carries the allele</text>
+<rect x="504" y="176" width="232" height="34" rx="8" fill="#FEE2E2" stroke="#DC2626" stroke-width="1.1"/>
+<text x="620" y="197" font-family="DejaVu Sans" font-size="8.8" fill="#DC2626" text-anchor="middle" font-weight="bold">sons get their X from the mother only</text>
+<rect x="60" y="252" width="640" height="62" rx="8" fill="#ECFDF5" stroke="#008751" stroke-width="1.2"/>
+<text x="380" y="274" font-family="DejaVu Sans" font-size="9.4" fill="#008751" text-anchor="middle" font-weight="bold">A sex-linked recessive shows up in sons whenever the mother carries it,</text>
+<text x="380" y="294" font-family="DejaVu Sans" font-size="9.4" fill="#008751" text-anchor="middle" font-weight="bold">because a son has only one X — there is no second copy to hide the allele.</text>
+</svg>

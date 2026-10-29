@@ -1,0 +1,82 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 330" width="760" height="330">
+  <defs>
+    <marker id="ag" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#008751"/>
+    </marker>
+    <marker id="an" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#0E1F40"/>
+    </marker>
+    <marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#D97706"/>
+    </marker>
+    <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#DC2626"/>
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="760" height="330" fill="#FFFFFF"/>
+<text x="380" y="24" font-family="DejaVu Sans" font-size="13.0" fill="#0E1F40" text-anchor="middle" font-weight="bold">NATURAL SELECTION IN FIVE STEPS</text>
+<rect x="56" y="60" width="118" height="118" rx="8" fill="#FFFFFF" stroke="#008751" stroke-width="1.4"/>
+<rect x="56" y="60" width="118" height="5" rx="2.5" fill="#008751"/>
+<circle cx="76" cy="84" r="11" fill="#008751"/>
+<text x="76" y="88" font-family="DejaVu Sans" font-size="10" fill="#FFFFFF" text-anchor="middle" font-weight="bold">1</text>
+<text x="118" y="88" font-family="DejaVu Sans" font-size="9.2" fill="#0E1F40" text-anchor="middle" font-weight="bold">Variation</text>
+<text x="115" y="112" font-family="DejaVu Sans" font-size="7.8" fill="#334155" text-anchor="middle" font-weight="normal">individuals</text>
+<text x="115" y="126" font-family="DejaVu Sans" font-size="7.8" fill="#334155" text-anchor="middle" font-weight="normal">differ — and some</text>
+<text x="115" y="140" font-family="DejaVu Sans" font-size="7.8" fill="#334155" text-anchor="middle" font-weight="normal">of the difference</text>
+<text x="115" y="154" font-family="DejaVu Sans" font-size="7.8" fill="#334155" text-anchor="middle" font-weight="normal">is inherited</text>
+<line x1="176" y1="120" x2="175.925" y2="120.0" stroke="#008751" stroke-width="1.6"/><polygon points="186.0,120.0 175.9,123.8 175.9,116.2" fill="#008751"/>
+<rect x="188" y="60" width="118" height="118" rx="8" fill="#FFFFFF" stroke="#008751" stroke-width="1.4"/>
+<rect x="188" y="60" width="118" height="5" rx="2.5" fill="#008751"/>
+<circle cx="208" cy="84" r="11" fill="#008751"/>
+<text x="208" y="88" font-family="DejaVu Sans" font-size="10" fill="#FFFFFF" text-anchor="middle" font-weight="bold">2</text>
+<text x="250" y="88" font-family="DejaVu Sans" font-size="9.2" fill="#0E1F40" text-anchor="middle" font-weight="bold">Competition</text>
+<text x="247" y="112" font-family="DejaVu Sans" font-size="7.8" fill="#334155" text-anchor="middle" font-weight="normal">far more young</text>
+<text x="247" y="126" font-family="DejaVu Sans" font-size="7.8" fill="#334155" text-anchor="middle" font-weight="normal">are produced</text>
+<text x="247" y="140" font-family="DejaVu Sans" font-size="7.8" fill="#334155" text-anchor="middle" font-weight="normal">than can</text>
+<text x="247" y="154" font-family="DejaVu Sans" font-size="7.8" fill="#334155" text-anchor="middle" font-weight="normal">possibly survive</text>
+<line x1="308" y1="120" x2="307.925" y2="120.0" stroke="#008751" stroke-width="1.6"/><polygon points="318.0,120.0 307.9,123.8 307.9,116.2" fill="#008751"/>
+<rect x="320" y="60" width="118" height="118" rx="8" fill="#FFFFFF" stroke="#008751" stroke-width="1.4"/>
+<rect x="320" y="60" width="118" height="5" rx="2.5" fill="#008751"/>
+<circle cx="340" cy="84" r="11" fill="#008751"/>
+<text x="340" y="88" font-family="DejaVu Sans" font-size="10" fill="#FFFFFF" text-anchor="middle" font-weight="bold">3</text>
+<text x="382" y="88" font-family="DejaVu Sans" font-size="9.2" fill="#0E1F40" text-anchor="middle" font-weight="bold">Selection</text>
+<text x="379" y="112" font-family="DejaVu Sans" font-size="7.8" fill="#334155" text-anchor="middle" font-weight="normal">the best</text>
+<text x="379" y="126" font-family="DejaVu Sans" font-size="7.8" fill="#334155" text-anchor="middle" font-weight="normal">adapted survive</text>
+<text x="379" y="140" font-family="DejaVu Sans" font-size="7.8" fill="#334155" text-anchor="middle" font-weight="normal">and go on</text>
+<text x="379" y="154" font-family="DejaVu Sans" font-size="7.8" fill="#334155" text-anchor="middle" font-weight="normal">to breed</text>
+<line x1="440" y1="120" x2="439.925" y2="120.0" stroke="#008751" stroke-width="1.6"/><polygon points="450.0,120.0 439.9,123.8 439.9,116.2" fill="#008751"/>
+<rect x="452" y="60" width="118" height="118" rx="8" fill="#FFFFFF" stroke="#008751" stroke-width="1.4"/>
+<rect x="452" y="60" width="118" height="5" rx="2.5" fill="#008751"/>
+<circle cx="472" cy="84" r="11" fill="#008751"/>
+<text x="472" y="88" font-family="DejaVu Sans" font-size="10" fill="#FFFFFF" text-anchor="middle" font-weight="bold">4</text>
+<text x="514" y="88" font-family="DejaVu Sans" font-size="9.2" fill="#0E1F40" text-anchor="middle" font-weight="bold">Inheritance</text>
+<text x="511" y="112" font-family="DejaVu Sans" font-size="7.8" fill="#334155" text-anchor="middle" font-weight="normal">their alleles</text>
+<text x="511" y="126" font-family="DejaVu Sans" font-size="7.8" fill="#334155" text-anchor="middle" font-weight="normal">are passed to</text>
+<text x="511" y="140" font-family="DejaVu Sans" font-size="7.8" fill="#334155" text-anchor="middle" font-weight="normal">the next</text>
+<text x="511" y="154" font-family="DejaVu Sans" font-size="7.8" fill="#334155" text-anchor="middle" font-weight="normal">generation</text>
+<line x1="572" y1="120" x2="571.925" y2="120.0" stroke="#008751" stroke-width="1.6"/><polygon points="582.0,120.0 571.9,123.8 571.9,116.2" fill="#008751"/>
+<rect x="584" y="60" width="118" height="118" rx="8" fill="#FFFFFF" stroke="#008751" stroke-width="1.4"/>
+<rect x="584" y="60" width="118" height="5" rx="2.5" fill="#008751"/>
+<circle cx="604" cy="84" r="11" fill="#008751"/>
+<text x="604" y="88" font-family="DejaVu Sans" font-size="10" fill="#FFFFFF" text-anchor="middle" font-weight="bold">5</text>
+<text x="646" y="88" font-family="DejaVu Sans" font-size="9.2" fill="#0E1F40" text-anchor="middle" font-weight="bold">Change</text>
+<text x="643" y="112" font-family="DejaVu Sans" font-size="7.8" fill="#334155" text-anchor="middle" font-weight="normal">the population</text>
+<text x="643" y="126" font-family="DejaVu Sans" font-size="7.8" fill="#334155" text-anchor="middle" font-weight="normal">shifts, and the</text>
+<text x="643" y="140" font-family="DejaVu Sans" font-size="7.8" fill="#334155" text-anchor="middle" font-weight="normal">shift is</text>
+<text x="643" y="154" font-family="DejaVu Sans" font-size="7.8" fill="#334155" text-anchor="middle" font-weight="normal">evolution</text>
+<line x1="90" y1="262" x2="390" y2="262" stroke="#334155" stroke-width="1.4"/>
+<line x1="90" y1="262" x2="90" y2="212" stroke="#334155" stroke-width="1.4"/>
+<path d="M 90.0 214.0 L 150.0 217.0 L 210.0 225.0 L 270.0 242.0 L 330.0 254.0 L 390.0 259.0" fill="none" stroke="#CBD5E1" stroke-width="2.6" stroke-linecap="round"/>
+<path d="M 90.0 260.0 L 150.0 258.0 L 210.0 251.0 L 270.0 233.0 L 330.0 220.0 L 390.0 214.0" fill="none" stroke="#0E1F40" stroke-width="2.6" stroke-linecap="round"/>
+<text x="240.0" y="296" font-family="DejaVu Sans" font-size="8.2" fill="#334155" text-anchor="middle" font-weight="normal">1850 → 1950 (soot on the trunks)</text>
+<text x="98" y="204" font-family="DejaVu Sans" font-size="7.6" fill="#64748B" text-anchor="start" font-weight="normal">moths (%)</text>
+<text x="384" y="204" font-family="DejaVu Sans" font-size="8.0" fill="#0E1F40" text-anchor="end" font-weight="normal">dark</text>
+<text x="384" y="254" font-family="DejaVu Sans" font-size="8.0" fill="#64748B" text-anchor="end" font-weight="normal">pale</text>
+<rect x="430" y="196" width="270" height="110" rx="8" fill="#ECFDF5" stroke="#008751" stroke-width="1.2"/>
+<text x="565" y="216" font-family="DejaVu Sans" font-size="9.6" fill="#008751" text-anchor="middle" font-weight="bold">The peppered moth</text>
+<text x="565" y="236" font-family="DejaVu Sans" font-size="8.4" fill="#334155" text-anchor="middle" font-weight="normal">Soot killed the lichen on tree trunks,</text>
+<text x="565" y="252" font-family="DejaVu Sans" font-size="8.4" fill="#334155" text-anchor="middle" font-weight="normal">so pale moths were seen and eaten and</text>
+<text x="565" y="268" font-family="DejaVu Sans" font-size="8.4" fill="#334155" text-anchor="middle" font-weight="normal">dark moths survived. After clean-air laws</text>
+<text x="565" y="284" font-family="DejaVu Sans" font-size="8.4" fill="#334155" text-anchor="middle" font-weight="normal">the pale form returned — evolution in</text>
+<text x="565" y="298" font-family="DejaVu Sans" font-size="8.4" fill="#334155" text-anchor="middle" font-weight="normal">twenty years, and it was observed.</text>
+</svg>

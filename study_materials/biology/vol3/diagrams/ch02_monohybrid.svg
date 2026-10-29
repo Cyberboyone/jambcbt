@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 400" width="760" height="400">
+  <defs>
+    <marker id="ag" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#008751"/>
+    </marker>
+    <marker id="an" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#0E1F40"/>
+    </marker>
+    <marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#D97706"/>
+    </marker>
+    <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#DC2626"/>
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="760" height="400" fill="#FFFFFF"/>
+<text x="380" y="26" font-family="DejaVu Sans" font-size="13.0" fill="#0E1F40" text-anchor="middle" font-weight="bold">A MONOHYBRID CROSS — TALL × SHORT, ALL THE WAY TO F2</text>
+<text x="120" y="58" font-family="DejaVu Sans" font-size="9.4" fill="#64748B" text-anchor="middle" font-weight="bold">PARENTS (P)</text>
+<rect x="44" y="68" width="156" height="58" rx="8" fill="#DBEAFE" stroke="#2563EB" stroke-width="1.4"/>
+<text x="122" y="92" font-family="DejaVu Sans" font-size="12.5" fill="#2563EB" text-anchor="middle" font-weight="bold">TT tall</text>
+<text x="122" y="112" font-family="DejaVu Sans" font-size="8.6" fill="#334155" text-anchor="middle" font-weight="normal">homozygous</text>
+<text x="208" y="102" font-family="DejaVu Sans" font-size="16" fill="#0E1F40" text-anchor="middle" font-weight="bold">×</text>
+<rect x="218" y="68" width="156" height="58" rx="8" fill="#FEE2E2" stroke="#DC2626" stroke-width="1.4"/>
+<text x="296" y="92" font-family="DejaVu Sans" font-size="12.5" fill="#DC2626" text-anchor="middle" font-weight="bold">tt short</text>
+<text x="296" y="112" font-family="DejaVu Sans" font-size="8.6" fill="#334155" text-anchor="middle" font-weight="normal">homozygous</text>
+<line x1="378" y1="98" x2="411.6" y2="98.0" stroke="#008751" stroke-width="2.0"/><polygon points="424.0,98.0 411.6,102.6 411.6,93.4" fill="#008751"/>
+<text x="548" y="58" font-family="DejaVu Sans" font-size="9.4" fill="#64748B" text-anchor="middle" font-weight="bold">F1 — every offspring identical</text>
+<rect x="524" y="74" width="48" height="36" rx="3" fill="#ECFDF5" stroke="#008751" stroke-width="1.1"/>
+<text x="548.0" y="97.0" font-family="DejaVu Sans" font-size="12.5" fill="#008751" text-anchor="middle" font-weight="bold">T</text>
+<rect x="572" y="74" width="48" height="36" rx="3" fill="#ECFDF5" stroke="#008751" stroke-width="1.1"/>
+<text x="596.0" y="97.0" font-family="DejaVu Sans" font-size="12.5" fill="#008751" text-anchor="middle" font-weight="bold">t</text>
+<rect x="476" y="110" width="48" height="36" rx="3" fill="#ECFDF5" stroke="#008751" stroke-width="1.1"/>
+<text x="500.0" y="133.0" font-family="DejaVu Sans" font-size="12.5" fill="#008751" text-anchor="middle" font-weight="bold">T</text>
+<rect x="476" y="146" width="48" height="36" rx="3" fill="#ECFDF5" stroke="#008751" stroke-width="1.1"/>
+<text x="500.0" y="169.0" font-family="DejaVu Sans" font-size="12.5" fill="#008751" text-anchor="middle" font-weight="bold">t</text>
+<rect x="524" y="110" width="48" height="36" rx="2" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="1.0"/>
+<text x="548.0" y="133.0" font-family="DejaVu Sans" font-size="12.5" fill="#0E1F40" text-anchor="middle" font-weight="bold">Tt</text>
+<rect x="572" y="110" width="48" height="36" rx="2" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="1.0"/>
+<text x="596.0" y="133.0" font-family="DejaVu Sans" font-size="12.5" fill="#0E1F40" text-anchor="middle" font-weight="bold">Tt</text>
+<rect x="524" y="146" width="48" height="36" rx="2" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="1.0"/>
+<text x="548.0" y="169.0" font-family="DejaVu Sans" font-size="12.5" fill="#0E1F40" text-anchor="middle" font-weight="bold">Tt</text>
+<rect x="572" y="146" width="48" height="36" rx="2" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="1.0"/>
+<text x="596.0" y="169.0" font-family="DejaVu Sans" font-size="12.5" fill="#0E1F40" text-anchor="middle" font-weight="bold">Tt</text>
+<text x="548" y="206" font-family="DejaVu Sans" font-size="9.8" fill="#0E1F40" text-anchor="middle" font-weight="bold">all Tt — all tall</text>
+<text x="120" y="240" font-family="DejaVu Sans" font-size="9.4" fill="#64748B" text-anchor="middle" font-weight="bold">F2 — cross the F1 with itself (Tt × Tt)</text>
+<rect x="98" y="254" width="48" height="36" rx="3" fill="#ECFDF5" stroke="#008751" stroke-width="1.1"/>
+<text x="122.0" y="277.0" font-family="DejaVu Sans" font-size="12.5" fill="#008751" text-anchor="middle" font-weight="bold">T</text>
+<rect x="146" y="254" width="48" height="36" rx="3" fill="#ECFDF5" stroke="#008751" stroke-width="1.1"/>
+<text x="170.0" y="277.0" font-family="DejaVu Sans" font-size="12.5" fill="#008751" text-anchor="middle" font-weight="bold">t</text>
+<rect x="50" y="290" width="48" height="36" rx="3" fill="#ECFDF5" stroke="#008751" stroke-width="1.1"/>
+<text x="74.0" y="313.0" font-family="DejaVu Sans" font-size="12.5" fill="#008751" text-anchor="middle" font-weight="bold">T</text>
+<rect x="50" y="326" width="48" height="36" rx="3" fill="#ECFDF5" stroke="#008751" stroke-width="1.1"/>
+<text x="74.0" y="349.0" font-family="DejaVu Sans" font-size="12.5" fill="#008751" text-anchor="middle" font-weight="bold">t</text>
+<rect x="98" y="290" width="48" height="36" rx="2" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="1.0"/>
+<text x="122.0" y="313.0" font-family="DejaVu Sans" font-size="12.5" fill="#2563EB" text-anchor="middle" font-weight="bold">TT</text>
+<rect x="146" y="290" width="48" height="36" rx="2" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="1.0"/>
+<text x="170.0" y="313.0" font-family="DejaVu Sans" font-size="12.5" fill="#0E1F40" text-anchor="middle" font-weight="bold">Tt</text>
+<rect x="98" y="326" width="48" height="36" rx="2" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="1.0"/>
+<text x="122.0" y="349.0" font-family="DejaVu Sans" font-size="12.5" fill="#0E1F40" text-anchor="middle" font-weight="bold">Tt</text>
+<rect x="146" y="326" width="48" height="36" rx="2" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="1.0"/>
+<text x="170.0" y="349.0" font-family="DejaVu Sans" font-size="12.5" fill="#DC2626" text-anchor="middle" font-weight="bold">tt</text>
+<text x="122" y="386" font-family="DejaVu Sans" font-size="9.8" fill="#008751" text-anchor="middle" font-weight="bold">3 tall : 1 short</text>
+<rect x="392" y="254" width="328" height="118" rx="8" fill="#ECFDF5" stroke="#008751" stroke-width="1.2"/>
+<text x="556" y="278" font-family="DejaVu Sans" font-size="9.4" fill="#008751" text-anchor="middle" font-weight="bold">Genotypes</text>
+<text x="556" y="298" font-family="DejaVu Sans" font-size="11.0" fill="#0E1F40" text-anchor="middle" font-weight="bold">1 TT : 2 Tt : 1 tt</text>
+<text x="556" y="324" font-family="DejaVu Sans" font-size="9.4" fill="#008751" text-anchor="middle" font-weight="bold">Phenotypes</text>
+<text x="556" y="344" font-family="DejaVu Sans" font-size="11.0" fill="#0E1F40" text-anchor="middle" font-weight="bold">3 tall : 1 short</text>
+<text x="556" y="364" font-family="DejaVu Sans" font-size="8.0" fill="#64748B" text-anchor="middle" font-weight="normal">3 : 1 is a phenotype ratio; 1 : 2 : 1 is the genotype ratio</text>
+</svg>

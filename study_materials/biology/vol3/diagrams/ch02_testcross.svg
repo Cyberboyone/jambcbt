@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 296" width="760" height="296">
+  <defs>
+    <marker id="ag" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#008751"/>
+    </marker>
+    <marker id="an" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#0E1F40"/>
+    </marker>
+    <marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#D97706"/>
+    </marker>
+    <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#DC2626"/>
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="760" height="296" fill="#FFFFFF"/>
+<text x="380" y="24" font-family="DejaVu Sans" font-size="12.6" fill="#0E1F40" text-anchor="middle" font-weight="bold">THE TEST CROSS — FINDING OUT WHICH GENOTYPE A TALL PLANT HAS</text>
+<text x="190" y="58" font-family="DejaVu Sans" font-size="10.2" fill="#2563EB" text-anchor="middle" font-weight="bold">IF THE PLANT IS TT</text>
+<rect x="148" y="70" width="44" height="40" rx="3" fill="#ECFDF5" stroke="#008751" stroke-width="1.1"/>
+<text x="170.0" y="95.0" font-family="DejaVu Sans" font-size="12.5" fill="#008751" text-anchor="middle" font-weight="bold">T</text>
+<rect x="192" y="70" width="44" height="40" rx="3" fill="#ECFDF5" stroke="#008751" stroke-width="1.1"/>
+<text x="214.0" y="95.0" font-family="DejaVu Sans" font-size="12.5" fill="#008751" text-anchor="middle" font-weight="bold">t</text>
+<rect x="104" y="110" width="44" height="40" rx="3" fill="#ECFDF5" stroke="#008751" stroke-width="1.1"/>
+<text x="126.0" y="135.0" font-family="DejaVu Sans" font-size="12.5" fill="#008751" text-anchor="middle" font-weight="bold">T</text>
+<rect x="104" y="150" width="44" height="40" rx="3" fill="#ECFDF5" stroke="#008751" stroke-width="1.1"/>
+<text x="126.0" y="175.0" font-family="DejaVu Sans" font-size="12.5" fill="#008751" text-anchor="middle" font-weight="bold">t</text>
+<rect x="148" y="110" width="44" height="40" rx="2" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="1.0"/>
+<text x="170.0" y="135.0" font-family="DejaVu Sans" font-size="12.5" fill="#0E1F40" text-anchor="middle" font-weight="bold">Tt</text>
+<rect x="192" y="110" width="44" height="40" rx="2" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="1.0"/>
+<text x="214.0" y="135.0" font-family="DejaVu Sans" font-size="12.5" fill="#0E1F40" text-anchor="middle" font-weight="bold">Tt</text>
+<rect x="148" y="150" width="44" height="40" rx="2" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="1.0"/>
+<text x="170.0" y="175.0" font-family="DejaVu Sans" font-size="12.5" fill="#0E1F40" text-anchor="middle" font-weight="bold">Tt</text>
+<rect x="192" y="150" width="44" height="40" rx="2" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="1.0"/>
+<text x="214.0" y="175.0" font-family="DejaVu Sans" font-size="12.5" fill="#0E1F40" text-anchor="middle" font-weight="bold">Tt</text>
+<text x="192" y="174" font-family="DejaVu Sans" font-size="9.6" fill="#0E1F40" text-anchor="middle" font-weight="bold">all Tt — all tall</text>
+<text x="570" y="58" font-family="DejaVu Sans" font-size="10.2" fill="#DC2626" text-anchor="middle" font-weight="bold">IF THE PLANT IS Tt</text>
+<rect x="528" y="70" width="44" height="40" rx="3" fill="#ECFDF5" stroke="#008751" stroke-width="1.1"/>
+<text x="550.0" y="95.0" font-family="DejaVu Sans" font-size="12.5" fill="#008751" text-anchor="middle" font-weight="bold">T</text>
+<rect x="572" y="70" width="44" height="40" rx="3" fill="#ECFDF5" stroke="#008751" stroke-width="1.1"/>
+<text x="594.0" y="95.0" font-family="DejaVu Sans" font-size="12.5" fill="#008751" text-anchor="middle" font-weight="bold">t</text>
+<rect x="484" y="110" width="44" height="40" rx="3" fill="#ECFDF5" stroke="#008751" stroke-width="1.1"/>
+<text x="506.0" y="135.0" font-family="DejaVu Sans" font-size="12.5" fill="#008751" text-anchor="middle" font-weight="bold">t</text>
+<rect x="484" y="150" width="44" height="40" rx="3" fill="#ECFDF5" stroke="#008751" stroke-width="1.1"/>
+<text x="506.0" y="175.0" font-family="DejaVu Sans" font-size="12.5" fill="#008751" text-anchor="middle" font-weight="bold">t</text>
+<rect x="528" y="110" width="44" height="40" rx="2" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="1.0"/>
+<text x="550.0" y="135.0" font-family="DejaVu Sans" font-size="12.5" fill="#0E1F40" text-anchor="middle" font-weight="bold">Tt</text>
+<rect x="572" y="110" width="44" height="40" rx="2" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="1.0"/>
+<text x="594.0" y="135.0" font-family="DejaVu Sans" font-size="12.5" fill="#DC2626" text-anchor="middle" font-weight="bold">tt</text>
+<rect x="528" y="150" width="44" height="40" rx="2" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="1.0"/>
+<text x="550.0" y="175.0" font-family="DejaVu Sans" font-size="12.5" fill="#0E1F40" text-anchor="middle" font-weight="bold">Tt</text>
+<rect x="572" y="150" width="44" height="40" rx="2" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="1.0"/>
+<text x="594.0" y="175.0" font-family="DejaVu Sans" font-size="12.5" fill="#DC2626" text-anchor="middle" font-weight="bold">tt</text>
+<text x="572" y="174" font-family="DejaVu Sans" font-size="9.6" fill="#DC2626" text-anchor="middle" font-weight="bold">1 tall : 1 short</text>
+<rect x="60" y="214" width="640" height="66" rx="8" fill="#ECFDF5" stroke="#008751" stroke-width="1.2"/>
+<text x="380" y="236" font-family="DejaVu Sans" font-size="10.2" fill="#008751" text-anchor="middle" font-weight="bold">Rule: cross the unknown plant with a homozygous recessive (tt)</text>
+<text x="380" y="256" font-family="DejaVu Sans" font-size="9.0" fill="#334155" text-anchor="middle" font-weight="normal">One short offspring proves the unknown parent carried t — so it was Tt.</text>
+<text x="380" y="272" font-family="DejaVu Sans" font-size="9.0" fill="#334155" text-anchor="middle" font-weight="normal">No short offspring at all means it was TT (all the offspring are Tt).</text>
+</svg>
