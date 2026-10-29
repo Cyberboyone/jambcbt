@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 276" width="760" height="276">
+  <defs>
+    <marker id="ag" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#008751"/>
+    </marker>
+    <marker id="an" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#0E1F40"/>
+    </marker>
+    <marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#D97706"/>
+    </marker>
+    <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#DC2626"/>
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="760" height="276" fill="#FFFFFF"/>
+<text x="380" y="24" font-family="DejaVu Sans" font-size="12.6" fill="#0E1F40" text-anchor="middle" font-weight="bold">FIVE WAYS TO CONTROL A PEST — AND WHAT EACH ONE COSTS</text>
+<rect x="20" y="54" width="138" height="110" rx="7" fill="#ECFDF5" stroke="#008751" stroke-width="1.4"/>
+<rect x="20" y="54" width="138" height="4.6" rx="2.3" fill="#008751"/>
+<text x="89" y="74" font-family="DejaVu Sans" font-size="8.8" fill="#008751" text-anchor="middle" font-weight="bold">CULTURAL</text>
+<text x="89" y="100" font-family="DejaVu Sans" font-size="7.6" fill="#334155" text-anchor="middle" font-weight="normal">rotate the crop;</text>
+<text x="89" y="114" font-family="DejaVu Sans" font-size="7.6" fill="#334155" text-anchor="middle" font-weight="normal">plant early;</text>
+<text x="89" y="128" font-family="DejaVu Sans" font-size="7.6" fill="#334155" text-anchor="middle" font-weight="normal">destroy crop remains;</text>
+<text x="89" y="142" font-family="DejaVu Sans" font-size="7.6" fill="#334155" text-anchor="middle" font-weight="normal">hand-pick and burn</text>
+<rect x="166" y="54" width="138" height="110" rx="7" fill="#FEF3C7" stroke="#D97706" stroke-width="1.4"/>
+<rect x="166" y="54" width="138" height="4.6" rx="2.3" fill="#D97706"/>
+<text x="235" y="74" font-family="DejaVu Sans" font-size="8.8" fill="#D97706" text-anchor="middle" font-weight="bold">BIOLOGICAL</text>
+<text x="235" y="100" font-family="DejaVu Sans" font-size="7.6" fill="#334155" text-anchor="middle" font-weight="normal">introduce a natural</text>
+<text x="235" y="114" font-family="DejaVu Sans" font-size="7.6" fill="#334155" text-anchor="middle" font-weight="normal">predator or parasite;</text>
+<text x="235" y="128" font-family="DejaVu Sans" font-size="7.6" fill="#334155" text-anchor="middle" font-weight="normal">no pollution, but the</text>
+<text x="235" y="142" font-family="DejaVu Sans" font-size="7.6" fill="#334155" text-anchor="middle" font-weight="normal">agent may attack others</text>
+<rect x="312" y="54" width="138" height="110" rx="7" fill="#FEE2E2" stroke="#DC2626" stroke-width="1.4"/>
+<rect x="312" y="54" width="138" height="4.6" rx="2.3" fill="#DC2626"/>
+<text x="381" y="74" font-family="DejaVu Sans" font-size="8.8" fill="#DC2626" text-anchor="middle" font-weight="bold">CHEMICAL</text>
+<text x="381" y="100" font-family="DejaVu Sans" font-size="7.6" fill="#334155" text-anchor="middle" font-weight="normal">spray a pesticide;</text>
+<text x="381" y="114" font-family="DejaVu Sans" font-size="7.6" fill="#334155" text-anchor="middle" font-weight="normal">fast and sure, but it</text>
+<text x="381" y="128" font-family="DejaVu Sans" font-size="7.6" fill="#334155" text-anchor="middle" font-weight="normal">pollutes, kills useful</text>
+<text x="381" y="142" font-family="DejaVu Sans" font-size="7.6" fill="#334155" text-anchor="middle" font-weight="normal">insects and selects resistance</text>
+<rect x="458" y="54" width="138" height="110" rx="7" fill="#DBEAFE" stroke="#2563EB" stroke-width="1.4"/>
+<rect x="458" y="54" width="138" height="4.6" rx="2.3" fill="#2563EB"/>
+<text x="527" y="74" font-family="DejaVu Sans" font-size="8.8" fill="#2563EB" text-anchor="middle" font-weight="bold">GENETIC</text>
+<text x="527" y="100" font-family="DejaVu Sans" font-size="7.6" fill="#334155" text-anchor="middle" font-weight="normal">breed or select</text>
+<text x="527" y="114" font-family="DejaVu Sans" font-size="7.6" fill="#334155" text-anchor="middle" font-weight="normal">resistant varieties;</text>
+<text x="527" y="128" font-family="DejaVu Sans" font-size="7.6" fill="#334155" text-anchor="middle" font-weight="normal">durable, but slow to</text>
+<text x="527" y="142" font-family="DejaVu Sans" font-size="7.6" fill="#334155" text-anchor="middle" font-weight="normal">produce and to replace</text>
+<rect x="604" y="54" width="138" height="110" rx="7" fill="#EDE9FE" stroke="#7C3AED" stroke-width="1.4"/>
+<rect x="604" y="54" width="138" height="4.6" rx="2.3" fill="#7C3AED"/>
+<text x="673" y="74" font-family="DejaVu Sans" font-size="8.8" fill="#7C3AED" text-anchor="middle" font-weight="bold">PHYSICAL</text>
+<text x="673" y="100" font-family="DejaVu Sans" font-size="7.6" fill="#334155" text-anchor="middle" font-weight="normal">netting, traps,</text>
+<text x="673" y="114" font-family="DejaVu Sans" font-size="7.6" fill="#334155" text-anchor="middle" font-weight="normal">barriers, sound and</text>
+<text x="673" y="128" font-family="DejaVu Sans" font-size="7.6" fill="#334155" text-anchor="middle" font-weight="normal">heat treatment;</text>
+<text x="673" y="142" font-family="DejaVu Sans" font-size="7.6" fill="#334155" text-anchor="middle" font-weight="normal">safe but labour-heavy</text>
+<rect x="20" y="190" width="720" height="62" rx="8" fill="#F8FBF9" stroke="#008751" stroke-width="1.1"/>
+<text x="380" y="208" font-family="DejaVu Sans" font-size="8.4" fill="#008751" text-anchor="middle" font-weight="bold">Integrated pest management uses all five: chemicals last, and only when the pest has passed the threshold.</text>
+<text x="380" y="224" font-family="DejaVu Sans" font-size="8.2" fill="#334155" text-anchor="middle" font-weight="normal">Pesticide resistance follows the same five steps as antibiotic resistance — the spray selects the few survivors.</text>
+<text x="380" y="240" font-family="DejaVu Sans" font-size="8.2" fill="#334155" text-anchor="middle" font-weight="normal">A pesticide also kills the pest's natural enemies, so the pest often returns worse than before: a pest resurgence.</text>
+</svg>

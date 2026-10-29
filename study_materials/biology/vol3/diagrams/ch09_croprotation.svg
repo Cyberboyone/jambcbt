@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 300" width="760" height="300">
+  <defs>
+    <marker id="ag" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#008751"/>
+    </marker>
+    <marker id="an" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#0E1F40"/>
+    </marker>
+    <marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#D97706"/>
+    </marker>
+    <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#DC2626"/>
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="760" height="300" fill="#FFFFFF"/>
+<text x="380" y="24" font-family="DejaVu Sans" font-size="12.4" fill="#0E1F40" text-anchor="middle" font-weight="bold">CROP ROTATION — FOUR PLOTS, FOUR YEARS, NO PESTS LEFT BEHIND</text>
+<rect x="25" y="56" width="165" height="92" rx="7" fill="#ECFDF5" stroke="#008751" stroke-width="1.4"/>
+<rect x="25" y="56" width="165" height="4.6" rx="2.3" fill="#008751"/>
+<text x="107" y="76" font-family="DejaVu Sans" font-size="7.6" fill="#008751" text-anchor="middle" font-weight="bold">YEAR 1</text>
+<text x="107" y="92" font-family="DejaVu Sans" font-size="9.0" fill="#0E1F40" text-anchor="middle" font-weight="bold">yam and maize</text>
+<text x="107" y="110" font-family="DejaVu Sans" font-size="7.4" fill="#334155" text-anchor="middle" font-weight="normal">heavy feeders: they take</text>
+<text x="107" y="122" font-family="DejaVu Sans" font-size="7.4" fill="#334155" text-anchor="middle" font-weight="normal">much nitrogen from the soil</text>
+<text x="107" y="138" font-family="DejaVu Sans" font-size="7.0" fill="#64748B" text-anchor="middle" font-weight="normal">plot 1</text>
+<line x1="192" y1="102" x2="192.7" y2="102.0" stroke="#008751" stroke-width="1.6"/><polygon points="202.0,102.0 192.7,105.5 192.7,98.5" fill="#008751"/>
+<rect x="205" y="56" width="165" height="92" rx="7" fill="#FEF3C7" stroke="#D97706" stroke-width="1.4"/>
+<rect x="205" y="56" width="165" height="4.6" rx="2.3" fill="#D97706"/>
+<text x="287" y="76" font-family="DejaVu Sans" font-size="7.6" fill="#D97706" text-anchor="middle" font-weight="bold">YEAR 2</text>
+<text x="287" y="92" font-family="DejaVu Sans" font-size="9.0" fill="#0E1F40" text-anchor="middle" font-weight="bold">cowpea and groundnut</text>
+<text x="287" y="110" font-family="DejaVu Sans" font-size="7.4" fill="#334155" text-anchor="middle" font-weight="normal">legumes: Rhizobium in the</text>
+<text x="287" y="122" font-family="DejaVu Sans" font-size="7.4" fill="#334155" text-anchor="middle" font-weight="normal">roots puts nitrogen back</text>
+<text x="287" y="138" font-family="DejaVu Sans" font-size="7.0" fill="#64748B" text-anchor="middle" font-weight="normal">plot 2</text>
+<line x1="372" y1="102" x2="372.7" y2="102.0" stroke="#008751" stroke-width="1.6"/><polygon points="382.0,102.0 372.7,105.5 372.7,98.5" fill="#008751"/>
+<rect x="385" y="56" width="165" height="92" rx="7" fill="#DBEAFE" stroke="#2563EB" stroke-width="1.4"/>
+<rect x="385" y="56" width="165" height="4.6" rx="2.3" fill="#2563EB"/>
+<text x="467" y="76" font-family="DejaVu Sans" font-size="7.6" fill="#2563EB" text-anchor="middle" font-weight="bold">YEAR 3</text>
+<text x="467" y="92" font-family="DejaVu Sans" font-size="9.0" fill="#0E1F40" text-anchor="middle" font-weight="bold">cassava</text>
+<text x="467" y="110" font-family="DejaVu Sans" font-size="7.4" fill="#334155" text-anchor="middle" font-weight="normal">deep roots: they draw</text>
+<text x="467" y="122" font-family="DejaVu Sans" font-size="7.4" fill="#334155" text-anchor="middle" font-weight="normal">from a lower layer</text>
+<text x="467" y="138" font-family="DejaVu Sans" font-size="7.0" fill="#64748B" text-anchor="middle" font-weight="normal">plot 3</text>
+<line x1="552" y1="102" x2="552.7" y2="102.0" stroke="#008751" stroke-width="1.6"/><polygon points="562.0,102.0 552.7,105.5 552.7,98.5" fill="#008751"/>
+<rect x="565" y="56" width="165" height="92" rx="7" fill="#EDE9FE" stroke="#7C3AED" stroke-width="1.4"/>
+<rect x="565" y="56" width="165" height="4.6" rx="2.3" fill="#7C3AED"/>
+<text x="647" y="76" font-family="DejaVu Sans" font-size="7.6" fill="#7C3AED" text-anchor="middle" font-weight="bold">YEAR 4</text>
+<text x="647" y="92" font-family="DejaVu Sans" font-size="9.0" fill="#0E1F40" text-anchor="middle" font-weight="bold">fallow or cover crop</text>
+<text x="647" y="110" font-family="DejaVu Sans" font-size="7.4" fill="#334155" text-anchor="middle" font-weight="normal">the soil rests, humus</text>
+<text x="647" y="122" font-family="DejaVu Sans" font-size="7.4" fill="#334155" text-anchor="middle" font-weight="normal">builds up again</text>
+<text x="647" y="138" font-family="DejaVu Sans" font-size="7.0" fill="#64748B" text-anchor="middle" font-weight="normal">plot 4</text>
+<path d="M 647 150 L 647 186 L 107 186 L 107 152" fill="none" stroke="#008751" stroke-width="1.6" stroke-linecap="round"/><polygon points="107,152 110.4,159.0 103.6,159.0" fill="#008751" stroke="#008751" stroke-width="0.6"/>
+<text x="380" y="200" font-family="DejaVu Sans" font-size="7.6" fill="#008751" text-anchor="middle" font-weight="normal">next year every crop moves on one plot — the cycle repeats</text>
+<rect x="25" y="216" width="710" height="62" rx="8" fill="#F8FAFC" stroke="#CBD5E1" stroke-width="1.1"/>
+<text x="380" y="234" font-family="DejaVu Sans" font-size="8.4" fill="#0E1F40" text-anchor="middle" font-weight="bold">Why rotate?  nutrients are not mined out · soil-borne pests and diseases starve ·</text>
+<text x="380" y="248" font-family="DejaVu Sans" font-size="8.4" fill="#0E1F40" text-anchor="middle" font-weight="bold">weeds are broken · the soil structure improves — and legumes add nitrogen for free</text>
+<text x="380" y="268" font-family="DejaVu Sans" font-size="8.0" fill="#64748B" text-anchor="middle" font-weight="normal">Monoculture — the same crop on the same plot every year — does the opposite on all four counts.</text>
+</svg>

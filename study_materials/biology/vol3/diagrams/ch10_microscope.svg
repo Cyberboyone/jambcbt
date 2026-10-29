@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 340" width="760" height="340">
+  <defs>
+    <marker id="ag" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#008751"/>
+    </marker>
+    <marker id="an" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#0E1F40"/>
+    </marker>
+    <marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#D97706"/>
+    </marker>
+    <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#DC2626"/>
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="760" height="340" fill="#FFFFFF"/>
+<text x="380" y="24" font-family="DejaVu Sans" font-size="12.4" fill="#0E1F40" text-anchor="middle" font-weight="bold">THE MICROSCOPE — PARTS, AND THE MAGNIFICATION THAT MAKES IT WORK</text>
+<rect x="110" y="300" width="190" height="14" rx="3" fill="#E8EEF6" stroke="#0E1F40" stroke-width="1.2"/>
+<rect x="240" y="96" width="16" height="204" rx="3" fill="#E8EEF6" stroke="#0E1F40" stroke-width="1.2"/>
+<rect x="186" y="104" width="70" height="14" rx="3" fill="#E8EEF6" stroke="#0E1F40" stroke-width="1.2"/>
+<rect x="176" y="56" width="34" height="130" rx="3" fill="#F4F7FB" stroke="#0E1F40" stroke-width="1.2"/>
+<rect x="168" y="44" width="50" height="16" rx="3" fill="#DCE6F2" stroke="#0E1F40" stroke-width="1.2"/>
+<rect x="182" y="186" width="22" height="20" rx="3" fill="#DBEAFE" stroke="#2563EB" stroke-width="1.2"/>
+<rect x="136" y="214" width="116" height="8" rx="2" fill="#E8EEF6" stroke="#0E1F40" stroke-width="1.2"/>
+<rect x="146" y="204" width="12" height="10" rx="1.5" fill="#DCE6F2" stroke="#0E1F40" stroke-width="1.0"/>
+<rect x="230" y="204" width="12" height="10" rx="1.5" fill="#DCE6F2" stroke="#0E1F40" stroke-width="1.0"/>
+<circle cx="194" cy="258" r="20" fill="#DCE6F2" stroke="#0E1F40" stroke-width="1.2"/>
+<line x1="180" y1="272" x2="208" y2="244" stroke="#0E1F40" stroke-width="1.0"/>
+<circle cx="258" cy="140" r="12" fill="#E8EEF6" stroke="#0E1F40" stroke-width="1.2"/>
+<circle cx="258" cy="170" r="9" fill="#E8EEF6" stroke="#0E1F40" stroke-width="1.2"/>
+<line x1="218" y1="52" x2="276" y2="52" stroke="#CBD5E1" stroke-width="1.0"/>
+<text x="280" y="55" font-family="DejaVu Sans" font-size="7.6" fill="#0E1F40" text-anchor="start" font-weight="normal">eyepiece lens (×10)</text>
+<line x1="256" y1="111" x2="276" y2="111" stroke="#CBD5E1" stroke-width="1.0"/>
+<text x="280" y="114" font-family="DejaVu Sans" font-size="7.6" fill="#0E1F40" text-anchor="start" font-weight="normal">arm — carry here</text>
+<line x1="270" y1="140" x2="276" y2="140" stroke="#CBD5E1" stroke-width="1.0"/>
+<text x="280" y="143" font-family="DejaVu Sans" font-size="7.6" fill="#0E1F40" text-anchor="start" font-weight="normal">coarse focus</text>
+<line x1="267" y1="170" x2="276" y2="170" stroke="#CBD5E1" stroke-width="1.0"/>
+<text x="280" y="173" font-family="DejaVu Sans" font-size="7.6" fill="#0E1F40" text-anchor="start" font-weight="normal">fine focus</text>
+<line x1="182" y1="196" x2="130" y2="196" stroke="#CBD5E1" stroke-width="1.0"/>
+<text x="126" y="199" font-family="DejaVu Sans" font-size="7.6" fill="#0E1F40" text-anchor="end" font-weight="normal">objective lens (×40)</text>
+<line x1="136" y1="218" x2="126" y2="218" stroke="#CBD5E1" stroke-width="1.0"/>
+<text x="122" y="221" font-family="DejaVu Sans" font-size="7.6" fill="#0E1F40" text-anchor="end" font-weight="normal">stage</text>
+<line x1="176" y1="258" x2="126" y2="258" stroke="#CBD5E1" stroke-width="1.0"/>
+<text x="122" y="261" font-family="DejaVu Sans" font-size="7.6" fill="#0E1F40" text-anchor="end" font-weight="normal">mirror or lamp</text>
+<line x1="118" y1="307" x2="100" y2="307" stroke="#CBD5E1" stroke-width="1.0"/>
+<text x="96" y="310" font-family="DejaVu Sans" font-size="7.6" fill="#0E1F40" text-anchor="end" font-weight="normal">base</text>
+<rect x="400" y="46" width="340" height="262" rx="8" fill="#F8FBF9" stroke="#008751" stroke-width="1.2"/>
+<text x="570" y="68" font-family="DejaVu Sans" font-size="9.6" fill="#008751" text-anchor="middle" font-weight="bold">Total magnification</text>
+<text x="570" y="88" font-family="DejaVu Sans" font-size="10.6" fill="#0E1F40" text-anchor="middle" font-weight="bold">= eyepiece × objective</text>
+<text x="570" y="108" font-family="DejaVu Sans" font-size="8.6" fill="#334155" text-anchor="middle" font-weight="normal">×10 with ×40 gives ×400</text>
+<line x1="420" y1="122" x2="720" y2="122" stroke="#CBD5E1" stroke-width="0.8"/>
+<text x="570" y="140" font-family="DejaVu Sans" font-size="8.6" fill="#008751" text-anchor="middle" font-weight="bold">Magnification also equals</text>
+<text x="570" y="156" font-family="DejaVu Sans" font-size="9.2" fill="#0E1F40" text-anchor="middle" font-weight="bold">image size ÷ actual size</text>
+<text x="570" y="176" font-family="DejaVu Sans" font-size="8.2" fill="#334155" text-anchor="middle" font-weight="normal">so a 40 mm image at ×400 is 0.1 mm of specimen</text>
+<line x1="420" y1="190" x2="720" y2="190" stroke="#CBD5E1" stroke-width="0.8"/>
+<text x="570" y="208" font-family="DejaVu Sans" font-size="8.4" fill="#334155" text-anchor="middle" font-weight="normal">Low power first, then high power.</text>
+<text x="570" y="224" font-family="DejaVu Sans" font-size="8.4" fill="#334155" text-anchor="middle" font-weight="normal">Focus upwards, never down onto the slide.</text>
+<text x="570" y="240" font-family="DejaVu Sans" font-size="8.4" fill="#334155" text-anchor="middle" font-weight="normal">Draw with a sharp pencil, label with ruled lines</text>
+<text x="570" y="256" font-family="DejaVu Sans" font-size="8.4" fill="#334155" text-anchor="middle" font-weight="normal">and no arrowheads, and write the magnification</text>
+<text x="570" y="272" font-family="DejaVu Sans" font-size="8.4" fill="#334155" text-anchor="middle" font-weight="normal">under the drawing.</text>
+</svg>

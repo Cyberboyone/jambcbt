@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 274" width="760" height="274">
+  <defs>
+    <marker id="ag" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#008751"/>
+    </marker>
+    <marker id="an" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#0E1F40"/>
+    </marker>
+    <marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#D97706"/>
+    </marker>
+    <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#DC2626"/>
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="760" height="274" fill="#FFFFFF"/>
+<text x="380" y="24" font-family="DejaVu Sans" font-size="12.4" fill="#0E1F40" text-anchor="middle" font-weight="bold">THE FOUR-CHAMBERED STOMACH OF A RUMINANT — A MUTUALISM IN THE GUT</text>
+<rect x="20" y="54" width="138" height="92" rx="7" fill="#ECFDF5" stroke="#008751" stroke-width="1.4"/>
+<rect x="20" y="54" width="138" height="4.6" rx="2.3" fill="#008751"/>
+<text x="89" y="74" font-family="DejaVu Sans" font-size="8.8" fill="#008751" text-anchor="middle" font-weight="bold">MOUTH</text>
+<text x="89" y="102" font-family="DejaVu Sans" font-size="7.5" fill="#334155" text-anchor="middle" font-weight="normal">grass is bitten off,</text>
+<text x="89" y="116" font-family="DejaVu Sans" font-size="7.5" fill="#334155" text-anchor="middle" font-weight="normal">chewed a little and</text>
+<text x="89" y="130" font-family="DejaVu Sans" font-size="7.5" fill="#334155" text-anchor="middle" font-weight="normal">swallowed</text>
+<line x1="159" y1="112" x2="155.32" y2="112.0" stroke="#334155" stroke-width="1.5"/><polygon points="164.0,112.0 155.3,115.2 155.3,108.8" fill="#334155"/>
+<rect x="166" y="54" width="138" height="92" rx="7" fill="#FEF3C7" stroke="#D97706" stroke-width="1.4"/>
+<rect x="166" y="54" width="138" height="4.6" rx="2.3" fill="#D97706"/>
+<text x="235" y="74" font-family="DejaVu Sans" font-size="8.8" fill="#D97706" text-anchor="middle" font-weight="bold">RUMEN</text>
+<text x="235" y="102" font-family="DejaVu Sans" font-size="7.5" fill="#334155" text-anchor="middle" font-weight="normal">bacteria and protozoa</text>
+<text x="235" y="116" font-family="DejaVu Sans" font-size="7.5" fill="#334155" text-anchor="middle" font-weight="normal">ferment the cellulose</text>
+<text x="235" y="130" font-family="DejaVu Sans" font-size="7.5" fill="#334155" text-anchor="middle" font-weight="normal">the animal cannot digest</text>
+<line x1="305" y1="112" x2="301.32" y2="112.0" stroke="#334155" stroke-width="1.5"/><polygon points="310.0,112.0 301.3,115.2 301.3,108.8" fill="#334155"/>
+<rect x="312" y="54" width="138" height="92" rx="7" fill="#DBEAFE" stroke="#2563EB" stroke-width="1.4"/>
+<rect x="312" y="54" width="138" height="4.6" rx="2.3" fill="#2563EB"/>
+<text x="381" y="74" font-family="DejaVu Sans" font-size="8.8" fill="#2563EB" text-anchor="middle" font-weight="bold">RETICULUM</text>
+<text x="381" y="102" font-family="DejaVu Sans" font-size="7.5" fill="#334155" text-anchor="middle" font-weight="normal">food is formed into a</text>
+<text x="381" y="116" font-family="DejaVu Sans" font-size="7.5" fill="#334155" text-anchor="middle" font-weight="normal">ball, brought back up</text>
+<text x="381" y="130" font-family="DejaVu Sans" font-size="7.5" fill="#334155" text-anchor="middle" font-weight="normal">and chewed again — cud</text>
+<line x1="451" y1="112" x2="447.32" y2="112.0" stroke="#334155" stroke-width="1.5"/><polygon points="456.0,112.0 447.3,115.2 447.3,108.8" fill="#334155"/>
+<rect x="458" y="54" width="138" height="92" rx="7" fill="#EDE9FE" stroke="#7C3AED" stroke-width="1.4"/>
+<rect x="458" y="54" width="138" height="4.6" rx="2.3" fill="#7C3AED"/>
+<text x="527" y="74" font-family="DejaVu Sans" font-size="8.8" fill="#7C3AED" text-anchor="middle" font-weight="bold">OMASUM</text>
+<text x="527" y="102" font-family="DejaVu Sans" font-size="7.5" fill="#334155" text-anchor="middle" font-weight="normal">water and the products</text>
+<text x="527" y="116" font-family="DejaVu Sans" font-size="7.5" fill="#334155" text-anchor="middle" font-weight="normal">of fermentation are</text>
+<text x="527" y="130" font-family="DejaVu Sans" font-size="7.5" fill="#334155" text-anchor="middle" font-weight="normal">absorbed</text>
+<line x1="597" y1="112" x2="593.32" y2="112.0" stroke="#334155" stroke-width="1.5"/><polygon points="602.0,112.0 593.3,115.2 593.3,108.8" fill="#334155"/>
+<rect x="604" y="54" width="138" height="92" rx="7" fill="#FEE2E2" stroke="#DC2626" stroke-width="1.4"/>
+<rect x="604" y="54" width="138" height="4.6" rx="2.3" fill="#DC2626"/>
+<text x="673" y="74" font-family="DejaVu Sans" font-size="8.8" fill="#DC2626" text-anchor="middle" font-weight="bold">ABOMASUM</text>
+<text x="673" y="102" font-family="DejaVu Sans" font-size="7.5" fill="#334155" text-anchor="middle" font-weight="normal">the true stomach:</text>
+<text x="673" y="116" font-family="DejaVu Sans" font-size="7.5" fill="#334155" text-anchor="middle" font-weight="normal">acid and enzymes</text>
+<text x="673" y="130" font-family="DejaVu Sans" font-size="7.5" fill="#334155" text-anchor="middle" font-weight="normal">finish the digestion</text>
+<text x="380" y="178" font-family="DejaVu Sans" font-size="8.4" fill="#0E1F40" text-anchor="middle" font-weight="bold">mouth → rumen → reticulum → cud → omasum → abomasum → small intestine</text>
+<rect x="20" y="192" width="720" height="64" rx="8" fill="#F8FBF9" stroke="#008751" stroke-width="1.1"/>
+<text x="380" y="210" font-family="DejaVu Sans" font-size="8.4" fill="#008751" text-anchor="middle" font-weight="bold">The rumen holds bacteria and protozoa that digest cellulose. The animal eats the grass, they digest it,</text>
+<text x="380" y="224" font-family="DejaVu Sans" font-size="8.4" fill="#008751" text-anchor="middle" font-weight="bold">and the animal absorbs the products — both gain, so this is mutualism, not parasitism.</text>
+<text x="380" y="242" font-family="DejaVu Sans" font-size="8.0" fill="#64748B" text-anchor="middle" font-weight="normal">Pigs, poultry and humans are non-ruminants: one simple stomach, and cellulose passes through undigested.</text>
+</svg>

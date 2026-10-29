@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 300" width="760" height="300">
+  <defs>
+    <marker id="ag" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#008751"/>
+    </marker>
+    <marker id="an" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#0E1F40"/>
+    </marker>
+    <marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#D97706"/>
+    </marker>
+    <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#DC2626"/>
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="760" height="300" fill="#FFFFFF"/>
+<text x="380" y="24" font-family="DejaVu Sans" font-size="12.6" fill="#0E1F40" text-anchor="middle" font-weight="bold">THREE PYRAMIDS — AND WHY ONLY ONE OF THEM NEVER INVERTS</text>
+<text x="140" y="56" font-family="DejaVu Sans" font-size="9.6" fill="#0E1F40" text-anchor="middle" font-weight="bold">Pyramid of NUMBERS</text>
+<rect x="111.0" y="176" width="58" height="30" rx="4" fill="#A7F3D0" stroke="#0E1F40" stroke-width="1.0"/>
+<text x="140" y="195" font-family="DejaVu Sans" font-size="7.8" fill="#0E1F40" text-anchor="middle" font-weight="bold">one tree</text>
+<rect x="47.0" y="138" width="186" height="30" rx="4" fill="#C7DBFB" stroke="#0E1F40" stroke-width="1.0"/>
+<text x="140" y="157" font-family="DejaVu Sans" font-size="7.8" fill="#0E1F40" text-anchor="middle" font-weight="bold">insects</text>
+<rect x="96.0" y="100" width="88" height="30" rx="4" fill="#DDD6FE" stroke="#0E1F40" stroke-width="1.0"/>
+<text x="140" y="119" font-family="DejaVu Sans" font-size="7.8" fill="#0E1F40" text-anchor="middle" font-weight="bold">birds</text>
+<text x="140" y="224" font-family="DejaVu Sans" font-size="7.6" fill="#64748B" text-anchor="middle" font-weight="normal">inverts — a single tree can</text>
+<text x="140" y="236" font-family="DejaVu Sans" font-size="7.6" fill="#64748B" text-anchor="middle" font-weight="normal">carry thousands of insects</text>
+<text x="380" y="56" font-family="DejaVu Sans" font-size="9.6" fill="#0E1F40" text-anchor="middle" font-weight="bold">Pyramid of BIOMASS</text>
+<rect x="287.0" y="176" width="186" height="30" rx="4" fill="#A7F3D0" stroke="#0E1F40" stroke-width="1.0"/>
+<text x="380" y="195" font-family="DejaVu Sans" font-size="7.8" fill="#0E1F40" text-anchor="middle" font-weight="bold">producers</text>
+<rect x="320.0" y="138" width="120" height="30" rx="4" fill="#C7DBFB" stroke="#0E1F40" stroke-width="1.0"/>
+<text x="380" y="157" font-family="DejaVu Sans" font-size="7.8" fill="#0E1F40" text-anchor="middle" font-weight="bold">primary</text>
+<rect x="349.0" y="100" width="62" height="30" rx="4" fill="#DDD6FE" stroke="#0E1F40" stroke-width="1.0"/>
+<text x="380" y="119" font-family="DejaVu Sans" font-size="7.8" fill="#0E1F40" text-anchor="middle" font-weight="bold">secondary</text>
+<text x="380" y="224" font-family="DejaVu Sans" font-size="7.6" fill="#64748B" text-anchor="middle" font-weight="normal">tapers here, but inverts</text>
+<text x="380" y="236" font-family="DejaVu Sans" font-size="7.6" fill="#64748B" text-anchor="middle" font-weight="normal">briefly in spring plankton</text>
+<text x="620" y="56" font-family="DejaVu Sans" font-size="9.6" fill="#0E1F40" text-anchor="middle" font-weight="bold">Pyramid of ENERGY</text>
+<rect x="527.0" y="176" width="186" height="30" rx="4" fill="#A7F3D0" stroke="#0E1F40" stroke-width="1.0"/>
+<text x="620" y="195" font-family="DejaVu Sans" font-size="7.8" fill="#0E1F40" text-anchor="middle" font-weight="bold">producers</text>
+<rect x="556.0" y="138" width="128" height="30" rx="4" fill="#C7DBFB" stroke="#0E1F40" stroke-width="1.0"/>
+<text x="620" y="157" font-family="DejaVu Sans" font-size="7.8" fill="#0E1F40" text-anchor="middle" font-weight="bold">primary</text>
+<rect x="585.0" y="100" width="70" height="30" rx="4" fill="#DDD6FE" stroke="#0E1F40" stroke-width="1.0"/>
+<text x="620" y="119" font-family="DejaVu Sans" font-size="7.8" fill="#0E1F40" text-anchor="middle" font-weight="bold">secondary</text>
+<text x="620" y="224" font-family="DejaVu Sans" font-size="7.6" fill="#64748B" text-anchor="middle" font-weight="normal">never inverts — energy</text>
+<text x="620" y="236" font-family="DejaVu Sans" font-size="7.6" fill="#64748B" text-anchor="middle" font-weight="normal">is lost at every step</text>
+<rect x="40" y="252" width="680" height="40" rx="8" fill="#ECFDF5" stroke="#008751" stroke-width="1.2"/>
+<text x="380" y="270" font-family="DejaVu Sans" font-size="8.8" fill="#008751" text-anchor="middle" font-weight="bold">At each level about 90 % of the energy is lost as heat, movement and waste —</text>
+<text x="380" y="285" font-family="DejaVu Sans" font-size="8.8" fill="#334155" text-anchor="middle" font-weight="normal">so only about a tenth reaches the next level, and a pyramid of energy always tapers.</text>
+</svg>

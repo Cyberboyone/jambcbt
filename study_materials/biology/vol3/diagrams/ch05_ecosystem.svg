@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 348" width="760" height="348">
+  <defs>
+    <marker id="ag" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#008751"/>
+    </marker>
+    <marker id="an" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#0E1F40"/>
+    </marker>
+    <marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#D97706"/>
+    </marker>
+    <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#DC2626"/>
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="760" height="348" fill="#FFFFFF"/>
+<text x="380" y="26" font-family="DejaVu Sans" font-size="12.4" fill="#0E1F40" text-anchor="middle" font-weight="bold">THE ECOSYSTEM — HOW MATTER AND ENERGY MOVE THROUGH A HABITAT</text>
+<rect x="36" y="60" width="150" height="62" rx="7" fill="#FEF3C7" stroke="#D97706" stroke-width="1.4"/><rect x="36" y="60" width="150" height="4.5" rx="2.2" fill="#D97706"/><text x="111.0" y="79" font-family="DejaVu Sans" font-size="9.4" fill="#D97706" text-anchor="middle" font-weight="bold">SUN</text><text x="111.0" y="94" font-family="DejaVu Sans" font-size="8.0" fill="#334155" text-anchor="middle" font-weight="normal">the original source of</text><text x="111.0" y="106" font-family="DejaVu Sans" font-size="8.0" fill="#334155" text-anchor="middle" font-weight="normal">energy for the ecosystem</text>
+<rect x="244" y="60" width="176" height="62" rx="7" fill="#ECFDF5" stroke="#008751" stroke-width="1.4"/><rect x="244" y="60" width="176" height="4.5" rx="2.2" fill="#008751"/><text x="332.0" y="79" font-family="DejaVu Sans" font-size="9.4" fill="#008751" text-anchor="middle" font-weight="bold">PRODUCERS</text><text x="332.0" y="94" font-family="DejaVu Sans" font-size="8.0" fill="#334155" text-anchor="middle" font-weight="normal">green plants and algae:</text><text x="332.0" y="106" font-family="DejaVu Sans" font-size="8.0" fill="#334155" text-anchor="middle" font-weight="normal">they make food by</text><text x="332.0" y="118" font-family="DejaVu Sans" font-size="8.0" fill="#334155" text-anchor="middle" font-weight="normal">photosynthesis</text>
+<rect x="478" y="60" width="176" height="62" rx="7" fill="#DBEAFE" stroke="#2563EB" stroke-width="1.4"/><rect x="478" y="60" width="176" height="4.5" rx="2.2" fill="#2563EB"/><text x="566.0" y="79" font-family="DejaVu Sans" font-size="9.4" fill="#2563EB" text-anchor="middle" font-weight="bold">CONSUMERS</text><text x="566.0" y="94" font-family="DejaVu Sans" font-size="8.0" fill="#334155" text-anchor="middle" font-weight="normal">animals that feed on</text><text x="566.0" y="106" font-family="DejaVu Sans" font-size="8.0" fill="#334155" text-anchor="middle" font-weight="normal">plants, and on each other</text>
+<rect x="478" y="196" width="176" height="62" rx="7" fill="#EDE9FE" stroke="#7C3AED" stroke-width="1.4"/><rect x="478" y="196" width="176" height="4.5" rx="2.2" fill="#7C3AED"/><text x="566.0" y="215" font-family="DejaVu Sans" font-size="9.4" fill="#7C3AED" text-anchor="middle" font-weight="bold">DECOMPOSERS</text><text x="566.0" y="230" font-family="DejaVu Sans" font-size="8.0" fill="#334155" text-anchor="middle" font-weight="normal">bacteria and fungi break</text><text x="566.0" y="242" font-family="DejaVu Sans" font-size="8.0" fill="#334155" text-anchor="middle" font-weight="normal">down dead bodies and waste</text>
+<rect x="244" y="196" width="176" height="62" rx="7" fill="#FEF3C7" stroke="#D97706" stroke-width="1.4"/><rect x="244" y="196" width="176" height="4.5" rx="2.2" fill="#D97706"/><text x="332.0" y="215" font-family="DejaVu Sans" font-size="9.4" fill="#D97706" text-anchor="middle" font-weight="bold">NUTRIENTS IN THE SOIL</text><text x="332.0" y="230" font-family="DejaVu Sans" font-size="8.0" fill="#334155" text-anchor="middle" font-weight="normal">minerals released by decay</text><text x="332.0" y="242" font-family="DejaVu Sans" font-size="8.0" fill="#334155" text-anchor="middle" font-weight="normal">are taken up by the roots</text>
+<line x1="188" y1="91" x2="227.6" y2="91.0" stroke="#D97706" stroke-width="2.0"/><polygon points="240.0,91.0 227.6,95.6 227.6,86.4" fill="#D97706"/>
+<text x="214" y="80" font-family="DejaVu Sans" font-size="7.6" fill="#64748B" text-anchor="middle" font-weight="normal">light</text>
+<line x1="422" y1="91" x2="461.6" y2="91.0" stroke="#008751" stroke-width="2.0"/><polygon points="474.0,91.0 461.6,95.6 461.6,86.4" fill="#008751"/>
+<text x="448" y="80" font-family="DejaVu Sans" font-size="7.6" fill="#64748B" text-anchor="middle" font-weight="normal">food</text>
+<line x1="566" y1="126" x2="566.0" y2="179.6" stroke="#2563EB" stroke-width="2.0"/><polygon points="566.0,192.0 561.4,179.6 570.6,179.6" fill="#2563EB"/>
+<text x="600" y="163" font-family="DejaVu Sans" font-size="7.6" fill="#64748B" text-anchor="middle" font-weight="normal">death and waste</text>
+<line x1="474" y1="227" x2="436.4" y2="227.0" stroke="#7C3AED" stroke-width="2.0"/><polygon points="424.0,227.0 436.4,222.4 436.4,231.6" fill="#7C3AED"/>
+<text x="449" y="219" font-family="DejaVu Sans" font-size="7.6" fill="#64748B" text-anchor="middle" font-weight="normal">decay</text>
+<line x1="332" y1="192" x2="332.0" y2="138.4" stroke="#008751" stroke-width="2.0"/><polygon points="332.0,126.0 336.6,138.4 327.4,138.4" fill="#008751"/>
+<text x="362" y="163" font-family="DejaVu Sans" font-size="7.6" fill="#008751" text-anchor="middle" font-weight="normal">uptake by roots</text>
+<rect x="36" y="278" width="618" height="28" rx="6" fill="#F1F5F9" stroke="#CBD5E1" stroke-width="1.1"/>
+<text x="46" y="296" font-family="DejaVu Sans" font-size="8.2" fill="#0E1F40" text-anchor="start" font-weight="normal">PHYSICAL (ABIOTIC) FACTORS — light, temperature, water, soil, pH, salinity and wind set the limits of the habitat, and the living things must adapt to them.</text>
+<rect x="36" y="314" width="618" height="30" rx="8" fill="#ECFDF5" stroke="#008751" stroke-width="1.2"/>
+<text x="345" y="326" font-family="DejaVu Sans" font-size="8.9" fill="#008751" text-anchor="middle" font-weight="bold">Ecosystem = the living community + the non-living environment, working as one system.</text>
+<text x="345" y="338" font-family="DejaVu Sans" font-size="8.3" fill="#334155" text-anchor="middle" font-weight="normal">Energy flows through it once and is lost as heat; matter is recycled round it again and again.</text>
+</svg>

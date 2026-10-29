@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 332" width="760" height="332">
+  <defs>
+    <marker id="ag" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#008751"/>
+    </marker>
+    <marker id="an" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#0E1F40"/>
+    </marker>
+    <marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#D97706"/>
+    </marker>
+    <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#DC2626"/>
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="760" height="332" fill="#FFFFFF"/>
+<text x="380" y="24" font-family="DejaVu Sans" font-size="12.4" fill="#0E1F40" text-anchor="middle" font-weight="bold">CHOOSING THE RIGHT GRAPH — AND DRAWING IT SO IT EARNS THE MARKS</text>
+<rect x="24" y="46" width="348" height="214" rx="8" fill="#F8FBF9" stroke="#008751" stroke-width="1.2"/>
+<text x="198" y="66" font-family="DejaVu Sans" font-size="8.8" fill="#008751" text-anchor="middle" font-weight="bold">LINE GRAPH — both variables continuous</text>
+<line x1="66" y1="216" x2="350" y2="216" stroke="#0E1F40" stroke-width="1.4"/>
+<line x1="66" y1="216" x2="66" y2="92" stroke="#0E1F40" stroke-width="1.4"/>
+<path d="M 66 200 L 108 178 L 150 148 L 192 124 L 234 110 L 276 106 L 318 104" fill="none" stroke="#008751" stroke-width="1.8" stroke-linecap="round"/>
+<circle cx="66" cy="200" r="2.8" fill="#008751"/>
+<circle cx="108" cy="178" r="2.8" fill="#008751"/>
+<circle cx="150" cy="148" r="2.8" fill="#008751"/>
+<circle cx="192" cy="124" r="2.8" fill="#008751"/>
+<circle cx="234" cy="110" r="2.8" fill="#008751"/>
+<circle cx="276" cy="106" r="2.8" fill="#008751"/>
+<circle cx="318" cy="104" r="2.8" fill="#008751"/>
+<text x="208" y="232" font-family="DejaVu Sans" font-size="7.4" fill="#64748B" text-anchor="middle" font-weight="normal">time, temperature or concentration</text>
+<text x="40" y="154" font-family="DejaVu Sans" font-size="7.4" fill="#64748B" text-anchor="middle" font-weight="normal">rate</text>
+<text x="198" y="250" font-family="DejaVu Sans" font-size="7.2" fill="#334155" text-anchor="middle" font-weight="normal">join the points with a smooth curve; label both axes with quantity and unit</text>
+<rect x="388" y="46" width="348" height="214" rx="8" fill="#FBF8F3" stroke="#D97706" stroke-width="1.2"/>
+<text x="562" y="66" font-family="DejaVu Sans" font-size="8.8" fill="#D97706" text-anchor="middle" font-weight="bold">BAR CHART — one variable in named groups</text>
+<line x1="430" y1="216" x2="714" y2="216" stroke="#0E1F40" stroke-width="1.4"/>
+<line x1="430" y1="216" x2="430" y2="92" stroke="#0E1F40" stroke-width="1.4"/>
+<rect x="446" y="158" width="36" height="58" rx="2" fill="#F3D9A8" stroke="#D97706" stroke-width="1.0"/>
+<rect x="500" y="120" width="36" height="96" rx="2" fill="#F3D9A8" stroke="#D97706" stroke-width="1.0"/>
+<rect x="554" y="142" width="36" height="74" rx="2" fill="#F3D9A8" stroke="#D97706" stroke-width="1.0"/>
+<rect x="608" y="182" width="36" height="34" rx="2" fill="#F3D9A8" stroke="#D97706" stroke-width="1.0"/>
+<rect x="662" y="168" width="36" height="48" rx="2" fill="#F3D9A8" stroke="#D97706" stroke-width="1.0"/>
+<text x="572" y="232" font-family="DejaVu Sans" font-size="7.4" fill="#64748B" text-anchor="middle" font-weight="normal">five habitats, or five species</text>
+<text x="410" y="154" font-family="DejaVu Sans" font-size="7.4" fill="#64748B" text-anchor="middle" font-weight="normal">count</text>
+<text x="562" y="250" font-family="DejaVu Sans" font-size="7.2" fill="#334155" text-anchor="middle" font-weight="normal">equal-width bars with gaps; a bar chart never joins the tops</text>
+<rect x="24" y="270" width="712" height="50" rx="8" fill="#F8FAFC" stroke="#CBD5E1" stroke-width="1.1"/>
+<text x="380" y="290" font-family="DejaVu Sans" font-size="8.4" fill="#0E1F40" text-anchor="middle" font-weight="bold">Continuous → line graph. Discrete or categorical → bar chart. Always: title, both axes named, units, even scale.</text>
+<text x="380" y="306" font-family="DejaVu Sans" font-size="8.2" fill="#64748B" text-anchor="middle" font-weight="normal">Plot the points in pencil first, draw the best straight line or smooth curve, and never force the line through the origin.</text>
+</svg>

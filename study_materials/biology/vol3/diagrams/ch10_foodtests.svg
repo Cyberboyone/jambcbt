@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 296" width="760" height="296">
+  <defs>
+    <marker id="ag" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#008751"/>
+    </marker>
+    <marker id="an" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#0E1F40"/>
+    </marker>
+    <marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#D97706"/>
+    </marker>
+    <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#DC2626"/>
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="760" height="296" fill="#FFFFFF"/>
+<text x="380" y="24" font-family="DejaVu Sans" font-size="12.8" fill="#0E1F40" text-anchor="middle" font-weight="bold">THE FIVE FOOD TESTS — REAGENT IN, COLOUR OUT</text>
+<rect x="20" y="46" width="720" height="28" rx="5" fill="#0E1F40" stroke="#0E1F40" stroke-width="1.0"/>
+<text x="36" y="65" font-family="DejaVu Sans" font-size="8.6" fill="#FFFFFF" text-anchor="start" font-weight="bold">Nutrient</text>
+<text x="190" y="65" font-family="DejaVu Sans" font-size="8.6" fill="#FFFFFF" text-anchor="start" font-weight="bold">Reagent and method</text>
+<text x="470" y="65" font-family="DejaVu Sans" font-size="8.6" fill="#FFFFFF" text-anchor="start" font-weight="bold">Positive result</text>
+<text x="660" y="65" font-family="DejaVu Sans" font-size="8.6" fill="#FFFFFF" text-anchor="start" font-weight="bold">Food</text>
+<rect x="20" y="74" width="720" height="40" rx="3" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="0.8"/>
+<text x="36" y="99" font-family="DejaVu Sans" font-size="8.8" fill="#008751" text-anchor="start" font-weight="bold">Starch</text>
+<text x="190" y="99" font-family="DejaVu Sans" font-size="8.2" fill="#334155" text-anchor="start" font-weight="normal">iodine solution</text>
+<text x="470" y="99" font-family="DejaVu Sans" font-size="8.2" fill="#334155" text-anchor="start" font-weight="normal">blue-black</text>
+<text x="660" y="99" font-family="DejaVu Sans" font-size="7.8" fill="#64748B" text-anchor="start" font-weight="normal">bread, potato</text>
+<rect x="20" y="114" width="720" height="40" rx="3" fill="#FEF3C7" stroke="#CBD5E1" stroke-width="0.8"/>
+<text x="36" y="139" font-family="DejaVu Sans" font-size="8.8" fill="#D97706" text-anchor="start" font-weight="bold">Reducing sugar</text>
+<text x="190" y="139" font-family="DejaVu Sans" font-size="8.2" fill="#334155" text-anchor="start" font-weight="normal">Benedict's solution, heated</text>
+<text x="470" y="139" font-family="DejaVu Sans" font-size="8.2" fill="#334155" text-anchor="start" font-weight="normal">brick-red precipitate</text>
+<text x="660" y="139" font-family="DejaVu Sans" font-size="7.8" fill="#64748B" text-anchor="start" font-weight="normal">honey, ripe fruit</text>
+<rect x="20" y="154" width="720" height="40" rx="3" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="0.8"/>
+<text x="36" y="179" font-family="DejaVu Sans" font-size="8.8" fill="#2563EB" text-anchor="start" font-weight="bold">Protein</text>
+<text x="190" y="179" font-family="DejaVu Sans" font-size="8.2" fill="#334155" text-anchor="start" font-weight="normal">Biuret reagent (NaOH + CuSO4)</text>
+<text x="470" y="179" font-family="DejaVu Sans" font-size="8.2" fill="#334155" text-anchor="start" font-weight="normal">purple or violet</text>
+<text x="660" y="179" font-family="DejaVu Sans" font-size="7.8" fill="#64748B" text-anchor="start" font-weight="normal">egg white, beans</text>
+<rect x="20" y="194" width="720" height="40" rx="3" fill="#EDE9FE" stroke="#CBD5E1" stroke-width="0.8"/>
+<text x="36" y="219" font-family="DejaVu Sans" font-size="8.8" fill="#7C3AED" text-anchor="start" font-weight="bold">Fat</text>
+<text x="190" y="219" font-family="DejaVu Sans" font-size="8.2" fill="#334155" text-anchor="start" font-weight="normal">shake with water (emulsion), or Sudan III</text>
+<text x="470" y="219" font-family="DejaVu Sans" font-size="8.2" fill="#334155" text-anchor="start" font-weight="normal">milky-white emulsion; red stain</text>
+<text x="660" y="219" font-family="DejaVu Sans" font-size="7.8" fill="#64748B" text-anchor="start" font-weight="normal">groundnut, palm oil</text>
+<rect x="20" y="234" width="720" height="40" rx="3" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="0.8"/>
+<text x="36" y="259" font-family="DejaVu Sans" font-size="8.8" fill="#DC2626" text-anchor="start" font-weight="bold">Vitamin C</text>
+<text x="190" y="259" font-family="DejaVu Sans" font-size="8.2" fill="#334155" text-anchor="start" font-weight="normal">DCPIP solution</text>
+<text x="470" y="259" font-family="DejaVu Sans" font-size="8.2" fill="#334155" text-anchor="start" font-weight="normal">the blue dye is decolourised</text>
+<text x="660" y="259" font-family="DejaVu Sans" font-size="7.8" fill="#64748B" text-anchor="start" font-weight="normal">orange, guava</text>
+<text x="380" y="289" font-family="DejaVu Sans" font-size="7.8" fill="#64748B" text-anchor="middle" font-weight="normal">A control is the same test on water: it proves the colour came from the food and not from the reagent.</text>
+</svg>

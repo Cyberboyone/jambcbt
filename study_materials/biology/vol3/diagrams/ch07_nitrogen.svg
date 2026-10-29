@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 470" width="760" height="470">
+  <defs>
+    <marker id="ag" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#008751"/>
+    </marker>
+    <marker id="an" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#0E1F40"/>
+    </marker>
+    <marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#D97706"/>
+    </marker>
+    <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#DC2626"/>
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="760" height="470" fill="#FFFFFF"/>
+<text x="380" y="24" font-family="DejaVu Sans" font-size="12.8" fill="#0E1F40" text-anchor="middle" font-weight="bold">THE NITROGEN CYCLE — FROM THE AIR TO A PROTEIN AND BACK</text>
+<rect x="250" y="36" width="260" height="60" rx="7" fill="#F1F5F9" stroke="#0E1F40" stroke-width="1.4"/><rect x="250" y="36" width="260" height="4.5" rx="2.2" fill="#0E1F40"/><text x="380.0" y="55" font-family="DejaVu Sans" font-size="9.4" fill="#0E1F40" text-anchor="middle" font-weight="bold">NITROGEN GAS IN THE AIR</text><text x="380.0" y="70" font-family="DejaVu Sans" font-size="8.0" fill="#334155" text-anchor="middle" font-weight="normal">78 % of the air — but most living</text><text x="380.0" y="82" font-family="DejaVu Sans" font-size="8.0" fill="#334155" text-anchor="middle" font-weight="normal">things cannot use it</text>
+<rect x="40" y="170" width="240" height="72" rx="7" fill="#ECFDF5" stroke="#008751" stroke-width="1.4"/><rect x="40" y="170" width="240" height="4.5" rx="2.2" fill="#008751"/><text x="160.0" y="189" font-family="DejaVu Sans" font-size="9.4" fill="#008751" text-anchor="middle" font-weight="bold">NITRATES IN THE SOIL</text><text x="160.0" y="204" font-family="DejaVu Sans" font-size="8.0" fill="#334155" text-anchor="middle" font-weight="normal">the form that roots can absorb</text>
+<rect x="480" y="170" width="240" height="72" rx="7" fill="#ECFDF5" stroke="#008751" stroke-width="1.4"/><rect x="480" y="170" width="240" height="4.5" rx="2.2" fill="#008751"/><text x="600.0" y="189" font-family="DejaVu Sans" font-size="9.4" fill="#008751" text-anchor="middle" font-weight="bold">PLANTS</text><text x="600.0" y="204" font-family="DejaVu Sans" font-size="8.0" fill="#334155" text-anchor="middle" font-weight="normal">take up nitrate and build</text><text x="600.0" y="216" font-family="DejaVu Sans" font-size="8.0" fill="#334155" text-anchor="middle" font-weight="normal">amino acids, then proteins</text>
+<rect x="480" y="330" width="240" height="72" rx="7" fill="#DBEAFE" stroke="#2563EB" stroke-width="1.4"/><rect x="480" y="330" width="240" height="4.5" rx="2.2" fill="#2563EB"/><text x="600.0" y="349" font-family="DejaVu Sans" font-size="9.4" fill="#2563EB" text-anchor="middle" font-weight="bold">ANIMALS</text><text x="600.0" y="364" font-family="DejaVu Sans" font-size="8.0" fill="#334155" text-anchor="middle" font-weight="normal">eat plants and build</text><text x="600.0" y="376" font-family="DejaVu Sans" font-size="8.0" fill="#334155" text-anchor="middle" font-weight="normal">their own proteins</text>
+<rect x="40" y="330" width="240" height="72" rx="7" fill="#FEF3C7" stroke="#D97706" stroke-width="1.4"/><rect x="40" y="330" width="240" height="4.5" rx="2.2" fill="#D97706"/><text x="160.0" y="349" font-family="DejaVu Sans" font-size="9.4" fill="#D97706" text-anchor="middle" font-weight="bold">AMMONIA IN THE SOIL</text><text x="160.0" y="364" font-family="DejaVu Sans" font-size="8.0" fill="#334155" text-anchor="middle" font-weight="normal">released from dead matter,</text><text x="160.0" y="376" font-family="DejaVu Sans" font-size="8.0" fill="#334155" text-anchor="middle" font-weight="normal">dung and urine</text>
+<line x1="270" y1="98" x2="199.33195101436527" y2="159.83454286243037" stroke="#008751" stroke-width="1.9"/><polygon points="190.0,168.0 196.3,156.3 202.4,163.3" fill="#008751"/>
+<text x="256" y="142" font-family="DejaVu Sans" font-size="7.5" fill="#008751" text-anchor="start" font-weight="normal">nitrogen fixation</text>
+<line x1="90" y1="168" x2="238.63964904721286" y2="102.97015354184438" stroke="#DC2626" stroke-width="1.9"/><polygon points="250.0,98.0 240.5,107.2 236.8,98.7" fill="#DC2626"/>
+<text x="86" y="150" font-family="DejaVu Sans" font-size="7.5" fill="#DC2626" text-anchor="end" font-weight="normal">denitrification</text>
+<line x1="282" y1="206" x2="465.6" y2="206.0" stroke="#008751" stroke-width="1.9"/><polygon points="478.0,206.0 465.6,210.6 465.6,201.4" fill="#008751"/>
+<text x="380" y="198" font-family="DejaVu Sans" font-size="7.5" fill="#008751" text-anchor="middle" font-weight="normal">uptake by roots</text>
+<line x1="600" y1="244" x2="600.0" y2="315.6" stroke="#008751" stroke-width="1.9"/><polygon points="600.0,328.0 595.4,315.6 604.6,315.6" fill="#008751"/>
+<text x="610" y="290" font-family="DejaVu Sans" font-size="7.5" fill="#008751" text-anchor="start" font-weight="normal">feeding</text>
+<line x1="478" y1="366" x2="294.4" y2="366.0" stroke="#D97706" stroke-width="1.9"/><polygon points="282.0,366.0 294.4,361.4 294.4,370.6" fill="#D97706"/>
+<text x="380" y="358" font-family="DejaVu Sans" font-size="7.5" fill="#D97706" text-anchor="middle" font-weight="normal">ammonification by decomposers</text>
+<line x1="160" y1="328" x2="160.0" y2="256.4" stroke="#2563EB" stroke-width="1.9"/><polygon points="160.0,244.0 164.6,256.4 155.4,256.4" fill="#2563EB"/>
+<text x="170" y="290" font-family="DejaVu Sans" font-size="7.5" fill="#2563EB" text-anchor="start" font-weight="normal">nitrification</text>
+<rect x="40" y="418" width="680" height="42" rx="8" fill="#ECFDF5" stroke="#008751" stroke-width="1.2"/>
+<text x="380" y="435" font-family="DejaVu Sans" font-size="8.4" fill="#008751" text-anchor="middle" font-weight="bold">Fixation = N2 turned into nitrate: Rhizobium in root nodules, lightning, and the Haber process.</text>
+<text x="380" y="451" font-family="DejaVu Sans" font-size="8.4" fill="#334155" text-anchor="middle" font-weight="normal">Nitrifying bacteria need oxygen; denitrifying bacteria work without it, so waterlogged soil loses its nitrogen.</text>
+</svg>

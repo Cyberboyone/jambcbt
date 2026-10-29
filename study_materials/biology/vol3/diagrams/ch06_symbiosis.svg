@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 300" width="760" height="300">
+  <defs>
+    <marker id="ag" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#008751"/>
+    </marker>
+    <marker id="an" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#0E1F40"/>
+    </marker>
+    <marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#D97706"/>
+    </marker>
+    <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#DC2626"/>
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="760" height="300" fill="#FFFFFF"/>
+<text x="380" y="24" font-family="DejaVu Sans" font-size="12.2" fill="#0E1F40" text-anchor="middle" font-weight="bold">LIVING TOGETHER — THE FOUR INTERACTIONS THE EXAMINER ASKS FOR</text>
+<rect x="40" y="52" width="160" height="170" rx="8" fill="#ECFDF5" stroke="#008751" stroke-width="1.4"/>
+<rect x="40" y="52" width="160" height="5" rx="2.5" fill="#008751"/>
+<text x="120" y="74" font-family="DejaVu Sans" font-size="9.4" fill="#008751" text-anchor="middle" font-weight="bold">MUTUALISM</text>
+<text x="120" y="90" font-family="DejaVu Sans" font-size="7.8" fill="#334155" text-anchor="middle" font-weight="normal">both benefit</text>
+<text x="120" y="112" font-family="DejaVu Sans" font-size="7.8" fill="#334155" text-anchor="middle" font-weight="normal">Rhizobium in root</text>
+<text x="120" y="126" font-family="DejaVu Sans" font-size="7.8" fill="#334155" text-anchor="middle" font-weight="normal">nodules of a legume:</text>
+<text x="120" y="140" font-family="DejaVu Sans" font-size="7.8" fill="#334155" text-anchor="middle" font-weight="normal">bacteria get sugar,</text>
+<text x="120" y="154" font-family="DejaVu Sans" font-size="7.8" fill="#334155" text-anchor="middle" font-weight="normal">plant gets nitrates</text>
+<rect x="220" y="52" width="160" height="170" rx="8" fill="#DBEAFE" stroke="#2563EB" stroke-width="1.4"/>
+<rect x="220" y="52" width="160" height="5" rx="2.5" fill="#2563EB"/>
+<text x="300" y="74" font-family="DejaVu Sans" font-size="9.4" fill="#2563EB" text-anchor="middle" font-weight="bold">COMMENSALISM</text>
+<text x="300" y="90" font-family="DejaVu Sans" font-size="7.8" fill="#334155" text-anchor="middle" font-weight="normal">one benefits, one unaffected</text>
+<text x="300" y="112" font-family="DejaVu Sans" font-size="7.8" fill="#334155" text-anchor="middle" font-weight="normal">Remora fish rides</text>
+<text x="300" y="126" font-family="DejaVu Sans" font-size="7.8" fill="#334155" text-anchor="middle" font-weight="normal">on a shark and eats</text>
+<text x="300" y="140" font-family="DejaVu Sans" font-size="7.8" fill="#334155" text-anchor="middle" font-weight="normal">the scraps; the shark</text>
+<text x="300" y="154" font-family="DejaVu Sans" font-size="7.8" fill="#334155" text-anchor="middle" font-weight="normal">is not affected</text>
+<rect x="400" y="52" width="160" height="170" rx="8" fill="#FEE2E2" stroke="#DC2626" stroke-width="1.4"/>
+<rect x="400" y="52" width="160" height="5" rx="2.5" fill="#DC2626"/>
+<text x="480" y="74" font-family="DejaVu Sans" font-size="9.4" fill="#DC2626" text-anchor="middle" font-weight="bold">PARASITISM</text>
+<text x="480" y="90" font-family="DejaVu Sans" font-size="7.8" fill="#334155" text-anchor="middle" font-weight="normal">one benefits, one harmed</text>
+<text x="480" y="112" font-family="DejaVu Sans" font-size="7.8" fill="#334155" text-anchor="middle" font-weight="normal">Plasmodium in a</text>
+<text x="480" y="126" font-family="DejaVu Sans" font-size="7.8" fill="#334155" text-anchor="middle" font-weight="normal">human: the parasite</text>
+<text x="480" y="140" font-family="DejaVu Sans" font-size="7.8" fill="#334155" text-anchor="middle" font-weight="normal">feeds on the host</text>
+<text x="480" y="154" font-family="DejaVu Sans" font-size="7.8" fill="#334155" text-anchor="middle" font-weight="normal">and causes malaria</text>
+<rect x="580" y="52" width="160" height="170" rx="8" fill="#EDE9FE" stroke="#7C3AED" stroke-width="1.4"/>
+<rect x="580" y="52" width="160" height="5" rx="2.5" fill="#7C3AED"/>
+<text x="660" y="74" font-family="DejaVu Sans" font-size="9.4" fill="#7C3AED" text-anchor="middle" font-weight="bold">PREDATION</text>
+<text x="660" y="90" font-family="DejaVu Sans" font-size="7.8" fill="#334155" text-anchor="middle" font-weight="normal">one eats the other</text>
+<text x="660" y="112" font-family="DejaVu Sans" font-size="7.8" fill="#334155" text-anchor="middle" font-weight="normal">A hawk hunts mice;</text>
+<text x="660" y="126" font-family="DejaVu Sans" font-size="7.8" fill="#334155" text-anchor="middle" font-weight="normal">the predator is</text>
+<text x="660" y="140" font-family="DejaVu Sans" font-size="7.8" fill="#334155" text-anchor="middle" font-weight="normal">larger and faster than</text>
+<text x="660" y="154" font-family="DejaVu Sans" font-size="7.8" fill="#334155" text-anchor="middle" font-weight="normal">its prey</text>
+<rect x="40" y="236" width="700" height="48" rx="8" fill="#F8FAFC" stroke="#CBD5E1" stroke-width="1.1"/>
+<text x="380" y="256" font-family="DejaVu Sans" font-size="8.8" fill="#0E1F40" text-anchor="middle" font-weight="bold">Competition is the fifth: two species needing the same resource, and neither benefits.</text>
+<text x="380" y="274" font-family="DejaVu Sans" font-size="8.4" fill="#334155" text-anchor="middle" font-weight="normal">Parasite and host co-evolve, which is why a parasite rarely kills its host outright.</text>
+</svg>

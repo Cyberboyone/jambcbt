@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 420" width="760" height="420">
+  <defs>
+    <marker id="ag" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#008751"/>
+    </marker>
+    <marker id="an" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#0E1F40"/>
+    </marker>
+    <marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#D97706"/>
+    </marker>
+    <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#DC2626"/>
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="760" height="420" fill="#FFFFFF"/>
+<text x="380" y="24" font-family="DejaVu Sans" font-size="12.8" fill="#0E1F40" text-anchor="middle" font-weight="bold">THE CARBON CYCLE — ONE ATOM OF CARBON, ROUND AND ROUND</text>
+<rect x="280" y="36" width="200" height="56" rx="7" fill="#F1F5F9" stroke="#0E1F40" stroke-width="1.4"/><rect x="280" y="36" width="200" height="4.5" rx="2.2" fill="#0E1F40"/><text x="380.0" y="55" font-family="DejaVu Sans" font-size="9.4" fill="#0E1F40" text-anchor="middle" font-weight="bold">CARBON DIOXIDE IN THE AIR</text><text x="380.0" y="70" font-family="DejaVu Sans" font-size="8.0" fill="#334155" text-anchor="middle" font-weight="normal">about 0.04 % of the air</text>
+<rect x="50" y="160" width="200" height="66" rx="7" fill="#ECFDF5" stroke="#008751" stroke-width="1.4"/><rect x="50" y="160" width="200" height="4.5" rx="2.2" fill="#008751"/><text x="150.0" y="179" font-family="DejaVu Sans" font-size="9.4" fill="#008751" text-anchor="middle" font-weight="bold">GREEN PLANTS</text><text x="150.0" y="194" font-family="DejaVu Sans" font-size="8.0" fill="#334155" text-anchor="middle" font-weight="normal">take up CO2 and build</text><text x="150.0" y="206" font-family="DejaVu Sans" font-size="8.0" fill="#334155" text-anchor="middle" font-weight="normal">carbohydrates</text>
+<rect x="510" y="160" width="200" height="66" rx="7" fill="#DBEAFE" stroke="#2563EB" stroke-width="1.4"/><rect x="510" y="160" width="200" height="4.5" rx="2.2" fill="#2563EB"/><text x="610.0" y="179" font-family="DejaVu Sans" font-size="9.4" fill="#2563EB" text-anchor="middle" font-weight="bold">ANIMALS</text><text x="610.0" y="194" font-family="DejaVu Sans" font-size="8.0" fill="#334155" text-anchor="middle" font-weight="normal">feed on plants and breathe</text><text x="610.0" y="206" font-family="DejaVu Sans" font-size="8.0" fill="#334155" text-anchor="middle" font-weight="normal">the carbon back out</text>
+<rect x="280" y="310" width="200" height="66" rx="7" fill="#EDE9FE" stroke="#7C3AED" stroke-width="1.4"/><rect x="280" y="310" width="200" height="4.5" rx="2.2" fill="#7C3AED"/><text x="380.0" y="329" font-family="DejaVu Sans" font-size="9.4" fill="#7C3AED" text-anchor="middle" font-weight="bold">DECOMPOSERS</text><text x="380.0" y="344" font-family="DejaVu Sans" font-size="8.0" fill="#334155" text-anchor="middle" font-weight="normal">bacteria and fungi break down</text><text x="380.0" y="356" font-family="DejaVu Sans" font-size="8.0" fill="#334155" text-anchor="middle" font-weight="normal">dead bodies and waste</text>
+<rect x="540" y="310" width="170" height="66" rx="7" fill="#FEF3C7" stroke="#D97706" stroke-width="1.4"/><rect x="540" y="310" width="170" height="4.5" rx="2.2" fill="#D97706"/><text x="625.0" y="329" font-family="DejaVu Sans" font-size="9.4" fill="#D97706" text-anchor="middle" font-weight="bold">FOSSIL FUELS</text><text x="625.0" y="344" font-family="DejaVu Sans" font-size="8.0" fill="#334155" text-anchor="middle" font-weight="normal">coal, oil and gas formed</text><text x="625.0" y="356" font-family="DejaVu Sans" font-size="8.0" fill="#334155" text-anchor="middle" font-weight="normal">over millions of years</text>
+<line x1="296" y1="94" x2="227.58610979398412" y2="150.13447401519252" stroke="#008751" stroke-width="1.9"/><polygon points="218.0,158.0 224.6,146.5 230.5,153.7" fill="#008751"/>
+<text x="232" y="120" font-family="DejaVu Sans" font-size="7.5" fill="#008751" text-anchor="end" font-weight="normal">photosynthesis</text>
+<line x1="252" y1="193" x2="495.6" y2="193.0" stroke="#334155" stroke-width="1.9"/><polygon points="508.0,193.0 495.6,197.6 495.6,188.4" fill="#334155"/>
+<text x="380" y="185" font-family="DejaVu Sans" font-size="7.5" fill="#334155" text-anchor="middle" font-weight="normal">feeding</text>
+<line x1="600" y1="158" x2="481.1922856469228" y2="101.3378593085324" stroke="#2563EB" stroke-width="1.9"/><polygon points="470.0,96.0 483.2,97.1 479.2,105.5" fill="#2563EB"/>
+<text x="610" y="116" font-family="DejaVu Sans" font-size="7.5" fill="#2563EB" text-anchor="start" font-weight="normal">respiration</text>
+<line x1="210" y1="228" x2="319.68257635021075" y2="301.12171756680715" stroke="#008751" stroke-width="1.9"/><polygon points="330.0,308.0 317.1,305.0 322.3,297.3" fill="#008751"/>
+<text x="282" y="276" font-family="DejaVu Sans" font-size="7.5" fill="#008751" text-anchor="end" font-weight="normal">dead leaves</text>
+<line x1="560" y1="228" x2="450.31742364978925" y2="301.12171756680715" stroke="#334155" stroke-width="1.9"/><polygon points="440.0,308.0 447.7,297.3 452.9,305.0" fill="#334155"/>
+<text x="496" y="276" font-family="DejaVu Sans" font-size="7.5" fill="#334155" text-anchor="start" font-weight="normal">dead bodies, dung</text>
+<line x1="380" y1="308" x2="380.0" y2="108.4" stroke="#7C3AED" stroke-width="1.9"/><polygon points="380.0,96.0 384.6,108.4 375.4,108.4" fill="#7C3AED"/>
+<text x="390" y="248" font-family="DejaVu Sans" font-size="7.5" fill="#7C3AED" text-anchor="start" font-weight="normal">decay releases CO2</text>
+<line x1="482" y1="343" x2="525.15" y2="343.0" stroke="#D97706" stroke-width="1.6"/><polygon points="536.0,343.0 525.1,347.1 525.1,338.9" fill="#D97706"/>
+<path d="M 710 330 L 738 330 L 738 64 L 484 64" fill="none" stroke="#D97706" stroke-width="1.9" stroke-linecap="round"/><polygon points="484,64 491.0,60.6 491.0,67.4" fill="#D97706" stroke="#D97706" stroke-width="0.6"/>
+<text x="700" y="56" font-family="DejaVu Sans" font-size="7.5" fill="#D97706" text-anchor="end" font-weight="normal">burning</text>
+<text x="380" y="402" font-family="DejaVu Sans" font-size="8.0" fill="#64748B" text-anchor="middle" font-weight="normal">Carbon is recycled round the cycle again and again; energy is not — it flows once and leaves as heat.</text>
+</svg>

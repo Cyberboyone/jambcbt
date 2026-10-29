@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 330" width="760" height="330">
+  <defs>
+    <marker id="ag" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#008751"/>
+    </marker>
+    <marker id="an" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#0E1F40"/>
+    </marker>
+    <marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#D97706"/>
+    </marker>
+    <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#DC2626"/>
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="760" height="330" fill="#FFFFFF"/>
+<text x="380" y="24" font-family="DejaVu Sans" font-size="12.6" fill="#0E1F40" text-anchor="middle" font-weight="bold">POLLUTION — THE SOURCE, THE POLLUTANT AND THE EFFECT</text>
+<rect x="40" y="52" width="680" height="28" rx="6" fill="#0E1F40" stroke="#0E1F40" stroke-width="1.0"/>
+<text x="70" y="71" font-family="DejaVu Sans" font-size="8.4" fill="#FFFFFF" text-anchor="middle" font-weight="bold">Where</text>
+<text x="180" y="71" font-family="DejaVu Sans" font-size="8.4" fill="#FFFFFF" text-anchor="middle" font-weight="bold">Source</text>
+<text x="450" y="71" font-family="DejaVu Sans" font-size="8.4" fill="#FFFFFF" text-anchor="middle" font-weight="bold">Effect</text>
+<rect x="40" y="80" width="680" height="32" rx="0" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="0.8"/>
+<text x="70" y="100" font-family="DejaVu Sans" font-size="8.2" fill="#D97706" text-anchor="middle" font-weight="bold">Air</text>
+<text x="180" y="100" font-family="DejaVu Sans" font-size="8.2" fill="#334155" text-anchor="start" font-weight="normal">smoke and SO2 from factories and cars</text>
+<text x="450" y="100" font-family="DejaVu Sans" font-size="8.2" fill="#334155" text-anchor="start" font-weight="normal">acid rain, asthma, corroded buildings</text>
+<rect x="40" y="112" width="680" height="32" rx="0" fill="#FEE2E2" stroke="#CBD5E1" stroke-width="0.8"/>
+<text x="70" y="132" font-family="DejaVu Sans" font-size="8.2" fill="#DC2626" text-anchor="middle" font-weight="bold">Air</text>
+<text x="180" y="132" font-family="DejaVu Sans" font-size="8.2" fill="#334155" text-anchor="start" font-weight="normal">CO2 and methane from burning fuel and cattle</text>
+<text x="450" y="132" font-family="DejaVu Sans" font-size="8.2" fill="#334155" text-anchor="start" font-weight="normal">the greenhouse effect and climate change</text>
+<rect x="40" y="144" width="680" height="32" rx="0" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="0.8"/>
+<text x="70" y="164" font-family="DejaVu Sans" font-size="8.2" fill="#7C3AED" text-anchor="middle" font-weight="bold">Air</text>
+<text x="180" y="164" font-family="DejaVu Sans" font-size="8.2" fill="#334155" text-anchor="start" font-weight="normal">CFCs from old refrigerators and aerosols</text>
+<text x="450" y="164" font-family="DejaVu Sans" font-size="8.2" fill="#334155" text-anchor="start" font-weight="normal">destroys the ozone layer</text>
+<rect x="40" y="176" width="680" height="32" rx="0" fill="#DBEAFE" stroke="#CBD5E1" stroke-width="0.8"/>
+<text x="70" y="196" font-family="DejaVu Sans" font-size="8.2" fill="#2563EB" text-anchor="middle" font-weight="bold">Water</text>
+<text x="180" y="196" font-family="DejaVu Sans" font-size="8.2" fill="#334155" text-anchor="start" font-weight="normal">raw sewage and fertiliser run-off</text>
+<text x="450" y="196" font-family="DejaVu Sans" font-size="8.2" fill="#334155" text-anchor="start" font-weight="normal">eutrophication: algae bloom, then fish die</text>
+<rect x="40" y="208" width="680" height="32" rx="0" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="0.8"/>
+<text x="70" y="228" font-family="DejaVu Sans" font-size="8.2" fill="#0E1F40" text-anchor="middle" font-weight="bold">Water</text>
+<text x="180" y="228" font-family="DejaVu Sans" font-size="8.2" fill="#334155" text-anchor="start" font-weight="normal">oil spilled from tankers and pipelines</text>
+<text x="450" y="228" font-family="DejaVu Sans" font-size="8.2" fill="#334155" text-anchor="start" font-weight="normal">birds and fish suffocate; habitats spoiled</text>
+<rect x="40" y="240" width="680" height="32" rx="0" fill="#ECFDF5" stroke="#CBD5E1" stroke-width="0.8"/>
+<text x="70" y="260" font-family="DejaVu Sans" font-size="8.2" fill="#008751" text-anchor="middle" font-weight="bold">Land</text>
+<text x="180" y="260" font-family="DejaVu Sans" font-size="8.2" fill="#334155" text-anchor="start" font-weight="normal">plastic and household waste</text>
+<text x="450" y="260" font-family="DejaVu Sans" font-size="8.2" fill="#334155" text-anchor="start" font-weight="normal">soil and water contaminated for decades</text>
+<rect x="40" y="280" width="680" height="40" rx="8" fill="#ECFDF5" stroke="#008751" stroke-width="1.2"/>
+<text x="380" y="298" font-family="DejaVu Sans" font-size="8.6" fill="#008751" text-anchor="middle" font-weight="bold">A pollutant is a substance added to an environment faster than it can be broken down or removed.</text>
+<text x="380" y="314" font-family="DejaVu Sans" font-size="8.4" fill="#334155" text-anchor="middle" font-weight="normal">Eutrophication is the chain the examiner wants: nutrients → algae → death → decay → oxygen gone → fish die.</text>
+</svg>

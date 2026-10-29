@@ -73,8 +73,8 @@ def main() -> int:
         D.ch09_pests()
         D.ch09_livestock()
         D.recap_cards_i()
-        D.ch10_quadrat()
-        D.ch10_transect()
+        D.ch10_microscope()
+        D.ch10_foodtests()
         D.ch10_graph()
         D.recap_cards_j()
 
