@@ -257,9 +257,11 @@
     radius: (right: 6pt),
     inset: 11pt,
   )[
-    #box(fill: info-blue, radius: 3pt, inset: (x: 6pt, y: 2pt), text(font: "DejaVu Sans", size: 7.8pt, weight: "bold", fill: white)[CONCEPT])
-    #h(6pt)
-    #text(font: "DejaVu Sans", size: 9.8pt, weight: "bold", fill: info-blue)[#eval(title, mode: "markup")]
+    #block(breakable: false, sticky: true)[
+      #box(fill: info-blue, radius: 3pt, inset: (x: 6pt, y: 2pt), text(font: "DejaVu Sans", size: 7.8pt, weight: "bold", fill: white)[CONCEPT])
+      #h(6pt)
+      #text(font: "DejaVu Sans", size: 9.8pt, weight: "bold", fill: info-blue)[#eval(title, mode: "markup")]
+    ]
     #v(4pt)
     #body
   ]
@@ -275,9 +277,11 @@
     radius: (right: 6pt),
     inset: 11pt,
   )[
-    #box(fill: jamb-green, radius: 3pt, inset: (x: 6pt, y: 2pt), text(font: "DejaVu Sans", size: 7.8pt, weight: "bold", fill: white)[FORMULA])
-    #h(6pt)
-    #text(font: "DejaVu Sans", size: 9.8pt, weight: "bold", fill: jamb-green)[#eval(title, mode: "markup")]
+    #block(breakable: false, sticky: true)[
+      #box(fill: jamb-green, radius: 3pt, inset: (x: 6pt, y: 2pt), text(font: "DejaVu Sans", size: 7.8pt, weight: "bold", fill: white)[FORMULA])
+      #h(6pt)
+      #text(font: "DejaVu Sans", size: 9.8pt, weight: "bold", fill: jamb-green)[#eval(title, mode: "markup")]
+    ]
     #v(4pt)
     #body
   ]
@@ -293,9 +297,11 @@
     radius: (right: 6pt),
     inset: 11pt,
   )[
-    #box(fill: trap-red, radius: 3pt, inset: (x: 6pt, y: 2pt), text(font: "DejaVu Sans", size: 7.8pt, weight: "bold", fill: white)[JAMB TRAP!])
-    #h(6pt)
-    #text(font: "DejaVu Sans", size: 9.8pt, weight: "bold", fill: trap-red)[#eval(title, mode: "markup")]
+    #block(breakable: false, sticky: true)[
+      #box(fill: trap-red, radius: 3pt, inset: (x: 6pt, y: 2pt), text(font: "DejaVu Sans", size: 7.8pt, weight: "bold", fill: white)[JAMB TRAP!])
+      #h(6pt)
+      #text(font: "DejaVu Sans", size: 9.8pt, weight: "bold", fill: trap-red)[#eval(title, mode: "markup")]
+    ]
     #v(4pt)
     #body
   ]
@@ -311,9 +317,11 @@
     radius: (right: 6pt),
     inset: 11pt,
   )[
-    #box(fill: tip-amber, radius: 3pt, inset: (x: 6pt, y: 2pt), text(font: "DejaVu Sans", size: 7.8pt, weight: "bold", fill: white)[CBT SHORTCUT])
-    #h(6pt)
-    #text(font: "DejaVu Sans", size: 9.8pt, weight: "bold", fill: tip-amber)[#eval(title, mode: "markup")]
+    #block(breakable: false, sticky: true)[
+      #box(fill: tip-amber, radius: 3pt, inset: (x: 6pt, y: 2pt), text(font: "DejaVu Sans", size: 7.8pt, weight: "bold", fill: white)[CBT SHORTCUT])
+      #h(6pt)
+      #text(font: "DejaVu Sans", size: 9.8pt, weight: "bold", fill: tip-amber)[#eval(title, mode: "markup")]
+    ]
     #v(4pt)
     #body
   ]

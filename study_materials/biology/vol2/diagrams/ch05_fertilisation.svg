@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 320" width="760" height="320">
+  <defs>
+    <marker id="ag" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#008751"/>
+    </marker>
+    <marker id="an" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#0E1F40"/>
+    </marker>
+    <marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#D97706"/>
+    </marker>
+    <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#DC2626"/>
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="760" height="320" fill="#FFFFFF"/>
+<text x="380" y="26" font-family="DejaVu Sans" font-size="12.6" fill="#0E1F40" text-anchor="middle" font-weight="bold">FROM FERTILISATION TO BIRTH — WHERE EACH EVENT HAPPENS</text>
+<rect x="18" y="70" width="112" height="130" rx="8" fill="#FFFFFF" stroke="#7C3AED" stroke-width="1.8"/>
+<circle cx="38" cy="88" r="11" fill="#7C3AED"/>
+<text x="38" y="92" font-family="DejaVu Sans" font-size="9.6" fill="#FFFFFF" text-anchor="middle" font-weight="bold">1</text>
+<text x="80" y="96" font-family="DejaVu Sans" font-size="10.4" fill="#7C3AED" text-anchor="middle" font-weight="bold">Ovulation</text>
+<text x="74" y="132" font-family="DejaVu Sans" font-size="8.6" fill="#334155" text-anchor="middle" font-weight="normal">An egg is released</text>
+<text x="74" y="146" font-family="DejaVu Sans" font-size="8.6" fill="#334155" text-anchor="middle" font-weight="normal">from the ovary</text>
+<line x1="131" y1="135" x2="144" y2="135" stroke="#64748B" stroke-width="2.2" marker-end="url(#an)"/>
+<rect x="144" y="70" width="112" height="130" rx="8" fill="#FFFFFF" stroke="#2563EB" stroke-width="1.8"/>
+<circle cx="164" cy="88" r="11" fill="#2563EB"/>
+<text x="164" y="92" font-family="DejaVu Sans" font-size="9.6" fill="#FFFFFF" text-anchor="middle" font-weight="bold">2</text>
+<text x="206" y="96" font-family="DejaVu Sans" font-size="10.4" fill="#2563EB" text-anchor="middle" font-weight="bold">Fertilisation</text>
+<text x="200" y="132" font-family="DejaVu Sans" font-size="8.6" fill="#334155" text-anchor="middle" font-weight="normal">In the upper oviduct;</text>
+<text x="200" y="146" font-family="DejaVu Sans" font-size="8.6" fill="#334155" text-anchor="middle" font-weight="normal">the zygote forms</text>
+<line x1="257" y1="135" x2="270" y2="135" stroke="#64748B" stroke-width="2.2" marker-end="url(#an)"/>
+<rect x="270" y="70" width="112" height="130" rx="8" fill="#FFFFFF" stroke="#2563EB" stroke-width="1.8"/>
+<circle cx="290" cy="88" r="11" fill="#2563EB"/>
+<text x="290" y="92" font-family="DejaVu Sans" font-size="9.6" fill="#FFFFFF" text-anchor="middle" font-weight="bold">3</text>
+<text x="332" y="96" font-family="DejaVu Sans" font-size="10.4" fill="#2563EB" text-anchor="middle" font-weight="bold">Cleavage</text>
+<text x="326" y="132" font-family="DejaVu Sans" font-size="8.6" fill="#334155" text-anchor="middle" font-weight="normal">The zygote divides</text>
+<text x="326" y="146" font-family="DejaVu Sans" font-size="8.6" fill="#334155" text-anchor="middle" font-weight="normal">as it travels down</text>
+<line x1="383" y1="135" x2="396" y2="135" stroke="#64748B" stroke-width="2.2" marker-end="url(#an)"/>
+<rect x="396" y="70" width="112" height="130" rx="8" fill="#FFFFFF" stroke="#008751" stroke-width="1.8"/>
+<circle cx="416" cy="88" r="11" fill="#008751"/>
+<text x="416" y="92" font-family="DejaVu Sans" font-size="9.6" fill="#FFFFFF" text-anchor="middle" font-weight="bold">4</text>
+<text x="458" y="96" font-family="DejaVu Sans" font-size="10.4" fill="#008751" text-anchor="middle" font-weight="bold">Implantation</text>
+<text x="452" y="132" font-family="DejaVu Sans" font-size="8.6" fill="#334155" text-anchor="middle" font-weight="normal">The embryo sinks</text>
+<text x="452" y="146" font-family="DejaVu Sans" font-size="8.6" fill="#334155" text-anchor="middle" font-weight="normal">into the uterus lining</text>
+<line x1="509" y1="135" x2="522" y2="135" stroke="#64748B" stroke-width="2.2" marker-end="url(#an)"/>
+<rect x="522" y="70" width="112" height="130" rx="8" fill="#FFFFFF" stroke="#00A859" stroke-width="1.8"/>
+<circle cx="542" cy="88" r="11" fill="#00A859"/>
+<text x="542" y="92" font-family="DejaVu Sans" font-size="9.6" fill="#FFFFFF" text-anchor="middle" font-weight="bold">5</text>
+<text x="584" y="96" font-family="DejaVu Sans" font-size="10.4" fill="#00A859" text-anchor="middle" font-weight="bold">Placenta</text>
+<text x="578" y="132" font-family="DejaVu Sans" font-size="8.6" fill="#334155" text-anchor="middle" font-weight="normal">Exchange of food,</text>
+<text x="578" y="146" font-family="DejaVu Sans" font-size="8.6" fill="#334155" text-anchor="middle" font-weight="normal">oxygen and waste</text>
+<line x1="635" y1="135" x2="648" y2="135" stroke="#64748B" stroke-width="2.2" marker-end="url(#an)"/>
+<rect x="648" y="70" width="112" height="130" rx="8" fill="#FFFFFF" stroke="#DC2626" stroke-width="1.8"/>
+<circle cx="668" cy="88" r="11" fill="#DC2626"/>
+<text x="668" y="92" font-family="DejaVu Sans" font-size="9.6" fill="#FFFFFF" text-anchor="middle" font-weight="bold">6</text>
+<text x="710" y="96" font-family="DejaVu Sans" font-size="10.4" fill="#DC2626" text-anchor="middle" font-weight="bold">Birth</text>
+<text x="704" y="132" font-family="DejaVu Sans" font-size="8.6" fill="#334155" text-anchor="middle" font-weight="normal">Uterine contractions</text>
+<text x="704" y="146" font-family="DejaVu Sans" font-size="8.6" fill="#334155" text-anchor="middle" font-weight="normal">push the baby out</text>
+<rect x="24" y="220" width="712" height="60" rx="8" fill="#ECFDF5" stroke="#008751" stroke-width="1.2"/>
+<text x="380" y="242" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="middle" font-weight="normal">The embryo is cushioned by amniotic fluid and receives food and oxygen through the placenta and umbilical cord.</text>
+<text x="380" y="262" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="middle" font-weight="normal">Maternal and foetal blood never mix: substances diffuse across the placental membrane.</text>
+<text x="380" y="302" font-family="DejaVu Sans" font-size="8.8" fill="#64748B" text-anchor="middle" font-weight="normal">Gestation in the human is about nine months, or roughly 280 days.</text>
+</svg>

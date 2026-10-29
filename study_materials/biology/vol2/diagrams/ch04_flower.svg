@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 430" width="760" height="430">
+  <defs>
+    <marker id="ag" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#008751"/>
+    </marker>
+    <marker id="an" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#0E1F40"/>
+    </marker>
+    <marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#D97706"/>
+    </marker>
+    <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#DC2626"/>
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="760" height="430" fill="#FFFFFF"/>
+<text x="380" y="26" font-family="DejaVu Sans" font-size="13.2" fill="#0E1F40" text-anchor="middle" font-weight="bold">A COMPLETE FLOWER IN LONGITUDINAL SECTION</text>
+<rect x="24" y="40" width="348" height="24" rx="5" fill="#ECFDF5" stroke="#008751" stroke-width="1.0"/>
+<text x="198" y="56" font-family="DejaVu Sans" font-size="8.8" fill="#008751" text-anchor="middle" font-weight="normal">Male parts = stamen (anther + filament)</text>
+<rect x="388" y="40" width="348" height="24" rx="5" fill="#DBEAFE" stroke="#2563EB" stroke-width="1.0"/>
+<text x="562" y="56" font-family="DejaVu Sans" font-size="8.8" fill="#2563EB" text-anchor="middle" font-weight="normal">Female parts = carpel (stigma + style + ovary)</text>
+<path d="M 380 404 l 0 -52" fill="none" stroke="#D97706" stroke-width="8" stroke-linecap="round"/>
+<polygon points="350,322 410,322 393,354 367,354" fill="#FEF3C7" stroke="#D97706" stroke-width="1.8"/>
+<path d="M 354 320 q -54 -12 -66 -50 q 50 -10 70 30 Z" fill="#A7F3D0" stroke="#008751" stroke-width="1.6" stroke-linecap="round"/>
+<path d="M 406 320 q 54 -12 66 -50 q -50 -10 -70 30 Z" fill="#A7F3D0" stroke="#008751" stroke-width="1.6" stroke-linecap="round"/>
+<path d="M 358 316 q -104 -46 -104 -132 q 88 12 122 96 Z" fill="#EDE9FE" stroke="#7C3AED" stroke-width="1.8" stroke-linecap="round"/>
+<path d="M 402 316 q 104 -46 104 -132 q -88 12 -122 96 Z" fill="#EDE9FE" stroke="#7C3AED" stroke-width="1.8" stroke-linecap="round"/>
+<path d="M 350 322 q 30 -38 60 0 q -8 38 -30 38 q -22 0 -30 -38 Z" fill="#DBEAFE" stroke="#2563EB" stroke-width="2.0" stroke-linecap="round"/>
+<circle cx="366" cy="330" r="5.4" fill="#FFFFFF" stroke="#2563EB" stroke-width="1.2"/>
+<circle cx="380" cy="334" r="5.4" fill="#FFFFFF" stroke="#2563EB" stroke-width="1.2"/>
+<circle cx="394" cy="330" r="5.4" fill="#FFFFFF" stroke="#2563EB" stroke-width="1.2"/>
+<path d="M 380 326 l 0 -100" fill="none" stroke="#2563EB" stroke-width="4" stroke-linecap="round"/>
+<circle cx="380" cy="214" r="13" fill="#DBEAFE" stroke="#2563EB" stroke-width="2.0"/>
+<path d="M 340 318 q -26 -74 -14 -118" fill="none" stroke="#D97706" stroke-width="3.6" stroke-linecap="round"/>
+<rect x="314" y="182" width="22" height="17" rx="5" fill="#FEF3C7" stroke="#D97706" stroke-width="1.6"/>
+<circle cx="325" cy="172" r="4.4" fill="#D97706"/>
+<text x="250" y="118" font-family="DejaVu Sans" font-size="10.4" fill="#7C3AED" text-anchor="end" font-weight="bold">Petal (corolla)</text>
+<line x1="256" y1="114" x2="302" y2="176" stroke="#7C3AED" stroke-width="1.0"/>
+<text x="250" y="186" font-family="DejaVu Sans" font-size="10.4" fill="#D97706" text-anchor="end" font-weight="bold">Anther</text>
+<line x1="256" y1="182" x2="316" y2="190" stroke="#D97706" stroke-width="1.0"/>
+<text x="250" y="240" font-family="DejaVu Sans" font-size="10.4" fill="#D97706" text-anchor="end" font-weight="bold">Filament</text>
+<line x1="256" y1="236" x2="336" y2="250" stroke="#D97706" stroke-width="1.0"/>
+<text x="250" y="286" font-family="DejaVu Sans" font-size="10.4" fill="#008751" text-anchor="end" font-weight="bold">Sepal (calyx)</text>
+<line x1="256" y1="282" x2="322" y2="300" stroke="#008751" stroke-width="1.0"/>
+<text x="520" y="210" font-family="DejaVu Sans" font-size="10.4" fill="#2563EB" text-anchor="start" font-weight="bold">Stigma</text>
+<line x1="514" y1="206" x2="396" y2="214" stroke="#2563EB" stroke-width="1.0"/>
+<text x="520" y="266" font-family="DejaVu Sans" font-size="10.4" fill="#2563EB" text-anchor="start" font-weight="bold">Style</text>
+<line x1="514" y1="262" x2="386" y2="262" stroke="#2563EB" stroke-width="1.0"/>
+<text x="520" y="322" font-family="DejaVu Sans" font-size="10.4" fill="#2563EB" text-anchor="start" font-weight="bold">Ovary (contains ovules)</text>
+<line x1="514" y1="318" x2="414" y2="322" stroke="#2563EB" stroke-width="1.0"/>
+<text x="520" y="372" font-family="DejaVu Sans" font-size="10.4" fill="#D97706" text-anchor="start" font-weight="bold">Receptacle</text>
+<line x1="514" y1="368" x2="400" y2="344" stroke="#D97706" stroke-width="1.0"/>
+<text x="640" y="404" font-family="DejaVu Sans" font-size="10.4" fill="#D97706" text-anchor="start" font-weight="bold">Pedicel (flower stalk)</text>
+<line x1="634" y1="400" x2="386" y2="396" stroke="#D97706" stroke-width="1.0"/>
+</svg>

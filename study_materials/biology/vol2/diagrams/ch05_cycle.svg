@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 420" width="760" height="420">
+  <defs>
+    <marker id="ag" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#008751"/>
+    </marker>
+    <marker id="an" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#0E1F40"/>
+    </marker>
+    <marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#D97706"/>
+    </marker>
+    <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#DC2626"/>
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="760" height="420" fill="#FFFFFF"/>
+<text x="380" y="26" font-family="DejaVu Sans" font-size="12.6" fill="#0E1F40" text-anchor="middle" font-weight="bold">THE MENSTRUAL CYCLE — HORMONES, THE OVARY AND THE UTERUS</text>
+<rect x="96" y="62" width="620" height="150" rx="6" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="1.0"/>
+<line x1="96.0" y1="212" x2="96.0" y2="217" stroke="#CBD5E1" stroke-width="0.9"/>
+<text x="96.0" y="229" font-family="DejaVu Sans" font-size="7.8" fill="#64748B" text-anchor="middle" font-weight="normal">1</text>
+<line x1="141.92592592592592" y1="212" x2="141.92592592592592" y2="217" stroke="#CBD5E1" stroke-width="0.9"/>
+<line x1="187.85185185185185" y1="212" x2="187.85185185185185" y2="217" stroke="#CBD5E1" stroke-width="0.9"/>
+<line x1="233.77777777777777" y1="212" x2="233.77777777777777" y2="217" stroke="#CBD5E1" stroke-width="0.9"/>
+<text x="233.77777777777777" y="229" font-family="DejaVu Sans" font-size="7.8" fill="#64748B" text-anchor="middle" font-weight="normal">7</text>
+<line x1="279.7037037037037" y1="212" x2="279.7037037037037" y2="217" stroke="#CBD5E1" stroke-width="0.9"/>
+<line x1="325.6296296296296" y1="212" x2="325.6296296296296" y2="217" stroke="#CBD5E1" stroke-width="0.9"/>
+<line x1="371.55555555555554" y1="212" x2="371.55555555555554" y2="217" stroke="#CBD5E1" stroke-width="0.9"/>
+<line x1="417.48148148148147" y1="212" x2="417.48148148148147" y2="217" stroke="#CBD5E1" stroke-width="0.9"/>
+<line x1="463.4074074074074" y1="212" x2="463.4074074074074" y2="217" stroke="#CBD5E1" stroke-width="0.9"/>
+<line x1="509.3333333333333" y1="212" x2="509.3333333333333" y2="217" stroke="#CBD5E1" stroke-width="0.9"/>
+<line x1="555.2592592592592" y1="212" x2="555.2592592592592" y2="217" stroke="#CBD5E1" stroke-width="0.9"/>
+<text x="555.2592592592592" y="229" font-family="DejaVu Sans" font-size="7.8" fill="#64748B" text-anchor="middle" font-weight="normal">21</text>
+<line x1="601.1851851851852" y1="212" x2="601.1851851851852" y2="217" stroke="#CBD5E1" stroke-width="0.9"/>
+<line x1="647.1111111111111" y1="212" x2="647.1111111111111" y2="217" stroke="#CBD5E1" stroke-width="0.9"/>
+<line x1="693.0370370370371" y1="212" x2="693.0370370370371" y2="217" stroke="#CBD5E1" stroke-width="0.9"/>
+<line x1="91" y1="212.0" x2="96" y2="212.0" stroke="#CBD5E1" stroke-width="0.9"/>
+<text x="86" y="215.5" font-family="DejaVu Sans" font-size="7.6" fill="#64748B" text-anchor="end" font-weight="normal">0</text>
+<line x1="91" y1="174.5" x2="96" y2="174.5" stroke="#CBD5E1" stroke-width="0.9"/>
+<text x="86" y="178.0" font-family="DejaVu Sans" font-size="7.6" fill="#64748B" text-anchor="end" font-weight="normal">25</text>
+<line x1="91" y1="137.0" x2="96" y2="137.0" stroke="#CBD5E1" stroke-width="0.9"/>
+<text x="86" y="140.5" font-family="DejaVu Sans" font-size="7.6" fill="#64748B" text-anchor="end" font-weight="normal">50</text>
+<line x1="91" y1="99.5" x2="96" y2="99.5" stroke="#CBD5E1" stroke-width="0.9"/>
+<text x="86" y="103.0" font-family="DejaVu Sans" font-size="7.6" fill="#64748B" text-anchor="end" font-weight="normal">75</text>
+<line x1="91" y1="62.0" x2="96" y2="62.0" stroke="#CBD5E1" stroke-width="0.9"/>
+<text x="86" y="65.5" font-family="DejaVu Sans" font-size="7.6" fill="#64748B" text-anchor="end" font-weight="normal">100</text>
+<polyline points="96.0,100.5 119.0,88.7 141.9,84.5 164.9,88.7 187.9,100.5 210.8,117.4 233.8,136.2 256.7,154.0 279.7,168.8 302.7,179.9 325.6,187.4 348.6,192.0 371.6,194.6 394.5,195.9 417.5,196.6 440.4,196.8 463.4,196.9 486.4,197.0 509.3,197.0 532.3,197.0 555.3,197.0 578.2,197.0 601.2,197.0 624.1,197.0 647.1,197.0 670.1,197.0 693.0,197.0 716.0,197.0" fill="none" stroke="#2563EB" stroke-width="2.3"/>
+<polyline points="96.0,200.0 119.0,200.0 141.9,200.0 164.9,200.0 187.9,200.0 210.8,200.0 233.8,200.0 256.7,199.9 279.7,199.4 302.7,195.7 325.6,179.7 348.6,138.3 371.6,79.9 394.5,62.0 417.5,79.9 440.4,138.3 463.4,179.7 486.4,195.7 509.3,199.4 532.3,199.9 555.3,200.0 578.2,200.0 601.2,200.0 624.1,200.0 647.1,200.0 670.1,200.0 693.0,200.0 716.0,200.0" fill="none" stroke="#DC2626" stroke-width="2.3"/>
+<polyline points="96.0,199.4 119.0,200.3 141.9,202.9 164.9,206.7 187.9,210.3 210.8,212.0 233.8,209.7 256.7,201.9 279.7,188.3 302.7,170.1 325.6,149.5 348.6,129.4 371.6,112.6 394.5,100.9 417.5,95.1 440.4,94.9 463.4,99.5 486.4,107.7 509.3,118.2 532.3,129.9 555.3,142.0 578.2,153.7 601.2,164.6 624.1,174.2 647.1,182.6 670.1,189.7 693.0,195.4 716.0,199.9" fill="none" stroke="#7C3AED" stroke-width="2.3"/>
+<polyline points="96.0,212.0 119.0,212.0 141.9,212.0 164.9,211.9 187.9,211.8 210.8,211.6 233.8,211.0 256.7,209.9 279.7,207.9 302.7,204.5 325.6,198.8 348.6,190.3 371.6,178.3 394.5,162.6 417.5,143.7 440.4,123.0 463.4,102.6 486.4,85.3 509.3,73.6 532.3,69.5 555.3,73.6 578.2,85.3 601.2,102.6 624.1,123.0 647.1,143.7 670.1,162.6 693.0,178.3 716.0,190.3" fill="none" stroke="#008751" stroke-width="2.3"/>
+<line x1="110" y1="246" x2="136" y2="246" stroke="#2563EB" stroke-width="2.6"/>
+<text x="142" y="250" font-family="DejaVu Sans" font-size="8.8" fill="#2563EB" text-anchor="start" font-weight="normal">FSH</text>
+<line x1="262" y1="246" x2="288" y2="246" stroke="#DC2626" stroke-width="2.6"/>
+<text x="294" y="250" font-family="DejaVu Sans" font-size="8.8" fill="#DC2626" text-anchor="start" font-weight="normal">LH</text>
+<line x1="414" y1="246" x2="440" y2="246" stroke="#7C3AED" stroke-width="2.6"/>
+<text x="446" y="250" font-family="DejaVu Sans" font-size="8.8" fill="#7C3AED" text-anchor="start" font-weight="normal">oestrogen</text>
+<line x1="566" y1="246" x2="592" y2="246" stroke="#008751" stroke-width="2.6"/>
+<text x="598" y="250" font-family="DejaVu Sans" font-size="8.8" fill="#008751" text-anchor="start" font-weight="normal">progesterone</text>
+<text x="141.92592592592592" y="300" font-family="DejaVu Sans" font-size="9.4" fill="#DC2626" text-anchor="middle" font-weight="bold">menstruation</text>
+<text x="394.51851851851853" y="300" font-family="DejaVu Sans" font-size="9.4" fill="#DC2626" text-anchor="middle" font-weight="bold">ovulation</text>
+<line x1="394.51851851851853" y1="212" x2="394.51851851851853" y2="290" stroke="#DC2626" stroke-width="1.2" stroke-dasharray="4 3"/>
+<text x="88" y="334" font-family="DejaVu Sans" font-size="8.6" fill="#64748B" text-anchor="end" font-weight="normal">uterus lining</text>
+<rect x="96.0" y="327" width="91.85185185185185" height="9" rx="0" fill="#FECACA" stroke="#DC2626" stroke-width="0.9"/>
+<rect x="187.85185185185185" y="327" width="528.1481481481482" height="9" rx="0" fill="#A7F3D0" stroke="#008751" stroke-width="0.9"/>
+<text x="141.92592592592592" y="356" font-family="DejaVu Sans" font-size="8.6" fill="#DC2626" text-anchor="middle" font-weight="normal">shed (days 1–5)</text>
+<text x="486.3703703703704" y="356" font-family="DejaVu Sans" font-size="8.6" fill="#008751" text-anchor="middle" font-weight="normal">rebuilt, then maintained until day 28</text>
+<text x="380" y="386" font-family="DejaVu Sans" font-size="8.8" fill="#334155" text-anchor="middle" font-weight="normal">FSH grows the follicle; oestrogen repairs the lining; the LH surge triggers ovulation on about day 14;</text>
+<text x="380" y="402" font-family="DejaVu Sans" font-size="8.8" fill="#334155" text-anchor="middle" font-weight="normal">progesterone from the corpus luteum maintains the lining — and falls if no pregnancy begins.</text>
+</svg>
