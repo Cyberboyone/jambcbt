@@ -276,16 +276,18 @@ The body's third line of defence is *immunity*: the ability to resist a particul
 
 Four questions of the kind the CBT engine starts a paper with. Ninety seconds each; the answers and full working follow the drill.
 
-#mcq(1, [Malaria in humans is caused by], [the female Anopheles mosquito], [a virus], [a protozoan, *Plasmodium*], [a bacterium])
-#mcq(2, [Antibodies are produced by], [red blood cells], [lymphocytes], [phagocytes], [platelets])
+#mcq(1, [A vector is best described as], [an organism that causes disease], [a chemical that kills micro-organisms], [an animal that carries a pathogen from one host to another], [a white blood cell that engulfs bacteria])
+#mcq(2, [The white blood cells that engulf and digest bacteria are the], [lymphocytes], [phagocytes], [red blood cells], [platelets])
 #mcq(3, [A child who receives ready-made antibodies in colostrum acquires], [active natural immunity], [passive natural immunity], [active artificial immunity], [passive artificial immunity])
 #mcq(4, [The main vector of sleeping sickness in West Africa is the], [tsetse fly], [Anopheles mosquito], [housefly], [flea])
 
 #answer-key-grid(("C", "B", "B", "A"))
 
 #answer-notes((
-  ("C", [the mosquito is only the *vector*; the causative organism is the protozoan *Plasmodium*.]),
-  ("B", [lymphocytes (B cells) make the antibodies; phagocytes only engulf.]),
+  ("C", [a vector carries a pathogen from one host to another; the pathogen, not the vector, causes the disease.]),
+  ("B", [phagocytes engulf and digest bacteria; lymphocytes make the antibodies.]),
   ("B", [the antibodies come from the mother, not from the child's own cells — *passive*, and *natural* because no injection was involved.]),
   ("A", [sleeping sickness, caused by *Trypanosoma*, is carried by the tsetse fly (*Glossina*).]),
 ))
+
+#include "drill_ch07.typ"

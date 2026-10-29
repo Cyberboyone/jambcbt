@@ -237,15 +237,17 @@ A graph of size against time is a *growth curve*. Two shapes carry almost all th
 Four questions of the kind the CBT engine starts a paper with. Ninety seconds each; the answers and full working follow the drill.
 
 #mcq(1, [Growth is best defined as], [an increase in the number of cells only], [an increase in fresh mass], [a permanent increase in size due to cell division and enlargement], [any change in shape])
-#mcq(2, [The growth curve of an insect is stepped because], [the exoskeleton must be shed before growth can continue], [insects grow only in winter], [insects do not grow at all], [the insect has an internal skeleton])
+#mcq(2, [A pupa is best described as], [the feeding stage of an insect], [the stage in which the adult body is built], [the adult stage], [the egg stage])
 #mcq(3, [Complete metamorphosis consists of], [egg, nymph and adult], [egg, larva, pupa and adult], [larva, adult and egg], [egg and adult only])
 #mcq(4, [The growth spurt at puberty in girls is mainly stimulated by], [insulin], [adrenaline], [oestrogen with growth hormone], [digestive enzymes])
 
-#answer-key-grid(("C", "A", "B", "C"))
+#answer-key-grid(("C", "B", "B", "C"))
 
 #answer-notes((
   ("C", [growth is a *permanent* increase in size, brought about by cell division and enlargement — not by water uptake.]),
-  ("A", [the chitin exoskeleton cannot stretch, so growth can only continue after a moult (ecdysis).]),
+  ("B", [inside the pupa the larval tissues are broken down and the adult body is built.]),
   ("B", [complete metamorphosis has four stages: egg, larva, pupa and adult.]),
   ("C", [oestrogen together with growth hormone drives the female growth spurt at puberty.]),
 ))
+
+#include "drill_ch06.typ"

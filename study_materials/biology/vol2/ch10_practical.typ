@@ -284,15 +284,17 @@ You cannot count every plant in a field or catch every insect, so ecologists tak
 Four questions of the kind the CBT engine starts a paper with. Ninety seconds each; the answers and full working follow the drill.
 
 #mcq(1, [A microscope has a ×10 eyepiece and a ×40 objective. The total magnification is], [×4], [×50], [×400], [×4000])
-#mcq(2, [Benedict's solution gives a brick-red colour with], [starch], [a reducing sugar], [protein], [fat])
+#mcq(2, [A food sample turns blue-black when iodine solution is added. The food contains], [protein], [reducing sugar], [fat], [starch])
 #mcq(3, [In an experiment on the effect of light on photosynthesis, the independent variable is], [the number of oxygen bubbles], [the light intensity], [the temperature of the water], [the mass of the plant])
 #mcq(4, [40 grasshoppers are caught, marked and released. A second sample of 50 contains 8 marked. The estimated population is], [200], [250], [320], [500])
 
-#answer-key-grid(("C", "B", "B", "B"))
+#answer-key-grid(("C", "D", "B", "B"))
 
 #answer-notes((
   ("C", [total magnification is the product of the two lenses: $10 times 40 = 400$.]),
-  ("B", [Benedict's solution changes from blue to green, yellow, orange or brick-red when heated with a reducing sugar.]),
+  ("D", [iodine turns blue-black with starch; Benedict's is the test for a reducing sugar.]),
   ("B", [the light intensity is what the experimenter changes — the bubbles are what is measured.]),
   ("B", [$N = (M times C) div R = (40 times 50) div 8 = 250$.]),
 ))
+
+#include "drill_ch10.typ"

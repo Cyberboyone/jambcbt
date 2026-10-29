@@ -319,15 +319,17 @@ A *tropism* is a growth movement of a plant towards or away from a stimulus. Bec
 Four questions of the kind the CBT engine starts a paper with. Ninety seconds each; the answers and full working follow the drill.
 
 #mcq(1, [The hormone that lowers the concentration of glucose in the blood is], [glucagon], [adrenaline], [insulin], [thyroxine])
-#mcq(2, [Endocrine glands are described as ductless because they], [secrete hormones into the blood], [have no blood supply], [secrete through a tube onto the skin], [produce enzymes only])
+#mcq(2, [Glucagon is secreted by the], [beta cells of the islets of Langerhans], [alpha cells of the islets of Langerhans], [adrenal cortex], [thyroid gland])
 #mcq(3, [The hormone that increases the reabsorption of water in the kidney is], [ADH], [insulin], [oestrogen], [glucagon])
-#mcq(4, [A shoot bends towards light because auxin], [collects on the shaded side and makes those cells elongate], [collects on the lit side and makes those cells elongate], [is destroyed on the shaded side], [moves down the stem to the roots])
+#mcq(4, [A root growing downwards shows], [negative geotropism], [positive geotropism], [positive phototropism], [hydrotropism])
 
-#answer-key-grid(("C", "A", "A", "A"))
+#answer-key-grid(("C", "B", "A", "B"))
 
 #answer-notes((
   ("C", [hormones are secreted by *ductless* glands straight into the blood; glands with ducts belong to the exocrine system.]),
-  ("A", [the pituitary controls the thyroid, the adrenal cortex and the gonads, which is why it is called the master gland.]),
+  ("B", [the alpha cells of the islets secrete glucagon; the beta cells secrete insulin.]),
   ("A", [insulin lowers blood glucose by converting glucose to glycogen in the liver and in muscle.]),
-  ("A", [auxin moves to the shaded side, where it makes the cells elongate, so the shoot bends towards the light.]),
+  ("B", [a root grows downwards because it is positively geotropic; the same auxin that bends the shoot up inhibits elongation in the root.]),
 ))
+
+#include "drill_ch03.typ"

@@ -28,9 +28,9 @@ def blob(points, fill, stroke, sw=2.0):
     return f'<polygon points="{pts}" fill="{fill}" stroke="{stroke}" stroke-width="{sw}"/>' 
 
 WEIGHTS = [2, 2, 2, 3, 3, 1, 2, 1, 1, 2]
-TITLES = ["Nervous\ncoordination", "Brain &\nsenses", "Hormones", "Plant\nreproduction",
-          "Animal\nreproduction", "Growth &\ndevelopment", "Health &\ndisease",
-          "Micro-\norganisms", "Drugs &\npublic health", "Practical\nskills"]
+TITLES = ["1 Nervous\ncoordination", "2 Brain &\nsenses", "3 Hormones", "4 Plant\nreproduction",
+          "5 Animal\nreproduction", "6 Growth &\ndevelopment", "7 Health &\ndisease",
+          "8 Micro-\norganisms", "9 Drugs &\nhealth", "10 Practical\nskills"]
 
 
 # ── front matter ───────────────────────────────────────────────────────────
@@ -41,13 +41,13 @@ def cover_banner():
          t(380, 46, "COORDINATION  •  REPRODUCTION  •  GROWTH", size=15, weight="bold"),
          t(380, 72, "The Neurone and the Synapse, the Brain and the Sense Organs,", size=11, fill=SLATE),
          t(380, 90, "Hormones, the Flower and the Seed, Pregnancy, Disease and Immunity", size=11, fill=SLATE),
-         t(380, 120, "Two full CBT mock papers · 300 drill questions · 120-question master bank",
+         t(380, 120, "300 drill questions · two full CBT mock papers · 120-question master bank · 60 rapid-fire pairs",
            size=9.4, fill=MUTED)]
     write_svg("cover_banner.svg", svg(w, h, "\n".join(b), bg=GREEN_LIGHT))
 
 
 def utme_weight_chart():
-    fig, ax = plt.subplots(figsize=(7.6, 3.1))
+    fig, ax = plt.subplots(figsize=(7.6, 3.0))
     colors = [GREEN if v >= 3 else (BLUE if v == 2 else PURPLE) for v in WEIGHTS]
     bars = ax.bar(TITLES, WEIGHTS, color=colors, edgecolor="white", linewidth=1.1, width=0.66)
     for b, v in zip(bars, WEIGHTS):
@@ -58,7 +58,7 @@ def utme_weight_chart():
     ax.spines["top"].set_visible(False)
     ax.spines["right"].set_visible(False)
     ax.set_yticks([0, 1, 2, 3])
-    ax.tick_params(axis="x", labelsize=7.4)
+    ax.tick_params(axis="x", labelsize=6.6)
     ax.grid(axis="y", color="#E2E8F0", lw=0.8)
     ax.set_axisbelow(True)
     save(fig, "utme_weight.svg")

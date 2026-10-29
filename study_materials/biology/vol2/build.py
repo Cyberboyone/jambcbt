@@ -49,8 +49,28 @@ def main() -> int:
             print(f"  (skipping missing {name})")
     driver.write_text("\n".join(body) + "\n", encoding="utf-8")
 
-    pdf, warns = typst.compile_with_warnings(str(driver), root=str(HERE.parent.parent.parent))
-    Path(args.out).write_bytes(pdf)
+    # The Contents page is a generated table whose page numbers must be baked
+    # in, so compile once, read the outline, rewrite `_toc.typ`, and compile
+    # again until the numbers stop moving.
+    import sys as _sys
+    _sys.path.insert(0, str(HERE / "tools"))
+    from make_toc import build_rows, write_toc  # noqa: E402
+
+    if not (HERE / "_toc.typ").exists():
+        write_toc([])
+
+    out = Path(args.out)
+    for attempt in range(4):
+        pdf, warns = typst.compile_with_warnings(str(driver), root=str(HERE.parent.parent.parent))
+        out.write_bytes(pdf)
+        rows = build_rows(out)
+        new_text = write_toc(rows)
+        if attempt and new_text == before:
+            break
+        before = new_text
+    else:
+        pdf, warns = typst.compile_with_warnings(str(driver), root=str(HERE.parent.parent.parent))
+        out.write_bytes(pdf)
     print(f"wrote {args.out}: {len(pdf) / 1_048_576:.2f} MB, {len(warns)} warnings")
     for w in warns[:20]:
         print("  warning:", w)

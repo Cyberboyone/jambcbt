@@ -113,11 +113,11 @@
         columns: (1fr, auto),
         column-gutter: 14pt,
         align: (left + horizon, right + horizon),
-        text(font: "DejaVu Sans", size: 8.3pt, weight: "bold", fill: white)[
-          JAMB CBT Companion Textbook Series • Print-Ready A4 Manual
+        text(font: "DejaVu Sans", size: 7.6pt, weight: "bold", fill: white)[
+          JAMB CBT Companion Textbook Series
         ],
-        text(font: "DejaVu Sans", size: 8.3pt, weight: "bold", fill: rgb("#FEF3C7"))[
-          Chapters 1 – 10 + Two Full CBT Mocks
+        text(font: "DejaVu Sans", size: 7.6pt, weight: "bold", fill: rgb("#FEF3C7"))[
+          Chapters 1–10 · 300 Drills · 2 CBT Mocks · 120-Question Bank
         ],
       )
     ]
@@ -227,7 +227,7 @@
 
 #table(
   columns: (0.32fr, 1.9fr, 1.5fr, 0.6fr),
-  inset: 6pt,
+  inset: (x: 5pt, y: 2.8pt),
   align: (center + horizon, left + horizon, left + horizon, center + horizon),
   stroke: 0.5pt + jamb-border,
   fill: (x, y) => if y == 0 { jamb-navy } else if calc.odd(y) { white } else { jamb-light },
@@ -238,9 +238,9 @@
 
   [1], [“The part of the neurone that conducts impulses away from the cell body is the …”], [Axon; dendrites carry impulses towards it], [1],
   [2], [“A synapse transmits an impulse by means of …”], [A chemical transmitter across the gap], [1],
-  [3], [“The part of the brain that controls balance and muscular coordination is the …”], [Cerebellum; medulla controls breathing], [2],
+  [3], [“The part of the brain that controls balance is the …”], [Cerebellum; medulla controls breathing], [2],
   [4], [“The structure that focuses light on the retina is the …”], [Lens; the cornea does most of the bending], [2],
-  [5], [“A reflex action is one that is …”], [Automatic and protective; the spinal cord can do it alone], [2],
+  [5], [“A reflex action is one that is …”], [Automatic and protective — often spinal, not cerebral], [2],
   [6], [“The hormone that lowers blood glucose is …”], [Insulin, from the islets of Langerhans], [3],
   [7], [“The transfer of pollen from anther to stigma is …”], [Pollination; fertilisation is later], [4],
   [8], [“The part of the flower that becomes the fruit is the …”], [Ovary; the ovule becomes the seed], [4],
@@ -324,17 +324,8 @@
 
 #v(8pt)
 
-#show outline.entry.where(level: 1): it => {
-  v(5pt, weak: true)
-  strong(text(font: "DejaVu Sans", size: 9.8pt, fill: jamb-navy)[#it])
-}
-
-#show outline.entry.where(level: 2): it => {
-  text(font: "DejaVu Sans", size: 8.7pt, fill: jamb-slate)[#it]
-  v(0.6pt, weak: true)
-}
-
-#outline(title: none, indent: 14pt, depth: 2)
+#import "_toc.typ": toc-rows
+#toc-two-column(toc-rows)
 
 // ============================================================================
 // PAGE: HOW TO USE THIS BOOK

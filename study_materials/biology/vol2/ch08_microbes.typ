@@ -263,16 +263,18 @@ Preservation works by removing one of the conditions the organisms need.
 
 Four questions of the kind the CBT engine starts a paper with. Ninety seconds each; the answers and full working follow the drill.
 
-#mcq(1, [Decay is best described as], [the burning of dead matter], [the breakdown of dead organic matter by micro-organisms], [the freezing of dead matter], [the drying of dead matter])
+#mcq(1, [Humus improves a soil because it], [kills soil bacteria], [makes the soil more acid], [reduces the water-holding capacity], [returns minerals to the soil and improves its structure])
 #mcq(2, [Food is preserved by salting because salt], [kills all bacteria by heat], [draws water out of the microbial cells by osmosis], [adds vitamins to the food], [makes the food more acid])
-#mcq(3, [The gas that makes bread dough rise is], [oxygen], [nitrogen], [carbon dioxide], [methane])
+#mcq(3, [Pasteurisation of milk preserves it because the process], [adds vitamins], [kills most of the micro-organisms present], [removes all the water], [makes the milk acid])
 #mcq(4, [Viruses differ from bacteria in that viruses], [have a nucleus], [are larger than bacteria], [are not cells and cannot reproduce outside a host], [can be killed by antibiotics])
 
-#answer-key-grid(("B", "B", "C", "C"))
+#answer-key-grid(("D", "B", "C", "C"))
 
 #answer-notes((
-  ("B", [decay is the *breakdown* of dead organic matter by bacteria and fungi — a form of respiration, not burning.]),
+  ("D", [humus is the dark material left by decay; it returns minerals to the soil and improves its structure and water-holding capacity.]),
   ("B", [the strong salt solution pulls water out of the microbial cells by *osmosis*, so they cannot grow.]),
   ("C", [yeast ferments sugar to alcohol and *carbon dioxide*; the trapped gas expands the dough.]),
   ("C", [a virus has no cytoplasm or enzymes and must enter a living host cell before it can multiply — which is why antibiotics do nothing.]),
 ))
+
+#include "drill_ch08.typ"

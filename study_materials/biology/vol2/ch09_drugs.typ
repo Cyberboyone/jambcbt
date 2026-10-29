@@ -255,16 +255,18 @@ A *medicine* is a drug used to prevent, treat or cure disease, in a measured dos
 
 Four questions of the kind the CBT engine starts a paper with. Ninety seconds each; the answers and full working follow the drill.
 
-#mcq(1, [A drug is best defined as], [any medicine sold in a pharmacy], [any substance that alters the way the body or mind works], [any substance that kills bacteria], [any illegal substance])
+#mcq(1, [The use of a drug for pleasure or without medical need is called], [drug abuse], [tolerance], [rehabilitation], [an overdose])
 #mcq(2, [Which of the following is a depressant?], [Caffeine], [Cocaine], [Alcohol], [Amphetamine])
-#mcq(3, [The first thing a first-aider should do on reaching an accident scene is to], [give the casualty water], [move the casualty to hospital], [check that the scene is safe], [bandage all open wounds])
-#mcq(4, [A casualty who is unconscious but breathing should be], [given sweet tea], [laid on the back with the head raised], [placed in the recovery position], [made to sit upright])
+#mcq(3, [A notifiable disease is one that must be], [treated with antibiotics], [reported to the health authority], [isolated for life], [vaccinated against])
+#mcq(4, [The safe disposal of human faeces is important because it prevents], [malaria], [the spread of faecal–oral disease], [ringworm], [night blindness])
 
-#answer-key-grid(("B", "C", "C", "C"))
+#answer-key-grid(("A", "C", "B", "B"))
 
 #answer-notes((
-  ("B", [a drug alters the working of the body or mind; a medicine is a drug used in a measured dose to treat disease.]),
+  ("A", [abuse is use without medical need, or in the wrong amount, or for pleasure.]),
   ("C", [alcohol slows the brain down; caffeine, cocaine and amphetamine are stimulants.]),
-  ("C", [danger to the rescuer comes first — an injured rescuer cannot help anyone.]),
-  ("C", [the recovery position keeps the tongue from blocking the airway and lets vomit drain out.]),
+  ("B", [notifiable diseases must be reported so that an outbreak can be tracked and controlled.]),
+  ("B", [faeces carry the organisms of cholera, typhoid and dysentery, so safe disposal breaks the faecal–oral route.]),
 ))
+
+#include "drill_ch09.typ"

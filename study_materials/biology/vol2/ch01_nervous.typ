@@ -341,16 +341,18 @@ The body has two coordinating systems, and the examiner likes the comparison bec
 
 Four questions of the kind the CBT engine starts a paper with. Ninety seconds each; the answers and full working follow the drill.
 
-#mcq(1, [The part of a neurone that conducts impulses away from the cell body is the], [dendrite], [axon], [myelin sheath], [nucleus])
-#mcq(2, [The junction between two neurones is called a], [node of Ranvier], [synapse], [ganglion], [reflex arc])
-#mcq(3, [Which of the following is *not* a component of a reflex arc?], [Receptor], [Sensory neurone], [Hormone], [Effector])
+#mcq(1, [The nervous system is divided into the central nervous system and the], [autonomic nervous system], [endocrine system], [peripheral nervous system], [circulatory system])
+#mcq(2, [Neurotransmitters are released from the], [dendrites of the next neurone], [vesicles in the presynaptic knob], [myelin sheath], [nucleus of the cell body])
+#mcq(3, [In a reflex arc, the structure that detects the stimulus is the], [effector], [synapse], [motor neurone], [receptor])
 #mcq(4, [An impulse is carried across a synapse by], [a chemical transmitter], [electrical conduction through the myelin], [osmosis of water], [movement of the nucleus])
 
-#answer-key-grid(("B", "B", "C", "A"))
+#answer-key-grid(("C", "B", "D", "A"))
 
 #answer-notes((
-  ("B", [the axon carries impulses *away* from the cell body; dendrites carry them towards it.]),
-  ("B", [a synapse is the junction — a small gap — between two neurones.]),
-  ("C", [a reflex arc has a receptor, a sensory neurone, a relay or motor neurone and an effector. A *hormone* belongs to the endocrine system.]),
+  ("C", [the central nervous system is the brain and spinal cord; the cranial and spinal nerves make up the *peripheral* nervous system.]),
+  ("B", [the transmitter is stored in vesicles in the presynaptic knob and released into the synaptic cleft.]),
+  ("D", [the receptor detects the stimulus; the effector carries out the response.]),
   ("A", [the impulse arrives at the presynaptic knob, vesicles release a neurotransmitter into the gap, and the next neurone is excited.]),
 ))
+
+#include "drill_ch01.typ"

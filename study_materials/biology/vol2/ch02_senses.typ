@@ -344,13 +344,15 @@ Four questions of the kind the CBT engine starts a paper with. Ninety seconds ea
 #mcq(1, [The part of the brain that controls breathing and heart rate is the], [cerebrum], [medulla oblongata], [cerebellum], [hypothalamus])
 #mcq(2, [Focusing on a near object involves], [the ciliary muscles contracting and the lens becoming more convex], [the ciliary muscles relaxing and the lens becoming flatter], [the pupil dilating], [the retina moving forward])
 #mcq(3, [A person who cannot see distant objects clearly is suffering from], [hypermetropia], [presbyopia], [astigmatism], [myopia])
-#mcq(4, [The receptors for hearing are found in the], [cochlea], [semicircular canals], [eardrum], [Eustachian tube])
+#mcq(4, [The pupil of the eye is the], [coloured part of the eye], [opening in the iris through which light enters], [curved front surface that bends the light], [nerve that carries impulses to the brain])
 
-#answer-key-grid(("B", "A", "D", "A"))
+#answer-key-grid(("B", "A", "D", "B"))
 
 #answer-notes((
   ("B", [the retina holds the rods and cones; the lens only focuses the light.]),
   ("A", [cones work in bright light and give colour vision; rods work in dim light and give black-and-white vision.]),
   ("D", [the Eustachian tube connects the middle ear to the throat and equalises pressure on both sides of the eardrum.]),
-  ("A", [the iris is a muscular diaphragm whose circular and radial muscles change the size of the pupil.]),
+  ("B", [the pupil is simply the hole in the iris; the iris muscles change its size.]),
 ))
+
+#include "drill_ch02.typ"

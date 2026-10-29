@@ -338,15 +338,17 @@ Plants can also reproduce without seeds, and gardeners use this deliberately bec
 Four questions of the kind the CBT engine starts a paper with. Ninety seconds each; the answers and full working follow the drill.
 
 #mcq(1, [The transfer of pollen from the anther to the stigma of a flower is called], [fertilisation], [pollination], [germination], [dispersal])
-#mcq(2, [After fertilisation, the ovule becomes the], [fruit], [seed], [zygote], [endosperm])
+#mcq(2, [The cotyledon of a bean seed is important because it], [protects the seed from bacteria], [stores food for the growing embryo], [absorbs water from the soil], [becomes the first leaf])
 #mcq(3, [A flower with large, brightly coloured petals, scent and nectar is most likely pollinated by], [wind], [water], [insects], [gravity])
-#mcq(4, [The first part of a germinating bean seed to emerge is the], [plumule], [radicle], [cotyledon], [testa])
+#mcq(4, [The micropyle of a seed is the], [scar left by the funicle], [small pore through which water enters], [outer coat of the seed], [food store of the seed])
 
 #answer-key-grid(("B", "B", "C", "B"))
 
 #answer-notes((
   ("B", [pollination is the transfer of pollen; fertilisation is the fusion of the male and female gametes — they are not the same event.]),
-  ("B", [wind-pollinated flowers are small, dull and have no scent or nectar, because they do not need to attract insects.]),
-  ("C", [the ovule becomes the seed and the ovary becomes the fruit.]),
-  ("B", [the radicle — the young root — emerges first, anchoring the seedling and absorbing water before the shoot appears.]),
+  ("B", [the cotyledon is the food store that feeds the embryo until the first leaves can photosynthesise.]),
+  ("C", [bright petals, scent and nectar are the advertisement that attracts an insect pollinator.]),
+  ("B", [the micropyle is the pore in the testa through which water is absorbed before germination begins.]),
 ))
+
+#include "drill_ch04.typ"
