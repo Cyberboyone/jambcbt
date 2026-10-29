@@ -9,7 +9,7 @@ set.
 
 | Volume | Title | Status |
 |---|---|---|
-| 1 | Matter, Atoms & Bonding | **complete — 142 pp** |
+| 1 | Matter, Atoms & Bonding | **complete — 143 pp** |
 | 2 | Physical Chemistry | not started |
 | 3 | Inorganic Chemistry | not started |
 | 4 | Organic Chemistry & Practical | not started |
