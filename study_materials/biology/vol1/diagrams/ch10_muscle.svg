@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="473.246644pt" height="182.800406pt" viewBox="0 0 473.246644 182.800406" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-10-29T11:50:25.564688</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 182.800406 
+L 473.246644 182.800406 
+L 473.246644 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 271.235896 155.566406 
+L 414.3168 155.566406 
+Q 420.954574 155.566406 420.954574 148.762406 
+L 420.954574 100.378406 
+Q 420.954574 93.574406 414.3168 93.574406 
+L 271.235896 93.574406 
+Q 264.598122 93.574406 264.598122 100.378406 
+L 264.598122 148.762406 
+Q 264.598122 155.566406 271.235896 155.566406 
+z
+" clip-path="url(#pb9f3ad290f)" style="fill: #f8fafc; stroke: #cbd5e1; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 183.469774 47.836406 
+L 255.010226 47.836406 
+Q 262.38553 47.836406 262.38553 40.276406 
+L 262.38553 38.008406 
+Q 262.38553 30.448406 255.010226 30.448406 
+L 183.469774 30.448406 
+Q 176.09447 30.448406 176.09447 38.008406 
+L 176.09447 40.276406 
+Q 176.09447 47.836406 183.469774 47.836406 
+z
+" clip-path="url(#pb9f3ad290f)" style="fill: #e7e5e4; stroke: #334155; stroke-width: 1.4; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 64.727374 47.836406 
+L 73.208974 47.836406 
+Q 79.846748 47.836406 79.846748 41.032406 
+L 79.846748 37.252406 
+Q 79.846748 30.448406 73.208974 30.448406 
+L 64.727374 30.448406 
+Q 58.0896 30.448406 58.0896 37.252406 
+L 58.0896 41.032406 
+Q 58.0896 47.836406 64.727374 47.836406 
+z
+" clip-path="url(#pb9f3ad290f)" style="fill: #e7e5e4; stroke: #334155; stroke-width: 1.4; stroke-linejoin: miter"/>
+   </g>
+   <g id="line2d_1">
+    <path d="M 79.109217 46.324406 
+L 114.141913 79.210406 
+L 151.018435 82.990406 
+L 173.144348 48.970406 
+" clip-path="url(#pb9f3ad290f)" style="fill: none; stroke: #dc2626; stroke-width: 7; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_2">
+    <path d="M 79.109217 31.960406 
+L 114.141913 41.410406 
+L 151.018435 41.410406 
+L 173.144348 31.960406 
+" clip-path="url(#pb9f3ad290f)" style="fill: none; stroke: #2563eb; stroke-width: 5; stroke-linecap: round"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 95.025947 115.38042 
+Q 104.001724 102.834212 112.066765 91.561017 
+" style="fill: none; stroke: #dc2626; stroke-width: 1.4; stroke-linecap: round"/>
+    <path d="M 108.112779 93.650514 
+L 112.066765 91.561017 
+L 111.365971 95.977904 
+" style="fill: none; stroke: #dc2626; stroke-width: 1.4; stroke-linecap: round"/>
+   </g>
+   <g id="text_1">
+    <text style="font-size: 8px; font-family: 'DejaVu Sans'; fill: #dc2626" transform="translate(62.514783 111.188219)">flexor contracts →</text>
+    <text style="font-size: 8px; font-family: 'DejaVu Sans'; fill: #dc2626" transform="translate(62.514783 120.790406)">arm bends (flexion)</text>
+   </g>
+   <g id="text_2">
+    <text style="font-size: 8px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #2563eb" x="261.648" y="92.440406" transform="rotate(-0 261.648 92.440406)">extensor relaxes</text>
+   </g>
+   <g id="patch_6">
+    <path d="M 262.316927 84.88479 
+Q 269.023001 65.98126 275.280515 48.342165 
+" style="fill: none; stroke: #2563eb; stroke-width: 1.2; stroke-linecap: round"/>
+    <path d="M 272.058257 51.443303 
+L 275.280515 48.342165 
+L 275.828071 52.780653 
+" style="fill: none; stroke: #2563eb; stroke-width: 1.2; stroke-linecap: round"/>
+   </g>
+   <g id="text_3">
+    <text style="font-weight: 700; font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #0e1f40" x="342.776348" y="101.890406" transform="rotate(-0 342.776348 101.890406)">Three kinds of muscle</text>
+   </g>
+   <g id="text_4">
+    <text style="font-size: 7.6px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #334155" x="272.710957" y="115.120406" transform="rotate(-0 272.710957 115.120406)">• Skeletal (striated) — attached to bone, voluntary</text>
+   </g>
+   <g id="text_5">
+    <text style="font-size: 7.6px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #334155" x="272.710957" y="126.460406" transform="rotate(-0 272.710957 126.460406)">• Smooth — gut and blood vessels, involuntary</text>
+   </g>
+   <g id="text_6">
+    <text style="font-size: 7.6px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #334155" x="272.710957" y="137.800406" transform="rotate(-0 272.710957 137.800406)">• Cardiac — heart, involuntary, never tires</text>
+   </g>
+   <g id="text_7">
+    <text style="font-size: 7.4px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #64748b" x="339.088696" y="148.384406" transform="rotate(-0 339.088696 148.384406)">Antagonistic pair: when one contracts the other must relax</text>
+   </g>
+   <g id="text_8">
+    <text style="font-weight: 700; font-size: 10.2px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #0e1f40" x="128.892522" y="14.950406" transform="rotate(-0 128.892522 14.950406)">A muscle can only pull — never push</text>
+   </g>
+   <g id="patch_7">
+    <path d="M 111.788369 98.726782 
+Q 122.855223 89.903674 133.922077 81.080567 
+" style="fill: none; stroke: #64748b; stroke-width: 0.9; stroke-linecap: round"/>
+   </g>
+   <g id="text_9">
+    <text style="font-size: 7.4px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #334155" x="103.078957" y="107.592961" transform="rotate(-0 103.078957 107.592961)">Biceps (flexor)</text>
+   </g>
+   <g id="text_10">
+    <text style="font-size: 7.6px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #64748b" x="20.106783" y="33.850406" transform="rotate(-0 20.106783 33.850406)">bone</text>
+   </g>
+   <g id="patch_8">
+    <path d="M 176.832 46.702406 
+C 178.787954 46.702406 180.66406 45.905837 182.047128 44.488134 
+C 183.430196 43.07043 184.207304 41.147342 184.207304 39.142406 
+C 184.207304 37.137471 183.430196 35.214382 182.047128 33.796679 
+C 180.66406 32.378976 178.787954 31.582406 176.832 31.582406 
+C 174.876046 31.582406 172.99994 32.378976 171.616872 33.796679 
+C 170.233804 35.214382 169.456696 37.137471 169.456696 39.142406 
+C 169.456696 41.147342 170.233804 43.07043 171.616872 44.488134 
+C 172.99994 45.905837 174.876046 46.702406 176.832 46.702406 
+z
+" clip-path="url(#pb9f3ad290f)" style="fill: #fde68a; stroke: #d97706; stroke-width: 1.2; stroke-linejoin: miter"/>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="pb9f3ad290f">
+   <rect x="7.2" y="9.280406" width="424.08" height="166.32"/>
+  </clipPath>
+ </defs>
+</svg>

@@ -23,6 +23,10 @@ INCLUDES = [
     "ch10_support.typ",
     "mock_ch11.typ",
     "mock2.typ",
+    "rapid_fire.typ",
+    "zfinal.typ",
+    "bank120.typ",
+    "answer_keys.typ",
 ]
 
 

@@ -1,46 +1,276 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 780 330" width="780" height="330">
-  <defs>
-    <marker id="ag" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
-      <path d="M 0 1 L 10 5 L 0 9 z" fill="#008751"/>
-    </marker>
-    <marker id="an" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
-      <path d="M 0 1 L 10 5 L 0 9 z" fill="#0E1F40"/>
-    </marker>
-    <marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
-      <path d="M 0 1 L 10 5 L 0 9 z" fill="#D97706"/>
-    </marker>
-    <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
-      <path d="M 0 1 L 10 5 L 0 9 z" fill="#DC2626"/>
-    </marker>
-  </defs>
-  <rect x="0" y="0" width="780" height="330" fill="#FFFFFF"/>
-<text x="390" y="20" font-family="DejaVu Sans" font-size="12.4" fill="#0E1F40" text-anchor="middle" font-weight="bold">ONE NEPHRON — THE KIDNEY'S WORKING UNIT</text>
-<rect x="20" y="56" width="300" height="62" rx="7" fill="#FFFFFF" stroke="#2563EB" stroke-width="1.5"/>
-<text x="170" y="74" font-family="DejaVu Sans" font-size="8.6" fill="#2563EB" text-anchor="middle" font-weight="bold">GLOMERULUS + BOWMAN'S CAPSULE</text>
-<text x="170" y="94" font-family="DejaVu Sans" font-size="7.8" fill="#334155" text-anchor="middle" font-weight="normal">Ultrafiltration: pressure forces water, salts,</text>
-<text x="170" y="108" font-family="DejaVu Sans" font-size="7.8" fill="#334155" text-anchor="middle" font-weight="normal">glucose and urea out of the blood.</text>
-<line x1="324" y1="87" x2="362" y2="87" stroke="#64748B" stroke-width="1.3" marker-end="url(#ag)"/>
-<rect x="366" y="56" width="258" height="62" rx="7" fill="#FFFFFF" stroke="#008751" stroke-width="1.5"/>
-<text x="495" y="74" font-family="DejaVu Sans" font-size="8.6" fill="#008751" text-anchor="middle" font-weight="bold">PROXIMAL TUBULE</text>
-<text x="495" y="94" font-family="DejaVu Sans" font-size="7.8" fill="#334155" text-anchor="middle" font-weight="normal">Selective reabsorption: ALL glucose, most salts</text>
-<text x="495" y="108" font-family="DejaVu Sans" font-size="7.8" fill="#334155" text-anchor="middle" font-weight="normal">and much water return to the blood here.</text>
-<line x1="628" y1="87" x2="666" y2="87" stroke="#64748B" stroke-width="1.3" marker-end="url(#ag)"/>
-<rect x="670" y="56" width="92" height="62" rx="7" fill="#FFFFFF" stroke="#7C3AED" stroke-width="1.5"/>
-<text x="716" y="78" font-family="DejaVu Sans" font-size="8.4" fill="#7C3AED" text-anchor="middle" font-weight="bold">LOOP OF</text>
-<text x="716" y="92" font-family="DejaVu Sans" font-size="8.4" fill="#7C3AED" text-anchor="middle" font-weight="bold">HENLE</text>
-<text x="716" y="108" font-family="DejaVu Sans" font-size="6.8" fill="#334155" text-anchor="middle" font-weight="normal">more water out</text>
-<line x1="716" y1="122" x2="716" y2="152" stroke="#64748B" stroke-width="1.3" marker-end="url(#ag)"/>
-<rect x="366" y="202" width="258" height="62" rx="7" fill="#FFFFFF" stroke="#D97706" stroke-width="1.5"/>
-<text x="495" y="220" font-family="DejaVu Sans" font-size="8.6" fill="#D97706" text-anchor="middle" font-weight="bold">DISTAL TUBULE</text>
-<text x="495" y="240" font-family="DejaVu Sans" font-size="7.8" fill="#334155" text-anchor="middle" font-weight="normal">Reabsorption fine-tuned by hormones (ADH).</text>
-<text x="495" y="254" font-family="DejaVu Sans" font-size="7.8" fill="#334155" text-anchor="middle" font-weight="normal">Adjusts salt and water to the body's needs.</text>
-<line x1="716" y1="156" x2="716" y2="213" stroke="#64748B" stroke-width="1.3" marker-end="url(#ag)"/>
-<line x1="716" y1="213" x2="628" y2="232" stroke="#CBD5E1" stroke-width="1.2"/>
-<line x1="362" y1="232" x2="320" y2="232" stroke="#64748B" stroke-width="1.3" marker-end="url(#ag)"/>
-<rect x="20" y="202" width="296" height="62" rx="7" fill="#FFFFFF" stroke="#DC2626" stroke-width="1.5"/>
-<text x="168" y="220" font-family="DejaVu Sans" font-size="8.6" fill="#DC2626" text-anchor="middle" font-weight="bold">COLLECTING DUCT</text>
-<text x="168" y="240" font-family="DejaVu Sans" font-size="7.8" fill="#334155" text-anchor="middle" font-weight="normal">ADH controls final water reabsorption here.</text>
-<text x="168" y="254" font-family="DejaVu Sans" font-size="7.8" fill="#334155" text-anchor="middle" font-weight="normal">What is left = urine: water, urea, excess salts.</text>
-<rect x="20" y="286" width="742" height="40" rx="7" fill="#ECFDF5" stroke="#A7F3D0" stroke-width="1.1"/>
-<text x="390" y="308" font-family="DejaVu Sans" font-size="7.9" fill="#0E1F40" text-anchor="middle" font-weight="normal">Rule for every exam question: nothing useful is lost in urine — glucose, proteins and blood cells are never found in a healthy person's urine.</text>
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="507.67pt" height="258.336pt" viewBox="0 0 507.67 258.336" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-10-29T11:50:25.222233</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 258.336 
+L 507.67 258.336 
+L 507.67 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 92.929091 89.978282 
+C 99.225109 89.978282 105.264106 86.944528 109.716063 81.54517 
+C 114.16802 76.145811 116.669455 68.821682 116.669455 61.185836 
+C 116.669455 53.54999 114.16802 46.225861 109.716063 40.826502 
+C 105.264106 35.427144 99.225109 32.39339 92.929091 32.39339 
+C 86.633073 32.39339 80.594076 35.427144 76.142119 40.826502 
+C 71.690162 46.225861 69.188727 53.54999 69.188727 61.185836 
+C 69.188727 68.821682 71.690162 76.145811 76.142119 81.54517 
+C 80.594076 86.944528 86.633073 89.978282 92.929091 89.978282 
+z
+" clip-path="url(#p4191c92896)" style="fill: #ffffff; stroke: #2563eb; stroke-width: 1.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="line2d_1">
+    <path d="M 170.415 129.168 
+L 170.415 175.155934 
+L 170.415 221.143869 
+" clip-path="url(#p4191c92896)" style="fill: none; stroke: #7c3aed; stroke-width: 5.2; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_2">
+    <path d="M 107.766818 39.191607 
+L 124.253182 31.193705 
+L 137.442273 41.191082 
+L 137.442273 119.170623 
+L 120.955909 173.156459 
+" clip-path="url(#p4191c92896)" style="fill: none; stroke-dasharray: 4.5,3; stroke-dashoffset: 0; stroke: #dc2626; stroke-width: 1.5"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 92.929091 73.182689 
+C 95.552432 73.182689 98.068681 71.918624 99.923663 69.668892 
+C 101.778645 67.419159 102.820909 64.367439 102.820909 61.185836 
+C 102.820909 58.004234 101.778645 54.952513 99.923663 52.70278 
+C 98.068681 50.453048 95.552432 49.188984 92.929091 49.188984 
+C 90.30575 49.188984 87.789501 50.453048 85.934519 52.70278 
+C 84.079537 54.952513 83.037273 58.004234 83.037273 61.185836 
+C 83.037273 64.367439 84.079537 67.419159 85.934519 69.668892 
+C 87.789501 71.918624 90.30575 73.182689 92.929091 73.182689 
+z
+" clip-path="url(#p4191c92896)" style="fill: #fca5a5; stroke: #dc2626; stroke-width: 1.4; stroke-linejoin: miter"/>
+   </g>
+   <g id="line2d_3">
+    <path d="M 102.820909 61.185836 
+L 112.053273 61.185836 
+" clip-path="url(#p4191c92896)" style="fill: none; stroke: #dc2626; stroke-width: 0.8; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_4">
+    <path d="M 99.923663 52.70278 
+L 106.45193 44.785262 
+" clip-path="url(#p4191c92896)" style="fill: none; stroke: #dc2626; stroke-width: 0.8; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_5">
+    <path d="M 92.929091 49.188984 
+L 92.929091 37.991921 
+" clip-path="url(#p4191c92896)" style="fill: none; stroke: #dc2626; stroke-width: 0.8; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_6">
+    <path d="M 85.934519 52.70278 
+L 79.406252 44.785262 
+" clip-path="url(#p4191c92896)" style="fill: none; stroke: #dc2626; stroke-width: 0.8; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_7">
+    <path d="M 83.037273 61.185836 
+L 73.804909 61.185836 
+" clip-path="url(#p4191c92896)" style="fill: none; stroke: #dc2626; stroke-width: 0.8; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_8">
+    <path d="M 85.934519 69.668892 
+L 79.406252 77.58641 
+" clip-path="url(#p4191c92896)" style="fill: none; stroke: #dc2626; stroke-width: 0.8; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_9">
+    <path d="M 92.929091 73.182689 
+L 92.929091 84.379751 
+" clip-path="url(#p4191c92896)" style="fill: none; stroke: #dc2626; stroke-width: 0.8; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_10">
+    <path d="M 99.923663 69.668892 
+L 106.45193 77.58641 
+" clip-path="url(#p4191c92896)" style="fill: none; stroke: #dc2626; stroke-width: 0.8; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_11">
+    <path d="M 116.669455 61.185836 
+L 130.847727 51.188459 
+L 128.539636 69.183738 
+L 142.388182 57.186885 
+L 138.431455 75.182164 
+L 150.631364 65.184787 
+L 145.685455 83.180066 
+" clip-path="url(#p4191c92896)" style="fill: none; stroke: #008751; stroke-width: 3.2; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_12">
+    <path d="M 145.685455 83.180066 
+L 157.225909 103.17482 
+L 157.225909 185.153311 
+L 145.685455 201.149115 
+" clip-path="url(#p4191c92896)" style="fill: none; stroke: #008751; stroke-width: 3.2; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_13">
+    <path d="M 145.685455 201.149115 
+L 159.534 189.152262 
+L 152.939455 173.156459 
+L 166.128545 161.159607 
+L 159.534 143.164328 
+L 170.415 129.168 
+" clip-path="url(#p4191c92896)" style="fill: none; stroke: #008751; stroke-width: 3.2; stroke-linecap: round"/>
+   </g>
+   <g id="text_1">
+    <text style="font-weight: 700; font-size: 10.4px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #0e1f40" x="208.333636" y="15.997692" transform="rotate(-0 208.333636 15.997692)">The nephron — the functional unit of the kidney</text>
+   </g>
+   <g id="text_2">
+    <text style="font-size: 7.8px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #334155" x="206.685" y="39.191607" transform="rotate(-0 206.685 39.191607)">1  Glomerulus — a knot of capillaries under pressure</text>
+   </g>
+   <g id="text_3">
+    <text style="font-size: 7.8px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #334155" x="206.685" y="51.188459" transform="rotate(-0 206.685 51.188459)">2  Bowman's capsule — ultrafiltration: water, glucose,</text>
+   </g>
+   <g id="text_4">
+    <text style="font-size: 7.8px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #334155" x="215.587636" y="61.185836" transform="rotate(-0 215.587636 61.185836)">amino acids, urea and salts are forced out</text>
+   </g>
+   <g id="text_5">
+    <text style="font-size: 7.8px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #334155" x="206.685" y="73.182689" transform="rotate(-0 206.685 73.182689)">3  Proximal tubule — selective reabsorption of all the</text>
+   </g>
+   <g id="text_6">
+    <text style="font-size: 7.8px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #334155" x="215.587636" y="83.180066" transform="rotate(-0 215.587636 83.180066)">glucose and amino acids, most of the water</text>
+   </g>
+   <g id="text_7">
+    <text style="font-size: 7.8px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #334155" x="206.685" y="95.176918" transform="rotate(-0 206.685 95.176918)">4  Loop of Henle — more water is reabsorbed, so the</text>
+   </g>
+   <g id="text_8">
+    <text style="font-size: 7.8px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #334155" x="215.587636" y="105.174295" transform="rotate(-0 215.587636 105.174295)">urine becomes concentrated</text>
+   </g>
+   <g id="text_9">
+    <text style="font-size: 7.8px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #334155" x="206.685" y="117.171148" transform="rotate(-0 206.685 117.171148)">5  Collecting duct — urine passes to the pelvis of the</text>
+   </g>
+   <g id="text_10">
+    <text style="font-size: 7.8px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #334155" x="215.587636" y="127.168525" transform="rotate(-0 215.587636 127.168525)">kidney, then the ureter, bladder and urethra</text>
+   </g>
+   <g id="text_11">
+    <text style="font-weight: 700; font-size: 8.6px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #dc2626" x="206.685" y="149.162754" transform="rotate(-0 206.685 149.162754)">What is FILTERED OUT</text>
+   </g>
+   <g id="text_12">
+    <text style="font-size: 7.8px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #334155" x="206.685" y="159.160131" transform="rotate(-0 206.685 159.160131)">water, glucose, amino acids, urea and salts —</text>
+   </g>
+   <g id="text_13">
+    <text style="font-size: 7.8px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #334155" x="206.685" y="169.157508" transform="rotate(-0 206.685 169.157508)">anything small enough to pass the filter</text>
+   </g>
+   <g id="text_14">
+    <text style="font-weight: 700; font-size: 8.6px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #2563eb" x="206.685" y="185.153311" transform="rotate(-0 206.685 185.153311)">What is KEPT IN THE BLOOD</text>
+   </g>
+   <g id="text_15">
+    <text style="font-size: 7.8px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #334155" x="206.685" y="195.150689" transform="rotate(-0 206.685 195.150689)">blood cells and large proteins — they are too big</text>
+   </g>
+   <g id="text_16">
+    <text style="font-size: 7.8px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #334155" x="206.685" y="205.148066" transform="rotate(-0 206.685 205.148066)">to pass, which is why they never appear in urine</text>
+   </g>
+   <g id="text_17">
+    <text style="font-size: 8px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #64748b" x="206.685" y="223.143344" transform="rotate(-0 206.685 223.143344)">Urine therefore contains: urea, excess salts, excess water and any drugs.</text>
+   </g>
+   <g id="patch_4">
+    <path d="M 92.929091 67.984052 
+C 94.415651 67.984052 95.841525 67.267749 96.892682 65.992901 
+C 97.943838 64.718052 98.534455 62.988744 98.534455 61.185836 
+C 98.534455 59.382928 97.943838 57.65362 96.892682 56.378771 
+C 95.841525 55.103923 94.415651 54.38762 92.929091 54.38762 
+C 91.442531 54.38762 90.016657 55.103923 88.9655 56.378771 
+C 87.914344 57.65362 87.323727 59.382928 87.323727 61.185836 
+C 87.323727 62.988744 87.914344 64.718052 88.9655 65.992901 
+C 90.016657 67.267749 91.442531 67.984052 92.929091 67.984052 
+z
+" clip-path="url(#p4191c92896)" style="fill: #008751; stroke: #ffffff; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 130.847727 57.986675 
+C 132.334287 57.986675 133.760161 57.270372 134.811318 55.995524 
+C 135.862474 54.720675 136.453091 52.991367 136.453091 51.188459 
+C 136.453091 49.385551 135.862474 47.656243 134.811318 46.381394 
+C 133.760161 45.106546 132.334287 44.390243 130.847727 44.390243 
+C 129.361167 44.390243 127.935293 45.106546 126.884137 46.381394 
+C 125.83298 47.656243 125.242364 49.385551 125.242364 51.188459 
+C 125.242364 52.991367 125.83298 54.720675 126.884137 55.995524 
+C 127.935293 57.270372 129.361167 57.986675 130.847727 57.986675 
+z
+" clip-path="url(#p4191c92896)" style="fill: #008751; stroke: #ffffff; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 157.225909 157.960446 
+C 158.712469 157.960446 160.138343 157.244143 161.1895 155.969294 
+C 162.240656 154.694446 162.831273 152.965138 162.831273 151.16223 
+C 162.831273 149.359321 162.240656 147.630013 161.1895 146.355165 
+C 160.138343 145.080316 158.712469 144.364013 157.225909 144.364013 
+C 155.739349 144.364013 154.313475 145.080316 153.262318 146.355165 
+C 152.211162 147.630013 151.620545 149.359321 151.620545 151.16223 
+C 151.620545 152.965138 152.211162 154.694446 153.262318 155.969294 
+C 154.313475 157.244143 155.739349 157.960446 157.225909 157.960446 
+z
+" clip-path="url(#p4191c92896)" style="fill: #008751; stroke: #ffffff; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 159.534 195.950479 
+C 161.02056 195.950479 162.446434 195.234176 163.497591 193.959327 
+C 164.548747 192.684479 165.139364 190.95517 165.139364 189.152262 
+C 165.139364 187.349354 164.548747 185.620046 163.497591 184.345197 
+C 162.446434 183.070349 161.02056 182.354046 159.534 182.354046 
+C 158.04744 182.354046 156.621566 183.070349 155.570409 184.345197 
+C 154.519253 185.620046 153.928636 187.349354 153.928636 189.152262 
+C 153.928636 190.95517 154.519253 192.684479 155.570409 193.959327 
+C 156.621566 195.234176 158.04744 195.950479 159.534 195.950479 
+z
+" clip-path="url(#p4191c92896)" style="fill: #008751; stroke: #ffffff; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 170.415 187.952577 
+C 171.90156 187.952577 173.327434 187.236274 174.378591 185.961426 
+C 175.429747 184.686577 176.020364 182.957269 176.020364 181.154361 
+C 176.020364 179.351453 175.429747 177.622144 174.378591 176.347296 
+C 173.327434 175.072447 171.90156 174.356144 170.415 174.356144 
+C 168.92844 174.356144 167.502566 175.072447 166.451409 176.347296 
+C 165.400253 177.622144 164.809636 179.351453 164.809636 181.154361 
+C 164.809636 182.957269 165.400253 184.686577 166.451409 185.961426 
+C 167.502566 187.236274 168.92844 187.952577 170.415 187.952577 
+z
+" clip-path="url(#p4191c92896)" style="fill: #008751; stroke: #ffffff; stroke-linejoin: miter"/>
+   </g>
+   <g id="text_18">
+    <text style="font-weight: 700; font-size: 6.8px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #ffffff" x="92.929091" y="63.352137" transform="rotate(-0 92.929091 63.352137)">1</text>
+   </g>
+   <g id="text_19">
+    <text style="font-weight: 700; font-size: 6.8px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #ffffff" x="130.847727" y="53.35476" transform="rotate(-0 130.847727 53.35476)">2</text>
+   </g>
+   <g id="text_20">
+    <text style="font-weight: 700; font-size: 6.8px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #ffffff" x="157.225909" y="153.328531" transform="rotate(-0 157.225909 153.328531)">3</text>
+   </g>
+   <g id="text_21">
+    <text style="font-weight: 700; font-size: 6.8px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #ffffff" x="159.534" y="191.318564" transform="rotate(-0 159.534 191.318564)">4</text>
+   </g>
+   <g id="text_22">
+    <text style="font-weight: 700; font-size: 6.8px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #ffffff" x="170.415" y="183.320662" transform="rotate(-0 170.415 183.320662)">5</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p4191c92896">
+   <rect x="7.2" y="7.2" width="435.24" height="243.936"/>
+  </clipPath>
+ </defs>
 </svg>

@@ -165,3 +165,56 @@ def save(fig, name: str) -> None:
     fig.savefig(OUT / name, format="svg", bbox_inches="tight", transparent=False,
                 facecolor="white")
     plt.close(fig)
+
+
+# ── recap cards ────────────────────────────────────────────────────────────
+# The card is drawn on a narrow canvas (470 units) and placed in the book at
+# 100% of the text width, so the type inside it prints at roughly 9.5 pt —
+# anything wider would shrink to an unreadable size on the page.
+from PIL import ImageFont as _ImageFont
+from matplotlib import font_manager as _font_manager
+
+_MEASURE = _ImageFont.truetype(_font_manager.findfont("DejaVu Sans"), 200)
+
+
+def text_width(s: str, size: float) -> float:
+    return _MEASURE.getlength(s) * size / 200.0
+
+
+def wrap_text(s: str, size: float, max_w: float) -> list[str]:
+    out, cur = [], ""
+    for word in s.split():
+        trial = f"{cur} {word}".strip()
+        if not cur or text_width(trial, size) <= max_w:
+            cur = trial
+        else:
+            out.append(cur)
+            cur = word
+    if cur:
+        out.append(cur)
+    return out
+
+
+def recap_card(name: str, title: str, rows, w: int = 470) -> None:
+    """Four-line memory card: wrapped body text, no clipping, no overlap."""
+    pad = 12
+    box_w = w - 2 * pad
+    text_x = pad + 12
+    inner_w = box_w - 26
+    head_size, body_size, body_gap = 10.6, 9.6, 12.6
+
+    blocks = [(head, wrap_text(body, body_size, inner_w)) for head, body in rows]
+
+    b = [t(w / 2, 21, title, size=11.8, weight="bold", fill=NAVY)]
+    y = 33
+    for head, body_lines in blocks:
+        box_h = 17 + body_gap * len(body_lines) + 6
+        b.append(rect(pad, y, box_w, box_h, "#FFFFFF", GREEN, 6, 1.1))
+        b.append(t(text_x, y + 15, head, size=head_size, weight="bold",
+                   fill=GREEN, anchor="start"))
+        for i, ln in enumerate(body_lines):
+            b.append(t(text_x, y + 15 + body_gap * (i + 1), ln, size=body_size,
+                       fill=SLATE, anchor="start"))
+        y += box_h + 5
+    h = round(y + 4)
+    write_svg(name, svg(w, h, "\n".join(b)))

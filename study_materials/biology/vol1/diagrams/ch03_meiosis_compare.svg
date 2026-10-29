@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 300" width="760" height="300">
+  <defs>
+    <marker id="ag" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#008751"/>
+    </marker>
+    <marker id="an" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#0E1F40"/>
+    </marker>
+    <marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#D97706"/>
+    </marker>
+    <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#DC2626"/>
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="760" height="300" fill="#FFFFFF"/>
+<text x="380" y="24" font-family="DejaVu Sans" font-size="13" fill="#0E1F40" text-anchor="middle" font-weight="bold">MITOSIS AND MEIOSIS SIDE BY SIDE</text>
+<rect x="20" y="40" width="350" height="232" rx="8" fill="#FFFFFF" stroke="#008751" stroke-width="1.5"/>
+<rect x="390" y="40" width="350" height="232" rx="8" fill="#FFFFFF" stroke="#7C3AED" stroke-width="1.5"/>
+<rect x="20" y="40" width="350" height="6" rx="3" fill="#008751"/>
+<rect x="390" y="40" width="350" height="6" rx="3" fill="#7C3AED"/>
+<text x="195" y="66" font-family="DejaVu Sans" font-size="12" fill="#008751" text-anchor="middle" font-weight="bold">MITOSIS</text>
+<text x="565" y="66" font-family="DejaVu Sans" font-size="12" fill="#7C3AED" text-anchor="middle" font-weight="bold">MEIOSIS</text>
+<text x="30" y="96" font-family="DejaVu Sans" font-size="8.4" fill="#334155" text-anchor="start" font-weight="bold">Where</text>
+<text x="140" y="96" font-family="DejaVu Sans" font-size="8.6" fill="#0E1F40" text-anchor="start" font-weight="normal">Body (somatic) cells</text>
+<text x="400" y="96" font-family="DejaVu Sans" font-size="8.4" fill="#334155" text-anchor="start" font-weight="bold">Where</text>
+<text x="510" y="96" font-family="DejaVu Sans" font-size="8.6" fill="#0E1F40" text-anchor="start" font-weight="normal">Reproductive organs (gonads)</text>
+<text x="30" y="123" font-family="DejaVu Sans" font-size="8.4" fill="#334155" text-anchor="start" font-weight="bold">Divisions</text>
+<text x="140" y="123" font-family="DejaVu Sans" font-size="8.6" fill="#0E1F40" text-anchor="start" font-weight="normal">One</text>
+<text x="400" y="123" font-family="DejaVu Sans" font-size="8.4" fill="#334155" text-anchor="start" font-weight="bold">Divisions</text>
+<text x="510" y="123" font-family="DejaVu Sans" font-size="8.6" fill="#0E1F40" text-anchor="start" font-weight="normal">Two, one after the other</text>
+<text x="30" y="150" font-family="DejaVu Sans" font-size="8.4" fill="#334155" text-anchor="start" font-weight="bold">Products</text>
+<text x="140" y="150" font-family="DejaVu Sans" font-size="8.6" fill="#0E1F40" text-anchor="start" font-weight="normal">2 daughter cells</text>
+<text x="400" y="150" font-family="DejaVu Sans" font-size="8.4" fill="#334155" text-anchor="start" font-weight="bold">Products</text>
+<text x="510" y="150" font-family="DejaVu Sans" font-size="8.6" fill="#0E1F40" text-anchor="start" font-weight="normal">4 gametes</text>
+<text x="30" y="177" font-family="DejaVu Sans" font-size="8.4" fill="#334155" text-anchor="start" font-weight="bold">Chromosome number</text>
+<text x="140" y="177" font-family="DejaVu Sans" font-size="8.6" fill="#0E1F40" text-anchor="start" font-weight="normal">Same as the parent (2n → 2n)</text>
+<text x="400" y="177" font-family="DejaVu Sans" font-size="8.4" fill="#334155" text-anchor="start" font-weight="bold">Chromosome number</text>
+<text x="510" y="177" font-family="DejaVu Sans" font-size="8.6" fill="#0E1F40" text-anchor="start" font-weight="normal">Halved (2n → n)</text>
+<text x="30" y="204" font-family="DejaVu Sans" font-size="8.4" fill="#334155" text-anchor="start" font-weight="bold">Genetic result</text>
+<text x="140" y="204" font-family="DejaVu Sans" font-size="8.6" fill="#0E1F40" text-anchor="start" font-weight="normal">Identical to the parent</text>
+<text x="400" y="204" font-family="DejaVu Sans" font-size="8.4" fill="#334155" text-anchor="start" font-weight="bold">Genetic result</text>
+<text x="510" y="204" font-family="DejaVu Sans" font-size="8.6" fill="#0E1F40" text-anchor="start" font-weight="normal">All four different from each other</text>
+<text x="30" y="231" font-family="DejaVu Sans" font-size="8.4" fill="#334155" text-anchor="start" font-weight="bold">Crossing over</text>
+<text x="140" y="231" font-family="DejaVu Sans" font-size="8.6" fill="#0E1F40" text-anchor="start" font-weight="normal">Does not occur</text>
+<text x="400" y="231" font-family="DejaVu Sans" font-size="8.4" fill="#334155" text-anchor="start" font-weight="bold">Crossing over</text>
+<text x="510" y="231" font-family="DejaVu Sans" font-size="8.6" fill="#0E1F40" text-anchor="start" font-weight="normal">Occurs in prophase I</text>
+<text x="30" y="258" font-family="DejaVu Sans" font-size="8.4" fill="#334155" text-anchor="start" font-weight="bold">Purpose</text>
+<text x="140" y="258" font-family="DejaVu Sans" font-size="8.6" fill="#0E1F40" text-anchor="start" font-weight="normal">Growth and repair; asexual reproduction</text>
+<text x="400" y="258" font-family="DejaVu Sans" font-size="8.4" fill="#334155" text-anchor="start" font-weight="bold">Purpose</text>
+<text x="510" y="258" font-family="DejaVu Sans" font-size="8.6" fill="#0E1F40" text-anchor="start" font-weight="normal">Formation of gametes; variation</text>
+<text x="380" y="288" font-family="DejaVu Sans" font-size="8.2" fill="#64748B" text-anchor="middle" font-weight="normal">The one-line difference: meiosis halves the chromosome number and shuffles the genes; mitosis copies them.</text>
+</svg>

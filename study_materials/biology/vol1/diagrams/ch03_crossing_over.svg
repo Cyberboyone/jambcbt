@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="383.225044pt" height="164.088pt" viewBox="0 0 383.225044 164.088" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-10-29T11:50:24.211773</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 164.088 
+L 383.225044 164.088 
+L 383.225044 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="line2d_1">
+    <path d="M 51.3936 61.4619 
+L 331.2864 61.4619 
+" clip-path="url(#pb432d6c805)" style="fill: none; stroke: #2563eb; stroke-width: 5; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_2">
+    <path d="M 51.3936 98.8839 
+L 331.2864 98.8839 
+" clip-path="url(#pb432d6c805)" style="fill: none; stroke: #008751; stroke-width: 5; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_3">
+    <path d="M 158.1948 61.4619 
+L 224.4852 61.4619 
+" clip-path="url(#pb432d6c805)" style="fill: none; stroke: #008751; stroke-width: 5"/>
+   </g>
+   <g id="line2d_4">
+    <path d="M 158.1948 98.8839 
+L 224.4852 98.8839 
+" clip-path="url(#pb432d6c805)" style="fill: none; stroke: #2563eb; stroke-width: 5"/>
+   </g>
+   <g id="patch_2">
+    <path d="M 112.266979 116.1782 
+Q 134.444589 98.791974 155.654327 82.164514 
+" style="fill: none; stroke: #dc2626; stroke-width: 1.1; stroke-linecap: round"/>
+    <path d="M 152.061175 82.897493 
+L 155.654327 82.164514 
+L 154.084819 85.478823 
+" style="fill: none; stroke: #dc2626; stroke-width: 1.1; stroke-linecap: round"/>
+   </g>
+   <g id="text_1">
+    <text style="font-size: 8.2px; font-family: 'DejaVu Sans'; fill: #dc2626" transform="translate(53.247013 126.463658)">chiasma — the point</text>
+    <text style="font-size: 8.2px; font-family: 'DejaVu Sans'; fill: #dc2626" transform="translate(38.779778 136.3059)">where the chromatids cross</text>
+   </g>
+   <g id="patch_3">
+    <path d="M 106.127572 29.887507 
+Q 101.198996 43.426516 96.27042 56.965526 
+" style="fill: none; stroke: #64748b; stroke-width: 0.9; stroke-linecap: round"/>
+   </g>
+   <g id="text_2">
+    <text style="font-size: 8.2px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #2563eb" x="69.8076" y="24.0399" transform="rotate(-0 69.8076 24.0399)">paternal chromatid</text>
+   </g>
+   <g id="patch_4">
+    <path d="M 121.199389 126.670914 
+Q 109.107697 114.789175 97.016005 102.907436 
+" style="fill: none; stroke: #64748b; stroke-width: 0.9; stroke-linecap: round"/>
+   </g>
+   <g id="text_3">
+    <text style="font-size: 8.2px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #008751" x="88.2216" y="136.3059" transform="rotate(-0 88.2216 136.3059)">maternal chromatid</text>
+   </g>
+   <g id="text_4">
+    <text style="font-weight: 700; font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #0e1f40" x="261.3132" y="25.911" transform="rotate(-0 261.3132 25.911)">Crossing over in prophase I of meiosis</text>
+   </g>
+   <g id="text_5">
+    <text style="font-size: 8.4px; font-family: 'DejaVu Sans'; fill: #334155" transform="translate(146.601356 32.668603)">Sections of chromatid are exchanged, so each gamete</text>
+    <text style="font-size: 8.4px; font-family: 'DejaVu Sans'; fill: #334155" transform="translate(168.17295 42.7509)">carries a new mixture of the parents' genes.</text>
+   </g>
+   <g id="text_6">
+    <text style="font-size: 8.4px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #64748b" x="261.3132" y="136.3059" transform="rotate(-0 261.3132 136.3059)">This is the main source of genetic variation.</text>
+   </g>
+   <g id="line2d_5">
+    <path d="M 158.1948 98.8839 
+L 158.1948 61.4619 
+" clip-path="url(#pb432d6c805)" style="fill: none; stroke-dasharray: 2,2; stroke-dashoffset: 0; stroke: #334155"/>
+   </g>
+   <g id="line2d_6">
+    <path d="M 224.4852 98.8839 
+L 224.4852 61.4619 
+" clip-path="url(#pb432d6c805)" style="fill: none; stroke-dasharray: 2,2; stroke-dashoffset: 0; stroke: #334155"/>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="pb432d6c805">
+   <rect x="7.2" y="7.2" width="368.28" height="149.688"/>
+  </clipPath>
+ </defs>
+</svg>

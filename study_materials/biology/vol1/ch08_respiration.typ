@@ -1,63 +1,71 @@
 #import "template.typ": *
 
-#current-chapter.update("Chapter 8: Respiration and Gas Exchange")
+#current-chapter.update("Chapter 8: Respiration")
 #pagebreak()
 
 #chapter-opener(
   8,
   "Respiration and Gas Exchange",
-  subtitle: "Aerobic and Anaerobic Respiration, the Human Breathing System, the Mechanism of Breathing, and the Alveolus",
+  subtitle: "Aerobic and Anaerobic Respiration, the Alveolus, Breathing Movements, and the Difference Between Breathing and Respiration",
   syllabus-ref: "Sec. B • Topic 7",
   utme-weight: "2 Qs every year",
 )
 
 #focus-radar(
   objectives: (
-    "Distinguish respiration from breathing.",
-    "Write the equations for aerobic and anaerobic respiration, in animals and in yeast.",
-    "State the features of an efficient respiratory surface.",
-    "Label the human breathing system and explain the mechanism of inhalation and exhalation.",
-    "Explain oxygen debt and the after-effects of vigorous exercise.",
+    "Write the equation for aerobic respiration and give its site.",
+    "Compare aerobic with anaerobic respiration in muscle and in yeast.",
+    "Explain how the alveolus is adapted for gas exchange.",
+    "Describe the mechanism of breathing — inspiration and expiration.",
+    "Distinguish breathing from respiration, and respiration from photosynthesis.",
   ),
   hotspots: (
-    "\"The products of anaerobic respiration in muscle are …\" — lactic acid (and energy), no carbon dioxide.",
-    "\"In yeast, anaerobic respiration produces …\" — ethanol and carbon dioxide.",
-    "\"Gas exchange in the lungs occurs in the …\" — alveoli.",
-    "\"During inhalation the diaphragm …\" — contracts and flattens.",
-    "\"Respiration is a chemical process; breathing is a physical one.\"",
+    "\"Anaerobic respiration in human muscle produces …\" — lactic acid, not alcohol.",
+    "\"The products of anaerobic respiration in yeast are …\" — alcohol and carbon dioxide.",
+    "\"Gas exchange in the lungs takes place in the …\" — alveoli.",
+    "\"Which muscle contracts during inspiration?\" — the diaphragm and the intercostal muscles.",
+    "\"Why is the alveolus wall one cell thick?\" — short diffusion distance.",
   ),
-  trap-summary: "Three slips decide this chapter. (1) Writing that muscles produce alcohol — only *yeast* does; muscles produce *lactic acid*. (2) Saying breathing and respiration are the same — breathing moves air, respiration releases energy in cells. (3) Forgetting that anaerobic respiration releases *much less* energy than aerobic: about 2 ATP against roughly 36.",
+  trap-summary: "Three slips decide this chapter. (1) Writing that anaerobic respiration in *muscle* makes alcohol — it makes *lactic acid*; alcohol is the yeast product. (2) Confusing *breathing* (moving air in and out) with *respiration* (releasing energy from glucose in cells). (3) Forgetting that respiration happens *all the time*, in daylight as well as at night, in plants as well as in animals.",
 )
 
 // ============================================================================
 // SECTION 8.1
 // ============================================================================
-== 8.1 Two Processes With Similar Names
+== 8.1 What Respiration Is
 
-*Breathing* is the physical movement of air into and out of the lungs. *Respiration* is the chemical breakdown of food inside cells to release energy. One happens in the chest; the other happens in every living cell of the body.
+*Respiration* is the chemical breakdown of food — usually glucose — inside living cells, releasing energy. The energy is used for:
 
-#formula-box("The two equations")[
-  #text(font: "DejaVu Sans", size: 9.2pt, weight: "bold", fill: jamb-green)[Aerobic (with oxygen):]
-  #align(center)[
-    #text(size: 10.5pt)[glucose + oxygen → carbon dioxide + water + *energy*]
-  ]
-  #align(center)[
-    #text(size: 9.4pt, fill: jamb-slate)[$"C"_6 "H"_12 "O"_6 + 6 "O"_2 -> 6 "CO"_2 + 6 "H"_2 "O" + 36 "ATP"$ (approximately)]
-  ]
-  #v(3pt)
-  #text(font: "DejaVu Sans", size: 9.2pt, weight: "bold", fill: trap-red)[Anaerobic in muscle:]
-  #v(1pt)
-  #text(size: 10.5pt)[glucose → lactic acid + *a little energy*]
-  #v(3pt)
-  #text(font: "DejaVu Sans", size: 9.2pt, weight: "bold", fill: tip-amber)[Anaerobic in yeast (fermentation):]
-  #v(1pt)
-  #text(size: 10.5pt)[glucose → ethanol + carbon dioxide + *a little energy*]
+- *muscle contraction* and movement;
+- *active transport* across membranes;
+- *building large molecules* from small ones (protein synthesis, DNA replication);
+- *maintaining body temperature* in warm-blooded animals;
+- *transmitting nerve impulses*.
+
+#trap-box("Breathing is not respiration")[
+  *Breathing* (ventilation) is the mechanical movement of air into and out of the lungs. *Respiration* is the chemical reaction inside every cell. A dead body can be ventilated but cannot respire; a plant respires without breathing at all. Examiners use both words deliberately, and mixing them costs a mark every time.
 ]
 
-#v(2pt)
+// ============================================================================
+// SECTION 8.2
+// ============================================================================
+== 8.2 Aerobic and Anaerobic Respiration
+
+#diagram-fig("diagrams/ch08_respiration_compare.svg",
+  "Aerobic against anaerobic respiration: the equations, the energy yield, the sites and the products.")
+
+#formula-box("The two equations")[
+  *Aerobic:* glucose + oxygen → carbon dioxide + water + a large amount of energy
+
+  #align(center)[#text(font: "DejaVu Sans", size: 12pt, weight: "bold", fill: jamb-navy)[C₆H₁₂O₆ + 6O₂ → 6CO₂ + 6H₂O + energy]]
+
+  *Anaerobic, in muscle:* glucose → lactic acid + a small amount of energy
+
+  *Anaerobic, in yeast:* glucose → alcohol (ethanol) + carbon dioxide + a small amount of energy
+]
 
 #table(
-  columns: (1fr, 1.4fr, 1.4fr),
+  columns: (1.05fr, 1.45fr, 1.45fr),
   inset: 5.5pt,
   align: (left + horizon, left + horizon, left + horizon),
   stroke: 0.5pt + jamb-border,
@@ -68,166 +76,216 @@
     text(font: "DejaVu Sans", size: 8pt, weight: "bold", fill: white)[Anaerobic],
   ),
 
-  [Oxygen needed], [Yes], [No],
-  [Products in muscle], [$"CO"_2$ + water], [Lactic acid],
-  [Products in yeast], [$"CO"_2$ + water], [Ethanol + $"CO"_2$],
-  [Energy released], [Large (about 36 ATP)], [Small (about 2 ATP)],
-  [Where], [Mitochondria], [Cytoplasm],
-  [Duration], [Can continue indefinitely while food and oxygen last], [Short bursts only; lactic acid accumulates],
+  [Oxygen], [Required], [Not required],
+  [Site], [Cytoplasm, then mitochondria], [Cytoplasm only],
+  [Products], [Carbon dioxide and water], [Lactic acid (muscle) or alcohol + carbon dioxide (yeast)],
+  [Energy released], [Large — about 38 ATP per glucose], [Small — about 2 ATP per glucose],
+  [When it happens], [All the time, in every living cell], [When oxygen is in short supply],
+  [In humans], [Normal, everyday energy release], [During violent exercise, when the oxygen supply cannot keep up],
 )
 
-#v(4pt)
-
-#concept-box("Oxygen debt")[
-  During hard exercise the muscles cannot get oxygen fast enough, so they respire anaerobically and *lactic acid* builds up. The acid is what makes muscles ache and cramp. After exercise stops, the body keeps breathing fast to take in the oxygen needed to break the lactic acid down to carbon dioxide and water — the extra oxygen owed is the *oxygen debt*.
+#concept-box("Why we pant after running")[
+  During heavy exercise the muscles use oxygen faster than the blood can deliver it. They switch to anaerobic respiration and lactic acid accumulates. Lactic acid makes the muscle acidic and causes *cramp* and fatigue. After the exercise the body keeps breathing hard — *oxygen debt* — to supply the extra oxygen needed to break down the lactic acid and repay the debt.
 ]
 
 #worked-example(
   1,
-  "Why a sprinter gasps at the finish",
+  "Two yeast experiments",
   tier: "UTME STANDARD",
-  [After a 400 m race a runner breathes deeply for several minutes. Explain why, using the idea of oxygen debt.],
+  [Yeast is sealed in a flask with glucose solution and left for two days. State the products formed and explain how the apparatus could show them.]
+  ,
   [
-    During the race the leg muscles worked faster than the blood could supply oxygen, so they respired *anaerobically*, producing *lactic acid* and only a little energy.
+    In the absence of oxygen, yeast respires anaerobically: glucose is converted to *alcohol* and *carbon dioxide*, releasing a little energy.
 
-    Once the race is over, the lactic acid must be removed. The body oxidises it to carbon dioxide and water, and that requires oxygen — the *oxygen debt*. Deep, rapid breathing after the race repays the debt.
+    The carbon dioxide can be shown by bubbling the gas through limewater — it turns the limewater *milky*. The alcohol is detected by its smell, or by testing the liquid with acidified potassium dichromate, which turns from orange to green.
 
-    *Answer:* the extra breathing supplies the oxygen needed to oxidise the accumulated lactic acid.
+    *Answer:* alcohol and carbon dioxide; limewater for the carbon dioxide, the dichromate test or the smell for the alcohol.
+  ],
+)
+
+#worked-example(
+  2,
+  "Cramp explained",
+  tier: "JAMB CHALLENGE",
+  [A runner who has sprinted 400 metres suddenly develops a painful cramp. Explain the cause and say why continued gentle exercise relieves it.]
+  ,
+  [
+    During the sprint, the muscles respire anaerobically because oxygen cannot be delivered fast enough. Glucose is converted to *lactic acid*, which accumulates in the muscle cells.
+
+    The lactic acid lowers the pH of the muscle, impairing enzyme action and causing the painful contraction of cramp.
+
+    Continued gentle exercise keeps the blood flowing through the muscle, carrying the lactic acid away to the liver, where it is converted back to glucose using the extra oxygen taken in after the race — the *oxygen debt*. As the lactic acid is removed, the cramp eases.
+
+    *Answer:* lactic acid accumulation from anaerobic respiration; gentle exercise speeds its removal and repays the oxygen debt.
   ],
 )
 
 // ============================================================================
-// SECTION 8.2
-// ============================================================================
-== 8.2 Respiratory Surfaces
-
-#table(
-  columns: (1.25fr, 2.0fr),
-  inset: 5.5pt,
-  align: (left + horizon, left + horizon),
-  stroke: 0.5pt + jamb-border,
-  fill: (x, y) => if y == 0 { jamb-navy } else if calc.odd(y) { white } else { jamb-light },
-  table.header(
-    text(font: "DejaVu Sans", size: 8pt, weight: "bold", fill: white)[Feature],
-    text(font: "DejaVu Sans", size: 8pt, weight: "bold", fill: white)[Why it matters],
-  ),
-
-  [Large surface area], [More gas can diffuse in the same time],
-  [Thin (one cell thick)], [Short diffusion distance],
-  [Moist], [Gases must dissolve before they diffuse],
-  [Rich blood supply], [Maintains a steep concentration gradient],
-  [Permeable], [Gases can cross the surface],
-)
-
-#v(4pt)
-
-#diagram-fig("diagrams/ch08_alveolus.svg",
-  "An alveolus and its capillary. Oxygen diffuses one way, carbon dioxide the other — both down their concentration gradients.")
-
-// ============================================================================
 // SECTION 8.3
 // ============================================================================
-== 8.3 The Human Breathing System
+== 8.3 The Respiratory Surface
 
-#diagram-fig("diagrams/ch08_lungs.svg",
-  "The human breathing system: nose, trachea, bronchi, bronchioles and alveoli, with the rib cage and diaphragm below.")
-
-#table(
-  columns: (1.15fr, 2.0fr),
-  inset: 5.5pt,
-  align: (left + horizon, left + horizon),
-  stroke: 0.5pt + jamb-border,
-  fill: (x, y) => if y == 0 { jamb-navy } else if calc.odd(y) { white } else { jamb-light },
-  table.header(
-    text(font: "DejaVu Sans", size: 8pt, weight: "bold", fill: white)[Part],
-    text(font: "DejaVu Sans", size: 8pt, weight: "bold", fill: white)[Function],
-  ),
-
-  [*Nose*], [Warms, moistens and filters the incoming air; hairs trap dust],
-  [*Trachea*], [Carries air to the lungs; kept open by C-shaped rings of cartilage],
-  [*Bronchi*], [Two tubes, one to each lung],
-  [*Bronchioles*], [Fine branches that end in the alveoli],
-  [*Alveoli*], [The gas-exchange surface: about 300 million of them, giving a huge area],
-  [*Ribs and intercostal muscles*], [Move the rib cage up and out during inhalation],
-  [*Diaphragm*], [A sheet of muscle that flattens on inhalation, increasing the volume of the thorax],
-  [*Pleural membranes*], [Reduce friction between the lungs and the chest wall],
-)
-
-#v(4pt)
+An efficient respiratory surface has five properties, and the mammalian lung satisfies all five.
 
 #table(
-  columns: (1fr, 1.4fr, 1.4fr),
+  columns: (1.2fr, 1.6fr, 1.6fr),
   inset: 5.5pt,
   align: (left + horizon, left + horizon, left + horizon),
   stroke: 0.5pt + jamb-border,
   fill: (x, y) => if y == 0 { jamb-navy } else if calc.odd(y) { white } else { jamb-light },
   table.header(
-    text(font: "DejaVu Sans", size: 8pt, weight: "bold", fill: white)[Feature],
-    text(font: "DejaVu Sans", size: 8pt, weight: "bold", fill: white)[Inhalation],
-    text(font: "DejaVu Sans", size: 8pt, weight: "bold", fill: white)[Exhalation],
+    text(font: "DejaVu Sans", size: 8pt, weight: "bold", fill: white)[Property],
+    text(font: "DejaVu Sans", size: 8pt, weight: "bold", fill: white)[Why it matters],
+    text(font: "DejaVu Sans", size: 8pt, weight: "bold", fill: white)[How the alveolus achieves it],
+  ),
+
+  [Large surface area], [More gas can diffuse per unit time], [Hundreds of millions of alveoli, giving about 70 m²],
+  [Thin], [Short diffusion distance], [Wall one cell thick, in contact with a capillary wall one cell thick],
+  [Moist], [Gases must dissolve before they can diffuse], [A film of moisture lines every alveolus],
+  [Good blood supply], [Keeps a steep concentration gradient], [A dense network of capillaries surrounding each alveolus],
+  [Permeable], [Gas must cross easily], [Thin epithelium and capillary endothelium],
+)
+
+#diagram-fig("diagrams/ch08_alveolus.svg",
+  "An alveolus and its capillary. Oxygen diffuses into the blood; carbon dioxide diffuses out.")
+
+// ============================================================================
+// SECTION 8.4
+// ============================================================================
+== 8.4 Breathing Movements
+
+#table(
+  columns: (1.1fr, 1.6fr, 1.6fr),
+  inset: 5.5pt,
+  align: (left + horizon, left + horizon, left + horizon),
+  stroke: 0.5pt + jamb-border,
+  fill: (x, y) => if y == 0 { jamb-navy } else if calc.odd(y) { white } else { jamb-light },
+  table.header(
+    text(font: "DejaVu Sans", size: 8pt, weight: "bold", fill: white)[ ],
+    text(font: "DejaVu Sans", size: 8pt, weight: "bold", fill: white)[Inspiration (breathing in)],
+    text(font: "DejaVu Sans", size: 8pt, weight: "bold", fill: white)[Expiration (breathing out)],
   ),
 
   [Intercostal muscles], [Contract], [Relax],
   [Rib cage], [Moves up and out], [Moves down and in],
   [Diaphragm], [Contracts and flattens], [Relaxes and becomes domed],
-  [Volume of thorax], [Increases], [Decreases],
-  [Pressure in lungs], [Falls below atmospheric], [Rises above atmospheric],
-  [Air], [Flows in], [Flows out],
+  [Thoracic volume], [Increases], [Decreases],
+  [Pressure in the thorax], [Falls below atmospheric], [Rises above atmospheric],
+  [Air], [Rushes in], [Is forced out],
 )
 
-#v(4pt)
+#concept-box("Inflation without a pump")[
+  The lungs contain no muscle. They are inflated because the *rib cage* and *diaphragm* enlarge the thoracic cavity, lowering the pressure inside it below atmospheric pressure. Air is then pushed in by the higher pressure outside — the lungs are sucked open, not blown up. That is why a puncture wound to the chest makes breathing impossible: the pressure difference is lost.
+]
 
 #worked-example(
-  2,
-  "Breathing is not diffusion",
-  tier: "JAMB CHALLENGE",
-  [Explain why breathing movements are necessary even though gas exchange across the alveoli happens by diffusion.],
+  3,
+  "Which gas moves which way?",
+  tier: "FOUNDATION",
+  [State, with a reason, the direction in which oxygen and carbon dioxide move at the alveolus.]
+  ,
   [
-    Diffusion only works while a *concentration gradient* exists: oxygen must be richer in the alveolar air than in the blood, and carbon dioxide richer in the blood than in the air.
+    *Oxygen* moves from the *alveolus into the blood*, because the air in the alveolus has a higher oxygen concentration than the blood arriving at the lung.
 
-    If the air in the lungs were not replaced, oxygen would fall and carbon dioxide would rise until the gradients disappeared and exchange stopped. *Breathing* replaces the alveolar air, restoring the gradients.
+    *Carbon dioxide* moves from the *blood into the alveolus*, because the blood arriving from the tissues has a higher carbon dioxide concentration than the air in the lung.
 
-    *Answer:* breathing refreshes the air so that the concentration gradients needed for diffusion are maintained.
+    Both move by *diffusion*, down their concentration gradients. The blood supply continuously removes oxygen and brings fresh carbon dioxide, which is what keeps the gradients steep.
+
+    *Answer:* oxygen in, carbon dioxide out, both by diffusion down a concentration gradient.
   ],
 )
 
 // ============================================================================
-// SECTION 8.4 — CHECKLIST
+// SECTION 8.5
 // ============================================================================
-== 8.4 Chapter 8 Checklist
+== 8.5 Respiration in Plants
+
+Plants respire too — day and night, in every living cell. In daylight this is easy to miss, because photosynthesis is faster and its product, oxygen, masks the oxygen that respiration is using.
+
+#table(
+  columns: (1.2fr, 1.6fr, 1.6fr),
+  inset: 5.5pt,
+  align: (left + horizon, left + horizon, left + horizon),
+  stroke: 0.5pt + jamb-border,
+  fill: (x, y) => if y == 0 { jamb-navy } else if calc.odd(y) { white } else { jamb-light },
+  table.header(
+    text(font: "DejaVu Sans", size: 8pt, weight: "bold", fill: white)[ ],
+    text(font: "DejaVu Sans", size: 8pt, weight: "bold", fill: white)[Photosynthesis],
+    text(font: "DejaVu Sans", size: 8pt, weight: "bold", fill: white)[Respiration],
+  ),
+
+  [Raw materials], [Carbon dioxide and water], [Glucose and oxygen],
+  [Products], [Glucose and oxygen], [Carbon dioxide and water],
+  [Energy], [Light energy is *stored*], [Chemical energy is *released*],
+  [Light needed], [Yes], [No],
+  [Chlorophyll needed], [Yes], [No],
+  [When], [Only in daylight (or artificial light)], [All the time],
+  [Where], [Chloroplasts], [Cytoplasm and mitochondria],
+  [In plants], [Green parts only], [Every living cell, including roots],
+)
+
+#trap-box("“Plants photosynthesise by day and respire by night” — false")[
+  Plants respire *all the time*, exactly like animals. In daylight they carry out *both* processes at once; photosynthesis is simply faster, so the plant is a net *taker* of carbon dioxide and a net *giver* of oxygen. At night photosynthesis stops and only respiration continues, so the plant is then a net giver of carbon dioxide. This is the reason a plant in a sealed dark jar will kill a mouse — and the reason a sealed jar in sunlight will not.
+]
+
+#worked-example(
+  4,
+  "A sealed jar in the dark",
+  tier: "JAMB CHALLENGE",
+  [A green plant and a small animal are sealed together in a transparent jar and placed in bright sunlight. The animal survives. The jar is then covered with a thick cloth and the animal dies within a day. Explain both observations.]
+  ,
+  [
+    In *sunlight*, the plant photosynthesises faster than it respires. It releases more oxygen than it uses, and takes in more carbon dioxide than it produces. The animal therefore has a supply of oxygen and its carbon dioxide is removed. The two organisms are in balance, and the animal survives.
+
+    In *darkness*, photosynthesis stops but respiration continues in both organisms. Both now take in oxygen and release carbon dioxide, so the oxygen in the jar falls and the carbon dioxide rises until the animal suffocates.
+
+    *Answer:* in light the plant is a net oxygen producer; in darkness both organisms compete for the same limited oxygen.
+  ],
+)
+
+// ============================================================================
+// SECTION 8.6 — CHECKLIST
+// ============================================================================
+== 8.6 Chapter 8 Checklist
 
 #block(width: 100%, fill: white, stroke: 0.8pt + jamb-border, radius: 7pt, inset: 10pt)[
   I can …
   #v(3pt)
-  + distinguish breathing from respiration in one sentence each;
-  + write the equations for aerobic and for both kinds of anaerobic respiration;
-  + name the products in muscle and in yeast, and say where each occurs;
-  + list the five features of an efficient respiratory surface;
-  + label the breathing system and describe inhalation and exhalation;
-  + explain oxygen debt and why the breathing rate stays high after exercise.
+  + define respiration and state four uses of the energy released;
+  + write the equation for aerobic respiration and for both kinds of anaerobic respiration;
+  + compare aerobic and anaerobic respiration in a table of six rows;
+  + explain oxygen debt and cramp;
+  + state the five properties of a good respiratory surface and how the alveolus achieves each;
+  + describe inspiration and expiration, naming the muscles and the pressure changes;
+  + explain why plants respire all the time and how that differs from photosynthesis.
 ]
 
 #block(width: 100%, fill: jamb-mint, stroke: 0.9pt + jamb-green, radius: 7pt, inset: 10pt)[
   #text(font: "DejaVu Sans", size: 9.2pt, weight: "bold", fill: jamb-green)[Chapter 8 in one breath]
   #v(3pt)
   #text(size: 10.1pt)[
-    Breathing brings air; respiration releases energy. With oxygen you get carbon dioxide, water and about thirty-six units of energy; without it, muscle makes lactic acid and yeast makes alcohol. Breathing exists only to keep the gradients at the alveoli steep.
+    Respiration releases energy from glucose; with oxygen it makes carbon dioxide and water and a lot of energy, without oxygen it makes lactic acid in muscle or alcohol in yeast and very little. The alveolus is thin, moist, wet, well supplied and enormous in total area; breathing merely moves the air across it.
   ]
 ]
 
 #diagram-fig("diagrams/recap_ch08.svg",
-  "Chapter 8 recap card: the equations, the surface features and the breathing mechanism.", width: 62%)
+  "Chapter 8 recap card: aerobic and anaerobic respiration, the alveolus, and breathing versus respiration.", width: 100%)
 
 // ============================================================================
-// SECTION 8.5 — TWO-MINUTE SET
+// SECTION 8.7 — TWO-MINUTE SET
 // ============================================================================
-== 8.5 Chapter 8 in the Exam Hall — a Two-Minute Set
+== 8.7 Chapter 8 in the Exam Hall — a Two-Minute Set
 
 Four questions of the kind the CBT engine starts a paper with. Ninety seconds each; the answers and full working follow the drill.
 
-#mcq(1, [Anaerobic respiration in human muscle produces], [ethanol and carbon dioxide], [lactic acid], [carbon dioxide and water], [glucose and oxygen])
-#mcq(2, [Gas exchange in the lungs takes place in the], [trachea], [bronchi], [bronchioles], [alveoli])
-#mcq(3, [During inhalation, the diaphragm], [relaxes and becomes domed], [contracts and flattens], [contracts and becomes domed], [moves upwards])
-#mcq(4, [Anaerobic respiration in yeast produces], [lactic acid], [ethanol and carbon dioxide], [carbon dioxide and water], [only energy])
+#block(breakable: false)[
+#mcq(1, [Anaerobic respiration in human muscle produces], [alcohol and carbon dioxide], [lactic acid], [carbon dioxide and water], [glucose and oxygen])
+#mcq(2, [Gas exchange in the lungs takes place in the], [bronchi], [trachea], [alveoli], [pleura])
+#mcq(3, [During inspiration the diaphragm], [relaxes and becomes domed], [contracts and flattens], [contracts and becomes domed], [does not move])
+#mcq(4, [Which statement about plants is correct?], [They respire only at night], [They photosynthesise and respire in daylight], [They do not respire], [They respire only in the dark])
 
-#answer-key-grid(("B", "D", "B", "B"))
+#answer-key-grid(("B", "C", "B", "B"))
+]
+
+
+#include "drill_ch08.typ"

@@ -9,7 +9,7 @@ from __future__ import annotations
 import matplotlib.pyplot as plt
 from matplotlib.patches import Circle, Ellipse, FancyBboxPatch, Polygon, Rectangle, Wedge
 
-from common import (OUT, GREEN, GREEN_BRIGHT, GREEN_LIGHT, GREEN_MID, NAVY, SLATE,
+from common import (recap_card, OUT, GREEN, GREEN_BRIGHT, GREEN_LIGHT, GREEN_MID, NAVY, SLATE,
                     MUTED, BORDER, AMBER, AMBER_LIGHT, RED, RED_LIGHT, BLUE,
                     BLUE_LIGHT, PURPLE, PURPLE_LIGHT, write_svg, svg, t, lines,
                     rect, arrow, line, card, save)
@@ -296,18 +296,8 @@ def ch02_levels():
 
 
 def recap_cards():
-    def card_(name, title, rows):
-        w, h = 700, 210
-        b = [t(350, 26, title, size=13, weight="bold", fill=NAVY)]
-        y = 46
-        for head, body in rows:
-            b.append(rect(18, y, 664, 34, "#FFFFFF", GREEN, 6, 1.1))
-            b.append(t(30, y + 15, head, size=9.2, weight="bold", fill=GREEN, anchor="start"))
-            b.append(t(30, y + 29, body, size=8.8, fill=SLATE, anchor="start"))
-            y += 40
-        b.append(t(350, 200, "Say each line aloud once; if you can say it, you can answer it.",
-                    size=8.2, fill=MUTED))
-        write_svg(name, svg(w, h, "\n".join(b)))
+    from common import recap_card
+    card_ = recap_card
 
     card_("recap_ch01.svg", "Chapter 1 recap card — the variety of living things", [
         ("Seven characteristics", "Movement, respiration, sensitivity, growth, reproduction, excretion, nutrition (MRS GREN)."),

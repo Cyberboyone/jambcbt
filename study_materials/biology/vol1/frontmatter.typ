@@ -367,7 +367,8 @@
   [*Checklist*], [“I can …” statements for the chapter.], [Tick only what you can do without the book. Everything else is tonight's revision.],
   [*Recap card*], [Four lines that summarise the whole chapter.], [Say them aloud at the end of the week; if you stumble, reread that section.],
   [*Two-minute set*], [Four CBT-style questions with a key immediately after.], [Time yourself. Ninety seconds each is the real pace.],
-  [*Drill*], [Thirty to fifty questions with keys, a question map and full solutions.], [Do it in one sitting, mark it, then read every solution — including the ones you got right.],
+  [*Drill*], [Thirty questions with a key, a score band and a full solution for every item.], [Do it in one sitting, mark it, then read every solution — including the ones you got right.],
+  [*Mock paper*], [Forty questions in forty minutes, with key, score band, question map and solutions.], [Sit it under exam conditions. The question map turns your score into a revision plan.],
 )
 
 #v(6pt)

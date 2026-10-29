@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 214" width="700" height="214">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 470 199" width="470" height="199">
   <defs>
     <marker id="ag" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
       <path d="M 0 1 L 10 5 L 0 9 z" fill="#008751"/>
@@ -13,19 +13,18 @@
       <path d="M 0 1 L 10 5 L 0 9 z" fill="#DC2626"/>
     </marker>
   </defs>
-  <rect x="0" y="0" width="700" height="214" fill="#FFFFFF"/>
-<text x="350" y="26" font-family="DejaVu Sans" font-size="13" fill="#0E1F40" text-anchor="middle" font-weight="bold">Chapter 8 recap card — respiration and gas exchange</text>
-<rect x="18" y="44" width="664" height="34" rx="6" fill="#FFFFFF" stroke="#008751" stroke-width="1.1"/>
-<text x="30" y="59" font-family="DejaVu Sans" font-size="9.2" fill="#008751" text-anchor="start" font-weight="bold">Aerobic</text>
-<text x="30" y="73" font-family="DejaVu Sans" font-size="8.6" fill="#334155" text-anchor="start" font-weight="normal">Glucose + oxygen → CO₂ + water + ~36 ATP; the everyday route.</text>
-<rect x="18" y="84" width="664" height="34" rx="6" fill="#FFFFFF" stroke="#008751" stroke-width="1.1"/>
-<text x="30" y="99" font-family="DejaVu Sans" font-size="9.2" fill="#008751" text-anchor="start" font-weight="bold">Anaerobic in muscle</text>
-<text x="30" y="113" font-family="DejaVu Sans" font-size="8.6" fill="#334155" text-anchor="start" font-weight="normal">Glucose → lactic acid + ~2 ATP; brief, builds an oxygen debt.</text>
-<rect x="18" y="124" width="664" height="34" rx="6" fill="#FFFFFF" stroke="#008751" stroke-width="1.1"/>
-<text x="30" y="139" font-family="DejaVu Sans" font-size="9.2" fill="#008751" text-anchor="start" font-weight="bold">Anaerobic in yeast</text>
-<text x="30" y="153" font-family="DejaVu Sans" font-size="8.6" fill="#334155" text-anchor="start" font-weight="normal">Glucose → ethanol + CO₂ + ~2 ATP; fermentation.</text>
-<rect x="18" y="164" width="664" height="34" rx="6" fill="#FFFFFF" stroke="#008751" stroke-width="1.1"/>
-<text x="30" y="179" font-family="DejaVu Sans" font-size="9.2" fill="#008751" text-anchor="start" font-weight="bold">Breathing</text>
-<text x="30" y="193" font-family="DejaVu Sans" font-size="8.6" fill="#334155" text-anchor="start" font-weight="normal">Ribs and diaphragm change volume and pressure; keeps alveolar gradients steep.</text>
-<text x="350" y="202" font-family="DejaVu Sans" font-size="8.2" fill="#64748B" text-anchor="middle" font-weight="normal">Say each line aloud once; if you can say it, you can answer it.</text>
+  <rect x="0" y="0" width="470" height="199" fill="#FFFFFF"/>
+<text x="235.0" y="21" font-family="DejaVu Sans" font-size="11.8" fill="#0E1F40" text-anchor="middle" font-weight="bold">Chapter 8 recap card — respiration</text>
+<rect x="12" y="33" width="446" height="35.6" rx="6" fill="#FFFFFF" stroke="#008751" stroke-width="1.1"/>
+<text x="24" y="48" font-family="DejaVu Sans" font-size="10.6" fill="#008751" text-anchor="start" font-weight="bold">Aerobic</text>
+<text x="24" y="60.6" font-family="DejaVu Sans" font-size="9.6" fill="#334155" text-anchor="start" font-weight="normal">Glucose + oxygen → CO₂ + water + much energy; mitochondria.</text>
+<rect x="12" y="73.6" width="446" height="35.6" rx="6" fill="#FFFFFF" stroke="#008751" stroke-width="1.1"/>
+<text x="24" y="88.6" font-family="DejaVu Sans" font-size="10.6" fill="#008751" text-anchor="start" font-weight="bold">Anaerobic</text>
+<text x="24" y="101.19999999999999" font-family="DejaVu Sans" font-size="9.6" fill="#334155" text-anchor="start" font-weight="normal">Glucose → lactic acid (muscle) or alcohol + CO₂ (yeast); little energy.</text>
+<rect x="12" y="114.19999999999999" width="446" height="35.6" rx="6" fill="#FFFFFF" stroke="#008751" stroke-width="1.1"/>
+<text x="24" y="129.2" font-family="DejaVu Sans" font-size="10.6" fill="#008751" text-anchor="start" font-weight="bold">Alveolus</text>
+<text x="24" y="141.79999999999998" font-family="DejaVu Sans" font-size="9.6" fill="#334155" text-anchor="start" font-weight="normal">Thin wall, large area, moist, good blood supply — four adaptations.</text>
+<rect x="12" y="154.79999999999998" width="446" height="35.6" rx="6" fill="#FFFFFF" stroke="#008751" stroke-width="1.1"/>
+<text x="24" y="169.79999999999998" font-family="DejaVu Sans" font-size="10.6" fill="#008751" text-anchor="start" font-weight="bold">Breathing vs respiration</text>
+<text x="24" y="182.39999999999998" font-family="DejaVu Sans" font-size="9.6" fill="#334155" text-anchor="start" font-weight="normal">Breathing moves air; respiration releases energy in cells.</text>
 </svg>

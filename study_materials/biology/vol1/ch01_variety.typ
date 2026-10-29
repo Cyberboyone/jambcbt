@@ -323,7 +323,7 @@ Every species has one internationally agreed name, made of two Latin words: the 
 ]
 
 #diagram-fig("diagrams/recap_ch01.svg",
-  "Chapter 1 recap card: the seven characteristics, the five kingdoms, the virus and the binomial name.", width: 66%)
+  "Chapter 1 recap card: the seven characteristics, the five kingdoms, the virus and the binomial name.", width: 100%)
 
 // ============================================================================
 // SECTION 1.7 — TWO-MINUTE SET
@@ -332,9 +332,14 @@ Every species has one internationally agreed name, made of two Latin words: the 
 
 Four questions of the kind the CBT engine starts a paper with. Ninety seconds each; the answers and full working follow the drill.
 
+#block(breakable: false)[
 #mcq(1, [Organisms whose cells lack a true nucleus belong to the kingdom], [Protista], [Monera], [Fungi], [Plantae])
 #mcq(2, [Which of the following is *not* a characteristic of living things?], [Excretion], [Respiration], [Crystallisation], [Irritability])
 #mcq(3, [The correct way to write the scientific name of maize is], [*Zea Mays*], [*zea mays*], [*Zea mays*], [*ZEA MAYS*])
 #mcq(4, [Viruses are best described as], [prokaryotic cells], [obligate intracellular parasites], [unicellular fungi], [bacteria without cell walls])
 
 #answer-key-grid(("B", "C", "C", "B"))
+]
+
+
+#include "drill_ch01.typ"

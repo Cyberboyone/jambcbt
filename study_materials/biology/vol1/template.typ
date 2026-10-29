@@ -450,7 +450,7 @@
 }
 
 // ── Quick Answer Key Grid ──────────────────────────────────────────────────
-#let answer-key-grid(answers) = {
+#let answer-key-grid(answers, label: "✓ QUICK SELF-CHECK ANSWER KEY") = {
   block(
     breakable: false,
     width: 100%,
@@ -459,7 +459,7 @@
     radius: 7pt,
     inset: 10pt,
   )[
-    #text(font: "DejaVu Sans", size: 9.8pt, weight: "bold", fill: jamb-green)[✓ QUICK SELF-CHECK ANSWER KEY]
+    #text(font: "DejaVu Sans", size: 9.8pt, weight: "bold", fill: jamb-green)[#label]
     #v(5pt)
     #grid(
       columns: (1fr, 1fr, 1fr, 1fr, 1fr, 1fr),
@@ -485,12 +485,17 @@
 }
 
 // ── Step-by-Step Solution Item for Drill / Mock Questions ──────────────────
-#let sol-item(num, ans, body) = {
-  v(3pt, weak: true)
+#let sol-item(num, ans, body, dense: false) = {
+  v(if dense { 1pt } else { 3pt }, weak: true)
   block(
     width: 100%,
     stroke: (left: 3pt + jamb-bright, bottom: 0.5pt + jamb-border),
-    inset: (left: 10pt, top: 4pt, bottom: 6pt, right: 4pt),
+    inset: (
+      left: 10pt,
+      top: if dense { 2pt } else { 4pt },
+      bottom: if dense { 3pt } else { 6pt },
+      right: 4pt,
+    ),
   )[
     #box(
       fill: jamb-mint,

@@ -268,7 +268,7 @@ Cells do not work alone in a large organism. They are grouped into tissues, tiss
 ]
 
 #diagram-fig("diagrams/recap_ch02.svg",
-  "Chapter 2 recap card: prokaryote against eukaryote, plant against animal, organelle jobs and the levels of organisation.", width: 66%)
+  "Chapter 2 recap card: prokaryote against eukaryote, plant against animal, organelle jobs and the levels of organisation.", width: 100%)
 
 // ============================================================================
 // SECTION 2.7 — TWO-MINUTE SET
@@ -277,9 +277,14 @@ Cells do not work alone in a large organism. They are grouped into tissues, tiss
 
 Four questions of the kind the CBT engine starts a paper with. Ninety seconds each; the answers and full working follow the drill.
 
+#block(breakable: false)[
 #mcq(1, [The site of aerobic respiration in a cell is the], [nucleus], [mitochondrion], [ribosome], [Golgi apparatus])
 #mcq(2, [Which structure is found in a plant cell but not in an animal cell?], [Ribosome], [Chloroplast], [Mitochondrion], [Nucleus])
 #mcq(3, [The organelle that packages and secretes proteins is the], [Golgi apparatus], [lysosome], [ribosome], [vacuole])
 #mcq(4, [A prokaryotic cell lacks], [ribosomes], [a cell membrane], [membrane-bound organelles], [DNA])
 
 #answer-key-grid(("B", "B", "A", "C"))
+]
+
+
+#include "drill_ch02.typ"

@@ -6,178 +6,47 @@
 #chapter-opener(
   3,
   "Cell Division",
-  subtitle: "Chromosomes, the Cell Cycle, Mitosis Stage by Stage, Meiosis and Crossing Over, and Why the Two Kinds of Division Exist",
+  subtitle: "Why Cells Divide, the Stages of Mitosis, Meiosis I and II, Crossing Over, Chromosome Numbers, and the Consequences of Getting It Wrong",
   syllabus-ref: "Sec. B • Topic 2",
   utme-weight: "1–2 Qs every year",
 )
 
 #focus-radar(
   objectives: (
-    "Define chromosome, chromatid, centromere, diploid and haploid.",
-    "Describe the stages of mitosis in order and say what happens in each.",
-    "Describe meiosis I and II, including crossing over and independent assortment.",
+    "State why cells divide and name the two kinds of division.",
+    "Describe the behaviour of the chromosomes in each stage of mitosis.",
+    "Explain meiosis as two divisions that halve the chromosome number.",
     "State the chromosome number of the products of mitosis and of meiosis.",
-    "Give the significance of mitosis and of meiosis in one line each.",
+    "Explain how crossing over and independent assortment produce variation.",
   ),
   hotspots: (
-    "\"The number of chromosomes in each daughter cell after mitosis is …\" — the same as the parent cell ($2n$).",
-    "\"After meiosis the chromosome number is …\" — halved ($n$); that is the point of meiosis.",
-    "\"Crossing over occurs at …\" — prophase I of meiosis, between homologous chromosomes.",
-    "\"The stage at which chromosomes line up at the equator is …\" — metaphase.",
-    "\"Mitosis is important for …\" — growth, repair and asexual reproduction.",
+    "\"The number of chromosomes in each daughter cell after mitosis is …\" — the same as the parent cell.",
+    "\"After meiosis the chromosome number is …\" — halved; four cells, each with n.",
+    "\"Crossing over occurs during …\" — prophase I of meiosis.",
+    "\"A human cell with 46 chromosomes divides by meiosis. Each product has …\" — 23.",
+    "\"Which stage shows chromosomes lined up at the equator?\" — metaphase.",
   ),
-  trap-summary: "Three slips decide this chapter. (1) Saying meiosis produces *two* cells — it produces *four*. (2) Confusing the *number* of chromosomes with the number of *chromatids*: after replication each chromosome has two chromatids but is still one chromosome. (3) Writing that mitosis halves the chromosome number — it does the opposite: it keeps it constant.",
+  trap-summary: "Three slips decide this chapter. (1) Saying meiosis makes “two cells” — it makes *four*, because there are two divisions. (2) Writing that the chromosome number doubles in mitosis — it does not; the DNA replicates first, then the copies separate, so each daughter has the *same* number. (3) Confusing the products of mitosis (identical) with those of meiosis (all different).",
 )
 
 // ============================================================================
 // SECTION 3.1
 // ============================================================================
-== 3.1 Chromosomes and the Cell Cycle
+== 3.1 Why Cells Divide
 
-A *chromosome* is a thread-like structure in the nucleus that carries the genes. In a non-dividing cell the chromosomes are long, thin threads called *chromatin*; just before division they shorten and thicken, and each becomes visible as two identical strands — two *chromatids* — joined at a point called the *centromere*.
+A cell cannot grow indefinitely: as it enlarges, its surface area grows more slowly than its volume, so it can no longer take in food and get rid of waste fast enough. The remedy is *division* — one cell becomes two, each with a full set of instructions and a workable size.
 
-#table(
-  columns: (1.1fr, 2.2fr),
-  inset: 5.5pt,
-  align: (left + horizon, left + horizon),
-  stroke: 0.5pt + jamb-border,
-  fill: (x, y) => if y == 0 { jamb-navy } else if calc.odd(y) { white } else { jamb-light },
-  table.header(
-    text(font: "DejaVu Sans", size: 8pt, weight: "bold", fill: white)[Term],
-    text(font: "DejaVu Sans", size: 8pt, weight: "bold", fill: white)[Meaning],
-  ),
+Cells divide for three reasons:
 
-  [*Chromosome*], [A DNA-containing structure in the nucleus that carries genes.],
-  [*Chromatid*], [One of the two identical strands of a replicated chromosome, joined at the centromere.],
-  [*Centromere*], [The point at which the two chromatids are joined and to which spindle fibres attach.],
-  [*Homologous chromosomes*], [A matching pair — one from each parent — carrying genes for the same features.],
-  [*Diploid ($2n$)*], [Having two sets of chromosomes, i.e. both members of every homologous pair. Human body cells are $2n = 46$.],
-  [*Haploid ($n$)*], [Having one set only — one chromosome of each pair. Human gametes are $n = 23$.],
-)
++ *growth* — an organism gets bigger by making more cells, not by making bigger ones;
++ *repair and replacement* — worn-out cells (skin, red blood cells, gut lining) are replaced continuously;
++ *reproduction* — in unicellular organisms, division *is* reproduction; in multicellular organisms, special cells divide to make gametes.
 
-#v(5pt)
+#concept-box("Two divisions, two jobs")[
+  *Mitosis* makes body cells that are genetically identical to the parent — used for growth, repair and asexual reproduction.
 
-#concept-box("Every number in this chapter comes from one sentence")[
-  *Mitosis keeps the chromosome number the same; meiosis halves it.* Everything else — the four cells, the crossing over, the variation — follows from that single difference in purpose: mitosis makes more of the same cell, meiosis makes gametes.
+  *Meiosis* makes gametes (sperm, eggs, pollen) that carry *half* the chromosomes — used only for sexual reproduction. Without meiosis, the chromosome number would double in every generation.
 ]
-
-// ============================================================================
-// SECTION 3.2
-// ============================================================================
-== 3.2 Mitosis
-
-Mitosis is division that produces *two genetically identical daughter cells*, each with the *same* chromosome number as the parent. It is the division used for growth, for repair of damaged tissues, and for asexual reproduction.
-
-#diagram-fig("diagrams/ch03_mitosis.svg",
-  "Mitosis in four stages. The chromosomes condense, line up at the equator, separate to opposite poles, and two nuclei re-form.")
-
-#table(
-  columns: (1fr, 2.3fr),
-  inset: 5.5pt,
-  align: (left + horizon, left + horizon),
-  stroke: 0.5pt + jamb-border,
-  fill: (x, y) => if y == 0 { jamb-navy } else if calc.odd(y) { white } else { jamb-light },
-  table.header(
-    text(font: "DejaVu Sans", size: 8pt, weight: "bold", fill: white)[Stage],
-    text(font: "DejaVu Sans", size: 8pt, weight: "bold", fill: white)[What happens],
-  ),
-
-  [*Interphase*], [Not part of mitosis. The cell grows, the DNA replicates, and the organelles double.],
-  [*Prophase*], [Chromosomes shorten and thicken and become visible as two chromatids; the nuclear membrane begins to break down; spindle fibres form.],
-  [*Metaphase*], [Chromosomes line up along the *equator* of the cell; spindle fibres attach to the centromeres.],
-  [*Anaphase*], [The centromeres split and the chromatids are pulled to *opposite poles*; each chromatid is now a chromosome.],
-  [*Telophase*], [The chromosomes reach the poles, uncoil, and a *new nuclear membrane* forms around each group.],
-  [*Cytokinesis*], [The cytoplasm divides: a cell plate forms in plants, a cleavage furrow in animals. Two daughter cells result.],
-)
-
-#v(5pt)
-
-#shortcut-box("The four words that answer any stage question")[
-  *Prophase* — appear. *Metaphase* — middle. *Anaphase* — apart. *Telophase* — two nuclei. If you can say those four phrases, you can name the stage from any description, drawing or photograph.
-]
-
-#worked-example(
-  1,
-  "Chromosome counting after mitosis",
-  tier: "FOUNDATION",
-  [A body cell of an organism has 24 chromosomes. How many chromosomes will each daughter cell have after mitosis, and why?],
-  [
-    Mitosis produces two daughter cells, each with the *same* number of chromosomes as the parent cell.
-
-    During interphase each chromosome replicates into two chromatids; in anaphase the chromatids separate, so each daughter receives one copy of every chromosome.
-
-    *Answer:* 24 chromosomes in each daughter cell.
-  ],
-)
-
-// ============================================================================
-// SECTION 3.3
-// ============================================================================
-== 3.3 Meiosis
-
-Meiosis is division that produces *four haploid cells* from one diploid cell. It happens only in the reproductive organs, and it makes *gametes* (sperm and egg cells in animals; pollen and egg cells in plants). It is a *reduction division*: the chromosome number is halved.
-
-#diagram-fig("diagrams/ch03_meiosis.svg",
-  "Meiosis: one diploid cell gives four haploid cells through two divisions, with crossing over in prophase I.")
-
-#table(
-  columns: (1fr, 2.3fr),
-  inset: 5.5pt,
-  align: (left + horizon, left + horizon),
-  stroke: 0.5pt + jamb-border,
-  fill: (x, y) => if y == 0 { jamb-navy } else if calc.odd(y) { white } else { jamb-light },
-  table.header(
-    text(font: "DejaVu Sans", size: 8pt, weight: "bold", fill: white)[Stage],
-    text(font: "DejaVu Sans", size: 8pt, weight: "bold", fill: white)[What happens],
-  ),
-
-  [*Prophase I*], [Homologous chromosomes pair up (*synapsis*) and exchange segments — *crossing over* — producing new combinations of genes.],
-  [*Metaphase I*], [The homologous *pairs* line up at the equator.],
-  [*Anaphase I*], [The homologous chromosomes separate to opposite poles; the centromeres do *not* split.],
-  [*Telophase I*], [Two haploid cells form (each chromosome still has two chromatids).],
-  [*Meiosis II*], [The two cells divide again, in a division like mitosis: chromatids separate, giving *four haploid cells* in all.],
-)
-
-#v(5pt)
-
-#concept-box("Two sources of variation in meiosis")[
-  *Crossing over* in prophase I swaps segments between homologous chromosomes, so each chromosome carries a mixture of maternal and paternal genes.
-
-  *Independent assortment* in metaphase I arranges each homologous pair randomly, so the two gametes receive random mixes of the parent's chromosomes. With 23 pairs, a human can produce $2^23$ different gametes from this alone — about eight million.
-]
-
-#worked-example(
-  2,
-  "Chromosome counting after meiosis",
-  tier: "UTME STANDARD",
-  [A cell with 46 chromosomes undergoes meiosis. State the number of cells produced and the chromosome number of each.],
-  [
-    Meiosis consists of *two* divisions. One diploid cell gives *four* haploid cells.
-
-    The chromosome number is halved once, in meiosis I, when the homologous chromosomes separate. Meiosis II separates chromatids but does not halve the number again.
-
-    *Answer:* four cells, each with 23 chromosomes.
-  ],
-)
-
-#worked-example(
-  3,
-  "Which division is it?",
-  tier: "JAMB CHALLENGE",
-  [In a certain tissue, one cell divides and the two daughter cells each contain 12 chromosomes, exactly as the parent did. Name the type of division and state one function it serves in that organism.],
-  [
-    The daughter cells have the *same* chromosome number as the parent (12), and there are *two* of them. That is the signature of *mitosis*.
-
-    Meiosis would have given four cells with half the number (6).
-
-    *Answer:* mitosis; it serves growth, repair of tissues, or asexual reproduction, depending on the organ.
-  ],
-)
-
-// ============================================================================
-// SECTION 3.4
-// ============================================================================
-== 3.4 Mitosis and Meiosis Compared
 
 #table(
   columns: (1fr, 1.4fr, 1.4fr),
@@ -186,58 +55,184 @@ Meiosis is division that produces *four haploid cells* from one diploid cell. It
   stroke: 0.5pt + jamb-border,
   fill: (x, y) => if y == 0 { jamb-navy } else if calc.odd(y) { white } else { jamb-light },
   table.header(
-    text(font: "DejaVu Sans", size: 8pt, weight: "bold", fill: white)[Feature],
+    text(font: "DejaVu Sans", size: 8pt, weight: "bold", fill: white)[Where it happens],
     text(font: "DejaVu Sans", size: 8pt, weight: "bold", fill: white)[Mitosis],
     text(font: "DejaVu Sans", size: 8pt, weight: "bold", fill: white)[Meiosis],
   ),
 
-  [Number of divisions], [One], [Two],
-  [Daughter cells], [Two], [Four],
-  [Chromosome number], [Same as the parent ($2n$)], [Half the parent ($n$)],
-  [Genetic result], [Identical to the parent], [Genetically different],
-  [Crossing over], [None], [In prophase I],
-  [Where it occurs], [Body (somatic) cells], [Reproductive organs],
-  [Function], [Growth, repair, asexual reproduction], [Formation of gametes, variation],
+  [Site], [All body (somatic) cells], [Reproductive organs — testes, ovaries, anthers],
+  [Number of divisions], [One], [Two, one after the other],
+  [Number of products], [Two], [Four],
+  [Chromosome number in products], [Same as the parent ($2n$)], [Halved ($n$)],
+  [Genetic result], [Identical to the parent], [All four different from one another],
+  [Crossing over], [Does not occur], [Occurs in prophase I],
+  [Purpose], [Growth, repair, asexual reproduction], [Formation of gametes; variation],
 )
 
-#v(4pt)
+// ============================================================================
+// SECTION 3.2
+// ============================================================================
+== 3.2 The Cell Cycle
 
-#trap-box("The four-cell trap")[
-  A question that says "a cell divides to form four cells" is *always* meiosis. A question that says "two identical cells" is *always* mitosis. Read the number of products before you read anything else — it settles the question in one second.
+Before a cell divides it must copy everything it needs. The *cell cycle* has two main phases:
+
+- *interphase* — the cell is not dividing; it grows, makes proteins and *replicates its DNA*. Interphase occupies by far the largest part of the cycle and is subdivided into G₁ (growth), S (synthesis of DNA) and G₂ (further growth and preparation).
+- *M phase* — mitosis (nuclear division) followed by *cytokinesis* (division of the cytoplasm).
+
+#block(width: 100%, fill: jamb-mint, stroke: 0.9pt + jamb-green, radius: 7pt, inset: 10pt)[
+  #text(font: "DejaVu Sans", size: 9.2pt, weight: "bold", fill: jamb-green)[The one fact most candidates miss]
+  #v(3pt)
+  #text(size: 10pt)[
+    DNA replication happens in *interphase*, not during mitosis. By the time prophase begins, each chromosome is already a pair of identical *chromatids* joined at a *centromere*. The whole of mitosis is the orderly *separation* of copies that were made earlier.
+  ]
 ]
+
+#diagram-fig("diagrams/ch03_mitosis.svg",
+  "The stages of mitosis. Learn the chromosome behaviour at each stage, because the exam asks “what happens in …?” far more often than it asks for a definition.")
+
+// ============================================================================
+// SECTION 3.3
+// ============================================================================
+== 3.3 Mitosis, Stage by Stage
+
+#table(
+  columns: (1fr, 2.6fr),
+  inset: 5.5pt,
+  align: (left + horizon, left + horizon),
+  stroke: 0.5pt + jamb-border,
+  fill: (x, y) => if y == 0 { jamb-navy } else if calc.odd(y) { white } else { jamb-light },
+  table.header(
+    text(font: "DejaVu Sans", size: 8pt, weight: "bold", fill: white)[Stage],
+    text(font: "DejaVu Sans", size: 8pt, weight: "bold", fill: white)[What happens],
+  ),
+
+  [*Interphase*], [DNA replicates; the cell grows and makes proteins. Chromosomes are long, thin threads and cannot be seen individually.],
+  [*Prophase*], [Chromosomes shorten and thicken and become visible as pairs of chromatids. The nuclear membrane breaks down and the nucleolus disappears. Spindle fibres begin to form.],
+  [*Metaphase*], [Chromosomes line up along the *equator* of the cell. Spindle fibres from opposite poles attach to the centromeres.],
+  [*Anaphase*], [The centromeres split; the two chromatids of each chromosome separate and are pulled to opposite poles. Each pole now has a full set.],
+  [*Telophase*], [Chromosomes uncoil and lengthen again; a nuclear membrane forms around each set; the nucleolus reappears.],
+  [*Cytokinesis*], [The cytoplasm divides — by a furrow in animal cells, by a new cell plate in plant cells — giving two separate daughter cells.],
+)
+
+#shortcut-box("The four words that answer any stage question")[
+  Prophase — *visible*. Metaphase — *middle*. Anaphase — *away*. Telophase — *two*. If you can say that sequence, you can place any event in the right stage.
+]
+
+#worked-example(
+  1,
+  "Counting chromosomes through mitosis",
+  tier: "FOUNDATION",
+  [A body cell of a rat contains 42 chromosomes. State the number of chromosomes in (a) the cell at the end of interphase, (b) each cell after mitosis.]
+  ,[
+    (a) At the end of interphase the DNA has replicated, so there are still 42 *chromosomes*, but each now consists of two chromatids joined at a centromere. The chromosome number does not double — only the amount of DNA does.
+
+    (b) After mitosis each daughter cell receives one chromatid from each chromosome, so it has 42 chromosomes — exactly the same as the parent.
+
+    *Answer:* (a) 42; (b) 42 in each cell.
+  ],
+)
+
+#worked-example(
+  2,
+  "Where is mitosis fastest?",
+  tier: "UTME STANDARD",
+  [Name two tissues in a mammal where mitosis occurs rapidly and explain why.]
+  ,
+  [
+    The *lining of the small intestine* — cells are constantly worn away by abrasive food, so they must be replaced continuously.
+
+    The *skin (epidermis)* — surface cells are rubbed off and must be replaced from the basal layer.
+
+    Other acceptable answers: the bone marrow (red blood cells are made there and live only about 120 days), the root tip of a plant, or the meristem at a shoot tip.
+
+    *Rule:* mitosis is fastest where cells are lost fastest or where growth is happening.
+  ],
+)
+
+// ============================================================================
+// SECTION 3.4
+// ============================================================================
+== 3.4 Meiosis
+
+Meiosis is *two* divisions in sequence, and it halves the chromosome number.
+
+#block(width: 100%, fill: jamb-light, stroke: 0.7pt + jamb-border, radius: 7pt, inset: 10pt)[
+  #text(font: "DejaVu Sans", size: 9.2pt, weight: "bold", fill: jamb-navy)[The two divisions]
+  #v(4pt)
+  #text(size: 10pt)[
+    *Meiosis I (the reduction division).* The *homologous* chromosomes pair up (one from each parent), crossing over occurs in prophase I, then the pairs line up at the equator and separate — one whole chromosome of each pair to each pole. The chromosome number is halved here.
+
+    *Meiosis II.* No replication takes place. The two cells divide again, this time separating the chromatids exactly as in mitosis. The result is four haploid cells.
+  ]
+]
+
+#diagram-fig("diagrams/ch03_crossing_over.svg",
+  "Crossing over in prophase I. Sections of chromatid are exchanged between homologous chromosomes, so each gamete carries a new combination of the parents' genes.")
+
+#diagram-fig("diagrams/ch03_meiosis_compare.svg",
+  "Mitosis and meiosis side by side — the comparison table an examiner can turn into a six-mark question.")
+
+#worked-example(
+  3,
+  "Chromosome bookkeeping",
+  tier: "UTME STANDARD",
+  [A human cell with 46 chromosomes undergoes meiosis. State the number of cells produced and the chromosome number in each. Then state what would happen to the chromosome number if gametes were formed by mitosis instead.]
+  ,
+  [
+    Meiosis involves two divisions, so *four* cells are produced. Each receives one chromosome from each homologous pair, so each has *23* chromosomes.
+
+    If gametes were formed by mitosis, each would have 46. At fertilisation the zygote would have 92 chromosomes, and the number would double again in the next generation. Meiosis exists precisely to prevent that doubling.
+
+    *Answer:* four cells, 23 chromosomes each; without meiosis the chromosome number would double every generation.
+  ],
+  source: "JAMB 2020 style",
+)
+
+#worked-example(
+  4,
+  "Why siblings are not identical",
+  tier: "JAMB CHALLENGE",
+  [Two children of the same parents are not genetically identical. Explain, using meiosis, why not.]
+  ,
+  [
+    Three processes in meiosis shuffle the genes.
+
+    *Crossing over* in prophase I exchanges sections between homologous chromosomes, so each chromosome entering a gamete is a mixture of the grandparents' genes.
+
+    *Independent assortment* in metaphase I: each pair of homologous chromosomes lines up independently of the others, so the 23 pairs can be distributed in $2^23$ different combinations.
+
+    *Random fertilisation*: any one of millions of sperm may fuse with any one egg.
+
+    *Answer:* crossing over, independent assortment and random fertilisation together mean that no two gametes are alike, so no two offspring are alike.
+  ],
+)
 
 // ============================================================================
 // SECTION 3.5
 // ============================================================================
-== 3.5 Chromosome Numbers Worth Knowing
+== 3.5 Why Division Sometimes Goes Wrong
+
+Cell division is controlled by genes. If the genes that regulate the cycle are damaged — by radiation, certain chemicals, some viruses, or simply by copying errors — a cell may divide without limit. The result is a *tumour*; if the cells invade other tissues, it is *cancer*.
 
 #table(
-  columns: (1.4fr, auto, 1.4fr, auto),
+  columns: (1.15fr, 2.4fr),
   inset: 5.5pt,
-  align: (left + horizon, center + horizon, left + horizon, center + horizon),
+  align: (left + horizon, left + horizon),
   stroke: 0.5pt + jamb-border,
   fill: (x, y) => if y == 0 { jamb-navy } else if calc.odd(y) { white } else { jamb-light },
   table.header(
-    text(font: "DejaVu Sans", size: 8pt, weight: "bold", fill: white)[Organism],
-    text(font: "DejaVu Sans", size: 8pt, weight: "bold", fill: white)[Body cell ($2n$)],
-    text(font: "DejaVu Sans", size: 8pt, weight: "bold", fill: white)[Organism],
-    text(font: "DejaVu Sans", size: 8pt, weight: "bold", fill: white)[Body cell ($2n$)],
+    text(font: "DejaVu Sans", size: 8pt, weight: "bold", fill: white)[Condition],
+    text(font: "DejaVu Sans", size: 8pt, weight: "bold", fill: white)[What has gone wrong],
   ),
 
-  [Human], [46], [Maize], [20],
-  [Housefly], [12], [Onion], [16],
-  [Dog], [78], [Rice], [24],
-  [Fruit fly], [8], [Garden pea], [14],
+  [*Cancer*], [Cells divide uncontrollably because the genes controlling the cell cycle are mutated; the cells do not differentiate and may spread.],
+  [*Benign tumour*], [A mass of cells that grows but does not spread to other tissues.],
+  [*Malignant tumour*], [Cells break away, enter the blood or lymph and form secondary tumours elsewhere — metastasis.],
+  [*Non-disjunction*], [During meiosis a pair of chromosomes fails to separate, so one gamete has an extra chromosome and another has one too few. Down syndrome (three copies of chromosome 21) is the classic example.],
 )
 
-#v(4pt)
-
-#block(width: 100%, fill: jamb-mint, stroke: 0.9pt + jamb-green, radius: 7pt, inset: 10pt)[
-  #text(font: "DejaVu Sans", size: 9.2pt, weight: "bold", fill: jamb-green)[The rule, whichever number is given]
-  #v(3pt)
-  #text(size: 10pt)[
-    Gamete (after meiosis) $= 2n div 2$. Zygote (after fertilisation) $= n + n = 2n$. A cell after mitosis $= 2n$ again. Every chromosome-number question in the paper is one of those three lines.
-  ]
+#trap-box("“Meiosis makes two cells” — the commonest error in this chapter")[
+  Meiosis has *two* divisions, so it produces *four* cells. Candidates who write "two" lose the mark even when the chromosome number is right. Say it out loud: *two divisions, four cells, half the chromosomes*.
 ]
 
 // ============================================================================
@@ -248,25 +243,25 @@ Meiosis is division that produces *four haploid cells* from one diploid cell. It
 #block(width: 100%, fill: white, stroke: 0.8pt + jamb-border, radius: 7pt, inset: 10pt)[
   I can …
   #v(3pt)
-  + define chromosome, chromatid, centromere, diploid and haploid;
-  + name the stages of mitosis in order and describe each in one line;
-  + name the stages of meiosis and say where crossing over occurs;
-  + state the number and chromosome content of the products of each division;
-  + give two differences between mitosis and meiosis without hesitating;
-  + explain why meiosis produces variation and mitosis does not;
-  + work out the chromosome number of a gamete from the body-cell number.
+  + state three reasons why cells divide;
+  + describe what happens in interphase, prophase, metaphase, anaphase and telophase;
+  + explain the difference between mitosis and meiosis in a table of at least six rows;
+  + calculate the chromosome number of the products of either division from the parent number;
+  + explain crossing over and independent assortment, and link both to variation;
+  + explain what non-disjunction is and give one example;
+  + say why a gamete formed by mitosis would be a disaster for the species.
 ]
 
 #block(width: 100%, fill: jamb-mint, stroke: 0.9pt + jamb-green, radius: 7pt, inset: 10pt)[
   #text(font: "DejaVu Sans", size: 9.2pt, weight: "bold", fill: jamb-green)[Chapter 3 in one breath]
   #v(3pt)
   #text(size: 10.1pt)[
-    Mitosis copies: two cells, same number, identical. Meiosis shuffles and halves: four cells, half the number, all different. Crossing over in prophase I is where the variety comes from.
+    Mitosis copies: one cell into two identical cells, the chromosome number unchanged, for growth and repair. Meiosis halves and shuffles: one cell into four different gametes, half the chromosomes, for reproduction and variation. Everything else in the chapter is detail hanging on those two sentences.
   ]
 ]
 
 #diagram-fig("diagrams/recap_ch03.svg",
-  "Chapter 3 recap card: the stages, the numbers and the two purposes.", width: 62%)
+  "Chapter 3 recap card: mitosis, meiosis, chromosome numbers and the sources of variation.", width: 100%)
 
 // ============================================================================
 // SECTION 3.7 — TWO-MINUTE SET
@@ -275,9 +270,14 @@ Meiosis is division that produces *four haploid cells* from one diploid cell. It
 
 Four questions of the kind the CBT engine starts a paper with. Ninety seconds each; the answers and full working follow the drill.
 
-#mcq(1, [A body cell with 24 chromosomes divides by mitosis. Each daughter cell will contain], [12 chromosomes], [24 chromosomes], [48 chromosomes], [6 chromosomes])
-#mcq(2, [Crossing over takes place during], [prophase of mitosis], [anaphase I of meiosis], [prophase I of meiosis], [telophase II of meiosis])
-#mcq(3, [The number of cells produced when one cell undergoes meiosis is], [two], [three], [four], [eight])
-#mcq(4, [Mitosis is important because it], [halves the chromosome number], [produces gametes], [produces genetically identical cells for growth and repair], [introduces variation])
+#block(breakable: false)[
+#mcq(1, [A cell with 24 chromosomes divides by mitosis. Each daughter cell will contain], [$12$ chromosomes], [$24$ chromosomes], [$48$ chromosomes], [$6$ chromosomes])
+#mcq(2, [Crossing over takes place during], [prophase I of meiosis], [metaphase of mitosis], [anaphase II of meiosis], [telophase of mitosis])
+#mcq(3, [Meiosis in a human male produces], [two cells with 46 chromosomes], [four cells with 23 chromosomes], [four cells with 46 chromosomes], [two cells with 23 chromosomes])
+#mcq(4, [The stage at which chromosomes line up at the equator is], [prophase], [anaphase], [telophase], [metaphase])
 
-#answer-key-grid(("B", "C", "C", "C"))
+#answer-key-grid(("B", "A", "B", "D"))
+]
+
+
+#include "drill_ch03.typ"

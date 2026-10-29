@@ -6,186 +6,186 @@
 #chapter-opener(
   10,
   "Support and Movement",
-  subtitle: "The Human Skeleton, Bones and Cartilage, the Four Kinds of Joint, Antagonistic Muscles, and How Plants Stand Up Without a Skeleton",
+  subtitle: "The Mammalian Skeleton, Bones and Joints, Antagonistic Muscles, Movement in Plants, and the Biology of the Human Frame",
   syllabus-ref: "Sec. B • Topic 9",
   utme-weight: "1–2 Qs every year",
 )
 
 #focus-radar(
   objectives: (
-    "State the five functions of the human skeleton.",
-    "Name the main parts of the axial and appendicular skeleton.",
+    "State the five functions of the mammalian skeleton.",
+    "Name the main regions of the skeleton and one bone in each.",
     "Classify joints and give an example of each type.",
-    "Label a synovial joint and explain the role of cartilage, fluid and ligaments.",
     "Explain how antagonistic muscles move a bone.",
-    "Explain how herbaceous plants are supported.",
+    "Explain how plants are supported without a skeleton.",
+    "Describe the effects of exercise and of a poor diet on the skeleton.",
   ),
   hotspots: (
-    "\"Which of these is a hinge joint?\" — elbow or knee (one plane only).",
-    "\"The shoulder is an example of a …\" — ball-and-socket joint.",
-    "\"Muscles are attached to bones by …\" — tendons.",
-    "\"Bones are attached to bones by …\" — ligaments.",
-    "\"Herbaceous plants are supported mainly by …\" — turgidity of their cells.",
+    "\"The knee is an example of a … joint\" — hinge.",
+    "\"The shoulder is an example of a … joint\" — ball-and-socket.",
+    "\"Which of these is a function of the skeleton?\" — support, protection, movement, blood cell formation, mineral storage.",
+    "\"Muscles are described as antagonistic because …\" — one contracts while the other relaxes to reverse the movement.",
+    "\"Plants are supported by …\" — turgor pressure and lignified xylem.",
   ),
-  trap-summary: "Three slips decide this chapter. (1) Swapping tendon and ligament — *tendons* join muscle to bone, *ligaments* join bone to bone. (2) Saying one muscle can push a bone back — muscles can only *pull*, which is exactly why they work in antagonistic pairs. (3) Writing that plants are supported by their *cell walls* alone — in herbaceous plants the support comes mainly from *turgor pressure* inside the cells.",
+  trap-summary: "Three slips decide this chapter. (1) Forgetting that bones *make blood cells* — the red bone marrow is a function of the skeleton as well as a support. (2) Saying a muscle can push — muscles can only *pull*, which is exactly why they work in antagonistic pairs. (3) Describing plant support only as “turgor” — lignified xylem and supporting tissues matter too, and a three-mark question usually wants both.",
 )
 
 // ============================================================================
 // SECTION 10.1
 // ============================================================================
-== 10.1 Why Support Matters
+== 10.1 The Mammalian Skeleton
 
-An organism needs support to hold its shape against gravity, to keep its organs in place, and to give muscles something to pull against. Animals with hard skeletons can grow large; plants solve the same problem with rigid walls and water pressure.
+The human skeleton has about 206 bones and does five jobs.
 
 #table(
-  columns: (1fr, 1.4fr, 1.4fr),
+  columns: (1.2fr, 2.3fr),
   inset: 5.5pt,
-  align: (left + horizon, left + horizon, left + horizon),
+  align: (left + horizon, left + horizon),
   stroke: 0.5pt + jamb-border,
   fill: (x, y) => if y == 0 { jamb-navy } else if calc.odd(y) { white } else { jamb-light },
   table.header(
     text(font: "DejaVu Sans", size: 8pt, weight: "bold", fill: white)[Function],
-    text(font: "DejaVu Sans", size: 8pt, weight: "bold", fill: white)[The skeleton does it by …],
-    text(font: "DejaVu Sans", size: 8pt, weight: "bold", fill: white)[Example],
+    text(font: "DejaVu Sans", size: 8pt, weight: "bold", fill: white)[Explanation],
   ),
 
-  [Support], [Holding the body up and keeping its shape], [Vertebral column holds the trunk upright],
-  [Protection], [Enclosing delicate organs in bone], [Skull protects the brain; ribs protect the heart and lungs],
-  [Movement], [Providing levers that muscles pull], [The forearm is a lever moved by the biceps],
-  [Mineral store], [Holding calcium and phosphorus], [Bones release calcium when blood calcium falls],
-  [Blood cell production], [Red marrow makes blood cells], [Red bone marrow in the femur and ribs],
+  [*Support*], [Holds the body upright and gives it shape; the vertebral column is the central pillar],
+  [*Protection*], [The skull protects the brain, the rib cage the heart and lungs, the vertebral column the spinal cord],
+  [*Movement*], [Bones act as levers; muscles pull on them at joints to produce movement],
+  [*Blood cell formation*], [Red bone marrow makes red blood cells, white blood cells and platelets],
+  [*Mineral storage*], [Bones store calcium and phosphorus, releasing them when the body needs them],
+)
+
+#diagram-fig("diagrams/ch10_skeleton.svg",
+  "The main regions of the human skeleton, with the joints marked.")
+
+#table(
+  columns: (1.15fr, 2.35fr),
+  inset: 5.5pt,
+  align: (left + horizon, left + horizon),
+  stroke: 0.5pt + jamb-border,
+  fill: (x, y) => if y == 0 { jamb-navy } else if calc.odd(y) { white } else { jamb-light },
+  table.header(
+    text(font: "DejaVu Sans", size: 8pt, weight: "bold", fill: white)[Region],
+    text(font: "DejaVu Sans", size: 8pt, weight: "bold", fill: white)[Bones],
+  ),
+
+  [Axial skeleton — skull], [Cranium (brain case), facial bones, jaw (mandible)],
+  [Axial skeleton — vertebral column], [Cervical, thoracic, lumbar, sacral and caudal vertebrae; protects the spinal cord and supports the head],
+  [Axial skeleton — rib cage], [Ribs, sternum (breastbone); protects heart and lungs and assists breathing],
+  [Appendicular — pectoral girdle], [Clavicle (collar bone) and scapula (shoulder blade)],
+  [Appendicular — forelimb], [Humerus, radius, ulna, carpals, metacarpals, phalanges],
+  [Appendicular — pelvic girdle], [Pelvis; supports the abdominal organs and transmits weight to the legs],
+  [Appendicular — hind limb], [Femur, tibia, fibula, tarsals, metatarsals, phalanges],
 )
 
 // ============================================================================
 // SECTION 10.2
 // ============================================================================
-== 10.2 The Human Skeleton
+== 10.2 Joints
 
-#diagram-fig("diagrams/ch10_skeleton.svg",
-  "The human skeleton: the axial skeleton (skull, vertebral column, ribs, sternum) and the appendicular skeleton (limbs and girdles).")
-
-#table(
-  columns: (1.15fr, 1.9fr),
-  inset: 5.5pt,
-  align: (left + horizon, left + horizon),
-  stroke: 0.5pt + jamb-border,
-  fill: (x, y) => if y == 0 { jamb-navy } else if calc.odd(y) { white } else { jamb-light },
-  table.header(
-    text(font: "DejaVu Sans", size: 8pt, weight: "bold", fill: white)[Part],
-    text(font: "DejaVu Sans", size: 8pt, weight: "bold", fill: white)[Bones],
-  ),
-
-  [*Skull*], [Cranium (brain case) and facial bones],
-  [*Vertebral column*], [33 vertebrae: 7 cervical, 12 thoracic, 5 lumbar, 5 sacral (fused), 4 coccygeal (fused)],
-  [*Thoracic cage*], [12 pairs of ribs and the sternum],
-  [*Pectoral girdle*], [Clavicle and scapula, with the humerus, radius, ulna and hand bones],
-  [*Pelvic girdle*], [Hip bones, with the femur, tibia, fibula and foot bones],
-)
-
-#v(4pt)
-
-#concept-box("Bone and cartilage")[
-  *Bone* is living tissue: cells (osteocytes) in a hard matrix of calcium salts and collagen, with blood vessels and nerves running through it. *Cartilage* is softer and flexible, with no blood vessels; it covers the ends of bones at joints and forms the discs between vertebrae. A child's skeleton is mostly cartilage, which is why young bones bend rather than break.
-]
-
-// ============================================================================
-// SECTION 10.3
-// ============================================================================
-== 10.3 Joints
-
-A *joint* is a place where two bones meet. Joints are classified by how much they move.
+A *joint* is the place where two bones meet. Joints are classified by how much and what kind of movement they allow.
 
 #diagram-fig("diagrams/ch10_joints.svg",
-  "The four movable joints — hinge, ball-and-socket, pivot and gliding — and the movements each allows.")
+  "Three kinds of joint: hinge, ball-and-socket and gliding.")
 
 #table(
-  columns: (1.1fr, 1.2fr, 1.2fr, 1.3fr),
+  columns: (1.05fr, 1.2fr, 1.2fr, 1.6fr),
   inset: 5.5pt,
   align: (left + horizon, left + horizon, left + horizon, left + horizon),
   stroke: 0.5pt + jamb-border,
   fill: (x, y) => if y == 0 { jamb-navy } else if calc.odd(y) { white } else { jamb-light },
   table.header(
-    text(font: "DejaVu Sans", size: 7.8pt, weight: "bold", fill: white)[Type],
-    text(font: "DejaVu Sans", size: 7.8pt, weight: "bold", fill: white)[Movement],
-    text(font: "DejaVu Sans", size: 7.8pt, weight: "bold", fill: white)[Example],
-    text(font: "DejaVu Sans", size: 7.8pt, weight: "bold", fill: white)[Examiner's phrase],
+    text(font: "DejaVu Sans", size: 8pt, weight: "bold", fill: white)[Type],
+    text(font: "DejaVu Sans", size: 8pt, weight: "bold", fill: white)[Movement],
+    text(font: "DejaVu Sans", size: 8pt, weight: "bold", fill: white)[Examples],
+    text(font: "DejaVu Sans", size: 8pt, weight: "bold", fill: white)[How it is built],
   ),
 
-  [*Fibrous (immovable)*], [None], [Sutures of the skull], [Bones fused by fibres],
-  [*Cartilaginous (slightly movable)*], [Small], [Between vertebrae], [Discs of cartilage],
-  [*Hinge*], [One plane only], [Elbow, knee], [Allows bending and straightening],
-  [*Ball-and-socket*], [All directions], [Shoulder, hip], [Widest range of movement],
-  [*Pivot*], [Rotation], [Between atlas and axis], [Turning the head],
-  [*Gliding*], [Sliding], [Between carpals and tarsals], [Flat surfaces sliding over each other],
+  [*Hinge*], [In one plane only], [Knee, elbow, ankle, finger joints], [One bone with a convex surface fits a concave socket; ligaments limit movement to one direction],
+  [*Ball-and-socket*], [In every direction, including rotation], [Shoulder, hip], [A rounded head sits in a cup-shaped socket],
+  [*Gliding*], [Limited sliding movement], [Between vertebrae, between wrist bones], [Flat surfaces slide over one another],
+  [*Pivot*], [Rotation about an axis], [Between the atlas and axis (top of the neck)], [A peg rotating inside a ring],
+  [*Fixed (immovable)*], [None], [Sutures between the skull bones], [Bones interlocked and fused],
 )
 
-#v(4pt)
+#shortcut-box("Learning the examples is the mark")[
+  The examiner does not usually ask you to describe a hinge joint; they ask *“which of these is a hinge joint?”* and give you a list. Learn the pairs: *knee and elbow = hinge*, *shoulder and hip = ball-and-socket*, *vertebrae = gliding*, *skull = fixed*.
+]
 
-#table(
-  columns: (1.2fr, 2.0fr),
-  inset: 5.5pt,
-  align: (left + horizon, left + horizon),
-  stroke: 0.5pt + jamb-border,
-  fill: (x, y) => if y == 0 { jamb-navy } else if calc.odd(y) { white } else { jamb-light },
-  table.header(
-    text(font: "DejaVu Sans", size: 8pt, weight: "bold", fill: white)[Part of a synovial joint],
-    text(font: "DejaVu Sans", size: 8pt, weight: "bold", fill: white)[Role],
-  ),
+#worked-example(
+  1,
+  "Why the knee and the shoulder are different",
+  tier: "FOUNDATION",
+  [State two differences between the knee joint and the shoulder joint.]
+  ,
+  [
+    The *knee* is a hinge joint: it allows movement in only one plane — bending and straightening. The *shoulder* is a ball-and-socket joint: it allows movement in every direction, including rotation.
 
-  [*Articular cartilage*], [Smooth and slightly springy; reduces friction and absorbs shock],
-  [*Synovial fluid*], [Lubricates the joint and nourishes the cartilage],
-  [*Joint capsule*], [Holds the bones together and encloses the fluid],
-  [*Ligaments*], [Strong, slightly elastic; join bone to bone and prevent dislocation],
+    The knee is formed where the convex end of the femur meets the tibia with a small socket, and strong ligaments restrict its movement. The shoulder is formed where the rounded head of the humerus fits into the shallow cup of the scapula.
+
+    *Answer:* one-plane against all-plane movement, and a restricted hinge against a ball in a socket.
+  ],
 )
 
 // ============================================================================
-// SECTION 10.4
+// SECTION 10.3
 // ============================================================================
-== 10.4 Muscles and Movement
+== 10.3 Muscles and Movement
 
-#diagram-fig("diagrams/ch10_muscles.svg",
-  "The biceps and triceps at the elbow: an antagonistic pair. One contracts while the other relaxes, and the forearm swings on the joint as a lever.")
+Muscles are the engines of movement. They are attached to bone by tough cords called *tendons*, and they work in *antagonistic pairs*: while one contracts, the other relaxes.
+
+#diagram-fig("diagrams/ch10_muscle.svg",
+  "Antagonistic muscles at the elbow, and the three kinds of muscle.")
+
+#block(width: 100%, fill: jamb-mint, stroke: 0.9pt + jamb-green, radius: 7pt, inset: 10pt)[
+  #text(font: "DejaVu Sans", size: 9.2pt, weight: "bold", fill: jamb-green)[Why antagonists are necessary]
+  #v(3pt)
+  #text(size: 10pt)[
+    A muscle can only *pull* when it contracts — it cannot push. To straighten a limb again, a second muscle on the other side of the bone must pull it back. The pair works as antagonists: the *biceps* (flexor) bends the arm, the *triceps* (extensor) straightens it. When one contracts, the other relaxes. This one fact explains why skeletons need *two* muscles at every joint.
+  ]
+]
 
 #table(
-  columns: (1fr, 1.5fr, 1.5fr),
+  columns: (1.15fr, 1.5fr, 1.35fr),
   inset: 5.5pt,
   align: (left + horizon, left + horizon, left + horizon),
   stroke: 0.5pt + jamb-border,
   fill: (x, y) => if y == 0 { jamb-navy } else if calc.odd(y) { white } else { jamb-light },
   table.header(
-    text(font: "DejaVu Sans", size: 8pt, weight: "bold", fill: white)[Structure],
-    text(font: "DejaVu Sans", size: 8pt, weight: "bold", fill: white)[Made of],
-    text(font: "DejaVu Sans", size: 8pt, weight: "bold", fill: white)[Joins],
+    text(font: "DejaVu Sans", size: 8pt, weight: "bold", fill: white)[Kind of muscle],
+    text(font: "DejaVu Sans", size: 8pt, weight: "bold", fill: white)[Where it is found],
+    text(font: "DejaVu Sans", size: 8pt, weight: "bold", fill: white)[Voluntary?],
   ),
 
-  [*Muscle*], [Bundles of muscle fibres that shorten when stimulated], [Muscle to bone, by tendon],
-  [*Tendon*], [Dense, inelastic connective tissue], [Muscle to bone],
-  [*Ligament*], [Strong, slightly elastic tissue], [Bone to bone],
+  [Skeletal (striated)], [Attached to bones — arms, legs, trunk], [Voluntary — under conscious control],
+  [Smooth (unstriated)], [Walls of the gut, blood vessels, bladder, uterus], [Involuntary — not under conscious control],
+  [Cardiac], [The heart only], [Involuntary — never tires, works for life],
 )
 
-#v(4pt)
-
 #worked-example(
-  1,
-  "The biceps and triceps",
+  2,
+  "Tendon or ligament?",
   tier: "UTME STANDARD",
-  [Describe what happens to the biceps and the triceps when the elbow bends and when it straightens.],
+  [Distinguish between a tendon and a ligament, and state the function of each.]
+  ,
   [
-    When the elbow *bends*, the *biceps* contracts and shortens, pulling the radius upwards; the *triceps* relaxes and lengthens.
+    A *tendon* joins a *muscle to a bone*. It is made of strong, inelastic collagen fibres, and its job is to transmit the pull of the muscle to the bone so that movement is produced.
 
-    When the elbow *straightens*, the reverse happens: the *triceps* contracts and pulls the ulna downwards, and the *biceps* relaxes.
+    A *ligament* joins a *bone to a bone* at a joint. It is slightly elastic, and its job is to hold the joint together and prevent it from moving too far in the wrong direction.
 
-    Neither muscle can push. Each only pulls, and the pull is reversed by its antagonist — which is why they are called an *antagonistic pair*.
+    *Answer:* tendon = muscle to bone, transmits force; ligament = bone to bone, stabilises the joint.
   ],
 )
 
 // ============================================================================
-// SECTION 10.5
+// SECTION 10.4
 // ============================================================================
-== 10.5 Support in Plants
+== 10.4 Support in Plants
+
+Plants have no bones and no muscles, yet a maize plant stands two metres tall and an iroko tree stands thirty.
 
 #table(
-  columns: (1.2fr, 2.0fr),
+  columns: (1.2fr, 2.3fr),
   inset: 5.5pt,
   align: (left + horizon, left + horizon),
   stroke: 0.5pt + jamb-border,
@@ -195,25 +195,60 @@ A *joint* is a place where two bones meet. Joints are classified by how much the
     text(font: "DejaVu Sans", size: 8pt, weight: "bold", fill: white)[How it works],
   ),
 
-  [*Turgor pressure*], [Water-filled cells press their contents against the cell walls, making the tissue firm — the main support of herbaceous plants],
-  [*Xylem*], [Thick, lignin-reinforced walls form a rigid internal skeleton in stems and roots],
-  [*Collenchyma*], [Living cells with thickened corners, giving flexible support to young stems and leaves],
-  [*Sclerenchyma*], [Dead cells with thick lignified walls — the hardest support in woody plants],
+  [Turgor pressure], [Water-filled cells press outwards against their cellulose walls, making the tissue firm. This is why herbaceous plants wilt when short of water and recover when watered],
+  [Lignified xylem], [The walls of xylem vessels are thickened with lignin, forming a rigid internal skeleton. This is why a woody stem can stand even when the tree is dead],
+  [Collenchyma], [Cells with thickened corners, giving flexible support to growing stems and leaf stalks],
+  [Sclerenchyma], [Cells with thick lignified walls, giving hard, rigid support],
+  [Root system], [Anchors the plant in the soil and resists wind and water],
+  [Buttress roots and prop roots], [Wide, flattened roots that steady tall tropical trees such as the silk cotton tree],
 )
-
-#v(4pt)
 
 #worked-example(
-  2,
-  "Why a plant wilts but does not collapse",
+  3,
+  "Why a herbaceous plant wilts",
   tier: "JAMB CHALLENGE",
-  [A herbaceous plant left without water droops but does not immediately break. Explain why, and why it would break if the water shortage continued.],
+  [A tomato plant on a hot afternoon becomes limp, but recovers overnight. Explain both stages.]
+  ,
   [
-    The plant's support comes mainly from *turgor pressure*: water-filled cells press against their walls and hold the stem upright. Without water the cells lose turgor (*flaccidity*), and the soft tissues droop — this is *wilting*.
+    On a hot afternoon the rate of *transpiration* exceeds the rate at which the roots can absorb water. The cells lose water, their *turgor pressure* falls, and the walls can no longer be held rigid — the stem and leaves droop. The plant has wilted.
 
-    Wilting is a *reversible* response: it reduces transpiration by reducing the leaf area exposed, and the plant recovers if water returns. If the shortage continues, the cells die and the *xylem and sclerenchyma* that hold the stem rigid are left unsupported and brittle, so the stem can break.
+    Wilting itself reduces the exposed leaf surface and encourages the *stomata* to close, both of which cut transpiration.
+
+    Overnight, transpiration almost stops (the stomata close and the air is cooler and damper) while the roots continue to absorb water. The cells regain turgor and the plant stands upright again.
+
+    *Answer:* loss of turgor from excessive transpiration, then recovery of turgor when absorption exceeds loss overnight.
   ],
 )
+
+// ============================================================================
+// SECTION 10.5
+// ============================================================================
+== 10.5 Bones, Diet and Exercise
+
+Bones are living tissue. They grow, repair themselves, and respond to the load placed on them.
+
+#table(
+  columns: (1.15fr, 2.35fr),
+  inset: 5.5pt,
+  align: (left + horizon, left + horizon),
+  stroke: 0.5pt + jamb-border,
+  fill: (x, y) => if y == 0 { jamb-navy } else if calc.odd(y) { white } else { jamb-light },
+  table.header(
+    text(font: "DejaVu Sans", size: 8pt, weight: "bold", fill: white)[Condition],
+    text(font: "DejaVu Sans", size: 8pt, weight: "bold", fill: white)[Cause and effect],
+  ),
+
+  [*Rickets*], [Vitamin D (or calcium) deficiency in children; bones soften and bend, giving bow legs],
+  [*Osteoporosis*], [Loss of bone mass, common in old age and after the menopause; bones become brittle and break easily],
+  [*Arthritis*], [Inflammation of a joint; pain and stiffness, common in the elderly],
+  [*Fracture*], [A break in a bone; repaired by new bone laid down by cells called osteoblasts],
+  [*Effect of exercise*], [Regular weight-bearing exercise increases bone density and strengthens ligaments and muscles],
+  [*Sprain*], [Overstretching or tearing of a ligament at a joint],
+)
+
+#trap-box("Vitamin D, calcium and rickets")[
+  Bone is mostly *calcium phosphate*. Calcium comes from the diet (milk, fish, green vegetables), but it can only be absorbed if *vitamin D* is present — and vitamin D is made in the skin in sunlight. So rickets can be caused by a lack of calcium, a lack of vitamin D, or simply too little sunlight. Examiners like all three routes to the same disease.
+]
 
 // ============================================================================
 // SECTION 10.6 — CHECKLIST
@@ -223,24 +258,25 @@ A *joint* is a place where two bones meet. Joints are classified by how much the
 #block(width: 100%, fill: white, stroke: 0.8pt + jamb-border, radius: 7pt, inset: 10pt)[
   I can …
   #v(3pt)
-  + state the five functions of the skeleton;
-  + name the parts of the axial and appendicular skeleton;
-  + classify joints and give one example of each type;
-  + label the parts of a synovial joint and give the role of each;
-  + explain antagonistic muscle action at the elbow;
-  + explain three mechanisms by which plants are supported.
+  + state the five functions of the mammalian skeleton;
+  + name the main bones of the axial and appendicular skeleton;
+  + classify a joint as hinge, ball-and-socket, gliding, pivot or fixed, with two examples;
+  + explain why muscles must work in antagonistic pairs;
+  + distinguish a tendon from a ligament;
+  + explain three ways in which plants are supported;
+  + explain rickets, osteoporosis and the effect of exercise on bone.
 ]
 
 #block(width: 100%, fill: jamb-mint, stroke: 0.9pt + jamb-green, radius: 7pt, inset: 10pt)[
   #text(font: "DejaVu Sans", size: 9.2pt, weight: "bold", fill: jamb-green)[Chapter 10 in one breath]
   #v(3pt)
   #text(size: 10.1pt)[
-    Bones support, protect, lever, store minerals and make blood. Joints decide which movements are possible; tendons tie muscle to bone and ligaments tie bone to bone; muscles only pull, so they work in pairs. Plants do the same job with turgor, lignin and thickened walls.
+    Bones support, protect, move, make blood and store minerals; joints decide which way a bone can go; muscles pull in pairs because they cannot push; and plants stand up on turgor and lignin instead.
   ]
 ]
 
 #diagram-fig("diagrams/recap_ch10.svg",
-  "Chapter 10 recap card: the skeleton, the joints, the muscle pair and plant support.", width: 62%)
+  "Chapter 10 recap card: the skeleton, joints, muscles and plant support.", width: 100%)
 
 // ============================================================================
 // SECTION 10.7 — TWO-MINUTE SET
@@ -249,9 +285,14 @@ A *joint* is a place where two bones meet. Joints are classified by how much the
 
 Four questions of the kind the CBT engine starts a paper with. Ninety seconds each; the answers and full working follow the drill.
 
-#mcq(1, [Which of the following is a hinge joint?], [Shoulder], [Elbow], [Hip], [Neck])
-#mcq(2, [Muscles are attached to bones by], [ligaments], [tendons], [cartilage], [synovial fluid])
-#mcq(3, [Herbaceous plants are supported mainly by], [lignin in the xylem], [turgor pressure in their cells], [collenchyma], [sclerenchyma])
-#mcq(4, [The joint between the atlas and the axis is a], [hinge joint], [ball-and-socket joint], [pivot joint], [gliding joint])
+#block(breakable: false)[
+#mcq(1, [Which of the following is a hinge joint?], [Shoulder], [Hip], [Knee], [Neck])
+#mcq(2, [Muscles are described as antagonistic because], [they are attached to bone], [one contracts while the other relaxes], [they are voluntary], [they work in pairs of the same size])
+#mcq(3, [The structure that joins a muscle to a bone is a], [ligament], [tendon], [cartilage], [joint capsule])
+#mcq(4, [Herbaceous plants are supported mainly by], [lignified xylem], [turgor pressure], [sclerenchyma], [their roots])
 
-#answer-key-grid(("B", "B", "B", "C"))
+#answer-key-grid(("C", "B", "B", "B"))
+]
+
+
+#include "drill_ch10.typ"

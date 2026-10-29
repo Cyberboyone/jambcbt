@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 290" width="760" height="290">
+  <defs>
+    <marker id="ag" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#008751"/>
+    </marker>
+    <marker id="an" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#0E1F40"/>
+    </marker>
+    <marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#D97706"/>
+    </marker>
+    <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#DC2626"/>
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="760" height="290" fill="#FFFFFF"/>
+<text x="380" y="24" font-family="DejaVu Sans" font-size="13" fill="#0E1F40" text-anchor="middle" font-weight="bold">AEROBIC AND ANAEROBIC RESPIRATION</text>
+<rect x="20" y="42" width="350" height="210" rx="8" fill="#FFFFFF" stroke="#008751" stroke-width="1.5"/>
+<rect x="390" y="42" width="350" height="210" rx="8" fill="#FFFFFF" stroke="#D97706" stroke-width="1.5"/>
+<rect x="20" y="42" width="350" height="6" rx="3" fill="#008751"/>
+<rect x="390" y="42" width="350" height="6" rx="3" fill="#D97706"/>
+<text x="195" y="70" font-family="DejaVu Sans" font-size="12" fill="#008751" text-anchor="middle" font-weight="bold">AEROBIC</text>
+<text x="565" y="70" font-family="DejaVu Sans" font-size="12" fill="#D97706" text-anchor="middle" font-weight="bold">ANAEROBIC</text>
+<text x="195" y="94" font-family="DejaVu Sans" font-size="9.6" fill="#0E1F40" text-anchor="middle" font-weight="normal">glucose + oxygen →</text>
+<text x="195" y="114" font-family="DejaVu Sans" font-size="9.6" fill="#0E1F40" text-anchor="middle" font-weight="bold">carbon dioxide + water</text>
+<text x="195" y="134" font-family="DejaVu Sans" font-size="9.6" fill="#008751" text-anchor="middle" font-weight="normal">+ a large amount of energy</text>
+<text x="565" y="94" font-family="DejaVu Sans" font-size="9.6" fill="#0E1F40" text-anchor="middle" font-weight="normal">glucose →</text>
+<text x="565" y="114" font-family="DejaVu Sans" font-size="9.6" fill="#0E1F40" text-anchor="middle" font-weight="bold">in muscle: lactic acid</text>
+<text x="565" y="134" font-family="DejaVu Sans" font-size="9.6" fill="#0E1F40" text-anchor="middle" font-weight="bold">in yeast: alcohol + CO₂</text>
+<text x="195" y="160" font-family="DejaVu Sans" font-size="8.4" fill="#334155" text-anchor="middle" font-weight="normal">Energy released: about 38 ATP per glucose</text>
+<text x="195" y="178" font-family="DejaVu Sans" font-size="8.4" fill="#334155" text-anchor="middle" font-weight="normal">Site: mitochondria (cytoplasm first)</text>
+<text x="195" y="196" font-family="DejaVu Sans" font-size="8.4" fill="#334155" text-anchor="middle" font-weight="normal">Occurs: all the time, in every living cell</text>
+<text x="195" y="214" font-family="DejaVu Sans" font-size="8.4" fill="#334155" text-anchor="middle" font-weight="normal">Oxygen: required</text>
+<text x="195" y="232" font-family="DejaVu Sans" font-size="8.4" fill="#334155" text-anchor="middle" font-weight="normal">Products are harmless and easily removed</text>
+<text x="565" y="160" font-family="DejaVu Sans" font-size="8.4" fill="#334155" text-anchor="middle" font-weight="normal">Energy released: about 2 ATP per glucose</text>
+<text x="565" y="178" font-family="DejaVu Sans" font-size="8.4" fill="#334155" text-anchor="middle" font-weight="normal">Site: cytoplasm only</text>
+<text x="565" y="196" font-family="DejaVu Sans" font-size="8.4" fill="#334155" text-anchor="middle" font-weight="normal">Occurs: when oxygen is short</text>
+<text x="565" y="214" font-family="DejaVu Sans" font-size="8.4" fill="#334155" text-anchor="middle" font-weight="normal">Oxygen: not required</text>
+<text x="565" y="232" font-family="DejaVu Sans" font-size="8.4" fill="#334155" text-anchor="middle" font-weight="normal">Lactic acid builds up — causes cramp</text>
+<text x="380" y="274" font-family="DejaVu Sans" font-size="8.4" fill="#64748B" text-anchor="middle" font-weight="normal">Both start with glucose and both release energy. The difference is whether oxygen is used and what is left over.</text>
+</svg>

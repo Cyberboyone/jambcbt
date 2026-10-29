@@ -9,6 +9,7 @@ sys.path.insert(0, str(HERE / "diagrams_gen"))
 
 import figs_bio_a as A       # noqa: E402
 import figs_bio_b as B       # noqa: E402
+import figs_bio_c as C       # noqa: E402
 
 
 def main() -> int:
@@ -24,38 +25,32 @@ def main() -> int:
     A.ch02_bacterium()
     A.ch02_levels()
 
-    A.recap_cards()
-
     B.ch03_mitosis()
-    B.ch03_meiosis()
-    B.recap_cards_b()
-
+    B.ch03_meiosis_compare()
+    B.ch03_crossing_over()
     B.ch04_leaf()
-    B.ch04_limiting()
-
-    B.ch05_canal()
+    B.ch04_photosynthesis()
+    B.ch04_limiting_factors()
+    B.ch05_alimentary()
+    B.ch05_villus()
     B.ch05_dentition()
 
-    B.ch06_root()
-    B.ch06_transpiration()
+    C.ch06_transpiration()
+    C.ch06_potometer()
+    C.ch07_heart()
+    C.ch07_circulation()
+    C.ch07_blood_cells()
+    C.ch08_alveolus()
+    C.ch08_respiration_compare()
+    C.ch09_nephron()
+    C.ch09_skin()
+    C.ch10_skeleton()
+    C.ch10_joints()
+    C.ch10_muscle()
 
-    B.ch07_heart()
-    B.ch07_circulation()
-
-    B.ch08_alveolus()
-    B.ch08_lungs()
-
-    B.ch09_kidney()
-    B.ch09_nephron()
-    B.ch09_skin()
-
-    B.ch10_skeleton()
-    B.ch10_joints()
-    B.ch10_muscles()
-    B.recap_ch07()
-    B.recap_ch08()
-    B.recap_ch09()
-    B.recap_ch10()
+    A.recap_cards()
+    B.recap_cards_b()
+    C.recap_cards_c()
 
     files = sorted((HERE / "diagrams").glob("*.svg"))
     print(f"generated {len(files)} diagrams")
