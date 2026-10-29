@@ -76,7 +76,7 @@ An *oxidation number* is the charge an atom would carry if the bonds in its comp
 
 #table(
   columns: (0.4fr, 2.2fr, 2.3fr),
-  inset: 6pt,
+  inset: (x: 6pt, y: 3.6pt),
   align: (center + horizon, left + horizon, left + horizon),
   stroke: 0.5pt + jamb-border,
   fill: (x, y) => if y == 0 { jamb-navy } else if calc.odd(y) { white } else { jamb-light },
@@ -88,9 +88,9 @@ An *oxidation number* is the charge an atom would carry if the bonds in its comp
 
   [1], [an uncombined element has oxidation number *zero*], [in Na, Cl₂, O₂, Fe, the number is 0],
   [2], [a monatomic ion has the number equal to its *charge*], [Na⁺ is +1, Ca²⁺ is +2, Cl⁻ is −1],
-  [3], [oxygen is *−2*, except in peroxides (−1) and in OF₂ (+2)], [in H₂O, O is −2; in H₂O₂, O is −1],
+  [3], [oxygen is *−2*, except in peroxides (−1) and OF₂ (+2)], [in H₂O, O is −2; in H₂O₂, O is −1],
   [4], [hydrogen is *+1*, except in metal hydrides (−1)], [in HCl, H is +1; in NaH, H is −1],
-  [5], [the sum of the numbers *equals the overall charge*], [in a neutral compound the sum is 0; in an ion it is the ion's charge],
+  [5], [the numbers *add up to the overall charge*], [0 in a neutral compound; the ion's charge in an ion],
   [6], [the more electronegative element takes the negative number], [in NCl₃, N is +3 and Cl is −1],
 )
 
