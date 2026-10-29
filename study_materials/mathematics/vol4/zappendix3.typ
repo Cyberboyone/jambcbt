@@ -1,9 +1,9 @@
 #import "template.typ": *
 
-#current-chapter.update("Appendix R: Exam-Day Tactics for Sections IV and V")
+#current-chapter.update("Appendix S: Exam-Day Tactics for Sections IV and V")
 
 #pagebreak()
-#hide[#heading(level: 1, outlined: true)[Appendix R: Exam-Day Tactics for Sections IV and V]]
+#hide[#heading(level: 1, outlined: true)[Appendix S: Exam-Day Tactics for Sections IV and V]]
 
 #block(
   width: 100%,
@@ -23,7 +23,7 @@
 
 #v(6pt)
 
-== R.1 What Twelve Questions Cost
+== S.1 What Twelve Questions Cost
 
 The Mathematics paper gives roughly fifty-two seconds per question on average. Calculus and statistics questions are the most variable in the paper: a limit can be a ten-second substitution, an area between two curves can be a three-minute sketch plus two integrals.
 
@@ -54,7 +54,7 @@ The Mathematics paper gives roughly fifty-two seconds per question on average. C
 
 The column that matters is the third. A hard stop is not a suggestion: when the clock reaches it, the question is costing you two easier questions elsewhere.
 
-== R.2 The Three-Pass Method
+== S.2 The Three-Pass Method
 
 #concept-box("Three passes, one paper")[
   *Pass one — the harvest.* Answer every question you recognise in under forty seconds. Do not read the rest properly; just classify. Most candidates collect eight or nine of the twelve in this pass.
@@ -66,7 +66,7 @@ The column that matters is the third. A hard stop is not a suggestion: when the 
   *Pass three — the sweep.* Every remaining question gets a shaded letter. There is no negative marking: an empty cell is worth exactly zero, and a guess is worth one quarter of a mark on average.
 ]
 
-== R.3 Order of Attack
+== S.3 Order of Attack
 
 Within the twelve, take them in this order.
 
@@ -83,16 +83,16 @@ Within the twelve, take them in this order.
 
 The order is not about difficulty; it is about *certainty*. Secure answers early buy the confidence and the clock space for the two or three questions that genuinely need thought.
 
-== R.4 The Calculator, Used Properly
+== S.4 The Calculator, Used Properly
 
 The CBT calculator is four-function: no brackets beyond memory, no powers, no roots, no trigonometry. That changes what you write down.
 
-- Compute squares and cubes by repeated multiplication, or take them from the table in Appendix P.
+- Compute squares and cubes by repeated multiplication, or take them from the table in Appendix C.
 - Do not clear the display between steps of a division; write the quotient down.
 - Use the memory key for a repeated denominator — the total frequency in a grouped mean, for example.
 - Never trust a decimal you did not write down. The calculator forgets; your rough paper does not.
 
-== R.5 Four-Line Discipline
+== S.5 Four-Line Discipline
 
 Every worked solution in this book is short on purpose. The exam rewards the answer, not the essay, and long working multiplies the chances of a slip.
 
@@ -109,13 +109,13 @@ Every worked solution in this book is short on purpose. The exam rewards the ans
   *Line 4* — the answer with its unit, and nothing else.
 ]
 
-== R.6 The Flag-and-Forget Rule
+== S.6 The Flag-and-Forget Rule
 
 A flagged question must leave your mind completely. The commonest way to lose marks in this section is not a hard question; it is a hard question that keeps running in the background and corrupts the arithmetic of the next three easy ones.
 
 When you flag, write the letter you would guess *now* in the margin, then move. If time remains at the end you will replace it; if not, you already have an answer.
 
-== R.7 What To Do in the Last Five Minutes
+== S.7 What To Do in the Last Five Minutes
 
 - Confirm every cell in the answer sheet is filled.
 - Check that no answer to a probability question is above $1$, no area is negative, no standard deviation is negative.
@@ -123,7 +123,7 @@ When you flag, write the letter you would guess *now* in the margin, then move. 
 - Do not change an answer unless you can name the specific error. Hunches lose more marks than they win.
 
 #pagebreak()
-#hide[#heading(level: 1, outlined: true)[Appendix S: The Misconception Clinic]]
+#hide[#heading(level: 1, outlined: true)[Appendix T: The Misconception Clinic]]
 
 #block(
   width: 100%,
@@ -143,7 +143,7 @@ When you flag, write the letter you would guess *now* in the margin, then move. 
 
 #v(6pt)
 
-== S.1 Limits and Continuity
+== T.1 Limits and Continuity
 
 #table(
   columns: (1.7fr, 1.7fr),
@@ -160,7 +160,7 @@ When you flag, write the letter you would guess *now* in the margin, then move. 
   [A limit of infinity means the limit does not exist in any sense], [It does not exist as a number; writing $infinity$ is the accepted description],
 )
 
-== S.2 Differentiation
+== T.2 Differentiation
 
 #table(
   columns: (1.7fr, 1.7fr),
@@ -178,7 +178,7 @@ When you flag, write the letter you would guess *now* in the margin, then move. 
   [The gradient of the normal equals the gradient of the tangent], [They multiply to $-1$; the normal gradient is the negative reciprocal],
 )
 
-== S.3 Integration and Area
+== T.3 Integration and Area
 
 #table(
   columns: (1.7fr, 1.7fr),
@@ -196,7 +196,7 @@ When you flag, write the letter you would guess *now* in the margin, then move. 
   [Distance equals the integral of velocity, always], [Only when the velocity keeps its sign; otherwise integrate $|v|$],
 )
 
-== S.4 Statistics
+== T.4 Statistics
 
 #table(
   columns: (1.7fr, 1.7fr),
@@ -216,7 +216,7 @@ When you flag, write the letter you would guess *now* in the margin, then move. 
   [The tallest bar of a histogram is the modal class], [The tallest bar is the greatest density; frequency is area],
 )
 
-== S.5 Counting and Probability
+== T.5 Counting and Probability
 
 #table(
   columns: (1.7fr, 1.7fr),

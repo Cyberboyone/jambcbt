@@ -1,9 +1,9 @@
 #import "template.typ": *
 
-#current-chapter.update("Appendix T: The Mastery Tracker")
+#current-chapter.update("Appendix U: The Mastery Tracker")
 
 #pagebreak()
-#hide[#heading(level: 1, outlined: true)[Appendix T: The Mastery Tracker]]
+#hide[#heading(level: 1, outlined: true)[Appendix U: The Mastery Tracker]]
 
 #block(
   width: 100%,
@@ -23,7 +23,7 @@
 
 #v(6pt)
 
-== T.1 The Chapter Ledger
+== U.1 The Chapter Ledger
 
 Fill a row each time you finish a chapter and its drill. The score is out of $42$; the target is $36$ and above before you move on.
 
@@ -51,7 +51,7 @@ Fill a row each time you finish a chapter and its drill. The score is out of $42
   [10 Probability], [], [], [], [], [],
 )
 
-== T.2 The Diagnostic Ledger
+== U.2 The Diagnostic Ledger
 
 Take the twelve-question diagnostic in the front matter once a week. Record the letter pattern you produced and the questions you missed; the pattern diff is your progress.
 
@@ -75,7 +75,7 @@ Take the twelve-question diagnostic in the front matter once a week. Record the 
   [8], [], [], [],
 )
 
-== T.3 The Error Library
+== U.3 The Error Library
 
 The four errors that cost the most marks should be named here, in your own words, with the repair. Rewrite the page when it fills.
 
@@ -96,7 +96,7 @@ The four errors that cost the most marks should be named here, in your own words
   [6], [], [],
 )
 
-== T.4 The Twelve-Question Syllabus Map
+== U.4 The Twelve-Question Syllabus Map
 
 Every UTME Mathematics paper draws from this list. Tick an item only when you can answer a question on it in under ninety seconds, without notes.
 
@@ -127,7 +127,7 @@ Every UTME Mathematics paper draws from this list. Tick an item only when you ca
 )
 
 #pagebreak()
-#hide[#heading(level: 1, outlined: true)[Appendix U: The Final Ten Days]]
+#hide[#heading(level: 1, outlined: true)[Appendix V: The Final Ten Days]]
 
 #block(
   width: 100%,
@@ -147,7 +147,7 @@ Every UTME Mathematics paper draws from this list. Tick an item only when you ca
 
 #v(6pt)
 
-== U.1 The Schedule
+== V.1 The Schedule
 
 #table(
   columns: (0.7fr, 1.9fr, 1.6fr),
@@ -170,21 +170,21 @@ Every UTME Mathematics paper draws from this list. Tick an item only when you ca
   [10], [The Final Forty in forty minutes; then Appendix N recall sheet], [Score out of 40],
 )
 
-== U.2 The Night Before
+== V.2 The Night Before
 
-- Read the four tables in Appendix S, one at a time, and say the correction aloud.
+- Read the four tables in Appendix T, one at a time, and say the correction aloud.
 - Redraw the five figures you are least sure of: the sign line, the ogive, the tree, the Venn, the turning-point profile.
 - Do not start a new topic. Nothing learned after 9 p.m. survives the night with any reliability.
 - Pack the admission letter, the writing materials and the calculator you have been practising with. The calculator matters: a familiar one is worth two minutes of the paper.
 
-== U.3 The Morning Of
+== V.3 The Morning Of
 
 + Arrive early; the CBT centre will not hold the paper for you.
 + Write the three formulas you are least sure of on the rough paper before the clock starts, if the invigilator permits rough paper before the paper opens.
 + Read every question twice. The word *not*, the phrase *without replacement* and the word *hence* all change the answer.
 + Answer every question. There is no negative marking, and an empty cell cannot be marked correct.
 
-== U.4 If The Clock Goes Wrong
+== V.4 If The Clock Goes Wrong
 
 Ten minutes left with eight questions unread is not a disaster; it is arithmetic. Shade a letter for all eight immediately, then spend the ten minutes improving the two or three you can actually do. A shaded letter is a chance; an empty cell is a certainty of zero.
 
