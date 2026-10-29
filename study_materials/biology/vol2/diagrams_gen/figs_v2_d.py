@@ -95,6 +95,69 @@ def recap_cards_g():
     ])
 
 
+def ch08_microbes():
+    """Three kinds of micro-organism, drawn to their relative complexity."""
+    import math
+
+    w, h = 720, 352
+    b = [t(360, 26, "THREE KINDS OF MICRO-ORGANISM", size=12.8, weight="bold", fill=NAVY)]
+
+    # ---------- bacterium ----------
+    b.append(rect(14, 44, 224, 252, "#FFFFFF", BORDER, 8, 1.2))
+    b.append(t(126, 66, "BACTERIUM", size=10.8, weight="bold", fill=GREEN))
+    b.append(t(126, 82, "capsule outside, cell wall inside", size=8.4, fill=MUTED))
+    b.append(rect(42, 96, 168, 68, GREEN_LIGHT, GREEN, 34, 2.2))
+    b.append(rect(52, 101, 148, 58, "#FFFFFF", GREEN, 29, 1.4))
+    b.append(path("M 74 130 q 13 -13 26 0 q 13 13 26 0 q 13 -13 26 0", stroke=NAVY, sw=2.4))
+    b.append(dot(178, 118, 6, AMBER, AMBER, 0.8))
+    b.append(path("M 208 130 q 16 8 6 22 q -10 14 6 22", stroke=GREEN, sw=1.8))
+    # leaders
+    b.append(line(96, 174, 108, 148, color=BORDER, sw=0.9))
+    b.append(t(26, 192, "DNA — one loop, no nucleus", size=8.6, fill=SLATE, anchor="start"))
+    b.append(line(150, 210, 210, 178, color=BORDER, sw=0.9))
+    b.append(t(148, 222, "flagellum — for movement", size=8.6, fill=SLATE, anchor="start"))
+    b.append(t(126, 250, "one cell, about 1–5 µm,", size=8.4, fill=MUTED))
+    b.append(t(126, 264, "divides by binary fission", size=8.4, fill=MUTED))
+
+    # ---------- virus ----------
+    b.append(rect(248, 44, 224, 252, "#FFFFFF", BORDER, 8, 1.2))
+    b.append(t(360, 66, "VIRUS", size=10.8, weight="bold", fill=RED))
+    b.append(t(360, 82, "protein coat, no cytoplasm", size=8.4, fill=MUTED))
+    b.append(poly([(360, 96), (404, 120), (404, 168), (360, 192), (316, 168), (316, 120)],
+                  RED_LIGHT, RED, 2.0))
+    for i in range(6):
+        a = math.radians(60 * i - 30)
+        x1, y1 = 360 + 44 * math.cos(a), 144 + 48 * math.sin(a)
+        b.append(line(x1, y1, x1 + 11 * math.cos(a), y1 + 11 * math.sin(a), color=RED, sw=2.2))
+    b.append(path("M 340 132 q 10 -10 20 0 q 10 10 20 0 q 10 -10 20 0", stroke=NAVY, sw=2.2))
+    b.append(t(360, 226, "nucleic acid inside", size=8.6, fill=SLATE))
+    b.append(t(360, 242, "about 20–300 nm —", size=8.4, fill=MUTED))
+    b.append(t(360, 256, "smaller than any cell", size=8.4, fill=MUTED))
+    b.append(t(360, 274, "must enter a host cell to multiply", size=8.6, fill=RED))
+
+    # ---------- fungus ----------
+    b.append(rect(482, 44, 224, 252, "#FFFFFF", BORDER, 8, 1.2))
+    b.append(t(594, 66, "FUNGUS", size=10.8, weight="bold", fill=PURPLE))
+    b.append(t(594, 82, "hyphae make a mycelium", size=8.4, fill=MUTED))
+    # branching filaments
+    b.append(path("M 594 198 q -16 -22 -34 -38 q -14 -12 -22 -26", stroke=PURPLE, sw=2.4))
+    b.append(path("M 594 198 q 16 -22 34 -38 q 14 -12 22 -26", stroke=PURPLE, sw=2.4))
+    b.append(path("M 594 198 q 4 -34 0 -62", stroke=PURPLE, sw=2.4))
+    for cx, cy in ((536, 130), (652, 130), (594, 134)):
+        b.append(dot(cx, cy, 9, PURPLE_LIGHT, PURPLE, 1.8))
+    for cx, cy in ((518, 118), (670, 118), (594, 112), (566, 112), (622, 112)):
+        b.append(dot(cx, cy, 3.2, PURPLE, PURPLE, 0.6))
+    b.append(t(594, 216, "spores are released from the tips", size=8.6, fill=SLATE))
+    b.append(t(594, 238, "yeast is the single-celled exception —", size=8.4, fill=MUTED))
+    b.append(t(594, 252, "it buds instead of making hyphae", size=8.4, fill=MUTED))
+    b.append(t(594, 274, "ringworm, athlete's foot, moulds", size=8.6, fill=PURPLE))
+
+    b.append(rect(14, 308, 692, 32, GREEN_LIGHT, GREEN, 6, 1.0))
+    b.append(t(360, 322, "Bacteria and fungi are cells and can be killed by antibiotics;", size=9.2, fill=SLATE))
+    b.append(t(360, 335, "a virus is not a cell, so antibiotics do not touch it.", size=9.2, fill=SLATE))
+    write_svg("ch08_microbes.svg", svg(w, h, "\n".join(b)))
+
+
 def ch08_decay():
     w, h = 760, 372
     b = [t(380, 26, "THE CARBON CYCLE — HOW DECAY FITS IN", size=12.6, weight="bold", fill=NAVY)]

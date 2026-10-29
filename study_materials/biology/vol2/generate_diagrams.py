@@ -67,6 +67,7 @@ def main() -> int:
         D.ch07_infection_chain()
         D.ch07_immunity()
         D.recap_cards_g()
+        D.ch08_microbes()
         D.ch08_decay()
         D.ch08_conditions()
         D.recap_cards_h()
