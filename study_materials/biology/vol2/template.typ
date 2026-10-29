@@ -404,8 +404,10 @@
     stroke: (left: 1pt + jamb-border, right: 1pt + jamb-border, bottom: 1pt + jamb-border),
     spacing: 0pt,
   )[
-    #text(font: "DejaVu Sans", size: 9pt, weight: "bold", fill: jamb-green)[STEP-BY-STEP SOLUTION:]
-    #v(4pt)
+    #block(breakable: false, sticky: true)[
+      #text(font: "DejaVu Sans", size: 9pt, weight: "bold", fill: jamb-green)[STEP-BY-STEP SOLUTION:]
+      #v(2pt)
+    ]
     #solution
   ]
   v(7pt, weak: true)

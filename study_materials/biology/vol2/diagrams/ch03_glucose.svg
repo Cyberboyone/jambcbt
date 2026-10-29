@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 300" width="760" height="300">
+  <defs>
+    <marker id="ag" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#008751"/>
+    </marker>
+    <marker id="an" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#0E1F40"/>
+    </marker>
+    <marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#D97706"/>
+    </marker>
+    <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#DC2626"/>
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="760" height="300" fill="#FFFFFF"/>
+<text x="380" y="26" font-family="DejaVu Sans" font-size="13.0" fill="#0E1F40" text-anchor="middle" font-weight="bold">CONTROL OF BLOOD GLUCOSE — NEGATIVE FEEDBACK</text>
+<rect x="300" y="128" width="160" height="44" rx="8" fill="#ECFDF5" stroke="#008751" stroke-width="1.4"/>
+<text x="380" y="146" font-family="DejaVu Sans" font-size="10.2" fill="#008751" text-anchor="middle" font-weight="bold">NORMAL RANGE</text>
+<text x="380" y="162" font-family="DejaVu Sans" font-size="8.6" fill="#334155" text-anchor="middle" font-weight="normal">about 90 mg per 100 cm³</text>
+<rect x="24" y="62" width="210" height="34" rx="7" fill="#FFFFFF" stroke="#D97706" stroke-width="1.5"/>
+<text x="129" y="83" font-family="DejaVu Sans" font-size="9.8" fill="#D97706" text-anchor="middle" font-weight="bold">Blood glucose RISES</text>
+<rect x="24" y="110" width="210" height="40" rx="7" fill="#FFFFFF" stroke="#D97706" stroke-width="1.5"/>
+<text x="129" y="127" font-family="DejaVu Sans" font-size="8.8" fill="#334155" text-anchor="middle" font-weight="normal">Pancreas (β cells) secretes</text>
+<text x="129" y="141" font-family="DejaVu Sans" font-size="10.2" fill="#D97706" text-anchor="middle" font-weight="bold">INSULIN</text>
+<rect x="24" y="164" width="210" height="40" rx="7" fill="#FFFFFF" stroke="#D97706" stroke-width="1.5"/>
+<text x="129" y="181" font-family="DejaVu Sans" font-size="8.8" fill="#334155" text-anchor="middle" font-weight="normal">Liver and muscles take up</text>
+<text x="129" y="195" font-family="DejaVu Sans" font-size="8.8" fill="#334155" text-anchor="middle" font-weight="normal">glucose → glycogen</text>
+<rect x="24" y="218" width="210" height="34" rx="7" fill="#FFFFFF" stroke="#D97706" stroke-width="1.5"/>
+<text x="129" y="239" font-family="DejaVu Sans" font-size="9.8" fill="#D97706" text-anchor="middle" font-weight="bold">Glucose falls back</text>
+<polygon points="123,97 135,97 129,108" fill="#D97706" stroke="#D97706" stroke-width="0"/>
+<polygon points="123,151 135,151 129,162" fill="#D97706" stroke="#D97706" stroke-width="0"/>
+<polygon points="123,205 135,205 129,216" fill="#D97706" stroke="#D97706" stroke-width="0"/>
+<line x1="236" y1="235" x2="296" y2="176" stroke="#D97706" stroke-width="1.6" marker-end="url(#aa)"/>
+<rect x="526" y="62" width="210" height="34" rx="7" fill="#FFFFFF" stroke="#2563EB" stroke-width="1.5"/>
+<text x="631" y="83" font-family="DejaVu Sans" font-size="9.8" fill="#2563EB" text-anchor="middle" font-weight="bold">Blood glucose FALLS</text>
+<rect x="526" y="110" width="210" height="40" rx="7" fill="#FFFFFF" stroke="#2563EB" stroke-width="1.5"/>
+<text x="631" y="127" font-family="DejaVu Sans" font-size="8.8" fill="#334155" text-anchor="middle" font-weight="normal">Pancreas (α cells) secretes</text>
+<text x="631" y="141" font-family="DejaVu Sans" font-size="10.2" fill="#2563EB" text-anchor="middle" font-weight="bold">GLUCAGON</text>
+<rect x="526" y="164" width="210" height="40" rx="7" fill="#FFFFFF" stroke="#2563EB" stroke-width="1.5"/>
+<text x="631" y="181" font-family="DejaVu Sans" font-size="8.8" fill="#334155" text-anchor="middle" font-weight="normal">Liver converts glycogen</text>
+<text x="631" y="195" font-family="DejaVu Sans" font-size="8.8" fill="#334155" text-anchor="middle" font-weight="normal">back to glucose</text>
+<rect x="526" y="218" width="210" height="34" rx="7" fill="#FFFFFF" stroke="#2563EB" stroke-width="1.5"/>
+<text x="631" y="239" font-family="DejaVu Sans" font-size="9.8" fill="#2563EB" text-anchor="middle" font-weight="bold">Glucose rises back</text>
+<polygon points="625,97 637,97 631,108" fill="#2563EB" stroke="#2563EB" stroke-width="0"/>
+<polygon points="625,151 637,151 631,162" fill="#2563EB" stroke="#2563EB" stroke-width="0"/>
+<polygon points="625,205 637,205 631,216" fill="#2563EB" stroke="#2563EB" stroke-width="0"/>
+<line x1="524" y1="235" x2="464" y2="176" stroke="#2563EB" stroke-width="1.6" marker-end="url(#an)"/>
+<text x="380" y="232" font-family="DejaVu Sans" font-size="8.8" fill="#64748B" text-anchor="middle" font-weight="normal">Either way the change is</text>
+<text x="380" y="246" font-family="DejaVu Sans" font-size="8.8" fill="#64748B" text-anchor="middle" font-weight="normal">reversed — that is</text>
+<text x="380" y="260" font-family="DejaVu Sans" font-size="8.8" fill="#64748B" text-anchor="middle" font-weight="normal">negative feedback.</text>
+<text x="380" y="120" font-family="DejaVu Sans" font-size="8.6" fill="#D97706" text-anchor="middle" font-weight="normal">too high →</text>
+<text x="380" y="196" font-family="DejaVu Sans" font-size="8.6" fill="#2563EB" text-anchor="middle" font-weight="normal">too low →</text>
+<text x="380" y="288" font-family="DejaVu Sans" font-size="8.8" fill="#334155" text-anchor="middle" font-weight="normal">Insulin lowers blood glucose; glucagon raises it. Both come from the islets of Langerhans.</text>
+</svg>

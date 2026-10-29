@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 470" width="760" height="470">
+  <defs>
+    <marker id="ag" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#008751"/>
+    </marker>
+    <marker id="an" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#0E1F40"/>
+    </marker>
+    <marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#D97706"/>
+    </marker>
+    <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#DC2626"/>
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="760" height="470" fill="#FFFFFF"/>
+<text x="380" y="26" font-family="DejaVu Sans" font-size="13.2" fill="#0E1F40" text-anchor="middle" font-weight="bold">THE ENDOCRINE GLANDS AND WHERE THEY SIT</text>
+<circle cx="380" cy="86" r="34" fill="#F8FAFC" stroke="#334155" stroke-width="2.0"/>
+<rect x="368" y="118" width="24" height="22" rx="2.0" fill="#F8FAFC" stroke="#334155" stroke-width="1.3"/>
+<polygon points="316,140 444,140 456,250 436,344 324,344 304,250" fill="#F8FAFC" stroke="#334155" stroke-width="2.0"/>
+<path d="M 316 150 q -46 40 -56 108" fill="none" stroke="#334155" stroke-width="2.0" stroke-linecap="round"/>
+<path d="M 444 150 q 46 40 56 108" fill="none" stroke="#334155" stroke-width="2.0" stroke-linecap="round"/>
+<path d="M 352 344 l -10 92" fill="none" stroke="#334155" stroke-width="2.0" stroke-linecap="round"/>
+<path d="M 408 344 l 10 92" fill="none" stroke="#334155" stroke-width="2.0" stroke-linecap="round"/>
+<circle cx="380" cy="104" r="11" fill="#FFFFFF" stroke="#DC2626" stroke-width="2.2"/>
+<circle cx="380" cy="104" r="5" fill="#DC2626"/>
+<line x1="392" y1="104" x2="588" y2="98" stroke="#DC2626" stroke-width="1.0"/>
+<text x="598" y="100" font-family="DejaVu Sans" font-size="11" fill="#DC2626" text-anchor="start" font-weight="bold">Pituitary</text>
+<text x="598" y="114" font-family="DejaVu Sans" font-size="8.2" fill="#64748B" text-anchor="start" font-weight="normal">(master gland)</text>
+<circle cx="380" cy="138" r="11" fill="#FFFFFF" stroke="#D97706" stroke-width="2.2"/>
+<circle cx="380" cy="138" r="5" fill="#D97706"/>
+<line x1="368" y1="138" x2="206" y2="130" stroke="#D97706" stroke-width="1.0"/>
+<text x="196" y="132" font-family="DejaVu Sans" font-size="11" fill="#D97706" text-anchor="end" font-weight="bold">Thyroid</text>
+<text x="196" y="146" font-family="DejaVu Sans" font-size="8.2" fill="#64748B" text-anchor="end" font-weight="normal">(neck, over the trachea)</text>
+<circle cx="380" cy="178" r="11" fill="#FFFFFF" stroke="#7C3AED" stroke-width="2.2"/>
+<circle cx="380" cy="178" r="5" fill="#7C3AED"/>
+<line x1="392" y1="178" x2="588" y2="174" stroke="#7C3AED" stroke-width="1.0"/>
+<text x="598" y="176" font-family="DejaVu Sans" font-size="11" fill="#7C3AED" text-anchor="start" font-weight="bold">Thymus</text>
+<text x="598" y="190" font-family="DejaVu Sans" font-size="8.2" fill="#64748B" text-anchor="start" font-weight="normal">(behind the sternum)</text>
+<circle cx="404" cy="236" r="11" fill="#FFFFFF" stroke="#DC2626" stroke-width="2.2"/>
+<circle cx="404" cy="236" r="5" fill="#DC2626"/>
+<line x1="416" y1="236" x2="588" y2="230" stroke="#DC2626" stroke-width="1.0"/>
+<text x="598" y="232" font-family="DejaVu Sans" font-size="11" fill="#DC2626" text-anchor="start" font-weight="bold">Adrenal</text>
+<text x="598" y="246" font-family="DejaVu Sans" font-size="8.2" fill="#64748B" text-anchor="start" font-weight="normal">(above the kidneys)</text>
+<circle cx="356" cy="258" r="11" fill="#FFFFFF" stroke="#008751" stroke-width="2.2"/>
+<circle cx="356" cy="258" r="5" fill="#008751"/>
+<line x1="344" y1="258" x2="206" y2="252" stroke="#008751" stroke-width="1.0"/>
+<text x="196" y="254" font-family="DejaVu Sans" font-size="11" fill="#008751" text-anchor="end" font-weight="bold">Pancreas</text>
+<text x="196" y="268" font-family="DejaVu Sans" font-size="8.2" fill="#64748B" text-anchor="end" font-weight="normal">(islets of Langerhans)</text>
+<circle cx="356" cy="306" r="11" fill="#FFFFFF" stroke="#2563EB" stroke-width="2.2"/>
+<circle cx="356" cy="306" r="5" fill="#2563EB"/>
+<line x1="344" y1="306" x2="206" y2="300" stroke="#2563EB" stroke-width="1.0"/>
+<text x="196" y="302" font-family="DejaVu Sans" font-size="11" fill="#2563EB" text-anchor="end" font-weight="bold">Ovary</text>
+<text x="196" y="316" font-family="DejaVu Sans" font-size="8.2" fill="#64748B" text-anchor="end" font-weight="normal">(in the pelvis)</text>
+<circle cx="404" cy="356" r="11" fill="#FFFFFF" stroke="#2563EB" stroke-width="2.2"/>
+<circle cx="404" cy="356" r="5" fill="#2563EB"/>
+<line x1="416" y1="356" x2="588" y2="350" stroke="#2563EB" stroke-width="1.0"/>
+<text x="598" y="352" font-family="DejaVu Sans" font-size="11" fill="#2563EB" text-anchor="start" font-weight="bold">Testis</text>
+<text x="598" y="366" font-family="DejaVu Sans" font-size="8.2" fill="#64748B" text-anchor="start" font-weight="normal">(in the scrotum)</text>
+<rect x="24" y="436" width="712" height="24" rx="6" fill="#ECFDF5" stroke="#008751" stroke-width="1.0"/>
+<text x="380" y="452" font-family="DejaVu Sans" font-size="8.8" fill="#334155" text-anchor="middle" font-weight="normal">All these glands are ductless: they pour their hormones straight into the blood, which carries them to every cell.</text>
+</svg>

@@ -42,8 +42,8 @@ def main() -> int:
 
     if C is not None:
         C.ch03_endocrine()
+        C.ch03_glucose()
         C.ch03_auxin()
-        C.ch03_menstrual()
         C.recap_cards_c()
 
     files = sorted((HERE / "diagrams").glob("*.svg"))
