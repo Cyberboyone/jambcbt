@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="540.474094pt" height="272.986112pt" viewBox="0 0 540.474094 272.986112" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-10-29T08:47:01.587854</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 272.986112 
+L 540.474094 272.986112 
+L 540.474094 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 123.846647 216.64656 
+L 394.105847 216.64656 
+L 394.105847 36.47376 
+L 281.497847 36.47376 
+L 281.497847 126.56016 
+L 123.846647 126.56016 
+z
+" clip-path="url(#p80950ee1cb)" style="fill: #ecfdf5; stroke: #0e1f40; stroke-width: 1.8"/>
+   </g>
+   <g id="line2d_1">
+    <path d="M 123.846647 126.56016 
+L 281.497847 126.56016 
+" clip-path="url(#p80950ee1cb)" style="fill: none; stroke-dasharray: 4.44,1.92; stroke-dashoffset: 0; stroke: #0e1f40; stroke-width: 1.2"/>
+   </g>
+   <g id="line2d_2">
+    <path d="M 281.497847 126.56016 
+L 281.497847 36.47376 
+" clip-path="url(#p80950ee1cb)" style="fill: none; stroke-dasharray: 4.44,1.92; stroke-dashoffset: 0; stroke: #0e1f40; stroke-width: 1.2"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 390.987756 230.15952 
+Q 258.977033 230.15952 126.966309 230.15952 
+" style="fill: none; stroke: #334155; stroke-linecap: round"/>
+    <path d="M 386.987756 228.15952 
+L 390.987756 230.15952 
+L 386.987756 232.15952 
+" style="fill: none; stroke: #334155; stroke-linecap: round"/>
+    <path d="M 130.966309 232.15952 
+L 126.966309 230.15952 
+L 130.966309 228.15952 
+" style="fill: none; stroke: #334155; stroke-linecap: round"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 110.333687 39.590476 
+Q 110.333687 126.560371 110.333687 213.530266 
+" style="fill: none; stroke: #334155; stroke-linecap: round"/>
+    <path d="M 108.333687 43.590476 
+L 110.333687 39.590476 
+L 112.333687 43.590476 
+" style="fill: none; stroke: #334155; stroke-linecap: round"/>
+    <path d="M 112.333687 209.530266 
+L 110.333687 213.530266 
+L 108.333687 209.530266 
+" style="fill: none; stroke: #334155; stroke-linecap: round"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 390.991193 22.9608 
+Q 337.8044 22.9608 284.617607 22.9608 
+" style="fill: none; stroke: #334155; stroke-linecap: round"/>
+    <path d="M 386.991193 20.9608 
+L 390.991193 22.9608 
+L 386.991193 24.9608 
+" style="fill: none; stroke: #334155; stroke-linecap: round"/>
+    <path d="M 288.617607 24.9608 
+L 284.617607 22.9608 
+L 288.617607 20.9608 
+" style="fill: none; stroke: #334155; stroke-linecap: round"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 290.506487 39.595974 
+Q 290.506487 77.01328 290.506487 114.430585 
+" style="fill: none; stroke: #334155; stroke-linecap: round"/>
+    <path d="M 288.506487 43.595974 
+L 290.506487 39.595974 
+L 292.506487 43.595974 
+" style="fill: none; stroke: #334155; stroke-linecap: round"/>
+    <path d="M 292.506487 110.430585 
+L 290.506487 114.430585 
+L 288.506487 110.430585 
+" style="fill: none; stroke: #334155; stroke-linecap: round"/>
+   </g>
+   <g id="text_1">
+    <text style="font-size: 8.6px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #64748b" x="270.237047" y="263.720096" transform="rotate(-0 270.237047 263.720096)">Split a composite shape into rectangles, or subtract the missing rectangle from the enclosing one — never guess the area</text>
+   </g>
+   <g id="text_2">
+    <text style="font-weight: 700; font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #0e1f40" x="258.976247" y="243.758211" transform="rotate(-0 258.976247 243.758211)">6 m</text>
+   </g>
+   <g id="text_3">
+    <text style="font-weight: 700; font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #0e1f40" x="90.064247" y="128.898051" transform="rotate(-0 90.064247 128.898051)">4 m</text>
+   </g>
+   <g id="text_4">
+    <text style="font-weight: 700; font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #0e1f40" x="337.801847" y="14.037891" transform="rotate(-0 337.801847 14.037891)">2.5 m</text>
+   </g>
+   <g id="text_5">
+    <text style="font-weight: 700; font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #0e1f40" x="306.271607" y="79.350531" transform="rotate(-0 306.271607 79.350531)">2 m</text>
+   </g>
+   <g id="text_6">
+    <text style="font-weight: 700; font-size: 9px; font-family: 'DejaVu Sans'; fill: #008751" transform="translate(174.896649 168.540372)">A₁ = 6 × 2</text>
+    <text style="font-weight: 700; font-size: 9px; font-family: 'DejaVu Sans'; fill: #008751" transform="translate(180.594071 179.34213)">= 12 m²</text>
+   </g>
+   <g id="text_7">
+    <text style="font-weight: 700; font-size: 9px; font-family: 'DejaVu Sans'; fill: #008751" transform="translate(309.690257 78.453972)">A₂ = 2.5 × 2</text>
+    <text style="font-weight: 700; font-size: 9px; font-family: 'DejaVu Sans'; fill: #008751" transform="translate(323.359007 89.25573)">= 5 m²</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p80950ee1cb">
+   <rect x="101.325047" y="18.45648" width="337.824" height="225.216"/>
+  </clipPath>
+ </defs>
+</svg>

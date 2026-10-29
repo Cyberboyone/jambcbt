@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 250" width="760" height="250">
+  <defs>
+    <marker id="ag" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#008751"/>
+    </marker>
+    <marker id="an" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#0E1F40"/>
+    </marker>
+    <marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#D97706"/>
+    </marker>
+    <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#DC2626"/>
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="760" height="250" fill="#FFFFFF"/>
+<text x="380" y="24" font-family="DejaVu Sans" font-size="10" fill="#008751" text-anchor="middle" font-weight="bold">Interior angle sum = (n − 2) × 180°   •   each interior angle (regular) = (n − 2) × 180° ÷ n</text>
+<rect x="30" y="40" width="144" height="30" rx="4" fill="#0E1F40"/>
+<text x="102.0" y="60" font-family="DejaVu Sans" font-size="9" fill="#FFFFFF" text-anchor="middle" font-weight="bold">Polygon</text>
+<rect x="180" y="40" width="74" height="30" rx="4" fill="#0E1F40"/>
+<text x="217.0" y="60" font-family="DejaVu Sans" font-size="9" fill="#FFFFFF" text-anchor="middle" font-weight="bold">Sides n</text>
+<rect x="260" y="40" width="194" height="30" rx="4" fill="#0E1F40"/>
+<text x="357.0" y="60" font-family="DejaVu Sans" font-size="9" fill="#FFFFFF" text-anchor="middle" font-weight="bold">Interior angle sum</text>
+<rect x="460" y="40" width="254" height="30" rx="4" fill="#0E1F40"/>
+<text x="587.0" y="60" font-family="DejaVu Sans" font-size="9" fill="#FFFFFF" text-anchor="middle" font-weight="bold">Each interior angle</text>
+<rect x="30" y="72" width="144" height="28" rx="3" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="0.8"/>
+<text x="102.0" y="91" font-family="DejaVu Sans" font-size="9.4" fill="#0E1F40" text-anchor="middle" font-weight="normal">Triangle</text>
+<rect x="180" y="72" width="74" height="28" rx="3" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="0.8"/>
+<text x="217.0" y="91" font-family="DejaVu Sans" font-size="9.4" fill="#0E1F40" text-anchor="middle" font-weight="normal">3</text>
+<rect x="260" y="72" width="194" height="28" rx="3" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="0.8"/>
+<text x="357.0" y="91" font-family="DejaVu Sans" font-size="9.4" fill="#0E1F40" text-anchor="middle" font-weight="bold">180°</text>
+<rect x="460" y="72" width="254" height="28" rx="3" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="0.8"/>
+<text x="587.0" y="91" font-family="DejaVu Sans" font-size="9.4" fill="#0E1F40" text-anchor="middle" font-weight="normal">60°</text>
+<rect x="30" y="102" width="144" height="28" rx="3" fill="#ECFDF5" stroke="#CBD5E1" stroke-width="0.8"/>
+<text x="102.0" y="121" font-family="DejaVu Sans" font-size="9.4" fill="#0E1F40" text-anchor="middle" font-weight="normal">Quadrilateral</text>
+<rect x="180" y="102" width="74" height="28" rx="3" fill="#ECFDF5" stroke="#CBD5E1" stroke-width="0.8"/>
+<text x="217.0" y="121" font-family="DejaVu Sans" font-size="9.4" fill="#0E1F40" text-anchor="middle" font-weight="normal">4</text>
+<rect x="260" y="102" width="194" height="28" rx="3" fill="#ECFDF5" stroke="#CBD5E1" stroke-width="0.8"/>
+<text x="357.0" y="121" font-family="DejaVu Sans" font-size="9.4" fill="#0E1F40" text-anchor="middle" font-weight="bold">360°</text>
+<rect x="460" y="102" width="254" height="28" rx="3" fill="#ECFDF5" stroke="#CBD5E1" stroke-width="0.8"/>
+<text x="587.0" y="121" font-family="DejaVu Sans" font-size="9.4" fill="#0E1F40" text-anchor="middle" font-weight="normal">90°</text>
+<rect x="30" y="132" width="144" height="28" rx="3" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="0.8"/>
+<text x="102.0" y="151" font-family="DejaVu Sans" font-size="9.4" fill="#0E1F40" text-anchor="middle" font-weight="normal">Pentagon</text>
+<rect x="180" y="132" width="74" height="28" rx="3" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="0.8"/>
+<text x="217.0" y="151" font-family="DejaVu Sans" font-size="9.4" fill="#0E1F40" text-anchor="middle" font-weight="normal">5</text>
+<rect x="260" y="132" width="194" height="28" rx="3" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="0.8"/>
+<text x="357.0" y="151" font-family="DejaVu Sans" font-size="9.4" fill="#0E1F40" text-anchor="middle" font-weight="bold">540°</text>
+<rect x="460" y="132" width="254" height="28" rx="3" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="0.8"/>
+<text x="587.0" y="151" font-family="DejaVu Sans" font-size="9.4" fill="#0E1F40" text-anchor="middle" font-weight="normal">108°</text>
+<rect x="30" y="162" width="144" height="28" rx="3" fill="#ECFDF5" stroke="#CBD5E1" stroke-width="0.8"/>
+<text x="102.0" y="181" font-family="DejaVu Sans" font-size="9.4" fill="#0E1F40" text-anchor="middle" font-weight="normal">Hexagon</text>
+<rect x="180" y="162" width="74" height="28" rx="3" fill="#ECFDF5" stroke="#CBD5E1" stroke-width="0.8"/>
+<text x="217.0" y="181" font-family="DejaVu Sans" font-size="9.4" fill="#0E1F40" text-anchor="middle" font-weight="normal">6</text>
+<rect x="260" y="162" width="194" height="28" rx="3" fill="#ECFDF5" stroke="#CBD5E1" stroke-width="0.8"/>
+<text x="357.0" y="181" font-family="DejaVu Sans" font-size="9.4" fill="#0E1F40" text-anchor="middle" font-weight="bold">720°</text>
+<rect x="460" y="162" width="254" height="28" rx="3" fill="#ECFDF5" stroke="#CBD5E1" stroke-width="0.8"/>
+<text x="587.0" y="181" font-family="DejaVu Sans" font-size="9.4" fill="#0E1F40" text-anchor="middle" font-weight="normal">120°</text>
+<rect x="30" y="192" width="144" height="28" rx="3" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="0.8"/>
+<text x="102.0" y="211" font-family="DejaVu Sans" font-size="9.4" fill="#0E1F40" text-anchor="middle" font-weight="normal">Octagon</text>
+<rect x="180" y="192" width="74" height="28" rx="3" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="0.8"/>
+<text x="217.0" y="211" font-family="DejaVu Sans" font-size="9.4" fill="#0E1F40" text-anchor="middle" font-weight="normal">8</text>
+<rect x="260" y="192" width="194" height="28" rx="3" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="0.8"/>
+<text x="357.0" y="211" font-family="DejaVu Sans" font-size="9.4" fill="#0E1F40" text-anchor="middle" font-weight="bold">1 080°</text>
+<rect x="460" y="192" width="254" height="28" rx="3" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="0.8"/>
+<text x="587.0" y="211" font-family="DejaVu Sans" font-size="9.4" fill="#0E1F40" text-anchor="middle" font-weight="normal">135°</text>
+<rect x="30" y="222" width="144" height="28" rx="3" fill="#ECFDF5" stroke="#CBD5E1" stroke-width="0.8"/>
+<text x="102.0" y="241" font-family="DejaVu Sans" font-size="9.4" fill="#0E1F40" text-anchor="middle" font-weight="normal">Decagon</text>
+<rect x="180" y="222" width="74" height="28" rx="3" fill="#ECFDF5" stroke="#CBD5E1" stroke-width="0.8"/>
+<text x="217.0" y="241" font-family="DejaVu Sans" font-size="9.4" fill="#0E1F40" text-anchor="middle" font-weight="normal">10</text>
+<rect x="260" y="222" width="194" height="28" rx="3" fill="#ECFDF5" stroke="#CBD5E1" stroke-width="0.8"/>
+<text x="357.0" y="241" font-family="DejaVu Sans" font-size="9.4" fill="#0E1F40" text-anchor="middle" font-weight="bold">1 440°</text>
+<rect x="460" y="222" width="254" height="28" rx="3" fill="#ECFDF5" stroke="#CBD5E1" stroke-width="0.8"/>
+<text x="587.0" y="241" font-family="DejaVu Sans" font-size="9.4" fill="#0E1F40" text-anchor="middle" font-weight="normal">144°</text>
+</svg>

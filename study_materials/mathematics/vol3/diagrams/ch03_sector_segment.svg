@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="455.338221pt" height="179.486625pt" viewBox="0 0 455.338221 179.486625" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-10-29T08:47:01.272234</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 179.486625 
+L 455.338221 179.486625 
+L 455.338221 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 197.7 123.300911 
+C 197.7 108.015313 193.675525 92.995769 186.032727 79.758054 
+C 178.389928 66.520338 167.394859 55.525269 154.157143 47.88247 
+C 140.919427 40.239671 125.899883 36.215196 110.614286 36.215196 
+C 95.328688 36.215196 80.309144 40.239671 67.071429 47.88247 
+L 110.614286 123.300911 
+z
+" clip-path="url(#p79b18c4f12)" style="fill: #a7f3d0; stroke: #0e1f40; stroke-width: 1.5; stroke-linejoin: miter"/>
+   </g>
+   <g id="line2d_1">
+    <path d="M 110.614286 123.300911 
+L 197.7 123.300911 
+" clip-path="url(#p79b18c4f12)" style="fill: none; stroke: #0e1f40; stroke-width: 1.4; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_2">
+    <path d="M 110.614286 123.300911 
+L 67.071429 47.88247 
+" clip-path="url(#p79b18c4f12)" style="fill: none; stroke: #0e1f40; stroke-width: 1.4; stroke-linecap: round"/>
+   </g>
+   <g id="text_1">
+    <text style="font-weight: 700; font-size: 8.6px; font-family: 'DejaVu Sans'; text-anchor: middle" x="110.614286" y="13.886625" transform="rotate(-0 110.614286 13.886625)">Sector:  A = (θ/360)πr²     arc = (θ/360)2πr</text>
+   </g>
+   <g id="patch_3">
+    <path d="M 133.474286 123.300911 
+C 133.474286 119.288441 132.417861 115.345811 130.411626 111.870911 
+C 128.405392 108.39601 125.519186 105.509805 122.044286 103.50357 
+C 118.569385 101.497335 114.626755 100.440911 110.614286 100.440911 
+C 106.601816 100.440911 102.659186 101.497335 99.184286 103.50357 
+" clip-path="url(#p79b18c4f12)" style="fill: none; stroke: #dc2626; stroke-width: 1.5; stroke-linejoin: miter"/>
+   </g>
+   <g id="text_2">
+    <text style="font-weight: 700; font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #dc2626" x="127.487143" y="96.449663" transform="rotate(-0 127.487143 96.449663)">θ</text>
+   </g>
+  </g>
+  <g id="axes_2">
+   <g id="patch_4">
+    <path d="M 344.723935 123.300911 
+L 431.80965 123.300911 
+L 431.684104 118.626443 
+L 431.30783 113.965453 
+L 430.681912 109.33138 
+L 429.808156 104.737584 
+L 428.689079 100.197311 
+L 427.327909 95.723652 
+L 425.72857 91.329506 
+L 423.895674 87.027541 
+L 421.834506 82.830161 
+L 419.551007 78.74947 
+L 417.051763 74.797231 
+L 414.343979 70.984842 
+L 411.435463 67.323293 
+L 408.3346 63.823142 
+L 405.05033 60.49448 
+L 401.592125 57.346906 
+L 397.969953 54.389495 
+L 394.19426 51.630773 
+L 390.27593 49.078694 
+L 386.226263 46.740618 
+L 382.056933 44.623284 
+L 377.779963 42.732799 
+L 373.407684 41.074612 
+L 368.952702 39.653505 
+L 364.427862 38.473575 
+L 359.846211 37.538224 
+L 355.220958 36.850149 
+L 350.56544 36.411334 
+L 345.893079 36.223045 
+L 341.217347 36.285823 
+L 336.551726 36.599488 
+L 331.909667 37.163136 
+L 327.304555 37.975142 
+L 322.749667 39.033164 
+L 318.258138 40.334151 
+L 313.842915 41.874353 
+L 309.516731 43.649329 
+L 305.292059 45.653961 
+L 301.181078 47.88247 
+z
+" clip-path="url(#p0698dc6aa5)" style="fill: #ede9fe; stroke: #0e1f40; stroke-width: 1.5; stroke-linejoin: miter"/>
+   </g>
+   <g id="line2d_3">
+    <path d="M 431.80965 123.300911 
+L 301.181078 47.88247 
+" clip-path="url(#p0698dc6aa5)" style="fill: none; stroke-dasharray: 4.81,2.08; stroke-dashoffset: 0; stroke: #0e1f40; stroke-width: 1.3"/>
+   </g>
+   <g id="text_3">
+    <text style="font-weight: 700; font-size: 8.8px; font-family: 'DejaVu Sans'; text-anchor: middle" x="344.723935" y="13.886625" transform="rotate(-0 344.723935 13.886625)">Segment:  sector − triangle OAB</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p79b18c4f12">
+   <rect x="7.2" y="19.886625" width="206.828571" height="152.4"/>
+  </clipPath>
+  <clipPath id="p0698dc6aa5">
+   <rect x="241.30965" y="19.886625" width="206.828571" height="152.4"/>
+  </clipPath>
+ </defs>
+</svg>

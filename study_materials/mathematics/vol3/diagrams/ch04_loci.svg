@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="511.2pt" height="153.393762pt" viewBox="0 0 511.2 153.393762" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-10-29T08:47:01.423264</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 153.393762 
+L 511.2 153.393762 
+L 511.2 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 65.25 128.053137 
+C 75.83409 128.053137 85.986108 123.848033 93.47019 116.363951 
+C 100.954271 108.87987 105.159375 98.727852 105.159375 88.143762 
+C 105.159375 77.559672 100.954271 67.407654 93.47019 59.923572 
+C 85.986108 52.43949 75.83409 48.234387 65.25 48.234387 
+C 54.66591 48.234387 44.513892 52.43949 37.02981 59.923572 
+C 29.545729 67.407654 25.340625 77.559672 25.340625 88.143762 
+C 25.340625 98.727852 29.545729 108.87987 37.02981 116.363951 
+C 44.513892 123.848033 54.66591 128.053137 65.25 128.053137 
+L 65.25 128.053137 
+z
+" clip-path="url(#pf99db59426)" style="fill: none; stroke: #008751; stroke-width: 1.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="text_1">
+    <text style="font-weight: 700; font-size: 8.2px; font-family: 'DejaVu Sans'" transform="translate(31.619109 14.25152)">Fixed distance</text>
+    <text style="font-weight: 700; font-size: 8.2px; font-family: 'DejaVu Sans'" transform="translate(17.933437 24.093762)">from a point → circle</text>
+   </g>
+   <g id="PathCollection_1">
+    <defs>
+     <path id="md0939d19ec" d="M 0 1.870829 
+C 0.49615 1.870829 0.972045 1.673706 1.322876 1.322876 
+C 1.673706 0.972045 1.870829 0.49615 1.870829 0 
+C 1.870829 -0.49615 1.673706 -0.972045 1.322876 -1.322876 
+C 0.972045 -1.673706 0.49615 -1.870829 0 -1.870829 
+C -0.49615 -1.870829 -0.972045 -1.673706 -1.322876 -1.322876 
+C -1.673706 -0.972045 -1.870829 -0.49615 -1.870829 0 
+C -1.870829 0.49615 -1.673706 0.972045 -1.322876 1.322876 
+C -0.972045 1.673706 -0.49615 1.870829 0 1.870829 
+z
+" style="stroke: #ffffff; stroke-width: 0.8"/>
+    </defs>
+    <g clip-path="url(#pf99db59426)">
+     <use xlink:href="#md0939d19ec" x="65.25" y="88.143762" style="fill: #dc2626; stroke: #ffffff; stroke-width: 0.8"/>
+    </g>
+   </g>
+  </g>
+  <g id="axes_2">
+   <g id="line2d_1">
+    <path d="M 144.984375 106.284387 
+L 239.315625 106.284387 
+" clip-path="url(#pe7553fc269)" style="fill: none; stroke: #0e1f40; stroke-width: 1.6; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_2">
+    <path d="M 144.984375 70.003137 
+L 239.315625 70.003137 
+" clip-path="url(#pe7553fc269)" style="fill: none; stroke-dasharray: 6.66,2.88; stroke-dashoffset: 0; stroke: #008751; stroke-width: 1.8"/>
+   </g>
+   <g id="line2d_3">
+    <path d="M 144.984375 142.565637 
+L 239.315625 142.565637 
+" clip-path="url(#pe7553fc269)" style="fill: none; stroke-dasharray: 6.66,2.88; stroke-dashoffset: 0; stroke: #008751; stroke-width: 1.8"/>
+   </g>
+   <g id="text_2">
+    <text style="font-weight: 700; font-size: 8.2px; font-family: 'DejaVu Sans'" transform="translate(158.519109 14.25152)">Fixed distance</text>
+    <text style="font-weight: 700; font-size: 8.2px; font-family: 'DejaVu Sans'" transform="translate(136.625109 24.093762)">from a line → 2 parallels</text>
+   </g>
+  </g>
+  <g id="axes_3">
+   <g id="line2d_4">
+    <path d="M 286.396875 113.540637 
+L 351.703125 113.540637 
+" clip-path="url(#pa008bfac77)" style="fill: none; stroke: #0e1f40; stroke-width: 1.5; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_5">
+    <path d="M 319.05 146.193762 
+L 319.05 33.721887 
+" clip-path="url(#pa008bfac77)" style="fill: none; stroke: #008751; stroke-width: 1.8; stroke-linecap: round"/>
+   </g>
+   <g id="text_3">
+    <text style="font-weight: 700; font-size: 8.2px; font-family: 'DejaVu Sans'" transform="translate(280.283219 14.25152)">Equidistant from</text>
+    <text style="font-weight: 700; font-size: 8.2px; font-family: 'DejaVu Sans'" transform="translate(269.502141 24.093762)">two points → bisector</text>
+   </g>
+   <g id="line2d_6">
+    <path d="M 325.580625 113.540637 
+L 325.580625 107.010012 
+L 319.05 107.010012 
+" clip-path="url(#pa008bfac77)" style="fill: none; stroke: #334155; stroke-width: 1.1; stroke-linecap: square"/>
+   </g>
+   <g id="PathCollection_2">
+    <defs>
+     <path id="md296f684f2" d="M 0 1.732051 
+C 0.459345 1.732051 0.899939 1.549551 1.224745 1.224745 
+C 1.549551 0.899939 1.732051 0.459345 1.732051 0 
+C 1.732051 -0.459345 1.549551 -0.899939 1.224745 -1.224745 
+C 0.899939 -1.549551 0.459345 -1.732051 0 -1.732051 
+C -0.459345 -1.732051 -0.899939 -1.549551 -1.224745 -1.224745 
+C -1.549551 -0.899939 -1.732051 -0.459345 -1.732051 0 
+C -1.732051 0.459345 -1.549551 0.899939 -1.224745 1.224745 
+C -0.899939 1.549551 -0.459345 1.732051 0 1.732051 
+z
+" style="stroke: #ffffff; stroke-width: 0.8"/>
+    </defs>
+    <g clip-path="url(#pa008bfac77)">
+     <use xlink:href="#md296f684f2" x="286.396875" y="113.540637" style="fill: #dc2626; stroke: #ffffff; stroke-width: 0.8"/>
+    </g>
+   </g>
+   <g id="PathCollection_3">
+    <g clip-path="url(#pa008bfac77)">
+     <use xlink:href="#md296f684f2" x="351.703125" y="113.540637" style="fill: #dc2626; stroke: #ffffff; stroke-width: 0.8"/>
+    </g>
+   </g>
+  </g>
+  <g id="axes_4">
+   <g id="line2d_7">
+    <path d="M 398.784375 131.681262 
+L 493.115625 44.606262 
+" clip-path="url(#p4e222c8697)" style="fill: none; stroke: #0e1f40; stroke-width: 1.5; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_8">
+    <path d="M 398.784375 44.606262 
+L 493.115625 131.681262 
+" clip-path="url(#p4e222c8697)" style="fill: none; stroke: #0e1f40; stroke-width: 1.5; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_9">
+    <path d="M 395.15625 88.143762 
+L 496.74375 88.143762 
+" clip-path="url(#p4e222c8697)" style="fill: none; stroke: #008751; stroke-width: 1.7; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_10">
+    <path d="M 445.95 138.937512 
+L 445.95 37.350012 
+" clip-path="url(#p4e222c8697)" style="fill: none; stroke: #008751; stroke-width: 1.7; stroke-linecap: round"/>
+   </g>
+   <g id="text_4">
+    <text style="font-weight: 700; font-size: 8.2px; font-family: 'DejaVu Sans'" transform="translate(407.183219 14.25152)">Equidistant from</text>
+    <text style="font-weight: 700; font-size: 8.2px; font-family: 'DejaVu Sans'" transform="translate(393.206703 24.093762)">two lines → 2 bisectors</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="pf99db59426">
+   <rect x="7.2" y="30.093762" width="116.1" height="116.1"/>
+  </clipPath>
+  <clipPath id="pe7553fc269">
+   <rect x="134.1" y="30.093762" width="116.1" height="116.1"/>
+  </clipPath>
+  <clipPath id="pa008bfac77">
+   <rect x="261" y="30.093762" width="116.1" height="116.1"/>
+  </clipPath>
+  <clipPath id="p4e222c8697">
+   <rect x="387.9" y="30.093762" width="116.1" height="116.1"/>
+  </clipPath>
+ </defs>
+</svg>
