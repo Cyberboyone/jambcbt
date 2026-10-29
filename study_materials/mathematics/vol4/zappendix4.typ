@@ -12,7 +12,7 @@
   radius: 10pt,
   inset: 18pt,
 )[
-  #text(font: "DejaVu Sans", size: 8.8pt, weight: "bold", fill: rgb("#A7F3D0"))[APPENDIX T]
+  #text(font: "DejaVu Sans", size: 8.8pt, weight: "bold", fill: rgb("#A7F3D0"))[APPENDIX U]
   #v(6pt)
   #text(font: "DejaVu Sans", size: 20pt, weight: "bold", fill: white)[The Mastery Tracker]
   #v(4pt)
@@ -136,7 +136,7 @@ Every UTME Mathematics paper draws from this list. Tick an item only when you ca
   radius: 10pt,
   inset: 18pt,
 )[
-  #text(font: "DejaVu Sans", size: 8.8pt, weight: "bold", fill: rgb("#A7F3D0"))[APPENDIX U]
+  #text(font: "DejaVu Sans", size: 8.8pt, weight: "bold", fill: rgb("#A7F3D0"))[APPENDIX V]
   #v(6pt)
   #text(font: "DejaVu Sans", size: 20pt, weight: "bold", fill: white)[The Final Ten Days]
   #v(4pt)

@@ -12,7 +12,7 @@
   radius: 10pt,
   inset: 18pt,
 )[
-  #text(font: "DejaVu Sans", size: 8.8pt, weight: "bold", fill: rgb("#A7F3D0"))[APPENDIX R]
+  #text(font: "DejaVu Sans", size: 8.8pt, weight: "bold", fill: rgb("#A7F3D0"))[APPENDIX S]
   #v(6pt)
   #text(font: "DejaVu Sans", size: 20pt, weight: "bold", fill: white)[Exam-Day Tactics for Sections IV and V]
   #v(4pt)
@@ -132,7 +132,7 @@ When you flag, write the letter you would guess *now* in the margin, then move. 
   radius: 10pt,
   inset: 18pt,
 )[
-  #text(font: "DejaVu Sans", size: 8.8pt, weight: "bold", fill: rgb("#A7F3D0"))[APPENDIX S]
+  #text(font: "DejaVu Sans", size: 8.8pt, weight: "bold", fill: rgb("#A7F3D0"))[APPENDIX T]
   #v(6pt)
   #text(font: "DejaVu Sans", size: 20pt, weight: "bold", fill: white)[The Misconception Clinic]
   #v(4pt)
