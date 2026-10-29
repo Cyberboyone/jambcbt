@@ -7,6 +7,7 @@ key is spread across A–D rather than clustering on one letter.
 
 from __future__ import annotations
 
+import json
 import random
 from pathlib import Path
 
@@ -32,6 +33,15 @@ CHAPTERS = {
 }
 
 LETTERS = "ABCD"
+
+# `_fit.json` (written by tools/fit_solutions.py) tunes the type size of each
+# solution run so that it does not end with a two-line orphan page.
+def _pad(stem: str) -> float:
+    """Extra air between solutions, in points, tuned by tools/fit_solutions.py."""
+    path = OUT / "_fit.json"
+    if path.exists():
+        return float(json.loads(path.read_text()).get(stem, 0))
+    return 0.0
 
 
 def shuffle_item(q, seed):
@@ -142,14 +152,21 @@ def render_chapter(ch):
         "  )",
         "]",
         "",
-        f"=== Complete Solutions",
-        "",
     ]
-    lines += ["#[", "  #set text(size: 9.15pt)", "  #set par(leading: 0.66em, spacing: 0.72em)", ""]
+    path_stem = f"drill_ch{ch:02d}"
+    pad = _pad(path_stem)
+    lines += ["#[", "  #set text(size: 9.15pt)",
+              "  #set par(leading: 0.66em, spacing: 0.72em)", ""]
+    # The heading and the first two solutions travel together, so the heading
+    # can never end up alone at the foot of a page.
+    lines.append("  #block(breakable: false)[")
+    lines.append("  === Complete Solutions")
     for i, (_stem, _opts, k, sol) in enumerate(items, 1):
-        lines.append(f'  #sol-item({i}, "{k}", dense: true)[')
+        lines.append(f'  #sol-item({i}, "{k}", dense: true, pad: {pad}pt)[')
         lines.append(f"    {sol}")
         lines.append("  ]")
+        if i == 2:
+            lines.append("  ]")
         lines.append("")
     lines.append("]")
     lines.append("")

@@ -150,172 +150,197 @@
 
 == Mock Examination 1 — Question Map
 
-Which chapter each question came from. Group your misses by column: the chapter that appears most often under your wrong answers is the only revision task worth starting today.
+Which chapter each question came from, grouped so that a column of misses in your script becomes a revision list. Tick every question you got wrong; the chapter with the longest tick list is the one to revise tonight, before you re-sit the paper.
 
-*Q1* #h(2pt) Ch 1 #h(0pt) *Q2* #h(2pt) Ch 2 #h(0pt) *Q3* #h(2pt) Ch 3 #h(0pt) *Q4* #h(2pt) Ch 4 #h(0pt) *Q5* #h(2pt) Ch 5 #h(0pt) *Q6* #h(2pt) Ch 6 #h(0pt) *Q7* #h(2pt) Ch 7 #h(0pt) *Q8* #h(2pt) Ch 8 #h(0pt) *Q9* #h(2pt) Ch 9 #h(0pt) *Q10* #h(2pt) Ch 10 \
-*Q11* #h(2pt) Ch 1 #h(0pt) *Q12* #h(2pt) Ch 2 #h(0pt) *Q13* #h(2pt) Ch 3 #h(0pt) *Q14* #h(2pt) Ch 4 #h(0pt) *Q15* #h(2pt) Ch 5 #h(0pt) *Q16* #h(2pt) Ch 6 #h(0pt) *Q17* #h(2pt) Ch 7 #h(0pt) *Q18* #h(2pt) Ch 8 #h(0pt) *Q19* #h(2pt) Ch 9 #h(0pt) *Q20* #h(2pt) Ch 10 \
-*Q21* #h(2pt) Ch 1 #h(0pt) *Q22* #h(2pt) Ch 2 #h(0pt) *Q23* #h(2pt) Ch 3 #h(0pt) *Q24* #h(2pt) Ch 4 #h(0pt) *Q25* #h(2pt) Ch 5 #h(0pt) *Q26* #h(2pt) Ch 6 #h(0pt) *Q27* #h(2pt) Ch 7 #h(0pt) *Q28* #h(2pt) Ch 8 #h(0pt) *Q29* #h(2pt) Ch 9 #h(0pt) *Q30* #h(2pt) Ch 10 \
-*Q31* #h(2pt) Ch 1 #h(0pt) *Q32* #h(2pt) Ch 2 #h(0pt) *Q33* #h(2pt) Ch 3 #h(0pt) *Q34* #h(2pt) Ch 4 #h(0pt) *Q35* #h(2pt) Ch 5 #h(0pt) *Q36* #h(2pt) Ch 6 #h(0pt) *Q37* #h(2pt) Ch 7 #h(0pt) *Q38* #h(2pt) Ch 8 #h(0pt) *Q39* #h(2pt) Ch 9 #h(0pt) *Q40* #h(2pt) Ch 10 \
+#table(
+  columns: (0.42fr, 1.75fr, 2.55fr, 0.5fr),
+  inset: 5pt,
+  align: (center + horizon, left + horizon, left + horizon, center + horizon),
+  stroke: 0.5pt + jamb-border,
+  fill: (x, y) => if y == 0 { jamb-navy } else if calc.odd(y) { white } else { jamb-light },
+  table.header(text(font: "DejaVu Sans", size: 8.2pt, weight: "bold", fill: white)[Ch],
+    text(font: "DejaVu Sans", size: 8.2pt, weight: "bold", fill: white)[Topic],
+    text(font: "DejaVu Sans", size: 8.2pt, weight: "bold", fill: white)[Questions],
+    text(font: "DejaVu Sans", size: 8.2pt, weight: "bold", fill: white)[No.]),
+  [1], [Nervous Coordination], [1, 11, 21, 31], [4],
+  [2], [CNS and Sense Organs], [2, 12, 22, 32], [4],
+  [3], [Hormones], [3, 13, 23, 33], [4],
+  [4], [Reproduction in Plants], [4, 14, 24, 34], [4],
+  [5], [Reproduction in Animals], [5, 15, 25, 35], [4],
+  [6], [Growth and Development], [6, 16, 26, 36], [4],
+  [7], [Health and Disease], [7, 17, 27, 37], [4],
+  [8], [Micro-organisms and Decay], [8, 18, 28, 38], [4],
+  [9], [Drugs and First Aid], [9, 19, 29, 39], [4],
+  [10], [Practical Skills], [10, 20, 30, 40], [4],
+)
 
-== Mock Examination 1 — Complete Solutions
+The paper is level with the syllabus: Chapter 1 (4) and Chapter 2 (4) carry the most questions, so a miss there costs the most marks. Revise those first.
 
-#sol-item(1, "D")[
-  *Chapter 1.* The cerebellum coordinates movement and posture, so its damage shows as clumsiness and poor balance.
-]
+#block[
+  #set text(size: 9.6pt)
+  #set par(leading: 0.68em, spacing: 0.72em)
+  #block(breakable: false)[
+  == Mock Examination 1 — Complete Solutions
+  #sol-item(1, "D", dense: true, pad: 7.0pt)[
+    *Chapter 1.* The cerebellum coordinates movement and posture, so its damage shows as clumsiness and poor balance.
+  ]
 
-#sol-item(2, "C")[
-  *Chapter 2.* Colour blindness results from a shortage or defect of one or more kinds of cone.
-]
+  #sol-item(2, "C", dense: true, pad: 7.0pt)[
+    *Chapter 2.* Colour blindness results from a shortage or defect of one or more kinds of cone.
+  ]
+  ]
 
-#sol-item(3, "B")[
-  *Chapter 3.* Thyroxine from the thyroid gland raises the basal metabolic rate and influences growth.
-]
+  #sol-item(3, "B", dense: true, pad: 7.0pt)[
+    *Chapter 3.* Thyroxine from the thyroid gland raises the basal metabolic rate and influences growth.
+  ]
 
-#sol-item(4, "A")[
-  *Chapter 4.* Colour, scent and nectar attract the insect that carries the pollen.
-]
+  #sol-item(4, "A", dense: true, pad: 7.0pt)[
+    *Chapter 4.* Colour, scent and nectar attract the insect that carries the pollen.
+  ]
 
-#sol-item(5, "D")[
-  *Chapter 5.* If no embryo implants, progesterone falls and the thickened lining is shed.
-]
+  #sol-item(5, "D", dense: true, pad: 7.0pt)[
+    *Chapter 5.* If no embryo implants, progesterone falls and the thickened lining is shed.
+  ]
 
-#sol-item(6, "B")[
-  *Chapter 6.* The imago is the sexually mature adult.
-]
+  #sol-item(6, "B", dense: true, pad: 7.0pt)[
+    *Chapter 6.* The imago is the sexually mature adult.
+  ]
 
-#sol-item(7, "C")[
-  *Chapter 7.* Ventilation dilutes the droplets and covering the mouth stops them being released.
-]
+  #sol-item(7, "C", dense: true, pad: 7.0pt)[
+    *Chapter 7.* Ventilation dilutes the droplets and covering the mouth stops them being released.
+  ]
 
-#sol-item(8, "A")[
-  *Chapter 8.* Yeast cells divide by budding: a small daughter cell grows out of the parent.
-]
+  #sol-item(8, "A", dense: true, pad: 7.0pt)[
+    *Chapter 8.* Yeast cells divide by budding: a small daughter cell grows out of the parent.
+  ]
 
-#sol-item(9, "D")[
-  *Chapter 9.* Nets stop the mosquito biting at night and reduce transmission.
-]
+  #sol-item(9, "D", dense: true, pad: 7.0pt)[
+    *Chapter 9.* Nets stop the mosquito biting at night and reduce transmission.
+  ]
 
-#sol-item(10, "B")[
-  *Chapter 10.* N = (20 × 20) ÷ 4 = 100.
-]
+  #sol-item(10, "B", dense: true, pad: 7.0pt)[
+    *Chapter 10.* N = (20 × 20) ÷ 4 = 100.
+  ]
 
-#sol-item(11, "C")[
-  *Chapter 1.* The neurone is the structural and functional unit of the nervous system.
-]
+  #sol-item(11, "C", dense: true, pad: 7.0pt)[
+    *Chapter 1.* The neurone is the structural and functional unit of the nervous system.
+  ]
 
-#sol-item(12, "A")[
-  *Chapter 2.* In long sight the image would focus behind the retina, so a convex (converging) lens brings it forward.
-]
+  #sol-item(12, "A", dense: true, pad: 7.0pt)[
+    *Chapter 2.* In long sight the image would focus behind the retina, so a convex (converging) lens brings it forward.
+  ]
 
-#sol-item(13, "D")[
-  *Chapter 3.* Without ADH the tubules cannot reabsorb water, so much dilute urine is passed — diabetes insipidus.
-]
+  #sol-item(13, "D", dense: true, pad: 7.0pt)[
+    *Chapter 3.* Without ADH the tubules cannot reabsorb water, so much dilute urine is passed — diabetes insipidus.
+  ]
 
-#sol-item(14, "A")[
-  *Chapter 4.* Because the offspring are clones, a good variety can be reproduced exactly.
-]
+  #sol-item(14, "A", dense: true, pad: 7.0pt)[
+    *Chapter 4.* Because the offspring are clones, a good variety can be reproduced exactly.
+  ]
 
-#sol-item(15, "B")[
-  *Chapter 5.* The oviduct (fallopian tube) carries the egg and is the site of fertilisation.
-]
+  #sol-item(15, "B", dense: true, pad: 7.0pt)[
+    *Chapter 5.* The oviduct (fallopian tube) carries the egg and is the site of fertilisation.
+  ]
 
-#sol-item(16, "C")[
-  *Chapter 6.* Inside the pupa the larval tissues are broken down and the adult structures are built in safety.
-]
+  #sol-item(16, "C", dense: true, pad: 7.0pt)[
+    *Chapter 6.* Inside the pupa the larval tissues are broken down and the adult structures are built in safety.
+  ]
 
-#sol-item(17, "B")[
-  *Chapter 7.* The typhoid bacterium is shed in the faeces and enters through contaminated food or water.
-]
+  #sol-item(17, "B", dense: true, pad: 7.0pt)[
+    *Chapter 7.* The typhoid bacterium is shed in the faeces and enters through contaminated food or water.
+  ]
 
-#sol-item(18, "A")[
-  *Chapter 8.* The fuzzy growth on bread is a fungus, whose hyphae spread through the bread.
-]
+  #sol-item(18, "A", dense: true, pad: 7.0pt)[
+    *Chapter 8.* The fuzzy growth on bread is a fungus, whose hyphae spread through the bread.
+  ]
 
-#sol-item(19, "C")[
-  *Chapter 9.* Tar deposits in the lungs, contains carcinogens and paralyses the cilia that would clear the airways.
-]
+  #sol-item(19, "C", dense: true, pad: 7.0pt)[
+    *Chapter 9.* Tar deposits in the lungs, contains carcinogens and paralyses the cilia that would clear the airways.
+  ]
 
-#sol-item(20, "D")[
-  *Chapter 10.* It is the outcome — the thing that responds to the independent variable.
-]
+  #sol-item(20, "D", dense: true, pad: 7.0pt)[
+    *Chapter 10.* It is the outcome — the thing that responds to the independent variable.
+  ]
 
-#sol-item(21, "A")[
-  *Chapter 1.* The cerebrospinal fluid surrounds the brain and spinal cord and absorbs the shocks of everyday movement.
-]
+  #sol-item(21, "A", dense: true, pad: 7.0pt)[
+    *Chapter 1.* The cerebrospinal fluid surrounds the brain and spinal cord and absorbs the shocks of everyday movement.
+  ]
 
-#sol-item(22, "B")[
-  *Chapter 2.* The semicircular canals detect the position of the head and help keep the body balanced.
-]
+  #sol-item(22, "B", dense: true, pad: 7.0pt)[
+    *Chapter 2.* The semicircular canals detect the position of the head and help keep the body balanced.
+  ]
 
-#sol-item(23, "C")[
-  *Chapter 3.* The beta cells of the islets secrete insulin; the alpha cells secrete glucagon.
-]
+  #sol-item(23, "C", dense: true, pad: 7.0pt)[
+    *Chapter 3.* The beta cells of the islets secrete insulin; the alpha cells secrete glucagon.
+  ]
 
-#sol-item(24, "D")[
-  *Chapter 4.* The sepals enclose and protect the flower bud before it opens.
-]
+  #sol-item(24, "D", dense: true, pad: 7.0pt)[
+    *Chapter 4.* The sepals enclose and protect the flower bud before it opens.
+  ]
 
-#sol-item(25, "C")[
-  *Chapter 5.* Menopause is the cessation of ovulation and menstruation, usually between 45 and 55 years of age.
-]
+  #sol-item(25, "C", dense: true, pad: 7.0pt)[
+    *Chapter 5.* Menopause is the cessation of ovulation and menstruation, usually between 45 and 55 years of age.
+  ]
 
-#sol-item(26, "D")[
-  *Chapter 6.* The immature stages are confined to the water they were laid in, so removing the water kills them.
-]
+  #sol-item(26, "D", dense: true, pad: 7.0pt)[
+    *Chapter 6.* The immature stages are confined to the water they were laid in, so removing the water kills them.
+  ]
 
-#sol-item(27, "A")[
-  *Chapter 7.* The pathogen causes the disease; the vector only carries it.
-]
+  #sol-item(27, "A", dense: true, pad: 7.0pt)[
+    *Chapter 7.* The pathogen causes the disease; the vector only carries it.
+  ]
 
-#sol-item(28, "B")[
-  *Chapter 8.* Each colony arises from a single cell that has divided many times.
-]
+  #sol-item(28, "B", dense: true, pad: 7.0pt)[
+    *Chapter 8.* Each colony arises from a single cell that has divided many times.
+  ]
 
-#sol-item(29, "C")[
-  *Chapter 9.* Abuse is use without medical need, or in the wrong amount, or for pleasure.
-]
+  #sol-item(29, "C", dense: true, pad: 7.0pt)[
+    *Chapter 9.* Abuse is use without medical need, or in the wrong amount, or for pleasure.
+  ]
 
-#sol-item(30, "A")[
-  *Chapter 10.* Recording the species at intervals along a line reveals patterns of distribution.
-]
+  #sol-item(30, "A", dense: true, pad: 7.0pt)[
+    *Chapter 10.* Recording the species at intervals along a line reveals patterns of distribution.
+  ]
 
-#sol-item(31, "D")[
-  *Chapter 1.* The central nervous system is the brain and spinal cord; the peripheral nervous system is the nerves that connect it to the body.
-]
+  #sol-item(31, "D", dense: true, pad: 7.0pt)[
+    *Chapter 1.* The central nervous system is the brain and spinal cord; the peripheral nervous system is the nerves that connect it to the body.
+  ]
 
-#sol-item(32, "B")[
-  *Chapter 2.* A sense organ contains receptors specialised for one kind of stimulus.
-]
+  #sol-item(32, "B", dense: true, pad: 7.0pt)[
+    *Chapter 2.* A sense organ contains receptors specialised for one kind of stimulus.
+  ]
 
-#sol-item(33, "A")[
-  *Chapter 3.* A tropism is a growth movement whose direction is determined by the direction of the stimulus.
-]
+  #sol-item(33, "A", dense: true, pad: 7.0pt)[
+    *Chapter 3.* A tropism is a growth movement whose direction is determined by the direction of the stimulus.
+  ]
 
-#sol-item(34, "C")[
-  *Chapter 4.* The integuments of the ovule harden to form the testa, or seed coat.
-]
+  #sol-item(34, "C", dense: true, pad: 7.0pt)[
+    *Chapter 4.* The integuments of the ovule harden to form the testa, or seed coat.
+  ]
 
-#sol-item(35, "D")[
-  *Chapter 5.* Progesterone maintains the endometrium and prevents contractions of the uterus during pregnancy.
-]
+  #sol-item(35, "D", dense: true, pad: 7.0pt)[
+    *Chapter 5.* Progesterone maintains the endometrium and prevents contractions of the uterus during pregnancy.
+  ]
 
-#sol-item(36, "B")[
-  *Chapter 6.* In darkness the plant elongates its cells in search of light, but without photosynthesis the walls are thin and the plant is weak.
-]
+  #sol-item(36, "B", dense: true, pad: 7.0pt)[
+    *Chapter 6.* In darkness the plant elongates its cells in search of light, but without photosynthesis the walls are thin and the plant is weak.
+  ]
 
-#sol-item(37, "D")[
-  *Chapter 7.* Vaccines must be kept cold; if the cold chain fails, the antigens are destroyed and the vaccine does not work.
-]
+  #sol-item(37, "D", dense: true, pad: 7.0pt)[
+    *Chapter 7.* Vaccines must be kept cold; if the cold chain fails, the antigens are destroyed and the vaccine does not work.
+  ]
 
-#sol-item(38, "B")[
-  *Chapter 8.* Table salt is obtained by evaporating brine or mining rock salt; no micro-organism is involved.
-]
+  #sol-item(38, "B", dense: true, pad: 7.0pt)[
+    *Chapter 8.* Table salt is obtained by evaporating brine or mining rock salt; no micro-organism is involved.
+  ]
 
-#sol-item(39, "A")[
-  *Chapter 9.* Distance and slope prevent the contents from contaminating the drinking water.
-]
+  #sol-item(39, "A", dense: true, pad: 7.0pt)[
+    *Chapter 9.* Distance and slope prevent the contents from contaminating the drinking water.
+  ]
 
-#sol-item(40, "C")[
-  *Chapter 10.* If sampling positions are chosen deliberately, the estimate will be biased towards the chosen areas.
+  #sol-item(40, "C", dense: true, pad: 7.0pt)[
+    *Chapter 10.* If sampling positions are chosen deliberately, the estimate will be biased towards the chosen areas.
+  ]
+
 ]
 

@@ -269,9 +269,11 @@
   ]
 ]
 
+#[
+#set text(size: 8.4pt)
 #table(
-  columns: (1.55fr, 2.0fr, 1.65fr, auto),
-  inset: 6.5pt,
+  columns: (1.5fr, 1.95fr, 2.05fr, auto),
+  inset: (x: 5.5pt, y: 4.2pt),
   align: (left + horizon, left + horizon, left + horizon, center + horizon),
   stroke: 0.5pt + jamb-border,
   fill: (x, y) => if y == 0 { jamb-navy } else if calc.odd(y) { white } else { jamb-light },
@@ -291,8 +293,9 @@
   [*Micro-organisms and decay*], [Useful and harmful micro-organisms; decay; food preservation; industry.], [(i) State the conditions for decay; (ii) give one industrial use of a named micro-organism.], [*8*],
   [*Drugs, first aid and public health*], [Drug abuse, first aid, sanitation, immunisation programmes.], [(i) Describe the effects of a named drug; (ii) state the first-aid steps for a named emergency.], [*9*],
   [*Practical skills*], [Microscopy, magnification, biological drawings, food tests, experiments and controls.], [(i) Calculate magnification; (ii) design a controlled experiment and identify its variables.], [*10*],)
+]
 
-#v(6pt)
+#v(5pt)
 
 #block(width: 100%, fill: jamb-light, stroke: 0.7pt + jamb-border, radius: 7pt, inset: 10pt)[
   #text(font: "DejaVu Sans", size: 9.2pt, weight: "bold", fill: jamb-navy)[Where the rest of the Biology syllabus lives]

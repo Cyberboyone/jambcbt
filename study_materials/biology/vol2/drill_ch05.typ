@@ -264,129 +264,130 @@
   )
 ]
 
-=== Complete Solutions
-
 #[
   #set text(size: 9.15pt)
   #set par(leading: 0.66em, spacing: 0.72em)
 
-  #sol-item(1, "D", dense: true)[
+  #block(breakable: false)[
+  === Complete Solutions
+  #sol-item(1, "D", dense: true, pad: 0.0pt)[
     The sperm meets the egg in the upper part of the oviduct (fallopian tube); the zygote then travels to the uterus.
   ]
 
-  #sol-item(2, "D", dense: true)[
+  #sol-item(2, "D", dense: true, pad: 0.0pt)[
     The oviduct (fallopian tube) is the site of fertilisation and the route to the uterus.
   ]
+  ]
 
-  #sol-item(3, "D", dense: true)[
+  #sol-item(3, "D", dense: true, pad: 0.0pt)[
     A surge of luteinising hormone from the pituitary triggers ovulation on about day 14 of the cycle.
   ]
 
-  #sol-item(4, "B", dense: true)[
+  #sol-item(4, "B", dense: true, pad: 0.0pt)[
     Progesterone maintains the thickened lining of the uterus and inhibits further ovulation.
   ]
 
-  #sol-item(5, "A", dense: true)[
+  #sol-item(5, "A", dense: true, pad: 0.0pt)[
     If no fertilisation occurs, progesterone falls, the endometrium breaks down and menstruation begins.
   ]
 
-  #sol-item(6, "B", dense: true)[
+  #sol-item(6, "B", dense: true, pad: 0.0pt)[
     The sperm is small and motile with a tail; the ovum is large and non-motile.
   ]
 
-  #sol-item(7, "D", dense: true)[
+  #sol-item(7, "D", dense: true, pad: 0.0pt)[
     The seminiferous tubules of the testes produce sperm and testosterone.
   ]
 
-  #sol-item(8, "C", dense: true)[
+  #sol-item(8, "C", dense: true, pad: 0.0pt)[
     The uterus (womb) holds the developing foetus and its placenta.
   ]
 
-  #sol-item(9, "A", dense: true)[
+  #sol-item(9, "A", dense: true, pad: 0.0pt)[
     It is the exchange surface between mother and foetus; their blood does not mix.
   ]
 
-  #sol-item(10, "D", dense: true)[
+  #sol-item(10, "D", dense: true, pad: 0.0pt)[
     In the cord, two umbilical arteries carry deoxygenated blood away, and one umbilical vein carries oxygenated blood back.
   ]
 
-  #sol-item(11, "B", dense: true)[
+  #sol-item(11, "B", dense: true, pad: 0.0pt)[
     The embryo sinks into the endometrium about a week after fertilisation.
   ]
 
-  #sol-item(12, "D", dense: true)[
+  #sol-item(12, "D", dense: true, pad: 0.0pt)[
     The testes are both a gamete factory and an endocrine gland.
   ]
 
-  #sol-item(13, "B", dense: true)[
+  #sol-item(13, "B", dense: true, pad: 0.0pt)[
     Follicle-stimulating hormone from the pituitary starts a follicle growing each cycle.
   ]
 
-  #sol-item(14, "A", dense: true)[
+  #sol-item(14, "A", dense: true, pad: 0.0pt)[
     Oestrogen also repairs the uterine lining after menstruation.
   ]
 
-  #sol-item(15, "A", dense: true)[
+  #sol-item(15, "A", dense: true, pad: 0.0pt)[
     Day 1 is the first day of bleeding; ovulation is around day 14.
   ]
 
-  #sol-item(16, "B", dense: true)[
+  #sol-item(16, "B", dense: true, pad: 0.0pt)[
     Bleeding, then oestrogen rebuilds the lining, then LH triggers ovulation, then progesterone thickens the lining.
   ]
 
-  #sol-item(17, "B", dense: true)[
+  #sol-item(17, "B", dense: true, pad: 0.0pt)[
     The ovary contains the follicles in which eggs mature and are released.
   ]
 
-  #sol-item(18, "A", dense: true)[
+  #sol-item(18, "A", dense: true, pad: 0.0pt)[
     The acrosome enzymes digest the egg membranes; the middle piece is packed with mitochondria for the tail.
   ]
 
-  #sol-item(19, "C", dense: true)[
+  #sol-item(19, "C", dense: true, pad: 0.0pt)[
     Asexual reproduction involves no gamete fusion, so the offspring are clones.
   ]
 
-  #sol-item(20, "C", dense: true)[
+  #sol-item(20, "C", dense: true, pad: 0.0pt)[
     The fluid in the amniotic sac cushions the foetus and keeps the temperature constant.
   ]
 
-  #sol-item(21, "D", dense: true)[
+  #sol-item(21, "D", dense: true, pad: 0.0pt)[
     The cervical mucus plug seals the uterus and keeps the foetal environment sterile.
   ]
 
-  #sol-item(22, "A", dense: true)[
+  #sol-item(22, "A", dense: true, pad: 0.0pt)[
     Progesterone continues to be produced, first by the corpus luteum and then by the placenta.
   ]
 
-  #sol-item(23, "C", dense: true)[
+  #sol-item(23, "C", dense: true, pad: 0.0pt)[
     Their secretions nourish and transport the sperm.
   ]
 
-  #sol-item(24, "A", dense: true)[
+  #sol-item(24, "A", dense: true, pad: 0.0pt)[
     The operation blocks the tube that carries sperm from the testis, and testosterone production is unaffected.
   ]
 
-  #sol-item(25, "C", dense: true)[
+  #sol-item(25, "C", dense: true, pad: 0.0pt)[
     Yolk in the cytoplasm nourishes the embryo before implantation.
   ]
 
-  #sol-item(26, "A", dense: true)[
+  #sol-item(26, "A", dense: true, pad: 0.0pt)[
     Oxytocin stimulates the powerful uterine contractions of labour.
   ]
 
-  #sol-item(27, "C", dense: true)[
+  #sol-item(27, "C", dense: true, pad: 0.0pt)[
     Testosterone produces the deep voice, facial hair and muscular build at puberty.
   ]
 
-  #sol-item(28, "A", dense: true)[
+  #sol-item(28, "A", dense: true, pad: 0.0pt)[
     Fusion of the two haploid nuclei restores the diploid number.
   ]
 
-  #sol-item(29, "C", dense: true)[
+  #sol-item(29, "C", dense: true, pad: 0.0pt)[
     The pill contains oestrogen and progesterone, which suppress FSH and LH release.
   ]
 
-  #sol-item(30, "D", dense: true)[
+  #sol-item(30, "D", dense: true, pad: 0.0pt)[
     Human gestation is about nine months, or roughly 280 days from the last menstruation.
   ]
 

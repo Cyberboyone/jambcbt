@@ -264,129 +264,130 @@
   )
 ]
 
-=== Complete Solutions
-
 #[
   #set text(size: 9.15pt)
   #set par(leading: 0.66em, spacing: 0.72em)
 
-  #sol-item(1, "C", dense: true)[
+  #block(breakable: false)[
+  === Complete Solutions
+  #sol-item(1, "C", dense: true, pad: 0.0pt)[
     The World Health Organization definition includes physical, mental and social well-being — not merely the absence of disease.
   ]
 
-  #sol-item(2, "D", dense: true)[
+  #sol-item(2, "D", dense: true, pad: 0.0pt)[
     Sickle-cell anaemia is inherited and cannot be passed from person to person; the others are infectious.
   ]
+  ]
 
-  #sol-item(3, "A", dense: true)[
+  #sol-item(3, "A", dense: true, pad: 0.0pt)[
     The mosquito is only the vector. The causative organism is Plasmodium, a protozoan.
   ]
 
-  #sol-item(4, "D", dense: true)[
+  #sol-item(4, "D", dense: true, pad: 0.0pt)[
     Sleeping sickness (trypanosomiasis) is carried by the tsetse fly, Glossina.
   ]
 
-  #sol-item(5, "C", dense: true)[
+  #sol-item(5, "C", dense: true, pad: 0.0pt)[
     Tuberculosis spreads in droplets coughed or sneezed into the air by an infected person.
   ]
 
-  #sol-item(6, "C", dense: true)[
+  #sol-item(6, "C", dense: true, pad: 0.0pt)[
     Cholera is a faecal–oral disease: the bacteria leave in the stool and enter the next person through contaminated water or food.
   ]
 
-  #sol-item(7, "A", dense: true)[
+  #sol-item(7, "A", dense: true, pad: 0.0pt)[
     The guinea worm larva develops inside a small water crustacean, Cyclops. Drinking unfiltered water containing Cyclops passes the larva on.
   ]
 
-  #sol-item(8, "C", dense: true)[
+  #sol-item(8, "C", dense: true, pad: 0.0pt)[
     Ringworm and athlete's foot are fungal infections of the skin.
   ]
 
-  #sol-item(9, "D", dense: true)[
+  #sol-item(9, "D", dense: true, pad: 0.0pt)[
     Antibiotics attack structures found in bacteria, such as the cell wall. A virus has no cell wall and no metabolism of its own, so antibiotics do not affect it.
   ]
 
-  #sol-item(10, "B", dense: true)[
+  #sol-item(10, "B", dense: true, pad: 0.0pt)[
     The skin, mucus, cilia, stomach acid and tears form the first line — they stop the pathogen entering at all.
   ]
 
-  #sol-item(11, "B", dense: true)[
+  #sol-item(11, "B", dense: true, pad: 0.0pt)[
     Phagocytes are white blood cells that surround and digest bacteria — phagocytosis.
   ]
 
-  #sol-item(12, "C", dense: true)[
+  #sol-item(12, "C", dense: true, pad: 0.0pt)[
     Lymphocytes (B cells) make antibodies in response to a specific antigen.
   ]
 
-  #sol-item(13, "A", dense: true)[
+  #sol-item(13, "A", dense: true, pad: 0.0pt)[
     The antigen is the foreign marker; the antibody is the protein made in response to it.
   ]
 
-  #sol-item(14, "A", dense: true)[
+  #sol-item(14, "A", dense: true, pad: 0.0pt)[
     Recovery from an infection leaves the person's own lymphocytes having made antibodies and memory cells — active immunity.
   ]
 
-  #sol-item(15, "B", dense: true)[
+  #sol-item(15, "B", dense: true, pad: 0.0pt)[
     A vaccine contains weakened, killed or fragmentary antigens. The body responds by making antibodies and memory cells, so a real infection is met at once.
   ]
 
-  #sol-item(16, "D", dense: true)[
+  #sol-item(16, "D", dense: true, pad: 0.0pt)[
     The antibodies are made by the mother and given ready-made — passive — and they arrive naturally, without an injection.
   ]
 
-  #sol-item(17, "D", dense: true)[
+  #sol-item(17, "D", dense: true, pad: 0.0pt)[
     The antibodies are manufactured outside the body and injected — passive, artificial, and short-lived.
   ]
 
-  #sol-item(18, "B", dense: true)[
+  #sol-item(18, "B", dense: true, pad: 0.0pt)[
     Herd immunity works because a pathogen that cannot find susceptible hosts cannot keep a chain of transmission going.
   ]
 
-  #sol-item(19, "C", dense: true)[
+  #sol-item(19, "C", dense: true, pad: 0.0pt)[
     Malaria is vector-borne, so the measure must attack the mosquito: remove breeding sites and prevent bites.
   ]
 
-  #sol-item(20, "B", dense: true)[
+  #sol-item(20, "B", dense: true, pad: 0.0pt)[
     BCG is the vaccine against tuberculosis.
   ]
 
-  #sol-item(21, "C", dense: true)[
+  #sol-item(21, "C", dense: true, pad: 0.0pt)[
     Polio virus is shed in the faeces and spreads through contaminated water and food, which is why sanitation is part of its control.
   ]
 
-  #sol-item(22, "B", dense: true)[
+  #sol-item(22, "B", dense: true, pad: 0.0pt)[
     A moderate fever creates conditions less favourable to many pathogens and speeds up the activity of the immune cells.
   ]
 
-  #sol-item(23, "B", dense: true)[
+  #sol-item(23, "B", dense: true, pad: 0.0pt)[
     Mucus traps the particles and the cilia beat them up towards the throat, where they are swallowed or coughed out.
   ]
 
-  #sol-item(24, "D", dense: true)[
+  #sol-item(24, "D", dense: true, pad: 0.0pt)[
     The tetanus bacterium lives in soil and enters through a cut or a deep wound.
   ]
 
-  #sol-item(25, "B", dense: true)[
+  #sol-item(25, "B", dense: true, pad: 0.0pt)[
     HIV is not spread by sharing food, crockery, or by casual contact; it requires the exchange of blood or body fluids.
   ]
 
-  #sol-item(26, "A", dense: true)[
+  #sol-item(26, "A", dense: true, pad: 0.0pt)[
     If the pathogen travels in water, the chain is broken by making the water safe and keeping faeces out of it.
   ]
 
-  #sol-item(27, "C", dense: true)[
+  #sol-item(27, "C", dense: true, pad: 0.0pt)[
     A carrier harbours the pathogen and sheds it, but does not show the symptoms — which is why carriers are so important in epidemics.
   ]
 
-  #sol-item(28, "D", dense: true)[
+  #sol-item(28, "D", dense: true, pad: 0.0pt)[
     A mechanical vector simply carries the pathogen on its body; a biological vector is one in which the pathogen must multiply before it can infect.
   ]
 
-  #sol-item(29, "A", dense: true)[
+  #sol-item(29, "A", dense: true, pad: 0.0pt)[
     Tuberculosis spreads by droplets, and crowded, poorly ventilated rooms make transmission almost certain.
   ]
 
-  #sol-item(30, "D", dense: true)[
+  #sol-item(30, "D", dense: true, pad: 0.0pt)[
     The salts and glucose in the solution replace the water and electrolytes lost in cholera and other diarrhoeas.
   ]
 

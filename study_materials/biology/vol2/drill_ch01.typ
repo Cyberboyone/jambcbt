@@ -264,129 +264,130 @@
   )
 ]
 
-=== Complete Solutions
-
 #[
   #set text(size: 9.15pt)
   #set par(leading: 0.66em, spacing: 0.72em)
 
-  #sol-item(1, "C", dense: true)[
+  #block(breakable: false)[
+  === Complete Solutions
+  #sol-item(1, "C", dense: true, pad: 0.0pt)[
     The axon is the single long fibre that carries the impulse away from the cell body; dendrites bring impulses *towards* it.
   ]
 
-  #sol-item(2, "B", dense: true)[
+  #sol-item(2, "B", dense: true, pad: 0.0pt)[
     A synapse is the small gap between the axon terminal of one neurone and the dendrite or cell body of the next.
   ]
+  ]
 
-  #sol-item(3, "C", dense: true)[
+  #sol-item(3, "C", dense: true, pad: 0.0pt)[
     The impulse cannot cross the gap electrically; vesicles release a transmitter into the cleft and it binds to receptors on the next membrane.
   ]
 
-  #sol-item(4, "C", dense: true)[
+  #sol-item(4, "C", dense: true, pad: 0.0pt)[
     This is saltatory conduction: the impulse is regenerated only at the nodes of Ranvier, so it travels faster.
   ]
 
-  #sol-item(5, "A", dense: true)[
+  #sol-item(5, "A", dense: true, pad: 0.0pt)[
     A reflex arc is nervous, not hormonal: receptor, sensory neurone, relay neurone, motor neurone and effector.
   ]
 
-  #sol-item(6, "C", dense: true)[
+  #sol-item(6, "C", dense: true, pad: 0.0pt)[
     The synaptic cleft is the space, about 20 nm wide, across which the transmitter diffuses.
   ]
 
-  #sol-item(7, "C", dense: true)[
+  #sol-item(7, "C", dense: true, pad: 0.0pt)[
     Sensory neurones carry impulses *into* the CNS, motor neurones carry them *out*.
   ]
 
-  #sol-item(8, "A", dense: true)[
+  #sol-item(8, "A", dense: true, pad: 0.0pt)[
     Nerve impulses travel in fractions of a second and stop quickly; hormones travel in the blood and act for longer.
   ]
 
-  #sol-item(9, "D", dense: true)[
+  #sol-item(9, "D", dense: true, pad: 0.0pt)[
     Light, heat, sound, chemicals and pressure are all stimuli when a receptor can detect them.
   ]
 
-  #sol-item(10, "B", dense: true)[
+  #sol-item(10, "B", dense: true, pad: 0.0pt)[
     The impulse always enters through the receptor and leaves through the effector.
   ]
 
-  #sol-item(11, "D", dense: true)[
+  #sol-item(11, "D", dense: true, pad: 0.0pt)[
     The swelling on the dorsal root — the ganglion — contains the cell bodies of sensory neurones.
   ]
 
-  #sol-item(12, "B", dense: true)[
+  #sol-item(12, "B", dense: true, pad: 0.0pt)[
     Effectors are the muscles and glands that produce the response the nervous system commands.
   ]
 
-  #sol-item(13, "C", dense: true)[
+  #sol-item(13, "C", dense: true, pad: 0.0pt)[
     The size of the impulse does not change; a stronger stimulus produces impulses more frequently, not larger ones.
   ]
 
-  #sol-item(14, "A", dense: true)[
+  #sol-item(14, "A", dense: true, pad: 0.0pt)[
     The transmitter and the receptors are on opposite sides, so the message can only pass from knob to membrane.
   ]
 
-  #sol-item(15, "D", dense: true)[
+  #sol-item(15, "D", dense: true, pad: 0.0pt)[
     The refractory period forces the impulse to travel forwards and sets a maximum impulse rate.
   ]
 
-  #sol-item(16, "B", dense: true)[
+  #sol-item(16, "B", dense: true, pad: 0.0pt)[
     Efferent = carrying away from the CNS; afferent = carrying towards it (sensory).
   ]
 
-  #sol-item(17, "A", dense: true)[
+  #sol-item(17, "A", dense: true, pad: 0.0pt)[
     Myelin insulates the axon and allows saltatory conduction between the nodes of Ranvier.
   ]
 
-  #sol-item(18, "D", dense: true)[
+  #sol-item(18, "D", dense: true, pad: 0.0pt)[
     The linking is done by a relay neurone in the spinal cord or brain stem, without waiting for the cerebrum.
   ]
 
-  #sol-item(19, "D", dense: true)[
+  #sol-item(19, "D", dense: true, pad: 0.0pt)[
     Dendrites are the receiving branches; the axon is the transmitting fibre.
   ]
 
-  #sol-item(20, "D", dense: true)[
+  #sol-item(20, "D", dense: true, pad: 0.0pt)[
     Blinking is rapid, automatic and protective; the other three require a decision in the cerebrum.
   ]
 
-  #sol-item(21, "A", dense: true)[
+  #sol-item(21, "A", dense: true, pad: 0.0pt)[
     Transmitter accumulates in the cleft and keeps stimulating the receptors, exaggerating the response.
   ]
 
-  #sol-item(22, "B", dense: true)[
+  #sol-item(22, "B", dense: true, pad: 0.0pt)[
     One-way conduction is a consequence of the synapse and the refractory period.
   ]
 
-  #sol-item(23, "D", dense: true)[
+  #sol-item(23, "D", dense: true, pad: 0.0pt)[
     Relay (intermediate) neurones link sensory to motor neurones inside the spinal cord or brain.
   ]
 
-  #sol-item(24, "C", dense: true)[
+  #sol-item(24, "C", dense: true, pad: 0.0pt)[
     The nucleus sits in the cell body, which also contains most of the cytoplasm and mitochondria.
   ]
 
-  #sol-item(25, "B", dense: true)[
+  #sol-item(25, "B", dense: true, pad: 0.0pt)[
     Growth over years is controlled by hormones (growth hormone), not by nerve impulses.
   ]
 
-  #sol-item(26, "D", dense: true)[
+  #sol-item(26, "D", dense: true, pad: 0.0pt)[
     Below threshold nothing happens; at threshold a full impulse is fired.
   ]
 
-  #sol-item(27, "C", dense: true)[
+  #sol-item(27, "C", dense: true, pad: 0.0pt)[
     At each node the membrane is exposed, and that is where the impulse is regenerated.
   ]
 
-  #sol-item(28, "B", dense: true)[
+  #sol-item(28, "B", dense: true, pad: 0.0pt)[
     With the pathway broken, the receptor's message never reaches the CNS.
   ]
 
-  #sol-item(29, "D", dense: true)[
+  #sol-item(29, "D", dense: true, pad: 0.0pt)[
     Rapidity, automaticity and a protective purpose are the three defining features.
   ]
 
-  #sol-item(30, "A", dense: true)[
+  #sol-item(30, "A", dense: true, pad: 0.0pt)[
     Hormones are carried everywhere by the blood; specificity comes from the receptor on the target cell.
   ]
 

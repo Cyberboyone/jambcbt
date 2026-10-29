@@ -264,129 +264,130 @@
   )
 ]
 
-=== Complete Solutions
-
 #[
   #set text(size: 9.15pt)
   #set par(leading: 0.66em, spacing: 0.72em)
 
-  #sol-item(1, "C", dense: true)[
+  #block(breakable: false)[
+  === Complete Solutions
+  #sol-item(1, "C", dense: true, pad: 0.0pt)[
     Pollination is the transfer of pollen; fertilisation is the fusion of gametes that follows.
   ]
 
-  #sol-item(2, "D", dense: true)[
+  #sol-item(2, "D", dense: true, pad: 0.0pt)[
     The ovule becomes the seed and the ovary becomes the fruit.
   ]
+  ]
 
-  #sol-item(3, "A", dense: true)[
+  #sol-item(3, "A", dense: true, pad: 0.0pt)[
     Colour, scent and nectar are insect attractants; wind-pollinated flowers are dull and unscented.
   ]
 
-  #sol-item(4, "D", dense: true)[
+  #sol-item(4, "D", dense: true, pad: 0.0pt)[
     The radicle emerges first and anchors the seedling while it absorbs water.
   ]
 
-  #sol-item(5, "C", dense: true)[
+  #sol-item(5, "C", dense: true, pad: 0.0pt)[
     The stamen consists of the anther, which makes pollen, and the filament.
   ]
 
-  #sol-item(6, "C", dense: true)[
+  #sol-item(6, "C", dense: true, pad: 0.0pt)[
     The carpel consists of the stigma, style and ovary.
   ]
 
-  #sol-item(7, "B", dense: true)[
+  #sol-item(7, "B", dense: true, pad: 0.0pt)[
     Cross-pollination brings genetic variation; self-pollination keeps the parent's genes.
   ]
 
-  #sol-item(8, "A", dense: true)[
+  #sol-item(8, "A", dense: true, pad: 0.0pt)[
     The tube grows from the stigma, down the style, into the ovary and to the ovule.
   ]
 
-  #sol-item(9, "D", dense: true)[
+  #sol-item(9, "D", dense: true, pad: 0.0pt)[
     Wings and hairs increase air resistance and keep the seed aloft.
   ]
 
-  #sol-item(10, "A", dense: true)[
+  #sol-item(10, "A", dense: true, pad: 0.0pt)[
     The fibrous husk encloses air spaces so the fruit floats and is carried by currents.
   ]
 
-  #sol-item(11, "C", dense: true)[
+  #sol-item(11, "C", dense: true, pad: 0.0pt)[
     Flesh is eaten and the seed passes through the gut; hooks grip fur.
   ]
 
-  #sol-item(12, "A", dense: true)[
+  #sol-item(12, "A", dense: true, pad: 0.0pt)[
     The cotyledons hold the starch and protein that the seedling uses before it can photosynthesise.
   ]
 
-  #sol-item(13, "C", dense: true)[
+  #sol-item(13, "C", dense: true, pad: 0.0pt)[
     The micropyle is the small pore in the testa through which water is absorbed.
   ]
 
-  #sol-item(14, "B", dense: true)[
+  #sol-item(14, "B", dense: true, pad: 0.0pt)[
     Light is not needed for germination itself, although the seedling needs light once it turns green.
   ]
 
-  #sol-item(15, "C", dense: true)[
+  #sol-item(15, "C", dense: true, pad: 0.0pt)[
     Both self-pollination and cross-pollination are pollination; the distinction is whether one or two plants are involved.
   ]
 
-  #sol-item(16, "D", dense: true)[
+  #sol-item(16, "D", dense: true, pad: 0.0pt)[
     This produces the food store of the seed, separate from the embryo.
   ]
 
-  #sol-item(17, "C", dense: true)[
+  #sol-item(17, "C", dense: true, pad: 0.0pt)[
     Sepals form the calyx and enclose the bud before it opens.
   ]
 
-  #sol-item(18, "A", dense: true)[
+  #sol-item(18, "A", dense: true, pad: 0.0pt)[
     The ovary wall becomes the fruit wall; the ovule inside becomes the seed.
   ]
 
-  #sol-item(19, "D", dense: true)[
+  #sol-item(19, "D", dense: true, pad: 0.0pt)[
     Sticky pollen clings to the insect and to the stigma it visits next.
   ]
 
-  #sol-item(20, "B", dense: true)[
+  #sol-item(20, "B", dense: true, pad: 0.0pt)[
     The radicle is the embryonic root; the plumule is the embryonic shoot.
   ]
 
-  #sol-item(21, "D", dense: true)[
+  #sol-item(21, "D", dense: true, pad: 0.0pt)[
     No gametes are involved, so the offspring are clones of the parent plant.
   ]
 
-  #sol-item(22, "D", dense: true)[
+  #sol-item(22, "D", dense: true, pad: 0.0pt)[
     Runners, rhizomes, tubers, bulbs, corms, suckers and cuttings are all vegetative methods.
   ]
 
-  #sol-item(23, "D", dense: true)[
+  #sol-item(23, "D", dense: true, pad: 0.0pt)[
     Cereals store their food in the endosperm rather than in the cotyledon.
   ]
 
-  #sol-item(24, "B", dense: true)[
+  #sol-item(24, "B", dense: true, pad: 0.0pt)[
     The pappus of hairs slows its fall and lets the wind carry it away.
   ]
 
-  #sol-item(25, "A", dense: true)[
+  #sol-item(25, "A", dense: true, pad: 0.0pt)[
     The male gamete travels down the pollen tube to the egg inside the ovule.
   ]
 
-  #sol-item(26, "C", dense: true)[
+  #sol-item(26, "C", dense: true, pad: 0.0pt)[
     The pericarp is the wall of the fruit and may be fleshy or dry.
   ]
 
-  #sol-item(27, "A", dense: true)[
+  #sol-item(27, "A", dense: true, pad: 0.0pt)[
     All three conditions are met and the embryo is alive and undamaged.
   ]
 
-  #sol-item(28, "A", dense: true)[
+  #sol-item(28, "A", dense: true, pad: 0.0pt)[
     The plumule contains the young shoot; it turns green once it reaches light.
   ]
 
-  #sol-item(29, "C", dense: true)[
+  #sol-item(29, "C", dense: true, pad: 0.0pt)[
     The flamboyant pod dries and bursts, throwing the seeds away from the parent.
   ]
 
-  #sol-item(30, "A", dense: true)[
+  #sol-item(30, "A", dense: true, pad: 0.0pt)[
     New combinations of genes give the species a better chance of surviving a change in the environment.
   ]
 

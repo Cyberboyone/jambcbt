@@ -268,12 +268,12 @@ Four questions of the kind the CBT engine starts a paper with. Ninety seconds ea
 #mcq(3, [Pasteurisation of milk preserves it because the process], [adds vitamins], [kills most of the micro-organisms present], [removes all the water], [makes the milk acid])
 #mcq(4, [Viruses differ from bacteria in that viruses], [have a nucleus], [are larger than bacteria], [are not cells and cannot reproduce outside a host], [can be killed by antibiotics])
 
-#answer-key-grid(("D", "B", "C", "C"))
+#answer-key-grid(("D", "B", "B", "C"))
 
 #answer-notes((
   ("D", [humus is the dark material left by decay; it returns minerals to the soil and improves its structure and water-holding capacity.]),
   ("B", [the strong salt solution pulls water out of the microbial cells by *osmosis*, so they cannot grow.]),
-  ("C", [yeast ferments sugar to alcohol and *carbon dioxide*; the trapped gas expands the dough.]),
+  ("B", [pasteurisation heats the milk enough to kill most of the spoilage organisms and pathogens without spoiling the taste.]),
   ("C", [a virus has no cytoplasm or enzymes and must enter a living host cell before it can multiply — which is why antibiotics do nothing.]),
 ))
 

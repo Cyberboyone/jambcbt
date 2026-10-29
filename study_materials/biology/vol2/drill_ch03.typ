@@ -264,129 +264,130 @@
   )
 ]
 
-=== Complete Solutions
-
 #[
   #set text(size: 9.15pt)
   #set par(leading: 0.66em, spacing: 0.72em)
 
-  #sol-item(1, "A", dense: true)[
+  #block(breakable: false)[
+  === Complete Solutions
+  #sol-item(1, "A", dense: true, pad: 0.0pt)[
     Insulin, from the β cells of the islets of Langerhans, converts glucose to glycogen and lowers the blood level.
   ]
 
-  #sol-item(2, "C", dense: true)[
+  #sol-item(2, "C", dense: true, pad: 0.0pt)[
     There is no duct: the secretion passes straight into the capillaries inside the gland.
   ]
+  ]
 
-  #sol-item(3, "D", dense: true)[
+  #sol-item(3, "D", dense: true, pad: 0.0pt)[
     Antidiuretic hormone makes the collecting ducts more permeable, so more water returns to the blood.
   ]
 
-  #sol-item(4, "A", dense: true)[
+  #sol-item(4, "A", dense: true, pad: 0.0pt)[
     Auxin moves away from light; the shaded cells elongate more, so the shoot curves towards the light.
   ]
 
-  #sol-item(5, "C", dense: true)[
+  #sol-item(5, "C", dense: true, pad: 0.0pt)[
     The pituitary secretes hormones that control several other glands, which is why it is called the master gland.
   ]
 
-  #sol-item(6, "B", dense: true)[
+  #sol-item(6, "B", dense: true, pad: 0.0pt)[
     Without enough insulin, glucose stays in the blood and spills into the urine.
   ]
 
-  #sol-item(7, "B", dense: true)[
+  #sol-item(7, "B", dense: true, pad: 0.0pt)[
     The adrenal medulla releases adrenaline during fear, excitement or stress.
   ]
 
-  #sol-item(8, "B", dense: true)[
+  #sol-item(8, "B", dense: true, pad: 0.0pt)[
     Adrenaline prepares the body for action: faster heart and breathing, more glucose released, pupils dilated.
   ]
 
-  #sol-item(9, "D", dense: true)[
+  #sol-item(9, "D", dense: true, pad: 0.0pt)[
     Iodine is needed to make thyroxine; the thyroid enlarges as it tries to trap more iodine.
   ]
 
-  #sol-item(10, "D", dense: true)[
+  #sol-item(10, "D", dense: true, pad: 0.0pt)[
     The three parts of the definition — gland, blood, target — must all be present.
   ]
 
-  #sol-item(11, "B", dense: true)[
+  #sol-item(11, "B", dense: true, pad: 0.0pt)[
     Glucagon raises blood glucose; insulin does the opposite.
   ]
 
-  #sol-item(12, "B", dense: true)[
+  #sol-item(12, "B", dense: true, pad: 0.0pt)[
     Growth hormone from the anterior pituitary controls the growth of bones and muscles.
   ]
 
-  #sol-item(13, "B", dense: true)[
+  #sol-item(13, "B", dense: true, pad: 0.0pt)[
     These clusters of endocrine cells in the pancreas secrete insulin and glucagon.
   ]
 
-  #sol-item(14, "D", dense: true)[
+  #sol-item(14, "D", dense: true, pad: 0.0pt)[
     Concentrated blood stimulates ADH release, so more water is reabsorbed and less urine is produced.
   ]
 
-  #sol-item(15, "A", dense: true)[
+  #sol-item(15, "A", dense: true, pad: 0.0pt)[
     Photo = light; geo = gravity; hydro = water; thigmo = touch.
   ]
 
-  #sol-item(16, "C", dense: true)[
+  #sol-item(16, "C", dense: true, pad: 0.0pt)[
     The growing tip is the source of auxin, which then moves down and sideways.
   ]
 
-  #sol-item(17, "C", dense: true)[
+  #sol-item(17, "C", dense: true, pad: 0.0pt)[
     Auxin (indole acetic acid) is the best-known plant growth substance.
   ]
 
-  #sol-item(18, "D", dense: true)[
+  #sol-item(18, "D", dense: true, pad: 0.0pt)[
     This is why the lower side of a root grows less and the root bends downwards.
   ]
 
-  #sol-item(19, "B", dense: true)[
+  #sol-item(19, "B", dense: true, pad: 0.0pt)[
     Thyroid-stimulating hormone is one of the pituitary hormones that controls another gland.
   ]
 
-  #sol-item(20, "A", dense: true)[
+  #sol-item(20, "A", dense: true, pad: 0.0pt)[
     Thyroxine is essential for normal physical and mental development in childhood.
   ]
 
-  #sol-item(21, "D", dense: true)[
+  #sol-item(21, "D", dense: true, pad: 0.0pt)[
     Adrenaline is the emergency hormone of the adrenal medulla.
   ]
 
-  #sol-item(22, "C", dense: true)[
+  #sol-item(22, "C", dense: true, pad: 0.0pt)[
     Glucagon from the α cells raises blood glucose by breaking down liver glycogen.
   ]
 
-  #sol-item(23, "A", dense: true)[
+  #sol-item(23, "A", dense: true, pad: 0.0pt)[
     Both insulin and ADH are negative feedback controls: the response cancels the original stimulus.
   ]
 
-  #sol-item(24, "D", dense: true)[
+  #sol-item(24, "D", dense: true, pad: 0.0pt)[
     Roots are positively geotropic; shoots are negatively geotropic.
   ]
 
-  #sol-item(25, "C", dense: true)[
+  #sol-item(25, "C", dense: true, pad: 0.0pt)[
     The salivary gland has a duct and secretes saliva into the mouth; endocrine glands are ductless.
   ]
 
-  #sol-item(26, "D", dense: true)[
+  #sol-item(26, "D", dense: true, pad: 0.0pt)[
     Prolactin from the anterior pituitary acts on the mammary glands.
   ]
 
-  #sol-item(27, "B", dense: true)[
+  #sol-item(27, "B", dense: true, pad: 0.0pt)[
     The long bones can no longer grow, so the hands, feet and jaw enlarge instead.
   ]
 
-  #sol-item(28, "A", dense: true)[
+  #sol-item(28, "A", dense: true, pad: 0.0pt)[
     Without ADH the kidney cannot reabsorb water, so large volumes of dilute urine are produced.
   ]
 
-  #sol-item(29, "D", dense: true)[
+  #sol-item(29, "D", dense: true, pad: 0.0pt)[
     Gravity causes the uneven distribution, so the lower side elongates more and the shoot turns upwards.
   ]
 
-  #sol-item(30, "B", dense: true)[
+  #sol-item(30, "B", dense: true, pad: 0.0pt)[
     Enzymes act where they are produced; hormones travel in the blood to distant targets.
   ]
 

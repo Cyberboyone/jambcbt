@@ -144,172 +144,197 @@ Sit it under examination conditions: no notes, no phone, one sheet of rough pape
 
 == The Final Forty — Question Map
 
-Which chapter each question came from. Group your misses by column: the chapter that appears most often under your wrong answers is the only revision task worth starting today.
+Which chapter each question came from, grouped so that a column of misses in your script becomes a revision list. Tick every question you got wrong; the chapter with the longest tick list is the one to revise tonight, before you re-sit the paper.
 
-*Q1* #h(2pt) Ch 1 #h(0pt) *Q2* #h(2pt) Ch 2 #h(0pt) *Q3* #h(2pt) Ch 3 #h(0pt) *Q4* #h(2pt) Ch 4 #h(0pt) *Q5* #h(2pt) Ch 5 #h(0pt) *Q6* #h(2pt) Ch 6 #h(0pt) *Q7* #h(2pt) Ch 7 #h(0pt) *Q8* #h(2pt) Ch 8 #h(0pt) *Q9* #h(2pt) Ch 9 #h(0pt) *Q10* #h(2pt) Ch 10 \
-*Q11* #h(2pt) Ch 1 #h(0pt) *Q12* #h(2pt) Ch 2 #h(0pt) *Q13* #h(2pt) Ch 3 #h(0pt) *Q14* #h(2pt) Ch 4 #h(0pt) *Q15* #h(2pt) Ch 5 #h(0pt) *Q16* #h(2pt) Ch 6 #h(0pt) *Q17* #h(2pt) Ch 7 #h(0pt) *Q18* #h(2pt) Ch 8 #h(0pt) *Q19* #h(2pt) Ch 9 #h(0pt) *Q20* #h(2pt) Ch 10 \
-*Q21* #h(2pt) Ch 1 #h(0pt) *Q22* #h(2pt) Ch 2 #h(0pt) *Q23* #h(2pt) Ch 3 #h(0pt) *Q24* #h(2pt) Ch 4 #h(0pt) *Q25* #h(2pt) Ch 5 #h(0pt) *Q26* #h(2pt) Ch 6 #h(0pt) *Q27* #h(2pt) Ch 7 #h(0pt) *Q28* #h(2pt) Ch 8 #h(0pt) *Q29* #h(2pt) Ch 9 #h(0pt) *Q30* #h(2pt) Ch 10 \
-*Q31* #h(2pt) Ch 1 #h(0pt) *Q32* #h(2pt) Ch 2 #h(0pt) *Q33* #h(2pt) Ch 3 #h(0pt) *Q34* #h(2pt) Ch 4 #h(0pt) *Q35* #h(2pt) Ch 5 #h(0pt) *Q36* #h(2pt) Ch 6 #h(0pt) *Q37* #h(2pt) Ch 7 #h(0pt) *Q38* #h(2pt) Ch 8 #h(0pt) *Q39* #h(2pt) Ch 9 #h(0pt) *Q40* #h(2pt) Ch 10 \
+#table(
+  columns: (0.42fr, 1.75fr, 2.55fr, 0.5fr),
+  inset: 5pt,
+  align: (center + horizon, left + horizon, left + horizon, center + horizon),
+  stroke: 0.5pt + jamb-border,
+  fill: (x, y) => if y == 0 { jamb-navy } else if calc.odd(y) { white } else { jamb-light },
+  table.header(text(font: "DejaVu Sans", size: 8.2pt, weight: "bold", fill: white)[Ch],
+    text(font: "DejaVu Sans", size: 8.2pt, weight: "bold", fill: white)[Topic],
+    text(font: "DejaVu Sans", size: 8.2pt, weight: "bold", fill: white)[Questions],
+    text(font: "DejaVu Sans", size: 8.2pt, weight: "bold", fill: white)[No.]),
+  [1], [Nervous Coordination], [1, 11, 21, 31], [4],
+  [2], [CNS and Sense Organs], [2, 12, 22, 32], [4],
+  [3], [Hormones], [3, 13, 23, 33], [4],
+  [4], [Reproduction in Plants], [4, 14, 24, 34], [4],
+  [5], [Reproduction in Animals], [5, 15, 25, 35], [4],
+  [6], [Growth and Development], [6, 16, 26, 36], [4],
+  [7], [Health and Disease], [7, 17, 27, 37], [4],
+  [8], [Micro-organisms and Decay], [8, 18, 28, 38], [4],
+  [9], [Drugs and First Aid], [9, 19, 29, 39], [4],
+  [10], [Practical Skills], [10, 20, 30, 40], [4],
+)
 
-== The Final Forty — Complete Solutions
+The paper is level with the syllabus: Chapter 1 (4) and Chapter 2 (4) carry the most questions, so a miss there costs the most marks. Revise those first.
 
-#sol-item(1, "A")[
-  *Chapter 1.* Motor neurones carry the impulse to the muscle; if they are damaged, the muscle no longer receives the command.
-]
+#block[
+  #set text(size: 9.6pt)
+  #set par(leading: 0.68em, spacing: 0.72em)
+  #block(breakable: false)[
+  == The Final Forty — Complete Solutions
+  #sol-item(1, "A", dense: true, pad: 6.0pt)[
+    *Chapter 1.* Motor neurones carry the impulse to the muscle; if they are damaged, the muscle no longer receives the command.
+  ]
 
-#sol-item(2, "B")[
-  *Chapter 2.* The ciliary muscles change the shape of the lens so that near or distant objects are focused on the retina.
-]
+  #sol-item(2, "B", dense: true, pad: 6.0pt)[
+    *Chapter 2.* The ciliary muscles change the shape of the lens so that near or distant objects are focused on the retina.
+  ]
+  ]
 
-#sol-item(3, "D")[
-  *Chapter 3.* Insulin promotes the uptake of glucose by cells and its conversion to glycogen in the liver and muscles.
-]
+  #sol-item(3, "D", dense: true, pad: 6.0pt)[
+    *Chapter 3.* Insulin promotes the uptake of glucose by cells and its conversion to glycogen in the liver and muscles.
+  ]
 
-#sol-item(4, "C")[
-  *Chapter 4.* One male gamete fuses with the egg, and the other fuses with the two polar nuclei to form the endosperm.
-]
+  #sol-item(4, "C", dense: true, pad: 6.0pt)[
+    *Chapter 4.* One male gamete fuses with the egg, and the other fuses with the two polar nuclei to form the endosperm.
+  ]
 
-#sol-item(5, "B")[
-  *Chapter 5.* The follicle left behind after ovulation becomes the corpus luteum, which secretes progesterone.
-]
+  #sol-item(5, "B", dense: true, pad: 6.0pt)[
+    *Chapter 5.* The follicle left behind after ovulation becomes the corpus luteum, which secretes progesterone.
+  ]
 
-#sol-item(6, "C")[
-  *Chapter 6.* The stepped curve reflects growth interrupted by moults in an insect with an exoskeleton.
-]
+  #sol-item(6, "C", dense: true, pad: 6.0pt)[
+    *Chapter 6.* The stepped curve reflects growth interrupted by moults in an insect with an exoskeleton.
+  ]
 
-#sol-item(7, "A")[
-  *Chapter 7.* On the second exposure the memory cells divide rapidly, so antibodies appear sooner and in greater quantity.
-]
+  #sol-item(7, "A", dense: true, pad: 6.0pt)[
+    *Chapter 7.* On the second exposure the memory cells divide rapidly, so antibodies appear sooner and in greater quantity.
+  ]
 
-#sol-item(8, "D")[
-  *Chapter 8.* Respiration by the decomposers releases carbon dioxide, which plants can fix again.
-]
+  #sol-item(8, "D", dense: true, pad: 6.0pt)[
+    *Chapter 8.* Respiration by the decomposers releases carbon dioxide, which plants can fix again.
+  ]
 
-#sol-item(9, "B")[
-  *Chapter 9.* Cocaine produces intense short-lived stimulation and is strongly addictive.
-]
+  #sol-item(9, "B", dense: true, pad: 6.0pt)[
+    *Chapter 9.* Cocaine produces intense short-lived stimulation and is strongly addictive.
+  ]
 
-#sol-item(10, "D")[
-  *Chapter 10.* The control shows what would have happened without the variable, so the effect can be attributed correctly.
-]
+  #sol-item(10, "D", dense: true, pad: 6.0pt)[
+    *Chapter 10.* The control shows what would have happened without the variable, so the effect can be attributed correctly.
+  ]
 
-#sol-item(11, "A")[
-  *Chapter 1.* Myelin insulates the axon, and the impulse jumps between the nodes of Ranvier, which makes conduction much faster.
-]
+  #sol-item(11, "A", dense: true, pad: 6.0pt)[
+    *Chapter 1.* Myelin insulates the axon, and the impulse jumps between the nodes of Ranvier, which makes conduction much faster.
+  ]
 
-#sol-item(12, "C")[
-  *Chapter 2.* The vitreous humour is the jelly that fills the large chamber behind the lens and keeps the eyeball firm.
-]
+  #sol-item(12, "C", dense: true, pad: 6.0pt)[
+    *Chapter 2.* The vitreous humour is the jelly that fills the large chamber behind the lens and keeps the eyeball firm.
+  ]
 
-#sol-item(13, "D")[
-  *Chapter 3.* The adrenal cortex secretes cortisol and aldosterone; the medulla secretes adrenaline.
-]
+  #sol-item(13, "D", dense: true, pad: 6.0pt)[
+    *Chapter 3.* The adrenal cortex secretes cortisol and aldosterone; the medulla secretes adrenaline.
+  ]
 
-#sol-item(14, "B")[
-  *Chapter 4.* The filament is the stalk of the stamen; the anther sits on top of it.
-]
+  #sol-item(14, "B", dense: true, pad: 6.0pt)[
+    *Chapter 4.* The filament is the stalk of the stamen; the anther sits on top of it.
+  ]
 
-#sol-item(15, "C")[
-  *Chapter 5.* A surge of luteinising hormone ruptures the follicle and releases the egg.
-]
+  #sol-item(15, "C", dense: true, pad: 6.0pt)[
+    *Chapter 5.* A surge of luteinising hormone ruptures the follicle and releases the egg.
+  ]
 
-#sol-item(16, "A")[
-  *Chapter 6.* Apical and lateral meristems remain active, so a tree can keep growing for centuries.
-]
+  #sol-item(16, "A", dense: true, pad: 6.0pt)[
+    *Chapter 6.* Apical and lateral meristems remain active, so a tree can keep growing for centuries.
+  ]
 
-#sol-item(17, "A")[
-  *Chapter 7.* Cholera is caused by the bacterium Vibrio cholerae.
-]
+  #sol-item(17, "A", dense: true, pad: 6.0pt)[
+    *Chapter 7.* Cholera is caused by the bacterium Vibrio cholerae.
+  ]
 
-#sol-item(18, "D")[
-  *Chapter 8.* Freezing does not reliably kill micro-organisms; it stops them growing until the food thaws.
-]
+  #sol-item(18, "D", dense: true, pad: 6.0pt)[
+    *Chapter 8.* Freezing does not reliably kill micro-organisms; it stops them growing until the food thaws.
+  ]
 
-#sol-item(19, "C")[
-  *Chapter 9.* A tourniquet can cause the loss of the limb, so it is a last resort for uncontrollable bleeding.
-]
+  #sol-item(19, "C", dense: true, pad: 6.0pt)[
+    *Chapter 9.* A tourniquet can cause the loss of the limb, so it is a last resort for uncontrollable bleeding.
+  ]
 
-#sol-item(20, "B")[
-  *Chapter 10.* A conclusion must be tied to the evidence and the range of values actually tested.
-]
+  #sol-item(20, "B", dense: true, pad: 6.0pt)[
+    *Chapter 10.* A conclusion must be tied to the evidence and the range of values actually tested.
+  ]
 
-#sol-item(21, "C")[
-  *Chapter 1.* The hypothalamus is the link between the nervous and endocrine systems and the body's thermostat.
-]
+  #sol-item(21, "C", dense: true, pad: 6.0pt)[
+    *Chapter 1.* The hypothalamus is the link between the nervous and endocrine systems and the body's thermostat.
+  ]
 
-#sol-item(22, "B")[
-  *Chapter 2.* Olfactory receptor cells in the roof of the nasal cavity respond to chemicals in the air.
-]
+  #sol-item(22, "B", dense: true, pad: 6.0pt)[
+    *Chapter 2.* Olfactory receptor cells in the roof of the nasal cavity respond to chemicals in the air.
+  ]
 
-#sol-item(23, "A")[
-  *Chapter 3.* Glucose in the urine draws water with it by osmosis, so the patient passes much urine and is always thirsty.
-]
+  #sol-item(23, "A", dense: true, pad: 6.0pt)[
+    *Chapter 3.* Glucose in the urine draws water with it by osmosis, so the patient passes much urine and is always thirsty.
+  ]
 
-#sol-item(24, "D")[
-  *Chapter 4.* The scion (the shoot) is joined to the stock (the root system) so that they grow as one plant.
-]
+  #sol-item(24, "D", dense: true, pad: 6.0pt)[
+    *Chapter 4.* The scion (the shoot) is joined to the stock (the root system) so that they grow as one plant.
+  ]
 
-#sol-item(25, "C")[
-  *Chapter 5.* Fertilisation occurs in the upper oviduct; the zygote then travels to the uterus to implant.
-]
+  #sol-item(25, "C", dense: true, pad: 6.0pt)[
+    *Chapter 5.* Fertilisation occurs in the upper oviduct; the zygote then travels to the uterus to implant.
+  ]
 
-#sol-item(26, "D")[
-  *Chapter 6.* The plateau is the adult phase, when the growth plates have fused.
-]
+  #sol-item(26, "D", dense: true, pad: 6.0pt)[
+    *Chapter 6.* The plateau is the adult phase, when the growth plates have fused.
+  ]
 
-#sol-item(27, "A")[
-  *Chapter 7.* Athlete's foot is a fungal infection of the skin between the toes.
-]
+  #sol-item(27, "A", dense: true, pad: 6.0pt)[
+    *Chapter 7.* Athlete's foot is a fungal infection of the skin between the toes.
+  ]
 
-#sol-item(28, "B")[
-  *Chapter 8.* A virus has no metabolism of its own and must use the machinery of a host cell.
-]
+  #sol-item(28, "B", dense: true, pad: 6.0pt)[
+    *Chapter 8.* A virus has no metabolism of its own and must use the machinery of a host cell.
+  ]
 
-#sol-item(29, "A")[
-  *Chapter 9.* Flies and rats breed in refuse and carry pathogens to food and water.
-]
+  #sol-item(29, "A", dense: true, pad: 6.0pt)[
+    *Chapter 9.* Flies and rats breed in refuse and carry pathogens to food and water.
+  ]
 
-#sol-item(30, "C")[
-  *Chapter 10.* The convention is to plot the variable that is changed on the x-axis and the one measured on the y-axis.
-]
+  #sol-item(30, "C", dense: true, pad: 6.0pt)[
+    *Chapter 10.* The convention is to plot the variable that is changed on the x-axis and the one measured on the y-axis.
+  ]
 
-#sol-item(31, "B")[
-  *Chapter 1.* The vertebrae enclose the spinal cord and protect it from injury.
-]
+  #sol-item(31, "B", dense: true, pad: 6.0pt)[
+    *Chapter 1.* The vertebrae enclose the spinal cord and protect it from injury.
+  ]
 
-#sol-item(32, "D")[
-  *Chapter 2.* The skin contains receptors for touch, pressure, temperature and pain, but not for light.
-]
+  #sol-item(32, "D", dense: true, pad: 6.0pt)[
+    *Chapter 2.* The skin contains receptors for touch, pressure, temperature and pain, but not for light.
+  ]
 
-#sol-item(33, "D")[
-  *Chapter 3.* ADH increases the reabsorption of water from the kidney tubules, so less urine is produced.
-]
+  #sol-item(33, "D", dense: true, pad: 6.0pt)[
+    *Chapter 3.* ADH increases the reabsorption of water from the kidney tubules, so less urine is produced.
+  ]
 
-#sol-item(34, "C")[
-  *Chapter 4.* The endosperm is the food store formed by double fertilisation.
-]
+  #sol-item(34, "C", dense: true, pad: 6.0pt)[
+    *Chapter 4.* The endosperm is the food store formed by double fertilisation.
+  ]
 
-#sol-item(35, "B")[
-  *Chapter 5.* Sperm are stored and mature in the epididymis before ejaculation.
-]
+  #sol-item(35, "B", dense: true, pad: 6.0pt)[
+    *Chapter 5.* Sperm are stored and mature in the epididymis before ejaculation.
+  ]
 
-#sol-item(36, "A")[
-  *Chapter 6.* Meristems are the regions of dividing cells at the root and shoot tips and in the cambium.
-]
+  #sol-item(36, "A", dense: true, pad: 6.0pt)[
+    *Chapter 6.* Meristems are the regions of dividing cells at the root and shoot tips and in the cambium.
+  ]
 
-#sol-item(37, "B")[
-  *Chapter 7.* Rickets results from a lack of vitamin D or calcium.
-]
+  #sol-item(37, "B", dense: true, pad: 6.0pt)[
+    *Chapter 7.* Rickets results from a lack of vitamin D or calcium.
+  ]
 
-#sol-item(38, "D")[
-  *Chapter 8.* The anaerobic digestion of waste produces a gas that is mostly methane.
-]
+  #sol-item(38, "D", dense: true, pad: 6.0pt)[
+    *Chapter 8.* The anaerobic digestion of waste produces a gas that is mostly methane.
+  ]
 
-#sol-item(39, "A")[
-  *Chapter 9.* Loss of blood or fluid lowers the blood pressure and starves the tissues of oxygen.
-]
+  #sol-item(39, "A", dense: true, pad: 6.0pt)[
+    *Chapter 9.* Loss of blood or fluid lowers the blood pressure and starves the tissues of oxygen.
+  ]
 
-#sol-item(40, "C")[
-  *Chapter 10.* N = (M × C) ÷ R, where R is the number of marked animals in the second sample.
+  #sol-item(40, "C", dense: true, pad: 6.0pt)[
+    *Chapter 10.* N = (M × C) ÷ R, where R is the number of marked animals in the second sample.
+  ]
+
 ]
 

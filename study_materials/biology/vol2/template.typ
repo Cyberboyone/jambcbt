@@ -495,15 +495,15 @@
 }
 
 // ── Step-by-Step Solution Item for Drill / Mock Questions ──────────────────
-#let sol-item(num, ans, body, dense: false) = {
-  v(if dense { 1pt } else { 3pt }, weak: true)
+#let sol-item(num, ans, body, dense: false, pad: 0pt) = {
+  v((if dense { 0.5pt } else { 3pt }) + pad, weak: true)
   block(
     width: 100%,
     stroke: (left: 3pt + jamb-bright, bottom: 0.5pt + jamb-border),
     inset: (
       left: 10pt,
-      top: if dense { 2pt } else { 4pt },
-      bottom: if dense { 3pt } else { 6pt },
+      top: if dense { 1.5pt } else { 4pt },
+      bottom: if dense { 2pt } else { 6pt },
       right: 4pt,
     ),
   )[

@@ -327,485 +327,491 @@ The chapter each block of questions came from. Work the bank in blocks of twenty
   [10], [Practical Skills], [12], [Chapter 10 and its drill],
 )
 
-== The 120-Question Master Bank — Complete Solutions
-
-#sol-item(1, "A")[
-  *Chapter 1.* The skull (cranium) and the membranes (meninges) with cerebrospinal fluid protect the brain.
-]
-
-#sol-item(2, "C")[
-  *Chapter 2.* Sound waves strike the tympanic membrane and make it vibrate.
-]
-
-#sol-item(3, "B")[
-  *Chapter 3.* A deficiency of thyroxine in infancy causes cretinism — stunted growth and mental retardation.
-]
-
-#sol-item(4, "D")[
-  *Chapter 4.* A seed has a seed coat (testa), an embryo and a food store (endosperm or cotyledon).
-]
-
-#sol-item(5, "D")[
-  *Chapter 5.* Ovulation occurs at mid-cycle, about day 14, triggered by the LH surge.
-]
-
-#sol-item(6, "A")[
-  *Chapter 6.* The rate of cell division and of protein synthesis falls, so tissues are repaired more slowly.
-]
-
-#sol-item(7, "B")[
-  *Chapter 7.* Plasmodium is the protozoan; the Anopheles mosquito is its vector.
-]
-
-#sol-item(8, "C")[
-  *Chapter 8.* Lactic-acid fermentation lowers the pH and preserves the crop.
-]
-
-#sol-item(9, "B")[
-  *Chapter 9.* Alcohol depresses the nervous system, so the driver reacts more slowly and judges speed poorly.
-]
-
-#sol-item(10, "C")[
-  *Chapter 10.* Total magnification is the product of the eyepiece power and the objective power.
-]
-
-#sol-item(11, "A")[
-  *Chapter 1.* The cerebellum coordinates movement and maintains balance and posture.
-]
-
-#sol-item(12, "D")[
-  *Chapter 2.* The malleus, incus and stapes transmit and amplify the vibration from the eardrum to the oval window.
-]
-
-#sol-item(13, "C")[
-  *Chapter 3.* Insulin injection, a controlled diet and exercise are the standard treatment for type 1 diabetes.
-]
-
-#sol-item(14, "A")[
-  *Chapter 4.* A feathery stigma outside the flower catches pollen carried on the wind.
-]
-
-#sol-item(15, "B")[
-  *Chapter 5.* Monozygotic (identical) twins come from one zygote that splits into two embryos.
-]
-
-#sol-item(16, "D")[
-  *Chapter 6.* Apical meristems at the tips are responsible for growth in length.
-]
-
-#sol-item(17, "D")[
-  *Chapter 7.* Some lymphocytes produced during a response become memory cells that survive for years.
-]
-
-#sol-item(18, "B")[
-  *Chapter 8.* Most micro-organisms grow perfectly well in the dark; light is not a general requirement.
-]
-
-#sol-item(19, "A")[
-  *Chapter 9.* A medicine is a drug used with a specific purpose and dose — not every drug is a medicine.
-]
-
-#sol-item(20, "C")[
-  *Chapter 10.* It moves the tube (or the stage, on some microscopes) up and down for the first rough focus.
-]
-
-#sol-item(21, "D")[
-  *Chapter 1.* Sensory neurones carry impulses from receptors to the CNS; motor neurones carry them away to effectors.
-]
-
-#sol-item(22, "B")[
-  *Chapter 2.* In myopia the image focuses in front of the retina, and a concave (diverging) lens pushes it back onto the retina.
-]
-
-#sol-item(23, "C")[
-  *Chapter 3.* After the growth plates have fused, excess growth hormone thickens the bones of the hands, feet and face — acromegaly.
-]
-
-#sol-item(24, "A")[
-  *Chapter 4.* Most seeds need water, oxygen and warmth. Light and soil are not necessary for germination itself.
-]
-
-#sol-item(25, "D")[
-  *Chapter 5.* Semen is the fluid that carries the sperm; the fluid is added by the prostate gland and seminal vesicles.
-]
-
-#sol-item(26, "C")[
-  *Chapter 6.* Water is not growth; drying the plant leaves only the material it has actually built.
-]
-
-#sol-item(27, "B")[
-  *Chapter 7.* Plague is carried from rats to people by fleas.
-]
-
-#sol-item(28, "A")[
-  *Chapter 8.* Bacteria divide into two identical cells by binary fission.
-]
-
-#sol-item(29, "A")[
-  *Chapter 9.* Education about the effects and support at home are the most effective preventive measures.
-]
-
-#sol-item(30, "B")[
-  *Chapter 10.* Plants do not move, so they can be counted inside a square thrown at random.
-]
-
-#sol-item(31, "C")[
-  *Chapter 1.* The autonomic system controls involuntary functions of the internal organs.
-]
-
-#sol-item(32, "D")[
-  *Chapter 2.* The pinna is the flap that funnels sound waves into the auditory canal.
-]
-
-#sol-item(33, "B")[
-  *Chapter 3.* The ovary secretes oestrogen and progesterone, which control the female cycle and secondary sexual characters.
-]
-
-#sol-item(34, "C")[
-  *Chapter 4.* A ripe bean pod dries and twists, flinging the seeds away from the parent plant.
-]
-
-#sol-item(35, "A")[
-  *Chapter 5.* With the oviducts blocked, the egg cannot be fertilised.
-]
-
-#sol-item(36, "D")[
-  *Chapter 6.* 4 cm ÷ 1 cm = 4, so the length has increased four times.
-]
-
-#sol-item(37, "A")[
-  *Chapter 7.* Sleeping sickness is carried by the tsetse fly.
-]
-
-#sol-item(38, "D")[
-  *Chapter 8.* The concentrated sugar solution pulls water out of the microbial cells, which then cannot grow.
-]
-
-#sol-item(39, "B")[
-  *Chapter 9.* Alcohol crosses the placenta and can cause foetal alcohol syndrome.
-]
-
-#sol-item(40, "C")[
-  *Chapter 10.* An anomaly does not fit the pattern and should be checked, and usually excluded from the average.
-]
-
-#sol-item(41, "D")[
-  *Chapter 1.* Dendrites are short branches that receive impulses and carry them towards the cell body.
-]
-
-#sol-item(42, "C")[
-  *Chapter 2.* They detect the position and movement of the head, and so help to maintain balance.
-]
-
-#sol-item(43, "A")[
-  *Chapter 3.* Auxin accumulates on the shaded side, where it stimulates elongation, so the shoot bends towards the light.
-]
-
-#sol-item(44, "B")[
-  *Chapter 4.* Pollination is only the transfer of pollen. Fertilisation is the fusion of gametes and happens later.
-]
-
-#sol-item(45, "A")[
-  *Chapter 5.* Cutting the vas deferens prevents sperm from reaching the semen, while hormone production continues.
-]
-
-#sol-item(46, "C")[
-  *Chapter 6.* Growing legs is a change of form — development — that need not involve much increase in mass.
-]
-
-#sol-item(47, "D")[
-  *Chapter 7.* Breaking the faecal–oral route is the key, and that means safe water and safe disposal of faeces.
-]
-
-#sol-item(48, "B")[
-  *Chapter 8.* Most bacteria cannot grow in a strongly acid environment.
-]
-
-#sol-item(49, "A")[
-  *Chapter 9.* Moving a casualty with a suspected spinal injury can cause permanent paralysis.
-]
-
-#sol-item(50, "C")[
-  *Chapter 10.* Repeats reduce the effect of random errors, so the average is more trustworthy.
-]
-
-#sol-item(51, "D")[
-  *Chapter 1.* Nerve impulses act in milliseconds and stop quickly, while hormones act more slowly and last longer.
-]
-
-#sol-item(52, "B")[
-  *Chapter 2.* Vitamin A is needed to make the pigment rhodopsin in the rods; without it vision in dim light fails.
-]
-
-#sol-item(53, "B")[
-  *Chapter 3.* The pituitary sits in a bony hollow at the base of the brain, joined to the hypothalamus by a short stalk.
-]
-
-#sol-item(54, "A")[
-  *Chapter 4.* Self-pollination is within the same plant; cross-pollination is between two plants of the same species.
-]
-
-#sol-item(55, "D")[
-  *Chapter 5.* The endometrium is the glandular lining that thickens in each cycle and is shed during menstruation.
-]
-
-#sol-item(56, "C")[
-  *Chapter 6.* Testosterone and oestrogen, secreted once the gonads are switched on, produce the secondary characters.
-]
-
-#sol-item(57, "C")[
-  *Chapter 7.* An epidemic is a rapid increase in the number of cases in a population.
-]
-
-#sol-item(58, "A")[
-  *Chapter 8.* The bacteria break down the organic matter in the sewage, leaving cleaner water and a digestible sludge.
-]
-
-#sol-item(59, "D")[
-  *Chapter 9.* Teaching prevention and recognising when to refer a patient saves more lives than any other single activity.
-]
-
-#sol-item(60, "B")[
-  *Chapter 10.* The net is swept through the vegetation to catch insects living in it.
-]
-
-#sol-item(61, "D")[
-  *Chapter 1.* The nerve impulse is a wave of depolarisation along the membrane, not a flow of material.
-]
-
-#sol-item(62, "B")[
-  *Chapter 2.* The cornea does most of the refraction of the light; the lens makes the fine adjustment.
-]
-
-#sol-item(63, "C")[
-  *Chapter 3.* Endocrine glands are ductless; their hormones pass straight into the blood and are carried to target cells.
-]
-
-#sol-item(64, "A")[
-  *Chapter 4.* The male gamete from the pollen tube fuses with the egg cell in the ovule to form the zygote.
-]
-
-#sol-item(65, "B")[
-  *Chapter 5.* The oestrogen and progesterone in the pill suppress the pituitary, so ovulation does not occur.
-]
-
-#sol-item(66, "D")[
-  *Chapter 6.* The beetle, like all insects and arthropods, has a hard chitin exoskeleton.
-]
-
-#sol-item(67, "A")[
-  *Chapter 7.* Carriers shed the pathogen while feeling well, so they spread the disease unnoticed.
-]
-
-#sol-item(68, "C")[
-  *Chapter 8.* Bacteria break down the pectin that holds the fibres in the stem.
-]
-
-#sol-item(69, "B")[
-  *Chapter 9.* Blood-borne viruses pass directly from one user to the next through shared needles.
-]
-
-#sol-item(70, "A")[
-  *Chapter 10.* Fat dissolves in ethanol and forms a milky emulsion when the solution is poured into water.
-]
-
-#sol-item(71, "D")[
-  *Chapter 1.* The synapse is the functional junction across which the impulse is carried chemically.
-]
-
-#sol-item(72, "C")[
-  *Chapter 2.* In cataract the lens loses its transparency, and vision becomes blurred and dim.
-]
-
-#sol-item(73, "B")[
-  *Chapter 3.* Glucagon acts on the liver to break glycogen down to glucose, which is released into the blood.
-]
-
-#sol-item(74, "A")[
-  *Chapter 4.* Hooked fruits catch onto the fur of animals or the clothes of people.
-]
-
-#sol-item(75, "D")[
-  *Chapter 5.* Amniotic fluid protects the foetus from shock, maintains temperature and allows movement.
-]
-
-#sol-item(76, "C")[
-  *Chapter 6.* Ecdysone (the moulting hormone) triggers ecdysis, and juvenile hormone decides what kind of cuticle is produced.
-]
-
-#sol-item(77, "D")[
-  *Chapter 7.* Memory cells persist for years, so a second infection is met at once.
-]
-
-#sol-item(78, "C")[
-  *Chapter 8.* Removing both water and oxygen stops the decomposers.
-]
-
-#sol-item(79, "B")[
-  *Chapter 9.* Antibiotics attack the causative bacterium; the others relieve the symptoms.
-]
-
-#sol-item(80, "A")[
-  *Chapter 10.* Low power gives the widest field of view, so the specimen can be found before increasing the magnification.
-]
-
-#sol-item(81, "D")[
-  *Chapter 1.* Writing is learnt and decided; the others are reflexes.
-]
-
-#sol-item(82, "C")[
-  *Chapter 2.* Glaucoma is raised intraocular pressure, which can damage the optic nerve and cause blindness.
-]
-
-#sol-item(83, "A")[
-  *Chapter 3.* The interstitial cells of the testes secrete testosterone, which produces the male secondary sexual characters.
-]
-
-#sol-item(84, "B")[
-  *Chapter 4.* Dispersal reduces competition between the parent and the seedlings and allows the species to spread.
-]
-
-#sol-item(85, "B")[
-  *Chapter 5.* Fraternal twins come from two separate eggs each fertilised by a different sperm, so they are no more alike than ordinary siblings.
-]
-
-#sol-item(86, "D")[
-  *Chapter 6.* A nymph belongs to incomplete metamorphosis; complete metamorphosis has a larva and a pupa.
-]
-
-#sol-item(87, "A")[
-  *Chapter 7.* The hydrochloric acid of the stomach destroys most of the bacteria that are swallowed.
-]
-
-#sol-item(88, "C")[
-  *Chapter 8.* Tetanus is caused by Clostridium tetani, a bacterium that lives in soil.
-]
-
-#sol-item(89, "D")[
-  *Chapter 9.* Rescue breathing and chest compressions keep oxygen circulating until help arrives.
-]
-
-#sol-item(90, "A")[
-  *Chapter 10.* Benedict's test gives its colour change only when the mixture is heated.
-]
-
-#sol-item(91, "B")[
-  *Chapter 1.* The knee-jerk reflex is coordinated by the spinal cord, not the brain.
-]
-
-#sol-item(92, "C")[
-  *Chapter 2.* Rods work in dim light and give black-and-white vision; cones give colour vision in bright light.
-]
-
-#sol-item(93, "A")[
-  *Chapter 3.* Adrenaline raises the heart rate, releases glucose and diverts blood to the muscles — the fight-or-flight response.
-]
-
-#sol-item(94, "D")[
-  *Chapter 4.* Genetic uniformity means a single disease or pest can destroy a whole crop at once.
-]
-
-#sol-item(95, "B")[
-  *Chapter 5.* The amnion is the fluid-filled sac that encloses the foetus.
-]
+#block[
+  #set text(size: 9.6pt)
+  #set par(leading: 0.68em, spacing: 0.72em)
+  #block(breakable: false)[
+  == The 120-Question Master Bank — Complete Solutions
+  #sol-item(1, "A", dense: true, pad: 3.5pt)[
+    *Chapter 1.* The skull (cranium) and the membranes (meninges) with cerebrospinal fluid protect the brain.
+  ]
+
+  #sol-item(2, "C", dense: true, pad: 3.5pt)[
+    *Chapter 2.* Sound waves strike the tympanic membrane and make it vibrate.
+  ]
+  ]
+
+  #sol-item(3, "B", dense: true, pad: 3.5pt)[
+    *Chapter 3.* A deficiency of thyroxine in infancy causes cretinism — stunted growth and mental retardation.
+  ]
+
+  #sol-item(4, "D", dense: true, pad: 3.5pt)[
+    *Chapter 4.* A seed has a seed coat (testa), an embryo and a food store (endosperm or cotyledon).
+  ]
+
+  #sol-item(5, "D", dense: true, pad: 3.5pt)[
+    *Chapter 5.* Ovulation occurs at mid-cycle, about day 14, triggered by the LH surge.
+  ]
+
+  #sol-item(6, "A", dense: true, pad: 3.5pt)[
+    *Chapter 6.* The rate of cell division and of protein synthesis falls, so tissues are repaired more slowly.
+  ]
+
+  #sol-item(7, "B", dense: true, pad: 3.5pt)[
+    *Chapter 7.* Plasmodium is the protozoan; the Anopheles mosquito is its vector.
+  ]
+
+  #sol-item(8, "C", dense: true, pad: 3.5pt)[
+    *Chapter 8.* Lactic-acid fermentation lowers the pH and preserves the crop.
+  ]
+
+  #sol-item(9, "B", dense: true, pad: 3.5pt)[
+    *Chapter 9.* Alcohol depresses the nervous system, so the driver reacts more slowly and judges speed poorly.
+  ]
+
+  #sol-item(10, "C", dense: true, pad: 3.5pt)[
+    *Chapter 10.* Total magnification is the product of the eyepiece power and the objective power.
+  ]
+
+  #sol-item(11, "A", dense: true, pad: 3.5pt)[
+    *Chapter 1.* The cerebellum coordinates movement and maintains balance and posture.
+  ]
+
+  #sol-item(12, "D", dense: true, pad: 3.5pt)[
+    *Chapter 2.* The malleus, incus and stapes transmit and amplify the vibration from the eardrum to the oval window.
+  ]
+
+  #sol-item(13, "C", dense: true, pad: 3.5pt)[
+    *Chapter 3.* Insulin injection, a controlled diet and exercise are the standard treatment for type 1 diabetes.
+  ]
+
+  #sol-item(14, "A", dense: true, pad: 3.5pt)[
+    *Chapter 4.* A feathery stigma outside the flower catches pollen carried on the wind.
+  ]
+
+  #sol-item(15, "B", dense: true, pad: 3.5pt)[
+    *Chapter 5.* Monozygotic (identical) twins come from one zygote that splits into two embryos.
+  ]
+
+  #sol-item(16, "D", dense: true, pad: 3.5pt)[
+    *Chapter 6.* Apical meristems at the tips are responsible for growth in length.
+  ]
+
+  #sol-item(17, "D", dense: true, pad: 3.5pt)[
+    *Chapter 7.* Some lymphocytes produced during a response become memory cells that survive for years.
+  ]
+
+  #sol-item(18, "B", dense: true, pad: 3.5pt)[
+    *Chapter 8.* Most micro-organisms grow perfectly well in the dark; light is not a general requirement.
+  ]
+
+  #sol-item(19, "A", dense: true, pad: 3.5pt)[
+    *Chapter 9.* A medicine is a drug used with a specific purpose and dose — not every drug is a medicine.
+  ]
+
+  #sol-item(20, "C", dense: true, pad: 3.5pt)[
+    *Chapter 10.* It moves the tube (or the stage, on some microscopes) up and down for the first rough focus.
+  ]
+
+  #sol-item(21, "D", dense: true, pad: 3.5pt)[
+    *Chapter 1.* Sensory neurones carry impulses from receptors to the CNS; motor neurones carry them away to effectors.
+  ]
+
+  #sol-item(22, "B", dense: true, pad: 3.5pt)[
+    *Chapter 2.* In myopia the image focuses in front of the retina, and a concave (diverging) lens pushes it back onto the retina.
+  ]
+
+  #sol-item(23, "C", dense: true, pad: 3.5pt)[
+    *Chapter 3.* After the growth plates have fused, excess growth hormone thickens the bones of the hands, feet and face — acromegaly.
+  ]
+
+  #sol-item(24, "A", dense: true, pad: 3.5pt)[
+    *Chapter 4.* Most seeds need water, oxygen and warmth. Light and soil are not necessary for germination itself.
+  ]
+
+  #sol-item(25, "D", dense: true, pad: 3.5pt)[
+    *Chapter 5.* Semen is the fluid that carries the sperm; the fluid is added by the prostate gland and seminal vesicles.
+  ]
+
+  #sol-item(26, "C", dense: true, pad: 3.5pt)[
+    *Chapter 6.* Water is not growth; drying the plant leaves only the material it has actually built.
+  ]
+
+  #sol-item(27, "B", dense: true, pad: 3.5pt)[
+    *Chapter 7.* Plague is carried from rats to people by fleas.
+  ]
+
+  #sol-item(28, "A", dense: true, pad: 3.5pt)[
+    *Chapter 8.* Bacteria divide into two identical cells by binary fission.
+  ]
+
+  #sol-item(29, "A", dense: true, pad: 3.5pt)[
+    *Chapter 9.* Education about the effects and support at home are the most effective preventive measures.
+  ]
+
+  #sol-item(30, "B", dense: true, pad: 3.5pt)[
+    *Chapter 10.* Plants do not move, so they can be counted inside a square thrown at random.
+  ]
+
+  #sol-item(31, "C", dense: true, pad: 3.5pt)[
+    *Chapter 1.* The autonomic system controls involuntary functions of the internal organs.
+  ]
+
+  #sol-item(32, "D", dense: true, pad: 3.5pt)[
+    *Chapter 2.* The pinna is the flap that funnels sound waves into the auditory canal.
+  ]
+
+  #sol-item(33, "B", dense: true, pad: 3.5pt)[
+    *Chapter 3.* The ovary secretes oestrogen and progesterone, which control the female cycle and secondary sexual characters.
+  ]
+
+  #sol-item(34, "C", dense: true, pad: 3.5pt)[
+    *Chapter 4.* A ripe bean pod dries and twists, flinging the seeds away from the parent plant.
+  ]
+
+  #sol-item(35, "A", dense: true, pad: 3.5pt)[
+    *Chapter 5.* With the oviducts blocked, the egg cannot be fertilised.
+  ]
+
+  #sol-item(36, "D", dense: true, pad: 3.5pt)[
+    *Chapter 6.* 4 cm ÷ 1 cm = 4, so the length has increased four times.
+  ]
+
+  #sol-item(37, "A", dense: true, pad: 3.5pt)[
+    *Chapter 7.* Sleeping sickness is carried by the tsetse fly.
+  ]
+
+  #sol-item(38, "D", dense: true, pad: 3.5pt)[
+    *Chapter 8.* The concentrated sugar solution pulls water out of the microbial cells, which then cannot grow.
+  ]
+
+  #sol-item(39, "B", dense: true, pad: 3.5pt)[
+    *Chapter 9.* Alcohol crosses the placenta and can cause foetal alcohol syndrome.
+  ]
+
+  #sol-item(40, "C", dense: true, pad: 3.5pt)[
+    *Chapter 10.* An anomaly does not fit the pattern and should be checked, and usually excluded from the average.
+  ]
+
+  #sol-item(41, "D", dense: true, pad: 3.5pt)[
+    *Chapter 1.* Dendrites are short branches that receive impulses and carry them towards the cell body.
+  ]
+
+  #sol-item(42, "C", dense: true, pad: 3.5pt)[
+    *Chapter 2.* They detect the position and movement of the head, and so help to maintain balance.
+  ]
+
+  #sol-item(43, "A", dense: true, pad: 3.5pt)[
+    *Chapter 3.* Auxin accumulates on the shaded side, where it stimulates elongation, so the shoot bends towards the light.
+  ]
+
+  #sol-item(44, "B", dense: true, pad: 3.5pt)[
+    *Chapter 4.* Pollination is only the transfer of pollen. Fertilisation is the fusion of gametes and happens later.
+  ]
+
+  #sol-item(45, "A", dense: true, pad: 3.5pt)[
+    *Chapter 5.* Cutting the vas deferens prevents sperm from reaching the semen, while hormone production continues.
+  ]
+
+  #sol-item(46, "C", dense: true, pad: 3.5pt)[
+    *Chapter 6.* Growing legs is a change of form — development — that need not involve much increase in mass.
+  ]
+
+  #sol-item(47, "D", dense: true, pad: 3.5pt)[
+    *Chapter 7.* Breaking the faecal–oral route is the key, and that means safe water and safe disposal of faeces.
+  ]
+
+  #sol-item(48, "B", dense: true, pad: 3.5pt)[
+    *Chapter 8.* Most bacteria cannot grow in a strongly acid environment.
+  ]
+
+  #sol-item(49, "A", dense: true, pad: 3.5pt)[
+    *Chapter 9.* Moving a casualty with a suspected spinal injury can cause permanent paralysis.
+  ]
+
+  #sol-item(50, "C", dense: true, pad: 3.5pt)[
+    *Chapter 10.* Repeats reduce the effect of random errors, so the average is more trustworthy.
+  ]
+
+  #sol-item(51, "D", dense: true, pad: 3.5pt)[
+    *Chapter 1.* Nerve impulses act in milliseconds and stop quickly, while hormones act more slowly and last longer.
+  ]
+
+  #sol-item(52, "B", dense: true, pad: 3.5pt)[
+    *Chapter 2.* Vitamin A is needed to make the pigment rhodopsin in the rods; without it vision in dim light fails.
+  ]
+
+  #sol-item(53, "B", dense: true, pad: 3.5pt)[
+    *Chapter 3.* The pituitary sits in a bony hollow at the base of the brain, joined to the hypothalamus by a short stalk.
+  ]
+
+  #sol-item(54, "A", dense: true, pad: 3.5pt)[
+    *Chapter 4.* Self-pollination is within the same plant; cross-pollination is between two plants of the same species.
+  ]
+
+  #sol-item(55, "D", dense: true, pad: 3.5pt)[
+    *Chapter 5.* The endometrium is the glandular lining that thickens in each cycle and is shed during menstruation.
+  ]
+
+  #sol-item(56, "C", dense: true, pad: 3.5pt)[
+    *Chapter 6.* Testosterone and oestrogen, secreted once the gonads are switched on, produce the secondary characters.
+  ]
+
+  #sol-item(57, "C", dense: true, pad: 3.5pt)[
+    *Chapter 7.* An epidemic is a rapid increase in the number of cases in a population.
+  ]
+
+  #sol-item(58, "A", dense: true, pad: 3.5pt)[
+    *Chapter 8.* The bacteria break down the organic matter in the sewage, leaving cleaner water and a digestible sludge.
+  ]
+
+  #sol-item(59, "D", dense: true, pad: 3.5pt)[
+    *Chapter 9.* Teaching prevention and recognising when to refer a patient saves more lives than any other single activity.
+  ]
+
+  #sol-item(60, "B", dense: true, pad: 3.5pt)[
+    *Chapter 10.* The net is swept through the vegetation to catch insects living in it.
+  ]
+
+  #sol-item(61, "D", dense: true, pad: 3.5pt)[
+    *Chapter 1.* The nerve impulse is a wave of depolarisation along the membrane, not a flow of material.
+  ]
+
+  #sol-item(62, "B", dense: true, pad: 3.5pt)[
+    *Chapter 2.* The cornea does most of the refraction of the light; the lens makes the fine adjustment.
+  ]
+
+  #sol-item(63, "C", dense: true, pad: 3.5pt)[
+    *Chapter 3.* Endocrine glands are ductless; their hormones pass straight into the blood and are carried to target cells.
+  ]
+
+  #sol-item(64, "A", dense: true, pad: 3.5pt)[
+    *Chapter 4.* The male gamete from the pollen tube fuses with the egg cell in the ovule to form the zygote.
+  ]
+
+  #sol-item(65, "B", dense: true, pad: 3.5pt)[
+    *Chapter 5.* The oestrogen and progesterone in the pill suppress the pituitary, so ovulation does not occur.
+  ]
+
+  #sol-item(66, "D", dense: true, pad: 3.5pt)[
+    *Chapter 6.* The beetle, like all insects and arthropods, has a hard chitin exoskeleton.
+  ]
+
+  #sol-item(67, "A", dense: true, pad: 3.5pt)[
+    *Chapter 7.* Carriers shed the pathogen while feeling well, so they spread the disease unnoticed.
+  ]
+
+  #sol-item(68, "C", dense: true, pad: 3.5pt)[
+    *Chapter 8.* Bacteria break down the pectin that holds the fibres in the stem.
+  ]
+
+  #sol-item(69, "B", dense: true, pad: 3.5pt)[
+    *Chapter 9.* Blood-borne viruses pass directly from one user to the next through shared needles.
+  ]
+
+  #sol-item(70, "A", dense: true, pad: 3.5pt)[
+    *Chapter 10.* Fat dissolves in ethanol and forms a milky emulsion when the solution is poured into water.
+  ]
+
+  #sol-item(71, "D", dense: true, pad: 3.5pt)[
+    *Chapter 1.* The synapse is the functional junction across which the impulse is carried chemically.
+  ]
+
+  #sol-item(72, "C", dense: true, pad: 3.5pt)[
+    *Chapter 2.* In cataract the lens loses its transparency, and vision becomes blurred and dim.
+  ]
+
+  #sol-item(73, "B", dense: true, pad: 3.5pt)[
+    *Chapter 3.* Glucagon acts on the liver to break glycogen down to glucose, which is released into the blood.
+  ]
+
+  #sol-item(74, "A", dense: true, pad: 3.5pt)[
+    *Chapter 4.* Hooked fruits catch onto the fur of animals or the clothes of people.
+  ]
+
+  #sol-item(75, "D", dense: true, pad: 3.5pt)[
+    *Chapter 5.* Amniotic fluid protects the foetus from shock, maintains temperature and allows movement.
+  ]
+
+  #sol-item(76, "C", dense: true, pad: 3.5pt)[
+    *Chapter 6.* Ecdysone (the moulting hormone) triggers ecdysis, and juvenile hormone decides what kind of cuticle is produced.
+  ]
+
+  #sol-item(77, "D", dense: true, pad: 3.5pt)[
+    *Chapter 7.* Memory cells persist for years, so a second infection is met at once.
+  ]
+
+  #sol-item(78, "C", dense: true, pad: 3.5pt)[
+    *Chapter 8.* Removing both water and oxygen stops the decomposers.
+  ]
+
+  #sol-item(79, "B", dense: true, pad: 3.5pt)[
+    *Chapter 9.* Antibiotics attack the causative bacterium; the others relieve the symptoms.
+  ]
+
+  #sol-item(80, "A", dense: true, pad: 3.5pt)[
+    *Chapter 10.* Low power gives the widest field of view, so the specimen can be found before increasing the magnification.
+  ]
+
+  #sol-item(81, "D", dense: true, pad: 3.5pt)[
+    *Chapter 1.* Writing is learnt and decided; the others are reflexes.
+  ]
+
+  #sol-item(82, "C", dense: true, pad: 3.5pt)[
+    *Chapter 2.* Glaucoma is raised intraocular pressure, which can damage the optic nerve and cause blindness.
+  ]
+
+  #sol-item(83, "A", dense: true, pad: 3.5pt)[
+    *Chapter 3.* The interstitial cells of the testes secrete testosterone, which produces the male secondary sexual characters.
+  ]
+
+  #sol-item(84, "B", dense: true, pad: 3.5pt)[
+    *Chapter 4.* Dispersal reduces competition between the parent and the seedlings and allows the species to spread.
+  ]
+
+  #sol-item(85, "B", dense: true, pad: 3.5pt)[
+    *Chapter 5.* Fraternal twins come from two separate eggs each fertilised by a different sperm, so they are no more alike than ordinary siblings.
+  ]
+
+  #sol-item(86, "D", dense: true, pad: 3.5pt)[
+    *Chapter 6.* A nymph belongs to incomplete metamorphosis; complete metamorphosis has a larva and a pupa.
+  ]
+
+  #sol-item(87, "A", dense: true, pad: 3.5pt)[
+    *Chapter 7.* The hydrochloric acid of the stomach destroys most of the bacteria that are swallowed.
+  ]
+
+  #sol-item(88, "C", dense: true, pad: 3.5pt)[
+    *Chapter 8.* Tetanus is caused by Clostridium tetani, a bacterium that lives in soil.
+  ]
+
+  #sol-item(89, "D", dense: true, pad: 3.5pt)[
+    *Chapter 9.* Rescue breathing and chest compressions keep oxygen circulating until help arrives.
+  ]
+
+  #sol-item(90, "A", dense: true, pad: 3.5pt)[
+    *Chapter 10.* Benedict's test gives its colour change only when the mixture is heated.
+  ]
+
+  #sol-item(91, "B", dense: true, pad: 3.5pt)[
+    *Chapter 1.* The knee-jerk reflex is coordinated by the spinal cord, not the brain.
+  ]
+
+  #sol-item(92, "C", dense: true, pad: 3.5pt)[
+    *Chapter 2.* Rods work in dim light and give black-and-white vision; cones give colour vision in bright light.
+  ]
+
+  #sol-item(93, "A", dense: true, pad: 3.5pt)[
+    *Chapter 3.* Adrenaline raises the heart rate, releases glucose and diverts blood to the muscles — the fight-or-flight response.
+  ]
+
+  #sol-item(94, "D", dense: true, pad: 3.5pt)[
+    *Chapter 4.* Genetic uniformity means a single disease or pest can destroy a whole crop at once.
+  ]
+
+  #sol-item(95, "B", dense: true, pad: 3.5pt)[
+    *Chapter 5.* The amnion is the fluid-filled sac that encloses the foetus.
+  ]
+
+  #sol-item(96, "C", dense: true, pad: 3.5pt)[
+    *Chapter 6.* Menarche (the first menstruation) and breast development are the landmarks of female puberty.
+  ]
 
-#sol-item(96, "C")[
-  *Chapter 6.* Menarche (the first menstruation) and breast development are the landmarks of female puberty.
-]
+  #sol-item(97, "D", dense: true, pad: 3.5pt)[
+    *Chapter 7.* Prevention through education and safe water costs far less than treating the diseases that result.
+  ]
 
-#sol-item(97, "D")[
-  *Chapter 7.* Prevention through education and safe water costs far less than treating the diseases that result.
-]
+  #sol-item(98, "B", dense: true, pad: 3.5pt)[
+    *Chapter 8.* Body temperature, about 37 °C, is close to the optimum for most bacteria.
+  ]
 
-#sol-item(98, "B")[
-  *Chapter 8.* Body temperature, about 37 °C, is close to the optimum for most bacteria.
-]
+  #sol-item(99, "A", dense: true, pad: 3.5pt)[
+    *Chapter 9.* The rescuer must not become a second casualty.
+  ]
 
-#sol-item(99, "A")[
-  *Chapter 9.* The rescuer must not become a second casualty.
-]
+  #sol-item(100, "C", dense: true, pad: 3.5pt)[
+    *Chapter 10.* Image size = actual size × magnification = 0.05 mm × 500 = 25 mm.
+  ]
 
-#sol-item(100, "C")[
-  *Chapter 10.* Image size = actual size × magnification = 0.05 mm × 500 = 25 mm.
-]
+  #sol-item(101, "D", dense: true, pad: 3.5pt)[
+    *Chapter 1.* The nodes of Ranvier are the unmyelinated gaps at which the impulse is regenerated.
+  ]
 
-#sol-item(101, "D")[
-  *Chapter 1.* The nodes of Ranvier are the unmyelinated gaps at which the impulse is regenerated.
-]
+  #sol-item(102, "B", dense: true, pad: 3.5pt)[
+    *Chapter 2.* There are no light-sensitive cells where the optic nerve leaves the eye, so that small area is blind.
+  ]
 
-#sol-item(102, "B")[
-  *Chapter 2.* There are no light-sensitive cells where the optic nerve leaves the eye, so that small area is blind.
-]
+  #sol-item(103, "A", dense: true, pad: 3.5pt)[
+    *Chapter 3.* Oxytocin causes contraction of the uterus during labour and the ejection of milk during suckling.
+  ]
 
-#sol-item(103, "A")[
-  *Chapter 3.* Oxytocin causes contraction of the uterus during labour and the ejection of milk during suckling.
-]
+  #sol-item(104, "C", dense: true, pad: 3.5pt)[
+    *Chapter 4.* Wings increase air resistance so the fruit is carried by the wind.
+  ]
 
-#sol-item(104, "C")[
-  *Chapter 4.* Wings increase air resistance so the fruit is carried by the wind.
-]
+  #sol-item(105, "A", dense: true, pad: 3.5pt)[
+    *Chapter 5.* Follicle-stimulating hormone from the pituitary starts the follicle growing.
+  ]
 
-#sol-item(105, "A")[
-  *Chapter 5.* Follicle-stimulating hormone from the pituitary starts the follicle growing.
-]
+  #sol-item(106, "B", dense: true, pad: 3.5pt)[
+    *Chapter 6.* Animals grow to a definite adult size and then stop; many plants continue to grow throughout life.
+  ]
 
-#sol-item(106, "B")[
-  *Chapter 6.* Animals grow to a definite adult size and then stop; many plants continue to grow throughout life.
-]
+  #sol-item(107, "D", dense: true, pad: 3.5pt)[
+    *Chapter 7.* Redness, heat and swelling result from increased blood flow, which brings phagocytes and antibodies.
+  ]
 
-#sol-item(107, "D")[
-  *Chapter 7.* Redness, heat and swelling result from increased blood flow, which brings phagocytes and antibodies.
-]
+  #sol-item(108, "C", dense: true, pad: 3.5pt)[
+    *Chapter 8.* Anaerobic organisms can live and grow in the absence of oxygen.
+  ]
 
-#sol-item(108, "C")[
-  *Chapter 8.* Anaerobic organisms can live and grow in the absence of oxygen.
-]
+  #sol-item(109, "D", dense: true, pad: 3.5pt)[
+    *Chapter 9.* Nicotine is the addictive component; tar contains the carcinogens and carbon monoxide reduces oxygen transport.
+  ]
 
-#sol-item(109, "D")[
-  *Chapter 9.* Nicotine is the addictive component; tar contains the carcinogens and carbon monoxide reduces oxygen transport.
-]
+  #sol-item(110, "A", dense: true, pad: 3.5pt)[
+    *Chapter 10.* Controlled variables are kept the same so that only the independent variable affects the result.
+  ]
 
-#sol-item(110, "A")[
-  *Chapter 10.* Controlled variables are kept the same so that only the independent variable affects the result.
-]
+  #sol-item(111, "B", dense: true, pad: 3.5pt)[
+    *Chapter 1.* The stimulus is detected by the receptor, carried by the sensory neurone to the CNS, and the response travels out by the motor neurone to the effector.
+  ]
 
-#sol-item(111, "B")[
-  *Chapter 1.* The stimulus is detected by the receptor, carried by the sensory neurone to the CNS, and the response travels out by the motor neurone to the effector.
-]
+  #sol-item(112, "C", dense: true, pad: 3.5pt)[
+    *Chapter 2.* The conjunctiva is the thin transparent membrane that covers the sclera and lines the eyelid, protecting the eye.
+  ]
 
-#sol-item(112, "C")[
-  *Chapter 2.* The conjunctiva is the thin transparent membrane that covers the sclera and lines the eyelid, protecting the eye.
-]
+  #sol-item(113, "C", dense: true, pad: 3.5pt)[
+    *Chapter 3.* Hormones are carried in the bloodstream to all parts of the body, but act only on cells with the right receptor.
+  ]
 
-#sol-item(113, "C")[
-  *Chapter 3.* Hormones are carried in the bloodstream to all parts of the body, but act only on cells with the right receptor.
-]
+  #sol-item(114, "D", dense: true, pad: 3.5pt)[
+    *Chapter 4.* Runners (stolons) and tubers are natural vegetative structures; grafting, cuttings and tissue culture are artificial.
+  ]
 
-#sol-item(114, "D")[
-  *Chapter 4.* Runners (stolons) and tubers are natural vegetative structures; grafting, cuttings and tissue culture are artificial.
-]
+  #sol-item(115, "B", dense: true, pad: 3.5pt)[
+    *Chapter 5.* Colostrum is rich in antibodies, which protect the baby until its own immune system matures.
+  ]
 
-#sol-item(115, "B")[
-  *Chapter 5.* Colostrum is rich in antibodies, which protect the baby until its own immune system matures.
-]
+  #sol-item(116, "A", dense: true, pad: 3.5pt)[
+    *Chapter 6.* Development is the appearance of new structures and abilities over time.
+  ]
 
-#sol-item(116, "A")[
-  *Chapter 6.* Development is the appearance of new structures and abilities over time.
-]
+  #sol-item(117, "D", dense: true, pad: 3.5pt)[
+    *Chapter 7.* Antiserum contains ready-made antibodies and is injected, so the immunity is artificial and passive.
+  ]
 
-#sol-item(117, "D")[
-  *Chapter 7.* Antiserum contains ready-made antibodies and is injected, so the immunity is artificial and passive.
-]
+  #sol-item(118, "C", dense: true, pad: 3.5pt)[
+    *Chapter 8.* Penicillin comes from a mould; many other antibiotics come from soil bacteria.
+  ]
 
-#sol-item(118, "C")[
-  *Chapter 8.* Penicillin comes from a mould; many other antibiotics come from soil bacteria.
-]
+  #sol-item(119, "A", dense: true, pad: 3.5pt)[
+    *Chapter 9.* Copious water dilutes and removes the chemical.
+  ]
 
-#sol-item(119, "A")[
-  *Chapter 9.* Copious water dilutes and removes the chemical.
-]
+  #sol-item(120, "B", dense: true, pad: 3.5pt)[
+    *Chapter 10.* Reading a scale from an angle gives a false value; the eye must be level with the mark.
+  ]
 
-#sol-item(120, "B")[
-  *Chapter 10.* Reading a scale from an angle gives a false value; the eye must be level with the mark.
 ]
 

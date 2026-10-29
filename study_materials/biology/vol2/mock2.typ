@@ -148,172 +148,197 @@
 
 == Mock Examination 2 — Question Map
 
-Which chapter each question came from. Group your misses by column: the chapter that appears most often under your wrong answers is the only revision task worth starting today.
+Which chapter each question came from, grouped so that a column of misses in your script becomes a revision list. Tick every question you got wrong; the chapter with the longest tick list is the one to revise tonight, before you re-sit the paper.
 
-*Q1* #h(2pt) Ch 1 #h(0pt) *Q2* #h(2pt) Ch 2 #h(0pt) *Q3* #h(2pt) Ch 3 #h(0pt) *Q4* #h(2pt) Ch 4 #h(0pt) *Q5* #h(2pt) Ch 5 #h(0pt) *Q6* #h(2pt) Ch 6 #h(0pt) *Q7* #h(2pt) Ch 7 #h(0pt) *Q8* #h(2pt) Ch 8 #h(0pt) *Q9* #h(2pt) Ch 9 #h(0pt) *Q10* #h(2pt) Ch 10 \
-*Q11* #h(2pt) Ch 1 #h(0pt) *Q12* #h(2pt) Ch 2 #h(0pt) *Q13* #h(2pt) Ch 3 #h(0pt) *Q14* #h(2pt) Ch 4 #h(0pt) *Q15* #h(2pt) Ch 5 #h(0pt) *Q16* #h(2pt) Ch 6 #h(0pt) *Q17* #h(2pt) Ch 7 #h(0pt) *Q18* #h(2pt) Ch 8 #h(0pt) *Q19* #h(2pt) Ch 9 #h(0pt) *Q20* #h(2pt) Ch 10 \
-*Q21* #h(2pt) Ch 1 #h(0pt) *Q22* #h(2pt) Ch 2 #h(0pt) *Q23* #h(2pt) Ch 3 #h(0pt) *Q24* #h(2pt) Ch 4 #h(0pt) *Q25* #h(2pt) Ch 5 #h(0pt) *Q26* #h(2pt) Ch 6 #h(0pt) *Q27* #h(2pt) Ch 7 #h(0pt) *Q28* #h(2pt) Ch 8 #h(0pt) *Q29* #h(2pt) Ch 9 #h(0pt) *Q30* #h(2pt) Ch 10 \
-*Q31* #h(2pt) Ch 1 #h(0pt) *Q32* #h(2pt) Ch 2 #h(0pt) *Q33* #h(2pt) Ch 3 #h(0pt) *Q34* #h(2pt) Ch 4 #h(0pt) *Q35* #h(2pt) Ch 5 #h(0pt) *Q36* #h(2pt) Ch 6 #h(0pt) *Q37* #h(2pt) Ch 7 #h(0pt) *Q38* #h(2pt) Ch 8 #h(0pt) *Q39* #h(2pt) Ch 9 #h(0pt) *Q40* #h(2pt) Ch 10 \
+#table(
+  columns: (0.42fr, 1.75fr, 2.55fr, 0.5fr),
+  inset: 5pt,
+  align: (center + horizon, left + horizon, left + horizon, center + horizon),
+  stroke: 0.5pt + jamb-border,
+  fill: (x, y) => if y == 0 { jamb-navy } else if calc.odd(y) { white } else { jamb-light },
+  table.header(text(font: "DejaVu Sans", size: 8.2pt, weight: "bold", fill: white)[Ch],
+    text(font: "DejaVu Sans", size: 8.2pt, weight: "bold", fill: white)[Topic],
+    text(font: "DejaVu Sans", size: 8.2pt, weight: "bold", fill: white)[Questions],
+    text(font: "DejaVu Sans", size: 8.2pt, weight: "bold", fill: white)[No.]),
+  [1], [Nervous Coordination], [1, 11, 21, 31], [4],
+  [2], [CNS and Sense Organs], [2, 12, 22, 32], [4],
+  [3], [Hormones], [3, 13, 23, 33], [4],
+  [4], [Reproduction in Plants], [4, 14, 24, 34], [4],
+  [5], [Reproduction in Animals], [5, 15, 25, 35], [4],
+  [6], [Growth and Development], [6, 16, 26, 36], [4],
+  [7], [Health and Disease], [7, 17, 27, 37], [4],
+  [8], [Micro-organisms and Decay], [8, 18, 28, 38], [4],
+  [9], [Drugs and First Aid], [9, 19, 29, 39], [4],
+  [10], [Practical Skills], [10, 20, 30, 40], [4],
+)
 
-== Mock Examination 2 — Complete Solutions
+The paper is level with the syllabus: Chapter 1 (4) and Chapter 2 (4) carry the most questions, so a miss there costs the most marks. Revise those first.
 
-#sol-item(1, "B")[
-  *Chapter 1.* Bigger axons with myelin carry impulses faster.
-]
+#block[
+  #set text(size: 9.6pt)
+  #set par(leading: 0.68em, spacing: 0.72em)
+  #block(breakable: false)[
+  == Mock Examination 2 — Complete Solutions
+  #sol-item(1, "B", dense: true, pad: 9.0pt)[
+    *Chapter 1.* Bigger axons with myelin carry impulses faster.
+  ]
 
-#sol-item(2, "D")[
-  *Chapter 2.* The aqueous humour fills the front chamber between the cornea and the lens and helps to keep the eye in shape.
-]
+  #sol-item(2, "D", dense: true, pad: 9.0pt)[
+    *Chapter 2.* The aqueous humour fills the front chamber between the cornea and the lens and helps to keep the eye in shape.
+  ]
+  ]
 
-#sol-item(3, "A")[
-  *Chapter 3.* Roots show positive geotropism, growing in the direction of gravity.
-]
+  #sol-item(3, "A", dense: true, pad: 9.0pt)[
+    *Chapter 3.* Roots show positive geotropism, growing in the direction of gravity.
+  ]
 
-#sol-item(4, "C")[
-  *Chapter 4.* The coconut's fibrous, air-filled husk allows it to float and be carried by water.
-]
+  #sol-item(4, "C", dense: true, pad: 9.0pt)[
+    *Chapter 4.* The coconut's fibrous, air-filled husk allows it to float and be carried by water.
+  ]
 
-#sol-item(5, "C")[
-  *Chapter 5.* Implantation occurs when the ball of cells sinks into the thickened endometrium.
-]
+  #sol-item(5, "C", dense: true, pad: 9.0pt)[
+    *Chapter 5.* Implantation occurs when the ball of cells sinks into the thickened endometrium.
+  ]
 
-#sol-item(6, "D")[
-  *Chapter 6.* Rapid early growth brings the infant quickly to a size at which it can be cared for and can resist infection.
-]
+  #sol-item(6, "D", dense: true, pad: 9.0pt)[
+    *Chapter 6.* Rapid early growth brings the infant quickly to a size at which it can be cared for and can resist infection.
+  ]
 
-#sol-item(7, "A")[
-  *Chapter 7.* The antigens stimulate an immune response without causing the disease.
-]
+  #sol-item(7, "A", dense: true, pad: 9.0pt)[
+    *Chapter 7.* The antigens stimulate an immune response without causing the disease.
+  ]
 
-#sol-item(8, "B")[
-  *Chapter 8.* Warmth accelerates both reproduction and the chemical activity of the micro-organisms.
-]
+  #sol-item(8, "B", dense: true, pad: 9.0pt)[
+    *Chapter 8.* Warmth accelerates both reproduction and the chemical activity of the micro-organisms.
+  ]
 
-#sol-item(9, "B")[
-  *Chapter 9.* LSD distorts the senses and produces hallucinations.
-]
+  #sol-item(9, "B", dense: true, pad: 9.0pt)[
+    *Chapter 9.* LSD distorts the senses and produces hallucinations.
+  ]
 
-#sol-item(10, "C")[
-  *Chapter 10.* A scatter graph shows how one quantity varies with the other, and the line of best fit shows the trend.
-]
+  #sol-item(10, "C", dense: true, pad: 9.0pt)[
+    *Chapter 10.* A scatter graph shows how one quantity varies with the other, and the line of best fit shows the trend.
+  ]
 
-#sol-item(11, "D")[
-  *Chapter 1.* The cerebrum, cerebellum and medulla oblongata are the three main regions taught at this level.
-]
+  #sol-item(11, "D", dense: true, pad: 9.0pt)[
+    *Chapter 1.* The cerebrum, cerebellum and medulla oblongata are the three main regions taught at this level.
+  ]
 
-#sol-item(12, "A")[
-  *Chapter 2.* Contraction and relaxation of the ciliary muscles alters the curvature of the lens.
-]
+  #sol-item(12, "A", dense: true, pad: 9.0pt)[
+    *Chapter 2.* Contraction and relaxation of the ciliary muscles alters the curvature of the lens.
+  ]
 
-#sol-item(13, "C")[
-  *Chapter 3.* Prolactin from the pituitary stimulates milk production in the mammary glands.
-]
+  #sol-item(13, "C", dense: true, pad: 9.0pt)[
+    *Chapter 3.* Prolactin from the pituitary stimulates milk production in the mammary glands.
+  ]
 
-#sol-item(14, "D")[
-  *Chapter 4.* Wind-pollinated flowers do not need to attract insects, so they are small and dull and produce large quantities of light pollen.
-]
+  #sol-item(14, "D", dense: true, pad: 9.0pt)[
+    *Chapter 4.* Wind-pollinated flowers do not need to attract insects, so they are small and dull and produce large quantities of light pollen.
+  ]
 
-#sol-item(15, "A")[
-  *Chapter 5.* The umbilical arteries carry the foetus's deoxygenated blood, with its wastes, to the placenta for exchange.
-]
+  #sol-item(15, "A", dense: true, pad: 9.0pt)[
+    *Chapter 5.* The umbilical arteries carry the foetus's deoxygenated blood, with its wastes, to the placenta for exchange.
+  ]
 
-#sol-item(16, "B")[
-  *Chapter 6.* Dry mass records the material built by the plant, not the water it has taken up.
-]
+  #sol-item(16, "B", dense: true, pad: 9.0pt)[
+    *Chapter 6.* Dry mass records the material built by the plant, not the water it has taken up.
+  ]
 
-#sol-item(17, "B")[
-  *Chapter 7.* Infectious (communicable) diseases are caused by pathogens and can be transmitted.
-]
+  #sol-item(17, "B", dense: true, pad: 9.0pt)[
+    *Chapter 7.* Infectious (communicable) diseases are caused by pathogens and can be transmitted.
+  ]
 
-#sol-item(18, "C")[
-  *Chapter 8.* Micro-organisms need water for their metabolism, so drying stops them growing.
-]
+  #sol-item(18, "C", dense: true, pad: 9.0pt)[
+    *Chapter 8.* Micro-organisms need water for their metabolism, so drying stops them growing.
+  ]
 
-#sol-item(19, "A")[
-  *Chapter 9.* The splint holds the broken bone still, reducing pain and preventing further damage.
-]
+  #sol-item(19, "A", dense: true, pad: 9.0pt)[
+    *Chapter 9.* The splint holds the broken bone still, reducing pain and preventing further damage.
+  ]
 
-#sol-item(20, "D")[
-  *Chapter 10.* The nosepiece rotates so that a different objective can be swung into the light path.
-]
+  #sol-item(20, "D", dense: true, pad: 9.0pt)[
+    *Chapter 10.* The nosepiece rotates so that a different objective can be swung into the light path.
+  ]
 
-#sol-item(21, "B")[
-  *Chapter 1.* The cell body carries the nucleus and the organelles that keep the neurone alive.
-]
+  #sol-item(21, "B", dense: true, pad: 9.0pt)[
+    *Chapter 1.* The cell body carries the nucleus and the organelles that keep the neurone alive.
+  ]
 
-#sol-item(22, "A")[
-  *Chapter 2.* Lysozyme is an enzyme that destroys the cell walls of many bacteria, protecting the eye from infection.
-]
+  #sol-item(22, "A", dense: true, pad: 9.0pt)[
+    *Chapter 2.* Lysozyme is an enzyme that destroys the cell walls of many bacteria, protecting the eye from infection.
+  ]
 
-#sol-item(23, "D")[
-  *Chapter 3.* Both systems coordinate the body, but by different means and at different speeds.
-]
+  #sol-item(23, "D", dense: true, pad: 9.0pt)[
+    *Chapter 3.* Both systems coordinate the body, but by different means and at different speeds.
+  ]
 
-#sol-item(24, "C")[
-  *Chapter 4.* The radicle is the embryonic root; the plumule is the embryonic shoot.
-]
+  #sol-item(24, "C", dense: true, pad: 9.0pt)[
+    *Chapter 4.* The radicle is the embryonic root; the plumule is the embryonic shoot.
+  ]
 
-#sol-item(25, "B")[
-  *Chapter 5.* The testes contain the seminiferous tubules in which sperm are produced.
-]
+  #sol-item(25, "B", dense: true, pad: 9.0pt)[
+    *Chapter 5.* The testes contain the seminiferous tubules in which sperm are produced.
+  ]
 
-#sol-item(26, "C")[
-  *Chapter 6.* Once the cartilage growth plates ossify, the long bones cannot lengthen any further.
-]
+  #sol-item(26, "C", dense: true, pad: 9.0pt)[
+    *Chapter 6.* Once the cartilage growth plates ossify, the long bones cannot lengthen any further.
+  ]
 
-#sol-item(27, "D")[
-  *Chapter 7.* Intact skin and mucus are physical barriers that stop pathogens entering.
-]
+  #sol-item(27, "D", dense: true, pad: 9.0pt)[
+    *Chapter 7.* Intact skin and mucus are physical barriers that stop pathogens entering.
+  ]
 
-#sol-item(28, "A")[
-  *Chapter 8.* Fungi produce large numbers of spores that are carried by the air.
-]
+  #sol-item(28, "A", dense: true, pad: 9.0pt)[
+    *Chapter 8.* Fungi produce large numbers of spores that are carried by the air.
+  ]
 
-#sol-item(29, "A")[
-  *Chapter 9.* Paracetamol relieves pain and fever; it is an analgesic.
-]
+  #sol-item(29, "A", dense: true, pad: 9.0pt)[
+    *Chapter 9.* Paracetamol relieves pain and fever; it is an analgesic.
+  ]
 
-#sol-item(30, "D")[
-  *Chapter 10.* 5 × 10 = 50.
-]
+  #sol-item(30, "D", dense: true, pad: 9.0pt)[
+    *Chapter 10.* 5 × 10 = 50.
+  ]
 
-#sol-item(31, "B")[
-  *Chapter 1.* The cerebrum, and especially its outer cortex, is the seat of intelligence, memory, reasoning and voluntary action.
-]
+  #sol-item(31, "B", dense: true, pad: 9.0pt)[
+    *Chapter 1.* The cerebrum, and especially its outer cortex, is the seat of intelligence, memory, reasoning and voluntary action.
+  ]
 
-#sol-item(32, "C")[
-  *Chapter 2.* Different regions of the cochlea respond to different frequencies; damage to the base of the cochlea affects high pitches.
-]
+  #sol-item(32, "C", dense: true, pad: 9.0pt)[
+    *Chapter 2.* Different regions of the cochlea respond to different frequencies; damage to the base of the cochlea affects high pitches.
+  ]
 
-#sol-item(33, "C")[
-  *Chapter 3.* In diabetes the blood glucose stays high because insulin is not produced in sufficient quantity or does not act properly.
-]
+  #sol-item(33, "C", dense: true, pad: 9.0pt)[
+    *Chapter 3.* In diabetes the blood glucose stays high because insulin is not produced in sufficient quantity or does not act properly.
+  ]
 
-#sol-item(34, "B")[
-  *Chapter 4.* The ovary develops into the fruit, which protects the seeds and helps in their dispersal.
-]
+  #sol-item(34, "B", dense: true, pad: 9.0pt)[
+    *Chapter 4.* The ovary develops into the fruit, which protects the seeds and helps in their dispersal.
+  ]
 
-#sol-item(35, "A")[
-  *Chapter 5.* The couple avoids intercourse during the fertile window around ovulation.
-]
+  #sol-item(35, "A", dense: true, pad: 9.0pt)[
+    *Chapter 5.* The couple avoids intercourse during the fertile window around ovulation.
+  ]
 
-#sol-item(36, "D")[
-  *Chapter 6.* Each instar is the stage between successive moults.
-]
+  #sol-item(36, "D", dense: true, pad: 9.0pt)[
+    *Chapter 6.* Each instar is the stage between successive moults.
+  ]
 
-#sol-item(37, "A")[
-  *Chapter 7.* Memory cells make the second response much faster and much larger, which is the basis of vaccination.
-]
+  #sol-item(37, "A", dense: true, pad: 9.0pt)[
+    *Chapter 7.* Memory cells make the second response much faster and much larger, which is the basis of vaccination.
+  ]
 
-#sol-item(38, "C")[
-  *Chapter 8.* Bacteria, viruses and fungi are the three groups covered.
-]
+  #sol-item(38, "C", dense: true, pad: 9.0pt)[
+    *Chapter 8.* Bacteria, viruses and fungi are the three groups covered.
+  ]
 
-#sol-item(39, "B")[
-  *Chapter 9.* Cholera must be reported at once so that an outbreak can be controlled.
-]
+  #sol-item(39, "B", dense: true, pad: 9.0pt)[
+    *Chapter 9.* Cholera must be reported at once so that an outbreak can be controlled.
+  ]
 
-#sol-item(40, "D")[
-  *Chapter 10.* The fine knob makes the small adjustment that brings the image sharply into focus.
+  #sol-item(40, "D", dense: true, pad: 9.0pt)[
+    *Chapter 10.* The fine knob makes the small adjustment that brings the image sharply into focus.
+  ]
+
 ]
 

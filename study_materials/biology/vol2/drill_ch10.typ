@@ -264,129 +264,130 @@
   )
 ]
 
-=== Complete Solutions
-
 #[
   #set text(size: 9.15pt)
   #set par(leading: 0.66em, spacing: 0.72em)
 
-  #sol-item(1, "D", dense: true)[
+  #block(breakable: false)[
+  === Complete Solutions
+  #sol-item(1, "D", dense: true, pad: 0.0pt)[
     Total magnification is the product of the two lenses: 10 × 40 = 400.
   ]
 
-  #sol-item(2, "B", dense: true)[
+  #sol-item(2, "B", dense: true, pad: 0.0pt)[
     The slide rests on the stage and is held by the stage clips.
   ]
+  ]
 
-  #sol-item(3, "B", dense: true)[
+  #sol-item(3, "B", dense: true, pad: 0.0pt)[
     At high power the objective is very close to the slide, so the coarse knob could drive it into the slide and break it.
   ]
 
-  #sol-item(4, "B", dense: true)[
+  #sol-item(4, "B", dense: true, pad: 0.0pt)[
     The arm is the handle and the base supports the instrument; carrying it by the tube or eyepiece can misalign the lenses.
   ]
 
-  #sol-item(5, "B", dense: true)[
+  #sol-item(5, "B", dense: true, pad: 0.0pt)[
     Two convex lenses each invert the image, so the final image is inverted and reversed left to right.
   ]
 
-  #sol-item(6, "C", dense: true)[
+  #sol-item(6, "C", dense: true, pad: 0.0pt)[
     Iodine in potassium iodide turns blue-black with starch.
   ]
 
-  #sol-item(7, "C", dense: true)[
+  #sol-item(7, "C", dense: true, pad: 0.0pt)[
     Heated with a reducing sugar, Benedict's solution changes from blue through green and yellow to brick-red.
   ]
 
-  #sol-item(8, "B", dense: true)[
+  #sol-item(8, "B", dense: true, pad: 0.0pt)[
     The solution must be heated, and a water bath is used because a naked flame may crack the tube and spit the solution.
   ]
 
-  #sol-item(9, "A", dense: true)[
+  #sol-item(9, "A", dense: true, pad: 0.0pt)[
     Protein gives a purple or violet colour with Biuret solution; no heat is needed.
   ]
 
-  #sol-item(10, "D", dense: true)[
+  #sol-item(10, "D", dense: true, pad: 0.0pt)[
     Fat shaken with ethanol and then poured into water gives a milky-white emulsion.
   ]
 
-  #sol-item(11, "A", dense: true)[
+  #sol-item(11, "A", dense: true, pad: 0.0pt)[
     The independent variable is what the experimenter changes; the dependent variable is what is measured.
   ]
 
-  #sol-item(12, "B", dense: true)[
+  #sol-item(12, "B", dense: true, pad: 0.0pt)[
     The control is treated in exactly the same way except for the variable, so any difference must be due to that variable.
   ]
 
-  #sol-item(13, "A", dense: true)[
+  #sol-item(13, "A", dense: true, pad: 0.0pt)[
     A beam balance measures mass to 0.01 g or better, which is needed because a seedling's mass changes only slightly.
   ]
 
-  #sol-item(14, "D", dense: true)[
+  #sol-item(14, "D", dense: true, pad: 0.0pt)[
     The iris diaphragm (with the condenser) adjusts the light reaching the specimen.
   ]
 
-  #sol-item(15, "B", dense: true)[
+  #sol-item(15, "B", dense: true, pad: 0.0pt)[
     Because the image is reversed, the slide must be moved in the same direction as the specimen appears to have drifted.
   ]
 
-  #sol-item(16, "D", dense: true)[
+  #sol-item(16, "D", dense: true, pad: 0.0pt)[
     Actual size = image size ÷ magnification = 40 mm ÷ 400 = 0.1 mm.
   ]
 
-  #sol-item(17, "D", dense: true)[
+  #sol-item(17, "D", dense: true, pad: 0.0pt)[
     A quadrat is a square frame thrown at random; the plants inside are counted and the average is scaled up.
   ]
 
-  #sol-item(18, "B", dense: true)[
+  #sol-item(18, "B", dense: true, pad: 0.0pt)[
     Mobile animals cannot be counted in a square, so a sample is marked, released and recaptured.
   ]
 
-  #sol-item(19, "D", dense: true)[
+  #sol-item(19, "D", dense: true, pad: 0.0pt)[
     N = (M × C) ÷ R = (40 × 50) ÷ 8 = 250.
   ]
 
-  #sol-item(20, "A", dense: true)[
+  #sol-item(20, "A", dense: true, pad: 0.0pt)[
     A cup sunk flush with the soil surface catches animals that walk over the ground and fall in.
   ]
 
-  #sol-item(21, "A", dense: true)[
+  #sol-item(21, "A", dense: true, pad: 0.0pt)[
     The heat and light from the lamp drive the small animals downwards through the sieve into the jar.
   ]
 
-  #sol-item(22, "D", dense: true)[
+  #sol-item(22, "D", dense: true, pad: 0.0pt)[
     The unit belongs in the heading of the column, so that the numbers themselves stay clean and comparable.
   ]
 
-  #sol-item(23, "A", dense: true)[
+  #sol-item(23, "A", dense: true, pad: 0.0pt)[
     A report has an aim, apparatus, method, results, discussion and conclusion — not advertising.
   ]
 
-  #sol-item(24, "C", dense: true)[
+  #sol-item(24, "C", dense: true, pad: 0.0pt)[
     The number of bubbles is what is measured; the light intensity is what is changed.
   ]
 
-  #sol-item(25, "B", dense: true)[
+  #sol-item(25, "B", dense: true, pad: 0.0pt)[
     A transect records the species at intervals along a line, revealing the pattern of distribution across a habitat.
   ]
 
-  #sol-item(26, "C", dense: true)[
+  #sol-item(26, "C", dense: true, pad: 0.0pt)[
     Repeats make the result more reliable — a repeated experiment gives the same answer more consistently.
   ]
 
-  #sol-item(27, "C", dense: true)[
+  #sol-item(27, "C", dense: true, pad: 0.0pt)[
     If marked animals avoid recapture, R falls, and dividing by a smaller R raises the estimate.
   ]
 
-  #sol-item(28, "C", dense: true)[
+  #sol-item(28, "C", dense: true, pad: 0.0pt)[
     The eye must be level with the bottom of the meniscus; looking from above or below gives a false reading.
   ]
 
-  #sol-item(29, "C", dense: true)[
+  #sol-item(29, "C", dense: true, pad: 0.0pt)[
     Magnification = image size ÷ actual size; it has no units.
   ]
 
-  #sol-item(30, "D", dense: true)[
+  #sol-item(30, "D", dense: true, pad: 0.0pt)[
     Start at low power to find the specimen, then move to higher power once it is centred and focused.
   ]
 

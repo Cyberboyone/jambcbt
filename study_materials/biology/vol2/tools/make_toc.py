@@ -22,7 +22,9 @@ SKIP_TITLES = {
     "The Twelve Question Types That Reappear Every Year",
 }
 
-START_AT = "Chapter 1"
+# The printed contents begins with the pages that follow it, so front matter
+# that sits before the Contents page itself is not repeated here.
+START_AT = "How to Use This Book"
 
 
 def esc(s: str) -> str:

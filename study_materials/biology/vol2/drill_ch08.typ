@@ -264,129 +264,130 @@
   )
 ]
 
-=== Complete Solutions
-
 #[
   #set text(size: 9.15pt)
   #set par(leading: 0.66em, spacing: 0.72em)
 
-  #sol-item(1, "C", dense: true)[
+  #block(breakable: false)[
+  === Complete Solutions
+  #sol-item(1, "C", dense: true, pad: 0.0pt)[
     A virus is nucleic acid inside a protein coat — no cytoplasm, no enzymes, no cell membrane. It is not a cell.
   ]
 
-  #sol-item(2, "C", dense: true)[
+  #sol-item(2, "C", dense: true, pad: 0.0pt)[
     Bacteria are complete cells and can grow on their own; viruses multiply only inside a living host cell.
   ]
+  ]
 
-  #sol-item(3, "C", dense: true)[
+  #sol-item(3, "C", dense: true, pad: 0.0pt)[
     Bacteria have no nucleus; their DNA is a single circular loop lying free in the cytoplasm.
   ]
 
-  #sol-item(4, "A", dense: true)[
+  #sol-item(4, "A", dense: true, pad: 0.0pt)[
     The thread-like filaments of a fungus are hyphae, and a mass of them is a mycelium.
   ]
 
-  #sol-item(5, "B", dense: true)[
+  #sol-item(5, "B", dense: true, pad: 0.0pt)[
     Yeast is the exception among fungi: it is single-celled and reproduces by budding.
   ]
 
-  #sol-item(6, "B", dense: true)[
+  #sol-item(6, "B", dense: true, pad: 0.0pt)[
     Decay is the breakdown of dead organic matter by bacteria and fungi into simpler substances.
   ]
 
-  #sol-item(7, "B", dense: true)[
+  #sol-item(7, "B", dense: true, pad: 0.0pt)[
     The decomposers break down the organic matter by respiration, releasing carbon dioxide, water and heat as they do so.
   ]
 
-  #sol-item(8, "D", dense: true)[
+  #sol-item(8, "D", dense: true, pad: 0.0pt)[
     Carbon leaves the dead matter as carbon dioxide, which returns to the atmosphere.
   ]
 
-  #sol-item(9, "C", dense: true)[
+  #sol-item(9, "C", dense: true, pad: 0.0pt)[
     The heat is the energy released by the respiration of the decomposers, which is why a heap can be too hot to touch.
   ]
 
-  #sol-item(10, "B", dense: true)[
+  #sol-item(10, "B", dense: true, pad: 0.0pt)[
     Nitrates, phosphates and potassium released by decay are the minerals plants need — which is why humus makes soil fertile.
   ]
 
-  #sol-item(11, "A", dense: true)[
+  #sol-item(11, "A", dense: true, pad: 0.0pt)[
     A strong salt solution draws water out of the microbial cells by osmosis, so they cannot grow.
   ]
 
-  #sol-item(12, "C", dense: true)[
+  #sol-item(12, "C", dense: true, pad: 0.0pt)[
     Canning seals the food from oxygen and heats it enough to kill the organisms already present.
   ]
 
-  #sol-item(13, "A", dense: true)[
+  #sol-item(13, "A", dense: true, pad: 0.0pt)[
     Refrigeration slows growth, and freezing stops it, because the low temperature slows enzyme action and reproduction.
   ]
 
-  #sol-item(14, "B", dense: true)[
+  #sol-item(14, "B", dense: true, pad: 0.0pt)[
     Smoking dries the surface and deposits chemicals that inhibit bacteria, which is why smoked fish keeps longer than fresh fish.
   ]
 
-  #sol-item(15, "D", dense: true)[
+  #sol-item(15, "D", dense: true, pad: 0.0pt)[
     Yeast ferments sugar to alcohol and carbon dioxide; the trapped gas expands the dough.
   ]
 
-  #sol-item(16, "A", dense: true)[
+  #sol-item(16, "A", dense: true, pad: 0.0pt)[
     Lactic-acid bacteria turn lactose into lactic acid, which curdles the milk and gives yoghurt its sour taste.
   ]
 
-  #sol-item(17, "B", dense: true)[
+  #sol-item(17, "B", dense: true, pad: 0.0pt)[
     Anaerobic bacteria digest the waste in a sealed digester and release methane, the main component of biogas.
   ]
 
-  #sol-item(18, "D", dense: true)[
+  #sol-item(18, "D", dense: true, pad: 0.0pt)[
     Penicillin comes from the mould Penicillium, which produces a substance that kills bacteria.
   ]
 
-  #sol-item(19, "C", dense: true)[
+  #sol-item(19, "C", dense: true, pad: 0.0pt)[
     The bacteria reduce atmospheric nitrogen to compounds the plant can absorb, which is why legumes enrich the soil.
   ]
 
-  #sol-item(20, "A", dense: true)[
+  #sol-item(20, "A", dense: true, pad: 0.0pt)[
     Warmth and moisture are exactly the conditions micro-organisms need, so warm moist food spoils fastest.
   ]
 
-  #sol-item(21, "D", dense: true)[
+  #sol-item(21, "D", dense: true, pad: 0.0pt)[
     Warmth speeds up both the reproduction of the bacteria and the action of their enzymes, so acid builds up sooner.
   ]
 
-  #sol-item(22, "D", dense: true)[
+  #sol-item(22, "D", dense: true, pad: 0.0pt)[
     Clostridium botulinum grows anaerobically in badly canned food and produces a powerful toxin.
   ]
 
-  #sol-item(23, "B", dense: true)[
+  #sol-item(23, "B", dense: true, pad: 0.0pt)[
     In the log (exponential) phase there is plenty of food and little waste, so the population doubles at a constant rate.
   ]
 
-  #sol-item(24, "D", dense: true)[
+  #sol-item(24, "D", dense: true, pad: 0.0pt)[
     Food is running out and waste is accumulating, so the number of new cells equals the number dying.
   ]
 
-  #sol-item(25, "B", dense: true)[
+  #sol-item(25, "B", dense: true, pad: 0.0pt)[
     The word refers to size, not to harm. Most micro-organisms are harmless or useful.
   ]
 
-  #sol-item(26, "A", dense: true)[
+  #sol-item(26, "A", dense: true, pad: 0.0pt)[
     Chlorophyll is itself broken down during decay; the products released are carbon dioxide, water and mineral salts.
   ]
 
-  #sol-item(27, "C", dense: true)[
+  #sol-item(27, "C", dense: true, pad: 0.0pt)[
     The difference between the two treatments is moisture and warmth, and only the moist warm bread developed mould.
   ]
 
-  #sol-item(28, "C", dense: true)[
+  #sol-item(28, "C", dense: true, pad: 0.0pt)[
     Decomposing bacteria turn crop waste and manure into humus, returning minerals to the soil.
   ]
 
-  #sol-item(29, "D", dense: true)[
+  #sol-item(29, "D", dense: true, pad: 0.0pt)[
     Pasteurisation kills most of the pathogens and spoilage organisms without spoiling the taste of the milk.
   ]
 
-  #sol-item(30, "C", dense: true)[
+  #sol-item(30, "C", dense: true, pad: 0.0pt)[
     As decomposers they respire the carbon in dead matter back into the atmosphere, where it can be fixed again by plants.
   ]
 

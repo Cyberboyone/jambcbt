@@ -264,129 +264,130 @@
   )
 ]
 
-=== Complete Solutions
-
 #[
   #set text(size: 9.15pt)
   #set par(leading: 0.66em, spacing: 0.72em)
 
-  #sol-item(1, "C", dense: true)[
+  #block(breakable: false)[
+  === Complete Solutions
+  #sol-item(1, "C", dense: true, pad: 0.0pt)[
     Growth is a permanent, irreversible increase in size or mass, brought about by cell division and cell enlargement. Water uptake is reversible and therefore not growth.
   ]
 
-  #sol-item(2, "B", dense: true)[
+  #sol-item(2, "B", dense: true, pad: 0.0pt)[
     Development is the appearance of new structures and abilities — a seed becoming a seedling, a child becoming an adult. Growth is the increase in size.
   ]
+  ]
 
-  #sol-item(3, "B", dense: true)[
+  #sol-item(3, "B", dense: true, pad: 0.0pt)[
     Dry mass is used for plants because fresh mass changes every time the plant absorbs or loses water. Dry mass records only the material the plant has actually built.
   ]
 
-  #sol-item(4, "B", dense: true)[
+  #sol-item(4, "B", dense: true, pad: 0.0pt)[
     The S-shaped (sigmoid) curve is the human and vertebrate pattern: slow, then rapid at puberty, then levelling off. Insects show a stepped curve.
   ]
 
-  #sol-item(5, "B", dense: true)[
+  #sol-item(5, "B", dense: true, pad: 0.0pt)[
     The chitin exoskeleton cannot stretch, so the insect grows in bursts, each burst ending in a moult (ecdysis).
   ]
 
-  #sol-item(6, "A", dense: true)[
+  #sol-item(6, "A", dense: true, pad: 0.0pt)[
     Moulting is ecdysis. Metamorphosis is the change of body form, which is a different process.
   ]
 
-  #sol-item(7, "C", dense: true)[
+  #sol-item(7, "C", dense: true, pad: 0.0pt)[
     Growth is fastest in infancy, steady in childhood, and rises again in a growth spurt at adolescence under growth hormone with testosterone or oestrogen.
   ]
 
-  #sol-item(8, "D", dense: true)[
+  #sol-item(8, "D", dense: true, pad: 0.0pt)[
     Growth in length stops when the cartilage growth plates at the ends of the long bones ossify and fuse.
   ]
 
-  #sol-item(9, "A", dense: true)[
+  #sol-item(9, "A", dense: true, pad: 0.0pt)[
     Complete metamorphosis has four stages with a pupa. Grasshoppers, cockroaches and termites show incomplete metamorphosis.
   ]
 
-  #sol-item(10, "C", dense: true)[
+  #sol-item(10, "C", dense: true, pad: 0.0pt)[
     The pupa is the resting stage in which the larval tissues are broken down and the adult body is built.
   ]
 
-  #sol-item(11, "D", dense: true)[
+  #sol-item(11, "D", dense: true, pad: 0.0pt)[
     A nymph resembles the adult and moults directly into the adult form; a larva looks nothing like the adult and must pass through a pupa.
   ]
 
-  #sol-item(12, "A", dense: true)[
+  #sol-item(12, "A", dense: true, pad: 0.0pt)[
     Larva and adult usually live in different places and eat different food, so they do not compete with each other.
   ]
 
-  #sol-item(13, "A", dense: true)[
+  #sol-item(13, "A", dense: true, pad: 0.0pt)[
     Mosquito larvae are aquatic. Draining, filling or oiling the water surface kills them at the stage where they cannot escape.
   ]
 
-  #sol-item(14, "C", dense: true)[
+  #sol-item(14, "C", dense: true, pad: 0.0pt)[
     The grasshopper hatches as a nymph that resembles a small adult and moults without a pupal stage.
   ]
 
-  #sol-item(15, "B", dense: true)[
+  #sol-item(15, "B", dense: true, pad: 0.0pt)[
     Testosterone from the testes produces the deep voice, beard growth and broader shoulders at puberty.
   ]
 
-  #sol-item(16, "D", dense: true)[
+  #sol-item(16, "D", dense: true, pad: 0.0pt)[
     Growth hormone sets the spurt going, but the sex hormones (testosterone in boys, oestrogen in girls) bring about the pubertal growth spurt and the closing of the growth plates.
   ]
 
-  #sol-item(17, "A", dense: true)[
+  #sol-item(17, "A", dense: true, pad: 0.0pt)[
     The menstrual cycle begins in girls at puberty; the voice deepens in boys.
   ]
 
-  #sol-item(18, "C", dense: true)[
+  #sol-item(18, "C", dense: true, pad: 0.0pt)[
     The pituitary releases FSH and LH, which switch on the gonads and start the production of the sex hormones.
   ]
 
-  #sol-item(19, "C", dense: true)[
+  #sol-item(19, "C", dense: true, pad: 0.0pt)[
     The zygote divides to form an embryo; from about eight weeks, when the organs are laid down, it is called a foetus.
   ]
 
-  #sol-item(20, "A", dense: true)[
+  #sol-item(20, "A", dense: true, pad: 0.0pt)[
     A nymph is a stage in the incomplete metamorphosis of an insect, not in human development.
   ]
 
-  #sol-item(21, "B", dense: true)[
+  #sol-item(21, "B", dense: true, pad: 0.0pt)[
     A dark-grown seedling grows tall and spindly by elongating its cells without building much new material. Its dry mass is lower, which shows why height alone is a poor measure.
   ]
 
-  #sol-item(22, "B", dense: true)[
+  #sol-item(22, "B", dense: true, pad: 0.0pt)[
     Each moult marks the end of one larval or nymphal instar, so five moults mean five immature stages before the adult.
   ]
 
-  #sol-item(23, "A", dense: true)[
+  #sol-item(23, "A", dense: true, pad: 0.0pt)[
     Adolescence is the wider period of change; puberty is the biological part of it.
   ]
 
-  #sol-item(24, "B", dense: true)[
+  #sol-item(24, "B", dense: true, pad: 0.0pt)[
     Sperm production is a primary sexual character — the working of the reproductive organ itself. Secondary characters are the outward signs.
   ]
 
-  #sol-item(25, "C", dense: true)[
+  #sol-item(25, "C", dense: true, pad: 0.0pt)[
     The plateau is the adult phase, in which growth has effectively stopped because the growth plates have fused.
   ]
 
-  #sol-item(26, "A", dense: true)[
+  #sol-item(26, "A", dense: true, pad: 0.0pt)[
     The cockroach has a rigid exoskeleton, so it grows in steps separated by moults.
   ]
 
-  #sol-item(27, "D", dense: true)[
+  #sol-item(27, "D", dense: true, pad: 0.0pt)[
     Drying to constant mass removes all the water, so the mass that remains is the material the plant has actually built.
   ]
 
-  #sol-item(28, "D", dense: true)[
+  #sol-item(28, "D", dense: true, pad: 0.0pt)[
     The change of body form is development; growth alone would only be an increase in size.
   ]
 
-  #sol-item(29, "D", dense: true)[
+  #sol-item(29, "D", dense: true, pad: 0.0pt)[
     Growth hormone from the anterior pituitary controls the growth of the skeleton and the muscles throughout childhood.
   ]
 
-  #sol-item(30, "C", dense: true)[
+  #sol-item(30, "C", dense: true, pad: 0.0pt)[
     A shortage of growth hormone in childhood produces dwarfism — short stature with normal proportions. Excess produces gigantism.
   ]
 

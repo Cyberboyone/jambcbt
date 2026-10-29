@@ -17,6 +17,7 @@ Outputs
 from __future__ import annotations
 
 import random
+import json
 import sys
 from pathlib import Path
 
@@ -29,6 +30,14 @@ BANK_3 = {**BANK_3A, **BANK_3B}
 
 OUT = HERE.parent
 LETTERS = "ABCD"
+
+def _pad(stem: str) -> float:
+    """Extra air between solutions, in points, tuned by tools/fit_solutions.py."""
+    path = OUT / "_fit.json"
+    if path.exists():
+        return float(json.loads(path.read_text()).get(stem, 0))
+    return 0.0
+
 
 CHAPTER_NAMES = {
     1: "Nervous Coordination",
@@ -172,14 +181,46 @@ def score_band(out, n):
 
 
 def question_map(out, qs):
+    """A chapter-by-chapter index of the paper, so a column of ticks becomes
+    a revision list."""
+    groups = {}
+    for j, (ch, _s, _o, _so) in enumerate(qs, 1):
+        groups.setdefault(ch, []).append(j)
     out.append(
-        "Which chapter each question came from. Group your misses by column: the chapter that "
-        "appears most often under your wrong answers is the only revision task worth starting today."
+        "Which chapter each question came from, grouped so that a column of misses in your "
+        "script becomes a revision list. Tick every question you got wrong; the chapter with "
+        "the longest tick list is the one to revise tonight, before you re-sit the paper."
     )
     out.append("")
-    chunks = [f"*Q{j}* #h(2pt) Ch {ch}" for j, (ch, _s, _o, _so) in enumerate(qs, 1)]
-    for start in range(0, len(chunks), 10):
-        out.append(" #h(0pt) ".join(chunks[start:start + 10]) + " \\")
+    out += [
+        "#table(",
+        "  columns: (0.42fr, 1.75fr, 2.55fr, 0.5fr),",
+        "  inset: 5pt,",
+        "  align: (center + horizon, left + horizon, left + horizon, center + horizon),",
+        "  stroke: 0.5pt + jamb-border,",
+        "  fill: (x, y) => if y == 0 { jamb-navy } else if calc.odd(y) { white } else { jamb-light },",
+        '  table.header(text(font: "DejaVu Sans", size: 8.2pt, weight: "bold", fill: white)[Ch],',
+        '    text(font: "DejaVu Sans", size: 8.2pt, weight: "bold", fill: white)[Topic],',
+        '    text(font: "DejaVu Sans", size: 8.2pt, weight: "bold", fill: white)[Questions],',
+        '    text(font: "DejaVu Sans", size: 8.2pt, weight: "bold", fill: white)[No.]),',
+    ]
+    for ch in sorted(groups):
+        nums = ", ".join(str(n) for n in groups[ch])
+        out.append(f"  [{ch}], [{CHAPTER_NAMES[ch]}], [{nums}], [{len(groups[ch])}],")
+    out += [")", ""]
+    heavy = sorted(groups.items(), key=lambda kv: (-len(kv[1]), kv[0]))[:2]
+    top = len(heavy[0][1])
+    if len(heavy) > 1 and len(heavy[1][1]) == top:
+        lead = " and ".join(f"Chapter {ch} ({len(v)})" for ch, v in heavy)
+        out.append(
+            f"The paper is level with the syllabus: {lead} carry the most questions, so a miss "
+            "there costs the most marks. Revise those first."
+        )
+    else:
+        out.append(
+            f"Chapter {heavy[0][0]} carries the most questions ({top}), so a miss there costs the "
+            "most marks. Revise it first."
+        )
     out.append("")
 
 
@@ -209,15 +250,27 @@ def topic_table(out, qs):
     out += [")", ""]
 
 
-def solutions(out, qs, keys):
+def solutions(out, qs, keys, pad=0, heading=""):
+    # A tighter type size keeps a forty-question solution run on two pages
+    # instead of spilling a two-line widow onto a third. The heading is glued
+    # to the first solution so it is never left alone at the foot of a page.
+    out.append("#block[")
+    out.append("  #set text(size: 9.6pt)")
+    out.append("  #set par(leading: 0.68em, spacing: 0.72em)")
+    out.append("  #block(breakable: false)[")
+    out.append(f"  == {heading}")
     for i, ((ch, _stem, _opts, sol), k) in enumerate(zip(qs, keys), 1):
-        out.append(f'#sol-item({i}, "{k}")[')
-        out.append(f"  *Chapter {ch}.* {sol}")
-        out.append("]")
+        out.append(f'  #sol-item({i}, "{k}", dense: true, pad: {pad}pt)[')
+        out.append(f"    *Chapter {ch}.* {sol}")
+        out.append("  ]")
+        if i == 2:
+            out.append("  ]")
         out.append("")
+    out.append("]")
+    out.append("")
 
 
-def paper(num, title, tag, subtitle, intro, qs, seed, stats=None, map_style="inline"):
+def paper(num, title, tag, subtitle, intro, qs, seed, stats=None, map_style="inline", fit_key=""):
     keys, ordered = order(qs, seed)
     out = ["#pagebreak()", ""]
     banner(tag, title, subtitle, intro, out)
@@ -238,9 +291,7 @@ def paper(num, title, tag, subtitle, intro, qs, seed, stats=None, map_style="inl
         topic_table(out, ordered)
     else:
         question_map(out, ordered)
-    out.append(f"== {num} — Complete Solutions")
-    out.append("")
-    solutions(out, ordered, keys)
+    solutions(out, ordered, keys, pad=_pad(fit_key), heading=f"{num} — Complete Solutions")
     return out, keys
 
 
@@ -275,6 +326,7 @@ def main() -> int:
         ],
         m1, seed=9001,
         stats=[("QUESTIONS", "40"), ("TIME", "40 min"), ("MARKING", "No negatives"), ("TARGET", "30 / 40")],
+        fit_key="mock_ch11",
     )
     write("mock_ch11.typ", lines, "Mock Examination 1")
 
@@ -291,6 +343,7 @@ def main() -> int:
         ],
         m2, seed=9102,
         stats=[("QUESTIONS", "40"), ("TIME", "40 min"), ("MARKING", "No negatives"), ("TARGET", "31 / 40")],
+        fit_key="mock2",
     )
     write("mock2.typ", lines, "Mock Examination 2")
 
@@ -332,6 +385,7 @@ def main() -> int:
         ["Sit it under examination conditions: no notes, no phone, one sheet of rough paper."],
         fin, seed=9304,
         stats=[("QUESTIONS", "40"), ("TIME", "40 min"), ("MARKING", "No negatives"), ("TARGET", "34 / 40")],
+        fit_key="zfinal",
     )
     write("zfinal.typ", lines, "Appendix B: The Final Forty")
 
@@ -343,7 +397,7 @@ def main() -> int:
         "not as a test: work in blocks of twenty, mark each block, and return a fortnight later and "
         "do the blocks in the shuffled order the CBT engine would use.",
         ["Every solution names its chapter, so a wrong answer tells you exactly where to go."],
-        bank, seed=9405, map_style="table",
+        bank, seed=9405, map_style="table", fit_key="bank120",
     )
     write("bank120.typ", lines, "Appendix C: The 120-Question Master Bank")
 

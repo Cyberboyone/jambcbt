@@ -264,129 +264,130 @@
   )
 ]
 
-=== Complete Solutions
-
 #[
   #set text(size: 9.15pt)
   #set par(leading: 0.66em, spacing: 0.72em)
 
-  #sol-item(1, "A", dense: true)[
+  #block(breakable: false)[
+  === Complete Solutions
+  #sol-item(1, "A", dense: true, pad: 0.0pt)[
     The cerebellum makes movement smooth and keeps posture stable; the cerebrum is for thought and voluntary action.
   ]
 
-  #sol-item(2, "A", dense: true)[
+  #sol-item(2, "A", dense: true, pad: 0.0pt)[
     The medulla oblongata controls involuntary activities that keep the body alive.
   ]
+  ]
 
-  #sol-item(3, "A", dense: true)[
+  #sol-item(3, "A", dense: true, pad: 0.0pt)[
     The cerebrum's folded cortex carries out thinking, memory, speech and voluntary movement.
   ]
 
-  #sol-item(4, "A", dense: true)[
+  #sol-item(4, "A", dense: true, pad: 0.0pt)[
     The arrangement in the cord is the reverse of the brain: grey inside, white outside.
   ]
 
-  #sol-item(5, "D", dense: true)[
+  #sol-item(5, "D", dense: true, pad: 0.0pt)[
     A concave (diverging) lens spreads the rays so they focus exactly on the retina.
   ]
 
-  #sol-item(6, "A", dense: true)[
+  #sol-item(6, "A", dense: true, pad: 0.0pt)[
     The iris is the muscular diaphragm that changes the size of the pupil.
   ]
 
-  #sol-item(7, "B", dense: true)[
+  #sol-item(7, "B", dense: true, pad: 0.0pt)[
     The ciliary muscles alter the lens shape, changing its focal length.
   ]
 
-  #sol-item(8, "D", dense: true)[
+  #sol-item(8, "D", dense: true, pad: 0.0pt)[
     The cochlea contains the sound receptors; the semicircular canals are for balance.
   ]
 
-  #sol-item(9, "D", dense: true)[
+  #sol-item(9, "D", dense: true, pad: 0.0pt)[
     Three tiny bones (malleus, incus, stapes) magnify the vibration of the eardrum.
   ]
 
-  #sol-item(10, "A", dense: true)[
+  #sol-item(10, "A", dense: true, pad: 0.0pt)[
     The pupil reflex widens the pupil in dim light; the iris relaxes the circular muscles.
   ]
 
-  #sol-item(11, "C", dense: true)[
+  #sol-item(11, "C", dense: true, pad: 0.0pt)[
     The lens system inverts the image; the brain interprets it the right way up.
   ]
 
-  #sol-item(12, "D", dense: true)[
+  #sol-item(12, "D", dense: true, pad: 0.0pt)[
     Long sight — the image would fall behind the retina — and it is corrected with a convex lens.
   ]
 
-  #sol-item(13, "C", dense: true)[
+  #sol-item(13, "C", dense: true, pad: 0.0pt)[
     No rods or cones are present at the exit of the optic nerve, so no image is detected there.
   ]
 
-  #sol-item(14, "D", dense: true)[
+  #sol-item(14, "D", dense: true, pad: 0.0pt)[
     Rods are sensitive but colour-blind; cones need bright light and give colour vision.
   ]
 
-  #sol-item(15, "B", dense: true)[
+  #sol-item(15, "B", dense: true, pad: 0.0pt)[
     The cornea does most of the refraction; the lens only adjusts the focus.
   ]
 
-  #sol-item(16, "B", dense: true)[
+  #sol-item(16, "B", dense: true, pad: 0.0pt)[
     It equalises the pressure on both sides of the eardrum, which is why swallowing relieves a blocked ear.
   ]
 
-  #sol-item(17, "C", dense: true)[
+  #sol-item(17, "C", dense: true, pad: 0.0pt)[
     Pain receptors are bare nerve endings spread through the skin and most internal organs.
   ]
 
-  #sol-item(18, "B", dense: true)[
+  #sol-item(18, "B", dense: true, pad: 0.0pt)[
     Hammer, anvil and stirrup — the three bones of the middle ear.
   ]
 
-  #sol-item(19, "D", dense: true)[
+  #sol-item(19, "D", dense: true, pad: 0.0pt)[
     The cerebellum coordinates movement and balance; without it, movement becomes unsteady.
   ]
 
-  #sol-item(20, "C", dense: true)[
+  #sol-item(20, "C", dense: true, pad: 0.0pt)[
     Writing begins in the cerebrum; the other three are reflex actions.
   ]
 
-  #sol-item(21, "A", dense: true)[
+  #sol-item(21, "A", dense: true, pad: 0.0pt)[
     These are the two kinds of light-sensitive receptor cells.
   ]
 
-  #sol-item(22, "C", dense: true)[
+  #sol-item(22, "C", dense: true, pad: 0.0pt)[
     Diverging the rays compensates for an eyeball that is too long or a lens that is too strong.
   ]
 
-  #sol-item(23, "D", dense: true)[
+  #sol-item(23, "D", dense: true, pad: 0.0pt)[
     The cerebral cortex is a folded sheet of grey matter; white matter lies beneath it.
   ]
 
-  #sol-item(24, "B", dense: true)[
+  #sol-item(24, "B", dense: true, pad: 0.0pt)[
     The tough white sclera is the outer coat of the eyeball.
   ]
 
-  #sol-item(25, "C", dense: true)[
+  #sol-item(25, "C", dense: true, pad: 0.0pt)[
     They are the balance organs, not hearing organs.
   ]
 
-  #sol-item(26, "D", dense: true)[
+  #sol-item(26, "D", dense: true, pad: 0.0pt)[
     The shortcut through the cord saves the long journey to the cerebrum and back.
   ]
 
-  #sol-item(27, "B", dense: true)[
+  #sol-item(27, "B", dense: true, pad: 0.0pt)[
     It is a sensory nerve, carrying information inwards from the eye.
   ]
 
-  #sol-item(28, "C", dense: true)[
+  #sol-item(28, "C", dense: true, pad: 0.0pt)[
     Older lenses lose elasticity and cannot become convex enough for near objects.
   ]
 
-  #sol-item(29, "A", dense: true)[
+  #sol-item(29, "A", dense: true, pad: 0.0pt)[
     The hypothalamus monitors the blood and controls the pituitary gland beneath it.
   ]
 
-  #sol-item(30, "B", dense: true)[
+  #sol-item(30, "B", dense: true, pad: 0.0pt)[
     The interior of the eye absorbs the light that enters, so nothing comes back out.
   ]
 

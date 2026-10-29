@@ -264,129 +264,130 @@
   )
 ]
 
-=== Complete Solutions
-
 #[
   #set text(size: 9.15pt)
   #set par(leading: 0.66em, spacing: 0.72em)
 
-  #sol-item(1, "C", dense: true)[
+  #block(breakable: false)[
+  === Complete Solutions
+  #sol-item(1, "C", dense: true, pad: 0.0pt)[
     A drug is any chemical that alters the working of the body or mind. Medicines are drugs used in a measured dose to treat disease.
   ]
 
-  #sol-item(2, "B", dense: true)[
+  #sol-item(2, "B", dense: true, pad: 0.0pt)[
     Caffeine speeds up the brain and the heart. Alcohol and heroin are depressants.
   ]
+  ]
 
-  #sol-item(3, "B", dense: true)[
+  #sol-item(3, "B", dense: true, pad: 0.0pt)[
     Alcohol slows synaptic transmission. The apparent liveliness of a drinker is the loss of the brain's normal inhibitions.
   ]
 
-  #sol-item(4, "D", dense: true)[
+  #sol-item(4, "D", dense: true, pad: 0.0pt)[
     Morphine is a powerful analgesic, used under medical supervision for severe pain.
   ]
 
-  #sol-item(5, "A", dense: true)[
+  #sol-item(5, "A", dense: true, pad: 0.0pt)[
     Tolerance is the body's adaptation, so the dose must be increased to achieve the original effect.
   ]
 
-  #sol-item(6, "C", dense: true)[
+  #sol-item(6, "C", dense: true, pad: 0.0pt)[
     Dependence means the body has adapted to the drug; removing it produces the illness called withdrawal.
   ]
 
-  #sol-item(7, "D", dense: true)[
+  #sol-item(7, "D", dense: true, pad: 0.0pt)[
     Depressants slow the brain, and in overdose they slow the respiratory centre until breathing stops.
   ]
 
-  #sol-item(8, "B", dense: true)[
+  #sol-item(8, "B", dense: true, pad: 0.0pt)[
     Cirrhosis is the replacement of liver tissue by scar tissue, a common consequence of long-term heavy drinking.
   ]
 
-  #sol-item(9, "C", dense: true)[
+  #sol-item(9, "C", dense: true, pad: 0.0pt)[
     Nicotine is the addictive substance; tar contains the carcinogens and carbon monoxide reduces the oxygen carried by the blood.
   ]
 
-  #sol-item(10, "C", dense: true)[
+  #sol-item(10, "C", dense: true, pad: 0.0pt)[
     Carbon monoxide binds to haemoglobin far more strongly than oxygen does, so less oxygen reaches the tissues.
   ]
 
-  #sol-item(11, "B", dense: true)[
+  #sol-item(11, "B", dense: true, pad: 0.0pt)[
     Alcohol crosses the placenta and can cause low birth mass, learning difficulty and the facial features of foetal alcohol syndrome.
   ]
 
-  #sol-item(12, "B", dense: true)[
+  #sol-item(12, "B", dense: true, pad: 0.0pt)[
     Danger to the rescuer comes first. An injured rescuer cannot help anyone.
   ]
 
-  #sol-item(13, "D", dense: true)[
+  #sol-item(13, "D", dense: true, pad: 0.0pt)[
     Danger, Response, Airway, Breathing, Circulation is the standard order of assessment.
   ]
 
-  #sol-item(14, "D", dense: true)[
+  #sol-item(14, "D", dense: true, pad: 0.0pt)[
     The recovery position — on the side — keeps the tongue from blocking the airway and lets vomit drain out.
   ]
 
-  #sol-item(15, "A", dense: true)[
+  #sol-item(15, "A", dense: true, pad: 0.0pt)[
     Cooling with clean water removes the heat from the tissue. Never burst the blister or apply grease.
   ]
 
-  #sol-item(16, "A", dense: true)[
+  #sol-item(16, "A", dense: true, pad: 0.0pt)[
     Immobilise the joint above and below the break; never try to straighten the limb yourself.
   ]
 
-  #sol-item(17, "C", dense: true)[
+  #sol-item(17, "C", dense: true, pad: 0.0pt)[
     Direct pressure with a clean pad, with the limb raised, controls most bleeding.
   ]
 
-  #sol-item(18, "A", dense: true)[
+  #sol-item(18, "A", dense: true, pad: 0.0pt)[
     Keeping the casualty still slows the spread of venom; antiserum in hospital is the treatment.
   ]
 
-  #sol-item(19, "D", dense: true)[
+  #sol-item(19, "D", dense: true, pad: 0.0pt)[
     The box contains dressings, bandages, antiseptic, scissors, gloves and oral rehydration salts — not prescription medicines or invasive instruments.
   ]
 
-  #sol-item(20, "C", dense: true)[
+  #sol-item(20, "C", dense: true, pad: 0.0pt)[
     An unconscious person cannot swallow safely; fluid or medicine can enter the airway and cause choking or aspiration.
   ]
 
-  #sol-item(21, "D", dense: true)[
+  #sol-item(21, "D", dense: true, pad: 0.0pt)[
     Public health works on the whole population, and its tools are prevention: safe water, sanitation, immunisation and education.
   ]
 
-  #sol-item(22, "A", dense: true)[
+  #sol-item(22, "A", dense: true, pad: 0.0pt)[
     Prevention beats cure: if the pathogen never reaches the drinking water, nobody needs the hospital.
   ]
 
-  #sol-item(23, "A", dense: true)[
+  #sol-item(23, "A", dense: true, pad: 0.0pt)[
     Malaria is mosquito-borne, so the breeding sites and the bites must be attacked.
   ]
 
-  #sol-item(24, "D", dense: true)[
+  #sol-item(24, "D", dense: true, pad: 0.0pt)[
     Hand-washing, safe food handling and the recognition of early symptoms are cheap and effective preventive measures.
   ]
 
-  #sol-item(25, "C", dense: true)[
+  #sol-item(25, "C", dense: true, pad: 0.0pt)[
     Refuse breeds flies, and flies carry bacteria from faeces and waste to food.
   ]
 
-  #sol-item(26, "B", dense: true)[
+  #sol-item(26, "B", dense: true, pad: 0.0pt)[
     Antiseptics are chemicals applied to kill micro-organisms on surfaces or skin; they are not a class of drug acting on the body's nervous system.
   ]
 
-  #sol-item(27, "A", dense: true)[
+  #sol-item(27, "A", dense: true, pad: 0.0pt)[
     Addiction consumes money and damages relationships; drug users often turn to crime to pay for the drug.
   ]
 
-  #sol-item(28, "A", dense: true)[
+  #sol-item(28, "A", dense: true, pad: 0.0pt)[
     Cannabis is the dried leaf and flower of Cannabis sativa; opium comes from the poppy and cocaine from the coca leaf.
   ]
 
-  #sol-item(29, "C", dense: true)[
+  #sol-item(29, "C", dense: true, pad: 0.0pt)[
     Withdrawal can be dangerous, so it is supervised, and counselling addresses the reasons for the addiction.
   ]
 
-  #sol-item(30, "A", dense: true)[
+  #sol-item(30, "A", dense: true, pad: 0.0pt)[
     Dependence, or addiction, is the inability to stop despite the harm it causes.
   ]
 
