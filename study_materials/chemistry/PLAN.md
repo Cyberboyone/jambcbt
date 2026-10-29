@@ -10,9 +10,34 @@ set.
 | Volume | Title | Status |
 |---|---|---|
 | 1 | Matter, Atoms & Bonding | **complete — 143 pp** |
-| 2 | Physical Chemistry | not started |
+| 2 | Physical Chemistry | **complete — 165 pp** |
 | 3 | Inorganic Chemistry | not started |
 | 4 | Organic Chemistry & Practical | not started |
+
+### Volume 2 — contents
+
+Front matter (series map, three habits, twelve question types, syllabus
+mapping, how to use, printed Contents page with baked page numbers,
+12-question diagnostic), then six chapters:
+
+1. Acids, Bases and Salts
+2. Solutions and Solubility
+3. Chemical Energetics
+4. Rates of Reaction
+5. Chemical Equilibrium
+6. Redox and Electrochemistry
+
+Back matter: two 40-question CBT mocks, Appendix A (40 rapid-fire pairs),
+Appendix B (120-question master bank), Appendix C (consolidated keys),
+Appendix D (formula sheet and data), Appendix E (calculation toolkit),
+Appendix F (glossary), Appendix G (revision planner and score tracker),
+Appendix H (equations and half-equations), Appendix I (structured questions
+with model answers), Appendix J (the twelve traps, worked), Appendix K
+(exam-day playbook). 25 diagrams, all drawn from script in `diagrams_gen/`.
+
+Item totals: **240 end-of-chapter drill questions** (40 per chapter), 80 mock
+questions, 40 rapid-fire pairs and a 120-question bank — every option
+explained in the solutions.
 
 ### Volume 1 — contents
 
