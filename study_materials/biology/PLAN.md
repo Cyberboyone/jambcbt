@@ -45,7 +45,10 @@ brain, eye, ear, reflex arc, and recap cards for chapters 1–2.
 
 Build: `cd vol2 && python generate_diagrams.py && python build.py`.
 
-## Volume 3 — Heredity, Evolution, Ecology & Applied Biology *(in progress)*
+## Volume 3 — Heredity, Evolution, Ecology & Applied Biology — COMPLETE
+
+189 pp, 4.07 MB, 0 warnings, 147 TOC entries, 39 diagrams, 600 distinct items
+(300 drill + 300 mock/bank, no question used twice).
 
 | Ch | Title | File | Status |
 |----|-------|------|--------|
@@ -53,17 +56,28 @@ Build: `cd vol2 && python generate_diagrams.py && python build.py`.
 | 2 | Inheritance Patterns, Probability and Sex Linkage | `ch02_inheritance.typ` | done |
 | 3 | Variation, Mutation and Adaptation | `ch03_variation.typ` | done |
 | 4 | Evolution and the Evidence for It | `ch04_evolution.typ` | done |
-| 5 | Ecology: Ecosystems, Populations and Habitats | `ch05_ecology.typ` | todo |
-| 6 | Ecological Interactions, Food Webs and Energy Flow | `ch06_interactions.typ` | todo |
-| 7 | Nutrient Cycles, Succession and the Nigerian Biomes | `ch07_cycles.typ` | todo |
-| 8 | Human Influence, Pollution and Conservation | `ch08_conservation.typ` | todo |
-| 9 | Applied Biology: Crops, Pests, Livestock and Disease | `ch09_applied.typ` | todo |
-| 10 | Practical Skills and the Examination in the Hall | `ch10_practical.typ` | todo |
+| 5 | Ecology, Populations and Sampling | `ch05_ecology.typ` | done |
+| 6 | Interactions, Food Webs and Energy Flow | `ch06_interactions.typ` | done |
+| 7 | Nutrient Cycles, Succession and Biomes | `ch07_cycles.typ` | done |
+| 8 | Human Influence, Pollution and Conservation | `ch08_conservation.typ` | done |
+| 9 | Applied Biology: Crops, Pests and Livestock | `ch09_applied.typ` | done |
+| 10 | Practical Skills and the Practical Paper | `ch10_practical.typ` | done |
 
-Diagrams so far: cover banner, UTME weight chart, chromosome, meiosis, monohybrid cross,
-test cross, sex-linked pedigree, ABO blood groups, continuous/discontinuous variation,
-mutation, homologous structures, natural selection and the fossil record, plus recap
-cards for chapters 1–4.
+Back matter: Mock Examination 1 (40), Mock Examination 2 (40), Appendix A rapid-fire
+pairs (60), Appendix B The Final Forty (40), Appendix C the 120-question master bank,
+Appendix D consolidated keys.
+
+Item banks: `tools/bank_bio3_c01.py` … `c10.py`, each holding `DRILL_n` (30) and
+`PAPER_n` (30). `tools/drills_bio3.py` renders the ten drills; `tools/papers_bio3.py`
+deals the 300 paper items round-robin into the mocks and appendices.
+`tools/fit_solutions.py` tunes `_fit.json` so no solution run ends in an orphan page.
+
+Diagrams (`diagrams_gen/figs_v3_a…d.py`): cover banner, UTME weight chart, chromosome,
+meiosis, monohybrid, test cross, pedigree, ABO groups, variation, mutation, homologous
+structures, natural selection, fossil record, ecosystem, sampling methods, food web,
+three pyramids, symbiosis, carbon cycle, nitrogen cycle, succession, pollution table,
+conservation, crop rotation, pest control, ruminant stomach, microscope, food tests,
+graph choice — plus a recap card for every chapter.
 
 ## Build
 
