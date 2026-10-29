@@ -1,0 +1,83 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 268" width="760" height="268">
+  <defs>
+    <marker id="ag" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#008751"/>
+    </marker>
+    <marker id="an" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#0E1F40"/>
+    </marker>
+    <marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#D97706"/>
+    </marker>
+    <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#DC2626"/>
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="760" height="268" fill="#FFFFFF"/>
+<text x="380" y="24" font-family="DejaVu Sans" font-size="12.4" fill="#0E1F40" text-anchor="middle" font-weight="bold">THE pH SCALE: EVERY COLOUR, AND WHAT SITS ON IT</text>
+<rect x="40.0" y="48" width="45.3" height="34" fill="#B91C1C"/>
+<text x="62.66666666666667" y="70" font-family="DejaVu Sans" font-size="10.5" fill="#FFFFFF" text-anchor="middle" font-weight="bold">0</text>
+<rect x="85.3" y="48" width="45.3" height="34" fill="#C2410C"/>
+<text x="108.00000000000001" y="70" font-family="DejaVu Sans" font-size="10.5" fill="#FFFFFF" text-anchor="middle" font-weight="bold">1</text>
+<rect x="130.7" y="48" width="45.3" height="34" fill="#D97706"/>
+<text x="153.33333333333334" y="70" font-family="DejaVu Sans" font-size="10.5" fill="#FFFFFF" text-anchor="middle" font-weight="bold">2</text>
+<rect x="176.0" y="48" width="45.3" height="34" fill="#CA8A04"/>
+<text x="198.66666666666666" y="70" font-family="DejaVu Sans" font-size="10.5" fill="#FFFFFF" text-anchor="middle" font-weight="bold">3</text>
+<rect x="221.3" y="48" width="45.3" height="34" fill="#65A30D"/>
+<text x="244.0" y="70" font-family="DejaVu Sans" font-size="10.5" fill="#FFFFFF" text-anchor="middle" font-weight="bold">4</text>
+<rect x="266.7" y="48" width="45.3" height="34" fill="#16A34A"/>
+<text x="289.33333333333337" y="70" font-family="DejaVu Sans" font-size="10.5" fill="#FFFFFF" text-anchor="middle" font-weight="bold">5</text>
+<rect x="312.0" y="48" width="45.3" height="34" fill="#059669"/>
+<text x="334.6666666666667" y="70" font-family="DejaVu Sans" font-size="10.5" fill="#FFFFFF" text-anchor="middle" font-weight="bold">6</text>
+<rect x="357.3" y="48" width="45.3" height="34" fill="#0D9488"/>
+<text x="380.00000000000006" y="70" font-family="DejaVu Sans" font-size="10.5" fill="#FFFFFF" text-anchor="middle" font-weight="bold">7</text>
+<rect x="402.7" y="48" width="45.3" height="34" fill="#0891B2"/>
+<text x="425.33333333333337" y="70" font-family="DejaVu Sans" font-size="10.5" fill="#FFFFFF" text-anchor="middle" font-weight="bold">8</text>
+<rect x="448.0" y="48" width="45.3" height="34" fill="#0284C7"/>
+<text x="470.6666666666667" y="70" font-family="DejaVu Sans" font-size="10.5" fill="#FFFFFF" text-anchor="middle" font-weight="bold">9</text>
+<rect x="493.3" y="48" width="45.3" height="34" fill="#2563EB"/>
+<text x="516.0" y="70" font-family="DejaVu Sans" font-size="10.5" fill="#FFFFFF" text-anchor="middle" font-weight="bold">10</text>
+<rect x="538.7" y="48" width="45.3" height="34" fill="#4F46E5"/>
+<text x="561.3333333333334" y="70" font-family="DejaVu Sans" font-size="10.5" fill="#FFFFFF" text-anchor="middle" font-weight="bold">11</text>
+<rect x="584.0" y="48" width="45.3" height="34" fill="#6D28D9"/>
+<text x="606.6666666666666" y="70" font-family="DejaVu Sans" font-size="10.5" fill="#FFFFFF" text-anchor="middle" font-weight="bold">12</text>
+<rect x="629.3" y="48" width="45.3" height="34" fill="#7E22CE"/>
+<text x="652.0" y="70" font-family="DejaVu Sans" font-size="10.5" fill="#FFFFFF" text-anchor="middle" font-weight="bold">13</text>
+<rect x="674.7" y="48" width="45.3" height="34" fill="#581C87"/>
+<text x="697.3333333333334" y="70" font-family="DejaVu Sans" font-size="10.5" fill="#FFFFFF" text-anchor="middle" font-weight="bold">14</text>
+<rect x="40" y="48" width="680" height="34" rx="0" fill="none" stroke="#0E1F40" stroke-width="1.2"/>
+<line x1="67.2" y1="82" x2="67.2" y2="92" stroke="#DC2626" stroke-width="1.0"/>
+<circle cx="67.2" cy="95" r="2.6" fill="#DC2626"/>
+<line x1="157.86666666666667" y1="82" x2="157.86666666666667" y2="92" stroke="#D97706" stroke-width="1.0"/>
+<circle cx="157.86666666666667" cy="95" r="2.6" fill="#D97706"/>
+<line x1="239.4666666666667" y1="82" x2="239.4666666666667" y2="92" stroke="#A16207" stroke-width="1.0"/>
+<circle cx="239.4666666666667" cy="95" r="2.6" fill="#A16207"/>
+<line x1="352.8" y1="82" x2="352.8" y2="92" stroke="#008751" stroke-width="1.0"/>
+<circle cx="352.8" cy="95" r="2.6" fill="#008751"/>
+<line x1="429.8666666666667" y1="82" x2="429.8666666666667" y2="92" stroke="#2563EB" stroke-width="1.0"/>
+<circle cx="429.8666666666667" cy="95" r="2.6" fill="#2563EB"/>
+<line x1="520.5333333333333" y1="82" x2="520.5333333333333" y2="92" stroke="#7C3AED" stroke-width="1.0"/>
+<circle cx="520.5333333333333" cy="95" r="2.6" fill="#7C3AED"/>
+<line x1="611.2" y1="82" x2="611.2" y2="92" stroke="#581C87" stroke-width="1.0"/>
+<circle cx="611.2" cy="95" r="2.6" fill="#581C87"/>
+<text x="130.66666666666669" y="122" font-family="DejaVu Sans" font-size="9.2" fill="#DC2626" text-anchor="middle" font-weight="bold">ACIDIC · [H⁺] high</text>
+<text x="380.0" y="122" font-family="DejaVu Sans" font-size="9.2" fill="#0E1F40" text-anchor="middle" font-weight="bold">NEUTRAL · pH 7 at 25 °C</text>
+<text x="629.3333333333334" y="122" font-family="DejaVu Sans" font-size="9.2" fill="#7C3AED" text-anchor="middle" font-weight="bold">BASIC · [OH⁻] high</text>
+<text x="67.2" y="146" font-family="DejaVu Sans" font-size="8.2" fill="#334155" text-anchor="middle" font-weight="normal">stomach acid</text>
+<text x="67.2" y="158" font-family="DejaVu Sans" font-size="8.2" fill="#64748B" text-anchor="middle" font-weight="normal">pH 1.5</text>
+<text x="157.86666666666667" y="146" font-family="DejaVu Sans" font-size="8.2" fill="#334155" text-anchor="middle" font-weight="normal">lemon juice</text>
+<text x="157.86666666666667" y="158" font-family="DejaVu Sans" font-size="8.2" fill="#64748B" text-anchor="middle" font-weight="normal">pH 2.5</text>
+<text x="239.4666666666667" y="146" font-family="DejaVu Sans" font-size="8.2" fill="#334155" text-anchor="middle" font-weight="normal">black coffee</text>
+<text x="239.4666666666667" y="158" font-family="DejaVu Sans" font-size="8.2" fill="#64748B" text-anchor="middle" font-weight="normal">pH 5</text>
+<text x="352.8" y="146" font-family="DejaVu Sans" font-size="8.2" fill="#334155" text-anchor="middle" font-weight="normal">pure water</text>
+<text x="352.8" y="158" font-family="DejaVu Sans" font-size="8.2" fill="#64748B" text-anchor="middle" font-weight="normal">pH 7</text>
+<text x="429.8666666666667" y="146" font-family="DejaVu Sans" font-size="8.2" fill="#334155" text-anchor="middle" font-weight="normal">sea water</text>
+<text x="429.8666666666667" y="158" font-family="DejaVu Sans" font-size="8.2" fill="#64748B" text-anchor="middle" font-weight="normal">pH 8</text>
+<text x="520.5333333333333" y="146" font-family="DejaVu Sans" font-size="8.2" fill="#334155" text-anchor="middle" font-weight="normal">soap</text>
+<text x="520.5333333333333" y="158" font-family="DejaVu Sans" font-size="8.2" fill="#64748B" text-anchor="middle" font-weight="normal">pH 10</text>
+<text x="611.2" y="146" font-family="DejaVu Sans" font-size="8.2" fill="#334155" text-anchor="middle" font-weight="normal">oven cleaner</text>
+<text x="611.2" y="158" font-family="DejaVu Sans" font-size="8.2" fill="#64748B" text-anchor="middle" font-weight="normal">pH 13</text>
+<rect x="40" y="196" width="680" height="56" rx="6" fill="#ECFDF5" stroke="#008751" stroke-width="1.0"/>
+<text x="380" y="216" font-family="DejaVu Sans" font-size="9.4" fill="#008751" text-anchor="middle" font-weight="bold">Each step of 1 on the scale is a factor of 10 in [H⁺]  ·  pH = −log₁₀[H⁺]</text>
+<text x="380" y="234" font-family="DejaVu Sans" font-size="8.2" fill="#334155" text-anchor="middle" font-weight="normal">pH 2 is a hundred times more acidic than pH 4, and pH 12 is ten times more basic than pH 11.</text>
+</svg>

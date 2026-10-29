@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 330" width="760" height="330">
+  <defs>
+    <marker id="ag" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#008751"/>
+    </marker>
+    <marker id="an" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#0E1F40"/>
+    </marker>
+    <marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#D97706"/>
+    </marker>
+    <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#DC2626"/>
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="760" height="330" fill="#FFFFFF"/>
+<text x="380" y="24" font-family="DejaVu Sans" font-size="12.4" fill="#0E1F40" text-anchor="middle" font-weight="bold">LE CHATELIER'S PRINCIPLE: THE SYSTEM PUSHES BACK</text>
+<rect x="260" y="78" width="240" height="168" rx="10" fill="#ECFDF5" stroke="#008751" stroke-width="1.4"/>
+<text x="380.0" y="100" font-family="DejaVu Sans" font-size="13" fill="#0E1F40" text-anchor="middle" font-weight="bold">A + B  ⇌  C + D</text>
+<text x="380.0" y="122" font-family="DejaVu Sans" font-size="8.4" fill="#64748B" text-anchor="middle" font-weight="normal">at equilibrium</text>
+<text x="250" y="92" font-family="DejaVu Sans" font-size="8.4" fill="#DC2626" text-anchor="end" font-weight="bold">raise the temperature</text>
+<line x1="256" y1="96" x2="287.6" y2="96.0" stroke="#DC2626" stroke-width="1.8"/><polygon points="300.0,96.0 287.6,100.6 287.6,91.4" fill="#DC2626"/>
+<text x="250" y="146" font-family="DejaVu Sans" font-size="8.4" fill="#2563EB" text-anchor="end" font-weight="bold">increase the pressure</text>
+<line x1="256" y1="150" x2="287.6" y2="150.0" stroke="#2563EB" stroke-width="1.8"/><polygon points="300.0,150.0 287.6,154.6 287.6,145.4" fill="#2563EB"/>
+<text x="250" y="200" font-family="DejaVu Sans" font-size="8.4" fill="#008751" text-anchor="end" font-weight="bold">add more of a reactant</text>
+<line x1="256" y1="204" x2="287.6" y2="204.0" stroke="#008751" stroke-width="1.8"/><polygon points="300.0,204.0 287.6,208.6 287.6,199.4" fill="#008751"/>
+<text x="250" y="254" font-family="DejaVu Sans" font-size="8.4" fill="#7C3AED" text-anchor="end" font-weight="bold">remove a product</text>
+<line x1="256" y1="258" x2="287.6" y2="258.0" stroke="#7C3AED" stroke-width="1.8"/><polygon points="300.0,258.0 287.6,262.6 287.6,253.4" fill="#7C3AED"/>
+<rect x="520" y="60" width="214" height="210" rx="8" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="1.2"/>
+<text x="530" y="80" font-family="DejaVu Sans" font-size="8.6" fill="#0E1F40" text-anchor="start" font-weight="bold">THE SYSTEM RESPONDS BY</text>
+<text x="530" y="100" font-family="DejaVu Sans" font-size="7.8" fill="#334155" text-anchor="start" font-weight="normal">absorbing heat — shifting in</text>
+<text x="530" y="114" font-family="DejaVu Sans" font-size="7.8" fill="#334155" text-anchor="start" font-weight="normal">the endothermic direction</text>
+<text x="530" y="128" font-family="DejaVu Sans" font-size="7.8" fill="#334155" text-anchor="start" font-weight="normal"></text>
+<text x="530" y="142" font-family="DejaVu Sans" font-size="7.8" fill="#334155" text-anchor="start" font-weight="normal">moving to the side with fewer</text>
+<text x="530" y="156" font-family="DejaVu Sans" font-size="7.8" fill="#334155" text-anchor="start" font-weight="normal">molecules, to lower the pressure</text>
+<text x="530" y="170" font-family="DejaVu Sans" font-size="7.8" fill="#334155" text-anchor="start" font-weight="normal"></text>
+<text x="530" y="184" font-family="DejaVu Sans" font-size="7.8" fill="#334155" text-anchor="start" font-weight="normal">using up the added reactant —</text>
+<text x="530" y="198" font-family="DejaVu Sans" font-size="7.8" fill="#334155" text-anchor="start" font-weight="normal">shifting forward</text>
+<text x="530" y="212" font-family="DejaVu Sans" font-size="7.8" fill="#334155" text-anchor="start" font-weight="normal"></text>
+<text x="530" y="226" font-family="DejaVu Sans" font-size="7.8" fill="#334155" text-anchor="start" font-weight="normal">making more of the removed</text>
+<text x="530" y="240" font-family="DejaVu Sans" font-size="7.8" fill="#334155" text-anchor="start" font-weight="normal">product — shifting forward</text>
+<text x="380" y="300" font-family="DejaVu Sans" font-size="8.2" fill="#64748B" text-anchor="middle" font-weight="normal">A catalyst changes neither the position nor the yield — it only makes equilibrium arrive sooner.</text>
+</svg>

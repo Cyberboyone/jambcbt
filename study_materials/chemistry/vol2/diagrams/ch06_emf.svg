@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 352" width="760" height="352">
+  <defs>
+    <marker id="ag" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#008751"/>
+    </marker>
+    <marker id="an" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#0E1F40"/>
+    </marker>
+    <marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#D97706"/>
+    </marker>
+    <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#DC2626"/>
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="760" height="352" fill="#FFFFFF"/>
+<text x="380" y="24" font-family="DejaVu Sans" font-size="12.0" fill="#0E1F40" text-anchor="middle" font-weight="bold">THE ELECTROCHEMICAL SERIES: WHICH METAL GIVES UP ITS ELECTRONS</text>
+<rect x="120" y="54" width="400" height="22" rx="4" fill="#FFFFFF" stroke="#DC2626" stroke-width="1.0"/>
+<text x="132" y="69" font-family="DejaVu Sans" font-size="8.4" fill="#334155" text-anchor="start" font-weight="normal">K → K⁺ + e⁻</text>
+<text x="508" y="69" font-family="DejaVu Sans" font-size="8.4" fill="#DC2626" text-anchor="end" font-weight="bold">−2.92</text>
+<rect x="120" y="79" width="400" height="22" rx="4" fill="#FFFFFF" stroke="#DC2626" stroke-width="1.0"/>
+<text x="132" y="94" font-family="DejaVu Sans" font-size="8.4" fill="#334155" text-anchor="start" font-weight="normal">Ca → Ca²⁺ + 2e⁻</text>
+<text x="508" y="94" font-family="DejaVu Sans" font-size="8.4" fill="#DC2626" text-anchor="end" font-weight="bold">−2.87</text>
+<rect x="120" y="104" width="400" height="22" rx="4" fill="#FFFFFF" stroke="#DC2626" stroke-width="1.0"/>
+<text x="132" y="119" font-family="DejaVu Sans" font-size="8.4" fill="#334155" text-anchor="start" font-weight="normal">Na → Na⁺ + e⁻</text>
+<text x="508" y="119" font-family="DejaVu Sans" font-size="8.4" fill="#DC2626" text-anchor="end" font-weight="bold">−2.71</text>
+<rect x="120" y="129" width="400" height="22" rx="4" fill="#FFFFFF" stroke="#DC2626" stroke-width="1.0"/>
+<text x="132" y="144" font-family="DejaVu Sans" font-size="8.4" fill="#334155" text-anchor="start" font-weight="normal">Mg → Mg²⁺ + 2e⁻</text>
+<text x="508" y="144" font-family="DejaVu Sans" font-size="8.4" fill="#DC2626" text-anchor="end" font-weight="bold">−2.36</text>
+<rect x="120" y="154" width="400" height="22" rx="4" fill="#FFFFFF" stroke="#D97706" stroke-width="1.0"/>
+<text x="132" y="169" font-family="DejaVu Sans" font-size="8.4" fill="#334155" text-anchor="start" font-weight="normal">Zn → Zn²⁺ + 2e⁻</text>
+<text x="508" y="169" font-family="DejaVu Sans" font-size="8.4" fill="#D97706" text-anchor="end" font-weight="bold">−0.76</text>
+<rect x="120" y="179" width="400" height="22" rx="4" fill="#FFFFFF" stroke="#D97706" stroke-width="1.0"/>
+<text x="132" y="194" font-family="DejaVu Sans" font-size="8.4" fill="#334155" text-anchor="start" font-weight="normal">Fe → Fe²⁺ + 2e⁻</text>
+<text x="508" y="194" font-family="DejaVu Sans" font-size="8.4" fill="#D97706" text-anchor="end" font-weight="bold">−0.44</text>
+<rect x="120" y="204" width="400" height="22" rx="4" fill="#FFFFFF" stroke="#0E1F40" stroke-width="1.0"/>
+<text x="132" y="219" font-family="DejaVu Sans" font-size="8.4" fill="#334155" text-anchor="start" font-weight="normal">H₂ → 2H⁺ + 2e⁻</text>
+<text x="508" y="219" font-family="DejaVu Sans" font-size="8.4" fill="#0E1F40" text-anchor="end" font-weight="bold">0.00</text>
+<rect x="120" y="229" width="400" height="22" rx="4" fill="#FFFFFF" stroke="#008751" stroke-width="1.0"/>
+<text x="132" y="244" font-family="DejaVu Sans" font-size="8.4" fill="#334155" text-anchor="start" font-weight="normal">Cu → Cu²⁺ + 2e⁻</text>
+<text x="508" y="244" font-family="DejaVu Sans" font-size="8.4" fill="#008751" text-anchor="end" font-weight="bold">+0.34</text>
+<rect x="120" y="254" width="400" height="22" rx="4" fill="#FFFFFF" stroke="#008751" stroke-width="1.0"/>
+<text x="132" y="269" font-family="DejaVu Sans" font-size="8.4" fill="#334155" text-anchor="start" font-weight="normal">Ag → Ag⁺ + e⁻</text>
+<text x="508" y="269" font-family="DejaVu Sans" font-size="8.4" fill="#008751" text-anchor="end" font-weight="bold">+0.80</text>
+<rect x="120" y="279" width="400" height="22" rx="4" fill="#FFFFFF" stroke="#008751" stroke-width="1.0"/>
+<text x="132" y="294" font-family="DejaVu Sans" font-size="8.4" fill="#334155" text-anchor="start" font-weight="normal">Au → Au³⁺ + 3e⁻</text>
+<text x="508" y="294" font-family="DejaVu Sans" font-size="8.4" fill="#008751" text-anchor="end" font-weight="bold">+1.50</text>
+<text x="320" y="46" font-family="DejaVu Sans" font-size="8.0" fill="#64748B" text-anchor="middle" font-weight="normal">half-reaction</text>
+<text x="508" y="46" font-family="DejaVu Sans" font-size="8.0" fill="#64748B" text-anchor="end" font-weight="normal">E° / V</text>
+<rect x="550" y="70" width="190" height="96" rx="6" fill="#FEE2E2" stroke="#DC2626" stroke-width="1.0"/>
+<text x="560" y="88" font-family="DejaVu Sans" font-size="8.4" fill="#DC2626" text-anchor="start" font-weight="bold">MORE REACTIVE</text>
+<text x="560" y="104" font-family="DejaVu Sans" font-size="7.4" fill="#334155" text-anchor="start" font-weight="normal">loses electrons easily</text>
+<text x="560" y="118" font-family="DejaVu Sans" font-size="7.4" fill="#334155" text-anchor="start" font-weight="normal">is the reducing agent</text>
+<text x="560" y="132" font-family="DejaVu Sans" font-size="7.4" fill="#334155" text-anchor="start" font-weight="normal">is oxidised — the anode</text>
+<rect x="550" y="190" width="190" height="96" rx="6" fill="#ECFDF5" stroke="#008751" stroke-width="1.0"/>
+<text x="560" y="208" font-family="DejaVu Sans" font-size="8.4" fill="#008751" text-anchor="start" font-weight="bold">LESS REACTIVE</text>
+<text x="560" y="224" font-family="DejaVu Sans" font-size="7.4" fill="#334155" text-anchor="start" font-weight="normal">gains electrons easily</text>
+<text x="560" y="238" font-family="DejaVu Sans" font-size="7.4" fill="#334155" text-anchor="start" font-weight="normal">is the oxidising agent</text>
+<text x="560" y="252" font-family="DejaVu Sans" font-size="7.4" fill="#334155" text-anchor="start" font-weight="normal">is reduced — the cathode</text>
+<text x="380" y="334" font-family="DejaVu Sans" font-size="8.4" fill="#0E1F40" text-anchor="middle" font-weight="bold">E°cell = E°(cathode) − E°(anode).  Zn/Cu: 0.34 − (−0.76) = 1.10 V.</text>
+</svg>

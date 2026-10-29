@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 344" width="760" height="344">
+  <defs>
+    <marker id="ag" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#008751"/>
+    </marker>
+    <marker id="an" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#0E1F40"/>
+    </marker>
+    <marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#D97706"/>
+    </marker>
+    <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#DC2626"/>
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="760" height="344" fill="#FFFFFF"/>
+<text x="380" y="24" font-family="DejaVu Sans" font-size="12.4" fill="#0E1F40" text-anchor="middle" font-weight="bold">THE ZINC–COPPER CELL: ELECTRONS OUTSIDE, IONS INSIDE</text>
+<polygon points="48,120 224,120 212,276 60,276" fill="#FFFFFF" stroke="#0E1F40" stroke-width="1.6"/>
+<polygon points="54,158 218,158 212,276 60,276" fill="#DCFCE7" stroke="none" stroke-width="0"/>
+<rect x="124" y="76" width="24" height="150" rx="3" fill="#D1D5DB" stroke="#6B7280" stroke-width="1.2"/>
+<text x="136" y="62" font-family="DejaVu Sans" font-size="10" fill="#0E1F40" text-anchor="middle" font-weight="bold">Zn</text>
+<text x="136" y="292" font-family="DejaVu Sans" font-size="8.2" fill="#334155" text-anchor="middle" font-weight="normal">zinc electrode (−)</text>
+<text x="136" y="308" font-family="DejaVu Sans" font-size="8.0" fill="#64748B" text-anchor="middle" font-weight="normal">Zn²⁺(aq)</text>
+<polygon points="300,120 476,120 464,276 312,276" fill="#FFFFFF" stroke="#0E1F40" stroke-width="1.6"/>
+<polygon points="306,158 470,158 464,276 312,276" fill="#DBEAFE" stroke="none" stroke-width="0"/>
+<rect x="376" y="76" width="24" height="150" rx="3" fill="#FCA5A5" stroke="#6B7280" stroke-width="1.2"/>
+<text x="388" y="62" font-family="DejaVu Sans" font-size="10" fill="#0E1F40" text-anchor="middle" font-weight="bold">Cu</text>
+<text x="388" y="292" font-family="DejaVu Sans" font-size="8.2" fill="#334155" text-anchor="middle" font-weight="normal">copper electrode (+)</text>
+<text x="388" y="308" font-family="DejaVu Sans" font-size="8.0" fill="#64748B" text-anchor="middle" font-weight="normal">Cu²⁺(aq)</text>
+<path d="M 220 232 Q 274 196 336 232" fill="none" stroke="#7C3AED" stroke-width="7" stroke-linecap="round"/>
+<path d="M 220 232 Q 274 196 336 232" fill="none" stroke="#FFFFFF" stroke-width="2.2" stroke-linecap="round" stroke-dasharray="6 5"/>
+<text x="274" y="208" font-family="DejaVu Sans" font-size="8.0" fill="#7C3AED" text-anchor="middle" font-weight="bold">salt bridge</text>
+<path d="M 136 84 L 136 44 L 236 44" fill="none" stroke="#0E1F40" stroke-width="2.0" stroke-linecap="round"/>
+<path d="M 388 84 L 388 44 L 320 44" fill="none" stroke="#0E1F40" stroke-width="2.0" stroke-linecap="round"/>
+<rect x="244" y="30" width="64" height="28" rx="5" fill="#FFFFFF" stroke="#0E1F40" stroke-width="1.4"/>
+<text x="276" y="49" font-family="DejaVu Sans" font-size="12" fill="#0E1F40" text-anchor="middle" font-weight="bold">V</text>
+<line x1="150" y1="100" x2="197.6" y2="100.0" stroke="#008751" stroke-width="1.8"/><polygon points="210.0,100.0 197.6,104.6 197.6,95.4" fill="#008751"/>
+<text x="180" y="92" font-family="DejaVu Sans" font-size="8.4" fill="#008751" text-anchor="middle" font-weight="bold">e⁻</text>
+<text x="300" y="332" font-family="DejaVu Sans" font-size="7.8" fill="#64748B" text-anchor="middle" font-weight="normal">Electrons travel from zinc to copper through the wire; the salt bridge completes the circuit inside.</text>
+<rect x="508" y="104" width="240" height="236" rx="7" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="1.1"/>
+<text x="520" y="124" font-family="DejaVu Sans" font-size="8.4" fill="#0E1F40" text-anchor="start" font-weight="bold">AT EACH ELECTRODE</text>
+<text x="520" y="146" font-family="DejaVu Sans" font-size="8.0" fill="#DC2626" text-anchor="start" font-weight="bold">ANODE  (Zn)</text>
+<text x="520" y="162" font-family="DejaVu Sans" font-size="8.4" fill="#334155" text-anchor="start" font-weight="normal">Zn → Zn²⁺ + 2e⁻</text>
+<text x="520" y="176" font-family="DejaVu Sans" font-size="7.6" fill="#64748B" text-anchor="start" font-weight="normal">oxidation</text>
+<text x="520" y="198" font-family="DejaVu Sans" font-size="8.0" fill="#2563EB" text-anchor="start" font-weight="bold">CATHODE  (Cu)</text>
+<text x="520" y="214" font-family="DejaVu Sans" font-size="8.4" fill="#334155" text-anchor="start" font-weight="normal">Cu²⁺ + 2e⁻ → Cu</text>
+<text x="520" y="228" font-family="DejaVu Sans" font-size="7.6" fill="#64748B" text-anchor="start" font-weight="normal">reduction</text>
+<line x1="520" y1="244" x2="736" y2="244" stroke="#CBD5E1" stroke-width="0.8"/>
+<text x="520" y="262" font-family="DejaVu Sans" font-size="7.8" fill="#334155" text-anchor="start" font-weight="normal">E°cell = E°(cathode) − E°(anode)</text>
+<text x="520" y="278" font-family="DejaVu Sans" font-size="8.4" fill="#0E1F40" text-anchor="start" font-weight="bold">= 0.34 − (−0.76) = 1.10 V</text>
+<text x="520" y="300" font-family="DejaVu Sans" font-size="7.6" fill="#334155" text-anchor="start" font-weight="normal">The cell works because zinc is the</text>
+<text x="520" y="313" font-family="DejaVu Sans" font-size="7.6" fill="#334155" text-anchor="start" font-weight="normal">more reactive of the two metals.</text>
+</svg>

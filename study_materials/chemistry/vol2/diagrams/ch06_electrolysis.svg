@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 340" width="760" height="340">
+  <defs>
+    <marker id="ag" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#008751"/>
+    </marker>
+    <marker id="an" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#0E1F40"/>
+    </marker>
+    <marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#D97706"/>
+    </marker>
+    <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#DC2626"/>
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="760" height="340" fill="#FFFFFF"/>
+<text x="380" y="24" font-family="DejaVu Sans" font-size="12.2" fill="#0E1F40" text-anchor="middle" font-weight="bold">ELECTROLYSIS OF CONCENTRATED BRINE: THREE PRODUCTS, ONE TANK</text>
+<polygon points="200,118 560,118 560,296 200,296" fill="#FFFFFF" stroke="#0E1F40" stroke-width="1.8"/>
+<rect x="203" y="168" width="354" height="125" rx="0" fill="#FEF3C7" stroke="none" stroke-width="0"/>
+<text x="380" y="258" font-family="DejaVu Sans" font-size="9.2" fill="#92400E" text-anchor="middle" font-weight="bold">concentrated NaCl(aq)</text>
+<rect x="272" y="64" width="20" height="210" rx="2" fill="#4B5563" stroke="#1F2937" stroke-width="1.2"/>
+<text x="282" y="58" font-family="DejaVu Sans" font-size="8.4" fill="#DC2626" text-anchor="middle" font-weight="bold">anode (+)</text>
+<rect x="468" y="64" width="20" height="210" rx="2" fill="#4B5563" stroke="#1F2937" stroke-width="1.2"/>
+<text x="478" y="58" font-family="DejaVu Sans" font-size="8.4" fill="#2563EB" text-anchor="middle" font-weight="bold">cathode (−)</text>
+<path d="M 282 64 L 282 66 L 330 66" fill="none" stroke="#0E1F40" stroke-width="1.8" stroke-linecap="round"/>
+<path d="M 478 64 L 478 66 L 430 66" fill="none" stroke="#0E1F40" stroke-width="1.8" stroke-linecap="round"/>
+<rect x="336" y="54" width="88" height="26" rx="4" fill="#FFFFFF" stroke="#0E1F40" stroke-width="1.2"/>
+<text x="380" y="71" font-family="DejaVu Sans" font-size="7.6" fill="#0E1F40" text-anchor="middle" font-weight="bold">d.c. supply</text>
+<rect x="16" y="108" width="168" height="96" rx="7" fill="#FFFFFF" stroke="#008751" stroke-width="1.2"/>
+<text x="26" y="126" font-family="DejaVu Sans" font-size="8.2" fill="#008751" text-anchor="start" font-weight="bold">AT THE ANODE</text>
+<text x="26" y="144" font-family="DejaVu Sans" font-size="8.4" fill="#334155" text-anchor="start" font-weight="normal">2Cl⁻ → Cl₂ + 2e⁻</text>
+<text x="26" y="160" font-family="DejaVu Sans" font-size="7.6" fill="#64748B" text-anchor="start" font-weight="normal">oxidation</text>
+<text x="26" y="178" font-family="DejaVu Sans" font-size="7.6" fill="#334155" text-anchor="start" font-weight="normal">pale green, pungent gas</text>
+<text x="26" y="194" font-family="DejaVu Sans" font-size="7.6" fill="#334155" text-anchor="start" font-weight="normal">bleaches damp litmus</text>
+<line x1="188" y1="150" x2="255.6" y2="150.0" stroke="#008751" stroke-width="1.5"/><polygon points="268.0,150.0 255.6,154.6 255.6,145.4" fill="#008751"/>
+<rect x="576" y="108" width="168" height="96" rx="7" fill="#FFFFFF" stroke="#2563EB" stroke-width="1.2"/>
+<text x="586" y="126" font-family="DejaVu Sans" font-size="8.2" fill="#2563EB" text-anchor="start" font-weight="bold">AT THE CATHODE</text>
+<text x="586" y="144" font-family="DejaVu Sans" font-size="8.4" fill="#334155" text-anchor="start" font-weight="normal">2H₂O + 2e⁻ → H₂ + 2OH⁻</text>
+<text x="586" y="160" font-family="DejaVu Sans" font-size="7.6" fill="#64748B" text-anchor="start" font-weight="normal">reduction</text>
+<text x="586" y="178" font-family="DejaVu Sans" font-size="7.6" fill="#334155" text-anchor="start" font-weight="normal">colourless gas, pops</text>
+<text x="586" y="194" font-family="DejaVu Sans" font-size="7.6" fill="#334155" text-anchor="start" font-weight="normal">with a lighted splint</text>
+<line x1="572" y1="150" x2="504.4" y2="150.0" stroke="#2563EB" stroke-width="1.5"/><polygon points="492.0,150.0 504.4,145.4 504.4,154.6" fill="#2563EB"/>
+<text x="380" y="318" font-family="DejaVu Sans" font-size="8.0" fill="#64748B" text-anchor="middle" font-weight="normal">The hydroxide ions left behind build up around the cathode: the third product is sodium hydroxide solution.</text>
+</svg>

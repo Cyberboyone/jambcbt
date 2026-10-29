@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 300" width="760" height="300">
+  <defs>
+    <marker id="ag" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#008751"/>
+    </marker>
+    <marker id="an" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#0E1F40"/>
+    </marker>
+    <marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#D97706"/>
+    </marker>
+    <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#DC2626"/>
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="760" height="300" fill="#FFFFFF"/>
+<text x="380" y="24" font-family="DejaVu Sans" font-size="12.2" fill="#0E1F40" text-anchor="middle" font-weight="bold">DILUTION KEEPS THE MOLES AND CHANGES THE CONCENTRATION</text>
+<path d="M 104 66 L 112 154 Q 150 164 188 154 L 196 66 Z" fill="#FFFFFF" stroke="#0E1F40" stroke-width="1.5" stroke-linecap="round"/>
+<path d="M 107 110 L 112 154 Q 150 164 188 154 L 193 110 Z" fill="#DCFCE7" stroke="none" stroke-width="0" stroke-linecap="round"/>
+<circle cx="176.0" cy="141.0" r="3.0" fill="#008751"/>
+<circle cx="130.84533502181245" cy="128.915823620065" r="3.0" fill="#008751"/>
+<circle cx="152.2231684943542" cy="155.3183915268793" r="3.0" fill="#008751"/>
+<text x="150" y="54" font-family="DejaVu Sans" font-size="9.2" fill="#0E1F40" text-anchor="middle" font-weight="bold">0.10 M, 100 cm³</text>
+<text x="150" y="182" font-family="DejaVu Sans" font-size="8.4" fill="#334155" text-anchor="middle" font-weight="normal">0.10 mol dm⁻³</text>
+<text x="150" y="196" font-family="DejaVu Sans" font-size="8.4" fill="#334155" text-anchor="middle" font-weight="normal">100 cm³ = 0.010 mol</text>
+<line x1="230" y1="120" x2="317.6" y2="120.0" stroke="#0E1F40" stroke-width="1.9"/><polygon points="330.0,120.0 317.6,124.6 317.6,115.4" fill="#0E1F40"/>
+<text x="280" y="110" font-family="DejaVu Sans" font-size="8.0" fill="#334155" text-anchor="middle" font-weight="normal">add water</text>
+<text x="280" y="136" font-family="DejaVu Sans" font-size="8.0" fill="#334155" text-anchor="middle" font-weight="normal">to 1 dm³</text>
+<path d="M 374 66 L 382 154 Q 420 164 458 154 L 466 66 Z" fill="#FFFFFF" stroke="#0E1F40" stroke-width="1.5" stroke-linecap="round"/>
+<path d="M 377 110 L 382 154 Q 420 164 458 154 L 463 110 Z" fill="#DCFCE7" stroke="none" stroke-width="0" stroke-linecap="round"/>
+<circle cx="446.0" cy="141.0" r="3.0" fill="#008751"/>
+<circle cx="400.84533502181245" cy="128.915823620065" r="3.0" fill="#008751"/>
+<circle cx="422.22316849435424" cy="155.3183915268793" r="3.0" fill="#008751"/>
+<text x="420" y="54" font-family="DejaVu Sans" font-size="9.2" fill="#0E1F40" text-anchor="middle" font-weight="bold">0.010 M, 1 dm³</text>
+<text x="420" y="182" font-family="DejaVu Sans" font-size="8.4" fill="#334155" text-anchor="middle" font-weight="normal">0.010 mol dm⁻³</text>
+<text x="420" y="196" font-family="DejaVu Sans" font-size="8.4" fill="#334155" text-anchor="middle" font-weight="normal">1000 cm³ = 0.010 mol</text>
+<rect x="510" y="56" width="220" height="158" rx="7" fill="#ECFDF5" stroke="#008751" stroke-width="1.2"/>
+<text x="520" y="76" font-family="DejaVu Sans" font-size="8.8" fill="#008751" text-anchor="start" font-weight="bold">THE ONLY DILUTION FORMULA</text>
+<text x="520" y="100" font-family="DejaVu Sans" font-size="14" fill="#0E1F40" text-anchor="start" font-weight="bold">c₁V₁ = c₂V₂</text>
+<text x="520" y="124" font-family="DejaVu Sans" font-size="7.8" fill="#334155" text-anchor="start" font-weight="normal">Dilute 25.0 cm³ of 2.00 M to 250 cm³:</text>
+<text x="520" y="138" font-family="DejaVu Sans" font-size="7.8" fill="#334155" text-anchor="start" font-weight="normal">c₂ = 2.00 × 25.0 ÷ 250 = 0.200 M.</text>
+<text x="520" y="152" font-family="DejaVu Sans" font-size="7.8" fill="#334155" text-anchor="start" font-weight="normal"></text>
+<text x="520" y="166" font-family="DejaVu Sans" font-size="7.8" fill="#334155" text-anchor="start" font-weight="normal">The moles never change: n = c₁V₁ = c₂V₂.</text>
+</svg>

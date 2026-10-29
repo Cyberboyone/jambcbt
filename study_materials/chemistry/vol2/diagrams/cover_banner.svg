@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 150" width="760" height="150">
+  <defs>
+    <marker id="ag" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#008751"/>
+    </marker>
+    <marker id="an" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#0E1F40"/>
+    </marker>
+    <marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#D97706"/>
+    </marker>
+    <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#DC2626"/>
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="760" height="150" fill="#0E1F40"/>
+<rect x="0" y="0" width="760" height="150" rx="10" fill="#ECFDF5" stroke="#008751" stroke-width="1.4"/>
+<rect x="0" y="0" width="760" height="6" rx="3" fill="#008751"/>
+<text x="380" y="46" font-family="DejaVu Sans" font-size="14.4" fill="#0E1F40" text-anchor="middle" font-weight="bold">ACIDS  •  ENERGY  •  RATES  •  EQUILIBRIUM  •  ELECTRONS</text>
+<text x="380" y="72" font-family="DejaVu Sans" font-size="11" fill="#334155" text-anchor="middle" font-weight="normal">pH and Titration, Solubility, Energetics, Kinetics,</text>
+<text x="380" y="90" font-family="DejaVu Sans" font-size="11" fill="#334155" text-anchor="middle" font-weight="normal">Le Chatelier's Principle, Redox and Electrolysis</text>
+<text x="380" y="120" font-family="DejaVu Sans" font-size="9.4" fill="#64748B" text-anchor="middle" font-weight="normal">240 drill questions · two 40-question CBT mocks · 120-question master bank · 40 rapid-fire pairs</text>
+</svg>

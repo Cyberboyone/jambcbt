@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 336" width="760" height="336">
+  <defs>
+    <marker id="ag" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#008751"/>
+    </marker>
+    <marker id="an" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#0E1F40"/>
+    </marker>
+    <marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#D97706"/>
+    </marker>
+    <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#DC2626"/>
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="760" height="336" fill="#FFFFFF"/>
+<text x="380" y="26" font-family="DejaVu Sans" font-size="12.2" fill="#0E1F40" text-anchor="middle" font-weight="bold">THE COFFEE-CUP CALORIMETER: WHERE EVERY JOULE IS COUNTED</text>
+<polygon points="56,104 232,104 220,272 68,272" fill="#FFFFFF" stroke="#0E1F40" stroke-width="1.6"/>
+<polygon points="60,168 228,168 220,272 68,272" fill="#DBEAFE" stroke="none" stroke-width="0"/>
+<rect x="140.0" y="38" width="8" height="158" rx="3" fill="#F8FAFC" stroke="#0E1F40" stroke-width="1.2"/>
+<rect x="142.0" y="60" width="4" height="136" rx="0" fill="#DC2626" stroke="none" stroke-width="0"/>
+<circle cx="144.0" cy="200" r="7" fill="#DC2626"/>
+<rect x="42" y="82" width="204" height="22" rx="4" fill="#F1F5F9" stroke="#0E1F40" stroke-width="1.4"/>
+<circle cx="190" cy="250" r="6" fill="#A16207"/>
+<line x1="294" y1="52" x2="144.0" y2="38" stroke="#64748B" stroke-width="0.9" stroke-dasharray="2 2"/>
+<circle cx="144.0" cy="38" r="2.4" fill="#64748B"/>
+<text x="300" y="56" font-family="DejaVu Sans" font-size="8.0" fill="#334155" text-anchor="start" font-weight="normal">thermometer, read to 0.1 °C</text>
+<line x1="294" y1="88" x2="184.0" y2="78" stroke="#64748B" stroke-width="0.9" stroke-dasharray="2 2"/>
+<circle cx="184.0" cy="78" r="2.4" fill="#64748B"/>
+<text x="300" y="92" font-family="DejaVu Sans" font-size="8.0" fill="#334155" text-anchor="start" font-weight="normal">lid: keeps the heat in</text>
+<line x1="294" y1="124" x2="228" y2="200" stroke="#64748B" stroke-width="0.9" stroke-dasharray="2 2"/>
+<circle cx="228" cy="200" r="2.4" fill="#64748B"/>
+<text x="300" y="128" font-family="DejaVu Sans" font-size="8.0" fill="#334155" text-anchor="start" font-weight="normal">polystyrene cup, a poor conductor</text>
+<line x1="294" y1="160" x2="96" y2="224" stroke="#64748B" stroke-width="0.9" stroke-dasharray="2 2"/>
+<circle cx="96" cy="224" r="2.4" fill="#64748B"/>
+<text x="300" y="164" font-family="DejaVu Sans" font-size="8.0" fill="#334155" text-anchor="start" font-weight="normal">known volume of water, so the mass is known</text>
+<line x1="294" y1="196" x2="190" y2="254" stroke="#64748B" stroke-width="0.9" stroke-dasharray="2 2"/>
+<circle cx="190" cy="254" r="2.4" fill="#64748B"/>
+<text x="300" y="200" font-family="DejaVu Sans" font-size="8.0" fill="#334155" text-anchor="start" font-weight="normal">known mass of solid, added and stirred</text>
+<rect x="276" y="224" width="462" height="92" rx="7" fill="#ECFDF5" stroke="#008751" stroke-width="1.2"/>
+<text x="288" y="244" font-family="DejaVu Sans" font-size="8.6" fill="#008751" text-anchor="start" font-weight="bold">THE THREE LINES OF WORKING</text>
+<text x="288" y="264" font-family="DejaVu Sans" font-size="7.8" fill="#334155" text-anchor="start" font-weight="normal">1.  q = m c ΔT   — heat gained by the water     (c = 4.18 J g⁻¹ K⁻¹, 1 cm³ ≈ 1 g)</text>
+<text x="288" y="280" font-family="DejaVu Sans" font-size="7.8" fill="#334155" text-anchor="start" font-weight="normal">2.  n = m ÷ M_r  — moles of solid dissolved</text>
+<text x="288" y="296" font-family="DejaVu Sans" font-size="7.8" fill="#334155" text-anchor="start" font-weight="normal">3.  ΔH = −q ÷ n  — joules per mole; minus, because the water gained what the reaction lost</text>
+</svg>
