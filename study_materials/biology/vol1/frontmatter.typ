@@ -1,5 +1,8 @@
 #import "template.typ": *
 
+// Set before the cover, so the first inside page carries the right running head.
+#current-chapter.update("Series Overview & UTME Strategy Guide")
+
 // ============================================================================
 // COVER PAGE (Full-Bleed Single A4 Page)
 // ============================================================================
@@ -174,9 +177,9 @@
 // ============================================================================
 // PAGE: WHY BIOLOGY MARKS ARE WON HERE
 // ============================================================================
-#pagebreak()
-
 #current-chapter.update("How Biology Marks Are Won")
+
+#pagebreak()
 
 #block(
   width: 100%,
@@ -250,9 +253,9 @@
 // ============================================================================
 // PAGE: SYLLABUS MAPPING
 // ============================================================================
-#pagebreak()
-
 #current-chapter.update("Official JAMB Syllabus Mapping")
+
+#pagebreak()
 
 == Official JAMB UTME Syllabus Mapping (Volume 1 Chapters)
 
@@ -303,9 +306,9 @@
 // ============================================================================
 // PAGE: TABLE OF CONTENTS
 // ============================================================================
-#pagebreak()
-
 #current-chapter.update("Table of Contents")
+
+#pagebreak()
 
 #block(
   width: 100%,
@@ -337,9 +340,9 @@
 // ============================================================================
 // PAGE: HOW TO USE THIS BOOK
 // ============================================================================
-#pagebreak()
-
 #current-chapter.update("How to Use This Book")
+
+#pagebreak()
 
 == How to Use This Book
 
@@ -380,9 +383,9 @@
 // ============================================================================
 // PAGE: DIAGNOSTIC PRE-TEST
 // ============================================================================
-#pagebreak()
-
 #current-chapter.update("Diagnostic Pre-Test")
+
+#pagebreak()
 
 == Diagnostic Pre-Test (Twelve Minutes)
 
