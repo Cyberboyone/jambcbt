@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 372" width="720" height="372">
+  <defs>
+    <marker id="ag" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#008751"/>
+    </marker>
+    <marker id="an" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#0E1F40"/>
+    </marker>
+    <marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#D97706"/>
+    </marker>
+    <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#DC2626"/>
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="720" height="372" fill="#FFFFFF"/>
+<text x="360" y="26" font-family="DejaVu Sans" font-size="12.8" fill="#0E1F40" text-anchor="middle" font-weight="bold">THE CHAIN OF INFECTION — BREAK ANY LINK AND THE DISEASE STOPS</text>
+<rect x="14" y="50" width="176" height="116" rx="8" fill="#FFFFFF" stroke="#008751" stroke-width="1.7"/>
+<rect x="14" y="50" width="176" height="26" rx="8" fill="#008751" stroke="#008751" stroke-width="1.7"/>
+<rect x="14" y="64" width="176" height="12" rx="0" fill="#008751" stroke="#008751" stroke-width="0"/>
+<text x="102" y="68" font-family="DejaVu Sans" font-size="10.6" fill="#FFFFFF" text-anchor="middle" font-weight="bold">SOURCE</text>
+<text x="102" y="104" font-family="DejaVu Sans" font-size="10.0" fill="#334155" text-anchor="middle" font-weight="normal">the person, animal</text>
+<text x="102" y="121" font-family="DejaVu Sans" font-size="10.0" fill="#334155" text-anchor="middle" font-weight="normal">or soil where</text>
+<text x="102" y="138" font-family="DejaVu Sans" font-size="10.0" fill="#334155" text-anchor="middle" font-weight="normal">the pathogen lives</text>
+<rect x="186" y="50" width="176" height="116" rx="8" fill="#FFFFFF" stroke="#2563EB" stroke-width="1.7"/>
+<rect x="186" y="50" width="176" height="26" rx="8" fill="#2563EB" stroke="#2563EB" stroke-width="1.7"/>
+<rect x="186" y="64" width="176" height="12" rx="0" fill="#2563EB" stroke="#2563EB" stroke-width="0"/>
+<text x="274" y="68" font-family="DejaVu Sans" font-size="10.6" fill="#FFFFFF" text-anchor="middle" font-weight="bold">EXIT</text>
+<text x="274" y="104" font-family="DejaVu Sans" font-size="10.0" fill="#334155" text-anchor="middle" font-weight="normal">faeces, urine,</text>
+<text x="274" y="121" font-family="DejaVu Sans" font-size="10.0" fill="#334155" text-anchor="middle" font-weight="normal">sputum, blood,</text>
+<text x="274" y="138" font-family="DejaVu Sans" font-size="10.0" fill="#334155" text-anchor="middle" font-weight="normal">saliva</text>
+<rect x="358" y="50" width="176" height="116" rx="8" fill="#FFFFFF" stroke="#D97706" stroke-width="1.7"/>
+<rect x="358" y="50" width="176" height="26" rx="8" fill="#D97706" stroke="#D97706" stroke-width="1.7"/>
+<rect x="358" y="64" width="176" height="12" rx="0" fill="#D97706" stroke="#D97706" stroke-width="0"/>
+<text x="446" y="68" font-family="DejaVu Sans" font-size="10.6" fill="#FFFFFF" text-anchor="middle" font-weight="bold">TRANSMISSION</text>
+<text x="446" y="104" font-family="DejaVu Sans" font-size="10.0" fill="#334155" text-anchor="middle" font-weight="normal">water, food, air,</text>
+<text x="446" y="121" font-family="DejaVu Sans" font-size="10.0" fill="#334155" text-anchor="middle" font-weight="normal">a vector, direct</text>
+<text x="446" y="138" font-family="DejaVu Sans" font-size="10.0" fill="#334155" text-anchor="middle" font-weight="normal">contact</text>
+<rect x="530" y="50" width="176" height="116" rx="8" fill="#FFFFFF" stroke="#DC2626" stroke-width="1.7"/>
+<rect x="530" y="50" width="176" height="26" rx="8" fill="#DC2626" stroke="#DC2626" stroke-width="1.7"/>
+<rect x="530" y="64" width="176" height="12" rx="0" fill="#DC2626" stroke="#DC2626" stroke-width="0"/>
+<text x="618" y="68" font-family="DejaVu Sans" font-size="10.6" fill="#FFFFFF" text-anchor="middle" font-weight="bold">ENTRY + HOST</text>
+<text x="618" y="104" font-family="DejaVu Sans" font-size="10.0" fill="#334155" text-anchor="middle" font-weight="normal">mouth, nose, a cut</text>
+<text x="618" y="121" font-family="DejaVu Sans" font-size="10.0" fill="#334155" text-anchor="middle" font-weight="normal">or a bite — the host</text>
+<text x="618" y="138" font-family="DejaVu Sans" font-size="10.0" fill="#334155" text-anchor="middle" font-weight="normal">must be susceptible</text>
+<line x1="166" y1="108" x2="171.6" y2="108.0" stroke="#64748B" stroke-width="2.2"/><polygon points="184.0,108.0 171.6,112.6 171.6,103.4" fill="#64748B"/>
+<line x1="338" y1="108" x2="343.6" y2="108.0" stroke="#64748B" stroke-width="2.2"/><polygon points="356.0,108.0 343.6,112.6 343.6,103.4" fill="#64748B"/>
+<line x1="510" y1="108" x2="515.6" y2="108.0" stroke="#64748B" stroke-width="2.2"/><polygon points="528.0,108.0 515.6,112.6 515.6,103.4" fill="#64748B"/>
+<rect x="14" y="182" width="692" height="28" rx="6" fill="#ECFDF5" stroke="#008751" stroke-width="1.0"/>
+<text x="360" y="200" font-family="DejaVu Sans" font-size="9.6" fill="#334155" text-anchor="middle" font-weight="normal">Break the chain: bury or treat waste · boil or chlorinate water · cover food · kill vectors · vaccinate</text>
+<rect x="14" y="228" width="692" height="40" rx="6" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="1.0"/>
+<text x="28" y="253" font-family="DejaVu Sans" font-size="10.0" fill="#008751" text-anchor="start" font-weight="bold">CHOLERA</text>
+<text x="140" y="253" font-family="DejaVu Sans" font-size="9.6" fill="#334155" text-anchor="start" font-weight="normal">water and food contaminated by faeces</text>
+<text x="430" y="253" font-family="DejaVu Sans" font-size="9.6" fill="#DC2626" text-anchor="start" font-weight="bold">→  boil water, build latrines, wash hands</text>
+<rect x="14" y="274" width="692" height="40" rx="6" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="1.0"/>
+<text x="28" y="299" font-family="DejaVu Sans" font-size="10.0" fill="#008751" text-anchor="start" font-weight="bold">MALARIA</text>
+<text x="140" y="299" font-family="DejaVu Sans" font-size="9.6" fill="#334155" text-anchor="start" font-weight="normal">bitten by an infected female Anopheles</text>
+<text x="430" y="299" font-family="DejaVu Sans" font-size="9.6" fill="#DC2626" text-anchor="start" font-weight="bold">→  nets, drain pools, kill the mosquito</text>
+<rect x="14" y="320" width="692" height="40" rx="6" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="1.0"/>
+<text x="28" y="345" font-family="DejaVu Sans" font-size="10.0" fill="#008751" text-anchor="start" font-weight="bold">TUBERCULOSIS</text>
+<text x="140" y="345" font-family="DejaVu Sans" font-size="9.6" fill="#334155" text-anchor="start" font-weight="normal">droplets coughed into the air</text>
+<text x="430" y="345" font-family="DejaVu Sans" font-size="9.6" fill="#DC2626" text-anchor="start" font-weight="bold">→  cover the mouth, ventilate, vaccinate</text>
+</svg>

@@ -336,15 +336,21 @@ The skin is the largest sense organ. It contains several kinds of receptor, each
 // ============================================================================
 // SECTION 2.9 — TWO-MINUTE SET
 // ============================================================================
+#pagebreak()
 == 2.9 Chapter 2 in the Exam Hall — a Two-Minute Set
 
 Four questions of the kind the CBT engine starts a paper with. Ninety seconds each; the answers and full working follow the drill.
 
-#block(breakable: false)[
 #mcq(1, [The part of the brain that controls breathing and heart rate is the], [cerebrum], [medulla oblongata], [cerebellum], [hypothalamus])
 #mcq(2, [Focusing on a near object involves], [the ciliary muscles contracting and the lens becoming more convex], [the ciliary muscles relaxing and the lens becoming flatter], [the pupil dilating], [the retina moving forward])
 #mcq(3, [A person who cannot see distant objects clearly is suffering from], [hypermetropia], [presbyopia], [astigmatism], [myopia])
 #mcq(4, [The receptors for hearing are found in the], [cochlea], [semicircular canals], [eardrum], [Eustachian tube])
 
 #answer-key-grid(("B", "A", "D", "A"))
-]
+
+#answer-notes((
+  ("B", [the retina holds the rods and cones; the lens only focuses the light.]),
+  ("A", [cones work in bright light and give colour vision; rods work in dim light and give black-and-white vision.]),
+  ("D", [the Eustachian tube connects the middle ear to the throat and equalises pressure on both sides of the eardrum.]),
+  ("A", [the iris is a muscular diaphragm whose circular and radial muscles change the size of the pupil.]),
+))

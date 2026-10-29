@@ -195,6 +195,39 @@ def wrap_text(s: str, size: float, max_w: float) -> list[str]:
     return out
 
 
+def dot(cx, cy, r, fill=GREEN, stroke="none", sw=1.0):
+    st = f' stroke="{stroke}" stroke-width="{sw}"' if stroke != "none" else ""
+    return f'<circle cx="{cx}" cy="{cy}" r="{r}" fill="{fill}"{st}/>'
+
+
+def poly(points, fill, stroke, sw=1.8):
+    pts = " ".join(f"{x},{y}" for x, y in points)
+    return f'<polygon points="{pts}" fill="{fill}" stroke="{stroke}" stroke-width="{sw}"/>'
+
+
+def path(d, fill="none", stroke=SLATE, sw=1.8, dash=None):
+    ds = f' stroke-dasharray="{dash}"' if dash else ""
+    return f'<path d="{d}" fill="{fill}" stroke="{stroke}" stroke-width="{sw}" stroke-linecap="round"{ds}/>'
+
+
+def arrow2(x1, y1, x2, y2, color=GREEN, sw=1.9, size=8.0):
+    """Straight arrow with a filled triangular head drawn as a polygon.
+
+    SVG markers do not survive the SVG -> PDF -> Typst pipeline in this
+    toolchain, so the head is a real polygon.
+    """
+    import math
+    ang = math.atan2(y2 - y1, x2 - x1)
+    ca, sa = math.cos(ang), math.sin(ang)
+    bx, by = x2 - size * 1.55 * ca, y2 - size * 1.55 * sa
+    px, py = -sa, ca
+    half = size * 0.58
+    tri = [(x2, y2), (bx + half * px, by + half * py), (bx - half * px, by - half * py)]
+    body = [line(x1, y1, bx, by, color=color, sw=sw),
+            f'<polygon points="{" ".join(f"{x:.1f},{y:.1f}" for x, y in tri)}" fill="{color}"/>']
+    return "".join(body)
+
+
 def recap_card(name: str, title: str, rows, w: int = 470) -> None:
     """Four-line memory card: wrapped body text, no clipping, no overlap."""
     pad = 12

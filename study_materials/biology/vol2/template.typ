@@ -518,3 +518,21 @@
     #body
   ]
 }
+
+// ── why the answers are the answers ────────────────────────────────────────
+#let answer-notes(items) = block(
+  breakable: false,
+  width: 100%,
+  fill: white,
+  stroke: 0.7pt + jamb-border,
+  radius: 7pt,
+  inset: (x: 11pt, y: 9pt),
+)[
+  #text(font: "DejaVu Sans", size: 9.4pt, weight: "bold", fill: jamb-navy)[Why those are the answers]
+  #v(4pt)
+  #set text(size: 9.6pt)
+  #for (i, (ans, why)) in items.enumerate() [
+    #text(weight: "bold", fill: jamb-navy)[#{i + 1}. #ans] — #why
+    #if i < items.len() - 1 { linebreak() }
+  ]
+]

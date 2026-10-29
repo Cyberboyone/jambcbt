@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 470 250" width="470" height="250">
+  <defs>
+    <marker id="ag" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#008751"/>
+    </marker>
+    <marker id="an" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#0E1F40"/>
+    </marker>
+    <marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#D97706"/>
+    </marker>
+    <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#DC2626"/>
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="470" height="250" fill="#FFFFFF"/>
+<text x="235.0" y="21" font-family="DejaVu Sans" font-size="11.8" fill="#0E1F40" text-anchor="middle" font-weight="bold">Chapter 8 recap card — micro-organisms and decay</text>
+<rect x="12" y="33" width="446" height="48.2" rx="6" fill="#FFFFFF" stroke="#008751" stroke-width="1.1"/>
+<text x="24" y="48" font-family="DejaVu Sans" font-size="10.6" fill="#008751" text-anchor="start" font-weight="bold">Decay</text>
+<text x="24" y="60.6" font-family="DejaVu Sans" font-size="9.6" fill="#334155" text-anchor="start" font-weight="normal">The breakdown of dead organic matter by bacteria and fungi — a form of respiration</text>
+<text x="24" y="73.2" font-family="DejaVu Sans" font-size="9.6" fill="#334155" text-anchor="start" font-weight="normal">that returns CO2 and minerals.</text>
+<rect x="12" y="86.2" width="446" height="48.2" rx="6" fill="#FFFFFF" stroke="#008751" stroke-width="1.1"/>
+<text x="24" y="101.2" font-family="DejaVu Sans" font-size="10.6" fill="#008751" text-anchor="start" font-weight="bold">Conditions</text>
+<text x="24" y="113.8" font-family="DejaVu Sans" font-size="9.6" fill="#334155" text-anchor="start" font-weight="normal">Micro-organisms need moisture, warmth, food and (mostly) oxygen. Remove any one</text>
+<text x="24" y="126.4" font-family="DejaVu Sans" font-size="9.6" fill="#334155" text-anchor="start" font-weight="normal">and decay slows or stops.</text>
+<rect x="12" y="139.4" width="446" height="48.2" rx="6" fill="#FFFFFF" stroke="#008751" stroke-width="1.1"/>
+<text x="24" y="154.4" font-family="DejaVu Sans" font-size="10.6" fill="#008751" text-anchor="start" font-weight="bold">Usefulness</text>
+<text x="24" y="167.0" font-family="DejaVu Sans" font-size="9.6" fill="#334155" text-anchor="start" font-weight="normal">Decay recycles nutrients, and people use it deliberately in biogas, compost, silage and</text>
+<text x="24" y="179.6" font-family="DejaVu Sans" font-size="9.6" fill="#334155" text-anchor="start" font-weight="normal">bread, beer and cheese.</text>
+<rect x="12" y="192.60000000000002" width="446" height="48.2" rx="6" fill="#FFFFFF" stroke="#008751" stroke-width="1.1"/>
+<text x="24" y="207.60000000000002" font-family="DejaVu Sans" font-size="10.6" fill="#008751" text-anchor="start" font-weight="bold">Harm</text>
+<text x="24" y="220.20000000000002" font-family="DejaVu Sans" font-size="9.6" fill="#334155" text-anchor="start" font-weight="normal">The same organisms cause food spoilage and disease — which is why food is dried,</text>
+<text x="24" y="232.8" font-family="DejaVu Sans" font-size="9.6" fill="#334155" text-anchor="start" font-weight="normal">salted, smoked, canned or frozen.</text>
+</svg>

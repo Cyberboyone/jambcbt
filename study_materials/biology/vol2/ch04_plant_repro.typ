@@ -332,15 +332,21 @@ Plants can also reproduce without seeds, and gardeners use this deliberately bec
 // ============================================================================
 // SECTION 4.9 — TWO-MINUTE SET
 // ============================================================================
+#pagebreak()
 == 4.9 Chapter 4 in the Exam Hall — a Two-Minute Set
 
 Four questions of the kind the CBT engine starts a paper with. Ninety seconds each; the answers and full working follow the drill.
 
-#block(breakable: false)[
 #mcq(1, [The transfer of pollen from the anther to the stigma of a flower is called], [fertilisation], [pollination], [germination], [dispersal])
 #mcq(2, [After fertilisation, the ovule becomes the], [fruit], [seed], [zygote], [endosperm])
 #mcq(3, [A flower with large, brightly coloured petals, scent and nectar is most likely pollinated by], [wind], [water], [insects], [gravity])
 #mcq(4, [The first part of a germinating bean seed to emerge is the], [plumule], [radicle], [cotyledon], [testa])
 
 #answer-key-grid(("B", "B", "C", "B"))
-]
+
+#answer-notes((
+  ("B", [pollination is the transfer of pollen; fertilisation is the fusion of the male and female gametes — they are not the same event.]),
+  ("B", [wind-pollinated flowers are small, dull and have no scent or nectar, because they do not need to attract insects.]),
+  ("C", [the ovule becomes the seed and the ovary becomes the fruit.]),
+  ("B", [the radicle — the young root — emerges first, anchoring the seedling and absorbing water before the shoot appears.]),
+))

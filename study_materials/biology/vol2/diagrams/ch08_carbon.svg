@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 372" width="760" height="372">
+  <defs>
+    <marker id="ag" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#008751"/>
+    </marker>
+    <marker id="an" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#0E1F40"/>
+    </marker>
+    <marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#D97706"/>
+    </marker>
+    <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#DC2626"/>
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="760" height="372" fill="#FFFFFF"/>
+<text x="380" y="26" font-family="DejaVu Sans" font-size="12.6" fill="#0E1F40" text-anchor="middle" font-weight="bold">THE CARBON CYCLE — HOW DECAY FITS IN</text>
+<rect x="48" y="44" width="176" height="56" rx="7" fill="#ECFDF5" stroke="#008751" stroke-width="1.7"/>
+<text x="136.0" y="69.5" font-family="DejaVu Sans" font-size="9.6" fill="#008751" text-anchor="middle" font-weight="bold">PRODUCERS</text>
+<text x="136.0" y="82.5" font-family="DejaVu Sans" font-size="9.6" fill="#008751" text-anchor="middle" font-weight="bold">(green plants)</text>
+<rect x="456" y="44" width="176" height="56" rx="7" fill="#DBEAFE" stroke="#2563EB" stroke-width="1.7"/>
+<text x="544.0" y="69.5" font-family="DejaVu Sans" font-size="9.6" fill="#2563EB" text-anchor="middle" font-weight="bold">CONSUMERS</text>
+<text x="544.0" y="82.5" font-family="DejaVu Sans" font-size="9.6" fill="#2563EB" text-anchor="middle" font-weight="bold">(animals)</text>
+<rect x="268" y="150" width="176" height="56" rx="7" fill="#F8FAFC" stroke="#0E1F40" stroke-width="1.7"/>
+<text x="356.0" y="182.0" font-family="DejaVu Sans" font-size="9.6" fill="#0E1F40" text-anchor="middle" font-weight="bold">ATMOSPHERIC CO₂</text>
+<rect x="48" y="256" width="176" height="56" rx="7" fill="#FEF3C7" stroke="#D97706" stroke-width="1.7"/>
+<text x="136.0" y="281.5" font-family="DejaVu Sans" font-size="9.6" fill="#D97706" text-anchor="middle" font-weight="bold">DEAD BODIES</text>
+<text x="136.0" y="294.5" font-family="DejaVu Sans" font-size="9.6" fill="#D97706" text-anchor="middle" font-weight="bold">AND WASTE</text>
+<rect x="456" y="256" width="176" height="56" rx="7" fill="#EDE9FE" stroke="#7C3AED" stroke-width="1.7"/>
+<text x="544.0" y="281.5" font-family="DejaVu Sans" font-size="9.6" fill="#7C3AED" text-anchor="middle" font-weight="bold">DECOMPOSERS</text>
+<text x="544.0" y="294.5" font-family="DejaVu Sans" font-size="9.6" fill="#7C3AED" text-anchor="middle" font-weight="bold">(bacteria, fungi)</text>
+<line x1="232" y1="72" x2="435.6" y2="72.0" stroke="#2563EB" stroke-width="1.9"/><polygon points="448.0,72.0 435.6,76.6 435.6,67.4" fill="#2563EB"/>
+<text x="340" y="62" font-family="DejaVu Sans" font-size="8.6" fill="#2563EB" text-anchor="middle" font-weight="normal">feeding (food chain)</text>
+<line x1="222" y1="92" x2="282.18190003101296" y2="138.4260371667814" stroke="#008751" stroke-width="1.9"/><polygon points="292.0,146.0 279.3,142.1 285.0,134.8" fill="#008751"/>
+<text x="268" y="108" font-family="DejaVu Sans" font-size="8.6" fill="#008751" text-anchor="start" font-weight="normal">respiration</text>
+<line x1="288" y1="166" x2="222.79198991913648" y2="111.36626182414138" stroke="#008751" stroke-width="1.9"/><polygon points="214.0,104.0 225.5,108.1 220.0,114.7" fill="#008751"/>
+<text x="212" y="196" font-family="DejaVu Sans" font-size="8.6" fill="#008751" text-anchor="middle" font-weight="normal">photosynthesis</text>
+<line x1="544" y1="104" x2="544.0" y2="237.6" stroke="#7C3AED" stroke-width="1.9"/><polygon points="544.0,250.0 539.4,237.6 548.6,237.6" fill="#7C3AED"/>
+<text x="556" y="178" font-family="DejaVu Sans" font-size="8.6" fill="#7C3AED" text-anchor="start" font-weight="normal">death and</text>
+<text x="556" y="190" font-family="DejaVu Sans" font-size="8.6" fill="#7C3AED" text-anchor="start" font-weight="normal">excretion</text>
+<line x1="136" y1="104" x2="136.0" y2="237.6" stroke="#D97706" stroke-width="1.9"/><polygon points="136.0,250.0 131.4,237.6 140.6,237.6" fill="#D97706"/>
+<text x="126" y="166" font-family="DejaVu Sans" font-size="8.6" fill="#D97706" text-anchor="end" font-weight="normal">death, leaf</text>
+<text x="126" y="178" font-family="DejaVu Sans" font-size="8.6" fill="#D97706" text-anchor="end" font-weight="normal">fall and waste</text>
+<line x1="232" y1="284" x2="435.6" y2="284.0" stroke="#7C3AED" stroke-width="1.9"/><polygon points="448.0,284.0 435.6,288.6 435.6,279.4" fill="#7C3AED"/>
+<text x="340" y="274" font-family="DejaVu Sans" font-size="8.6" fill="#7C3AED" text-anchor="middle" font-weight="normal">broken down by</text>
+<line x1="496" y1="250" x2="426.5151789696631" y2="206.57198685603944" stroke="#7C3AED" stroke-width="1.9"/><polygon points="416.0,200.0 429.0,202.6 424.1,210.5" fill="#7C3AED"/>
+<text x="490" y="214" font-family="DejaVu Sans" font-size="8.6" fill="#7C3AED" text-anchor="middle" font-weight="normal">respiration</text>
+<rect x="48" y="330" width="664" height="26" rx="6" fill="#ECFDF5" stroke="#008751" stroke-width="1.0"/>
+<text x="380" y="347" font-family="DejaVu Sans" font-size="9.0" fill="#334155" text-anchor="middle" font-weight="normal">Decay returns carbon to the air as CO₂ and minerals to the soil — nothing is wasted.</text>
+</svg>

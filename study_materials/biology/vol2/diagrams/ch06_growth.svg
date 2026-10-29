@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 380" width="760" height="380">
+  <defs>
+    <marker id="ag" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#008751"/>
+    </marker>
+    <marker id="an" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#0E1F40"/>
+    </marker>
+    <marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#D97706"/>
+    </marker>
+    <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#DC2626"/>
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="760" height="380" fill="#FFFFFF"/>
+<text x="380" y="26" font-family="DejaVu Sans" font-size="13.0" fill="#0E1F40" text-anchor="middle" font-weight="bold">TWO TYPES OF GROWTH CURVE</text>
+<rect x="40" y="56" width="320" height="250" rx="8" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="1.0"/>
+<text x="200" y="78" font-family="DejaVu Sans" font-size="10.0" fill="#008751" text-anchor="middle" font-weight="bold">HUMAN — S-shaped (sigmoid)</text>
+<line x1="70" y1="286" x2="340" y2="286" stroke="#334155" stroke-width="1.2"/>
+<line x1="70" y1="286" x2="70" y2="96" stroke="#334155" stroke-width="1.2"/>
+<text x="200" y="306" font-family="DejaVu Sans" font-size="8.6" fill="#64748B" text-anchor="middle" font-weight="normal">age (years)</text>
+<text x="56" y="190" font-family="DejaVu Sans" font-size="8.6" fill="#64748B" text-anchor="middle" font-weight="normal">height</text>
+<polyline points="70.0,281.5 72.7,281.5 75.5,281.4 78.2,281.4 80.9,281.3 83.6,281.3 86.4,281.2 89.1,281.1 91.8,281.0 94.5,280.9 97.3,280.8 100.0,280.7 102.7,280.6 105.5,280.5 108.2,280.3 110.9,280.2 113.6,280.0 116.4,279.8 119.1,279.6 121.8,279.4 124.5,279.1 127.3,278.8 130.0,278.6 132.7,278.2 135.5,277.9 138.2,277.5 140.9,277.1 143.6,276.6 146.4,276.1 149.1,275.6 151.8,275.0 154.5,274.3 157.3,273.6 160.0,272.8 162.7,272.0 165.5,271.1 168.2,270.1 170.9,269.1 173.6,267.9 176.4,266.7 179.1,265.4 181.8,264.0 184.5,262.4 187.3,260.8 190.0,259.0 192.7,257.1 195.5,255.1 198.2,252.9 200.9,250.7 203.6,248.2 206.4,245.7 209.1,243.0 211.8,240.1 214.5,237.2 217.3,234.0 220.0,230.8 222.7,227.4 225.5,224.0 228.2,220.4 230.9,216.7 233.6,213.0 236.4,209.1 239.1,205.2 241.8,201.3 244.5,197.4 247.3,193.4 250.0,189.5 252.7,185.6 255.5,181.7 258.2,177.9 260.9,174.2 263.6,170.5 266.4,167.0 269.1,163.5 271.8,160.2 274.5,157.0 277.3,153.9 280.0,151.0 282.7,148.2 285.5,145.5 288.2,143.0 290.9,140.6 293.6,138.4 296.4,136.3 299.1,134.3 301.8,132.5 304.5,130.7 307.3,129.1 310.0,127.6 312.7,126.2 315.5,124.9 318.2,123.7 320.9,122.6 323.6,121.6 326.4,120.6 329.1,119.7 331.8,118.9 334.5,118.2 337.3,117.5 340.0,116.9" fill="none" stroke="#008751" stroke-width="2.6"/>
+<text x="140" y="236" font-family="DejaVu Sans" font-size="8.2" fill="#64748B" text-anchor="middle" font-weight="normal">slow growth in</text>
+<text x="140" y="248" font-family="DejaVu Sans" font-size="8.2" fill="#64748B" text-anchor="middle" font-weight="normal">childhood</text>
+<text x="228" y="152" font-family="DejaVu Sans" font-size="8.2" fill="#64748B" text-anchor="middle" font-weight="normal">growth spurt</text>
+<text x="228" y="164" font-family="DejaVu Sans" font-size="8.2" fill="#64748B" text-anchor="middle" font-weight="normal">at puberty</text>
+<text x="268" y="106" font-family="DejaVu Sans" font-size="8.2" fill="#64748B" text-anchor="middle" font-weight="normal">growth slows and</text>
+<text x="268" y="118" font-family="DejaVu Sans" font-size="8.2" fill="#64748B" text-anchor="middle" font-weight="normal">stops at maturity</text>
+<rect x="400" y="56" width="320" height="250" rx="8" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="1.0"/>
+<text x="560" y="78" font-family="DejaVu Sans" font-size="10.0" fill="#7C3AED" text-anchor="middle" font-weight="bold">INSECT — stepped (discontinuous)</text>
+<line x1="430" y1="286" x2="700" y2="286" stroke="#334155" stroke-width="1.2"/>
+<line x1="430" y1="286" x2="430" y2="96" stroke="#334155" stroke-width="1.2"/>
+<text x="560" y="306" font-family="DejaVu Sans" font-size="8.6" fill="#64748B" text-anchor="middle" font-weight="normal">time</text>
+<text x="416" y="190" font-family="DejaVu Sans" font-size="8.6" fill="#64748B" text-anchor="middle" font-weight="normal">size</text>
+<line x1="430" y1="260" x2="490" y2="260" stroke="#7C3AED" stroke-width="2.6"/>
+<line x1="490" y1="260" x2="490" y2="236" stroke="#7C3AED" stroke-width="2.6"/>
+<line x1="490" y1="236" x2="550" y2="236" stroke="#7C3AED" stroke-width="2.6"/>
+<line x1="550" y1="236" x2="550" y2="208" stroke="#7C3AED" stroke-width="2.6"/>
+<line x1="550" y1="208" x2="610" y2="208" stroke="#7C3AED" stroke-width="2.6"/>
+<line x1="610" y1="208" x2="610" y2="172" stroke="#7C3AED" stroke-width="2.6"/>
+<line x1="610" y1="172" x2="670" y2="172" stroke="#7C3AED" stroke-width="2.6"/>
+<text x="458" y="278" font-family="DejaVu Sans" font-size="7.8" fill="#DC2626" text-anchor="middle" font-weight="normal">moult</text>
+<text x="518" y="254" font-family="DejaVu Sans" font-size="7.8" fill="#DC2626" text-anchor="middle" font-weight="normal">moult</text>
+<text x="578" y="226" font-family="DejaVu Sans" font-size="7.8" fill="#DC2626" text-anchor="middle" font-weight="normal">moult</text>
+<text x="640" y="190" font-family="DejaVu Sans" font-size="7.8" fill="#DC2626" text-anchor="middle" font-weight="normal">moult</text>
+<text x="560" y="336" font-family="DejaVu Sans" font-size="8.8" fill="#334155" text-anchor="middle" font-weight="normal">The exoskeleton cannot stretch, so the insect grows in stages,</text>
+<text x="560" y="350" font-family="DejaVu Sans" font-size="8.8" fill="#334155" text-anchor="middle" font-weight="normal">each ending in a moult (ecdysis).</text>
+<text x="200" y="336" font-family="DejaVu Sans" font-size="8.8" fill="#334155" text-anchor="middle" font-weight="normal">Growth is fast in infancy, steady in childhood, very fast at</text>
+<text x="200" y="350" font-family="DejaVu Sans" font-size="8.8" fill="#334155" text-anchor="middle" font-weight="normal">puberty, then slow until the growth plates close.</text>
+</svg>

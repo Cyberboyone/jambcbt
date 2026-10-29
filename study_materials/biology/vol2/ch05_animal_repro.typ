@@ -273,15 +273,21 @@ The menstrual cycle is a repeating series of changes in the ovary and the uterus
 // ============================================================================
 // SECTION 5.7 — TWO-MINUTE SET
 // ============================================================================
+#pagebreak()
 == 5.7 Chapter 5 in the Exam Hall — a Two-Minute Set
 
 Four questions of the kind the CBT engine starts a paper with. Ninety seconds each; the answers and full working follow the drill.
 
-#block(breakable: false)[
 #mcq(1, [Fertilisation in a human normally takes place in the], [uterus], [ovary], [oviduct], [cervix])
 #mcq(2, [Ovulation is triggered by a surge of], [FSH], [LH], [progesterone], [oestrogen])
 #mcq(3, [The hormone that maintains the lining of the uterus during pregnancy is], [oestrogen], [FSH], [progesterone], [LH])
 #mcq(4, [The structure through which the foetus obtains oxygen and food is the], [amnion], [cervix], [placenta], [oviduct])
 
 #answer-key-grid(("C", "B", "C", "C"))
-]
+
+#answer-notes((
+  ("C", [the egg is fertilised in the upper oviduct and only then travels to the uterus to implant.]),
+  ("B", [a surge of luteinising hormone (LH) on about day 14 ruptures the follicle and releases the egg.]),
+  ("C", [progesterone maintains the thickened lining; oestrogen repairs it earlier in the cycle.]),
+  ("C", [the placenta is the exchange surface — oxygen and food cross from the mother's blood, and wastes cross back.]),
+))

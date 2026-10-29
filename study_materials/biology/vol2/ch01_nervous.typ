@@ -336,15 +336,21 @@ The body has two coordinating systems, and the examiner likes the comparison bec
 // ============================================================================
 // SECTION 1.8 — TWO-MINUTE SET
 // ============================================================================
+#pagebreak()
 == 1.8 Chapter 1 in the Exam Hall — a Two-Minute Set
 
 Four questions of the kind the CBT engine starts a paper with. Ninety seconds each; the answers and full working follow the drill.
 
-#block(breakable: false)[
 #mcq(1, [The part of a neurone that conducts impulses away from the cell body is the], [dendrite], [axon], [myelin sheath], [nucleus])
 #mcq(2, [The junction between two neurones is called a], [node of Ranvier], [synapse], [ganglion], [reflex arc])
 #mcq(3, [Which of the following is *not* a component of a reflex arc?], [Receptor], [Sensory neurone], [Hormone], [Effector])
 #mcq(4, [An impulse is carried across a synapse by], [a chemical transmitter], [electrical conduction through the myelin], [osmosis of water], [movement of the nucleus])
 
 #answer-key-grid(("B", "B", "C", "A"))
-]
+
+#answer-notes((
+  ("B", [the axon carries impulses *away* from the cell body; dendrites carry them towards it.]),
+  ("B", [a synapse is the junction — a small gap — between two neurones.]),
+  ("C", [a reflex arc has a receptor, a sensory neurone, a relay or motor neurone and an effector. A *hormone* belongs to the endocrine system.]),
+  ("A", [the impulse arrives at the presynaptic knob, vesicles release a neurotransmitter into the gap, and the next neurone is excited.]),
+))

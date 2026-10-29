@@ -313,15 +313,21 @@ A *tropism* is a growth movement of a plant towards or away from a stimulus. Bec
 // ============================================================================
 // SECTION 3.8 — TWO-MINUTE SET
 // ============================================================================
+#pagebreak()
 == 3.8 Chapter 3 in the Exam Hall — a Two-Minute Set
 
 Four questions of the kind the CBT engine starts a paper with. Ninety seconds each; the answers and full working follow the drill.
 
-#block(breakable: false)[
 #mcq(1, [The hormone that lowers the concentration of glucose in the blood is], [glucagon], [adrenaline], [insulin], [thyroxine])
 #mcq(2, [Endocrine glands are described as ductless because they], [secrete hormones into the blood], [have no blood supply], [secrete through a tube onto the skin], [produce enzymes only])
 #mcq(3, [The hormone that increases the reabsorption of water in the kidney is], [ADH], [insulin], [oestrogen], [glucagon])
 #mcq(4, [A shoot bends towards light because auxin], [collects on the shaded side and makes those cells elongate], [collects on the lit side and makes those cells elongate], [is destroyed on the shaded side], [moves down the stem to the roots])
 
 #answer-key-grid(("C", "A", "A", "A"))
-]
+
+#answer-notes((
+  ("C", [hormones are secreted by *ductless* glands straight into the blood; glands with ducts belong to the exocrine system.]),
+  ("A", [the pituitary controls the thyroid, the adrenal cortex and the gonads, which is why it is called the master gland.]),
+  ("A", [insulin lowers blood glucose by converting glucose to glycogen in the liver and in muscle.]),
+  ("A", [auxin moves to the shaded side, where it makes the cells elongate, so the shoot bends towards the light.]),
+))

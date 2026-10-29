@@ -7,24 +7,9 @@ import matplotlib.pyplot as plt
 from common import (recap_card, GREEN, GREEN_BRIGHT, GREEN_LIGHT, GREEN_MID, NAVY, SLATE,
                     MUTED, BORDER, AMBER, AMBER_LIGHT, RED, RED_LIGHT, BLUE,
                     BLUE_LIGHT, PURPLE, PURPLE_LIGHT, write_svg, svg, t, lines,
-                    rect, arrow, line, card, save)
+                    rect, arrow, line, card, save, dot, poly, path)
 
 plt.rcParams.update({"font.family": "DejaVu Sans"})
-
-
-def dot(cx, cy, r, fill=GREEN, stroke="none", sw=1.0):
-    st = f' stroke="{stroke}" stroke-width="{sw}"' if stroke != "none" else ""
-    return f'<circle cx="{cx}" cy="{cy}" r="{r}" fill="{fill}"{st}/>'
-
-
-def poly(points, fill, stroke, sw=1.8):
-    pts = " ".join(f"{x},{y}" for x, y in points)
-    return f'<polygon points="{pts}" fill="{fill}" stroke="{stroke}" stroke-width="{sw}"/>'
-
-
-def path(d, fill="none", stroke=SLATE, sw=1.8, dash=None):
-    ds = f' stroke-dasharray="{dash}"' if dash else ""
-    return f'<path d="{d}" fill="{fill}" stroke="{stroke}" stroke-width="{sw}" stroke-linecap="round"{ds}/>'
 
 
 # ── chapter 3: the endocrine glands ────────────────────────────────────────
@@ -475,4 +460,97 @@ def recap_cards_e():
         ("Cycle", "FSH grows the follicle, oestrogen repairs the lining, LH triggers ovulation, progesterone maintains the lining."),
         ("Fertilisation", "In the upper oviduct. The zygote divides and implants in the uterus about a week later."),
         ("Pregnancy", "Placenta exchanges food, oxygen and waste; amniotic fluid cushions; gestation is about nine months."),
+    ])
+
+
+# ── chapter 6: growth ──────────────────────────────────────────────────────
+def ch06_growth_curves():
+    import numpy as np
+    w, h = 760, 380
+    b = [t(380, 26, "TWO TYPES OF GROWTH CURVE", size=13.0, weight="bold", fill=NAVY)]
+    # left: human (S-shaped)
+    b.append(rect(40, 56, 320, 250, "#FFFFFF", BORDER, 8, 1.0))
+    b.append(t(200, 78, "HUMAN — S-shaped (sigmoid)", size=10.0, weight="bold", fill=GREEN))
+    b.append(line(70, 286, 340, 286, color=SLATE, sw=1.2))
+    b.append(line(70, 286, 70, 96, color=SLATE, sw=1.2))
+    b.append(t(200, 306, "age (years)", size=8.6, fill=MUTED))
+    b.append(t(56, 190, "height", size=8.6, fill=MUTED, anchor="middle"))
+    t_ = np.linspace(0, 20, 100)
+    y = 282 - 172 / (1 + np.exp(-(t_ - 13) / 2.2))
+    pts = " ".join(f"{70 + 270 * (tt / 20):.1f},{yy:.1f}" for tt, yy in zip(t_, y))
+    b.append(f'<polyline points="{pts}" fill="none" stroke="{GREEN}" stroke-width="2.6"/>')
+    b.append(t(140, 236, "slow growth in", size=8.2, fill=MUTED))
+    b.append(t(140, 248, "childhood", size=8.2, fill=MUTED))
+    b.append(t(228, 152, "growth spurt", size=8.2, fill=MUTED))
+    b.append(t(228, 164, "at puberty", size=8.2, fill=MUTED))
+    b.append(t(268, 106, "growth slows and", size=8.2, fill=MUTED))
+    b.append(t(268, 118, "stops at maturity", size=8.2, fill=MUTED))
+
+    # right: insect (stepped)
+    b.append(rect(400, 56, 320, 250, "#FFFFFF", BORDER, 8, 1.0))
+    b.append(t(560, 78, "INSECT — stepped (discontinuous)", size=10.0, weight="bold", fill=PURPLE))
+    b.append(line(430, 286, 700, 286, color=SLATE, sw=1.2))
+    b.append(line(430, 286, 430, 96, color=SLATE, sw=1.2))
+    b.append(t(560, 306, "time", size=8.6, fill=MUTED))
+    b.append(t(416, 190, "size", size=8.6, fill=MUTED, anchor="middle"))
+    steps = [(430, 260), (490, 260), (490, 236), (550, 236), (550, 208), (610, 208), (610, 172), (670, 172)]
+    for i in range(0, len(steps) - 1):
+        x1, y1 = steps[i]
+        x2, y2 = steps[i + 1]
+        b.append(line(x1, y1, x2, y2, color=PURPLE, sw=2.6))
+    b.append(t(458, 278, "moult", size=7.8, fill=RED))
+    b.append(t(518, 254, "moult", size=7.8, fill=RED))
+    b.append(t(578, 226, "moult", size=7.8, fill=RED))
+    b.append(t(640, 190, "moult", size=7.8, fill=RED))
+    b.append(t(560, 336, "The exoskeleton cannot stretch, so the insect grows in stages,", size=8.8, fill=SLATE))
+    b.append(t(560, 350, "each ending in a moult (ecdysis).", size=8.8, fill=SLATE))
+    b.append(t(200, 336, "Growth is fast in infancy, steady in childhood, very fast at", size=8.8, fill=SLATE))
+    b.append(t(200, 350, "puberty, then slow until the growth plates close.", size=8.8, fill=SLATE))
+    write_svg("ch06_growth.svg", svg(w, h, "\n".join(b)))
+
+
+def ch06_metamorphosis():
+    w, h = 760, 340
+    b = [t(380, 26, "COMPLETE AND INCOMPLETE METAMORPHOSIS", size=13.0, weight="bold", fill=NAVY)]
+    b.append(t(232, 56, "COMPLETE — butterfly, mosquito, housefly, bee", size=10.2, weight="bold", fill=GREEN))
+    b.append(t(614, 56, "INCOMPLETE — grasshopper, cockroach", size=10.2, weight="bold", fill=AMBER))
+
+    def stage(x, y, label, col, r=34):
+        b.append(dot(x, y, r, "#FFFFFF", col, 2.0))
+        lines = label.split("\n")
+        for j, ln in enumerate(lines):
+            b.append(t(x, y + 4 + (j - (len(lines) - 1) / 2) * 12, ln, size=10.0, weight="bold", fill=col))
+
+    xs = [64, 176, 288, 400]
+    labels = ["Egg", "Larva\n(caterpillar)", "Pupa\n(chrysalis)", "Adult"]
+    for i, (xx, lab) in enumerate(zip(xs, labels)):
+        stage(xx, 132, lab, GREEN, 36)
+        if i < 3:
+            b.append(arrow(xx + 40, 132, xs[i + 1] - 40, 132, color=MUTED, sw=2.0, marker="an"))
+    b.append(t(232, 206, "the young looks completely different from the adult,", size=9.6, fill=SLATE))
+    b.append(t(232, 220, "and a resting pupal stage separates the two.", size=9.6, fill=SLATE))
+
+    xs2 = [512, 616, 720]
+    labels2 = ["Egg", "Nymph", "Adult"]
+    for i, (xx, lab) in enumerate(zip(xs2, labels2)):
+        stage(xx, 132, lab, AMBER, 30)
+        if i < 2:
+            b.append(arrow(xx + 34, 132, xs2[i + 1] - 34, 132, color=MUTED, sw=2.0, marker="aa"))
+    b.append(t(616, 206, "the nymph resembles a small adult,", size=9.6, fill=SLATE))
+    b.append(t(616, 220, "with no pupal stage at all.", size=9.6, fill=SLATE))
+
+    b.append(rect(24, 246, 712, 74, GREEN_LIGHT, GREEN, 8, 1.2))
+    b.append(t(380, 268, "The advantage of metamorphosis: the larva and the adult live in different places and eat different food,", size=9.6, fill=SLATE))
+    b.append(t(380, 284, "so they do not compete with each other for the same resource.", size=9.6, fill=SLATE))
+    b.append(t(380, 306, "The housefly and the mosquito pass through egg, larva, pupa and adult — which is why draining stagnant water controls them.",
+               size=9.0, fill=MUTED))
+    write_svg("ch06_metamorph.svg", svg(w, h, "\n".join(b)))
+
+
+def recap_cards_f():
+    recap_card("recap_ch06.svg", "Chapter 6 recap card — growth and development", [
+        ("Growth", "A permanent increase in size or mass — by cell division and cell enlargement, not by swelling."),
+        ("Curves", "Humans grow in an S-shaped curve; insects grow in steps because the exoskeleton must be moulted."),
+        ("Metamorphosis", "Complete = egg, larva, pupa, adult (butterfly). Incomplete = egg, nymph, adult (grasshopper)."),
+        ("Growth vs development", "Growth is size; development is the appearance of new structures and functions, e.g. at puberty."),
     ])

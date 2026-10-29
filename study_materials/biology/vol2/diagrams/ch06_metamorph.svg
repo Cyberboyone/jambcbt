@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 340" width="760" height="340">
+  <defs>
+    <marker id="ag" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#008751"/>
+    </marker>
+    <marker id="an" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#0E1F40"/>
+    </marker>
+    <marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#D97706"/>
+    </marker>
+    <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#DC2626"/>
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="760" height="340" fill="#FFFFFF"/>
+<text x="380" y="26" font-family="DejaVu Sans" font-size="13.0" fill="#0E1F40" text-anchor="middle" font-weight="bold">COMPLETE AND INCOMPLETE METAMORPHOSIS</text>
+<text x="232" y="56" font-family="DejaVu Sans" font-size="10.2" fill="#008751" text-anchor="middle" font-weight="bold">COMPLETE — butterfly, mosquito, housefly, bee</text>
+<text x="614" y="56" font-family="DejaVu Sans" font-size="10.2" fill="#D97706" text-anchor="middle" font-weight="bold">INCOMPLETE — grasshopper, cockroach</text>
+<circle cx="64" cy="132" r="36" fill="#FFFFFF" stroke="#008751" stroke-width="2.0"/>
+<text x="64" y="136.0" font-family="DejaVu Sans" font-size="10.0" fill="#008751" text-anchor="middle" font-weight="bold">Egg</text>
+<line x1="104" y1="132" x2="136" y2="132" stroke="#64748B" stroke-width="2.0" marker-end="url(#an)"/>
+<circle cx="176" cy="132" r="36" fill="#FFFFFF" stroke="#008751" stroke-width="2.0"/>
+<text x="176" y="130.0" font-family="DejaVu Sans" font-size="10.0" fill="#008751" text-anchor="middle" font-weight="bold">Larva</text>
+<text x="176" y="142.0" font-family="DejaVu Sans" font-size="10.0" fill="#008751" text-anchor="middle" font-weight="bold">(caterpillar)</text>
+<line x1="216" y1="132" x2="248" y2="132" stroke="#64748B" stroke-width="2.0" marker-end="url(#an)"/>
+<circle cx="288" cy="132" r="36" fill="#FFFFFF" stroke="#008751" stroke-width="2.0"/>
+<text x="288" y="130.0" font-family="DejaVu Sans" font-size="10.0" fill="#008751" text-anchor="middle" font-weight="bold">Pupa</text>
+<text x="288" y="142.0" font-family="DejaVu Sans" font-size="10.0" fill="#008751" text-anchor="middle" font-weight="bold">(chrysalis)</text>
+<line x1="328" y1="132" x2="360" y2="132" stroke="#64748B" stroke-width="2.0" marker-end="url(#an)"/>
+<circle cx="400" cy="132" r="36" fill="#FFFFFF" stroke="#008751" stroke-width="2.0"/>
+<text x="400" y="136.0" font-family="DejaVu Sans" font-size="10.0" fill="#008751" text-anchor="middle" font-weight="bold">Adult</text>
+<text x="232" y="206" font-family="DejaVu Sans" font-size="9.6" fill="#334155" text-anchor="middle" font-weight="normal">the young looks completely different from the adult,</text>
+<text x="232" y="220" font-family="DejaVu Sans" font-size="9.6" fill="#334155" text-anchor="middle" font-weight="normal">and a resting pupal stage separates the two.</text>
+<circle cx="512" cy="132" r="30" fill="#FFFFFF" stroke="#D97706" stroke-width="2.0"/>
+<text x="512" y="136.0" font-family="DejaVu Sans" font-size="10.0" fill="#D97706" text-anchor="middle" font-weight="bold">Egg</text>
+<line x1="546" y1="132" x2="582" y2="132" stroke="#64748B" stroke-width="2.0" marker-end="url(#aa)"/>
+<circle cx="616" cy="132" r="30" fill="#FFFFFF" stroke="#D97706" stroke-width="2.0"/>
+<text x="616" y="136.0" font-family="DejaVu Sans" font-size="10.0" fill="#D97706" text-anchor="middle" font-weight="bold">Nymph</text>
+<line x1="650" y1="132" x2="686" y2="132" stroke="#64748B" stroke-width="2.0" marker-end="url(#aa)"/>
+<circle cx="720" cy="132" r="30" fill="#FFFFFF" stroke="#D97706" stroke-width="2.0"/>
+<text x="720" y="136.0" font-family="DejaVu Sans" font-size="10.0" fill="#D97706" text-anchor="middle" font-weight="bold">Adult</text>
+<text x="616" y="206" font-family="DejaVu Sans" font-size="9.6" fill="#334155" text-anchor="middle" font-weight="normal">the nymph resembles a small adult,</text>
+<text x="616" y="220" font-family="DejaVu Sans" font-size="9.6" fill="#334155" text-anchor="middle" font-weight="normal">with no pupal stage at all.</text>
+<rect x="24" y="246" width="712" height="74" rx="8" fill="#ECFDF5" stroke="#008751" stroke-width="1.2"/>
+<text x="380" y="268" font-family="DejaVu Sans" font-size="9.6" fill="#334155" text-anchor="middle" font-weight="normal">The advantage of metamorphosis: the larva and the adult live in different places and eat different food,</text>
+<text x="380" y="284" font-family="DejaVu Sans" font-size="9.6" fill="#334155" text-anchor="middle" font-weight="normal">so they do not compete with each other for the same resource.</text>
+<text x="380" y="306" font-family="DejaVu Sans" font-size="9.0" fill="#64748B" text-anchor="middle" font-weight="normal">The housefly and the mosquito pass through egg, larva, pupa and adult — which is why draining stagnant water controls them.</text>
+</svg>

@@ -23,6 +23,12 @@ try:
 except ImportError:
     C = None
 
+try:
+    import figs_v2_d as D   # noqa: E402
+    MODULES.append(("D", D))
+except ImportError:
+    D = None
+
 
 def main() -> int:
     A.cover_banner()
@@ -53,6 +59,17 @@ def main() -> int:
         C.ch05_menstrual()
         C.ch05_fertilisation()
         C.recap_cards_e()
+        C.ch06_growth_curves()
+        C.ch06_metamorphosis()
+        C.recap_cards_f()
+
+    if D is not None:
+        D.ch07_infection_chain()
+        D.ch07_immunity()
+        D.recap_cards_g()
+        D.ch08_decay()
+        D.ch08_conditions()
+        D.recap_cards_h()
 
     files = sorted((HERE / "diagrams").glob("*.svg"))
     print(f"generated {len(files)} diagrams")
