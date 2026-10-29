@@ -71,6 +71,12 @@ def main() -> int:
         D.ch08_decay()
         D.ch08_conditions()
         D.recap_cards_h()
+        D.ch09_drug_classes()
+        D.ch09_first_aid()
+        D.recap_cards_i()
+        D.ch10_microscope()
+        D.ch10_foodtests()
+        D.recap_cards_j()
 
     files = sorted((HERE / "diagrams").glob("*.svg"))
     print(f"generated {len(files)} diagrams")

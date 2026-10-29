@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 350" width="720" height="350">
+  <defs>
+    <marker id="ag" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#008751"/>
+    </marker>
+    <marker id="an" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#0E1F40"/>
+    </marker>
+    <marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#D97706"/>
+    </marker>
+    <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#DC2626"/>
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="720" height="350" fill="#FFFFFF"/>
+<text x="360" y="26" font-family="DejaVu Sans" font-size="12.6" fill="#0E1F40" text-anchor="middle" font-weight="bold">THE CYCLE OF DRUG ABUSE — WHY IT IS SO HARD TO STOP</text>
+<rect x="44" y="48" width="224" height="66" rx="8" fill="#ECFDF5" stroke="#008751" stroke-width="1.6"/>
+<text x="156" y="72" font-family="DejaVu Sans" font-size="10.2" fill="#008751" text-anchor="middle" font-weight="bold">THE DRUG IS TAKEN</text>
+<text x="156" y="90" font-family="DejaVu Sans" font-size="9.0" fill="#334155" text-anchor="middle" font-weight="normal">the brain is flooded with it</text>
+<text x="156" y="104" font-family="DejaVu Sans" font-size="8.0" fill="#64748B" text-anchor="middle" font-weight="normal"></text>
+<rect x="452" y="48" width="224" height="66" rx="8" fill="#FEF3C7" stroke="#D97706" stroke-width="1.6"/>
+<text x="564" y="72" font-family="DejaVu Sans" font-size="10.2" fill="#D97706" text-anchor="middle" font-weight="bold">TOLERANCE DEVELOPS</text>
+<text x="564" y="90" font-family="DejaVu Sans" font-size="9.0" fill="#334155" text-anchor="middle" font-weight="normal">the same dose no longer works</text>
+<text x="564" y="104" font-family="DejaVu Sans" font-size="8.0" fill="#64748B" text-anchor="middle" font-weight="normal"></text>
+<rect x="452" y="236" width="224" height="66" rx="8" fill="#FEE2E2" stroke="#DC2626" stroke-width="1.6"/>
+<text x="564" y="260" font-family="DejaVu Sans" font-size="10.2" fill="#DC2626" text-anchor="middle" font-weight="bold">A LARGER DOSE IS NEEDED</text>
+<text x="564" y="278" font-family="DejaVu Sans" font-size="9.0" fill="#334155" text-anchor="middle" font-weight="normal">and the risk of overdose rises</text>
+<text x="564" y="292" font-family="DejaVu Sans" font-size="8.0" fill="#64748B" text-anchor="middle" font-weight="normal"></text>
+<rect x="44" y="236" width="224" height="66" rx="8" fill="#EDE9FE" stroke="#7C3AED" stroke-width="1.6"/>
+<text x="156" y="260" font-family="DejaVu Sans" font-size="10.2" fill="#7C3AED" text-anchor="middle" font-weight="bold">DEPENDENCE AND WITHDRAWAL</text>
+<text x="156" y="278" font-family="DejaVu Sans" font-size="9.0" fill="#334155" text-anchor="middle" font-weight="normal">stopping now causes illness</text>
+<text x="156" y="292" font-family="DejaVu Sans" font-size="8.0" fill="#64748B" text-anchor="middle" font-weight="normal"></text>
+<line x1="272" y1="81" x2="431.6" y2="81.0" stroke="#64748B" stroke-width="2.2"/><polygon points="444.0,81.0 431.6,85.6 431.6,76.4" fill="#64748B"/>
+<line x1="564" y1="118" x2="564.0" y2="217.6" stroke="#64748B" stroke-width="2.2"/><polygon points="564.0,230.0 559.4,217.6 568.6,217.6" fill="#64748B"/>
+<line x1="448" y1="269" x2="288.4" y2="269.0" stroke="#64748B" stroke-width="2.2"/><polygon points="276.0,269.0 288.4,264.4 288.4,273.6" fill="#64748B"/>
+<line x1="156" y1="232" x2="156.0" y2="132.4" stroke="#64748B" stroke-width="2.2"/><polygon points="156.0,120.0 160.6,132.4 151.4,132.4" fill="#64748B"/>
+<text x="360" y="150" font-family="DejaVu Sans" font-size="11.0" fill="#0E1F40" text-anchor="middle" font-weight="bold">THE CYCLE</text>
+<text x="360" y="168" font-family="DejaVu Sans" font-size="9.6" fill="#334155" text-anchor="middle" font-weight="normal">repeats, each turn</text>
+<text x="360" y="182" font-family="DejaVu Sans" font-size="9.6" fill="#334155" text-anchor="middle" font-weight="normal">needing a bigger dose</text>
+<text x="360" y="196" font-family="DejaVu Sans" font-size="9.6" fill="#334155" text-anchor="middle" font-weight="normal">for a smaller effect</text>
+<rect x="44" y="314" width="632" height="26" rx="6" fill="#ECFDF5" stroke="#008751" stroke-width="1.0"/>
+<text x="360" y="331" font-family="DejaVu Sans" font-size="9.0" fill="#334155" text-anchor="middle" font-weight="normal">Breaking the cycle needs medical help: the withdrawal is real, and stopping alone can be dangerous.</text>
+</svg>

@@ -239,3 +239,187 @@ def recap_cards_h():
         ("Usefulness", "Decay recycles nutrients, and people use it deliberately in biogas, compost, silage and bread, beer and cheese."),
         ("Harm", "The same organisms cause food spoilage and disease — which is why food is dried, salted, smoked, canned or frozen."),
     ])
+
+# ── chapter 9: drugs and first aid ─────────────────────────────────────────
+def ch09_drug_classes():
+    w, h = 720, 350
+    b = [t(360, 26, "THE CYCLE OF DRUG ABUSE — WHY IT IS SO HARD TO STOP", size=12.6, weight="bold", fill=NAVY)]
+
+    def box(x, y, title, body, col, fill):
+        b.append(rect(x, y, 224, 66, fill, col, 8, 1.6))
+        b.append(t(x + 112, y + 24, title, size=10.2, weight="bold", fill=col))
+        b.append(t(x + 112, y + 42, body, size=9.0, fill=SLATE))
+        b.append(t(x + 112, y + 56, "", size=8.0, fill=MUTED))
+
+    box(44, 48, "THE DRUG IS TAKEN", "the brain is flooded with it", GREEN, GREEN_LIGHT)
+    box(452, 48, "TOLERANCE DEVELOPS", "the same dose no longer works", AMBER, AMBER_LIGHT)
+    box(452, 236, "A LARGER DOSE IS NEEDED", "and the risk of overdose rises", RED, RED_LIGHT)
+    box(44, 236, "DEPENDENCE AND WITHDRAWAL", "stopping now causes illness", PURPLE, PURPLE_LIGHT)
+
+    b.append(arrow2(272, 81, 444, 81, color=MUTED, sw=2.2))
+    b.append(arrow2(564, 118, 564, 230, color=MUTED, sw=2.2))
+    b.append(arrow2(448, 269, 276, 269, color=MUTED, sw=2.2))
+    b.append(arrow2(156, 232, 156, 120, color=MUTED, sw=2.2))
+
+    b.append(t(360, 150, "THE CYCLE", size=11.0, weight="bold", fill=NAVY))
+    b.append(t(360, 168, "repeats, each turn", size=9.6, fill=SLATE))
+    b.append(t(360, 182, "needing a bigger dose", size=9.6, fill=SLATE))
+    b.append(t(360, 196, "for a smaller effect", size=9.6, fill=SLATE))
+
+    b.append(rect(44, 314, 632, 26, GREEN_LIGHT, GREEN, 6, 1.0))
+    b.append(t(360, 331, "Breaking the cycle needs medical help: the withdrawal is real, and stopping alone can be dangerous.",
+               size=9.0, fill=SLATE))
+    write_svg("ch09_drugs.svg", svg(w, h, "\n".join(b)))
+
+
+def ch09_first_aid():
+    w, h = 720, 392
+    b = [t(360, 26, "FIRST AID — THE ORDER OF PRIORITY, AND WHAT BELONGS IN THE BOX", size=12.2, weight="bold", fill=NAVY)]
+
+    # DRABC ladder
+    b.append(t(180, 54, "THE ORDER OF PRIORITY", size=10.0, weight="bold", fill=GREEN))
+    steps = [
+        ("D", "DANGER", "protect yourself first"),
+        ("R", "RESPONSE", "speak, shake the shoulders"),
+        ("A", "AIRWAY", "tilt the head, clear the mouth"),
+        ("B", "BREATHING", "look, listen, feel"),
+        ("C", "CIRCULATION", "stop bleeding, start CPR if needed"),
+    ]
+    for i, (letter, name, what) in enumerate(steps):
+        y = 68 + i * 52
+        b.append(rect(24, y, 316, 44, GREEN_LIGHT, GREEN, 7, 1.1))
+        b.append(dot(50, y + 22, 15, GREEN, GREEN, 0))
+        b.append(t(50, y + 27, letter, size=12.4, weight="bold", fill="#FFFFFF"))
+        b.append(t(76, y + 18, name, size=9.8, weight="bold", fill=GREEN, anchor="start"))
+        b.append(t(76, y + 34, what, size=9.0, fill=SLATE, anchor="start"))
+
+    # first-aid box
+    b.append(rect(360, 60, 336, 268, "#FFFFFF", RED, 8, 1.8))
+    b.append(rect(360, 60, 336, 30, RED, RED, 8, 1.8))
+    b.append(rect(360, 76, 336, 14, RED, RED, 0, 0))
+    b.append(t(528, 81, "THE FIRST-AID BOX", size=10.4, weight="bold", fill="#FFFFFF"))
+    items = [
+        ("sterile gauze and bandages", "to cover wounds and stop bleeding"),
+        ("cotton wool and adhesive plaster", "to clean and cover small cuts"),
+        ("antiseptic (dettol, iodine)", "to kill germs in a wound"),
+        ("scissors and forceps", "to cut bandages, remove splinters"),
+        ("oral rehydration salts", "for diarrhoea and dehydration"),
+        ("gloves, torch, safety pins", "protection and improvisation"),
+    ]
+    for i, (item, use) in enumerate(items):
+        y = 104 + i * 37
+        b.append(dot(378, y + 8, 3.2, RED, RED, 0))
+        b.append(t(390, y + 6, item, size=9.2, weight="bold", fill=NAVY, anchor="start"))
+        b.append(t(390, y + 20, use, size=8.6, fill=MUTED, anchor="start"))
+
+    b.append(rect(24, 336, 672, 44, GREEN_LIGHT, GREEN, 7, 1.1))
+    b.append(t(360, 354, "Never move a casualty with a suspected back or neck injury, and never give an unconscious person anything by mouth.",
+               size=9.0, fill=SLATE))
+    b.append(t(360, 370, "Always send for help and stay with the casualty until it arrives.", size=9.0, fill=SLATE))
+    write_svg("ch09_firstaid.svg", svg(w, h, "\n".join(b)))
+
+
+def recap_cards_i():
+    recap_card("recap_ch09.svg", "Chapter 9 recap card — drugs, first aid and public health", [
+        ("Drug", "A chemical that alters the way the body or mind works. A medicine is a drug used to treat disease, in a measured dose."),
+        ("Abuse", "Taking a drug for pleasure, or without medical need — leading to tolerance, addiction and withdrawal."),
+        ("First aid", "Help given before the doctor arrives: DRABC, then treat bleeding, burns, fractures and shock."),
+        ("Public health", "Clean water, sanitation, waste disposal, food hygiene, immunisation and health education."),
+    ])
+
+# ── chapter 10: practical skills ──────────────────────────────────────────
+def ch10_microscope():
+    w, h = 720, 424
+    b = [t(360, 26, "THE LIGHT MICROSCOPE — THE PARTS AND WHAT EACH DOES", size=12.8, weight="bold", fill=NAVY)]
+
+    # base
+    b.append(rect(226, 360, 228, 24, "#F8FAFC", SLATE, 10, 2.0))
+    # pillar, offset to the left of the light path
+    b.append(rect(248, 282, 22, 80, "#F8FAFC", SLATE, 3, 1.8))
+    # stage
+    b.append(rect(220, 264, 240, 16, "#F8FAFC", SLATE, 4, 2.0))
+    # stage clips
+    b.append(rect(246, 258, 18, 8, SLATE, SLATE, 2, 1.0))
+    b.append(rect(440, 258, 18, 8, SLATE, SLATE, 2, 1.0))
+    # slide
+    b.append(rect(296, 260, 92, 5, BLUE_LIGHT, BLUE, 1, 1.0))
+    # arm
+    b.append(path("M 372 264 q 92 -12 92 -80 q 0 -60 -46 -86", stroke=SLATE, sw=7.0))
+    b.append(path("M 372 264 q 92 -12 92 -80 q 0 -60 -46 -86", stroke="#F8FAFC", sw=3.0))
+    # body tube
+    b.append(rect(298, 90, 54, 116, "#F8FAFC", SLATE, 3, 2.0))
+    # eyepiece
+    b.append(rect(306, 60, 38, 32, "#F8FAFC", SLATE, 3, 2.0))
+    b.append(rect(314, 50, 22, 12, "#F8FAFC", SLATE, 2, 1.6))
+    # nosepiece + objectives
+    b.append(rect(306, 204, 38, 12, "#F8FAFC", SLATE, 2, 1.6))
+    b.append(rect(310, 216, 12, 30, "#F8FAFC", SLATE, 2, 1.6))
+    b.append(rect(330, 216, 12, 42, "#F8FAFC", SLATE, 2, 1.6))
+    # knobs on the arm side
+    b.append(dot(272, 208, 16, "#F8FAFC", SLATE, 1.8))
+    b.append(dot(272, 244, 10, "#F8FAFC", SLATE, 1.6))
+    # condenser under the stage, on the light path
+    b.append(poly([(316, 280), (336, 280), (330, 296), (322, 296)], "#F8FAFC", SLATE, 1.6))
+    # lamp standing on the base
+    b.append(rect(314, 342, 24, 18, "#F8FAFC", SLATE, 2, 1.6))
+    b.append(dot(326, 330, 15, AMBER_LIGHT, AMBER, 1.8))
+
+    def lab(text, lx, ly, tx, ty, anchor):
+        b.append(t(lx, ly, text, size=9.0, fill=SLATE, anchor=anchor))
+        b.append(line(lx + (7 if anchor == "start" else -7), ly - 3, tx, ty, color=BORDER, sw=0.9))
+
+    lab("eyepiece — the lens you look through", 208, 58, 304, 62, "end")
+    lab("body tube", 208, 100, 298, 116, "end")
+    lab("coarse adjustment knob", 208, 202, 258, 206, "end")
+    lab("fine adjustment knob", 208, 244, 262, 244, "end")
+    lab("base", 208, 372, 226, 372, "end")
+
+    lab("arm — carry it by this", 482, 112, 448, 146, "start")
+    lab("objective lenses (×4, ×10, ×40)", 482, 208, 344, 220, "start")
+    lab("stage and clips", 482, 262, 460, 262, "start")
+    lab("condenser — focuses the light", 482, 296, 340, 288, "start")
+    lab("lamp or mirror", 482, 330, 344, 330, "start")
+
+    b.append(rect(24, 392, 672, 24, GREEN_LIGHT, GREEN, 6, 1.0))
+    b.append(t(360, 408, "Total magnification = eyepiece × objective. A ×10 eyepiece with a ×40 objective gives ×400.",
+               size=9.0, fill=SLATE))
+    write_svg("ch10_microscope.svg", svg(w, h, "\n".join(b)))
+
+
+def ch10_foodtests():
+    w, h = 720, 330
+    b = [t(360, 26, "THE FOUR FOOD TESTS — AND WHAT A POSITIVE RESULT LOOKS LIKE", size=12.4, weight="bold", fill=NAVY)]
+
+    tubes = [
+        ("STARCH", "iodine solution", "blue-black", NAVY, "#FFFFFF", "bread, yam, rice, potato"),
+        ("REDUCING SUGAR", "Benedict's solution + heat", "brick-red", RED, "#FFFFFF", "glucose, maltose, honey"),
+        ("PROTEIN", "Biuret solution", "purple", PURPLE, "#FFFFFF", "egg, beans, fish, milk"),
+        ("FAT", "emulsion test (ethanol + water)", "milky white", AMBER, "#F8FAFC", "groundnut, palm oil, butter"),
+    ]
+    for i, (name, reagent, result, col, swatch, food) in enumerate(tubes):
+        x = 30 + i * 172
+        b.append(rect(x, 48, 152, 232, "#FFFFFF", BORDER, 8, 1.2))
+        b.append(t(x + 76, 70, name, size=9.8, weight="bold", fill=col))
+        b.append(rect(x + 56, 84, 40, 74, "#FFFFFF", SLATE, 8, 1.6))
+        b.append(rect(x + 58, 122, 36, 34, col if name != "FAT" else "#F1F5F9", col, 6, 1.0))
+        b.append(t(x + 76, 172, reagent, size=8.2, fill=MUTED))
+        b.append(rect(x + 24, 186, 104, 26, "#FFFFFF" if name == "FAT" else col, col, 5, 1.4))
+        b.append(t(x + 76, 203, result, size=9.0, weight="bold",
+                   fill=col if name == "FAT" else "#FFFFFF"))
+        b.append(t(x + 76, 230, "found in", size=8.0, fill=MUTED))
+        b.append(t(x + 76, 244, food, size=8.4, fill=SLATE))
+
+    b.append(rect(24, 292, 672, 26, GREEN_LIGHT, GREEN, 6, 1.0))
+    b.append(t(360, 309, "Always use a water bath for Benedict's test — never a naked flame — and always compare with a tube of water as a control.",
+               size=8.8, fill=SLATE))
+    write_svg("ch10_foodtests.svg", svg(w, h, "\n".join(b)))
+
+
+def recap_cards_j():
+    recap_card("recap_ch10.svg", "Chapter 10 recap card — practical skills", [
+        ("Microscope", "Magnification = eyepiece × objective. Carry it by the arm; focus at low power first."),
+        ("Food tests", "Iodine for starch, Benedict's for reducing sugar, Biuret for protein, emulsion for fat."),
+        ("Variables", "Independent = what you change; dependent = what you measure; controlled = what you keep the same."),
+        ("Sampling", "Quadrat for plants, sweep net for insects, capture–recapture for mobile animals."),
+    ])
+
