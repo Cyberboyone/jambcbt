@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 300" width="680" height="300">
+  <defs>
+    <marker id="ag" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#008751"/>
+    </marker>
+    <marker id="an" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#0E1F40"/>
+    </marker>
+    <marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#D97706"/>
+    </marker>
+    <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#DC2626"/>
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="680" height="300" fill="#FFFFFF"/>
+<text x="340" y="20" font-family="DejaVu Sans" font-size="10.6" fill="#0E1F40" text-anchor="middle" font-weight="bold">THE TRANSFORMER: MORE TURNS, MORE VOLTS, LESS CURRENT</text>
+<rect x="14" y="34" width="360" height="252" rx="7" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="1.2"/>
+<text x="194" y="52" font-family="DejaVu Sans" font-size="9.0" fill="#008751" text-anchor="middle" font-weight="bold">TWO COILS ON ONE IRON CORE</text>
+<rect x="78" y="74" width="232" height="34" rx="3" fill="#E2E8F0" stroke="#334155" stroke-width="1.2"/>
+<rect x="78" y="158" width="232" height="34" rx="3" fill="#E2E8F0" stroke="#334155" stroke-width="1.2"/>
+<rect x="78" y="74" width="30" height="118" rx="3" fill="#E2E8F0" stroke="#334155" stroke-width="1.2"/>
+<rect x="280" y="74" width="30" height="118" rx="3" fill="#E2E8F0" stroke="#334155" stroke-width="1.2"/>
+<text x="194" y="134" font-family="DejaVu Sans" font-size="8.0" fill="#64748B" text-anchor="middle" font-weight="normal">iron core</text>
+<ellipse cx="93" cy="84" rx="26" ry="8" fill="none" stroke="#2563EB" stroke-width="2.0"/>
+<ellipse cx="93" cy="110" rx="26" ry="8" fill="none" stroke="#2563EB" stroke-width="2.0"/>
+<ellipse cx="93" cy="136" rx="26" ry="8" fill="none" stroke="#2563EB" stroke-width="2.0"/>
+<ellipse cx="93" cy="162" rx="26" ry="8" fill="none" stroke="#2563EB" stroke-width="2.0"/>
+<ellipse cx="295" cy="80" rx="26" ry="5" fill="none" stroke="#008751" stroke-width="1.7"/>
+<ellipse cx="295" cy="93" rx="26" ry="5" fill="none" stroke="#008751" stroke-width="1.7"/>
+<ellipse cx="295" cy="106" rx="26" ry="5" fill="none" stroke="#008751" stroke-width="1.7"/>
+<ellipse cx="295" cy="119" rx="26" ry="5" fill="none" stroke="#008751" stroke-width="1.7"/>
+<ellipse cx="295" cy="132" rx="26" ry="5" fill="none" stroke="#008751" stroke-width="1.7"/>
+<ellipse cx="295" cy="145" rx="26" ry="5" fill="none" stroke="#008751" stroke-width="1.7"/>
+<ellipse cx="295" cy="158" rx="26" ry="5" fill="none" stroke="#008751" stroke-width="1.7"/>
+<ellipse cx="295" cy="171" rx="26" ry="5" fill="none" stroke="#008751" stroke-width="1.7"/>
+<text x="93" y="216" font-family="DejaVu Sans" font-size="8.2" fill="#2563EB" text-anchor="middle" font-weight="bold">primary: 4 turns</text>
+<text x="93" y="230" font-family="DejaVu Sans" font-size="7.8" fill="#334155" text-anchor="middle" font-weight="normal">240 V a.c. in</text>
+<text x="295" y="216" font-family="DejaVu Sans" font-size="8.2" fill="#008751" text-anchor="middle" font-weight="bold">secondary: 8 turns</text>
+<text x="295" y="230" font-family="DejaVu Sans" font-size="7.8" fill="#334155" text-anchor="middle" font-weight="normal">480 V a.c. out</text>
+<text x="194" y="256" font-family="DejaVu Sans" font-size="7.9" fill="#0E1F40" text-anchor="middle" font-weight="normal">Step-up: twice the turns, twice the voltage.</text>
+<text x="194" y="270" font-family="DejaVu Sans" font-size="7.9" fill="#0E1F40" text-anchor="middle" font-weight="normal">The current is halved, because the power is the same.</text>
+<rect x="388" y="34" width="278" height="252" rx="7" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="1.2"/>
+<text x="527" y="52" font-family="DejaVu Sans" font-size="9.0" fill="#008751" text-anchor="middle" font-weight="bold">THE THREE LINES</text>
+<rect x="402" y="70" width="250" height="50" rx="5" fill="#F8FAFC" stroke="#CBD5E1" stroke-width="0.9"/>
+<text x="527" y="90" font-family="DejaVu Sans" font-size="9.6" fill="#0E1F40" text-anchor="middle" font-weight="bold">Vs / Vp = Ns / Np</text>
+<text x="527" y="108" font-family="DejaVu Sans" font-size="7.6" fill="#64748B" text-anchor="middle" font-weight="normal">turns ratio sets the voltage ratio</text>
+<rect x="402" y="128" width="250" height="50" rx="5" fill="#F8FAFC" stroke="#CBD5E1" stroke-width="0.9"/>
+<text x="527" y="148" font-family="DejaVu Sans" font-size="9.6" fill="#0E1F40" text-anchor="middle" font-weight="bold">Vs Is = Vp Ip</text>
+<text x="527" y="166" font-family="DejaVu Sans" font-size="7.6" fill="#64748B" text-anchor="middle" font-weight="normal">for 100 % efficiency: power in = power out</text>
+<rect x="402" y="186" width="250" height="50" rx="5" fill="#F8FAFC" stroke="#CBD5E1" stroke-width="0.9"/>
+<text x="527" y="206" font-family="DejaVu Sans" font-size="9.6" fill="#0E1F40" text-anchor="middle" font-weight="bold">Ns &gt; Np: step-up</text>
+<text x="527" y="224" font-family="DejaVu Sans" font-size="7.6" fill="#64748B" text-anchor="middle" font-weight="normal">fewer turns: step-down</text>
+<text x="527" y="258" font-family="DejaVu Sans" font-size="7.9" fill="#0E1F40" text-anchor="middle" font-weight="normal">Only a.c. works: a steady d.c. gives</text>
+<text x="527" y="272" font-family="DejaVu Sans" font-size="7.9" fill="#0E1F40" text-anchor="middle" font-weight="normal">no changing flux, so no induced e.m.f.</text>
+</svg>

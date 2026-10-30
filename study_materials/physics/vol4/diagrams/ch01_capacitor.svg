@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 660 292" width="660" height="292">
+  <defs>
+    <marker id="ag" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#008751"/>
+    </marker>
+    <marker id="an" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#0E1F40"/>
+    </marker>
+    <marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#D97706"/>
+    </marker>
+    <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#DC2626"/>
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="660" height="292" fill="#FFFFFF"/>
+<text x="330" y="20" font-family="DejaVu Sans" font-size="10.6" fill="#0E1F40" text-anchor="middle" font-weight="bold">A CAPACITOR STORES CHARGE ON TWO PLATES, NOT CURRENT</text>
+<rect x="14" y="34" width="318" height="244" rx="7" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="1.2"/>
+<text x="173" y="52" font-family="DejaVu Sans" font-size="9.0" fill="#008751" text-anchor="middle" font-weight="bold">TWO PLATES OF AREA A, d APART</text>
+<rect x="104" y="80" width="10" height="104" rx="2" fill="#DC2626" stroke="#DC2626" stroke-width="1.0"/>
+<rect x="244" y="80" width="10" height="104" rx="2" fill="#2563EB" stroke="#2563EB" stroke-width="1.0"/>
+<text x="109" y="70" font-family="DejaVu Sans" font-size="9.6" fill="#DC2626" text-anchor="middle" font-weight="bold">+Q</text>
+<text x="249" y="70" font-family="DejaVu Sans" font-size="9.6" fill="#2563EB" text-anchor="middle" font-weight="bold">−Q</text>
+<line x1="120" y1="96" x2="229.475" y2="96.0" stroke="#008751" stroke-width="1.2"/><polygon points="238.0,96.0 229.5,99.2 229.5,92.8" fill="#008751"/>
+<line x1="120" y1="124" x2="229.475" y2="124.0" stroke="#008751" stroke-width="1.2"/><polygon points="238.0,124.0 229.5,127.2 229.5,120.8" fill="#008751"/>
+<line x1="120" y1="152" x2="229.475" y2="152.0" stroke="#008751" stroke-width="1.2"/><polygon points="238.0,152.0 229.5,155.2 229.5,148.8" fill="#008751"/>
+<line x1="120" y1="180" x2="229.475" y2="180.0" stroke="#008751" stroke-width="1.2"/><polygon points="238.0,180.0 229.5,183.2 229.5,176.8" fill="#008751"/>
+<line x1="114" y1="198" x2="244" y2="198" stroke="#334155" stroke-width="1.0" stroke-dasharray="3 3"/>
+<line x1="179.0" y1="210" x2="120.975" y2="210.0" stroke="#334155" stroke-width="1.0"/><polygon points="114.0,210.0 121.0,207.4 121.0,212.6" fill="#334155"/>
+<line x1="179.0" y1="210" x2="237.025" y2="210.0" stroke="#334155" stroke-width="1.0"/><polygon points="244.0,210.0 237.0,212.6 237.0,207.4" fill="#334155"/>
+<text x="179.0" y="224" font-family="DejaVu Sans" font-size="9.4" fill="#334155" text-anchor="middle" font-weight="bold">d</text>
+<text x="173" y="246" font-family="DejaVu Sans" font-size="8.4" fill="#0E1F40" text-anchor="middle" font-weight="normal">Field E = V/d, uniform between the plates.</text>
+<text x="173" y="264" font-family="DejaVu Sans" font-size="8.2" fill="#64748B" text-anchor="middle" font-weight="normal">Equal and opposite charge +Q on each plate.</text>
+<rect x="344" y="34" width="302" height="244" rx="7" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="1.2"/>
+<text x="495" y="52" font-family="DejaVu Sans" font-size="9.0" fill="#008751" text-anchor="middle" font-weight="bold">THE THREE LINES TO KNOW</text>
+<rect x="358" y="74" width="274" height="56" rx="5" fill="#F8FAFC" stroke="#CBD5E1" stroke-width="1.0"/>
+<text x="370" y="91" font-family="DejaVu Sans" font-size="8.4" fill="#334155" text-anchor="start" font-weight="bold">Definition</text>
+<text x="478" y="104" font-family="DejaVu Sans" font-size="10.4" fill="#0E1F40" text-anchor="middle" font-weight="bold">C = Q / V</text>
+<text x="478" y="120" font-family="DejaVu Sans" font-size="7.8" fill="#64748B" text-anchor="middle" font-weight="normal">one farad = one coulomb per volt</text>
+<rect x="358" y="138" width="274" height="56" rx="5" fill="#F8FAFC" stroke="#CBD5E1" stroke-width="1.0"/>
+<text x="370" y="155" font-family="DejaVu Sans" font-size="8.4" fill="#334155" text-anchor="start" font-weight="bold">Geometry</text>
+<text x="478" y="168" font-family="DejaVu Sans" font-size="10.4" fill="#0E1F40" text-anchor="middle" font-weight="bold">C = ε₀εᵣA / d</text>
+<text x="478" y="184" font-family="DejaVu Sans" font-size="7.8" fill="#64748B" text-anchor="middle" font-weight="normal">bigger A or smaller d gives bigger C</text>
+<rect x="358" y="202" width="274" height="56" rx="5" fill="#F8FAFC" stroke="#CBD5E1" stroke-width="1.0"/>
+<text x="370" y="219" font-family="DejaVu Sans" font-size="8.4" fill="#334155" text-anchor="start" font-weight="bold">Energy stored</text>
+<text x="478" y="232" font-family="DejaVu Sans" font-size="10.4" fill="#0E1F40" text-anchor="middle" font-weight="bold">W = ½CV² = ½QV</text>
+<text x="478" y="248" font-family="DejaVu Sans" font-size="7.8" fill="#64748B" text-anchor="middle" font-weight="normal">the work done charging it</text>
+<text x="495" y="262" font-family="DejaVu Sans" font-size="8.2" fill="#0E1F40" text-anchor="middle" font-weight="normal">The dielectric raises C by εᵣ; at fixed Q the p.d. falls.</text>
+<text x="495" y="276" font-family="DejaVu Sans" font-size="8.2" fill="#64748B" text-anchor="middle" font-weight="normal">Charged, it blocks d.c. — and it passes a.c.</text>
+</svg>

@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 320" width="680" height="320">
+  <defs>
+    <marker id="ag" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#008751"/>
+    </marker>
+    <marker id="an" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#0E1F40"/>
+    </marker>
+    <marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#D97706"/>
+    </marker>
+    <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#DC2626"/>
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="680" height="320" fill="#FFFFFF"/>
+<text x="340" y="20" font-family="DejaVu Sans" font-size="10.6" fill="#0E1F40" text-anchor="middle" font-weight="bold">THREE FIELDS THE EXAMINER ASKS YOU TO DRAW</text>
+<rect x="14" y="34" width="214" height="262" rx="6" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="1.1"/>
+<text x="121.0" y="50" font-family="DejaVu Sans" font-size="8.4" fill="#0E1F40" text-anchor="middle" font-weight="bold">(a) A BAR MAGNET</text>
+<rect x="69" y="148" width="52" height="32" rx="2" fill="#FEE2E2" stroke="#DC2626" stroke-width="1.2"/>
+<rect x="121" y="148" width="52" height="32" rx="2" fill="#DBEAFE" stroke="#2563EB" stroke-width="1.2"/>
+<text x="95" y="169" font-family="DejaVu Sans" font-size="10" fill="#DC2626" text-anchor="middle" font-weight="bold">N</text>
+<text x="147" y="169" font-family="DejaVu Sans" font-size="10" fill="#2563EB" text-anchor="middle" font-weight="bold">S</text>
+<path d="M 69 150 C 25 118, 217 118, 173 150" fill="none" stroke="#008751" stroke-width="1.2" stroke-linecap="round"/>
+<line x1="111" y1="130.88" x2="122.83792084502356" y2="132.19532453833594" stroke="#008751" stroke-width="1.0"/><polygon points="129.0,132.9 122.6,134.5 123.1,129.9" fill="#008751"/>
+<path d="M 69 150 C 25 86, 217 86, 173 150" fill="none" stroke="#008751" stroke-width="1.2" stroke-linecap="round"/>
+<line x1="111" y1="107.84" x2="122.83792084502356" y2="109.15532453833596" stroke="#008751" stroke-width="1.0"/><polygon points="129.0,109.8 122.6,111.5 123.1,106.8" fill="#008751"/>
+<path d="M 69 178 C 25 210, 217 210, 173 178" fill="none" stroke="#008751" stroke-width="1.2" stroke-linecap="round"/>
+<line x1="131" y1="197.12" x2="142.83792084502358" y2="195.80467546166406" stroke="#008751" stroke-width="1.0"/><polygon points="149.0,195.1 143.1,198.1 142.6,193.5" fill="#008751"/>
+<path d="M 69 178 C 25 242, 217 242, 173 178" fill="none" stroke="#008751" stroke-width="1.2" stroke-linecap="round"/>
+<line x1="131" y1="220.16" x2="142.83792084502358" y2="218.84467546166405" stroke="#008751" stroke-width="1.0"/><polygon points="149.0,218.2 143.1,221.2 142.6,216.5" fill="#008751"/>
+<text x="121.0" y="248" font-family="DejaVu Sans" font-size="7.8" fill="#334155" text-anchor="middle" font-weight="normal">Lines leave N and enter S;</text>
+<text x="121.0" y="262" font-family="DejaVu Sans" font-size="7.8" fill="#334155" text-anchor="middle" font-weight="normal">they never cross.</text>
+<text x="121.0" y="282" font-family="DejaVu Sans" font-size="7.6" fill="#64748B" text-anchor="middle" font-weight="normal">Like poles repel.</text>
+<rect x="236" y="34" width="214" height="262" rx="6" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="1.1"/>
+<text x="343.0" y="50" font-family="DejaVu Sans" font-size="8.4" fill="#0E1F40" text-anchor="middle" font-weight="bold">(b) A STRAIGHT WIRE</text>
+<rect x="339.0" y="68" width="8" height="130" rx="3" fill="#94A3B8" stroke="#334155" stroke-width="1.0"/>
+<line x1="343.0" y1="190" x2="343.0" y2="200.7" stroke="#2563EB" stroke-width="1.6"/><polygon points="343.0,210.0 339.5,200.7 346.5,200.7" fill="#2563EB"/>
+<text x="355.0" y="206" font-family="DejaVu Sans" font-size="7.8" fill="#2563EB" text-anchor="start" font-weight="normal">current</text>
+<circle cx="343.0" cy="133" r="18" fill="none" stroke="#008751" stroke-width="1.2" stroke-dasharray="3 3"/>
+<line x1="358.0" y1="131" x2="357.94135724323036" y2="131.17592827030884" stroke="#008751" stroke-width="1.0"/><polygon points="360.0,125.0 360.3,131.9 355.6,130.4" fill="#008751"/>
+<circle cx="343.0" cy="133" r="34" fill="none" stroke="#008751" stroke-width="1.2" stroke-dasharray="3 3"/>
+<line x1="374.0" y1="131" x2="373.94135724323036" y2="131.17592827030884" stroke="#008751" stroke-width="1.0"/><polygon points="376.0,125.0 376.3,131.9 371.6,130.4" fill="#008751"/>
+<circle cx="343.0" cy="133" r="50" fill="none" stroke="#008751" stroke-width="1.2" stroke-dasharray="3 3"/>
+<line x1="390.0" y1="131" x2="389.94135724323036" y2="131.17592827030884" stroke="#008751" stroke-width="1.0"/><polygon points="392.0,125.0 392.3,131.9 387.6,130.4" fill="#008751"/>
+<text x="343.0" y="248" font-family="DejaVu Sans" font-size="7.8" fill="#334155" text-anchor="middle" font-weight="normal">Concentric circles; right-hand grip:</text>
+<text x="343.0" y="262" font-family="DejaVu Sans" font-size="7.8" fill="#334155" text-anchor="middle" font-weight="normal">thumb along current, fingers curl</text>
+<text x="343.0" y="276" font-family="DejaVu Sans" font-size="7.8" fill="#334155" text-anchor="middle" font-weight="normal">with the field.</text>
+<rect x="458" y="34" width="214" height="262" rx="6" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="1.1"/>
+<text x="565.0" y="50" font-family="DejaVu Sans" font-size="8.4" fill="#0E1F40" text-anchor="middle" font-weight="bold">(c) A SOLENOID</text>
+<ellipse cx="503.0" cy="144" rx="8" ry="46" fill="none" stroke="#334155" stroke-width="1.4"/>
+<ellipse cx="527.0" cy="144" rx="8" ry="46" fill="none" stroke="#334155" stroke-width="1.4"/>
+<ellipse cx="551.0" cy="144" rx="8" ry="46" fill="none" stroke="#334155" stroke-width="1.4"/>
+<ellipse cx="575.0" cy="144" rx="8" ry="46" fill="none" stroke="#334155" stroke-width="1.4"/>
+<ellipse cx="599.0" cy="144" rx="8" ry="46" fill="none" stroke="#334155" stroke-width="1.4"/>
+<ellipse cx="623.0" cy="144" rx="8" ry="46" fill="none" stroke="#334155" stroke-width="1.4"/>
+<line x1="487.0" y1="122" x2="472.75" y2="122.0" stroke="#008751" stroke-width="1.2"/><polygon points="465.0,122.0 472.8,119.1 472.8,124.9" fill="#008751"/>
+<line x1="665.0" y1="122" x2="650.75" y2="122.0" stroke="#008751" stroke-width="1.2"/><polygon points="643.0,122.0 650.8,119.1 650.8,124.9" fill="#008751"/>
+<line x1="487.0" y1="144" x2="472.75" y2="144.0" stroke="#008751" stroke-width="1.2"/><polygon points="465.0,144.0 472.8,141.1 472.8,146.9" fill="#008751"/>
+<line x1="665.0" y1="144" x2="650.75" y2="144.0" stroke="#008751" stroke-width="1.2"/><polygon points="643.0,144.0 650.8,141.1 650.8,146.9" fill="#008751"/>
+<line x1="487.0" y1="166" x2="472.75" y2="166.0" stroke="#008751" stroke-width="1.2"/><polygon points="465.0,166.0 472.8,163.1 472.8,168.9" fill="#008751"/>
+<line x1="665.0" y1="166" x2="650.75" y2="166.0" stroke="#008751" stroke-width="1.2"/><polygon points="643.0,166.0 650.8,163.1 650.8,168.9" fill="#008751"/>
+<text x="507.0" y="202" font-family="DejaVu Sans" font-size="8.6" fill="#DC2626" text-anchor="middle" font-weight="bold">N</text>
+<text x="623.0" y="202" font-family="DejaVu Sans" font-size="8.6" fill="#2563EB" text-anchor="middle" font-weight="bold">S</text>
+<text x="565.0" y="248" font-family="DejaVu Sans" font-size="7.8" fill="#334155" text-anchor="middle" font-weight="normal">A coil behaves like a bar magnet;</text>
+<text x="565.0" y="262" font-family="DejaVu Sans" font-size="7.8" fill="#334155" text-anchor="middle" font-weight="normal">more turns or more current,</text>
+<text x="565.0" y="276" font-family="DejaVu Sans" font-size="7.8" fill="#334155" text-anchor="middle" font-weight="normal">stronger field.</text>
+</svg>

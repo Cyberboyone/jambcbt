@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 300" width="680" height="300">
+  <defs>
+    <marker id="ag" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#008751"/>
+    </marker>
+    <marker id="an" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#0E1F40"/>
+    </marker>
+    <marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#D97706"/>
+    </marker>
+    <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#DC2626"/>
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="680" height="300" fill="#FFFFFF"/>
+<text x="340" y="20" font-family="DejaVu Sans" font-size="10.6" fill="#0E1F40" text-anchor="middle" font-weight="bold">MOVE A MAGNET NEAR A COIL AND YOU MAKE A VOLTAGE</text>
+<rect x="14" y="34" width="320" height="250" rx="7" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="1.2"/>
+<text x="174" y="52" font-family="DejaVu Sans" font-size="9.0" fill="#008751" text-anchor="middle" font-weight="bold">FARADAY'S EXPERIMENT</text>
+<ellipse cx="110" cy="140" rx="7" ry="40" fill="none" stroke="#334155" stroke-width="1.5"/>
+<ellipse cx="130" cy="140" rx="7" ry="40" fill="none" stroke="#334155" stroke-width="1.5"/>
+<ellipse cx="150" cy="140" rx="7" ry="40" fill="none" stroke="#334155" stroke-width="1.5"/>
+<ellipse cx="170" cy="140" rx="7" ry="40" fill="none" stroke="#334155" stroke-width="1.5"/>
+<ellipse cx="190" cy="140" rx="7" ry="40" fill="none" stroke="#334155" stroke-width="1.5"/>
+<text x="150" y="200" font-family="DejaVu Sans" font-size="8.0" fill="#334155" text-anchor="middle" font-weight="normal">coil</text>
+<rect x="40" y="128" width="44" height="24" rx="3" fill="#FEE2E2" stroke="#DC2626" stroke-width="1.2"/>
+<text x="62" y="144" font-family="DejaVu Sans" font-size="9" fill="#DC2626" text-anchor="middle" font-weight="bold">N</text>
+<line x1="88" y1="140" x2="107.15" y2="140.0" stroke="#008751" stroke-width="1.8"/><polygon points="118.0,140.0 107.2,144.1 107.2,135.9" fill="#008751"/>
+<text x="62" y="118" font-family="DejaVu Sans" font-size="7.8" fill="#334155" text-anchor="middle" font-weight="normal">magnet</text>
+<circle cx="258" cy="140" r="15" fill="#FFFFFF" stroke="#008751" stroke-width="1.4"/>
+<text x="258" y="144" font-family="DejaVu Sans" font-size="9.4" fill="#008751" text-anchor="middle" font-weight="bold">G</text>
+<line x1="194" y1="110" x2="258" y2="125" stroke="#334155" stroke-width="1.2"/>
+<line x1="194" y1="170" x2="258" y2="155" stroke="#334155" stroke-width="1.2"/>
+<text x="174" y="226" font-family="DejaVu Sans" font-size="8.0" fill="#0E1F40" text-anchor="middle" font-weight="normal">Move the magnet in: the needle deflects one way.</text>
+<text x="174" y="240" font-family="DejaVu Sans" font-size="8.0" fill="#0E1F40" text-anchor="middle" font-weight="normal">Hold it still: no deflection — no change, no e.m.f.</text>
+<text x="174" y="254" font-family="DejaVu Sans" font-size="8.0" fill="#0E1F40" text-anchor="middle" font-weight="normal">Pull it out: the needle deflects the other way.</text>
+<text x="174" y="272" font-family="DejaVu Sans" font-size="7.8" fill="#64748B" text-anchor="middle" font-weight="normal">Faster movement gives a bigger e.m.f.</text>
+<rect x="346" y="34" width="320" height="250" rx="7" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="1.2"/>
+<text x="506" y="52" font-family="DejaVu Sans" font-size="9.0" fill="#008751" text-anchor="middle" font-weight="bold">FARADAY'S AND LENZ'S LAWS</text>
+<rect x="360" y="74" width="292" height="40" rx="5" fill="#F8FAFC" stroke="#CBD5E1" stroke-width="0.9"/>
+<text x="372" y="90" font-family="DejaVu Sans" font-size="8.2" fill="#0E1F40" text-anchor="start" font-weight="bold">Faraday</text>
+<text x="372" y="105" font-family="DejaVu Sans" font-size="8.0" fill="#334155" text-anchor="start" font-weight="normal">e.m.f. ∝ rate of change of flux</text>
+<rect x="360" y="120" width="292" height="40" rx="5" fill="#F8FAFC" stroke="#CBD5E1" stroke-width="0.9"/>
+<text x="372" y="136" font-family="DejaVu Sans" font-size="8.2" fill="#0E1F40" text-anchor="start" font-weight="bold">Faraday, in symbols</text>
+<text x="372" y="151" font-family="DejaVu Sans" font-size="8.0" fill="#334155" text-anchor="start" font-weight="normal">E = −N ΔΦ / Δt</text>
+<rect x="360" y="166" width="292" height="40" rx="5" fill="#F8FAFC" stroke="#CBD5E1" stroke-width="0.9"/>
+<text x="372" y="182" font-family="DejaVu Sans" font-size="8.2" fill="#0E1F40" text-anchor="start" font-weight="bold">Lenz</text>
+<text x="372" y="197" font-family="DejaVu Sans" font-size="8.0" fill="#334155" text-anchor="start" font-weight="normal">the induced current opposes the change</text>
+<rect x="360" y="212" width="292" height="40" rx="5" fill="#F8FAFC" stroke="#CBD5E1" stroke-width="0.9"/>
+<text x="372" y="228" font-family="DejaVu Sans" font-size="8.2" fill="#0E1F40" text-anchor="start" font-weight="bold">Result</text>
+<text x="372" y="243" font-family="DejaVu Sans" font-size="8.0" fill="#334155" text-anchor="start" font-weight="normal">a generator turns motion into e.m.f.</text>
+<text x="506" y="268" font-family="DejaVu Sans" font-size="8.0" fill="#64748B" text-anchor="middle" font-weight="normal">Lenz's law is conservation of energy in disguise.</text>
+</svg>

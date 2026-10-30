@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 312" width="680" height="312">
+  <defs>
+    <marker id="ag" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#008751"/>
+    </marker>
+    <marker id="an" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#0E1F40"/>
+    </marker>
+    <marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#D97706"/>
+    </marker>
+    <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#DC2626"/>
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="680" height="312" fill="#FFFFFF"/>
+<text x="340" y="20" font-family="DejaVu Sans" font-size="10.6" fill="#0E1F40" text-anchor="middle" font-weight="bold">TWO WAYS TO PUT A CHARGE ON A BODY</text>
+<rect x="14" y="34" width="310" height="264" rx="7" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="1.2"/>
+<text x="169" y="52" font-family="DejaVu Sans" font-size="9.2" fill="#008751" text-anchor="middle" font-weight="bold">CHARGING BY FRICTION</text>
+<rect x="40" y="70" width="150" height="20" rx="3" fill="#CBD5E1" stroke="#334155" stroke-width="1.2"/>
+<text x="115" y="104" font-family="DejaVu Sans" font-size="8.4" fill="#334155" text-anchor="middle" font-weight="normal">polythene rod</text>
+<text x="60" y="66" font-family="DejaVu Sans" font-size="13" fill="#2563EB" text-anchor="middle" font-weight="bold">−</text>
+<text x="94" y="66" font-family="DejaVu Sans" font-size="13" fill="#2563EB" text-anchor="middle" font-weight="bold">−</text>
+<text x="128" y="66" font-family="DejaVu Sans" font-size="13" fill="#2563EB" text-anchor="middle" font-weight="bold">−</text>
+<text x="162" y="66" font-family="DejaVu Sans" font-size="13" fill="#2563EB" text-anchor="middle" font-weight="bold">−</text>
+<rect x="40" y="150" width="150" height="20" rx="3" fill="#FDE68A" stroke="#D97706" stroke-width="1.2"/>
+<text x="115" y="184" font-family="DejaVu Sans" font-size="8.4" fill="#334155" text-anchor="middle" font-weight="normal">silk cloth</text>
+<text x="60" y="146" font-family="DejaVu Sans" font-size="12" fill="#DC2626" text-anchor="middle" font-weight="bold">+</text>
+<text x="94" y="146" font-family="DejaVu Sans" font-size="12" fill="#DC2626" text-anchor="middle" font-weight="bold">+</text>
+<text x="128" y="146" font-family="DejaVu Sans" font-size="12" fill="#DC2626" text-anchor="middle" font-weight="bold">+</text>
+<text x="162" y="146" font-family="DejaVu Sans" font-size="12" fill="#DC2626" text-anchor="middle" font-weight="bold">+</text>
+<line x1="118" y1="140" x2="118.0" y2="128.85" stroke="#008751" stroke-width="1.6"/><polygon points="118.0,118.0 122.1,128.8 113.9,128.8" fill="#008751"/>
+<text x="196" y="132" font-family="DejaVu Sans" font-size="8.2" fill="#008751" text-anchor="start" font-weight="normal">electrons</text>
+<text x="196" y="144" font-family="DejaVu Sans" font-size="8.2" fill="#008751" text-anchor="start" font-weight="normal">move up</text>
+<text x="169" y="214" font-family="DejaVu Sans" font-size="8.6" fill="#0E1F40" text-anchor="middle" font-weight="normal">Equal and opposite charges appear:</text>
+<text x="169" y="228" font-family="DejaVu Sans" font-size="8.6" fill="#0E1F40" text-anchor="middle" font-weight="normal">the rod gains −, the cloth gains +.</text>
+<text x="169" y="252" font-family="DejaVu Sans" font-size="8.4" fill="#64748B" text-anchor="middle" font-weight="normal">Only electrons move. Protons</text>
+<text x="169" y="265" font-family="DejaVu Sans" font-size="8.4" fill="#64748B" text-anchor="middle" font-weight="normal">never leave the nucleus.</text>
+<rect x="336" y="34" width="330" height="264" rx="7" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="1.2"/>
+<text x="501" y="52" font-family="DejaVu Sans" font-size="9.2" fill="#008751" text-anchor="middle" font-weight="bold">CHARGING BY INDUCTION</text>
+<circle cx="500" cy="118" r="30" fill="#F1F5F9" stroke="#334155" stroke-width="1.5"/>
+<rect x="497" y="148" width="6" height="26" rx="2" fill="#94A3B8" stroke="#94A3B8" stroke-width="1.0"/>
+<rect x="474" y="174" width="52" height="7" rx="2" fill="#94A3B8" stroke="#94A3B8" stroke-width="1.0"/>
+<text x="500" y="200" font-family="DejaVu Sans" font-size="8.2" fill="#334155" text-anchor="middle" font-weight="normal">metal sphere on an insulating stand</text>
+<rect x="352" y="110" width="54" height="16" rx="3" fill="#CBD5E1" stroke="#334155" stroke-width="1.2"/>
+<text x="364" y="106" font-family="DejaVu Sans" font-size="12" fill="#2563EB" text-anchor="middle" font-weight="bold">−</text>
+<text x="380" y="106" font-family="DejaVu Sans" font-size="12" fill="#2563EB" text-anchor="middle" font-weight="bold">−</text>
+<text x="396" y="106" font-family="DejaVu Sans" font-size="12" fill="#2563EB" text-anchor="middle" font-weight="bold">−</text>
+<line x1="410" y1="118" x2="433.15" y2="118.0" stroke="#DC2626" stroke-width="1.6"/><polygon points="444.0,118.0 433.1,122.1 433.1,113.9" fill="#DC2626"/>
+<text x="392" y="146" font-family="DejaVu Sans" font-size="8.2" fill="#334155" text-anchor="middle" font-weight="normal">charged rod</text>
+<text x="486" y="123" font-family="DejaVu Sans" font-size="12" fill="#DC2626" text-anchor="middle" font-weight="bold">+</text>
+<text x="510" y="123" font-family="DejaVu Sans" font-size="13" fill="#2563EB" text-anchor="middle" font-weight="bold">−</text>
+<line x1="560" y1="118" x2="600" y2="118" stroke="#334155" stroke-width="1.6"/>
+<line x1="600" y1="118" x2="600.0" y2="139.15" stroke="#334155" stroke-width="1.6"/><polygon points="600.0,150.0 595.9,139.2 604.1,139.2" fill="#334155"/>
+<text x="614" y="140" font-family="DejaVu Sans" font-size="8.2" fill="#334155" text-anchor="start" font-weight="normal">earth</text>
+<text x="580" y="100" font-family="DejaVu Sans" font-size="8.2" fill="#008751" text-anchor="middle" font-weight="normal">electrons</text>
+<text x="580" y="88" font-family="DejaVu Sans" font-size="8.2" fill="#008751" text-anchor="middle" font-weight="normal">leave</text>
+<text x="501" y="214" font-family="DejaVu Sans" font-size="8.6" fill="#0E1F40" text-anchor="middle" font-weight="normal">Earth the far side, remove the rod,</text>
+<text x="501" y="228" font-family="DejaVu Sans" font-size="8.6" fill="#0E1F40" text-anchor="middle" font-weight="normal">and the sphere is left positively</text>
+<text x="501" y="242" font-family="DejaVu Sans" font-size="8.6" fill="#0E1F40" text-anchor="middle" font-weight="normal">charged — with no contact at all.</text>
+<text x="501" y="268" font-family="DejaVu Sans" font-size="8.4" fill="#64748B" text-anchor="middle" font-weight="normal">The rod never loses any charge.</text>
+</svg>

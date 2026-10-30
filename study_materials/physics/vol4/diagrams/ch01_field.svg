@@ -1,0 +1,100 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 330" width="680" height="330">
+  <defs>
+    <marker id="ag" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#008751"/>
+    </marker>
+    <marker id="an" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#0E1F40"/>
+    </marker>
+    <marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#D97706"/>
+    </marker>
+    <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#DC2626"/>
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="680" height="330" fill="#FFFFFF"/>
+<text x="340" y="20" font-family="DejaVu Sans" font-size="10.6" fill="#0E1F40" text-anchor="middle" font-weight="bold">FIELD LINES SHOW THE FORCE A POSITIVE CHARGE WOULD FEEL</text>
+<rect x="14" y="34" width="214" height="138" rx="6" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="1.1"/>
+<text x="121.0" y="50" font-family="DejaVu Sans" font-size="8.4" fill="#0E1F40" text-anchor="middle" font-weight="bold">(a) positive charge: lines out</text>
+<circle cx="121.0" cy="109.0" r="7" fill="#DC2626"/>
+<line x1="133.0" y1="109.0" x2="154.475" y2="109.0" stroke="#008751" stroke-width="1.3"/><polygon points="163.0,109.0 154.5,112.2 154.5,105.8" fill="#008751"/>
+<line x1="129.48528137423858" y1="117.48528137423857" x2="144.6703995002197" y2="132.6703995002197" stroke="#008751" stroke-width="1.3"/><polygon points="150.7,138.7 142.4,134.9 146.9,130.4" fill="#008751"/>
+<line x1="121.0" y1="121.0" x2="121.0" y2="142.475" stroke="#008751" stroke-width="1.3"/><polygon points="121.0,151.0 117.8,142.5 124.2,142.5" fill="#008751"/>
+<line x1="112.51471862576143" y1="117.48528137423857" x2="97.32960049978033" y2="132.67039950021967" stroke="#008751" stroke-width="1.3"/><polygon points="91.3,138.7 95.1,130.4 99.6,134.9" fill="#008751"/>
+<line x1="109.0" y1="109.0" x2="87.525" y2="109.0" stroke="#008751" stroke-width="1.3"/><polygon points="79.0,109.0 87.5,105.8 87.5,112.2" fill="#008751"/>
+<line x1="112.51471862576143" y1="100.51471862576143" x2="97.32960049978031" y2="85.32960049978033" stroke="#008751" stroke-width="1.3"/><polygon points="91.3,79.3 99.6,83.1 95.1,87.6" fill="#008751"/>
+<line x1="121.0" y1="97.0" x2="120.99999999999999" y2="75.525" stroke="#008751" stroke-width="1.3"/><polygon points="121.0,67.0 124.2,75.5 117.8,75.5" fill="#008751"/>
+<line x1="129.48528137423858" y1="100.51471862576143" x2="144.67039950021967" y2="85.32960049978031" stroke="#008751" stroke-width="1.3"/><polygon points="150.7,79.3 146.9,87.6 142.4,83.1" fill="#008751"/>
+<rect x="236" y="34" width="214" height="138" rx="6" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="1.1"/>
+<text x="343.0" y="50" font-family="DejaVu Sans" font-size="8.4" fill="#0E1F40" text-anchor="middle" font-weight="bold">(b) negative charge: lines in</text>
+<circle cx="343.0" cy="109.0" r="7" fill="#2563EB"/>
+<line x1="385.0" y1="109.0" x2="363.525" y2="109.0" stroke="#008751" stroke-width="1.3"/><polygon points="355.0,109.0 363.5,105.8 363.5,112.2" fill="#008751"/>
+<line x1="372.698484809835" y1="138.698484809835" x2="357.5133666838539" y2="123.51336668385389" stroke="#008751" stroke-width="1.3"/><polygon points="351.5,117.5 359.8,121.3 355.3,125.8" fill="#008751"/>
+<line x1="343.0" y1="151.0" x2="343.0" y2="129.525" stroke="#008751" stroke-width="1.3"/><polygon points="343.0,121.0 346.2,129.5 339.8,129.5" fill="#008751"/>
+<line x1="313.301515190165" y1="138.698484809835" x2="328.4866333161461" y2="123.51336668385389" stroke="#008751" stroke-width="1.3"/><polygon points="334.5,117.5 330.7,125.8 326.2,121.3" fill="#008751"/>
+<line x1="301.0" y1="109.0" x2="322.475" y2="109.0" stroke="#008751" stroke-width="1.3"/><polygon points="331.0,109.0 322.5,112.2 322.5,105.8" fill="#008751"/>
+<line x1="313.301515190165" y1="79.301515190165" x2="328.4866333161461" y2="94.48663331614611" stroke="#008751" stroke-width="1.3"/><polygon points="334.5,100.5 326.2,96.7 330.7,92.2" fill="#008751"/>
+<line x1="343.0" y1="67.0" x2="343.0" y2="88.475" stroke="#008751" stroke-width="1.3"/><polygon points="343.0,97.0 339.8,88.5 346.2,88.5" fill="#008751"/>
+<line x1="372.698484809835" y1="79.30151519016499" x2="357.5133666838539" y2="94.48663331614611" stroke="#008751" stroke-width="1.3"/><polygon points="351.5,100.5 355.3,92.2 359.8,96.7" fill="#008751"/>
+<rect x="458" y="34" width="214" height="138" rx="6" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="1.1"/>
+<text x="565.0" y="50" font-family="DejaVu Sans" font-size="8.4" fill="#0E1F40" text-anchor="middle" font-weight="bold">(c) unlike pair: attraction</text>
+<circle cx="519.0" cy="109.0" r="7" fill="#DC2626"/>
+<circle cx="611.0" cy="109.0" r="7" fill="#2563EB"/>
+<line x1="528.0" y1="95.0" x2="594.25" y2="95.0" stroke="#008751" stroke-width="1.2"/><polygon points="602.0,95.0 594.2,97.9 594.2,92.1" fill="#008751"/>
+<line x1="528.0" y1="109.0" x2="594.25" y2="109.0" stroke="#008751" stroke-width="1.2"/><polygon points="602.0,109.0 594.2,111.9 594.2,106.1" fill="#008751"/>
+<line x1="528.0" y1="123.0" x2="594.25" y2="123.0" stroke="#008751" stroke-width="1.2"/><polygon points="602.0,123.0 594.2,125.9 594.2,120.1" fill="#008751"/>
+<path d="M 519.0 93.0 C 533.0 67.0, 597.0 67.0, 611.0 93.0" fill="none" stroke="#008751" stroke-width="1.1" stroke-linecap="round"/>
+<path d="M 519.0 125.0 C 533.0 151.0, 597.0 151.0, 611.0 125.0" fill="none" stroke="#008751" stroke-width="1.1" stroke-linecap="round"/>
+<path d="M 519.0 83.0 C 533.0 49.0, 597.0 49.0, 611.0 83.0" fill="none" stroke="#008751" stroke-width="1.1" stroke-linecap="round"/>
+<path d="M 519.0 135.0 C 533.0 169.0, 597.0 169.0, 611.0 135.0" fill="none" stroke="#008751" stroke-width="1.1" stroke-linecap="round"/>
+<path d="M 519.0 75.0 C 533.0 35.0, 597.0 35.0, 611.0 75.0" fill="none" stroke="#008751" stroke-width="1.1" stroke-linecap="round"/>
+<path d="M 519.0 143.0 C 533.0 183.0, 597.0 183.0, 611.0 143.0" fill="none" stroke="#008751" stroke-width="1.1" stroke-linecap="round"/>
+<rect x="14" y="186" width="214" height="138" rx="6" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="1.1"/>
+<text x="121.0" y="202" font-family="DejaVu Sans" font-size="8.4" fill="#0E1F40" text-anchor="middle" font-weight="bold">(d) like pair: repulsion</text>
+<circle cx="81.0" cy="261.0" r="7" fill="#DC2626"/>
+<circle cx="161.0" cy="261.0" r="7" fill="#DC2626"/>
+<path d="M 89.0 255.0 C 111.0 215.0, 131.0 215.0, 153.0 255.0" fill="none" stroke="#008751" stroke-width="1.2" stroke-linecap="round"/>
+<line x1="81.0" y1="249.0" x2="61.37198948523928" y2="235.4113773359349" stroke="#008751" stroke-width="1.2"/><polygon points="55.0,231.0 63.0,233.0 59.7,237.8" fill="#008751"/>
+<line x1="161.0" y1="249.0" x2="180.62801051476072" y2="235.4113773359349" stroke="#008751" stroke-width="1.2"/><polygon points="187.0,231.0 182.3,237.8 179.0,233.0" fill="#008751"/>
+<line x1="81.0" y1="273.0" x2="61.37198948523928" y2="286.5886226640651" stroke="#008751" stroke-width="1.2"/><polygon points="55.0,291.0 59.7,284.2 63.0,289.0" fill="#008751"/>
+<line x1="161.0" y1="273.0" x2="180.62801051476072" y2="286.5886226640651" stroke="#008751" stroke-width="1.2"/><polygon points="187.0,291.0 179.0,289.0 182.3,284.2" fill="#008751"/>
+<rect x="236" y="186" width="214" height="138" rx="6" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="1.1"/>
+<text x="343.0" y="202" font-family="DejaVu Sans" font-size="8.4" fill="#0E1F40" text-anchor="middle" font-weight="bold">(e) uniform field between plates</text>
+<rect x="281.0" y="219.0" width="124" height="8" rx="2" fill="#DC2626" stroke="#DC2626" stroke-width="1.0"/>
+<rect x="281.0" y="295.0" width="124" height="8" rx="2" fill="#2563EB" stroke="#2563EB" stroke-width="1.0"/>
+<text x="265.0" y="225.0" font-family="DejaVu Sans" font-size="11" fill="#DC2626" text-anchor="end" font-weight="bold">+</text>
+<text x="265.0" y="304.0" font-family="DejaVu Sans" font-size="12" fill="#2563EB" text-anchor="end" font-weight="bold">−</text>
+<line x1="295.0" y1="230.0" x2="295.0" y2="283.475" stroke="#008751" stroke-width="1.2"/><polygon points="295.0,292.0 291.8,283.5 298.2,283.5" fill="#008751"/>
+<line x1="319.0" y1="230.0" x2="319.0" y2="283.475" stroke="#008751" stroke-width="1.2"/><polygon points="319.0,292.0 315.8,283.5 322.2,283.5" fill="#008751"/>
+<line x1="343.0" y1="230.0" x2="343.0" y2="283.475" stroke="#008751" stroke-width="1.2"/><polygon points="343.0,292.0 339.8,283.5 346.2,283.5" fill="#008751"/>
+<line x1="367.0" y1="230.0" x2="367.0" y2="283.475" stroke="#008751" stroke-width="1.2"/><polygon points="367.0,292.0 363.8,283.5 370.2,283.5" fill="#008751"/>
+<line x1="391.0" y1="230.0" x2="391.0" y2="283.475" stroke="#008751" stroke-width="1.2"/><polygon points="391.0,292.0 387.8,283.5 394.2,283.5" fill="#008751"/>
+<rect x="458" y="186" width="214" height="138" rx="6" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="1.1"/>
+<text x="565.0" y="202" font-family="DejaVu Sans" font-size="8.4" fill="#0E1F40" text-anchor="middle" font-weight="bold">(f) crowded lines = strong field</text>
+<circle cx="565.0" cy="261.0" r="7" fill="#DC2626"/>
+<circle cx="581.0" cy="261.0" r="2.0" fill="#008751"/>
+<circle cx="595.0" cy="261.0" r="2.0" fill="#008751"/>
+<circle cx="609.0" cy="261.0" r="2.0" fill="#008751"/>
+<line x1="577.0" y1="261.0" x2="606.475" y2="261.0" stroke="#008751" stroke-width="1.2"/><polygon points="615.0,261.0 606.5,264.2 606.5,257.8" fill="#008751"/>
+<circle cx="573.0" cy="274.856406460551" r="2.0" fill="#008751"/>
+<circle cx="580.0" cy="286.98076211353316" r="2.0" fill="#008751"/>
+<circle cx="587.0" cy="299.1051177665153" r="2.0" fill="#008751"/>
+<line x1="571.0" y1="271.39230484541326" x2="585.7375" y2="296.9184036219596" stroke="#008751" stroke-width="1.2"/><polygon points="590.0,304.3 583.0,298.5 588.5,295.3" fill="#008751"/>
+<circle cx="557.0" cy="274.856406460551" r="2.0" fill="#008751"/>
+<circle cx="550.0" cy="286.98076211353316" r="2.0" fill="#008751"/>
+<circle cx="543.0" cy="299.1051177665153" r="2.0" fill="#008751"/>
+<line x1="559.0" y1="271.39230484541326" x2="544.2625" y2="296.9184036219596" stroke="#008751" stroke-width="1.2"/><polygon points="540.0,304.3 541.5,295.3 547.0,298.5" fill="#008751"/>
+<circle cx="549.0" cy="261.0" r="2.0" fill="#008751"/>
+<circle cx="535.0" cy="261.0" r="2.0" fill="#008751"/>
+<circle cx="521.0" cy="261.0" r="2.0" fill="#008751"/>
+<line x1="553.0" y1="261.0" x2="523.525" y2="261.0" stroke="#008751" stroke-width="1.2"/><polygon points="515.0,261.0 523.5,257.8 523.5,264.2" fill="#008751"/>
+<circle cx="557.0" cy="247.143593539449" r="2.0" fill="#008751"/>
+<circle cx="550.0" cy="235.01923788646684" r="2.0" fill="#008751"/>
+<circle cx="543.0" cy="222.8948822334847" r="2.0" fill="#008751"/>
+<line x1="559.0" y1="250.60769515458674" x2="544.2625" y2="225.08159637804042" stroke="#008751" stroke-width="1.2"/><polygon points="540.0,217.7 547.0,223.5 541.5,226.7" fill="#008751"/>
+<circle cx="573.0" cy="247.14359353944897" r="2.0" fill="#008751"/>
+<circle cx="580.0" cy="235.01923788646684" r="2.0" fill="#008751"/>
+<circle cx="587.0" cy="222.8948822334847" r="2.0" fill="#008751"/>
+<line x1="571.0" y1="250.60769515458674" x2="585.7375" y2="225.08159637804042" stroke="#008751" stroke-width="1.2"/><polygon points="590.0,217.7 588.5,226.7 583.0,223.5" fill="#008751"/>
+</svg>
