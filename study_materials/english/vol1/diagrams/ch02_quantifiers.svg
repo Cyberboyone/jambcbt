@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 253" width="760" height="253">
+  <defs>
+    <marker id="ag" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#008751"/>
+    </marker>
+    <marker id="an" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#0E1F40"/>
+    </marker>
+    <marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#D97706"/>
+    </marker>
+    <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#DC2626"/>
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="760" height="253" fill="#FFFFFF"/>
+<text x="380.0" y="26" font-family="DejaVu Sans" font-size="12.6" fill="#0E1F40" text-anchor="middle" font-weight="bold">Six subjects that decide the verb for you</text>
+<rect x="12.0" y="38.0" width="240.0" height="83.536" rx="7" fill="#FFFFFF" stroke="#008751" stroke-width="1.3"/>
+<rect x="12.0" y="38.0" width="240.0" height="4.5" rx="2" fill="#008751" stroke="#008751" stroke-width="0"/>
+<text x="22.0" y="59.0" font-family="DejaVu Sans" font-size="9.8" fill="#0E1F40" text-anchor="start" font-weight="bold">A fraction or per cent</text>
+<text x="22.0" y="75.4" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="start" font-weight="normal">Two thirds of the land is; two thirds of the</text>
+<text x="22.0" y="87.912" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="start" font-weight="normal">students are. The verb follows the noun after</text>
+<text x="22.0" y="100.424" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="start" font-weight="normal">of.</text>
+<rect x="260.0" y="38.0" width="240.0" height="83.536" rx="7" fill="#FFFFFF" stroke="#008751" stroke-width="1.3"/>
+<rect x="260.0" y="38.0" width="240.0" height="4.5" rx="2" fill="#008751" stroke="#008751" stroke-width="0"/>
+<text x="270.0" y="59.0" font-family="DejaVu Sans" font-size="9.8" fill="#0E1F40" text-anchor="start" font-weight="bold">Collective noun</text>
+<text x="270.0" y="75.4" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="start" font-weight="normal">The team is winning (as one body); the team</text>
+<text x="270.0" y="87.912" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="start" font-weight="normal">are arguing (as individuals). JAMB prefers the</text>
+<text x="270.0" y="100.424" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="start" font-weight="normal">singular.</text>
+<rect x="508.0" y="38.0" width="240.0" height="83.536" rx="7" fill="#FFFFFF" stroke="#008751" stroke-width="1.3"/>
+<rect x="508.0" y="38.0" width="240.0" height="4.5" rx="2" fill="#008751" stroke="#008751" stroke-width="0"/>
+<text x="518.0" y="59.0" font-family="DejaVu Sans" font-size="9.8" fill="#0E1F40" text-anchor="start" font-weight="bold">each, every, either, neither</text>
+<text x="518.0" y="75.4" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="start" font-weight="normal">Always singular: each of the boys has a book.</text>
+<text x="518.0" y="87.912" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="start" font-weight="normal">The of phrase changes nothing.</text>
+<rect x="12.0" y="129.536" width="240.0" height="83.536" rx="7" fill="#FFFFFF" stroke="#008751" stroke-width="1.3"/>
+<rect x="12.0" y="129.536" width="240.0" height="4.5" rx="2" fill="#008751" stroke="#008751" stroke-width="0"/>
+<text x="22.0" y="150.536" font-family="DejaVu Sans" font-size="9.8" fill="#0E1F40" text-anchor="start" font-weight="bold">A number of / the number of</text>
+<text x="22.0" y="166.936" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="start" font-weight="normal">A number of students are; the number of</text>
+<text x="22.0" y="179.448" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="start" font-weight="normal">students is. Two phrases, two verbs.</text>
+<rect x="260.0" y="129.536" width="240.0" height="83.536" rx="7" fill="#FFFFFF" stroke="#008751" stroke-width="1.3"/>
+<rect x="260.0" y="129.536" width="240.0" height="4.5" rx="2" fill="#008751" stroke="#008751" stroke-width="0"/>
+<text x="270.0" y="150.536" font-family="DejaVu Sans" font-size="9.8" fill="#0E1F40" text-anchor="start" font-weight="bold">Police, cattle, people</text>
+<text x="270.0" y="166.936" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="start" font-weight="normal">Always plural: the police are here, the cattle</text>
+<text x="270.0" y="179.448" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="start" font-weight="normal">are grazing.</text>
+<rect x="508.0" y="129.536" width="240.0" height="83.536" rx="7" fill="#FFFFFF" stroke="#008751" stroke-width="1.3"/>
+<rect x="508.0" y="129.536" width="240.0" height="4.5" rx="2" fill="#008751" stroke="#008751" stroke-width="0"/>
+<text x="518.0" y="150.536" font-family="DejaVu Sans" font-size="9.8" fill="#0E1F40" text-anchor="start" font-weight="bold">News, physics, mathematics</text>
+<text x="518.0" y="166.936" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="start" font-weight="normal">Singular despite the -s: the news is good,</text>
+<text x="518.0" y="179.448" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="start" font-weight="normal">physics is hard.</text>
+<text x="380.0" y="230.072" font-family="DejaVu Sans" font-size="9.0" fill="#64748B" text-anchor="middle" font-weight="normal">If the subject can be replaced by it, the verb is singular; if it can be replaced by they, the verb is plural. That single test settles most concord questions.</text>
+<rect x="12" y="10" width="736" height="238.672" rx="9" fill="none" stroke="#008751" stroke-width="1.4"/>
+</svg>

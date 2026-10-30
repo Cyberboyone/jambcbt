@@ -1,0 +1,248 @@
+"""Drill bank — Use of English Volume 1, Chapter 1 (word classes).
+
+Each item is (stem, [A, B, C, D], index_of_correct_option, solution). The
+solution accounts for every option, not only the key.
+"""
+
+DRILL_1 = [
+    (
+        "The word *courage* in the sentence “Courage is a rare quality” is",
+        ["a common noun", "an abstract noun", "a collective noun", "an adjective"],
+        1,
+        "B — courage names a quality, which is an abstract noun. A common noun names a class of visible thing (boy, city); a collective noun names a group (team, jury); an adjective would describe a noun, and here courage is the noun itself.",
+    ),
+    (
+        "Which of the following is NOT an adverb?",
+        ["quickly", "hardly", "friendly", "well"],
+        2,
+        "C — friendly ends in -ly but describes a noun (a friendly teacher), so it is an adjective. Quickly modifies a verb, hardly means almost not, and well is the adverb of good.",
+    ),
+    (
+        "In the sentence “She has written three letters”, the word *written* is",
+        ["the past tense", "the present participle", "the base form", "the past participle"],
+        3,
+        "D — after the auxiliary has, the verb must be the past participle: write, wrote, written. The past tense wrote cannot follow has; the present participle is writing; the base form is write.",
+    ),
+    (
+        "The plural of *criterion* is",
+        ["criteria", "criterias", "criterions", "criterion"],
+        0,
+        "A — criterion is a Greek borrowing that keeps its Greek plural, criteria. Criterias and criterions are invented forms, and criterion is the singular.",
+    ),
+    (
+        "Complete the sentence: “The teacher gave us some useful ___.”",
+        ["advice", "advices", "advise", "advises"],
+        0,
+        "A — advice is a mass noun and has no plural. Advices does not exist in standard English; advise and advises are verbs, and the frame some useful needs a noun.",
+    ),
+    (
+        "The plural of *phenomenon* is",
+        ["phenomenons", "phenomena", "phenomenae", "phenomenon"],
+        1,
+        "B — phenomenon keeps its Greek plural, phenomena. Phenomenons is a common error, phenomenae mixes Greek with a Latin ending, and phenomenon is singular.",
+    ),
+    (
+        "“Between you and ___, the plan will fail.”",
+        ["I", "me", "myself", "we"],
+        1,
+        "B — between is a preposition, and a preposition is followed by the object form, so me. I is the subject form; myself is reflexive and needs the same person as the subject; we is a subject form.",
+    ),
+    (
+        "“My brother and ___ went to the market.”",
+        ["me", "myself", "I", "mine"],
+        2,
+        "C — the pronoun is part of the subject of went, so the subject form I is required. Me is the object form, myself is reflexive, and mine is possessive.",
+    ),
+    (
+        "“By the time we arrived, the meeting had ___.”",
+        ["began", "begun", "begin", "begins"],
+        1,
+        "B — the three forms are begin, began, begun, and after had the participle begun is required. Began is the past tense; begin is the base form; begins is present tense.",
+    ),
+    (
+        "“She sings ___.”",
+        ["beautiful", "beautifully", "beauty", "beautify"],
+        1,
+        "B — sings is an action verb and needs an adverb of manner, beautifully. Beautiful is an adjective, beauty a noun, and beautify a verb.",
+    ),
+    (
+        "“The soup tastes ___.”",
+        ["well", "good", "goodly", "better than"],
+        1,
+        "B — taste is a linking verb here, so the word after it describes the soup and must be an adjective: good. Well is the adverb; goodly is archaic and means considerable; better than needs a second term of comparison.",
+    ),
+    (
+        "Identify the preposition in the sentence “The book lies under the table.”",
+        ["book", "lies", "under", "table"],
+        2,
+        "C — under shows the relation between the book and the table, which is the work of a preposition. Book and table are nouns, and lies is the verb.",
+    ),
+    (
+        "Which of these words is a conjunction?",
+        ["despite", "because", "under", "quickly"],
+        1,
+        "B — because introduces a dependent clause and joins it to a main clause. Despite is a preposition, under is a preposition, and quickly is an adverb.",
+    ),
+    (
+        "The word *alas* belongs to which class?",
+        ["conjunction", "interjection", "adverb", "preposition"],
+        1,
+        "B — alas expresses sudden feeling and stands outside the grammar of the sentence, which is the mark of an interjection. It is not a conjunction, an adverb of manner or a preposition.",
+    ),
+    (
+        "The plural of *analysis* is",
+        ["analysises", "analyses", "analysi", "analysis"],
+        1,
+        "B — analysis is Greek and forms its plural by changing -is to -es: analyses. Analysises is a regularised error, analysi does not exist, and analysis is singular.",
+    ),
+    (
+        "The toys belonging to the children were broken. Choose the correct possessive form.",
+        ["the childrens' toys", "the children's toys", "the childrens toys", "the children's' toys"],
+        1,
+        "B — children is an irregular plural that does not end in -s, so it takes 's. Childrens' assumes a plural childrens that does not exist, and the third option has no apostrophe at all.",
+    ),
+    (
+        "In which sentence is *book* used as a verb?",
+        ["The book is on the table.", "I bought a new book.", "Book a seat for me.", "The book cover is torn."],
+        2,
+        "C — in Book a seat, the word carries the command and could take a tense (he booked a seat), which is what a verb does. In A and B it is a noun; in D it describes cover, which is an adjective's job.",
+    ),
+    (
+        "Which of these is a mass noun?",
+        ["chair", "furniture", "bench", "stool"],
+        1,
+        "B — furniture has no plural and takes no a or an; to count it you say an item of furniture. Chair, bench and stool are count nouns with regular plurals.",
+    ),
+    (
+        "The plural of *datum* is",
+        ["datums", "data", "datae", "datum"],
+        1,
+        "B — datum is Latin and its plural is data, now usually treated as a singular mass noun in everyday use. Datums is a technical form, datae does not exist, and datum is singular.",
+    ),
+    (
+        "“The prize was given to ___.”",
+        ["he", "him", "himself", "his"],
+        1,
+        "B — to is a preposition, so the object form him is required. He is the subject form, himself is reflexive, and his is possessive.",
+    ),
+    (
+        "Which of these verbs is intransitive?",
+        ["kick", "carry", "sleep", "build"],
+        2,
+        "C — sleep takes no object: you cannot sleep something, so the verb is intransitive. Kick, carry and build all take objects and can therefore be made passive.",
+    ),
+    (
+        "The possessive form of *James* is",
+        ["James'", "James's", "James", "Jame's"],
+        1,
+        "B — a singular name ending in -s normally takes 's: James's pen. James' is an older style, James has no apostrophe at all, and Jame's misspells the name.",
+    ),
+    (
+        "Which of these is NOT a pronoun?",
+        ["who", "whom", "whose", "why"],
+        3,
+        "D — why is an adverb of reason or a conjunction, not a pronoun. Who, whom and whose are relative and interrogative pronouns.",
+    ),
+    (
+        "In “He sings well”, the word *well* is",
+        ["an adjective", "an adverb", "a noun", "a preposition"],
+        1,
+        "B — well describes how he sings, so it modifies the verb and is an adverb. The adjective would be good.",
+    ),
+    (
+        "In “He is well”, the word *well* is",
+        ["an adjective", "an adverb", "a verb", "a conjunction"],
+        0,
+        "A — is is a linking verb, so the word after it describes the subject and must be an adjective: well means in good health. The same word is an adverb after an action verb, which is why position decides the class.",
+    ),
+    (
+        "Which of these is a proper noun?",
+        ["city", "Lagos", "river", "water"],
+        1,
+        "B — Lagos names a particular place and is capitalised, which is the mark of a proper noun. City, river and water are common nouns, and water is also a mass noun.",
+    ),
+    (
+        "The plural of *knife* is",
+        ["knifes", "knives", "knifes'", "knive"],
+        1,
+        "B — most nouns in -fe change to -ves: knife, knives. Knifes is a regularised error, the third option adds a possessive apostrophe to a plural, and knive is not a word.",
+    ),
+    (
+        "The plural of *chief* is",
+        ["chieves", "chiefs", "chiefes", "chief's"],
+        1,
+        "B — chief is one of the exceptions that keeps the f and adds a plain -s. Chieves over-applies the -ves rule, chiefes misspells the plural, and chief's is a possessive.",
+    ),
+    (
+        "“The news ___ good today.”",
+        ["are", "is", "were", "have been"],
+        1,
+        "B — news ends in -s but is singular, so the verb is is. Are, were and have been would all need a plural subject.",
+    ),
+    (
+        "The word *hardly* in “He hardly spoke” means",
+        ["with effort", "almost not", "in a hard manner", "loudly"],
+        1,
+        "B — hardly is not the adverb of hard: it means scarcely or almost not. Hard itself is the adverb meaning with effort, which is the trap the question sets.",
+    ),
+    (
+        "Which sentence contains a collective noun?",
+        ["The boy ran home.", "The flock moved north.", "The water is cold.", "She bought a pen."],
+        1,
+        "B — flock names a group of birds as one thing, which is a collective noun. Boy, water and pen are ordinary common nouns.",
+    ),
+    (
+        "The word *Nigerian* in “a Nigerian writer” is",
+        ["a noun", "an adjective", "an adverb", "a pronoun"],
+        1,
+        "B — Nigerian describes the noun writer, so here it is an adjective. It is a noun in “He is a Nigerian”, which is why the sentence decides the class.",
+    ),
+    (
+        "Which of these is an abstract noun?",
+        ["table", "honesty", "teacher", "village"],
+        1,
+        "B — honesty names a quality you cannot see or count. Table and village are concrete common nouns, and teacher is a common noun naming a person.",
+    ),
+    (
+        "“She has ___ the work already.”",
+        ["did", "done", "do", "does"],
+        1,
+        "B — after has the past participle is required: do, did, done. Did is the past tense, and do and does are present forms.",
+    ),
+    (
+        "Which of these words is an adverb of frequency?",
+        ["quickly", "always", "here", "yesterday"],
+        1,
+        "B — always answers how often, which is frequency. Quickly answers how, here answers where, and yesterday answers when.",
+    ),
+    (
+        "In “the running water”, the word *running* is",
+        ["a gerund", "a participle used as an adjective", "a finite verb", "a noun"],
+        1,
+        "B — running describes the noun water, so the participle is doing an adjective's work. A gerund would be the subject or object of a verb, and a finite verb would carry tense and agree with a subject.",
+    ),
+    (
+        "The correct plural of *passer-by* is",
+        ["passer-bys", "passers-by", "passers-bys", "passer-by's"],
+        1,
+        "B — in a compound noun the head word takes the plural: passers-by, like mothers-in-law and courts-martial. The other options pluralise the wrong element or add an apostrophe.",
+    ),
+    (
+        "“Each of the girls has brought ___ bag.”",
+        ["their", "her", "there", "they're"],
+        1,
+        "B — each is singular, so the formal pronoun is her. Their is accepted in modern usage after everyone but not after each in formal writing, there is an adverb of place, and they're means they are.",
+    ),
+    (
+        "Which of these is a demonstrative pronoun?",
+        ["who", "these", "each", "myself"],
+        1,
+        "B — these points to particular things and stands alone as a pronoun. Who is relative or interrogative, each is indefinite, and myself is reflexive.",
+    ),
+    (
+        "In the sentence “The old man walked slowly to the gate”, the word *slowly* modifies",
+        ["the old man", "walked", "the gate", "old"],
+        1,
+        "B — slowly answers how he walked, so it modifies the verb walked. An adjective would modify the man or the gate, and old already modifies man.",
+    ),
+]

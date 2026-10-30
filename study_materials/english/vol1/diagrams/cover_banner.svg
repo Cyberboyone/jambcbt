@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 176" width="760" height="176">
+  <defs>
+    <marker id="ag" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#008751"/>
+    </marker>
+    <marker id="an" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#0E1F40"/>
+    </marker>
+    <marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#D97706"/>
+    </marker>
+    <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#DC2626"/>
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="760" height="176" fill="#0B2036"/>
+<rect x="0" y="0" width="760" height="176" rx="10" fill="#0B2036" stroke="#0B2036" stroke-width="1.0"/>
+<text x="380" y="34" font-family="DejaVu Sans" font-size="17" fill="#FFFFFF" text-anchor="middle" font-weight="bold">WORDS · CLAUSES · CONCORD · MEANING</text>
+<line x1="120" y1="46" x2="640" y2="46" stroke="#34D399" stroke-width="1.2"/>
+<rect x="40" y="58" width="220" height="22" rx="5" fill="#12314F" stroke="#34D399" stroke-width="1.0"/>
+<text x="150" y="73" font-family="DejaVu Sans" font-size="8.6" fill="#E2E8F0" text-anchor="middle" font-weight="normal">Word classes</text>
+<rect x="280" y="58" width="220" height="22" rx="5" fill="#12314F" stroke="#34D399" stroke-width="1.0"/>
+<text x="390" y="73" font-family="DejaVu Sans" font-size="8.6" fill="#E2E8F0" text-anchor="middle" font-weight="normal">Nouns and pronouns</text>
+<rect x="520" y="58" width="220" height="22" rx="5" fill="#12314F" stroke="#34D399" stroke-width="1.0"/>
+<text x="630" y="73" font-family="DejaVu Sans" font-size="8.6" fill="#E2E8F0" text-anchor="middle" font-weight="normal">Verb forms</text>
+<rect x="40" y="84" width="220" height="22" rx="5" fill="#12314F" stroke="#34D399" stroke-width="1.0"/>
+<text x="150" y="99" font-family="DejaVu Sans" font-size="8.6" fill="#E2E8F0" text-anchor="middle" font-weight="normal">Concord</text>
+<rect x="280" y="84" width="220" height="22" rx="5" fill="#12314F" stroke="#34D399" stroke-width="1.0"/>
+<text x="390" y="99" font-family="DejaVu Sans" font-size="8.6" fill="#E2E8F0" text-anchor="middle" font-weight="normal">Tense and aspect</text>
+<rect x="520" y="84" width="220" height="22" rx="5" fill="#12314F" stroke="#34D399" stroke-width="1.0"/>
+<text x="630" y="99" font-family="DejaVu Sans" font-size="8.6" fill="#E2E8F0" text-anchor="middle" font-weight="normal">Voice</text>
+<rect x="40" y="110" width="220" height="22" rx="5" fill="#12314F" stroke="#34D399" stroke-width="1.0"/>
+<text x="150" y="125" font-family="DejaVu Sans" font-size="8.6" fill="#E2E8F0" text-anchor="middle" font-weight="normal">Reported speech</text>
+<rect x="280" y="110" width="220" height="22" rx="5" fill="#12314F" stroke="#34D399" stroke-width="1.0"/>
+<text x="390" y="125" font-family="DejaVu Sans" font-size="8.6" fill="#E2E8F0" text-anchor="middle" font-weight="normal">Clauses</text>
+<rect x="520" y="110" width="220" height="22" rx="5" fill="#12314F" stroke="#34D399" stroke-width="1.0"/>
+<text x="630" y="125" font-family="DejaVu Sans" font-size="8.6" fill="#E2E8F0" text-anchor="middle" font-weight="normal">Punctuation</text>
+<rect x="40" y="136" width="220" height="22" rx="5" fill="#12314F" stroke="#34D399" stroke-width="1.0"/>
+<text x="150" y="151" font-family="DejaVu Sans" font-size="8.6" fill="#E2E8F0" text-anchor="middle" font-weight="normal">Modifiers</text>
+<rect x="280" y="136" width="220" height="22" rx="5" fill="#12314F" stroke="#34D399" stroke-width="1.0"/>
+<text x="390" y="151" font-family="DejaVu Sans" font-size="8.6" fill="#E2E8F0" text-anchor="middle" font-weight="normal">Connectives</text>
+<rect x="520" y="136" width="220" height="22" rx="5" fill="#12314F" stroke="#34D399" stroke-width="1.0"/>
+<text x="630" y="151" font-family="DejaVu Sans" font-size="8.6" fill="#E2E8F0" text-anchor="middle" font-weight="normal">Lexis and idioms</text>
+</svg>
