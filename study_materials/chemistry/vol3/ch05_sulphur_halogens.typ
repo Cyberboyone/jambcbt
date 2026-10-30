@@ -152,6 +152,10 @@ Sulphuric acid is the most manufactured chemical in the world, and almost all of
   Dilute sulphuric acid is simply a strong acid: it provides H⁺ and reacts with metals, bases and carbonates in the ordinary way. Concentrated sulphuric acid is a *dehydrating* agent, because it has a great affinity for water, and a hot *oxidising* agent, because the sulphate ion can be reduced to sulphur dioxide. That is why sugar turns black in it, why it is used to dry gases, and why copper — which does not react with the dilute acid — dissolves in the hot concentrated acid.
 ]
 
+#diagram-fig("diagrams/ch05_sulphuric.svg",
+  "One acid, three jobs. Dilute sulphuric acid behaves as an ordinary strong acid; the concentrated acid dehydrates a carbohydrate to carbon; the hot concentrated acid oxidises copper, which the dilute acid cannot touch. The difference is the concentration, not the formula.", width: 96%)
+
+
 // ============================================================================
 == 5.4 The Halogens
 

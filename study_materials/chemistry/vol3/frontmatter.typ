@@ -455,7 +455,7 @@ Twelve questions, two from each chapter, in the style the CBT engine uses. Sit t
 
 #mcq(1, [Which metal occurs in nature in the free state?], [sodium], [iron], [gold], [aluminium])
 #mcq(2, [A piece of zinc is placed in copper(II) sulphate solution. The observation is that], [copper dissolves and zinc is deposited], [zinc dissolves and copper is deposited], [both metals dissolve], [no reaction occurs])
-#mcq(3, [The most reactive of these metals is], [calcium], [magnesium], [sodium], [aluminium])
+#mcq(3, [The most reactive of these metals is], [iron], [magnesium], [copper], [silver])
 #mcq(4, [Sodium is stored under paraffin oil because it reacts with], [nitrogen only], [oxygen and water vapour in the air], [carbon dioxide only], [the glass of the bottle])
 #mcq(5, [The reducing agent in the extraction of iron in the blast furnace is], [carbon], [carbon monoxide], [limestone], [silicon(IV) oxide])
 #mcq(6, [Cryolite is added to the Hall–Héroult cell in order to], [increase the melting point of alumina], [dissolve the alumina and lower the operating temperature], [act as a catalyst], [prevent oxidation of the aluminium])
@@ -466,12 +466,12 @@ Twelve questions, two from each chapter, in the style the CBT engine uses. Sit t
 #mcq(11, [The main raw materials in the manufacture of cement are], [limestone and clay], [sand and soda ash], [bauxite and cryolite], [crude oil and natural gas])
 #mcq(12, [The gas that turns limewater milky is], [oxygen], [carbon dioxide], [hydrogen], [sulphur(IV) oxide])
 
-#answer-key-grid(("C", "B", "C", "B", "B", "B", "C", "C", "B", "C", "A", "B"))
+#answer-key-grid(("C", "B", "B", "B", "B", "B", "C", "C", "B", "C", "A", "B"))
 
 #answer-notes((
   ("C", [gold and platinum are below hydrogen in the reactivity series, so they are not oxidised by air or water and are found uncombined.]),
   ("B", [zinc is above copper in the series, so it displaces copper: the blue colour fades and a red-brown deposit forms on the zinc.]),
-  ("C", [sodium reacts with cold water violently; calcium reacts readily, magnesium slowly with cold water and aluminium hardly at all because of its oxide layer.]),
+  ("B", [magnesium lies well above iron, copper and silver in the reactivity series, so it is the most reactive of the four.]),
   ("B", [sodium tarnishes in air as it forms the oxide, and reacts with water vapour, so it is kept under oil.]),
   ("B", [the carbon burns to carbon monoxide, and it is the CO that reduces the iron(III) oxide: Fe₂O₃ + 3CO → 2Fe + 3CO₂.]),
   ("B", [cryolite dissolves the alumina and lets the cell run at about 950 °C instead of the 2045 °C melting point of pure alumina.]),

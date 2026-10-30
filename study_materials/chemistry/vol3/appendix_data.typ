@@ -72,6 +72,10 @@
   [gold], [+1.50], [no reaction with water], [native, because it is not oxidised at all],
 )
 
+#text(size: 8.7pt, fill: jamb-muted)[
+  The series is ordered by *reaction vigour*, the way the syllabus states it: potassium, sodium, calcium, magnesium, aluminium. The potentials show why sodium and calcium are almost level — their values differ by less than 0.2 V — so a question that offers both and asks which is more reactive is a question about the convention, not about chemistry. Examiners who can ask it cleanly ask about a pair that is far apart: sodium against magnesium, zinc against copper, copper against silver.
+]
+
 == D.3 The Solubility Rules
 
 #table(

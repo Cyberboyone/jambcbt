@@ -93,7 +93,7 @@
   (2, "D.1 Constants and Conversions", 145),
   (2, "D.2 The Reactivity Series, With What Each Metal Does", 145),
   (2, "D.3 The Solubility Rules", 146),
-  (2, "D.4 Flame Colours", 146),
+  (2, "D.4 Flame Colours", 147),
   (2, "D.5 The Gas Tests", 147),
   (2, "D.6 Ion Tests in Solution", 147),
   (2, "D.7 The Ores, and What Is Done to Them", 148),

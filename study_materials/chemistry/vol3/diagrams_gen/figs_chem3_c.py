@@ -197,27 +197,25 @@ def ch05_halogen_bp():
 
 def ch05_sulphuric():
     """One acid, three jobs — dilute, concentrated and hot concentrated."""
-    w, h = 760, 236
-    b = [t(380, 24, "ONE ACID, THREE JOBS", size=12.0, weight="bold"),
-         t(380, 42, "What sulphuric acid does depends on how concentrated it is and on how hot you make it.",
-           size=8.2, fill=MUTED)]
+    w, h = 700, 300
+    b = [t(350, 24, "ONE ACID, THREE JOBS", size=13.6, weight="bold"),
+         t(350, 43, "What sulphuric acid does depends on how concentrated it is, and how hot.",
+           size=8.8, fill=MUTED)]
 
     cards = [
-        ("DILUTE — ACIDIC", ["Mg + H₂SO₄", "→ MgSO₄ + H₂"],
+        ("DILUTE — ACIDIC", "Mg + H₂SO₄ → MgSO₄ + H₂",
          "It behaves like any other dilute acid: it gives up H⁺ to a metal, a base or a carbonate.", GREEN),
-        ("CONCENTRATED — DEHYDRATING", ["C₁₂H₂₂O₁₁", "→ 12C + 11H₂O"],
+        ("CONCENTRATED — DEHYDRATING", "C₁₂H₂₂O₁₁ → 12C + 11H₂O",
          "Sugar turns to a black column of carbon as the acid pulls hydrogen and oxygen out as water.", AMBER),
-        ("HOT CONCENTRATED — OXIDISING", ["Cu + 2H₂SO₄", "→ CuSO₄ + SO₂ + 2H₂O"],
-         "It oxidises copper, which dilute acid cannot touch. Sulphur is reduced from +6 to +4.", RED),
+        ("HOT CONCENTRATED — OXIDISING", "Cu + 2H₂SO₄ → CuSO₄ + SO₂ + 2H₂O",
+         "It oxidises copper, which dilute acid cannot touch: sulphur falls from +6 to +4.", RED),
     ]
     for i, (head, eqn, body, col) in enumerate(cards):
-        x = 20 + i * 244
-        b.append(rect(x, 62, 228, 152, "#FFFFFF", col, 8, 1.4))
-        b.append(t(x + 114, 86, head, size=7.8, weight="bold", fill=col))
-        b.append(t(x + 114, 116, eqn[0], size=8.2, fill=NAVY))
-        b.append(t(x + 114, 132, eqn[1], size=8.2, fill=NAVY))
-        for j, ln in enumerate(_wrap(body, 33)):
-            b.append(t(x + 114, 162 + j * 13, ln, size=7.4, fill=SLATE))
+        y = 58 + i * 78
+        b.append(rect(14, y, 672, 70, "#FFFFFF", col, 8, 1.4))
+        b.append(t(32, y + 21, head, size=9.6, weight="bold", fill=col, anchor="start"))
+        b.append(t(32, y + 41, eqn, size=9.8, fill=NAVY, anchor="start"))
+        b.append(t(32, y + 59, body, size=8.6, fill=SLATE, anchor="start"))
     write_svg("ch05_sulphuric.svg", svg(w, h, "\n".join(b)))
 
 
