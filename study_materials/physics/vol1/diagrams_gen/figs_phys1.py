@@ -33,7 +33,7 @@ def cover_banner():
            size=13.6, weight="bold"),
          t(380, 72, "Units and Vectors, Kinematics, Newton's Laws and Momentum,", size=11, fill=SLATE),
          t(380, 90, "Work, Energy and Machines, Circular Motion and Gravitation, Fluids", size=11, fill=SLATE),
-         t(380, 120, "240 drill questions · two 40-question CBT mocks · 120-question master bank · 40 rapid-fire pairs",
+         t(380, 120, "34 reviewed diagrams · 30 worked examples · a note on every exam-style option",
            size=9.4, fill=MUTED)]
     write_svg("cover_banner.svg", svg(w, h, "\n".join(b)))
 

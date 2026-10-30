@@ -18,8 +18,6 @@ OUT = HERE.parent
 # Front-matter headings that should not appear in the printed contents.
 SKIP_TITLES = {
     "Table of Contents",
-    "The Three Habits That Decide Your Organic Score",
-    "The Twelve Question Types That Reappear Every Year",
 }
 
 # The printed contents begins with the pages that follow it, so front matter

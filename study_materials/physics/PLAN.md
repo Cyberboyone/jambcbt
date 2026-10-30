@@ -53,3 +53,16 @@ python build.py                    # writes JAMB_Physics_Volume1_Mechanics_Prope
 - Symbols: $g = 10$ m s⁻² unless a question states 9.8; π = 3.14 unless stated.
 - A diagram is script-generated and visually reviewed before it is used; the figure
   file is never hand-edited.
+
+## Progress
+
+| Stage | Status |
+| --- | --- |
+| Front matter (cover, series map, contents, how to use) | done — 5 pp |
+| Chapters 1–6, five worked examples and four MCQs each | done — 57 pp |
+| Diagrams (34 reviewed SVGs, all script-generated) | done |
+| Drill banks, 40 + 40 per chapter | **next** |
+| Two CBT mocks, rapid-fire pairs, 120-question bank, keys | pending |
+| Appendices A–K | pending |
+
+Build at this checkpoint: 62 pp, 0 Typst warnings.
