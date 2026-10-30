@@ -140,6 +140,10 @@ The most useful page in this book. One line per wrong answer, in the order you m
   [#v(7pt)], [#v(7pt)], [#v(7pt)], [#v(7pt)],
   [#v(7pt)], [#v(7pt)], [#v(7pt)], [#v(7pt)],
   [#v(7pt)], [#v(7pt)], [#v(7pt)], [#v(7pt)],
+  [#v(7pt)], [#v(7pt)], [#v(7pt)], [#v(7pt)],
+  [#v(7pt)], [#v(7pt)], [#v(7pt)], [#v(7pt)],
+  [#v(7pt)], [#v(7pt)], [#v(7pt)], [#v(7pt)],
+  [#v(7pt)], [#v(7pt)], [#v(7pt)], [#v(7pt)],
 )
 
 #trap-box("A log that is filled in is worth ten that are printed")[

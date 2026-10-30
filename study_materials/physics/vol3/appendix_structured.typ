@@ -127,3 +127,5 @@
     The CBT paper will not ask you to write a structured answer — but the theory paper will, and the same reasoning earns the marks in both. Take one question from this appendix each week, cover the model answer, and write your own on a blank page: the relation first, the substitution on its own line with units, the answer with its unit, then one sentence of interpretation. Six weeks of that is six pages of handwriting, and it is the most reliable way to stop losing marks for method on questions you can actually do.
   ]
 ]
+
+*Where the two papers overlap.* Almost every structured question in a JAMB theory paper begins with a calculation this volume has already taught and ends with a sentence of comment that the objective paper would have turned into a multiple-choice option. A candidate who can do question I.6 can also answer "the efficiency of the engine is" in four seconds; a candidate who can only pick the option freezes when the same numbers arrive without the choices. Writing the working out is therefore not an extra subject — it is the same subject with the scaffolding removed, and it is the reason this appendix exists.
