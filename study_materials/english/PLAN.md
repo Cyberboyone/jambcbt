@@ -16,7 +16,7 @@ prescribed text. Three volumes, one per block.
 | Vol. | Title | Coverage | Status |
 |---|---|---|---|
 | 1 | Structure and Lexis | word classes, concord, tense and voice, clauses and punctuation, modifiers and connectives, lexis (synonyms, antonyms, confusables, idioms, register) | **delivered — 163 pp** |
-| 2 | Comprehension, Summary and Oral English | passage technique, summary writing, the sound system (vowels, consonants, stress, intonation, rhyme) | planned |
+| 2 | Comprehension, Summary and Oral English | passage technique, summary writing, the sound system (vowels, consonants, stress, intonation, rhyme) | **delivered — 170 pp** |
 | 3 | The Novel and Full Papers | the prescribed text, character and theme questions, full-length CBT papers | planned |
 
 ## Volume 1 — Structure and Lexis
@@ -88,3 +88,43 @@ Build at this checkpoint: **163 pp, 3.90 MB, 0 Typst warnings**. 240 drill quest
 34 diagrams, 30 worked examples, appendices A–K. No page uses less than two thirds of
 its type area except the closing page of Appendix K; the drills and the solution runs
 are padded from `_fit.json` so their last pages fill.
+
+## Volume 2 — Comprehension, Summary and Oral English
+
+| Ch | Title | Sections | Status |
+|----|-------|----------|--------|
+| 1 | Reading for the Main Idea | the order of the method, the four passes, the paragraph, main idea v detail | **done** |
+| 2 | The Question Types | the eight types, detail/vocabulary/reference, negation, the four wrong-option shapes | **done** |
+| 3 | Inference, Tone and Attitude | stated/implied/assumed, tone, irony, figures | **done** |
+| 4 | Summary | the four rules, finding points, writing to a limit, marking | **done** |
+| 5 | The Sounds of English | letters and sounds, 12 vowels and 8 glides, 24 consonants, syllables, silent letters | **done** |
+| 6 | Stress, Intonation and Rhyme | five stress rules, stress shift, sentence stress, three tunes, rhyme and homophones | **done** |
+
+Back matter: two 40-question CBT mocks, Appendix A (40 rapid-fire pairs), Appendix B
+(the 120-question master bank), Appendix C (consolidated keys), Appendix D (spelling and
+sounds), Appendix E (the oral forms map — 44 sounds, 12 stress rules, 5 question
+shapes), Appendix F (glossary, 40 terms, plus nine confusable pairs), Appendix G
+(planner and score log), Appendix H (twenty moves worth knowing, four checks, a
+move-a-day table), Appendix I (six summary models with points, deletions and word
+counts, plus a self-marking rubric), Appendix J (twelve traps worked, four checks,
+six repairs), Appendix K (the exam-day playbook).
+
+### Volume 2 — progress
+
+| Stage | Status |
+| --- | --- |
+| Front matter (cover, series map, chapters at a glance, contents, how to use, the paper in numbers) | done — 7 pp |
+| Chapters 1–6, five worked examples and four MCQs each | done — pp 7–106 |
+| Diagrams (30 reviewed SVGs, script-generated) | done |
+| Drill banks, 40 per chapter (240 questions) | done — pp 19, 34, 50, 68, 82, 99 |
+| Paper banks, 40 per chapter (240 items feeding the mocks, bank and rapid-fire) | done |
+| Two 40-question CBT mocks | done — pp 107–124 |
+| Rapid-fire pairs, 120-question bank, consolidated keys | done — Appendices A–C, pp 125–150 |
+| Appendices D–K | done — pp 151–170 |
+
+Build at this checkpoint: **170 pp, 3.84 MB, 0 Typst warnings**. 240 drill questions,
+240 paper items, 30 diagrams, 30 worked examples, appendices A–K. Two house-style
+notes for this volume: every worked example's passage sits in its own shaded block
+inside the problem argument, and a bullet that begins with a phoneme must not start
+`*/` — Typst reads it as the end of a block comment — so such bullets begin with the
+words *The pair* and then the symbols.

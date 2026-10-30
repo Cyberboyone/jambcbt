@@ -1,0 +1,248 @@
+"""Drill bank — Use of English Volume 2, Chapter 6 (stress, intonation and rhyme).
+
+Each item is (stem, [A, B, C, D], index_of_correct_option, solution). The
+solution accounts for every option, not only the key.
+"""
+
+DRILL_6 = [
+    (
+        "Which syllable is stressed in *education*?",
+        ["the first", "the second", "the third", "the fourth"],
+        2,
+        "C — e-du-CA-tion: the syllable before *-tion* takes the stress. A and B count from the front and ignore the ending, and D counts the ending itself.",
+    ),
+    (
+        "The word *record* used as a verb is stressed on",
+        ["the first syllable", "the second syllable", "neither syllable", "both syllables"],
+        1,
+        "B — two-syllable verbs stress the second syllable: reCORD. A is the noun job, C is impossible in a two-syllable word, and D would make two primary stresses.",
+    ),
+    (
+        "Which word is stressed on the first syllable?",
+        ["beGIN", "deCIDE", "TAble", "reCORD (verb)"],
+        2,
+        "C — *table* is a noun and takes the first syllable. A, B and D are all verbs and take the second.",
+    ),
+    (
+        "The endings *-tion*, *-sion* and *-cian* cause the stress to fall",
+        ["on the ending itself", "on the syllable before the ending", "three syllables back", "on the first syllable"],
+        1,
+        "B — eDUcation, deCIsion, muSIcian. A is the commonest mistake, C is the rule for *-ity*, and D is the rule for a plain noun of two syllables.",
+    ),
+    (
+        "Words ending in *-ity* are stressed",
+        ["on the final syllable", "three syllables from the end", "on the second syllable from the start", "on the ending"],
+        1,
+        "B — aBIlity, iDENtify follow the same pattern. A is the rule for *-ee*, C counts from the wrong end, and D is not how English stress works.",
+    ),
+    (
+        "Which word is stressed on the final syllable?",
+        ["ENGineer", "refuGEE", "EDUcate", "TAble"],
+        1,
+        "B — *-ee* takes the final stress. A is a trap: *engineer* ends in *-eer* and does take final stress — but the option shows the stress on the first syllable, which makes it wrong as written. C and D stress the first.",
+    ),
+    (
+        "The word *photograph* is stressed on the",
+        ["first syllable", "second syllable", "third syllable", "last syllable"],
+        0,
+        "A — PHO-to-graph. B would be *photography*, where the ending pulls the stress forward, and C and D are not syllables of the word in that position.",
+    ),
+    (
+        "The word *photography* is stressed on the",
+        ["first syllable", "second syllable", "third syllable", "last syllable"],
+        1,
+        "B — pho-TO-graphy: the *-graphy* ending pulls the stress to the syllable before it. A is the noun *photograph*, C and D are the unstressed syllables.",
+    ),
+    (
+        "In an English sentence, the words that carry the stress are",
+        ["articles and prepositions", "nouns, verbs, adjectives and adverbs", "pronouns and auxiliaries", "conjunctions"],
+        1,
+        "B — the content words carry the information. A, C and D are the grammar words, which are weak and often reduce to /ə/.",
+    ),
+    (
+        "The intonation of *She has gone* is",
+        ["rising", "falling", "level", "fall-rise"],
+        1,
+        "B — a statement falls. A is the tune of a yes/no question, C is not a tune English uses for statements, and D signals doubt.",
+    ),
+    (
+        "The intonation of *Have you eaten?* is",
+        ["falling", "rising", "fall-rise", "level"],
+        1,
+        "B — a yes/no question rises. A is the tune of a wh-question, C signals doubt rather than a request, and D is not a tune for questions.",
+    ),
+    (
+        "The intonation of *Where are you going?* is",
+        ["rising", "falling", "fall-rise", "level"],
+        1,
+        "B — a wh-question asks for information and falls. A is the yes/no tune, C signals doubt, and D is not used for questions.",
+    ),
+    (
+        "In a list such as *bread, milk, eggs and butter*, the voice",
+        ["rises on every item", "rises on each item except the last, which falls", "falls on every item", "stays level"],
+        1,
+        "B — the rise marks the list as unfinished and the fall marks the end. A leaves the listener unsure when the list has ended, C signals completion at the first item, and D is not an English pattern.",
+    ),
+    (
+        "A fall-rise tune usually signals",
+        ["certainty", "doubt or contrast", "anger", "a completed statement"],
+        1,
+        "B — *I think so …* with a fall-rise says *not quite*. A and D describe the falling tune, and C is not a tune but a volume and pace.",
+    ),
+    (
+        "Two words rhyme when",
+        ["they are spelled alike", "everything from the stressed vowel onward is identical", "they have the same number of syllables", "they end in the same letter"],
+        1,
+        "B — sound from the stressed vowel onward is the test. A and D describe spelling, which misleads with *though* and *cough*, and C is neither necessary nor sufficient.",
+    ),
+    (
+        "Which word rhymes with *night*?",
+        ["eight", "light", "neat", "weight"],
+        1,
+        "B — *night* and *light* share /aɪt/. A and D rhyme with each other on /eɪt/, and C has the vowel of *seat*.",
+    ),
+    (
+        "Which word rhymes with *though*?",
+        ["cough", "through", "go", "rough"],
+        2,
+        "C — *though* and *go* are both /əʊ/. A is /ɒf/, B is /u:/ and D is /ʌf/ — three words spelled alike and none of them rhyming.",
+    ),
+    (
+        "Which word does NOT rhyme with *mind*?",
+        ["find", "kind", "blind", "mint"],
+        3,
+        "D — *mint* ends in a consonant cluster the others do not share. A, B and C all take /aɪnd/.",
+    ),
+    (
+        "Which pair are homophones?",
+        ["fair / fare", "fair / fear", "fair / fire", "fair / far"],
+        0,
+        "A — same sound, different spelling. B, C and D differ in the vowel and so are not homophones.",
+    ),
+    (
+        "Which pair are homophones?",
+        ["knight / night", "night / light", "light / slight", "slight / sight"],
+        0,
+        "A — *knight* and *night* are identical in sound. B and C are rhymes rather than homophones, and D differs in the initial consonant.",
+    ),
+    (
+        "The stress in *biology* falls on the",
+        ["first syllable", "second syllable", "third syllable", "last syllable"],
+        1,
+        "B — bi-O-logy: the *-ogy* ending puts the stress three from the end, which is the second syllable here. A ignores the ending, C is where the *o* is written rather than stressed, and D is the ending itself.",
+    ),
+    (
+        "The stress in *polítical* falls on the",
+        ["first syllable", "second syllable", "third syllable", "last syllable"],
+        1,
+        "B — po-LI-ti-cal: *-ical* puts the stress on the syllable before it. A is the mistake the rule prevents, and C and D are unstressed.",
+    ),
+    (
+        "The word *increase* used as a noun is stressed on",
+        ["the first syllable", "the second syllable", "the last syllable", "neither"],
+        0,
+        "A — IN-crease as a noun, in-CREASE as a verb. B is the verb job, C is the same syllable as B in a two-syllable word, and D is impossible.",
+    ),
+    (
+        "Which sentence would normally end with a rising tune?",
+        ["Close the door.", "He has arrived.", "Are you ready?", "Why did he leave?"],
+        2,
+        "C — a yes/no question rises. A is a command, B a statement and D a wh-question, and all three fall.",
+    ),
+    (
+        "The word *comfortable* has its stress on the",
+        ["first syllable", "second syllable", "third syllable", "fourth syllable"],
+        0,
+        "A — COM-fort-able, three syllables with the stress on the first. B counts the written *or*, C is where the *a* sits, and D does not exist in a three-syllable word.",
+    ),
+    (
+        "The words *export* (noun) and *export* (verb) differ in",
+        ["meaning only", "stress only", "spelling", "the number of syllables"],
+        1,
+        "B — EX-port and ex-PORT. A is true of the dictionary sense only loosely, since the noun and verb senses are related; C is false because the spelling is identical, and D is false because both have two syllables.",
+    ),
+    (
+        "Strong stress on *SHE* in *She has never written to the chairman* would correct the idea that",
+        ["she telephoned instead", "somebody else wrote", "she wrote recently", "the chairman replied"],
+        1,
+        "B — moving the stress onto the subject corrects the subject. A and C are corrected by stressing *written* and *never*, and D is a different sentence altogether.",
+    ),
+    (
+        "The word *refugee* is stressed on the",
+        ["first syllable", "middle syllable", "last syllable", "first and last equally"],
+        2,
+        "C — the ending *-ee* takes the final stress: refuGEE. A is the pattern for a plain noun, and B is the pattern for a verb; D would give two primary stresses.",
+    ),
+    (
+        "Auxiliary verbs in a spoken sentence are usually",
+        ["stressed", "weak and reduced", "omitted", "lengthened"],
+        1,
+        "B — *has*, *is* and *does* reduce when they carry no information. A is true only in a correction (*she HAS gone*), C is not what weak forms do, and D describes stress rather than reduction.",
+    ),
+    (
+        "Which word rhymes with *weight*?",
+        ["height", "eight", "wheat", "white"],
+        1,
+        "B — *weight* and *eight* share /eɪt/. A is /aɪ/, C is /i:/, and D is /aɪ/ as well.",
+    ),
+    (
+        "The tune of a command such as *Sit down* is",
+        ["rising", "falling", "fall-rise", "level"],
+        1,
+        "B — a command falls, which is why a rise on a command sounds like a request. A would soften it into a question, C signals doubt, and D is not an English pattern for commands.",
+    ),
+    (
+        "Which word is stressed on the second syllable?",
+        ["HOSpital", "FAmily", "beGIN", "ADjective"],
+        2,
+        "C — *begin* is a two-syllable verb and takes the second. A, B and D are the irregular words that keep the stress on the first syllable despite their length.",
+    ),
+    (
+        "Which of these words does NOT end with the sound /ʃn/?",
+        ["nation", "station", "passion", "question"],
+        3,
+        "D — *question* ends in /tʃən/, with the affricate. A, B and C all end in /ʃn/, which is why they rhyme with each other.",
+    ),
+    (
+        "The stress in *geographically* falls",
+        ["on the first syllable", "on the syllable before *-ically*", "on the last syllable", "three syllables from the end"],
+        1,
+        "B — geo-GRAPH-ically, following the *-ical* rule. A ignores the ending, C is the ending itself, and D is the rule for *-ity* rather than *-ical*.",
+    ),
+    (
+        "*Knight* and *night* are homophones because they",
+        ["rhyme", "are spelled alike", "sound identical but are spelled differently", "have the same meaning"],
+        2,
+        "C — the *k* is silent, so the two are identical in sound. A is true but does not define a homophone, B is false, and D is false: they mean different things.",
+    ),
+    (
+        "In *I THINK so*, the strongest stress falls on",
+        ["I", "think", "so", "none of them"],
+        1,
+        "B — the verb carries the uncertainty the sentence is about. A would correct the subject, C would correct the degree of certainty, and D would flatten the sentence.",
+    ),
+    (
+        "Which pair of words is a minimal pair but NOT a rhyme?",
+        ["seat / sit", "night / light", "fair / fare", "cat / hat"],
+        0,
+        "A — *seat* and *sit* differ in one vowel and so form a minimal pair, but they do not rhyme because the vowel differs. B and D are rhymes, and C is a homophone pair.",
+    ),
+    (
+        "The stress pattern of *com-mu-ni-CA-tion* shows that",
+        ["English stress is random", "endings such as *-tion* fix the stress", "long words have two stresses", "stress always falls first"],
+        1,
+        "B — the *-tion* rule places the stress on the syllable before the ending. A is the view of a candidate who has not learned the five rules, C is sometimes true of pronunciation but not what the pattern shows, and D is contradicted by the word itself.",
+    ),
+    (
+        "A candidate answering a rhyme question should test",
+        ["the last letter of each word", "the sound from the stressed vowel onward", "the number of syllables", "the meaning of the words"],
+        1,
+        "B — rhyme is a property of sound from the stressed vowel. A misleads with *though* and *cough*, C is neither necessary nor sufficient, and D has nothing to do with rhyme.",
+    ),
+    (
+        "The word *present* used as a verb is stressed on",
+        ["the first syllable", "the second syllable", "the last syllable", "both syllables"],
+        1,
+        "B — preSENT as a verb, PREsent as a noun or adjective. A is the noun job, C is the same syllable as B in a two-syllable word, and D would give two primary stresses.",
+    ),
+]

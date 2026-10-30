@@ -1,0 +1,248 @@
+"""Drill bank — Use of English Volume 2, Chapter 5 (the sounds of English).
+
+Each item is (stem, [A, B, C, D], index_of_correct_option, solution). The
+solution accounts for every option, not only the key.
+"""
+
+DRILL_5 = [
+    (
+        "English has about",
+        ["twenty-six sounds", "forty-four sounds", "twelve sounds", "sixty sounds"],
+        1,
+        "B — the alphabet has twenty-six letters and the language about forty-four sounds, and the gap is what the section tests. A confuses letters with sounds, C counts only the pure vowels, and D counts neither.",
+    ),
+    (
+        "Which word contains the same vowel sound as *seat*?",
+        ["sit", "see", "set", "said"],
+        1,
+        "B — *seat* and *see* are both /i:/. A is /ɪ/, the commonest confusion, and C and D are both /e/.",
+    ),
+    (
+        "Which word contains the same vowel sound as *cat*?",
+        ["cot", "cut", "cap", "car"],
+        2,
+        "C — *cat* and *cap* are /æ/. A is /ɒ/, B is /ʌ/ and D is /ɑ:/, three of the contrasts the paper pairs with /æ/.",
+    ),
+    (
+        "The vowel sound in *book* is",
+        ["/u:/", "/ʊ/", "/ʌ/", "/ə/"],
+        1,
+        "B — *book*, *pull* and *full* take the short /ʊ/. A is the long vowel of *food*, C is the vowel of *cup*, and D is the unstressed vowel of *about*.",
+    ),
+    (
+        "Which pair are minimal pairs?",
+        ["sheep / ship", "see / sea", "bear / bare", "cup / mug"],
+        0,
+        "A — a minimal pair differs in exactly one phoneme, and *sheep* / *ship* differ only in the vowel. B and C are homophones, differing in spelling rather than sound, and D differs in every sound.",
+    ),
+    (
+        "The sound /θ/ appears in",
+        ["this", "think", "then", "they"],
+        1,
+        "B — *think* is voiceless. A, C and D are the voiced /ð/ of the grammatical words.",
+    ),
+    (
+        "The sound /ð/ appears in",
+        ["three", "health", "then", "month"],
+        2,
+        "C — *then* is voiced. The other three are all voiceless /θ/, which is the pattern for nouns and adjectives.",
+    ),
+    (
+        "Which word contains the sound /ʃ/?",
+        ["ship", "cheap", "jeep", "zip"],
+        0,
+        "A — *ship* begins with /ʃ/. B is /tʃ/, C is /dʒ/ and D is /z/, three of the sounds most often confused with it in Nigerian English.",
+    ),
+    (
+        "Which pair differs only by voicing?",
+        ["pin / bin", "pin / pen", "bin / ban", "pin / spin"],
+        0,
+        "A — /p/ and /b/ share a place of articulation and differ in voicing. B and C change the vowel, and D adds a consonant.",
+    ),
+    (
+        "A voiced consonant is one that",
+        ["is written with two letters", "makes the vocal cords vibrate", "occurs only at the end of a word", "is silent"],
+        1,
+        "B — voicing is the buzz at the throat, which is the only test the paper requires. A describes a digraph, C is false, and D describes a silent letter.",
+    ),
+    (
+        "In which word is the *b* silent?",
+        ["table", "climb", "habit", "cabin"],
+        1,
+        "B — *b* after *m* is silent: climb, comb, thumb, lamb. The other three pronounce the *b* in an ordinary position.",
+    ),
+    (
+        "In which word is the *w* silent?",
+        ["water", "write", "wonder", "window"],
+        1,
+        "B — *w* before *r* is silent: write, wrong, wrist, wrap. The other three begin with a pronounced /w/.",
+    ),
+    (
+        "How many syllables are there in *queue*?",
+        ["one", "two", "three", "four"],
+        0,
+        "A — five letters and one vowel sound: /kju:/ is one syllable. B counts the letters, C counts them twice, and D has no basis in the word.",
+    ),
+    (
+        "How many syllables are there in *people*?",
+        ["one", "two", "three", "four"],
+        1,
+        "B — *peo-ple*: /i:/ then /əl/, two vowel sounds. A counts the vowel letters as one sound, and C and D count the letters.",
+    ),
+    (
+        "A syllable is built on",
+        ["a consonant", "a vowel sound", "a letter", "a stress mark"],
+        1,
+        "B — every syllable has one vowel sound at its centre. A consonant can begin or end a syllable but cannot make one, C confuses spelling with sound, and D marks the loudest syllable rather than creating one.",
+    ),
+    (
+        "Which words are homophones?",
+        ["bear / bare", "bear / beer", "bear / bar", "bear / boar"],
+        0,
+        "A — same sound, different spelling and meaning. B, C and D differ in the vowel and so are not homophones.",
+    ),
+    (
+        "Which word contains the sound /dʒ/?",
+        ["cheap", "jeep", "ship", "zip"],
+        1,
+        "B — *jeep* begins with the voiced affricate /dʒ/. A is its voiceless partner /tʃ/, C is /ʃ/ and D is /z/.",
+    ),
+    (
+        "The letter *a* in *about* is pronounced",
+        ["/æ/", "/ɑ:/", "/ə/", "/eɪ/"],
+        2,
+        "C — an unstressed *a* reduces to /ə/, the weakest vowel. A is *cat*, B is *car*, and D is *gate* — three of the five vowels the same letter can carry.",
+    ),
+    (
+        "Which word has the same vowel sound as *food*?",
+        ["book", "good", "shoe", "flood"],
+        2,
+        "C — *food* and *shoe* are /u:/. A and B are /ʊ/, and D is /ʌ/, which is why *flood* is the trap.",
+    ),
+    (
+        "How many vowel sounds are there in *comfortable*?",
+        ["two", "three", "four", "five"],
+        1,
+        "B — /ʌ/, /ə/ and /əl/: three. A drops a real syllable, and C and D count the written vowels *o*, *o*, *a*, *e*.",
+    ),
+    (
+        "Which word contains a silent *l*?",
+        ["lamp", "calm", "clean", "yellow"],
+        1,
+        "B — *l* before *m* is silent, as in *salmon* and *palm*. The other three pronounce the *l*.",
+    ),
+    (
+        "The two *th* sounds differ in",
+        ["length", "voicing", "place of articulation", "spelling"],
+        1,
+        "B — both are made with the tongue between the teeth; only the vibration differs. A is false of the pair, C is the same for both, and D is a property of the written word, not of the sound.",
+    ),
+    (
+        "Which word does NOT contain /ʌ/?",
+        ["cup", "son", "put", "blood"],
+        2,
+        "C — *put* has /ʊ/. A, B and D all have /ʌ/ despite the three different spellings *u*, *o* and *oo*.",
+    ),
+    (
+        "In which word is the *k* silent?",
+        ["kettle", "knife", "skin", "basket"],
+        1,
+        "B — *k* before *n* is silent: knee, know, knock. The other three pronounce it.",
+    ),
+    (
+        "The sound /ʒ/ appears in",
+        ["shoe", "measure", "chair", "judge"],
+        1,
+        "B — *measure* has the voiced /ʒ/ in the middle. A is /ʃ/, C is /tʃ/ and D is /dʒ/.",
+    ),
+    (
+        "Which spelling can carry the sound /i:/?",
+        ["ea as in sea", "ea as in bread", "ie as in friend", "e as in bed"],
+        0,
+        "A — *sea*, *seat* and *team* all take /i:/. B is /e/, C is /e/ and D is /e/, which is why the same letters cannot be trusted without the word.",
+    ),
+    (
+        "A candidate who treats spelling as a guide to sound will",
+        ["answer correctly", "mis-sort words whose spelling hides the vowel", "count syllables wrongly only", "read faster"],
+        1,
+        "B — *son*, *blood* and *cup* share a sound and share no letter, which is the whole point of the section. A is what the method prevents, C understates the damage, and D is unrelated.",
+    ),
+    (
+        "How many syllables are there in *comfortable*?",
+        ["three", "four", "five", "two"],
+        0,
+        "A — *comf-ta-ble*. B counts the written vowels, C counts them twice over, and D drops a real syllable.",
+    ),
+    (
+        "Which word contains the sound /tʃ/?",
+        ["ship", "cheap", "jeep", "zip"],
+        1,
+        "B — *cheap* begins with the voiceless affricate. A is /ʃ/, C is its voiced partner, and D is /z/.",
+    ),
+    (
+        "The letter *h* is silent in",
+        ["house", "hour", "hotel", "hand"],
+        1,
+        "B — *hour* and *honest* drop the *h*. The other three pronounce it, which is why the pair must be learned as words.",
+    ),
+    (
+        "Which pair of words rhyme?",
+        ["night / eight", "though / cough", "light / sight", "food / good"],
+        2,
+        "C — *light* and *sight* share the vowel and the final consonant. A differs in the vowel, B differs in the final consonant and the vowel, and D differs in vowel length.",
+    ),
+    (
+        "The vowel in *said* is",
+        ["/e/", "/eɪ/", "/aɪ/", "/æ/"],
+        0,
+        "A — *said* is /sed/, which is why *day* is not its rhyme. B is *say*, C is *sigh*, and D is *sad*.",
+    ),
+    (
+        "Which word contains a silent *g*?",
+        ["gate", "sign", "gold", "glue"],
+        1,
+        "B — *g* before *n* is silent: sign, design, reign, foreign. The other three pronounce it.",
+    ),
+    (
+        "The main difference between /ʃ/ and /ʒ/ is",
+        ["voicing", "place", "length", "spelling"],
+        0,
+        "A — the mouth position is the same and only the vibration differs, as in *shoe* and *vision*. B is shared, C is not a feature of consonants, and D is not a sound at all.",
+    ),
+    (
+        "Which word has two syllables?",
+        ["queue", "strength", "table", "through"],
+        2,
+        "C — *ta-ble*. A is one syllable despite five letters, B is one heavy syllable, and D is one syllable despite seven letters.",
+    ),
+    (
+        "A homophone is a pair of words that",
+        ["sound the same and are spelled differently", "are spelled the same and sound different", "rhyme", "differ by one sound"],
+        0,
+        "A — *bear* and *bare*, *fair* and *fare*. B describes a homograph, C describes a rhyme, and D describes a minimal pair.",
+    ),
+    (
+        "Which word contains the sound /ɔ:/?",
+        ["hot", "saw", "cup", "sit"],
+        1,
+        "B — *saw* is /sɔ:/. A is /ɒ/, the short partner the paper pairs it with; C is /ʌ/ and D is /ɪ/.",
+    ),
+    (
+        "The letter *u* in *put* is pronounced",
+        ["/u:/", "/ʊ/", "/ʌ/", "/ɪ/"],
+        1,
+        "B — *put*, *pull* and *full* take /ʊ/. A is *food*, C is *cup*, and D is *sit*.",
+    ),
+    (
+        "In which word is the *t* pronounced as /tʃ/?",
+        ["nation", "time", "water", "tree"],
+        0,
+        "A — the *ti* of *nation* is /ʃ/ in most varieties and the *t* before *u* in *nature* is /tʃ/, which is the pattern behind *picture*, *question* and *future*. C is a flap in many accents, and B and D keep a plain /t/.",
+    ),
+    (
+        "Which statement about English spelling is true?",
+        ["each letter has one sound", "one sound can be spelled in several ways", "silent letters do not exist", "the alphabet has forty-four letters"],
+        1,
+        "B — /i:/ is spelled *ea*, *ee*, *ie* and *e*. A is false of English, C is contradicted by *know* and *walk*, and D confuses letters with sounds.",
+    ),
+]

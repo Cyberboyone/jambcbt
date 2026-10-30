@@ -1,0 +1,92 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 406" width="760" height="406">
+  <defs>
+    <marker id="ag" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#008751"/>
+    </marker>
+    <marker id="an" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#0E1F40"/>
+    </marker>
+    <marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#D97706"/>
+    </marker>
+    <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#DC2626"/>
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="760" height="406" fill="#FFFFFF"/>
+<text x="380.0" y="26" font-family="DejaVu Sans" font-size="12.6" fill="#0E1F40" text-anchor="middle" font-weight="bold">The twelve pure vowels, with the spelling that usually carries each</text>
+<rect x="12" y="38" width="736" height="24" rx="5" fill="#0E1F40" stroke="#0E1F40" stroke-width="0"/>
+<text x="20" y="54" font-family="DejaVu Sans" font-size="9.0" fill="#FFFFFF" text-anchor="start" font-weight="bold">Symbol</text>
+<text x="106.84745762711863" y="54" font-family="DejaVu Sans" font-size="9.0" fill="#FFFFFF" text-anchor="start" font-weight="bold">Example</text>
+<text x="243.32203389830505" y="54" font-family="DejaVu Sans" font-size="9.0" fill="#FFFFFF" text-anchor="start" font-weight="bold">The spelling</text>
+<text x="429.42372881355925" y="54" font-family="DejaVu Sans" font-size="9.0" fill="#FFFFFF" text-anchor="start" font-weight="bold">Not to be confused with</text>
+<text x="20" y="76.0" font-family="DejaVu Sans" font-size="9.2" fill="#0E1F40" text-anchor="start" font-weight="bold">/i:/</text>
+<text x="106.84745762711863" y="76.0" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="start" font-weight="normal">seat</text>
+<text x="243.32203389830505" y="76.0" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="start" font-weight="normal">ea, ee, ie</text>
+<text x="429.42372881355925" y="76.0" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="start" font-weight="normal">/ɪ/ sit — shorter and looser</text>
+<line x1="12" y1="86.328" x2="748" y2="86.328" stroke="#CBD5E1" stroke-width="0.6"/>
+<rect x="12" y="86.328" width="736" height="24.328" rx="0" fill="#F8FAFC" stroke="none" stroke-width="0"/>
+<text x="20" y="100.328" font-family="DejaVu Sans" font-size="9.2" fill="#0E1F40" text-anchor="start" font-weight="bold">/ɪ/</text>
+<text x="106.84745762711863" y="100.328" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="start" font-weight="normal">sit</text>
+<text x="243.32203389830505" y="100.328" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="start" font-weight="normal">i, y, ui</text>
+<text x="429.42372881355925" y="100.328" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="start" font-weight="normal">/i:/ seat</text>
+<line x1="12" y1="110.656" x2="748" y2="110.656" stroke="#CBD5E1" stroke-width="0.6"/>
+<text x="20" y="124.656" font-family="DejaVu Sans" font-size="9.2" fill="#0E1F40" text-anchor="start" font-weight="bold">/e/</text>
+<text x="106.84745762711863" y="124.656" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="start" font-weight="normal">bed</text>
+<text x="243.32203389830505" y="124.656" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="start" font-weight="normal">e, ea</text>
+<text x="429.42372881355925" y="124.656" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="start" font-weight="normal">/æ/ bad</text>
+<line x1="12" y1="134.984" x2="748" y2="134.984" stroke="#CBD5E1" stroke-width="0.6"/>
+<rect x="12" y="134.984" width="736" height="24.328" rx="0" fill="#F8FAFC" stroke="none" stroke-width="0"/>
+<text x="20" y="148.984" font-family="DejaVu Sans" font-size="9.2" fill="#0E1F40" text-anchor="start" font-weight="bold">/æ/</text>
+<text x="106.84745762711863" y="148.984" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="start" font-weight="normal">bad</text>
+<text x="243.32203389830505" y="148.984" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="start" font-weight="normal">a</text>
+<text x="429.42372881355925" y="148.984" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="start" font-weight="normal">/e/ bed, /ɑ:/ car</text>
+<line x1="12" y1="159.312" x2="748" y2="159.312" stroke="#CBD5E1" stroke-width="0.6"/>
+<text x="20" y="173.312" font-family="DejaVu Sans" font-size="9.2" fill="#0E1F40" text-anchor="start" font-weight="bold">/ɑ:/</text>
+<text x="106.84745762711863" y="173.312" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="start" font-weight="normal">car</text>
+<text x="243.32203389830505" y="173.312" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="start" font-weight="normal">ar, a + r</text>
+<text x="429.42372881355925" y="173.312" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="start" font-weight="normal">/æ/ cat</text>
+<line x1="12" y1="183.64000000000001" x2="748" y2="183.64000000000001" stroke="#CBD5E1" stroke-width="0.6"/>
+<rect x="12" y="183.64000000000001" width="736" height="24.328" rx="0" fill="#F8FAFC" stroke="none" stroke-width="0"/>
+<text x="20" y="197.64000000000001" font-family="DejaVu Sans" font-size="9.2" fill="#0E1F40" text-anchor="start" font-weight="bold">/ɒ/</text>
+<text x="106.84745762711863" y="197.64000000000001" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="start" font-weight="normal">hot</text>
+<text x="243.32203389830505" y="197.64000000000001" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="start" font-weight="normal">o, au</text>
+<text x="429.42372881355925" y="197.64000000000001" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="start" font-weight="normal">/ɔ:/ saw</text>
+<line x1="12" y1="207.96800000000002" x2="748" y2="207.96800000000002" stroke="#CBD5E1" stroke-width="0.6"/>
+<text x="20" y="221.96800000000002" font-family="DejaVu Sans" font-size="9.2" fill="#0E1F40" text-anchor="start" font-weight="bold">/ɔ:/</text>
+<text x="106.84745762711863" y="221.96800000000002" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="start" font-weight="normal">saw</text>
+<text x="243.32203389830505" y="221.96800000000002" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="start" font-weight="normal">aw, or, ough</text>
+<text x="429.42372881355925" y="221.96800000000002" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="start" font-weight="normal">/ɒ/ hot</text>
+<line x1="12" y1="232.29600000000002" x2="748" y2="232.29600000000002" stroke="#CBD5E1" stroke-width="0.6"/>
+<rect x="12" y="232.29600000000002" width="736" height="24.328" rx="0" fill="#F8FAFC" stroke="none" stroke-width="0"/>
+<text x="20" y="246.29600000000002" font-family="DejaVu Sans" font-size="9.2" fill="#0E1F40" text-anchor="start" font-weight="bold">/ʊ/</text>
+<text x="106.84745762711863" y="246.29600000000002" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="start" font-weight="normal">book</text>
+<text x="243.32203389830505" y="246.29600000000002" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="start" font-weight="normal">oo, u</text>
+<text x="429.42372881355925" y="246.29600000000002" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="start" font-weight="normal">/u:/ food</text>
+<line x1="12" y1="256.624" x2="748" y2="256.624" stroke="#CBD5E1" stroke-width="0.6"/>
+<text x="20" y="270.624" font-family="DejaVu Sans" font-size="9.2" fill="#0E1F40" text-anchor="start" font-weight="bold">/u:/</text>
+<text x="106.84745762711863" y="270.624" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="start" font-weight="normal">food</text>
+<text x="243.32203389830505" y="270.624" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="start" font-weight="normal">oo, ue, ew</text>
+<text x="429.42372881355925" y="270.624" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="start" font-weight="normal">/ʊ/ book</text>
+<line x1="12" y1="280.952" x2="748" y2="280.952" stroke="#CBD5E1" stroke-width="0.6"/>
+<rect x="12" y="280.952" width="736" height="24.328" rx="0" fill="#F8FAFC" stroke="none" stroke-width="0"/>
+<text x="20" y="294.952" font-family="DejaVu Sans" font-size="9.2" fill="#0E1F40" text-anchor="start" font-weight="bold">/ʌ/</text>
+<text x="106.84745762711863" y="294.952" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="start" font-weight="normal">cup</text>
+<text x="243.32203389830505" y="294.952" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="start" font-weight="normal">u, o, ou</text>
+<text x="429.42372881355925" y="294.952" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="start" font-weight="normal">/æ/ cap</text>
+<line x1="12" y1="305.28" x2="748" y2="305.28" stroke="#CBD5E1" stroke-width="0.6"/>
+<text x="20" y="319.28" font-family="DejaVu Sans" font-size="9.2" fill="#0E1F40" text-anchor="start" font-weight="bold">/ɜ:/</text>
+<text x="106.84745762711863" y="319.28" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="start" font-weight="normal">bird</text>
+<text x="243.32203389830505" y="319.28" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="start" font-weight="normal">ir, er, ur</text>
+<text x="429.42372881355925" y="319.28" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="start" font-weight="normal">/e/ bed</text>
+<line x1="12" y1="329.60799999999995" x2="748" y2="329.60799999999995" stroke="#CBD5E1" stroke-width="0.6"/>
+<rect x="12" y="329.60799999999995" width="736" height="24.328" rx="0" fill="#F8FAFC" stroke="none" stroke-width="0"/>
+<text x="20" y="343.60799999999995" font-family="DejaVu Sans" font-size="9.2" fill="#0E1F40" text-anchor="start" font-weight="bold">/ə/</text>
+<text x="106.84745762711863" y="343.60799999999995" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="start" font-weight="normal">about</text>
+<text x="243.32203389830505" y="343.60799999999995" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="start" font-weight="normal">any unstressed vowel</text>
+<text x="429.42372881355925" y="343.60799999999995" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="start" font-weight="normal">every other vowel — it is the weakest of the twelve</text>
+<line x1="12" y1="353.9359999999999" x2="748" y2="353.9359999999999" stroke="#CBD5E1" stroke-width="0.6"/>
+<text x="380.0" y="370.9359999999999" font-family="DejaVu Sans" font-size="9.0" fill="#64748B" text-anchor="middle" font-weight="normal">The paper asks which word contains the same vowel sound, so the symbol matters less than the pair. Learn the pairs: seat / sit, bad / bed, book / food, hot /</text>
+<text x="380.0" y="383.53599999999994" font-family="DejaVu Sans" font-size="9.0" fill="#64748B" text-anchor="middle" font-weight="normal">saw.</text>
+<rect x="12" y="10" width="736" height="392.1359999999999" rx="9" fill="none" stroke="#008751" stroke-width="1.4"/>
+</svg>

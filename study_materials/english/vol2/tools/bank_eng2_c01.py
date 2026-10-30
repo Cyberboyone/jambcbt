@@ -1,0 +1,248 @@
+"""Drill bank — Use of English Volume 2, Chapter 1 (reading for the main idea).
+
+Each item is (stem, [A, B, C, D], index_of_correct_option, solution). The
+solution accounts for every option, not only the key.
+"""
+
+DRILL_1 = [
+    (
+        "When a comprehension passage is followed by four questions, the first thing to read is",
+        ["the passage", "the questions and their options", "the first paragraph twice", "the title"],
+        1,
+        "B — the questions tell you which sentences matter, so they come first. The passage read first is four hundred words of which about twenty are needed; the title is often absent from the screen; and reading a paragraph twice before knowing what it is for is time spent twice.",
+    ),
+    (
+        "“Lagos has more than fifteen million people. That figure explains why its transport system is permanently at breaking point.” The topic sentence of this paragraph is",
+        ["the first sentence", "the second sentence", "both sentences equally", "neither, because there is no claim"],
+        1,
+        "B — the first sentence gives a figure, and a figure is not a claim. The second sentence turns the figure into an argument, so it is the topic sentence. C and D mistake a supporting fact for a claim and a claim for an absence of one.",
+    ),
+    (
+        "A paragraph whose first sentence is “For instance, in Kano the scheme failed” most probably has its claim",
+        ["in that first sentence", "in the sentence after the example", "in the last sentence only", "in the previous paragraph"],
+        1,
+        "B — *for instance* announces support, so the claim it supports must follow it. A contradicts the word *for instance*; C is only right when the writer builds to the point without an example first; D would make the example belong to a different claim.",
+    ),
+    (
+        "Which option would be WRONG as the answer to “What is the passage mainly about?”",
+        ["a claim supported by every paragraph", "a claim supported by one paragraph", "the conclusion the writer reaches", "the argument the examples prove"],
+        1,
+        "B — a claim supported by one paragraph is a detail, and a detail never answers a main-idea question, however true it is. A, C and D all describe claims that the whole passage works towards.",
+    ),
+    (
+        "“Nobody is told that the toll will cost a trader half a day's profit… A bridge that only cars can use is not a bridge for a market town.” The writer's purpose is to",
+        ["describe a bridge design", "argue that the bridge ignores the town that needs it", "explain toll collection", "compare two towns"],
+        1,
+        "B — the last sentence is a verdict, and the purpose of a passage is carried by its verdict. A describes only the opening clause, C never appears in the passage, and D invents a second town.",
+    ),
+    (
+        "“The ministry published the rules and gave the schools six weeks to comply.” The pronoun that can replace *the schools* is",
+        ["it", "them", "they", "their"],
+        1,
+        "B — *the schools* is the object of *gave*, and the object form is *them*. A is singular and cannot stand for a plural noun, C is the subject form, and D is possessive, which would need a noun after it.",
+    ),
+    (
+        "An option that sums up the passage's subject but makes no claim is best described as",
+        ["too narrow", "too broad", "a reversal", "an invention"],
+        1,
+        "B — a subject without a claim (for example “market traders in Lagos”) is too broad: it could be the title of a hundred passages. A is the fault of a detail, C of an option that swaps cause and effect, D of one the passage never mentions.",
+    ),
+    (
+        "“The exercise books were not the problem” is a sentence that usually",
+        ["introduces the support", "turns the argument towards its claim", "repeats the first sentence", "ends the passage"],
+        1,
+        "B — a negation of what has just been described signals that the real claim is coming, and the claim is normally the next sentence. A is the job of *for example*, C would need the same words again, and D is not what a turn does.",
+    ),
+    (
+        "Skimming a passage means reading",
+        ["every word quickly", "the first and last sentence of each paragraph", "only the questions", "the longest paragraph twice"],
+        1,
+        "B — the first and last sentences carry the claims, which is what a skim is for. A is speed-reading, which no question needs; C leaves you without the passage; D wastes time on one paragraph.",
+    ),
+    (
+        "The main idea of a passage must be supported by",
+        ["at least one paragraph", "the first paragraph", "every paragraph", "the last paragraph"],
+        2,
+        "C — coverage is the test that separates a main idea from a detail, and only a claim the whole passage serves passes it. A, B and D describe the scope of a detail rather than of a main idea.",
+    ),
+    (
+        "“The council has promised a lorry park for eleven years; the file has moved between three departments and been lost once.” The main idea is that",
+        ["the council has promised a lorry park", "the promise has been repeatedly shelved", "a file was lost", "the council has three departments"],
+        1,
+        "B — the two clauses together make a claim about neglect, and neither clause does on its own. A and C are the two details that support it, and D is invented from *three departments*.",
+    ),
+    (
+        "A candidate who answers comprehension questions from memory rather than from the sentence is most likely to",
+        ["run out of time", "choose a true statement that answers a different question", "misread the instructions", "lose marks for spelling"],
+        1,
+        "B — memory keeps the striking detail, and the striking detail is what the wrong options are built from. A is the opposite risk (memory is fast), C and D are unrelated to where the answer comes from.",
+    ),
+    (
+        "“According to the passage” introduces a question that wants",
+        ["an inference", "a stated fact", "the writer's opinion", "the main idea"],
+        1,
+        "B — *according to* means the passage says it, so the answer is a stated fact found in one sentence. A needs the words *implies* or *suggests*, C needs *the writer believes*, and D needs *mainly about*.",
+    ),
+    (
+        "The best title for a passage is",
+        ["the first sentence of the passage", "a phrase wide enough to cover every paragraph", "the longest option", "a sentence stating one detail"],
+        1,
+        "B — a title compresses the main idea to a phrase, so it must cover the whole passage. A is a sentence and often a detail, C has no logic in it, and D is a detail by definition.",
+    ),
+    (
+        "“Which of the following is NOT stated in the passage?” The word NOT tells you that",
+        ["three options are false", "three options are stated and one is not", "all four options are stated", "the passage contradicts itself"],
+        1,
+        "B — a negation question sets three true statements against one absence, and the absence is the answer. A is the reading error the word is designed to cause, C would leave no answer, and D is not implied by a NOT question.",
+    ),
+    (
+        "A passage that describes a problem in the first paragraph and a solution in the second has its main idea",
+        ["in the first paragraph", "in the second paragraph", "split evenly between them", "in neither"],
+        1,
+        "B — in a problem–solution shape the solution is the claim, because the problem exists to justify it. A states the set-up rather than the claim, C ignores that the writer prefers one of the two, and D contradicts the shape.",
+    ),
+    (
+        "The words *however*, *moreover* and *in short* are useful because they",
+        ["make the passage longer", "signpost a turn, an addition or a summary", "are always the topic sentence", "show the writer's tone"],
+        1,
+        "B — each announces the job of the sentence it opens, which is exactly what a skim needs. A is true of no signpost, C is too strong (a signpost may open support), and D is the work of adjectives, not connectives.",
+    ),
+    (
+        "When the last sentence of a passage is a judgement rather than a fact, it usually carries",
+        ["the supporting detail", "the writer's purpose or verdict", "a definition", "a quotation"],
+        1,
+        "B — writers stop reporting when they are ready to conclude, so the verdict sits last. A is the job of the middle sentences, C is rare in a closing position, and D is evidence rather than conclusion.",
+    ),
+    (
+        "A paragraph that opens with a question most often puts its claim",
+        ["in the question", "in the sentence after the question", "in the previous paragraph", "nowhere"],
+        1,
+        "B — a rhetorical question sets up the claim that answers it. A is impossible because a question asserts nothing, C would disconnect the paragraph from its own opening, and D is only true of a paragraph with no claim at all.",
+    ),
+    (
+        "“In short, the clinic needed a system, not more exercise books.” The phrase *in short* signals that the sentence",
+        ["adds a new example", "restates the claim in fewer words", "contradicts the passage", "introduces a quotation"],
+        1,
+        "B — *in short* announces a compression of what has been argued, which is why the sentence is often the best main-idea answer in the passage. A is the job of *for example*, C of *however*, and D of a colon followed by a quotation.",
+    ),
+    (
+        "The safest way to check a chosen option is to",
+        ["read the passage again", "put the option back into the sentence it came from", "compare it with the other options", "choose the longest option"],
+        1,
+        "B — substitution is a test, because the sentence will stop making sense if the option is wrong. A costs the time you do not have, C compares four candidates without evidence, and D is a superstition.",
+    ),
+    (
+        "A question that quotes a line number tells you",
+        ["where to start reading", "where the answer is", "that the passage is difficult", "that the question is a trap"],
+        1,
+        "B — a line reference is the examiner handing you the sentence. A understates it (it is the answer's address, not a starting point), C and D read difficulty into a courtesy.",
+    ),
+    (
+        "Which of these is a claim rather than a topic?",
+        ["The state of the roads in Kano", "Roads in Kano are repaired only in election years", "Kano, its roads and its people", "A description of Kano's roads"],
+        1,
+        "B — a claim says something that can be argued, which the other three do not. A and C are noun phrases, and D is a label for a piece of writing.",
+    ),
+    (
+        "The single most expensive habit in a comprehension paper is",
+        ["reading the options", "reading the passage before the questions", "marking the passage", "checking the answer"],
+        1,
+        "B — it fills the mind with detail the questions never ask for and leaves no time to find the sentences that matter. A, C and D are all parts of the method and all save time.",
+    ),
+    (
+        "“The scheme was praised by the governor, whose officials had designed it.” A candidate who needs to know who designed the scheme should notice",
+        ["the passive verb", "the relative clause *whose officials had designed it*", "the word *scheme*", "the tense of *praised*"],
+        1,
+        "B — the relative clause names the designers. A tells you who praised, not who designed; C is the topic rather than the answer; D tells you when, not who.",
+    ),
+    (
+        "A detail may be used as evidence in a main-idea answer only if",
+        ["it is the first sentence", "it supports the claim you are choosing", "it contains a number", "it is repeated twice"],
+        1,
+        "B — evidence supports a claim; on its own a detail is only a detail. A and C describe what details often look like, and D describes emphasis, not relevance.",
+    ),
+    (
+        "“The traders moved two hundred metres and set the stones down again.” In a passage arguing that the traders govern themselves, this sentence functions as",
+        ["the claim", "evidence for the claim", "a counter-argument", "the conclusion"],
+        1,
+        "B — the sentence reports an action that proves a claim made elsewhere. A would require the sentence to assert something general, C would require it to oppose the argument, and D would place it at the end as a verdict.",
+    ),
+    (
+        "Reading the four questions first is most useful when",
+        ["the passage is short", "the questions name people, lines or quoted phrases", "the passage is long", "the options are short"],
+        1,
+        "B — names, line numbers and quotations are addresses, and a preview turns them into a reading plan. A and C describe length, which changes the time budget but not the method; D describes the options, which the preview also reads.",
+    ),
+    (
+        "The main idea of a two-sentence passage is usually found by",
+        ["taking the first sentence", "joining what both sentences claim", "taking the second sentence", "looking for a quotation"],
+        1,
+        "B — with only two sentences, each is likely to carry half the claim. A and C ignore the other half, and D has nothing to do with the main idea.",
+    ),
+    (
+        "“He has refused to sanction the plan.” If *sanction* here means *approve*, the sentence says the man has",
+        ["punished the plan", "declined to approve it", "announced it", "funded it"],
+        1,
+        "B — *refused to approve* is the sense the syntax allows here. A is the word's other life, which the verb *refused* rules out; C and D are senses the word does not have.",
+    ),
+    (
+        "The purpose of numbering paragraphs in the margin is",
+        ["to count the words", "to let a question send you straight to a paragraph", "to show the examiner you read it", "to find spelling errors"],
+        1,
+        "B — the numbers are addresses for the questions, which is the whole point of marking a passage. A, C and D are none of the reasons the method exists.",
+    ),
+    (
+        "“Which of the following best summarises the passage?” differs from “According to the passage…” because the first asks for",
+        ["a detail", "a claim covering the whole passage", "a quotation", "a definition"],
+        1,
+        "B — *summarises* is a coverage word. A is what *according to* asks for, C is what a quotation question asks for, and D is what *as used in the passage* asks for.",
+    ),
+    (
+        "An option that reverses the cause and effect of the passage is",
+        ["almost certainly the key", "a trap built from a true sentence", "a restatement", "an inference"],
+        1,
+        "B — the words are the passage's words and the relationship is backwards, which is why it feels right. A, C and D all describe an option that preserves the relationship.",
+    ),
+    (
+        "When two options both seem possible, the one to prefer is the one",
+        ["that is longer", "whose supporting sentence you can point at", "that repeats the passage's words", "that comes first"],
+        1,
+        "B — comprehension is an evidence test, and the option with a sentence behind it wins. A and D are habits, and C describes the lifted-detail trap.",
+    ),
+    (
+        "A passage about a failed scheme that ends “the lesson was learned by nobody” is most likely",
+        ["approving", "critical", "neutral", "celebratory"],
+        1,
+        "B — *learned by nobody* is a judgement against the people concerned. A and D are the opposite of the verdict, and C would need a passage that reports without judging.",
+    ),
+    (
+        "The fastest way to find the sentence that answers a detail question is to",
+        ["read the passage again", "scan for the question's key word", "read every first sentence", "look at the options"],
+        1,
+        "B — a name, a date or a quoted phrase is unique enough to scan for. A costs minutes, C finds claims rather than details, and D shows you the answers without the evidence.",
+    ),
+    (
+        "A candidate who has spent five minutes on a passage has time left for",
+        ["nothing", "about a minute of checking and answering", "another passage", "a second reading"],
+        1,
+        "B — the budget is about six minutes for a passage and its four questions, so roughly a minute remains. A assumes the budget is five minutes, C ignores the other questions, and D would double the cost.",
+    ),
+    (
+        "“The file has moved between three departments and been lost once.” The tone of this sentence is",
+        ["admiring", "deadpan", "alarmed", "apologetic"],
+        1,
+        "B — the flat reporting of an absurd sequence is the writer's deadpan, and the criticism is in the facts rather than in an adjective. A and D are the opposite of the implied judgement, and C would need an explicit warning.",
+    ),
+    (
+        "Which question is answered by the passage as a whole rather than by one sentence?",
+        ["What is the population of Lagos?", "Why does the market road fail?", "When was the lorry park promised?", "Who lost the file?"],
+        1,
+        "B — a *why* question needs the argument, which is spread across the paragraphs. A, C and D are each answered by a single stated fact.",
+    ),
+    (
+        "The final minute of a comprehension section is best spent",
+        ["re-reading the passage", "checking that every question has an answer", "changing doubtful answers", "reading the instructions again"],
+        1,
+        "B — an unanswered box is a certain loss and a guess is a one-in-four chance, so completeness comes first. A costs time, C usually loses marks, and D is work you did at the start.",
+    ),
+]

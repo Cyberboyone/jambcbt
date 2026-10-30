@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 260" width="760" height="260">
+  <defs>
+    <marker id="ag" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#008751"/>
+    </marker>
+    <marker id="an" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#0E1F40"/>
+    </marker>
+    <marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#D97706"/>
+    </marker>
+    <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#DC2626"/>
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="760" height="260" fill="#FFFFFF"/>
+<text x="380.0" y="26" font-family="DejaVu Sans" font-size="12.6" fill="#0E1F40" text-anchor="middle" font-weight="bold">Tone words, and what each one commits the writer to</text>
+<rect x="12" y="38" width="736" height="24" rx="5" fill="#0E1F40" stroke="#0E1F40" stroke-width="0"/>
+<text x="20" y="54" font-family="DejaVu Sans" font-size="9.0" fill="#FFFFFF" text-anchor="start" font-weight="bold">Tone</text>
+<text x="150.71428571428572" y="54" font-family="DejaVu Sans" font-size="9.0" fill="#FFFFFF" text-anchor="start" font-weight="bold">The writer is</text>
+<text x="359.8571428571429" y="54" font-family="DejaVu Sans" font-size="9.0" fill="#FFFFFF" text-anchor="start" font-weight="bold">The clue in the text</text>
+<text x="20" y="76.0" font-family="DejaVu Sans" font-size="9.2" fill="#0E1F40" text-anchor="start" font-weight="bold">Neutral</text>
+<text x="150.71428571428572" y="76.0" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="start" font-weight="normal">reporting without judgement</text>
+<text x="359.8571428571429" y="76.0" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="start" font-weight="normal">plain verbs, no adjectives of value, figures and dates</text>
+<line x1="12" y1="86.328" x2="748" y2="86.328" stroke="#CBD5E1" stroke-width="0.6"/>
+<rect x="12" y="86.328" width="736" height="24.328" rx="0" fill="#F8FAFC" stroke="none" stroke-width="0"/>
+<text x="20" y="100.328" font-family="DejaVu Sans" font-size="9.2" fill="#0E1F40" text-anchor="start" font-weight="bold">Critical</text>
+<text x="150.71428571428572" y="100.328" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="start" font-weight="normal">finding fault</text>
+<text x="359.8571428571429" y="100.328" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="start" font-weight="normal">*so-called*, *alleged*, *merely*, quotation marks around a claim</text>
+<line x1="12" y1="110.656" x2="748" y2="110.656" stroke="#CBD5E1" stroke-width="0.6"/>
+<text x="20" y="124.656" font-family="DejaVu Sans" font-size="9.2" fill="#0E1F40" text-anchor="start" font-weight="bold">Approving</text>
+<text x="150.71428571428572" y="124.656" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="start" font-weight="normal">endorsing</text>
+<text x="359.8571428571429" y="124.656" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="start" font-weight="normal">*rightly*, *commendable*, *at last*, *prudent*</text>
+<line x1="12" y1="134.984" x2="748" y2="134.984" stroke="#CBD5E1" stroke-width="0.6"/>
+<rect x="12" y="134.984" width="736" height="24.328" rx="0" fill="#F8FAFC" stroke="none" stroke-width="0"/>
+<text x="20" y="148.984" font-family="DejaVu Sans" font-size="9.2" fill="#0E1F40" text-anchor="start" font-weight="bold">Cautious</text>
+<text x="150.71428571428572" y="148.984" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="start" font-weight="normal">hedging</text>
+<text x="359.8571428571429" y="148.984" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="start" font-weight="normal">*may*, *appears to*, *it would seem*, *on present evidence*</text>
+<line x1="12" y1="159.312" x2="748" y2="159.312" stroke="#CBD5E1" stroke-width="0.6"/>
+<text x="20" y="173.312" font-family="DejaVu Sans" font-size="9.2" fill="#0E1F40" text-anchor="start" font-weight="bold">Ironic</text>
+<text x="150.71428571428572" y="173.312" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="start" font-weight="normal">meaning the opposite</text>
+<text x="359.8571428571429" y="173.312" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="start" font-weight="normal">praise that the facts contradict</text>
+<line x1="12" y1="183.64000000000001" x2="748" y2="183.64000000000001" stroke="#CBD5E1" stroke-width="0.6"/>
+<rect x="12" y="183.64000000000001" width="736" height="24.328" rx="0" fill="#F8FAFC" stroke="none" stroke-width="0"/>
+<text x="20" y="197.64000000000001" font-family="DejaVu Sans" font-size="9.2" fill="#0E1F40" text-anchor="start" font-weight="bold">Alarmed</text>
+<text x="150.71428571428572" y="197.64000000000001" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="start" font-weight="normal">warning</text>
+<text x="359.8571428571429" y="197.64000000000001" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="start" font-weight="normal">*unless*, *before it is too late*, *at this rate*</text>
+<line x1="12" y1="207.96800000000002" x2="748" y2="207.96800000000002" stroke="#CBD5E1" stroke-width="0.6"/>
+<text x="380.0" y="224.96800000000002" font-family="DejaVu Sans" font-size="9.0" fill="#64748B" text-anchor="middle" font-weight="normal">Tone is a property of the words the writer chose, not of the subject. Two passages can describe the same drought and one can be sympathetic while the other is</text>
+<text x="380.0" y="237.568" font-family="DejaVu Sans" font-size="9.0" fill="#64748B" text-anchor="middle" font-weight="normal">impatient.</text>
+<rect x="12" y="10" width="736" height="246.168" rx="9" fill="none" stroke="#008751" stroke-width="1.4"/>
+</svg>

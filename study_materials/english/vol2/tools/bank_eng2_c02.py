@@ -1,0 +1,248 @@
+"""Drill bank — Use of English Volume 2, Chapter 2 (the question types).
+
+Each item is (stem, [A, B, C, D], index_of_correct_option, solution). The
+solution accounts for every option, not only the key.
+"""
+
+DRILL_2 = [
+    (
+        "“According to the passage” introduces a question that can be answered by",
+        ["taking one step from the text", "finding the one sentence that states it", "reading the whole passage again", "the writer's tone"],
+        1,
+        "B — *according to* means the passage states it, so one sentence holds it. A describes an inference, C wastes time, and D is the work of a tone question.",
+    ),
+    (
+        "The question “The word *table* as used in the passage means…” is answered by",
+        ["the dictionary sense you learned first", "the clause around the word", "the title of the passage", "the tense of the sentence"],
+        1,
+        "B — a word with two lives is decided by its sentence. A is the trap the examiner sets, C rarely contains the word's sense, and D tells you when, not what.",
+    ),
+    (
+        "“The council raised the levy without consulting a trader, and this is what the association objected to.” The referent of *this* is",
+        ["the levy", "the raising of the levy without consultation", "the council", "the traders"],
+        1,
+        "B — *this* stands for the clause before it, which is an action. A is the noun inside the clause, C is the actor, and D are the people affected.",
+    ),
+    (
+        "A question containing EXCEPT is answered by",
+        ["the statement that is in the passage", "the statement that is not in the passage", "the longest option", "the writer's opinion"],
+        1,
+        "B — EXCEPT sets three statements that are in the passage against one that is not. A is the reading error the word is designed to cause, C and D have no bearing on the type.",
+    ),
+    (
+        "Which question type is answered by an adjective rather than a sentence?",
+        ["detail", "tone", "reference", "negation"],
+        1,
+        "B — a tone question wants a word such as *critical* or *approving*. A and C want a sentence from the passage, and D wants the one statement that is missing.",
+    ),
+    (
+        "“The writer's purpose is to…” is best answered with",
+        ["a noun phrase", "a verb such as *warn* or *correct*", "a quotation", "a date"],
+        1,
+        "B — purpose is an action, so the answer is a verb. A describes a topic, C gives evidence rather than purpose, and D is a detail.",
+    ),
+    (
+        "An option that repeats a sentence from the passage word for word is usually",
+        ["the key", "a lifted detail and therefore a trap", "an inference", "a summary"],
+        1,
+        "B — the lifted sentence answers some question, but rarely the one asked. A is what a candidate in a hurry believes, C needs a step from the text, and D would need the whole passage compressed.",
+    ),
+    (
+        "The option that changes one word of a passage sentence — *most* for *all*, *may* for *will* — is called",
+        ["a reversal", "an almost-true", "an invention", "a restatement"],
+        1,
+        "B — the sentence is right and one word is wrong, which is why it survives a quick read. A swaps cause for effect, C is absent from the passage altogether, and D would be the correct answer.",
+    ),
+    (
+        "A reference question and an inference question can both use the word *it*. The difference is that a reference question",
+        ["asks what the pronoun stands for", "asks what the writer thinks", "asks for the main idea", "asks for a quotation"],
+        0,
+        "A — reference is substitution, and the answer is a noun in the passage. B describes tone, C the main idea, and D a quotation question, none of which is the pronoun test.",
+    ),
+    (
+        "“Which of the following is FALSE?” requires you to find",
+        ["the three statements the passage makes", "the one statement the passage contradicts or never makes", "the writer's conclusion", "the main idea"],
+        1,
+        "B — FALSE is a negation question, so three options are supported and one is not. A is half the work rather than the answer, and C and D are different question types.",
+    ),
+    (
+        "A candidate who finds two options that both seem absent from the passage, on a NOT question, should",
+        ["choose the longer one", "return to the passage and check the sentence for each", "choose the first one", "leave it blank"],
+        1,
+        "B — two absences mean one was misread from memory, and only the sentence can settle it. A and C are guesses, and D throws away a quarter of a mark.",
+    ),
+    (
+        "“The writer implies that the scheme will fail.” An implication is",
+        ["a statement the passage makes", "a conclusion the passage's statements force", "a fact from outside the passage", "the writer's opinion of the reader"],
+        1,
+        "B — the passage commits itself, and the conclusion follows from what it says. A is a detail question, C brings in knowledge the paper never assumes, and D confuses the reader with the subject.",
+    ),
+    (
+        "The commonest wrong option on a comprehension paper is",
+        ["a statement from outside the passage", "a true detail that answers a different question", "a very short option", "an option that repeats the question"],
+        1,
+        "B — it looks right because every word of it is in the passage. A is less common, C and D are not shapes the examiner uses.",
+    ),
+    (
+        "“The word *fine* as used in line 3 means…” A candidate who answers *a sum of money paid as a penalty* without reading line 3 is",
+        ["using the sentence correctly", "answering from memory, which the examiner is counting on", "using the reference rule", "applying the negation rule"],
+        1,
+        "B — *fine* also means *delicate* and *excellent*, and only the clause decides. A would require the line to say so, and C and D are rules for different question types.",
+    ),
+    (
+        "A vocabulary-in-context answer must",
+        ["be the word's commonest meaning", "fit the sentence and keep its sense", "be a synonym from the dictionary", "be a single word"],
+        1,
+        "B — the test is substitution: the chosen sense must leave the sentence saying what it said. A and C ignore the clause, and D is not required of the answer.",
+    ),
+    (
+        "“What does *they* refer to?” is answered by looking",
+        ["forward in the passage", "back for a plural noun that fits", "at the title", "at the writer's tone"],
+        1,
+        "B — pronouns point backwards, and the substitute must agree in number. A is rare in English, C rarely carries the noun, and D is a different question type.",
+    ),
+    (
+        "A negation question rewards a candidate who",
+        ["reads the options twice", "marks the negative word before reading the options", "reads the passage twice", "answers last"],
+        1,
+        "B — the whole difficulty is that the negative word is easy to skim, so marking it is the fix. A and C double the time without addressing the error, and D changes nothing.",
+    ),
+    (
+        "“The writer's attitude towards the council is best described as…” The answer is found in",
+        ["the facts the passage reports", "the adjectives and verbs the writer chooses", "the length of the sentences", "the number of quotations"],
+        1,
+        "B — attitude lives in word choice, not in subject matter. A can be read neutrally by a different writer, C and D are stylistic accidents rather than evidence.",
+    ),
+    (
+        "The four shapes of wrong option are the lifted detail, the almost-true, the invention and",
+        ["the paraphrase", "the reversal", "the summary", "the quotation"],
+        1,
+        "B — a reversal swaps cause and effect while keeping the passage's words. A and C are shapes of correct answers, and D is a form of evidence.",
+    ),
+    (
+        "“In line 12, *the proposal* refers to…” The line number is useful because it",
+        ["tells you the passage is difficult", "narrows the search to one sentence", "tells you the answer's length", "shows the writer's tone"],
+        1,
+        "B — a line reference is an address, and addresses save the scan. A, C and D read meanings into a courtesy.",
+    ),
+    (
+        "An inference question's answer must be",
+        ["suggested by the passage", "true in the world", "stated in the passage", "the writer's opinion"],
+        0,
+        "A — the passage must support the step, even if it does not state the conclusion. B is the invention trap, C describes a detail question, and D describes a tone question.",
+    ),
+    (
+        "“Which of the following best expresses the main idea?” An option that describes only the third paragraph is",
+        ["the key", "too narrow", "too broad", "a reversal"],
+        1,
+        "B — coverage of one paragraph makes it a detail. A confuses truth with coverage, C would be a subject without a claim, and D would swap cause and effect.",
+    ),
+    (
+        "The question “The passage suggests that the mill will close” is best tested by asking",
+        ["whether the mill is mentioned", "which sentence forces that conclusion", "how long the passage is", "what the writer's tone is"],
+        1,
+        "B — a suggestion must be forced by something the passage says. A is too weak a test, and C and D do not bear on the claim.",
+    ),
+    (
+        "When a question says “the writer's purpose”, the answer is usually found",
+        ["in the middle paragraph", "where the passage stops reporting and starts judging", "in the title", "in the longest sentence"],
+        1,
+        "B — verdicts come at the point where description ends, which is usually the last sentence. A, C and D do not reliably carry purpose.",
+    ),
+    (
+        "“The word *sanction* as used in the passage means…” A candidate who knows only that *sanction* means *penalise* will",
+        ["answer correctly", "answer the word's other life", "read the passage twice", "choose the longest option"],
+        1,
+        "B — the word also means *approve*, and only the clause decides. A is possible by luck, C does not address the error, and D is a superstition.",
+    ),
+    (
+        "A detail question and a main-idea question differ in that a detail question",
+        ["wants a claim", "wants one stated fact", "wants an adjective", "wants a verb"],
+        1,
+        "B — a detail is a fact in one sentence. A describes a main idea, and C and D describe the shapes of tone and purpose answers.",
+    ),
+    (
+        "“The passage implies that the traders were not consulted.” The word *implies* tells you the answer is",
+        ["quoted in the passage", "a conclusion from what the passage says", "the writer's opinion of the traders", "the main idea"],
+        1,
+        "B — an implication follows from the text without being stated. A would be a detail, C a tone answer, and D a coverage answer.",
+    ),
+    (
+        "A candidate who answers a NOT question with the first option that sounds familiar is",
+        ["applying the negation rule", "likely choosing a statement that is in the passage", "using the reference test", "checking the answer"],
+        1,
+        "B — familiarity is exactly what the three *in* options provide. A is the opposite of the rule, and C and D name other procedures.",
+    ),
+    (
+        "“What is the meaning of *blame* in the sentence ‘The contractor blames the price of diesel’?” The answer should be",
+        ["a synonym that fits the clause", "a definition copied from a dictionary", "the word's etymology", "the opposite of *praise*"],
+        1,
+        "A — vocabulary in context wants a sense that keeps the sentence's meaning. B ignores the clause, C is irrelevant to meaning here, and D gives an antonym rather than the sense.",
+    ),
+    (
+        "Which question type is answered from the whole passage rather than from one sentence?",
+        ["reference", "main idea", "vocabulary", "detail"],
+        1,
+        "B — a main idea must be supported by every paragraph. A, C and D are each answered by a single sentence, which is why they are the three *find the sentence* types.",
+    ),
+    (
+        "“The writer's tone in the last paragraph is…” Tone questions are rare on the paper because",
+        ["tone is hard to define", "most passages carry their attitude in a single sentence", "tone is not examinable", "passages are neutral"],
+        1,
+        "B — the verdict sentence usually settles it, so the paper prefers questions with a sharper answer. A overstates the difficulty, C is false, and D is false of the passages used.",
+    ),
+    (
+        "The question “Which of the following is NOT true according to the passage?” is best worked",
+        ["from the options to the passage", "from the passage to the options", "from the title", "from the writer's tone"],
+        0,
+        "A — for a negation question the passage is the checklist and the options are the candidates, so the pass goes option by option. B risks reading the whole passage to test nothing, C and D do not bear on the type.",
+    ),
+    (
+        "“The new bins have been used, but only by the streets that already had a collector.” The word *but* signals that the sentence",
+        ["supports the council", "limits a claim the council would like to make", "introduces a quotation", "repeats the previous sentence"],
+        1,
+        "B — *but* turns the sentence against the favourable half, which is how writers criticise without an adjective. A is the reading the word prevents, C is the job of a colon, and D is the job of *in short*.",
+    ),
+    (
+        "An option built from a true sentence with its cause and effect swapped is",
+        ["the key", "a reversal", "an invention", "a paraphrase"],
+        1,
+        "B — the words are the passage's and the relationship is backwards. A, C and D all preserve the relationship, and C is absent from the passage altogether.",
+    ),
+    (
+        "The safest order for a comprehension passage is",
+        ["passage, questions, options", "questions, options, passage, answer", "options, passage, questions", "passage, options, questions"],
+        1,
+        "B — the questions and their options are the reading plan, so they come before the passage. A is the expensive habit; C and D separate the question from its options and lose the plan.",
+    ),
+    (
+        "A question that quotes a phrase in quotation marks tells you",
+        ["the phrase is misspelt", "the phrase appears in the passage and can be scanned for", "the answer is a quotation", "the passage is about language"],
+        1,
+        "B — quotation marks are an address, and a distinctive phrase appears once. A and D read meanings into punctuation; C would need the option to be a quotation as well.",
+    ),
+    (
+        "“The passage suggests that the survey took two years.” The word *suggests* means the answer is",
+        ["stated word for word", "supported but not stated", "the main idea", "the writer's attitude"],
+        1,
+        "B — a suggestion is a short step from the text, which is what an inference question wants. A describes a detail question, C a main-idea question, and D a tone question.",
+    ),
+    (
+        "Which is the best reason for reading all four options before choosing?",
+        ["the longest is often right", "a later option may fit the sentence better than an early one", "the options are alphabetical", "the key is usually last"],
+        1,
+        "B — an early option that fits can crowd out a better one, and the comparison is cheap. A and D are superstitions, and C is false of the paper.",
+    ),
+    (
+        "The final check on any comprehension answer is to",
+        ["re-read the whole passage", "put the option back into the sentence and read it", "compare the options with each other", "count the words"],
+        1,
+        "B — substitution is a test with a result: the sentence either still says what it said or it does not. A costs time, C compares candidates without evidence, and D tests nothing.",
+    ),
+    (
+        "“The passage suggests that the survey took two years.” A candidate who answers *the survey was slow* has",
+        ["taken the step the passage takes", "added a judgement the passage does not commit itself to", "misread the number", "answered a main-idea question"],
+        1,
+        "B — the passage says the survey took two years and does not say it was slow, so *slow* is an assumption. A would need the passage to imply the delay was a fault, C is a reading error rather than a step, and D would need a claim covering the whole passage.",
+    ),
+]

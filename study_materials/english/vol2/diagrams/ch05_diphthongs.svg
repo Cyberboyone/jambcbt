@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 296" width="760" height="296">
+  <defs>
+    <marker id="ag" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#008751"/>
+    </marker>
+    <marker id="an" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#0E1F40"/>
+    </marker>
+    <marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#D97706"/>
+    </marker>
+    <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#DC2626"/>
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="760" height="296" fill="#FFFFFF"/>
+<text x="380.0" y="26" font-family="DejaVu Sans" font-size="12.6" fill="#0E1F40" text-anchor="middle" font-weight="bold">The eight gliding vowels, and the spellings that produce them</text>
+<rect x="12" y="38" width="736" height="24" rx="5" fill="#0E1F40" stroke="#0E1F40" stroke-width="0"/>
+<text x="20" y="54" font-family="DejaVu Sans" font-size="9.0" fill="#FFFFFF" text-anchor="start" font-weight="bold">Symbol</text>
+<text x="114.88888888888889" y="54" font-family="DejaVu Sans" font-size="9.0" fill="#FFFFFF" text-anchor="start" font-weight="bold">Example</text>
+<text x="250.44444444444443" y="54" font-family="DejaVu Sans" font-size="9.0" fill="#FFFFFF" text-anchor="start" font-weight="bold">The spelling</text>
+<text x="453.7777777777777" y="54" font-family="DejaVu Sans" font-size="9.0" fill="#FFFFFF" text-anchor="start" font-weight="bold">Common trap</text>
+<text x="20" y="76.0" font-family="DejaVu Sans" font-size="9.2" fill="#0E1F40" text-anchor="start" font-weight="bold">/eɪ/</text>
+<text x="114.88888888888889" y="76.0" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="start" font-weight="normal">day</text>
+<text x="250.44444444444443" y="76.0" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="start" font-weight="normal">a-e, ai, ay</text>
+<text x="453.7777777777777" y="76.0" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="start" font-weight="normal">*said* is /e/, not /eɪ/</text>
+<line x1="12" y1="86.328" x2="748" y2="86.328" stroke="#CBD5E1" stroke-width="0.6"/>
+<rect x="12" y="86.328" width="736" height="24.328" rx="0" fill="#F8FAFC" stroke="none" stroke-width="0"/>
+<text x="20" y="100.328" font-family="DejaVu Sans" font-size="9.2" fill="#0E1F40" text-anchor="start" font-weight="bold">/aɪ/</text>
+<text x="114.88888888888889" y="100.328" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="start" font-weight="normal">my</text>
+<text x="250.44444444444443" y="100.328" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="start" font-weight="normal">i-e, ie, y</text>
+<text x="453.7777777777777" y="100.328" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="start" font-weight="normal">*live* (verb) is /ɪ/</text>
+<line x1="12" y1="110.656" x2="748" y2="110.656" stroke="#CBD5E1" stroke-width="0.6"/>
+<text x="20" y="124.656" font-family="DejaVu Sans" font-size="9.2" fill="#0E1F40" text-anchor="start" font-weight="bold">/ɔɪ/</text>
+<text x="114.88888888888889" y="124.656" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="start" font-weight="normal">boy</text>
+<text x="250.44444444444443" y="124.656" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="start" font-weight="normal">oi, oy</text>
+<text x="453.7777777777777" y="124.656" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="start" font-weight="normal">—</text>
+<line x1="12" y1="134.984" x2="748" y2="134.984" stroke="#CBD5E1" stroke-width="0.6"/>
+<rect x="12" y="134.984" width="736" height="24.328" rx="0" fill="#F8FAFC" stroke="none" stroke-width="0"/>
+<text x="20" y="148.984" font-family="DejaVu Sans" font-size="9.2" fill="#0E1F40" text-anchor="start" font-weight="bold">/aʊ/</text>
+<text x="114.88888888888889" y="148.984" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="start" font-weight="normal">now</text>
+<text x="250.44444444444443" y="148.984" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="start" font-weight="normal">ou, ow</text>
+<text x="453.7777777777777" y="148.984" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="start" font-weight="normal">*know* is /əʊ/</text>
+<line x1="12" y1="159.312" x2="748" y2="159.312" stroke="#CBD5E1" stroke-width="0.6"/>
+<text x="20" y="173.312" font-family="DejaVu Sans" font-size="9.2" fill="#0E1F40" text-anchor="start" font-weight="bold">/əʊ/</text>
+<text x="114.88888888888889" y="173.312" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="start" font-weight="normal">go</text>
+<text x="250.44444444444443" y="173.312" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="start" font-weight="normal">o-e, oa, ow</text>
+<text x="453.7777777777777" y="173.312" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="start" font-weight="normal">*now* is /aʊ/</text>
+<line x1="12" y1="183.64000000000001" x2="748" y2="183.64000000000001" stroke="#CBD5E1" stroke-width="0.6"/>
+<rect x="12" y="183.64000000000001" width="736" height="24.328" rx="0" fill="#F8FAFC" stroke="none" stroke-width="0"/>
+<text x="20" y="197.64000000000001" font-family="DejaVu Sans" font-size="9.2" fill="#0E1F40" text-anchor="start" font-weight="bold">/ɪə/</text>
+<text x="114.88888888888889" y="197.64000000000001" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="start" font-weight="normal">here</text>
+<text x="250.44444444444443" y="197.64000000000001" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="start" font-weight="normal">ear, ere, ier</text>
+<text x="453.7777777777777" y="197.64000000000001" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="start" font-weight="normal">*heard* is /ɜ:/</text>
+<line x1="12" y1="207.96800000000002" x2="748" y2="207.96800000000002" stroke="#CBD5E1" stroke-width="0.6"/>
+<text x="20" y="221.96800000000002" font-family="DejaVu Sans" font-size="9.2" fill="#0E1F40" text-anchor="start" font-weight="bold">/eə/</text>
+<text x="114.88888888888889" y="221.96800000000002" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="start" font-weight="normal">hair</text>
+<text x="250.44444444444443" y="221.96800000000002" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="start" font-weight="normal">air, are, ear</text>
+<text x="453.7777777777777" y="221.96800000000002" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="start" font-weight="normal">*hear* is /ɪə/</text>
+<line x1="12" y1="232.29600000000002" x2="748" y2="232.29600000000002" stroke="#CBD5E1" stroke-width="0.6"/>
+<rect x="12" y="232.29600000000002" width="736" height="24.328" rx="0" fill="#F8FAFC" stroke="none" stroke-width="0"/>
+<text x="20" y="246.29600000000002" font-family="DejaVu Sans" font-size="9.2" fill="#0E1F40" text-anchor="start" font-weight="bold">/ʊə/</text>
+<text x="114.88888888888889" y="246.29600000000002" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="start" font-weight="normal">tour</text>
+<text x="250.44444444444443" y="246.29600000000002" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="start" font-weight="normal">our, ure</text>
+<text x="453.7777777777777" y="246.29600000000002" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="start" font-weight="normal">*four* is /ɔ:/</text>
+<line x1="12" y1="256.624" x2="748" y2="256.624" stroke="#CBD5E1" stroke-width="0.6"/>
+<text x="380.0" y="273.624" font-family="DejaVu Sans" font-size="9.0" fill="#64748B" text-anchor="middle" font-weight="normal">A diphthong is one syllable with two vowel positions. That is why *fire* can be one syllable or two, and why the paper avoids it.</text>
+<rect x="12" y="10" width="736" height="282.22400000000005" rx="9" fill="none" stroke="#008751" stroke-width="1.4"/>
+</svg>

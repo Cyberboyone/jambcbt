@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 223" width="760" height="223">
+  <defs>
+    <marker id="ag" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#008751"/>
+    </marker>
+    <marker id="an" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#0E1F40"/>
+    </marker>
+    <marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#D97706"/>
+    </marker>
+    <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#DC2626"/>
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="760" height="223" fill="#FFFFFF"/>
+<text x="380.0" y="26" font-family="DejaVu Sans" font-size="12.6" fill="#0E1F40" text-anchor="middle" font-weight="bold">What to keep and what to drop</text>
+<rect x="12" y="38" width="736" height="24" rx="5" fill="#0E1F40" stroke="#0E1F40" stroke-width="0"/>
+<text x="20" y="54" font-family="DejaVu Sans" font-size="9.0" fill="#FFFFFF" text-anchor="start" font-weight="bold">Keep</text>
+<text x="252.38095238095238" y="54" font-family="DejaVu Sans" font-size="9.0" fill="#FFFFFF" text-anchor="start" font-weight="bold">Drop</text>
+<text x="473.1428571428571" y="54" font-family="DejaVu Sans" font-size="9.0" fill="#FFFFFF" text-anchor="start" font-weight="bold">Why</text>
+<text x="20" y="76.0" font-family="DejaVu Sans" font-size="9.2" fill="#0E1F40" text-anchor="start" font-weight="bold">the topic sentence of each paragraph</text>
+<text x="252.38095238095238" y="76.0" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="start" font-weight="normal">the examples that follow it</text>
+<text x="473.1428571428571" y="76.0" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="start" font-weight="normal">the example proves the point; the point is the summary</text>
+<line x1="12" y1="86.328" x2="748" y2="86.328" stroke="#CBD5E1" stroke-width="0.6"/>
+<rect x="12" y="86.328" width="736" height="24.328" rx="0" fill="#F8FAFC" stroke="none" stroke-width="0"/>
+<text x="20" y="100.328" font-family="DejaVu Sans" font-size="9.2" fill="#0E1F40" text-anchor="start" font-weight="bold">the claim, not the quotation</text>
+<text x="252.38095238095238" y="100.328" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="start" font-weight="normal">the words of the person quoted</text>
+<text x="473.1428571428571" y="100.328" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="start" font-weight="normal">a quotation is evidence, and evidence is detail</text>
+<line x1="12" y1="110.656" x2="748" y2="110.656" stroke="#CBD5E1" stroke-width="0.6"/>
+<text x="20" y="124.656" font-family="DejaVu Sans" font-size="9.2" fill="#0E1F40" text-anchor="start" font-weight="bold">reasons linked by *because*</text>
+<text x="252.38095238095238" y="124.656" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="start" font-weight="normal">lists of three or more items</text>
+<text x="473.1428571428571" y="124.656" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="start" font-weight="normal">one reason can be summarised; a list is a list</text>
+<line x1="12" y1="134.984" x2="748" y2="134.984" stroke="#CBD5E1" stroke-width="0.6"/>
+<rect x="12" y="134.984" width="736" height="24.328" rx="0" fill="#F8FAFC" stroke="none" stroke-width="0"/>
+<text x="20" y="148.984" font-family="DejaVu Sans" font-size="9.2" fill="#0E1F40" text-anchor="start" font-weight="bold">names only when the question asks who</text>
+<text x="252.38095238095238" y="148.984" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="start" font-weight="normal">dates, figures and percentages</text>
+<text x="473.1428571428571" y="148.984" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="start" font-weight="normal">a number is a detail unless the question turns on it</text>
+<line x1="12" y1="159.312" x2="748" y2="159.312" stroke="#CBD5E1" stroke-width="0.6"/>
+<text x="20" y="173.312" font-family="DejaVu Sans" font-size="9.2" fill="#0E1F40" text-anchor="start" font-weight="bold">the writer's conclusion</text>
+<text x="252.38095238095238" y="173.312" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="start" font-weight="normal">the writer's asides and jokes</text>
+<text x="473.1428571428571" y="173.312" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="start" font-weight="normal">the conclusion is the point of the passage</text>
+<line x1="12" y1="183.64000000000001" x2="748" y2="183.64000000000001" stroke="#CBD5E1" stroke-width="0.6"/>
+<text x="380.0" y="200.64000000000001" font-family="DejaVu Sans" font-size="9.0" fill="#64748B" text-anchor="middle" font-weight="normal">If dropping a sentence leaves the passage's meaning intact, that sentence was detail. If dropping it breaks the argument, it was a point.</text>
+<rect x="12" y="10" width="736" height="209.24" rx="9" fill="none" stroke="#008751" stroke-width="1.4"/>
+</svg>

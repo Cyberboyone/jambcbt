@@ -1,0 +1,248 @@
+"""Drill bank — Use of English Volume 2, Chapter 3 (inference, tone and attitude).
+
+Each item is (stem, [A, B, C, D], index_of_correct_option, solution). The
+solution accounts for every option, not only the key.
+"""
+
+DRILL_3 = [
+    (
+        "“The bus arrived, and the queue dispersed in ninety seconds.” The passage implies that",
+        ["the bus was early", "the passengers had been waiting a long time", "the queue was orderly", "the bus was crowded"],
+        1,
+        "B — a queue that empties in ninety seconds had been waiting with somewhere to go. A needs a timetable, C is about order rather than haste, and D needs a statement about the bus's load.",
+    ),
+    (
+        "An option that needs a fact the passage never gives is",
+        ["an inference", "an assumption", "a detail", "a reversal"],
+        1,
+        "B — the passage neither states nor forces it, which is what makes it the invention trap. A must be forced by the text, C is stated in it, and D uses its words backwards.",
+    ),
+    (
+        "“He was firm: he refused every extension and reminded them twice that the deadline had been published.” The word *firm* here is",
+        ["wholly approving", "capable of approval, and withdrawn by the rest of the passage", "a synonym for cruel", "neutral"],
+        1,
+        "B — *firm* can be praise, and the sentence that follows withdraws it. A ignores the withdrawal, C overstates a word that is at worst rigid, and D ignores the evaluation inside *firm*.",
+    ),
+    (
+        "Tone is decided by",
+        ["the subject of the passage", "the words the writer chooses", "the length of the sentences", "the number of examples"],
+        1,
+        "B — adjectives, verbs and hedges carry the attitude. A is the commonest error, and C and D are stylistic accidents rather than evidence.",
+    ),
+    (
+        "“The ministry has at last published the figures.” The words *at last* suggest that the writer thinks the publication was",
+        ["prompt", "overdue", "unnecessary", "generous"],
+        1,
+        "B — *at last* implies impatience with the delay. A is the opposite; C and D are judgements the phrase does not carry.",
+    ),
+    (
+        "Irony is a figure in which the writer",
+        ["exaggerates for effect", "says the opposite of what is meant", "compares two unlike things", "gives a thing human qualities"],
+        1,
+        "B — and the passage supplies the contradiction. A is hyperbole, C is simile, and D is personification.",
+    ),
+    (
+        "“A triumph of presentation: four colours, twelve charts, and not one comparable number.” The clause after the colon",
+        ["supports the praise", "withdraws the praise", "repeats the praise", "explains the method"],
+        1,
+        "B — the colon introduces the evidence that makes the praise ironic. A and C read the sentence literally, and D mistakes a complaint for a description of technique.",
+    ),
+    (
+        "“The residents have stopped waiting.” The sentence suggests",
+        ["patience", "loss of confidence in the council", "a new committee", "an increase in waiting"],
+        1,
+        "B — to stop waiting is to give up on the thing awaited. A is the opposite, C is not implied by the words, and D misreads the idiom as an increase.",
+    ),
+    (
+        "The attitude of a writer towards a person is best found by",
+        ["counting the mentions", "collecting the words used to describe that person", "reading the title", "noticing the tense"],
+        1,
+        "B — attitude is carried by description, and a target question asks you to collect it. A measures emphasis rather than attitude, and C and D do not describe the person at all.",
+    ),
+    (
+        "“It is a fence with traffic on it.” The image suggests",
+        ["connection", "separation", "speed", "danger"],
+        1,
+        "B — a fence divides, which is the point of replacing *corridor*. A is the image the writer is rejecting, C is a property of traffic rather than of the image, and D is a nearby fact the image does not carry.",
+    ),
+    (
+        "A figure of speech in an exam question is usually tested by asking",
+        ["its name", "what it means and what it is doing", "its origin", "whether it is a cliché"],
+        1,
+        "B — the paper rarely names the figure; it asks for the sense and the purpose. A is grammar-school knowledge that the paper does not require, C is etymology, and D is a style judgement.",
+    ),
+    (
+        "“The scheme, so-called, has produced three reports and no water.” The words *so-called* show that the writer",
+        ["accepts the name", "rejects the name", "is neutral about the name", "has forgotten the name"],
+        1,
+        "B — *so-called* always withdraws the term it frames. A is the literal reading the word exists to prevent, C and D are not senses the phrase carries.",
+    ),
+    (
+        "Which sentence is most likely to be ironic?",
+        ["The road was closed for repairs.", "The council has produced a plan, eleven years after the first promise.", "The traders left at noon.", "The bridge cost two billion naira."],
+        1,
+        "B — the praise (*a plan*) is contradicted by the delay in the same sentence. A, C and D report without any gap between the words and their sense.",
+    ),
+    (
+        "An inference question's wrong options are usually",
+        ["statements that contradict the passage", "assumptions the passage never commits itself to", "quotations", "summaries"],
+        1,
+        "B — they are the plausible extra steps. A is easier to spot and less common, C describes evidence rather than an option, and D describes a main-idea answer.",
+    ),
+    (
+        "“Appears to have been caused by the rain” is the language of",
+        ["certainty", "caution", "irony", "alarm"],
+        1,
+        "B — *appears to* hedges the claim, which is the mark of a cautious writer. A is the opposite, and C and D need other evidence in the sentence.",
+    ),
+    (
+        "The sentence “He did not listen” is best described as",
+        ["a stated fact", "a judgement presented as a fact", "an assumption", "a quotation"],
+        1,
+        "B — it looks like reporting and carries an evaluation. A ignores the attitude inside it, C is too strong because the sentence is supported by the passage, and D has no quotation marks and no speaker.",
+    ),
+    (
+        "A passage that describes a corrupt official in flat, orderly sentences is most likely",
+        ["approving", "controlled and damning", "alarmed", "celebratory"],
+        1,
+        "B — flat reporting of a bad act is a way of judging it. A is impossible, C would need explicit warnings, and D is the opposite of the effect.",
+    ),
+    (
+        "“The figures are a triumph of presentation.” The phrase is sarcastic because",
+        ["presentation is unimportant", "the praise is given to the wrong quality", "triumphs are rare", "figures are boring"],
+        1,
+        "B — the writer praises the packaging because the contents are missing. A is a general opinion rather than the mechanism, C is irrelevant, and D is a reaction rather than an analysis.",
+    ),
+    (
+        "To say that a tone option is *supported* means",
+        ["it is mentioned in the passage", "a word or sentence in the passage can be pointed at in its favour", "it is the commonest tone", "the writer says it directly"],
+        1,
+        "B — support is evidence you can quote. A confuses the topic with the attitude, C is a guess by frequency, and D almost never happens: writers show tone rather than name it.",
+    ),
+    (
+        "“The committee toured the affected streets once.” The word *once* suggests",
+        ["thoroughness", "the minimum of effort", "efficiency", "generosity"],
+        1,
+        "B — in a passage about delay, one tour is a complaint. A and C read the word as a virtue, but the surrounding sentences make it a minimum; D is not a sense *once* carries.",
+    ),
+    (
+        "A candidate who answers a tone question by matching the tone to the subject is",
+        ["applying the one-step rule", "assuming that bad subjects make angry writers", "using the reference test", "checking the sentence"],
+        1,
+        "B — tone lives in the words, not in the topic. A is a rule for inference, C is a rule for pronouns, and D is the substitute test for options.",
+    ),
+    (
+        "“A corridor of prosperity” is an example of",
+        ["irony", "metaphor", "hyperbole", "personification"],
+        1,
+        "B — a road is called a corridor, which is a comparison with *is*. A would say the opposite of what is meant, C would exaggerate a quantity, and D would give the road a human action.",
+    ),
+    (
+        "The best way to answer “the writer's attitude towards the residents is…” is to",
+        ["count how often they appear", "find the words that describe them", "read the last sentence only", "look at the title"],
+        1,
+        "B — attitude is description. A measures prominence, C may carry the verdict but often does not name the residents, and D rarely mentions them.",
+    ),
+    (
+        "An implied conclusion must be",
+        ["stated in the passage", "forced by the passage's words", "true in the world", "the writer's opinion"],
+        1,
+        "B — the forcing is the whole test. A describes a detail question, C is the invention trap, and D describes a tone question.",
+    ),
+    (
+        "“The report recommends that a further report be commissioned.” The sentence is",
+        ["a compliment", "a criticism by example", "a neutral fact", "an inference"],
+        1,
+        "B — the absurdity is left to the reader, which is how the criticism is made. A is the opposite, C ignores the absurdity, and D needs a conclusion the reader draws rather than a fact the writer states.",
+    ),
+    (
+        "Which pair of tone words is most likely to appear as the last two options on a question?",
+        ["angry / furious", "critical / cautious", "happy / joyful", "long / short"],
+        1,
+        "B — the paper pairs two tones that a careless reader might confuse. A and C are synonyms, so only one could be wrong for the wrong reason, and D is not a pair of tones at all.",
+    ),
+    (
+        "“As usual, the council responded with a committee.” The words *as usual* imply",
+        ["approval of the practice", "that the practice is a habit", "that the council is generous", "that committees are efficient"],
+        1,
+        "B — *as usual* marks a repeated pattern, and in this passage it is a complaint. A and C are the opposite of the effect, and D is a general opinion the words do not carry.",
+    ),
+    (
+        "An inference that takes two steps is",
+        ["still safe", "no longer supported by the passage", "the main idea", "a detail"],
+        1,
+        "B — the second step is the reader's, and the examiner builds an option on it. A is the error the rule prevents, C is a coverage question, and D is a stated fact.",
+    ),
+    (
+        "“Officials say the delay was caused by the need for accuracy.” The writer reports the excuse",
+        ["and endorses it", "without endorsing it", "and contradicts it directly", "and repeats it twice"],
+        1,
+        "B — *officials say* frames the claim as someone else's, which is how a writer distances himself. A would need an approving word, C would need a contradiction in the same sentence, and D is not what the passage does.",
+    ),
+    (
+        "The difference between tone and attitude is that attitude",
+        ["is about the whole passage", "has a target — a person, group or thing", "is always negative", "is stated by the writer"],
+        1,
+        "B — an attitude question names who the writer feels something about. A describes tone, C is false of both, and D is false of both.",
+    ),
+    (
+        "“A triumph of presentation” is ironic because the writer",
+        ["does not like triumph", "values the contents more than the packaging", "dislikes presentations", "is writing about sport"],
+        1,
+        "B — the praise is misapplied on purpose. A, C and D take words from the phrase and read them as the writer's opinion of the topic.",
+    ),
+    (
+        "A figure of speech is best explained in an exam by",
+        ["naming it", "saying what is compared with what, and what that says", "giving its origin", "saying whether it is good"],
+        1,
+        "B — the sense and the purpose are what the question marks. A alone earns nothing, C is etymology, and D is a judgement the paper does not ask for.",
+    ),
+    (
+        "Which is the strongest evidence that a writer is critical?",
+        ["a long passage", "a judgement delivered as a fact", "a quotation from an official", "a date"],
+        1,
+        "B — *he did not listen* is criticism without an adjective. A measures length, C is evidence the writer may or may not endorse, and D is a detail.",
+    ),
+    (
+        "“The residents, who have rebuilt their drainage twice, have stopped waiting.” The clause about the drainage is there to",
+        ["show the residents' skill", "contrast the residents' effort with the council's inaction", "criticise the residents", "explain the flood"],
+        1,
+        "B — the contrast is the point of the sentence. A is true but not the purpose, C is the opposite of the effect, and D is a cause the passage does not give.",
+    ),
+    (
+        "A candidate who cannot point at a word supporting an attitude option should",
+        ["choose it anyway", "discard it", "choose the longest option", "check the title"],
+        1,
+        "B — no evidence means no answer. A is the habit the method exists to break, C is a superstition, and D rarely carries an attitude.",
+    ),
+    (
+        "“He reminded them, twice, that the deadline had been published.” The words *twice* suggest",
+        ["forgetfulness on his part", "that he was insistent, perhaps excessively", "generosity", "uncertainty"],
+        1,
+        "B — repetition in a description of a chairman is a criticism in disguise. A misreads who forgot, C and D are not senses the word carries here.",
+    ),
+    (
+        "The commonest wrong option on an inference question is",
+        ["a contradiction of the passage", "a sensible statement the passage never commits itself to", "a quotation", "a summary"],
+        1,
+        "B — it is the assumption, and it feels like the answer because it is reasonable. A is too easy to spot, C is evidence, and D is a main-idea answer.",
+    ),
+    (
+        "“The plan, such as it is, will be published next year.” The phrase *such as it is* signals",
+        ["approval", "contempt", "neutrality", "confusion"],
+        1,
+        "B — the phrase withdraws any credit from the plan. A is the opposite, C ignores the parenthesis, and D is a state of the reader rather than of the writer.",
+    ),
+    (
+        "Tone questions are best answered",
+        ["before reading the passage", "after finding the verdict sentence", "by counting adjectives", "from the title"],
+        1,
+        "B — the closing sentence usually carries the judgement. A is impossible, C mistakes quantity for evidence, and D rarely states a tone.",
+    ),
+    (
+        "The safest reading of a sentence whose praise is contradicted by its own second half is",
+        ["literal praise", "irony", "hyperbole", "personification"],
+        1,
+        "B — contradiction inside one sentence is the mechanism of irony. A takes the first half only, C exaggerates a quantity, and D gives human action to a thing.",
+    ),
+]

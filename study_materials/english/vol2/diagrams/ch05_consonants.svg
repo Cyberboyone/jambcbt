@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 309" width="760" height="309">
+  <defs>
+    <marker id="ag" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#008751"/>
+    </marker>
+    <marker id="an" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#0E1F40"/>
+    </marker>
+    <marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#D97706"/>
+    </marker>
+    <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#DC2626"/>
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="760" height="309" fill="#FFFFFF"/>
+<text x="380.0" y="26" font-family="DejaVu Sans" font-size="12.6" fill="#0E1F40" text-anchor="middle" font-weight="bold">The twenty-four consonants, in the pairs that differ by one feature</text>
+<rect x="12" y="38" width="736" height="24" rx="5" fill="#0E1F40" stroke="#0E1F40" stroke-width="0"/>
+<text x="20" y="54" font-family="DejaVu Sans" font-size="9.0" fill="#FFFFFF" text-anchor="start" font-weight="bold">Voiceless</text>
+<text x="139.51020408163265" y="54" font-family="DejaVu Sans" font-size="9.0" fill="#FFFFFF" text-anchor="start" font-weight="bold">Voiced</text>
+<text x="259.0204081632653" y="54" font-family="DejaVu Sans" font-size="9.0" fill="#FFFFFF" text-anchor="start" font-weight="bold">Where the sound is made</text>
+<text x="587.6734693877552" y="54" font-family="DejaVu Sans" font-size="9.0" fill="#FFFFFF" text-anchor="start" font-weight="bold">Example pair</text>
+<text x="20" y="76.0" font-family="DejaVu Sans" font-size="9.2" fill="#0E1F40" text-anchor="start" font-weight="bold">/p/</text>
+<text x="139.51020408163265" y="76.0" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="start" font-weight="normal">/b/</text>
+<text x="259.0204081632653" y="76.0" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="start" font-weight="normal">both lips</text>
+<text x="587.6734693877552" y="76.0" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="start" font-weight="normal">pin / bin</text>
+<line x1="12" y1="86.328" x2="748" y2="86.328" stroke="#CBD5E1" stroke-width="0.6"/>
+<rect x="12" y="86.328" width="736" height="24.328" rx="0" fill="#F8FAFC" stroke="none" stroke-width="0"/>
+<text x="20" y="100.328" font-family="DejaVu Sans" font-size="9.2" fill="#0E1F40" text-anchor="start" font-weight="bold">/t/</text>
+<text x="139.51020408163265" y="100.328" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="start" font-weight="normal">/d/</text>
+<text x="259.0204081632653" y="100.328" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="start" font-weight="normal">tip of the tongue, ridge behind the teeth</text>
+<text x="587.6734693877552" y="100.328" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="start" font-weight="normal">tin / din</text>
+<line x1="12" y1="110.656" x2="748" y2="110.656" stroke="#CBD5E1" stroke-width="0.6"/>
+<text x="20" y="124.656" font-family="DejaVu Sans" font-size="9.2" fill="#0E1F40" text-anchor="start" font-weight="bold">/k/</text>
+<text x="139.51020408163265" y="124.656" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="start" font-weight="normal">/g/</text>
+<text x="259.0204081632653" y="124.656" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="start" font-weight="normal">back of the tongue, soft palate</text>
+<text x="587.6734693877552" y="124.656" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="start" font-weight="normal">coat / goat</text>
+<line x1="12" y1="134.984" x2="748" y2="134.984" stroke="#CBD5E1" stroke-width="0.6"/>
+<rect x="12" y="134.984" width="736" height="24.328" rx="0" fill="#F8FAFC" stroke="none" stroke-width="0"/>
+<text x="20" y="148.984" font-family="DejaVu Sans" font-size="9.2" fill="#0E1F40" text-anchor="start" font-weight="bold">/f/</text>
+<text x="139.51020408163265" y="148.984" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="start" font-weight="normal">/v/</text>
+<text x="259.0204081632653" y="148.984" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="start" font-weight="normal">lower lip against the upper teeth</text>
+<text x="587.6734693877552" y="148.984" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="start" font-weight="normal">fan / van</text>
+<line x1="12" y1="159.312" x2="748" y2="159.312" stroke="#CBD5E1" stroke-width="0.6"/>
+<text x="20" y="173.312" font-family="DejaVu Sans" font-size="9.2" fill="#0E1F40" text-anchor="start" font-weight="bold">/θ/</text>
+<text x="139.51020408163265" y="173.312" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="start" font-weight="normal">/ð/</text>
+<text x="259.0204081632653" y="173.312" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="start" font-weight="normal">tongue between the teeth</text>
+<text x="587.6734693877552" y="173.312" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="start" font-weight="normal">thin / then</text>
+<line x1="12" y1="183.64000000000001" x2="748" y2="183.64000000000001" stroke="#CBD5E1" stroke-width="0.6"/>
+<rect x="12" y="183.64000000000001" width="736" height="24.328" rx="0" fill="#F8FAFC" stroke="none" stroke-width="0"/>
+<text x="20" y="197.64000000000001" font-family="DejaVu Sans" font-size="9.2" fill="#0E1F40" text-anchor="start" font-weight="bold">/s/</text>
+<text x="139.51020408163265" y="197.64000000000001" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="start" font-weight="normal">/z/</text>
+<text x="259.0204081632653" y="197.64000000000001" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="start" font-weight="normal">tongue near the ridge, air hissing</text>
+<text x="587.6734693877552" y="197.64000000000001" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="start" font-weight="normal">sip / zip</text>
+<line x1="12" y1="207.96800000000002" x2="748" y2="207.96800000000002" stroke="#CBD5E1" stroke-width="0.6"/>
+<text x="20" y="221.96800000000002" font-family="DejaVu Sans" font-size="9.2" fill="#0E1F40" text-anchor="start" font-weight="bold">/ʃ/</text>
+<text x="139.51020408163265" y="221.96800000000002" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="start" font-weight="normal">/ʒ/</text>
+<text x="259.0204081632653" y="221.96800000000002" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="start" font-weight="normal">tongue further back, lips rounded</text>
+<text x="587.6734693877552" y="221.96800000000002" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="start" font-weight="normal">shoe / vision</text>
+<line x1="12" y1="232.29600000000002" x2="748" y2="232.29600000000002" stroke="#CBD5E1" stroke-width="0.6"/>
+<rect x="12" y="232.29600000000002" width="736" height="24.328" rx="0" fill="#F8FAFC" stroke="none" stroke-width="0"/>
+<text x="20" y="246.29600000000002" font-family="DejaVu Sans" font-size="9.2" fill="#0E1F40" text-anchor="start" font-weight="bold">/tʃ/</text>
+<text x="139.51020408163265" y="246.29600000000002" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="start" font-weight="normal">/dʒ/</text>
+<text x="259.0204081632653" y="246.29600000000002" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="start" font-weight="normal">the two-stop pair</text>
+<text x="587.6734693877552" y="246.29600000000002" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="start" font-weight="normal">chin / gin</text>
+<line x1="12" y1="256.624" x2="748" y2="256.624" stroke="#CBD5E1" stroke-width="0.6"/>
+<text x="380.0" y="273.624" font-family="DejaVu Sans" font-size="9.0" fill="#64748B" text-anchor="middle" font-weight="normal">Eight pairs, and a voicing test: put two fingers on your throat and say the pair. The second of each pair buzzes. The other eight consonants — /m n ŋ l r j w h/ —</text>
+<text x="380.0" y="286.22400000000005" font-family="DejaVu Sans" font-size="9.0" fill="#64748B" text-anchor="middle" font-weight="normal">have no partner.</text>
+<rect x="12" y="10" width="736" height="294.824" rx="9" fill="none" stroke="#008751" stroke-width="1.4"/>
+</svg>
