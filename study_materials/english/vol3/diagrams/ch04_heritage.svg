@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 161" width="760" height="161">
+  <defs>
+    <marker id="ag" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#008751"/>
+    </marker>
+    <marker id="an" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#0E1F40"/>
+    </marker>
+    <marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#D97706"/>
+    </marker>
+    <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#DC2626"/>
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="760" height="161" fill="#FFFFFF"/>
+<text x="380.0" y="26" font-family="DejaVu Sans" font-size="12.6" fill="#0E1F40" text-anchor="middle" font-weight="bold">Badagry, and the three ideas it carries</text>
+<rect x="12.0" y="38.0" width="240.0" height="83.536" rx="7" fill="#FFFFFF" stroke="#008751" stroke-width="1.3"/>
+<rect x="12.0" y="38.0" width="240.0" height="4.5" rx="2" fill="#008751" stroke="#008751" stroke-width="0"/>
+<text x="22.0" y="59.0" font-family="DejaVu Sans" font-size="9.8" fill="#0E1F40" text-anchor="start" font-weight="bold">The fact</text>
+<text x="22.0" y="75.4" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="start" font-weight="normal">The students visit the Akran's palace, the First</text>
+<text x="22.0" y="87.912" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="start" font-weight="normal">Storey Building and the Black Heritage</text>
+<text x="22.0" y="100.424" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="start" font-weight="normal">Museum, and stand at the Point of No Return.</text>
+<rect x="260.0" y="38.0" width="240.0" height="83.536" rx="7" fill="#FFFFFF" stroke="#008751" stroke-width="1.3"/>
+<rect x="260.0" y="38.0" width="240.0" height="4.5" rx="2" fill="#008751" stroke="#008751" stroke-width="0"/>
+<text x="270.0" y="59.0" font-family="DejaVu Sans" font-size="9.8" fill="#0E1F40" text-anchor="start" font-weight="bold">The analogy</text>
+<text x="270.0" y="75.4" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="start" font-weight="normal">Africans once left in chains; they now leave</text>
+<text x="270.0" y="87.912" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="start" font-weight="normal">with visas. Bepo cannot stop hearing the</text>
+<text x="270.0" y="100.424" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="start" font-weight="normal">rhyme.</text>
+<rect x="508.0" y="38.0" width="240.0" height="83.536" rx="7" fill="#FFFFFF" stroke="#008751" stroke-width="1.3"/>
+<rect x="508.0" y="38.0" width="240.0" height="4.5" rx="2" fill="#008751" stroke="#008751" stroke-width="0"/>
+<text x="518.0" y="59.0" font-family="DejaVu Sans" font-size="9.8" fill="#0E1F40" text-anchor="start" font-weight="bold">The irony</text>
+<text x="518.0" y="75.4" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="start" font-weight="normal">A man about to emigrate is condemning</text>
+<text x="518.0" y="87.912" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="start" font-weight="normal">emigration, and knows it. The chapter is</text>
+<text x="518.0" y="100.424" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="start" font-weight="normal">written from inside that contradiction.</text>
+<text x="380.0" y="138.536" font-family="DejaVu Sans" font-size="9.0" fill="#64748B" text-anchor="middle" font-weight="normal">When a question asks for the significance of the Badagry visit, the answer is the analogy, not the itinerary.</text>
+<rect x="12" y="10" width="736" height="147.136" rx="9" fill="none" stroke="#008751" stroke-width="1.4"/>
+</svg>

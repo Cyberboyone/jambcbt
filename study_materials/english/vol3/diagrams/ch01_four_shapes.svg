@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 267" width="760" height="267">
+  <defs>
+    <marker id="ag" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#008751"/>
+    </marker>
+    <marker id="an" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#0E1F40"/>
+    </marker>
+    <marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#D97706"/>
+    </marker>
+    <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#DC2626"/>
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="760" height="267" fill="#FFFFFF"/>
+<text x="380.0" y="26" font-family="DejaVu Sans" font-size="12.6" fill="#0E1F40" text-anchor="middle" font-weight="bold">The four question shapes the reading text uses</text>
+<text x="380.0" y="38" font-family="DejaVu Sans" font-size="9.4" fill="#64748B" text-anchor="middle" font-weight="normal">Ten questions are set from the text, and nine of them are one of these four shapes.</text>
+<rect x="12" y="57" width="736" height="24" rx="5" fill="#0E1F40" stroke="#0E1F40" stroke-width="0"/>
+<text x="20" y="73" font-family="DejaVu Sans" font-size="9.0" fill="#FFFFFF" text-anchor="start" font-weight="bold">Shape</text>
+<text x="135.57894736842104" y="73" font-family="DejaVu Sans" font-size="9.0" fill="#FFFFFF" text-anchor="start" font-weight="bold">How it is worded</text>
+<text x="418.10526315789474" y="73" font-family="DejaVu Sans" font-size="9.0" fill="#FFFFFF" text-anchor="start" font-weight="bold">Where the answer lives</text>
+<text x="20" y="95.0" font-family="DejaVu Sans" font-size="9.2" fill="#0E1F40" text-anchor="start" font-weight="bold">Fact</text>
+<text x="135.57894736842104" y="95.0" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="start" font-weight="normal">“Who …?”, “What happened when …?”, “How much …?”</text>
+<text x="418.10526315789474" y="95.0" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="start" font-weight="normal">One clause in one chapter. The other three options name people or</text>
+<text x="418.10526315789474" y="107.328" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="start" font-weight="normal">events from elsewhere in the book.</text>
+<line x1="12" y1="117.656" x2="748" y2="117.656" stroke="#CBD5E1" stroke-width="0.6"/>
+<rect x="12" y="117.656" width="736" height="36.656" rx="0" fill="#F8FAFC" stroke="none" stroke-width="0"/>
+<text x="20" y="131.656" font-family="DejaVu Sans" font-size="9.2" fill="#0E1F40" text-anchor="start" font-weight="bold">Sequence</text>
+<text x="135.57894736842104" y="131.656" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="start" font-weight="normal">“What happened immediately before …?”, “Arrange these</text>
+<text x="135.57894736842104" y="143.984" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="start" font-weight="normal">in order”</text>
+<text x="418.10526315789474" y="131.656" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="start" font-weight="normal">The scene itself, read forwards. The trap is a true event that belongs</text>
+<text x="418.10526315789474" y="143.984" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="start" font-weight="normal">to another chapter.</text>
+<line x1="12" y1="154.312" x2="748" y2="154.312" stroke="#CBD5E1" stroke-width="0.6"/>
+<text x="20" y="168.312" font-family="DejaVu Sans" font-size="9.2" fill="#0E1F40" text-anchor="start" font-weight="bold">Character</text>
+<text x="135.57894736842104" y="168.312" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="start" font-weight="normal">“Bepo's reaction shows that he was …”, “Mrs Gloss is best</text>
+<text x="135.57894736842104" y="180.64000000000001" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="start" font-weight="normal">described as …”</text>
+<text x="418.10526315789474" y="168.312" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="start" font-weight="normal">An action plus the adjective it supports. Never the character's job</text>
+<text x="418.10526315789474" y="180.64000000000001" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="start" font-weight="normal">title alone.</text>
+<line x1="12" y1="190.96800000000002" x2="748" y2="190.96800000000002" stroke="#CBD5E1" stroke-width="0.6"/>
+<rect x="12" y="190.96800000000002" width="736" height="36.656" rx="0" fill="#F8FAFC" stroke="none" stroke-width="0"/>
+<text x="20" y="204.96800000000002" font-family="DejaVu Sans" font-size="9.2" fill="#0E1F40" text-anchor="start" font-weight="bold">Theme / technique</text>
+<text x="135.57894736842104" y="204.96800000000002" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="start" font-weight="normal">“The episode illustrates …”, “The title suggests …”, “The</text>
+<text x="135.57894736842104" y="217.29600000000002" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="start" font-weight="normal">novel is narrated …”</text>
+<text x="418.10526315789474" y="204.96800000000002" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="start" font-weight="normal">The pattern behind several chapters, not the scene in front of you.</text>
+<line x1="12" y1="227.62400000000002" x2="748" y2="227.62400000000002" stroke="#CBD5E1" stroke-width="0.6"/>
+<text x="380.0" y="244.62400000000002" font-family="DejaVu Sans" font-size="9.0" fill="#64748B" text-anchor="middle" font-weight="normal">Learn to name the shape before you read the options. A fact question is decided by memory of a clause; a theme question never is.</text>
+<rect x="12" y="10" width="736" height="253.22400000000005" rx="9" fill="none" stroke="#008751" stroke-width="1.4"/>
+</svg>

@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 211" width="760" height="211">
+  <defs>
+    <marker id="ag" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#008751"/>
+    </marker>
+    <marker id="an" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#0E1F40"/>
+    </marker>
+    <marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#D97706"/>
+    </marker>
+    <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#DC2626"/>
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="760" height="211" fill="#FFFFFF"/>
+<text x="380.0" y="26" font-family="DejaVu Sans" font-size="12.6" fill="#0E1F40" text-anchor="middle" font-weight="bold">Beesway and Stardom, side by side</text>
+<rect x="12" y="38" width="736" height="24" rx="5" fill="#0E1F40" stroke="#0E1F40" stroke-width="0"/>
+<text x="20" y="54" font-family="DejaVu Sans" font-size="9.0" fill="#FFFFFF" text-anchor="start" font-weight="bold">Test</text>
+<text x="175.27272727272728" y="54" font-family="DejaVu Sans" font-size="9.0" fill="#FFFFFF" text-anchor="start" font-weight="bold">At Beesway</text>
+<text x="463.6363636363636" y="54" font-family="DejaVu Sans" font-size="9.0" fill="#FFFFFF" text-anchor="start" font-weight="bold">At Stardom</text>
+<text x="20" y="76.0" font-family="DejaVu Sans" font-size="9.2" fill="#0E1F40" text-anchor="start" font-weight="bold">Who decides</text>
+<text x="175.27272727272728" y="76.0" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="start" font-weight="normal">One director, answerable to nobody</text>
+<text x="463.6363636363636" y="76.0" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="start" font-weight="normal">An MD, a board and a chairman who disagree in front of</text>
+<text x="463.6363636363636" y="88.328" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="start" font-weight="normal">you</text>
+<line x1="12" y1="98.656" x2="748" y2="98.656" stroke="#CBD5E1" stroke-width="0.6"/>
+<rect x="12" y="98.656" width="736" height="24.328" rx="0" fill="#F8FAFC" stroke="none" stroke-width="0"/>
+<text x="20" y="112.656" font-family="DejaVu Sans" font-size="9.2" fill="#0E1F40" text-anchor="start" font-weight="bold">When a parent complains</text>
+<text x="175.27272727272728" y="112.656" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="start" font-weight="normal">The teacher is removed, whatever the truth</text>
+<text x="463.6363636363636" y="112.656" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="start" font-weight="normal">The complaint is heard, and the MD can be corrected</text>
+<line x1="12" y1="122.98400000000001" x2="748" y2="122.98400000000001" stroke="#CBD5E1" stroke-width="0.6"/>
+<text x="20" y="136.984" font-family="DejaVu Sans" font-size="9.2" fill="#0E1F40" text-anchor="start" font-weight="bold">When money is short</text>
+<text x="175.27272727272728" y="136.984" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="start" font-weight="normal">A rite is performed</text>
+<text x="463.6363636363636" y="136.984" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="start" font-weight="normal">Loans are capped and the accounts are read</text>
+<line x1="12" y1="147.312" x2="748" y2="147.312" stroke="#CBD5E1" stroke-width="0.6"/>
+<rect x="12" y="147.312" width="736" height="24.328" rx="0" fill="#F8FAFC" stroke="none" stroke-width="0"/>
+<text x="20" y="161.312" font-family="DejaVu Sans" font-size="9.2" fill="#0E1F40" text-anchor="start" font-weight="bold">What Bepo does</text>
+<text x="175.27272727272728" y="161.312" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="start" font-weight="normal">Argues, is struck, and leaves</text>
+<text x="463.6363636363636" y="161.312" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="start" font-weight="normal">Argues, is heard, and stays — until he decides to</text>
+<line x1="12" y1="171.64000000000001" x2="748" y2="171.64000000000001" stroke="#CBD5E1" stroke-width="0.6"/>
+<text x="380.0" y="188.64000000000001" font-family="DejaVu Sans" font-size="9.0" fill="#64748B" text-anchor="middle" font-weight="normal">Stardom is not perfect; it is *answerable*. That difference is the novel's modest, adult hope.</text>
+<rect x="12" y="10" width="736" height="197.24" rx="9" fill="none" stroke="#008751" stroke-width="1.4"/>
+</svg>

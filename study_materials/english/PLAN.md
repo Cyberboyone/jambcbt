@@ -17,7 +17,7 @@ prescribed text. Three volumes, one per block.
 |---|---|---|---|
 | 1 | Structure and Lexis | word classes, concord, tense and voice, clauses and punctuation, modifiers and connectives, lexis (synonyms, antonyms, confusables, idioms, register) | **delivered — 163 pp** |
 | 2 | Comprehension, Summary and Oral English | passage technique, summary writing, the sound system (vowels, consonants, stress, intonation, rhyme) | **delivered — 170 pp** |
-| 3 | The Novel and Full Papers | the prescribed text, character and theme questions, full-length CBT papers | planned |
+| 3 | The Novel and Full Papers | the prescribed text, character and theme questions, full-length CBT papers | **delivered — 174 pp** |
 
 ## Volume 1 — Structure and Lexis
 
@@ -128,3 +128,52 @@ notes for this volume: every worked example's passage sits in its own shaded blo
 inside the problem argument, and a bullet that begins with a phoneme must not start
 `*/` — Typst reads it as the end of a block comment — so such bullets begin with the
 words *The pair* and then the symbols.
+
+
+## Volume 3 — The Novel and Full Papers
+
+| Ch | Title | Sections | Status |
+|----|-------|----------|--------|
+| 1 | The Reading Text in the Exam | the ten marks and where they sit, the four question shapes, the twelve chapter cards, the five ways a wrong option is built, the reading plan and exam-hall procedure | **done** |
+| 2 | Plot: From Dusk to Dawn | the shape of the story, Chapters 1–4 the pressure, Chapters 5–8 the school, Chapters 9–12 the decision, sequence, flashback and the question that turns on one word | **done** |
+| 3 | Character and Characterisation | Bepo, the family at the other end of the line, Stardom's staff and board, outside the gate, answering a trait question | **done** |
+| 4 | Theme and Setting | the six claims, *japa* and the new slavery, integrity in education, leadership and belonging, setting and what a place is for | **done** |
+| 5 | Narrative Technique and Style | the frame, the narrator beside Bepo, symbol and motif, language (proverbs, humour, irony, Nigerian English), answering a style question | **done** |
+| 6 | The Full Paper: Sections, Clock and Strategy | the anatomy of the paper, forty minutes in three passes, the order of attack, elimination in every section, the last five minutes | **done** |
+
+Back matter: two full 60-question papers, a 40-question novel paper, Appendix A (40
+rapid-fire pairs), Appendix B (the 120-question master bank), Appendix C (consolidated
+keys — 520 answers in one place), Appendix D (the novel fact file, twelve chapters and
+the numbers), Appendix E (cast and relationships, plus the six-line character map),
+Appendix F (glossary of 44 terms), Appendix G (six-week plan, score log, last ten
+days), Appendix H (the rules file, thirty rules), Appendix I (five model answers and
+six faults), Appendix J (the trap catalogue, forty-eight traps), Appendix K (the
+exam-day playbook).
+
+### Volume 3 — progress
+
+| Stage | Status |
+| --- | --- |
+| Front matter (cover, series map, the text at a glance, chapters at a glance, contents, how to use, where everything is, the paper in numbers) | done — 7 pp |
+| Chapters 1–6, five worked examples and four MCQs each | done — pp 8–102 |
+| Diagrams (38 reviewed SVGs, script-generated, including the six Chapter 6 figures) | done |
+| Drill banks, 40 per chapter (240 questions) | done — pp 17, 34, 50, 66, 81, 97 |
+| Data modules for the papers (60 + 60 + 40 + 120 items, disjoint from the drills) | done |
+| Two 60-question papers and the 40-question novel paper | done — pp 103–127 |
+| Rapid-fire pairs, master bank, consolidated keys | done — Appendices A–C, pp 128–153 |
+| Appendices D–K | done — pp 154–174 |
+
+Build at this checkpoint: **174 pp, 4.12 MB, 0 Typst warnings**. 240 drill questions,
+120 paper questions, 40 novel questions, 40 rapid-fire pairs and 120 bank questions —
+560 in all — with a written note on every option, and no stem repeated between any two
+of the twelve banks, the three papers and the master bank.
+
+Three house-style notes for this volume. First, the reading text is a single short
+novel, so the banks are checked mechanically: a script compares every stem in the six
+drills, the two papers, the novel paper and the master bank, and the build is only
+accepted when the intersection is empty. Second, a dollar sign opens math mode in
+Typst, so `_clean` escapes `$` as well as every run of two or more underscores; a
+price written `$10,000` otherwise swallows the rest of the option list and reports
+*missing argument: d*. Third, the paper solutions were originally wrapped in a single
+unbreakable block, which silently overflowed a page at sixty items; the block now
+closes after the heading and the first solution so the run can break.

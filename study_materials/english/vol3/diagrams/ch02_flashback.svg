@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 279" width="760" height="279">
+  <defs>
+    <marker id="ag" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#008751"/>
+    </marker>
+    <marker id="an" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#0E1F40"/>
+    </marker>
+    <marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#D97706"/>
+    </marker>
+    <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#DC2626"/>
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="760" height="279" fill="#FFFFFF"/>
+<text x="380.0" y="26" font-family="DejaVu Sans" font-size="12.6" fill="#0E1F40" text-anchor="middle" font-weight="bold">The flashbacks, and what each one is doing there</text>
+<text x="380.0" y="38" font-family="DejaVu Sans" font-size="9.4" fill="#64748B" text-anchor="middle" font-weight="normal">The novel moves between the term in front of Bepo and the twenty-four years behind him.</text>
+<rect x="12" y="57" width="736" height="24" rx="5" fill="#0E1F40" stroke="#0E1F40" stroke-width="0"/>
+<text x="20" y="73" font-family="DejaVu Sans" font-size="9.0" fill="#FFFFFF" text-anchor="start" font-weight="bold">Chapter</text>
+<text x="95.72413793103448" y="73" font-family="DejaVu Sans" font-size="9.0" fill="#FFFFFF" text-anchor="start" font-weight="bold">Goes back to</text>
+<text x="423.8620689655172" y="73" font-family="DejaVu Sans" font-size="9.0" fill="#FFFFFF" text-anchor="start" font-weight="bold">Why the novel needs it</text>
+<text x="20" y="95.0" font-family="DejaVu Sans" font-size="9.2" fill="#0E1F40" text-anchor="start" font-weight="bold">2</text>
+<text x="95.72413793103448" y="95.0" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="start" font-weight="normal">Bepo's twenty-four years at Stardom, from Kiddies to the secondary</text>
+<text x="95.72413793103448" y="107.328" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="start" font-weight="normal">school</text>
+<text x="423.8620689655172" y="95.0" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="start" font-weight="normal">Establishes what leaving costs, before the reader has seen a single</text>
+<text x="423.8620689655172" y="107.328" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="start" font-weight="normal">school day</text>
+<line x1="12" y1="117.656" x2="748" y2="117.656" stroke="#CBD5E1" stroke-width="0.6"/>
+<rect x="12" y="117.656" width="736" height="36.656" rx="0" fill="#F8FAFC" stroke="none" stroke-width="0"/>
+<text x="20" y="131.656" font-family="DejaVu Sans" font-size="9.2" fill="#0E1F40" text-anchor="start" font-weight="bold">3</text>
+<text x="95.72413793103448" y="131.656" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="start" font-weight="normal">Jare, Hope and Sola — three migrants, three outcomes</text>
+<text x="423.8620689655172" y="131.656" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="start" font-weight="normal">Answers the question the reader is already asking: is abroad</text>
+<text x="423.8620689655172" y="143.984" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="start" font-weight="normal">better?</text>
+<line x1="12" y1="154.312" x2="748" y2="154.312" stroke="#CBD5E1" stroke-width="0.6"/>
+<text x="20" y="168.312" font-family="DejaVu Sans" font-size="9.2" fill="#0E1F40" text-anchor="start" font-weight="bold">7</text>
+<text x="95.72413793103448" y="168.312" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="start" font-weight="normal">Beesway Group of Schools; the night of the cow; Fruitful Future</text>
+<text x="423.8620689655172" y="168.312" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="start" font-weight="normal">Shows the corruption he has already refused once</text>
+<line x1="12" y1="178.64000000000001" x2="748" y2="178.64000000000001" stroke="#CBD5E1" stroke-width="0.6"/>
+<rect x="12" y="178.64000000000001" width="736" height="24.328" rx="0" fill="#F8FAFC" stroke="none" stroke-width="0"/>
+<text x="20" y="192.64000000000001" font-family="DejaVu Sans" font-size="9.2" fill="#0E1F40" text-anchor="start" font-weight="bold">8</text>
+<text x="95.72413793103448" y="192.64000000000001" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="start" font-weight="normal">The prefect election and the feud behind it</text>
+<text x="423.8620689655172" y="192.64000000000001" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="start" font-weight="normal">Shows the work left undone, and the school's own troubles</text>
+<line x1="12" y1="202.96800000000002" x2="748" y2="202.96800000000002" stroke="#CBD5E1" stroke-width="0.6"/>
+<text x="20" y="216.96800000000002" font-family="DejaVu Sans" font-size="9.2" fill="#0E1F40" text-anchor="start" font-weight="bold">9</text>
+<text x="95.72413793103448" y="216.96800000000002" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="start" font-weight="normal">The excursion programme, ending at Badagry</text>
+<text x="423.8620689655172" y="216.96800000000002" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="start" font-weight="normal">Puts slavery beside japa and makes the title of Chapter 11</text>
+<text x="423.8620689655172" y="229.29600000000002" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="start" font-weight="normal">inevitable</text>
+<line x1="12" y1="239.62400000000002" x2="748" y2="239.62400000000002" stroke="#CBD5E1" stroke-width="0.6"/>
+<text x="380.0" y="256.624" font-family="DejaVu Sans" font-size="9.0" fill="#64748B" text-anchor="middle" font-weight="normal">A flashback question usually asks what the memory explains, not what happened in it. Read the sentence after the flashback ends.</text>
+<rect x="12" y="10" width="736" height="265.22400000000005" rx="9" fill="none" stroke="#008751" stroke-width="1.4"/>
+</svg>

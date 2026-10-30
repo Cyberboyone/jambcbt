@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 328" width="760" height="328">
+  <defs>
+    <marker id="ag" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#008751"/>
+    </marker>
+    <marker id="an" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#0E1F40"/>
+    </marker>
+    <marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#D97706"/>
+    </marker>
+    <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#DC2626"/>
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="760" height="328" fill="#FFFFFF"/>
+<text x="380.0" y="26" font-family="DejaVu Sans" font-size="12.6" fill="#0E1F40" text-anchor="middle" font-weight="bold">The settings, and what each one is for</text>
+<text x="380.0" y="38" font-family="DejaVu Sans" font-size="9.4" fill="#64748B" text-anchor="middle" font-weight="normal">Six settings, and only one of them is abroad — which is itself the novel's argument.</text>
+<rect x="12" y="57" width="736" height="24" rx="5" fill="#0E1F40" stroke="#0E1F40" stroke-width="0"/>
+<text x="20" y="73" font-family="DejaVu Sans" font-size="9.0" fill="#FFFFFF" text-anchor="start" font-weight="bold">Setting</text>
+<text x="173.48387096774195" y="73" font-family="DejaVu Sans" font-size="9.0" fill="#FFFFFF" text-anchor="start" font-weight="bold">What it is</text>
+<text x="468.6451612903226" y="73" font-family="DejaVu Sans" font-size="9.0" fill="#FFFFFF" text-anchor="start" font-weight="bold">What it carries</text>
+<text x="20" y="95.0" font-family="DejaVu Sans" font-size="9.2" fill="#0E1F40" text-anchor="start" font-weight="bold">Lekki, Lagos</text>
+<text x="173.48387096774195" y="95.0" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="start" font-weight="normal">The affluent island suburb, and Stardom Schools inside it</text>
+<text x="468.6451612903226" y="95.0" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="start" font-weight="normal">Money beside want, and a school that must look</text>
+<text x="468.6451612903226" y="107.328" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="start" font-weight="normal">successful</text>
+<line x1="12" y1="117.656" x2="748" y2="117.656" stroke="#CBD5E1" stroke-width="0.6"/>
+<rect x="12" y="117.656" width="736" height="36.656" rx="0" fill="#F8FAFC" stroke="none" stroke-width="0"/>
+<text x="20" y="131.656" font-family="DejaVu Sans" font-size="9.2" fill="#0E1F40" text-anchor="start" font-weight="bold">Stardom Schools</text>
+<text x="173.48387096774195" y="131.656" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="start" font-weight="normal">The workplace: assembly ground, MD's office, staff room,</text>
+<text x="173.48387096774195" y="143.984" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="start" font-weight="normal">classrooms</text>
+<text x="468.6451612903226" y="131.656" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="start" font-weight="normal">The institution Bepo serves; the stage for every moral test</text>
+<line x1="12" y1="154.312" x2="748" y2="154.312" stroke="#CBD5E1" stroke-width="0.6"/>
+<text x="20" y="168.312" font-family="DejaVu Sans" font-size="9.2" fill="#0E1F40" text-anchor="start" font-weight="bold">Beesway Group of Schools</text>
+<text x="173.48387096774195" y="168.312" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="start" font-weight="normal">His former school, recalled in Chapter 7</text>
+<text x="468.6451612903226" y="168.312" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="start" font-weight="normal">What education becomes when the owner is unchecked</text>
+<line x1="12" y1="178.64000000000001" x2="748" y2="178.64000000000001" stroke="#CBD5E1" stroke-width="0.6"/>
+<rect x="12" y="178.64000000000001" width="736" height="36.656" rx="0" fill="#F8FAFC" stroke="none" stroke-width="0"/>
+<text x="20" y="192.64000000000001" font-family="DejaVu Sans" font-size="9.2" fill="#0E1F40" text-anchor="start" font-weight="bold">Fruitful Future School</text>
+<text x="173.48387096774195" y="192.64000000000001" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="start" font-weight="normal">The small school he co-founded, recalled in Chapter 7</text>
+<text x="468.6451612903226" y="192.64000000000001" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="start" font-weight="normal">The honest attempt that failed on economics, not on</text>
+<text x="468.6451612903226" y="204.96800000000002" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="start" font-weight="normal">principle</text>
+<line x1="12" y1="215.29600000000002" x2="748" y2="215.29600000000002" stroke="#CBD5E1" stroke-width="0.6"/>
+<text x="20" y="229.29600000000002" font-family="DejaVu Sans" font-size="9.2" fill="#0E1F40" text-anchor="start" font-weight="bold">Badagry</text>
+<text x="173.48387096774195" y="229.29600000000002" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="start" font-weight="normal">Akran's palace, the First Storey Building, the Black Heritage</text>
+<text x="173.48387096774195" y="241.62400000000002" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="start" font-weight="normal">Museum, the Point of No Return</text>
+<text x="468.6451612903226" y="229.29600000000002" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="start" font-weight="normal">History, and the accusation it makes of the present</text>
+<line x1="12" y1="251.95200000000003" x2="748" y2="251.95200000000003" stroke="#CBD5E1" stroke-width="0.6"/>
+<rect x="12" y="251.95200000000003" width="736" height="36.656" rx="0" fill="#F8FAFC" stroke="none" stroke-width="0"/>
+<text x="20" y="265.952" font-family="DejaVu Sans" font-size="9.2" fill="#0E1F40" text-anchor="start" font-weight="bold">Ibadan and the road</text>
+<text x="173.48387096774195" y="265.952" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="start" font-weight="normal">The passport office, the NIN desk, the expressway</text>
+<text x="468.6451612903226" y="265.952" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="start" font-weight="normal">The state as an obstacle course, and the patience it</text>
+<text x="468.6451612903226" y="278.28" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="start" font-weight="normal">demands</text>
+<line x1="12" y1="288.608" x2="748" y2="288.608" stroke="#CBD5E1" stroke-width="0.6"/>
+<text x="380.0" y="305.608" font-family="DejaVu Sans" font-size="9.0" fill="#64748B" text-anchor="middle" font-weight="normal">Setting questions often ask what a place *represents*. Lekki is not simply wealthy; it is a place where wealth and failure share a wall.</text>
+<rect x="12" y="10" width="736" height="314.208" rx="9" fill="none" stroke="#008751" stroke-width="1.4"/>
+</svg>

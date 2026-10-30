@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 315" width="760" height="315">
+  <defs>
+    <marker id="ag" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#008751"/>
+    </marker>
+    <marker id="an" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#0E1F40"/>
+    </marker>
+    <marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#D97706"/>
+    </marker>
+    <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#DC2626"/>
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="760" height="315" fill="#FFFFFF"/>
+<text x="380.0" y="26" font-family="DejaVu Sans" font-size="12.6" fill="#0E1F40" text-anchor="middle" font-weight="bold">The sixty questions, section by section</text>
+<text x="380.0" y="38" font-family="DejaVu Sans" font-size="9.4" fill="#64748B" text-anchor="middle" font-weight="normal">Sixty questions, four options, no negative marking.</text>
+<rect x="12" y="57" width="736" height="24" rx="5" fill="#0E1F40" stroke="#0E1F40" stroke-width="0"/>
+<text x="20" y="73" font-family="DejaVu Sans" font-size="9.0" fill="#FFFFFF" text-anchor="start" font-weight="bold">Section</text>
+<text x="76.30769230769232" y="73" font-family="DejaVu Sans" font-size="9.0" fill="#FFFFFF" text-anchor="start" font-weight="bold">Block</text>
+<text x="335.3230769230769" y="73" font-family="DejaVu Sans" font-size="9.0" fill="#FFFFFF" text-anchor="start" font-weight="bold">Questions</text>
+<text x="414.1538461538461" y="73" font-family="DejaVu Sans" font-size="9.0" fill="#FFFFFF" text-anchor="start" font-weight="bold">What it tests</text>
+<text x="20" y="95.0" font-family="DejaVu Sans" font-size="9.2" fill="#0E1F40" text-anchor="start" font-weight="bold">A</text>
+<text x="76.30769230769232" y="95.0" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="start" font-weight="normal">Comprehension passage</text>
+<text x="335.3230769230769" y="95.0" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="start" font-weight="normal">5</text>
+<text x="414.1538461538461" y="95.0" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="start" font-weight="normal">main idea, detail, inference, vocabulary in context</text>
+<line x1="12" y1="105.328" x2="748" y2="105.328" stroke="#CBD5E1" stroke-width="0.6"/>
+<rect x="12" y="105.328" width="736" height="24.328" rx="0" fill="#F8FAFC" stroke="none" stroke-width="0"/>
+<text x="20" y="119.328" font-family="DejaVu Sans" font-size="9.2" fill="#0E1F40" text-anchor="start" font-weight="bold">A</text>
+<text x="76.30769230769232" y="119.328" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="start" font-weight="normal">Cloze passage</text>
+<text x="335.3230769230769" y="119.328" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="start" font-weight="normal">10</text>
+<text x="414.1538461538461" y="119.328" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="start" font-weight="normal">register, collocation and cohesion</text>
+<line x1="12" y1="129.656" x2="748" y2="129.656" stroke="#CBD5E1" stroke-width="0.6"/>
+<text x="20" y="143.656" font-family="DejaVu Sans" font-size="9.2" fill="#0E1F40" text-anchor="start" font-weight="bold">A</text>
+<text x="76.30769230769232" y="143.656" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="start" font-weight="normal">Reading text</text>
+<text x="335.3230769230769" y="143.656" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="start" font-weight="normal">10</text>
+<text x="414.1538461538461" y="143.656" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="start" font-weight="normal">the novel: fact, sequence, character, theme</text>
+<line x1="12" y1="153.984" x2="748" y2="153.984" stroke="#CBD5E1" stroke-width="0.6"/>
+<rect x="12" y="153.984" width="736" height="24.328" rx="0" fill="#F8FAFC" stroke="none" stroke-width="0"/>
+<text x="20" y="167.984" font-family="DejaVu Sans" font-size="9.2" fill="#0E1F40" text-anchor="start" font-weight="bold">B</text>
+<text x="76.30769230769232" y="167.984" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="start" font-weight="normal">Sentence interpretation</text>
+<text x="335.3230769230769" y="167.984" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="start" font-weight="normal">5</text>
+<text x="414.1538461538461" y="167.984" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="start" font-weight="normal">what a sentence is doing</text>
+<line x1="12" y1="178.312" x2="748" y2="178.312" stroke="#CBD5E1" stroke-width="0.6"/>
+<text x="20" y="192.312" font-family="DejaVu Sans" font-size="9.2" fill="#0E1F40" text-anchor="start" font-weight="bold">B</text>
+<text x="76.30769230769232" y="192.312" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="start" font-weight="normal">Antonyms</text>
+<text x="335.3230769230769" y="192.312" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="start" font-weight="normal">5</text>
+<text x="414.1538461538461" y="192.312" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="start" font-weight="normal">opposites in context</text>
+<line x1="12" y1="202.64000000000001" x2="748" y2="202.64000000000001" stroke="#CBD5E1" stroke-width="0.6"/>
+<rect x="12" y="202.64000000000001" width="736" height="24.328" rx="0" fill="#F8FAFC" stroke="none" stroke-width="0"/>
+<text x="20" y="216.64000000000001" font-family="DejaVu Sans" font-size="9.2" fill="#0E1F40" text-anchor="start" font-weight="bold">B</text>
+<text x="76.30769230769232" y="216.64000000000001" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="start" font-weight="normal">Synonyms</text>
+<text x="335.3230769230769" y="216.64000000000001" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="start" font-weight="normal">5</text>
+<text x="414.1538461538461" y="216.64000000000001" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="start" font-weight="normal">nearest meaning in context</text>
+<line x1="12" y1="226.96800000000002" x2="748" y2="226.96800000000002" stroke="#CBD5E1" stroke-width="0.6"/>
+<text x="20" y="240.96800000000002" font-family="DejaVu Sans" font-size="9.2" fill="#0E1F40" text-anchor="start" font-weight="bold">B</text>
+<text x="76.30769230769232" y="240.96800000000002" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="start" font-weight="normal">Sentence completion / grammar</text>
+<text x="335.3230769230769" y="240.96800000000002" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="start" font-weight="normal">10</text>
+<text x="414.1538461538461" y="240.96800000000002" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="start" font-weight="normal">concord, tense, prepositions, connectors</text>
+<line x1="12" y1="251.29600000000002" x2="748" y2="251.29600000000002" stroke="#CBD5E1" stroke-width="0.6"/>
+<rect x="12" y="251.29600000000002" width="736" height="24.328" rx="0" fill="#F8FAFC" stroke="none" stroke-width="0"/>
+<text x="20" y="265.29600000000005" font-family="DejaVu Sans" font-size="9.2" fill="#0E1F40" text-anchor="start" font-weight="bold">C</text>
+<text x="76.30769230769232" y="265.29600000000005" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="start" font-weight="normal">Oral forms</text>
+<text x="335.3230769230769" y="265.29600000000005" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="start" font-weight="normal">10</text>
+<text x="414.1538461538461" y="265.29600000000005" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="start" font-weight="normal">vowels, consonants, rhyme, stress, emphatic stress</text>
+<line x1="12" y1="275.624" x2="748" y2="275.624" stroke="#CBD5E1" stroke-width="0.6"/>
+<text x="380.0" y="292.624" font-family="DejaVu Sans" font-size="9.0" fill="#64748B" text-anchor="middle" font-weight="normal">The reading text is ten questions — one sixth of the paper, and the easiest ten to prepare, because the book is short and closed.</text>
+<rect x="12" y="10" width="736" height="301.22400000000005" rx="9" fill="none" stroke="#008751" stroke-width="1.4"/>
+</svg>

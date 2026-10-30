@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 230" width="760" height="230">
+  <defs>
+    <marker id="ag" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#008751"/>
+    </marker>
+    <marker id="an" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#0E1F40"/>
+    </marker>
+    <marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#D97706"/>
+    </marker>
+    <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#DC2626"/>
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="760" height="230" fill="#FFFFFF"/>
+<text x="380.0" y="26" font-family="DejaVu Sans" font-size="12.6" fill="#0E1F40" text-anchor="middle" font-weight="bold">The order of attack on the screen</text>
+<text x="380.0" y="40" font-family="DejaVu Sans" font-size="9.4" fill="#64748B" text-anchor="middle" font-weight="normal">The paper arrives mixed; you do not have to answer it in the order it arrives.</text>
+<rect x="12.0" y="63" width="126.4" height="127.584" rx="7" fill="#FFFFFF" stroke="#008751" stroke-width="1.3"/>
+<rect x="12.0" y="63" width="126.4" height="4.5" rx="2" fill="#008751" stroke="#008751" stroke-width="0"/>
+<text x="75.2" y="85" font-family="DejaVu Sans" font-size="10.0" fill="#0E1F40" text-anchor="middle" font-weight="bold">NOVEL</text>
+<text x="75.2" y="101.0" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="middle" font-weight="normal">10 questions,</text>
+<text x="75.2" y="113.512" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="middle" font-weight="normal">answered from</text>
+<text x="75.2" y="126.024" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="middle" font-weight="normal">memory in about four</text>
+<text x="75.2" y="138.536" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="middle" font-weight="normal">minutes. Start here:</text>
+<text x="75.2" y="151.048" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="middle" font-weight="normal">they are the only</text>
+<text x="75.2" y="163.56" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="middle" font-weight="normal">questions nobody can</text>
+<text x="75.2" y="176.072" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="middle" font-weight="normal">talk you out of.</text>
+<line x1="142.4" y1="126.792" x2="150.32500000000002" y2="126.792" stroke="#008751" stroke-width="1.6"/><polygon points="160.4,126.8 150.3,130.6 150.3,123.0" fill="#008751"/>
+<rect x="164.4" y="63" width="126.4" height="127.584" rx="7" fill="#FFFFFF" stroke="#008751" stroke-width="1.3"/>
+<rect x="164.4" y="63" width="126.4" height="4.5" rx="2" fill="#008751" stroke="#008751" stroke-width="0"/>
+<text x="227.60000000000002" y="85" font-family="DejaVu Sans" font-size="10.0" fill="#0E1F40" text-anchor="middle" font-weight="bold">ORAL</text>
+<text x="227.60000000000002" y="101.0" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="middle" font-weight="normal">10 questions, mostly</text>
+<text x="227.60000000000002" y="113.512" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="middle" font-weight="normal">single-word decisions.</text>
+<text x="227.60000000000002" y="126.024" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="middle" font-weight="normal">Do them while the</text>
+<text x="227.60000000000002" y="138.536" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="middle" font-weight="normal">mind is fresh.</text>
+<line x1="294.8" y1="126.792" x2="302.725" y2="126.792" stroke="#008751" stroke-width="1.6"/><polygon points="312.8,126.8 302.7,130.6 302.7,123.0" fill="#008751"/>
+<rect x="316.8" y="63" width="126.4" height="127.584" rx="7" fill="#FFFFFF" stroke="#008751" stroke-width="1.3"/>
+<rect x="316.8" y="63" width="126.4" height="4.5" rx="2" fill="#008751" stroke="#008751" stroke-width="0"/>
+<text x="380.0" y="85" font-family="DejaVu Sans" font-size="10.0" fill="#0E1F40" text-anchor="middle" font-weight="bold">COMPREHENSION</text>
+<text x="380.0" y="101.0" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="middle" font-weight="normal">5 questions, one</text>
+<text x="380.0" y="113.512" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="middle" font-weight="normal">passage. Read the</text>
+<text x="380.0" y="126.024" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="middle" font-weight="normal">questions first, then</text>
+<text x="380.0" y="138.536" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="middle" font-weight="normal">the passage.</text>
+<line x1="447.20000000000005" y1="126.792" x2="455.12500000000006" y2="126.792" stroke="#008751" stroke-width="1.6"/><polygon points="465.2,126.8 455.1,130.6 455.1,123.0" fill="#008751"/>
+<rect x="469.20000000000005" y="63" width="126.4" height="127.584" rx="7" fill="#FFFFFF" stroke="#008751" stroke-width="1.3"/>
+<rect x="469.20000000000005" y="63" width="126.4" height="4.5" rx="2" fill="#008751" stroke="#008751" stroke-width="0"/>
+<text x="532.4000000000001" y="85" font-family="DejaVu Sans" font-size="10.0" fill="#0E1F40" text-anchor="middle" font-weight="bold">CLOZE</text>
+<text x="532.4000000000001" y="101.0" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="middle" font-weight="normal">10 questions on one</text>
+<text x="532.4000000000001" y="113.512" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="middle" font-weight="normal">short passage. Read</text>
+<text x="532.4000000000001" y="126.024" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="middle" font-weight="normal">the whole paragraph</text>
+<text x="532.4000000000001" y="138.536" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="middle" font-weight="normal">before filling the first</text>
+<text x="532.4000000000001" y="151.048" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="middle" font-weight="normal">blank.</text>
+<line x1="599.6" y1="126.792" x2="607.525" y2="126.792" stroke="#008751" stroke-width="1.6"/><polygon points="617.6,126.8 607.5,130.6 607.5,123.0" fill="#008751"/>
+<rect x="621.6" y="63" width="126.4" height="127.584" rx="7" fill="#FFFFFF" stroke="#008751" stroke-width="1.3"/>
+<rect x="621.6" y="63" width="126.4" height="4.5" rx="2" fill="#008751" stroke="#008751" stroke-width="0"/>
+<text x="684.8000000000001" y="85" font-family="DejaVu Sans" font-size="10.0" fill="#0E1F40" text-anchor="middle" font-weight="bold">LEGAL</text>
+<text x="684.8000000000001" y="101.0" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="middle" font-weight="normal">The rest — synonyms,</text>
+<text x="684.8000000000001" y="113.512" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="middle" font-weight="normal">antonyms,</text>
+<text x="684.8000000000001" y="126.024" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="middle" font-weight="normal">interpretation,</text>
+<text x="684.8000000000001" y="138.536" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="middle" font-weight="normal">grammar — at 30</text>
+<text x="684.8000000000001" y="151.048" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="middle" font-weight="normal">seconds each.</text>
+<text x="380.0" y="207.584" font-family="DejaVu Sans" font-size="9.0" fill="#64748B" text-anchor="middle" font-weight="normal">Mark and return is a CBT button, and it exists so that you can bank the easy ten per cent before the clock starts to matter.</text>
+<rect x="12" y="10" width="736" height="218.184" rx="9" fill="none" stroke="#008751" stroke-width="1.4"/>
+</svg>

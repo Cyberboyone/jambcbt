@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 341" width="760" height="341">
+  <defs>
+    <marker id="ag" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#008751"/>
+    </marker>
+    <marker id="an" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#0E1F40"/>
+    </marker>
+    <marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#D97706"/>
+    </marker>
+    <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#DC2626"/>
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="760" height="341" fill="#FFFFFF"/>
+<text x="380.0" y="26" font-family="DejaVu Sans" font-size="12.6" fill="#0E1F40" text-anchor="middle" font-weight="bold">The six themes, and the evidence for each</text>
+<text x="380.0" y="38" font-family="DejaVu Sans" font-size="9.4" fill="#64748B" text-anchor="middle" font-weight="normal">A theme is a claim the whole book makes, not a subject it mentions.</text>
+<rect x="12" y="57" width="736" height="24" rx="5" fill="#0E1F40" stroke="#0E1F40" stroke-width="0"/>
+<text x="20" y="73" font-family="DejaVu Sans" font-size="9.0" fill="#FFFFFF" text-anchor="start" font-weight="bold">Theme</text>
+<text x="185.29032258064518" y="73" font-family="DejaVu Sans" font-size="9.0" fill="#FFFFFF" text-anchor="start" font-weight="bold">What the novel says</text>
+<text x="515.8709677419356" y="73" font-family="DejaVu Sans" font-size="9.0" fill="#FFFFFF" text-anchor="start" font-weight="bold">Where to point</text>
+<text x="20" y="95.0" font-family="DejaVu Sans" font-size="9.2" fill="#0E1F40" text-anchor="start" font-weight="bold">Japa and the new slavery</text>
+<text x="185.29032258064518" y="95.0" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="start" font-weight="normal">Migration is not simply progress; it repeats an old departure,</text>
+<text x="185.29032258064518" y="107.328" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="start" font-weight="normal">sometimes on worse terms.</text>
+<text x="515.8709677419356" y="95.0" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="start" font-weight="normal">Chapter 9 at Badagry; the dream in Chapter 12</text>
+<line x1="12" y1="117.656" x2="748" y2="117.656" stroke="#CBD5E1" stroke-width="0.6"/>
+<rect x="12" y="117.656" width="736" height="36.656" rx="0" fill="#F8FAFC" stroke="none" stroke-width="0"/>
+<text x="20" y="131.656" font-family="DejaVu Sans" font-size="9.2" fill="#0E1F40" text-anchor="start" font-weight="bold">Integrity in education</text>
+<text x="185.29032258064518" y="131.656" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="start" font-weight="normal">A school can be run honestly, and honesty costs the person who</text>
+<text x="185.29032258064518" y="143.984" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="start" font-weight="normal">keeps it.</text>
+<text x="515.8709677419356" y="131.656" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="start" font-weight="normal">Chapter 7 at Beesway; Chapters 5 and 6 at</text>
+<text x="515.8709677419356" y="143.984" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="start" font-weight="normal">Stardom</text>
+<line x1="12" y1="154.312" x2="748" y2="154.312" stroke="#CBD5E1" stroke-width="0.6"/>
+<text x="20" y="168.312" font-family="DejaVu Sans" font-size="9.2" fill="#0E1F40" text-anchor="start" font-weight="bold">Leadership and its price</text>
+<text x="185.29032258064518" y="168.312" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="start" font-weight="normal">Authority is lonely, and the leader who refuses to compromise is the</text>
+<text x="185.29032258064518" y="180.64000000000001" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="start" font-weight="normal">one who weeps at assembly.</text>
+<text x="515.8709677419356" y="168.312" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="start" font-weight="normal">Chapter 1; the farewell in Chapter 11</text>
+<line x1="12" y1="190.96800000000002" x2="748" y2="190.96800000000002" stroke="#CBD5E1" stroke-width="0.6"/>
+<rect x="12" y="190.96800000000002" width="736" height="36.656" rx="0" fill="#F8FAFC" stroke="none" stroke-width="0"/>
+<text x="20" y="204.96800000000002" font-family="DejaVu Sans" font-size="9.2" fill="#0E1F40" text-anchor="start" font-weight="bold">Family against duty</text>
+<text x="185.29032258064518" y="204.96800000000002" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="start" font-weight="normal">Love at home and duty at work pull in opposite directions, and</text>
+<text x="185.29032258064518" y="217.29600000000002" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="start" font-weight="normal">neither is a vice.</text>
+<text x="515.8709677419356" y="204.96800000000002" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="start" font-weight="normal">Seri's calls in Chapter 2; the children already</text>
+<text x="515.8709677419356" y="217.29600000000002" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="start" font-weight="normal">abroad</text>
+<line x1="12" y1="227.62400000000002" x2="748" y2="227.62400000000002" stroke="#CBD5E1" stroke-width="0.6"/>
+<text x="20" y="241.62400000000002" font-family="DejaVu Sans" font-size="9.2" fill="#0E1F40" text-anchor="start" font-weight="bold">Belief, ritual and superstition</text>
+<text x="185.29032258064518" y="241.62400000000002" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="start" font-weight="normal">The desire for success without work is the corruption the novel fears</text>
+<text x="185.29032258064518" y="253.95200000000003" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="start" font-weight="normal">most.</text>
+<text x="515.8709677419356" y="241.62400000000002" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="start" font-weight="normal">Egi Meko's cow; Mr Ogo's offer</text>
+<line x1="12" y1="264.28000000000003" x2="748" y2="264.28000000000003" stroke="#CBD5E1" stroke-width="0.6"/>
+<rect x="12" y="264.28000000000003" width="736" height="36.656" rx="0" fill="#F8FAFC" stroke="none" stroke-width="0"/>
+<text x="20" y="278.28000000000003" font-family="DejaVu Sans" font-size="9.2" fill="#0E1F40" text-anchor="start" font-weight="bold">Heritage and nation</text>
+<text x="185.29032258064518" y="278.28000000000003" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="start" font-weight="normal">You cannot love a country you have never seen; the excursions are</text>
+<text x="185.29032258064518" y="290.608" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="start" font-weight="normal">an education in belonging.</text>
+<text x="515.8709677419356" y="278.28000000000003" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="start" font-weight="normal">Chapter 9 across Nigeria and at Badagry</text>
+<line x1="12" y1="300.93600000000004" x2="748" y2="300.93600000000004" stroke="#CBD5E1" stroke-width="0.6"/>
+<text x="380.0" y="317.93600000000004" font-family="DejaVu Sans" font-size="9.0" fill="#64748B" text-anchor="middle" font-weight="normal">When an option names a theme with no scene behind it — *the evils of colonialism*, say — it is usually the wrong one.</text>
+<rect x="12" y="10" width="736" height="326.53600000000006" rx="9" fill="none" stroke="#008751" stroke-width="1.4"/>
+</svg>
