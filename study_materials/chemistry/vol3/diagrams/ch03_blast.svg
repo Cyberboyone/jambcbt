@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 440" width="760" height="440">
+  <defs>
+    <marker id="ag" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#008751"/>
+    </marker>
+    <marker id="an" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#0E1F40"/>
+    </marker>
+    <marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#D97706"/>
+    </marker>
+    <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#DC2626"/>
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="760" height="440" fill="#FFFFFF"/>
+<text x="380" y="24" font-family="DejaVu Sans" font-size="12.0" fill="#0E1F40" text-anchor="middle" font-weight="bold">THE BLAST FURNACE — TEMPERATURE BANDS AND THEIR REACTIONS</text>
+<text x="380" y="42" font-family="DejaVu Sans" font-size="8.2" fill="#64748B" text-anchor="middle" font-weight="normal">The furnace is a counter-current reactor: solids fall, gases rise, and each band does one job.</text>
+<polygon points="300,60 460,60 480,140 480,340 450,380 310,380 280,340 280,140" fill="#FFF7ED" stroke="#9A3412" stroke-width="1.6"/>
+<text x="364" y="52" font-family="DejaVu Sans" font-size="7.4" fill="#334155" text-anchor="end" font-weight="normal">charge: iron ore + coke + limestone</text>
+<rect x="288" y="78" width="184" height="70" rx="4" fill="#FEF3C7" stroke="#D97706" stroke-width="1.0"/>
+<text x="380" y="94" font-family="DejaVu Sans" font-size="7.6" fill="#78350F" text-anchor="middle" font-weight="bold">200–400 °C</text>
+<text x="380" y="107" font-family="DejaVu Sans" font-size="6.9" fill="#334155" text-anchor="middle" font-weight="normal">moisture driven off</text>
+<rect x="288" y="150" width="184" height="74" rx="4" fill="#FFEDD5" stroke="#C2410C" stroke-width="1.0"/>
+<text x="380" y="166" font-family="DejaVu Sans" font-size="7.6" fill="#78350F" text-anchor="middle" font-weight="bold">400–800 °C</text>
+<text x="380" y="179" font-family="DejaVu Sans" font-size="6.9" fill="#334155" text-anchor="middle" font-weight="normal">coke burns to CO</text>
+<rect x="288" y="226" width="184" height="74" rx="4" fill="#FED7AA" stroke="#9A3412" stroke-width="1.0"/>
+<text x="380" y="242" font-family="DejaVu Sans" font-size="7.6" fill="#78350F" text-anchor="middle" font-weight="bold">800–1200 °C</text>
+<text x="380" y="255" font-family="DejaVu Sans" font-size="6.9" fill="#334155" text-anchor="middle" font-weight="normal">the ore is reduced</text>
+<rect x="288" y="302" width="184" height="68" rx="4" fill="#FDBA74" stroke="#7C2D12" stroke-width="1.0"/>
+<text x="380" y="318" font-family="DejaVu Sans" font-size="7.6" fill="#78350F" text-anchor="middle" font-weight="bold">1500 °C</text>
+<text x="380" y="331" font-family="DejaVu Sans" font-size="6.9" fill="#334155" text-anchor="middle" font-weight="normal">iron melts and falls</text>
+<text x="500" y="117.0" font-family="DejaVu Sans" font-size="7.4" fill="#0E1F40" text-anchor="start" font-weight="normal">CaCO₃ → CaO + CO₂</text>
+<text x="500" y="191.0" font-family="DejaVu Sans" font-size="7.4" fill="#0E1F40" text-anchor="start" font-weight="normal">CO₂ + C → 2CO</text>
+<text x="500" y="267.0" font-family="DejaVu Sans" font-size="7.4" fill="#0E1F40" text-anchor="start" font-weight="normal">Fe₂O₃ + 3CO → 2Fe + 3CO₂</text>
+<text x="500" y="340.0" font-family="DejaVu Sans" font-size="7.4" fill="#0E1F40" text-anchor="start" font-weight="normal">CaO + SiO₂ → CaSiO₃ (slag)</text>
+<text x="226" y="355" font-family="DejaVu Sans" font-size="7.0" fill="#64748B" text-anchor="end" font-weight="normal">slag (used in cement)</text>
+<line x1="380" y1="44" x2="380.0" y2="47.6" stroke="#D97706" stroke-width="1.6"/><polygon points="380.0,60.0 375.4,47.6 384.6,47.6" fill="#D97706"/>
+<line x1="170" y1="200" x2="263.6" y2="200.0" stroke="#008751" stroke-width="2.0"/><polygon points="276.0,200.0 263.6,204.6 263.6,195.4" fill="#008751"/>
+<text x="160" y="195" font-family="DejaVu Sans" font-size="8.0" fill="#008751" text-anchor="end" font-weight="normal">hot air</text>
+<text x="160" y="208" font-family="DejaVu Sans" font-size="6.8" fill="#64748B" text-anchor="end" font-weight="normal">(preheated blast)</text>
+<line x1="380" y1="380" x2="380.0" y2="391.6" stroke="#DC2626" stroke-width="1.8"/><polygon points="380.0,404.0 375.4,391.6 384.6,391.6" fill="#DC2626"/>
+<text x="380" y="420" font-family="DejaVu Sans" font-size="7.6" fill="#DC2626" text-anchor="middle" font-weight="normal">molten iron (about 4 % carbon) → steel making</text>
+<line x1="276" y1="352" x2="244.4" y2="352.0" stroke="#64748B" stroke-width="1.4"/><polygon points="232.0,352.0 244.4,347.4 244.4,356.6" fill="#64748B"/>
+</svg>

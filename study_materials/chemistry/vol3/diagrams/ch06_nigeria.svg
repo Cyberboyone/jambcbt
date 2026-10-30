@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 380" width="760" height="380">
+  <defs>
+    <marker id="ag" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#008751"/>
+    </marker>
+    <marker id="an" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#0E1F40"/>
+    </marker>
+    <marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#D97706"/>
+    </marker>
+    <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#DC2626"/>
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="760" height="380" fill="#FFFFFF"/>
+<text x="380" y="24" font-family="DejaVu Sans" font-size="12.0" fill="#0E1F40" text-anchor="middle" font-weight="bold">SIX INDUSTRIES BUILT ON NIGERIAN RAW MATERIALS</text>
+<text x="380" y="42" font-family="DejaVu Sans" font-size="8.2" fill="#64748B" text-anchor="middle" font-weight="normal">Every one of them is a chemical change you have already met in this book.</text>
+<text x="28" y="64" font-family="DejaVu Sans" font-size="6.8" fill="#64748B" text-anchor="start" font-weight="normal">raw material</text>
+<text x="250" y="64" font-family="DejaVu Sans" font-size="6.8" fill="#64748B" text-anchor="start" font-weight="normal">process</text>
+<text x="470" y="64" font-family="DejaVu Sans" font-size="6.8" fill="#64748B" text-anchor="start" font-weight="normal">product</text>
+<text x="640" y="64" font-family="DejaVu Sans" font-size="6.8" fill="#64748B" text-anchor="start" font-weight="normal">where</text>
+<rect x="20" y="74" width="720" height="38" rx="5" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="0.7"/>
+<text x="28" y="97" font-family="DejaVu Sans" font-size="7.4" fill="#334155" text-anchor="start" font-weight="normal">limestone + clay</text>
+<text x="250" y="97" font-family="DejaVu Sans" font-size="7.4" fill="#334155" text-anchor="start" font-weight="normal">heat to 1450 °C in a kiln</text>
+<text x="470" y="97" font-family="DejaVu Sans" font-size="7.6" fill="#008751" text-anchor="start" font-weight="bold">cement</text>
+<text x="640" y="97" font-family="DejaVu Sans" font-size="7.2" fill="#64748B" text-anchor="start" font-weight="normal">Obajana, Ogun</text>
+<rect x="20" y="118" width="720" height="38" rx="5" fill="#F8FAFC" stroke="#CBD5E1" stroke-width="0.7"/>
+<text x="28" y="141" font-family="DejaVu Sans" font-size="7.4" fill="#334155" text-anchor="start" font-weight="normal">palm oil + NaOH</text>
+<text x="250" y="141" font-family="DejaVu Sans" font-size="7.4" fill="#334155" text-anchor="start" font-weight="normal">boil: saponification</text>
+<text x="470" y="141" font-family="DejaVu Sans" font-size="7.6" fill="#008751" text-anchor="start" font-weight="bold">soap and glycerol</text>
+<text x="640" y="141" font-family="DejaVu Sans" font-size="7.2" fill="#64748B" text-anchor="start" font-weight="normal">Lagos, Ibadan</text>
+<rect x="20" y="162" width="720" height="38" rx="5" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="0.7"/>
+<text x="28" y="185" font-family="DejaVu Sans" font-size="7.4" fill="#334155" text-anchor="start" font-weight="normal">sand + limestone + soda ash</text>
+<text x="250" y="185" font-family="DejaVu Sans" font-size="7.4" fill="#334155" text-anchor="start" font-weight="normal">fuse at 1500 °C</text>
+<text x="470" y="185" font-family="DejaVu Sans" font-size="7.6" fill="#008751" text-anchor="start" font-weight="bold">glass</text>
+<text x="640" y="185" font-family="DejaVu Sans" font-size="7.2" fill="#64748B" text-anchor="start" font-weight="normal">Delta, Ogun</text>
+<rect x="20" y="206" width="720" height="38" rx="5" fill="#F8FAFC" stroke="#CBD5E1" stroke-width="0.7"/>
+<text x="28" y="229" font-family="DejaVu Sans" font-size="7.4" fill="#334155" text-anchor="start" font-weight="normal">natural gas + air</text>
+<text x="250" y="229" font-family="DejaVu Sans" font-size="7.4" fill="#334155" text-anchor="start" font-weight="normal">steam reforming, then Haber</text>
+<text x="470" y="229" font-family="DejaVu Sans" font-size="7.6" fill="#008751" text-anchor="start" font-weight="bold">ammonia and urea</text>
+<text x="640" y="229" font-family="DejaVu Sans" font-size="7.2" fill="#64748B" text-anchor="start" font-weight="normal">Port Harcourt</text>
+<rect x="20" y="250" width="720" height="38" rx="5" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="0.7"/>
+<text x="28" y="273" font-family="DejaVu Sans" font-size="7.4" fill="#334155" text-anchor="start" font-weight="normal">crude oil</text>
+<text x="250" y="273" font-family="DejaVu Sans" font-size="7.4" fill="#334155" text-anchor="start" font-weight="normal">fractional distillation, cracking</text>
+<text x="470" y="273" font-family="DejaVu Sans" font-size="7.6" fill="#008751" text-anchor="start" font-weight="bold">petrol, plastics</text>
+<text x="640" y="273" font-family="DejaVu Sans" font-size="7.2" fill="#64748B" text-anchor="start" font-weight="normal">Eleme, Warri</text>
+<rect x="20" y="294" width="720" height="38" rx="5" fill="#F8FAFC" stroke="#CBD5E1" stroke-width="0.7"/>
+<text x="28" y="317" font-family="DejaVu Sans" font-size="7.4" fill="#334155" text-anchor="start" font-weight="normal">bauxite (imported)</text>
+<text x="250" y="317" font-family="DejaVu Sans" font-size="7.4" fill="#334155" text-anchor="start" font-weight="normal">Hall–Héroult electrolysis</text>
+<text x="470" y="317" font-family="DejaVu Sans" font-size="7.6" fill="#008751" text-anchor="start" font-weight="bold">aluminium</text>
+<text x="640" y="317" font-family="DejaVu Sans" font-size="7.2" fill="#64748B" text-anchor="start" font-weight="normal">Ikot Abasi</text>
+<text x="380" y="352" font-family="DejaVu Sans" font-size="7.4" fill="#334155" text-anchor="middle" font-weight="normal">Cement, soap, glass, fertiliser, fuel and metal: six products, one idea — a cheap local raw material and an energy source next to it.</text>
+</svg>

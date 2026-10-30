@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 250" width="760" height="250">
+  <defs>
+    <marker id="ag" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#008751"/>
+    </marker>
+    <marker id="an" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#0E1F40"/>
+    </marker>
+    <marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#D97706"/>
+    </marker>
+    <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#DC2626"/>
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="760" height="250" fill="#FFFFFF"/>
+<text x="380" y="22" font-family="DejaVu Sans" font-size="12.2" fill="#0E1F40" text-anchor="middle" font-weight="bold">CARBON IS THE WHOLE DIFFERENCE</text>
+<text x="380" y="40" font-family="DejaVu Sans" font-size="8.4" fill="#64748B" text-anchor="middle" font-weight="normal">Iron with less than 0.1 % carbon is soft; above 2 % it is no longer steel but cast iron.</text>
+<rect x="20" y="58" width="720" height="50" rx="7" fill="#ECFDF5" stroke="#008751" stroke-width="1.2"/>
+<text x="112" y="80" font-family="DejaVu Sans" font-size="9.4" fill="#008751" text-anchor="middle" font-weight="bold">MILD STEEL</text>
+<text x="112" y="96" font-family="DejaVu Sans" font-size="7.6" fill="#334155" text-anchor="middle" font-weight="normal">0.05–0.25 % C</text>
+<text x="390" y="89" font-family="DejaVu Sans" font-size="8.2" fill="#0E1F40" text-anchor="middle" font-weight="normal">soft, ductile, easy to weld</text>
+<text x="620" y="89" font-family="DejaVu Sans" font-size="8.0" fill="#0E1F40" text-anchor="middle" font-weight="normal">car bodies, nails, pipes, ships</text>
+<rect x="20" y="118" width="720" height="50" rx="7" fill="#FEF3C7" stroke="#D97706" stroke-width="1.2"/>
+<text x="112" y="140" font-family="DejaVu Sans" font-size="9.4" fill="#D97706" text-anchor="middle" font-weight="bold">MEDIUM CARBON</text>
+<text x="112" y="156" font-family="DejaVu Sans" font-size="7.6" fill="#334155" text-anchor="middle" font-weight="normal">0.25–0.6 % C</text>
+<text x="390" y="149" font-family="DejaVu Sans" font-size="8.2" fill="#0E1F40" text-anchor="middle" font-weight="normal">stronger, harder, less ductile</text>
+<text x="620" y="149" font-family="DejaVu Sans" font-size="8.0" fill="#0E1F40" text-anchor="middle" font-weight="normal">rails, gears, crankshafts</text>
+<rect x="20" y="178" width="720" height="50" rx="7" fill="#EDE9FE" stroke="#7C3AED" stroke-width="1.2"/>
+<text x="112" y="200" font-family="DejaVu Sans" font-size="9.4" fill="#7C3AED" text-anchor="middle" font-weight="bold">HIGH CARBON</text>
+<text x="112" y="216" font-family="DejaVu Sans" font-size="7.6" fill="#334155" text-anchor="middle" font-weight="normal">0.6–1.5 % C</text>
+<text x="390" y="209" font-family="DejaVu Sans" font-size="8.2" fill="#0E1F40" text-anchor="middle" font-weight="normal">very hard, brittle</text>
+<text x="620" y="209" font-family="DejaVu Sans" font-size="8.0" fill="#0E1F40" text-anchor="middle" font-weight="normal">tools, blades, springs</text>
+<text x="380" y="240" font-family="DejaVu Sans" font-size="7.6" fill="#334155" text-anchor="middle" font-weight="normal">Adding chromium and nickel gives stainless steel: a Cr₂O₃ skin that stops rust forming.</text>
+</svg>

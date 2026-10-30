@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 238" width="760" height="238">
+  <defs>
+    <marker id="ag" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#008751"/>
+    </marker>
+    <marker id="an" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#0E1F40"/>
+    </marker>
+    <marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#D97706"/>
+    </marker>
+    <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#DC2626"/>
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="760" height="238" fill="#FFFFFF"/>
+<text x="380" y="24" font-family="DejaVu Sans" font-size="12.2" fill="#0E1F40" text-anchor="middle" font-weight="bold">FOUR STAGES FROM ORE TO METAL</text>
+<text x="380" y="42" font-family="DejaVu Sans" font-size="8.8" fill="#64748B" text-anchor="middle" font-weight="normal">The chemistry changes from stage to stage; the order never does.</text>
+<rect x="22" y="62" width="172" height="92" rx="8" fill="#FFFFFF" stroke="#008751" stroke-width="1.5"/>
+<rect x="22" y="62" width="172" height="5" rx="2.5" fill="#008751"/>
+<text x="108.0" y="88" font-family="DejaVu Sans" font-size="9.4" fill="#008751" text-anchor="middle" font-weight="bold">1  CONCENTRATE</text>
+<text x="108.0" y="108" font-family="DejaVu Sans" font-size="7.8" fill="#334155" text-anchor="middle" font-weight="normal">crush and grind the ore</text>
+<text x="108.0" y="121" font-family="DejaVu Sans" font-size="7.8" fill="#334155" text-anchor="middle" font-weight="normal">remove the gangue (sand, clay)</text>
+<text x="108.0" y="134" font-family="DejaVu Sans" font-size="7.8" fill="#334155" text-anchor="middle" font-weight="normal">froth flotation or magnetic separation</text>
+<line x1="195" y1="108" x2="192.6" y2="108.0" stroke="#008751" stroke-width="1.6"/><polygon points="205.0,108.0 192.6,112.6 192.6,103.4" fill="#008751"/>
+<rect x="206" y="62" width="172" height="92" rx="8" fill="#FFFFFF" stroke="#D97706" stroke-width="1.5"/>
+<rect x="206" y="62" width="172" height="5" rx="2.5" fill="#D97706"/>
+<text x="292.0" y="88" font-family="DejaVu Sans" font-size="9.4" fill="#D97706" text-anchor="middle" font-weight="bold">2  CONVERT</text>
+<text x="292.0" y="108" font-family="DejaVu Sans" font-size="7.8" fill="#334155" text-anchor="middle" font-weight="normal">roast a sulphide in air</text>
+<text x="292.0" y="121" font-family="DejaVu Sans" font-size="7.8" fill="#334155" text-anchor="middle" font-weight="normal">or calcine a carbonate</text>
+<text x="292.0" y="134" font-family="DejaVu Sans" font-size="7.8" fill="#334155" text-anchor="middle" font-weight="normal">to leave the oxide</text>
+<line x1="379" y1="108" x2="376.6" y2="108.0" stroke="#008751" stroke-width="1.6"/><polygon points="389.0,108.0 376.6,112.6 376.6,103.4" fill="#008751"/>
+<rect x="390" y="62" width="172" height="92" rx="8" fill="#FFFFFF" stroke="#2563EB" stroke-width="1.5"/>
+<rect x="390" y="62" width="172" height="5" rx="2.5" fill="#2563EB"/>
+<text x="476.0" y="88" font-family="DejaVu Sans" font-size="9.4" fill="#2563EB" text-anchor="middle" font-weight="bold">3  REDUCE</text>
+<text x="476.0" y="108" font-family="DejaVu Sans" font-size="7.8" fill="#334155" text-anchor="middle" font-weight="normal">electrolysis if very reactive</text>
+<text x="476.0" y="121" font-family="DejaVu Sans" font-size="7.8" fill="#334155" text-anchor="middle" font-weight="normal">carbon if moderately reactive</text>
+<text x="476.0" y="134" font-family="DejaVu Sans" font-size="7.8" fill="#334155" text-anchor="middle" font-weight="normal">displacement if unreactive</text>
+<line x1="563" y1="108" x2="560.6" y2="108.0" stroke="#008751" stroke-width="1.6"/><polygon points="573.0,108.0 560.6,112.6 560.6,103.4" fill="#008751"/>
+<rect x="574" y="62" width="172" height="92" rx="8" fill="#FFFFFF" stroke="#7C3AED" stroke-width="1.5"/>
+<rect x="574" y="62" width="172" height="5" rx="2.5" fill="#7C3AED"/>
+<text x="660.0" y="88" font-family="DejaVu Sans" font-size="9.4" fill="#7C3AED" text-anchor="middle" font-weight="bold">4  REFINE</text>
+<text x="660.0" y="108" font-family="DejaVu Sans" font-size="7.8" fill="#334155" text-anchor="middle" font-weight="normal">electrolytic refining</text>
+<text x="660.0" y="121" font-family="DejaVu Sans" font-size="7.8" fill="#334155" text-anchor="middle" font-weight="normal">or distillation of the metal</text>
+<text x="660.0" y="134" font-family="DejaVu Sans" font-size="7.8" fill="#334155" text-anchor="middle" font-weight="normal">to 99.9 % purity</text>
+<rect x="22" y="168" width="716" height="46" rx="8" fill="#ECFDF5" stroke="#008751" stroke-width="1.2"/>
+<text x="380" y="188" font-family="DejaVu Sans" font-size="8.6" fill="#334155" text-anchor="middle" font-weight="normal">The choice in stage 3 is the whole of inorganic chemistry: a metal high in the series</text>
+<text x="380" y="204" font-family="DejaVu Sans" font-size="8.6" fill="#334155" text-anchor="middle" font-weight="normal">cannot be reduced by carbon, because carbon is below it in the series.</text>
+</svg>

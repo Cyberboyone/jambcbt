@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 310" width="760" height="310">
+  <defs>
+    <marker id="ag" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#008751"/>
+    </marker>
+    <marker id="an" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#0E1F40"/>
+    </marker>
+    <marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#D97706"/>
+    </marker>
+    <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#DC2626"/>
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="760" height="310" fill="#FFFFFF"/>
+<text x="380" y="24" font-family="DejaVu Sans" font-size="12.0" fill="#0E1F40" text-anchor="middle" font-weight="bold">WHICH HALIDE? THE SILVER NITRATE TEST</text>
+<text x="380" y="42" font-family="DejaVu Sans" font-size="8.2" fill="#64748B" text-anchor="middle" font-weight="normal">Acidify with dilute nitric acid, then add silver nitrate. The colour of the precipitate is the first clue.</text>
+<rect x="24" y="62" width="224" height="176" rx="8" fill="#FFFFFF" stroke="#008751" stroke-width="1.3"/>
+<text x="136" y="84" font-family="DejaVu Sans" font-size="9.0" fill="#008751" text-anchor="middle" font-weight="bold">Cl⁻ + Ag⁺</text>
+<circle cx="136" cy="126" r="30" fill="#F8FAFC" stroke="#64748B" stroke-width="1.0"/>
+<text x="136" y="130" font-family="DejaVu Sans" font-size="9.2" fill="#0E1F40" text-anchor="middle" font-weight="bold">AgCl</text>
+<text x="136" y="176" font-family="DejaVu Sans" font-size="8.2" fill="#008751" text-anchor="middle" font-weight="bold">white precipitate</text>
+<text x="136" y="194" font-family="DejaVu Sans" font-size="7.4" fill="#334155" text-anchor="middle" font-weight="normal">soluble in dilute NH₃</text>
+<text x="136" y="212" font-family="DejaVu Sans" font-size="7.4" fill="#0E1F40" text-anchor="middle" font-weight="normal">dissolves at once</text>
+<rect x="264" y="62" width="224" height="176" rx="8" fill="#FFFFFF" stroke="#D97706" stroke-width="1.3"/>
+<text x="376" y="84" font-family="DejaVu Sans" font-size="9.0" fill="#D97706" text-anchor="middle" font-weight="bold">Br⁻ + Ag⁺</text>
+<circle cx="376" cy="126" r="30" fill="#FEF3C7" stroke="#64748B" stroke-width="1.0"/>
+<text x="376" y="130" font-family="DejaVu Sans" font-size="9.2" fill="#0E1F40" text-anchor="middle" font-weight="bold">AgBr</text>
+<text x="376" y="176" font-family="DejaVu Sans" font-size="8.2" fill="#D97706" text-anchor="middle" font-weight="bold">cream precipitate</text>
+<text x="376" y="194" font-family="DejaVu Sans" font-size="7.4" fill="#334155" text-anchor="middle" font-weight="normal">soluble in concentrated NH₃</text>
+<text x="376" y="212" font-family="DejaVu Sans" font-size="7.4" fill="#0E1F40" text-anchor="middle" font-weight="normal">dissolves slowly</text>
+<rect x="504" y="62" width="224" height="176" rx="8" fill="#FFFFFF" stroke="#7C3AED" stroke-width="1.3"/>
+<text x="616" y="84" font-family="DejaVu Sans" font-size="9.0" fill="#7C3AED" text-anchor="middle" font-weight="bold">I⁻ + Ag⁺</text>
+<circle cx="616" cy="126" r="30" fill="#FDE68A" stroke="#64748B" stroke-width="1.0"/>
+<text x="616" y="130" font-family="DejaVu Sans" font-size="9.2" fill="#0E1F40" text-anchor="middle" font-weight="bold">AgI</text>
+<text x="616" y="176" font-family="DejaVu Sans" font-size="8.2" fill="#7C3AED" text-anchor="middle" font-weight="bold">yellow precipitate</text>
+<text x="616" y="194" font-family="DejaVu Sans" font-size="7.4" fill="#334155" text-anchor="middle" font-weight="normal">insoluble in NH₃</text>
+<text x="616" y="212" font-family="DejaVu Sans" font-size="7.4" fill="#0E1F40" text-anchor="middle" font-weight="normal">does not dissolve</text>
+<rect x="20" y="252" width="720" height="22" rx="5" fill="#FEE2E2" stroke="#DC2626" stroke-width="0.9"/>
+<text x="380" y="267" font-family="DejaVu Sans" font-size="7.4" fill="#334155" text-anchor="middle" font-weight="normal">Add nitric acid first: it removes carbonate and sulphite, which also give a white precipitate.</text>
+<text x="380" y="292" font-family="DejaVu Sans" font-size="7.4" fill="#334155" text-anchor="middle" font-weight="normal">Ag⁺ + X⁻ → AgX (s); the ammonia dissolves AgCl as [Ag(NH₃)₂]⁺.</text>
+</svg>

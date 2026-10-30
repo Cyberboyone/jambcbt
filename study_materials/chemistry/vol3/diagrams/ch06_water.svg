@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 268" width="760" height="268">
+  <defs>
+    <marker id="ag" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#008751"/>
+    </marker>
+    <marker id="an" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#0E1F40"/>
+    </marker>
+    <marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#D97706"/>
+    </marker>
+    <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#DC2626"/>
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="760" height="268" fill="#FFFFFF"/>
+<text x="380" y="24" font-family="DejaVu Sans" font-size="12.0" fill="#0E1F40" text-anchor="middle" font-weight="bold">FROM RIVER TO TAP</text>
+<text x="380" y="42" font-family="DejaVu Sans" font-size="8.2" fill="#64748B" text-anchor="middle" font-weight="normal">Each stage removes one kind of impurity; chlorination is the only one that kills.</text>
+<rect x="20" y="62" width="100" height="96" rx="7" fill="#FFFFFF" stroke="#334155" stroke-width="1.3"/>
+<text x="70.0" y="82" font-family="DejaVu Sans" font-size="7.4" fill="#334155" text-anchor="middle" font-weight="bold">SCREEN</text>
+<text x="70.0" y="104" font-family="DejaVu Sans" font-size="6.5" fill="#334155" text-anchor="middle" font-weight="normal">large objects</text>
+<text x="70.0" y="116" font-family="DejaVu Sans" font-size="6.5" fill="#334155" text-anchor="middle" font-weight="normal">held back by</text>
+<text x="70.0" y="128" font-family="DejaVu Sans" font-size="6.5" fill="#334155" text-anchor="middle" font-weight="normal">a metal grid</text>
+<line x1="122" y1="110" x2="129.6" y2="110.0" stroke="#008751" stroke-width="1.3"/><polygon points="142.0,110.0 129.6,114.6 129.6,105.4" fill="#008751"/>
+<rect x="144" y="62" width="100" height="96" rx="7" fill="#FFFFFF" stroke="#D97706" stroke-width="1.3"/>
+<text x="194.0" y="82" font-family="DejaVu Sans" font-size="7.4" fill="#D97706" text-anchor="middle" font-weight="bold">COAGULATE</text>
+<text x="194.0" y="104" font-family="DejaVu Sans" font-size="6.5" fill="#334155" text-anchor="middle" font-weight="normal">alum added;</text>
+<text x="194.0" y="116" font-family="DejaVu Sans" font-size="6.5" fill="#334155" text-anchor="middle" font-weight="normal">fine mud clumps</text>
+<text x="194.0" y="128" font-family="DejaVu Sans" font-size="6.5" fill="#334155" text-anchor="middle" font-weight="normal">together</text>
+<line x1="246" y1="110" x2="253.6" y2="110.0" stroke="#008751" stroke-width="1.3"/><polygon points="266.0,110.0 253.6,114.6 253.6,105.4" fill="#008751"/>
+<rect x="268" y="62" width="100" height="96" rx="7" fill="#FFFFFF" stroke="#D97706" stroke-width="1.3"/>
+<text x="318.0" y="82" font-family="DejaVu Sans" font-size="7.4" fill="#D97706" text-anchor="middle" font-weight="bold">SETTLE</text>
+<text x="318.0" y="104" font-family="DejaVu Sans" font-size="6.5" fill="#334155" text-anchor="middle" font-weight="normal">the clumps sink</text>
+<text x="318.0" y="116" font-family="DejaVu Sans" font-size="6.5" fill="#334155" text-anchor="middle" font-weight="normal">in a settling</text>
+<text x="318.0" y="128" font-family="DejaVu Sans" font-size="6.5" fill="#334155" text-anchor="middle" font-weight="normal">tank</text>
+<line x1="370" y1="110" x2="377.6" y2="110.0" stroke="#008751" stroke-width="1.3"/><polygon points="390.0,110.0 377.6,114.6 377.6,105.4" fill="#008751"/>
+<rect x="392" y="62" width="100" height="96" rx="7" fill="#FFFFFF" stroke="#2563EB" stroke-width="1.3"/>
+<text x="442.0" y="82" font-family="DejaVu Sans" font-size="7.4" fill="#2563EB" text-anchor="middle" font-weight="bold">FILTER</text>
+<text x="442.0" y="104" font-family="DejaVu Sans" font-size="6.5" fill="#334155" text-anchor="middle" font-weight="normal">through beds of</text>
+<text x="442.0" y="116" font-family="DejaVu Sans" font-size="6.5" fill="#334155" text-anchor="middle" font-weight="normal">sand and gravel</text>
+<text x="442.0" y="128" font-family="DejaVu Sans" font-size="6.5" fill="#334155" text-anchor="middle" font-weight="normal"></text>
+<line x1="494" y1="110" x2="501.6" y2="110.0" stroke="#008751" stroke-width="1.3"/><polygon points="514.0,110.0 501.6,114.6 501.6,105.4" fill="#008751"/>
+<rect x="516" y="62" width="100" height="96" rx="7" fill="#FFFFFF" stroke="#008751" stroke-width="1.3"/>
+<text x="566.0" y="82" font-family="DejaVu Sans" font-size="7.4" fill="#008751" text-anchor="middle" font-weight="bold">CHLORINATE</text>
+<text x="566.0" y="104" font-family="DejaVu Sans" font-size="6.5" fill="#334155" text-anchor="middle" font-weight="normal">chlorine kills</text>
+<text x="566.0" y="116" font-family="DejaVu Sans" font-size="6.5" fill="#334155" text-anchor="middle" font-weight="normal">bacteria and</text>
+<text x="566.0" y="128" font-family="DejaVu Sans" font-size="6.5" fill="#334155" text-anchor="middle" font-weight="normal">viruses</text>
+<line x1="618" y1="110" x2="625.6" y2="110.0" stroke="#008751" stroke-width="1.3"/><polygon points="638.0,110.0 625.6,114.6 625.6,105.4" fill="#008751"/>
+<rect x="640" y="62" width="100" height="96" rx="7" fill="#FFFFFF" stroke="#7C3AED" stroke-width="1.3"/>
+<text x="690.0" y="82" font-family="DejaVu Sans" font-size="7.4" fill="#7C3AED" text-anchor="middle" font-weight="bold">FLUORIDATE</text>
+<text x="690.0" y="104" font-family="DejaVu Sans" font-size="6.5" fill="#334155" text-anchor="middle" font-weight="normal">fluoride added</text>
+<text x="690.0" y="116" font-family="DejaVu Sans" font-size="6.5" fill="#334155" text-anchor="middle" font-weight="normal">to protect</text>
+<text x="690.0" y="128" font-family="DejaVu Sans" font-size="6.5" fill="#334155" text-anchor="middle" font-weight="normal">children's teeth</text>
+<rect x="20" y="182" width="720" height="28" rx="5" fill="#ECFDF5" stroke="#008751" stroke-width="0.9"/>
+<text x="380" y="200" font-family="DejaVu Sans" font-size="7.4" fill="#334155" text-anchor="middle" font-weight="normal">Tests on the finished water: pH, turbidity, and a count of coliform bacteria.</text>
+<text x="380" y="232" font-family="DejaVu Sans" font-size="7.4" fill="#334155" text-anchor="middle" font-weight="normal">Sewage treatment runs the same logic in reverse: screen, settle, digest the sludge, then disinfect the liquid.</text>
+</svg>

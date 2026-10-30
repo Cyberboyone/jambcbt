@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 240" width="760" height="240">
+  <defs>
+    <marker id="ag" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#008751"/>
+    </marker>
+    <marker id="an" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#0E1F40"/>
+    </marker>
+    <marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#D97706"/>
+    </marker>
+    <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#DC2626"/>
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="760" height="240" fill="#FFFFFF"/>
+<text x="380" y="22" font-family="DejaVu Sans" font-size="12.2" fill="#0E1F40" text-anchor="middle" font-weight="bold">FLAME TESTS — THE SIX THE PAPER USES</text>
+<text x="380" y="40" font-family="DejaVu Sans" font-size="8.2" fill="#64748B" text-anchor="middle" font-weight="normal">A clean nichrome wire, concentrated hydrochloric acid, and the flame held at the edge of the blue cone.</text>
+<rect x="16" y="52" width="110" height="140" rx="7" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="1.1"/>
+<polygon points="41.0,148 71.0,70 101.0,148" fill="#DC2626" stroke="none" stroke-width="0"/>
+<text x="71.0" y="166" font-family="DejaVu Sans" font-size="9.8" fill="#0E1F40" text-anchor="middle" font-weight="bold">Li⁺</text>
+<text x="71.0" y="182" font-family="DejaVu Sans" font-size="7.8" fill="#334155" text-anchor="middle" font-weight="normal">crimson</text>
+<rect x="134" y="52" width="110" height="140" rx="7" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="1.1"/>
+<polygon points="159.0,148 189.0,70 219.0,148" fill="#F59E0B" stroke="none" stroke-width="0"/>
+<text x="189.0" y="166" font-family="DejaVu Sans" font-size="9.8" fill="#0E1F40" text-anchor="middle" font-weight="bold">Na⁺</text>
+<text x="189.0" y="182" font-family="DejaVu Sans" font-size="7.8" fill="#334155" text-anchor="middle" font-weight="normal">golden yellow</text>
+<rect x="252" y="52" width="110" height="140" rx="7" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="1.1"/>
+<polygon points="277.0,148 307.0,70 337.0,148" fill="#A78BFA" stroke="none" stroke-width="0"/>
+<text x="307.0" y="166" font-family="DejaVu Sans" font-size="9.8" fill="#0E1F40" text-anchor="middle" font-weight="bold">K⁺</text>
+<text x="307.0" y="182" font-family="DejaVu Sans" font-size="7.8" fill="#334155" text-anchor="middle" font-weight="normal">lilac</text>
+<rect x="370" y="52" width="110" height="140" rx="7" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="1.1"/>
+<polygon points="395.0,148 425.0,70 455.0,148" fill="#B45309" stroke="none" stroke-width="0"/>
+<text x="425.0" y="166" font-family="DejaVu Sans" font-size="9.8" fill="#0E1F40" text-anchor="middle" font-weight="bold">Ca²⁺</text>
+<text x="425.0" y="182" font-family="DejaVu Sans" font-size="7.8" fill="#334155" text-anchor="middle" font-weight="normal">brick red</text>
+<rect x="488" y="52" width="110" height="140" rx="7" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="1.1"/>
+<polygon points="513.0,148 543.0,70 573.0,148" fill="#84CC16" stroke="none" stroke-width="0"/>
+<text x="543.0" y="166" font-family="DejaVu Sans" font-size="9.8" fill="#0E1F40" text-anchor="middle" font-weight="bold">Ba²⁺</text>
+<text x="543.0" y="182" font-family="DejaVu Sans" font-size="7.8" fill="#334155" text-anchor="middle" font-weight="normal">apple green</text>
+<rect x="606" y="52" width="110" height="140" rx="7" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="1.1"/>
+<polygon points="631.0,148 661.0,70 691.0,148" fill="#06B6D4" stroke="none" stroke-width="0"/>
+<text x="661.0" y="166" font-family="DejaVu Sans" font-size="9.8" fill="#0E1F40" text-anchor="middle" font-weight="bold">Cu²⁺</text>
+<text x="661.0" y="182" font-family="DejaVu Sans" font-size="7.8" fill="#334155" text-anchor="middle" font-weight="normal">blue-green</text>
+<rect x="16" y="202" width="728" height="26" rx="6" fill="#ECFDF5" stroke="#008751" stroke-width="1.0"/>
+<text x="380" y="219" font-family="DejaVu Sans" font-size="7.8" fill="#334155" text-anchor="middle" font-weight="normal">Sodium's yellow is so intense it masks every other colour: a dirty wire always reads as sodium.</text>
+</svg>

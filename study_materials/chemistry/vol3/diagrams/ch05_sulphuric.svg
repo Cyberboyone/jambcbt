@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 236" width="760" height="236">
+  <defs>
+    <marker id="ag" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#008751"/>
+    </marker>
+    <marker id="an" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#0E1F40"/>
+    </marker>
+    <marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#D97706"/>
+    </marker>
+    <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#DC2626"/>
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="760" height="236" fill="#FFFFFF"/>
+<text x="380" y="24" font-family="DejaVu Sans" font-size="12.0" fill="#0E1F40" text-anchor="middle" font-weight="bold">ONE ACID, THREE JOBS</text>
+<text x="380" y="42" font-family="DejaVu Sans" font-size="8.2" fill="#64748B" text-anchor="middle" font-weight="normal">What sulphuric acid does depends on how concentrated it is and on how hot you make it.</text>
+<rect x="20" y="62" width="228" height="152" rx="8" fill="#FFFFFF" stroke="#008751" stroke-width="1.4"/>
+<text x="134" y="86" font-family="DejaVu Sans" font-size="7.8" fill="#008751" text-anchor="middle" font-weight="bold">DILUTE — ACIDIC</text>
+<text x="134" y="116" font-family="DejaVu Sans" font-size="8.2" fill="#0E1F40" text-anchor="middle" font-weight="normal">Mg + H₂SO₄</text>
+<text x="134" y="132" font-family="DejaVu Sans" font-size="8.2" fill="#0E1F40" text-anchor="middle" font-weight="normal">→ MgSO₄ + H₂</text>
+<text x="134" y="162" font-family="DejaVu Sans" font-size="7.4" fill="#334155" text-anchor="middle" font-weight="normal">It behaves like any other dilute</text>
+<text x="134" y="175" font-family="DejaVu Sans" font-size="7.4" fill="#334155" text-anchor="middle" font-weight="normal">acid: it gives up H⁺ to a metal,</text>
+<text x="134" y="188" font-family="DejaVu Sans" font-size="7.4" fill="#334155" text-anchor="middle" font-weight="normal">a base or a carbonate.</text>
+<rect x="264" y="62" width="228" height="152" rx="8" fill="#FFFFFF" stroke="#D97706" stroke-width="1.4"/>
+<text x="378" y="86" font-family="DejaVu Sans" font-size="7.8" fill="#D97706" text-anchor="middle" font-weight="bold">CONCENTRATED — DEHYDRATING</text>
+<text x="378" y="116" font-family="DejaVu Sans" font-size="8.2" fill="#0E1F40" text-anchor="middle" font-weight="normal">C₁₂H₂₂O₁₁</text>
+<text x="378" y="132" font-family="DejaVu Sans" font-size="8.2" fill="#0E1F40" text-anchor="middle" font-weight="normal">→ 12C + 11H₂O</text>
+<text x="378" y="162" font-family="DejaVu Sans" font-size="7.4" fill="#334155" text-anchor="middle" font-weight="normal">Sugar turns to a black column of</text>
+<text x="378" y="175" font-family="DejaVu Sans" font-size="7.4" fill="#334155" text-anchor="middle" font-weight="normal">carbon as the acid pulls hydrogen</text>
+<text x="378" y="188" font-family="DejaVu Sans" font-size="7.4" fill="#334155" text-anchor="middle" font-weight="normal">and oxygen out as water.</text>
+<rect x="508" y="62" width="228" height="152" rx="8" fill="#FFFFFF" stroke="#DC2626" stroke-width="1.4"/>
+<text x="622" y="86" font-family="DejaVu Sans" font-size="7.8" fill="#DC2626" text-anchor="middle" font-weight="bold">HOT CONCENTRATED — OXIDISING</text>
+<text x="622" y="116" font-family="DejaVu Sans" font-size="8.2" fill="#0E1F40" text-anchor="middle" font-weight="normal">Cu + 2H₂SO₄</text>
+<text x="622" y="132" font-family="DejaVu Sans" font-size="8.2" fill="#0E1F40" text-anchor="middle" font-weight="normal">→ CuSO₄ + SO₂ + 2H₂O</text>
+<text x="622" y="162" font-family="DejaVu Sans" font-size="7.4" fill="#334155" text-anchor="middle" font-weight="normal">It oxidises copper, which dilute</text>
+<text x="622" y="175" font-family="DejaVu Sans" font-size="7.4" fill="#334155" text-anchor="middle" font-weight="normal">acid cannot touch. Sulphur is</text>
+<text x="622" y="188" font-family="DejaVu Sans" font-size="7.4" fill="#334155" text-anchor="middle" font-weight="normal">reduced from +6 to +4.</text>
+</svg>

@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 300" width="760" height="300">
+  <defs>
+    <marker id="ag" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#008751"/>
+    </marker>
+    <marker id="an" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#0E1F40"/>
+    </marker>
+    <marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#D97706"/>
+    </marker>
+    <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#DC2626"/>
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="760" height="300" fill="#FFFFFF"/>
+<text x="380" y="22" font-family="DejaVu Sans" font-size="12.2" fill="#0E1F40" text-anchor="middle" font-weight="bold">THREE GASES YOU MUST BE ABLE TO PREPARE</text>
+<text x="380" y="40" font-family="DejaVu Sans" font-size="8.0" fill="#64748B" text-anchor="middle" font-weight="normal">Each is a displacement or a decomposition; each is collected by the method its density and solubility allow.</text>
+<rect x="16" y="56" width="232" height="196" rx="8" fill="#ECFDF5" stroke="#008751" stroke-width="1.4"/>
+<text x="132" y="78" font-family="DejaVu Sans" font-size="9.6" fill="#008751" text-anchor="middle" font-weight="bold">OXYGEN</text>
+<text x="132" y="100" font-family="DejaVu Sans" font-size="7.4" fill="#0E1F40" text-anchor="middle" font-weight="normal">2H₂O₂ → 2H₂O + O₂</text>
+<text x="132" y="122" font-family="DejaVu Sans" font-size="6.9" fill="#334155" text-anchor="middle" font-weight="normal">hydrogen peroxide,</text>
+<text x="132" y="133" font-family="DejaVu Sans" font-size="6.9" fill="#334155" text-anchor="middle" font-weight="normal">manganese(IV) oxide catalyst</text>
+<text x="132" y="144" font-family="DejaVu Sans" font-size="6.9" fill="#334155" text-anchor="middle" font-weight="normal">no heating needed</text>
+<rect x="28" y="190" width="208" height="44" rx="6" fill="#FFFFFF" stroke="#008751" stroke-width="0.9"/>
+<text x="132" y="208" font-family="DejaVu Sans" font-size="6.6" fill="#64748B" text-anchor="middle" font-weight="normal">collected:</text>
+<text x="132" y="224" font-family="DejaVu Sans" font-size="7.4" fill="#0E1F40" text-anchor="middle" font-weight="normal">over water, or downward delivery</text>
+<rect x="264" y="56" width="232" height="196" rx="8" fill="#DBEAFE" stroke="#2563EB" stroke-width="1.4"/>
+<text x="380" y="78" font-family="DejaVu Sans" font-size="9.6" fill="#2563EB" text-anchor="middle" font-weight="bold">HYDROGEN</text>
+<text x="380" y="100" font-family="DejaVu Sans" font-size="7.4" fill="#0E1F40" text-anchor="middle" font-weight="normal">Zn + 2HCl → ZnCl₂ + H₂</text>
+<text x="380" y="122" font-family="DejaVu Sans" font-size="6.9" fill="#334155" text-anchor="middle" font-weight="normal">granulated zinc +</text>
+<text x="380" y="133" font-family="DejaVu Sans" font-size="6.9" fill="#334155" text-anchor="middle" font-weight="normal">dilute hydrochloric acid</text>
+<text x="380" y="144" font-family="DejaVu Sans" font-size="6.9" fill="#334155" text-anchor="middle" font-weight="normal">copper(II) sulphate speeds it up</text>
+<rect x="276" y="190" width="208" height="44" rx="6" fill="#FFFFFF" stroke="#2563EB" stroke-width="0.9"/>
+<text x="380" y="208" font-family="DejaVu Sans" font-size="6.6" fill="#64748B" text-anchor="middle" font-weight="normal">collected:</text>
+<text x="380" y="224" font-family="DejaVu Sans" font-size="7.4" fill="#0E1F40" text-anchor="middle" font-weight="normal">over water (it is insoluble)</text>
+<rect x="512" y="56" width="232" height="196" rx="8" fill="#EDE9FE" stroke="#7C3AED" stroke-width="1.4"/>
+<text x="628" y="78" font-family="DejaVu Sans" font-size="9.6" fill="#7C3AED" text-anchor="middle" font-weight="bold">AMMONIA</text>
+<text x="628" y="100" font-family="DejaVu Sans" font-size="7.4" fill="#0E1F40" text-anchor="middle" font-weight="normal">2NH₄Cl + Ca(OH)₂ → CaCl₂ + 2NH₃ + 2H₂O</text>
+<text x="628" y="122" font-family="DejaVu Sans" font-size="6.9" fill="#334155" text-anchor="middle" font-weight="normal">heat the solid mixture</text>
+<text x="628" y="133" font-family="DejaVu Sans" font-size="6.9" fill="#334155" text-anchor="middle" font-weight="normal">dry with calcium oxide</text>
+<text x="628" y="144" font-family="DejaVu Sans" font-size="6.9" fill="#334155" text-anchor="middle" font-weight="normal">never with calcium chloride</text>
+<rect x="524" y="190" width="208" height="44" rx="6" fill="#FFFFFF" stroke="#7C3AED" stroke-width="0.9"/>
+<text x="628" y="208" font-family="DejaVu Sans" font-size="6.6" fill="#64748B" text-anchor="middle" font-weight="normal">collected:</text>
+<text x="628" y="224" font-family="DejaVu Sans" font-size="7.4" fill="#0E1F40" text-anchor="middle" font-weight="normal">upward delivery (lighter than air)</text>
+<text x="380" y="274" font-family="DejaVu Sans" font-size="7.6" fill="#334155" text-anchor="middle" font-weight="normal">Ammonia is the only one of the three that must be kept dry: it dissolves in water as fast as it forms.</text>
+</svg>

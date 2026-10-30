@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 290" width="760" height="290">
+  <defs>
+    <marker id="ag" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#008751"/>
+    </marker>
+    <marker id="an" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#0E1F40"/>
+    </marker>
+    <marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#D97706"/>
+    </marker>
+    <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#DC2626"/>
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="760" height="290" fill="#FFFFFF"/>
+<text x="380" y="22" font-family="DejaVu Sans" font-size="12.2" fill="#0E1F40" text-anchor="middle" font-weight="bold">THE OSTWALD PROCESS — AMMONIA TO NITRIC ACID</text>
+<text x="380" y="40" font-family="DejaVu Sans" font-size="8.2" fill="#64748B" text-anchor="middle" font-weight="normal">Three steps, two catalysts, one product: the acid that makes fertilisers and explosives.</text>
+<rect x="24" y="62" width="220" height="156" rx="8" fill="#FEE2E2" stroke="#DC2626" stroke-width="1.5"/>
+<text x="134" y="86" font-family="DejaVu Sans" font-size="9.2" fill="#DC2626" text-anchor="middle" font-weight="bold">1  OXIDISE</text>
+<text x="134" y="112" font-family="DejaVu Sans" font-size="7.6" fill="#0E1F40" text-anchor="middle" font-weight="normal">4NH₃ + 5O₂ → 4NO + 6H₂O</text>
+<text x="134" y="138" font-family="DejaVu Sans" font-size="7.0" fill="#334155" text-anchor="middle" font-weight="normal">platinum–rhodium gauze</text>
+<text x="134" y="150" font-family="DejaVu Sans" font-size="7.0" fill="#334155" text-anchor="middle" font-weight="normal">900 °C</text>
+<text x="134" y="162" font-family="DejaVu Sans" font-size="7.0" fill="#334155" text-anchor="middle" font-weight="normal">exothermic</text>
+<line x1="245" y1="140" x2="252.6" y2="140.0" stroke="#008751" stroke-width="1.6"/><polygon points="265.0,140.0 252.6,144.6 252.6,135.4" fill="#008751"/>
+<rect x="268" y="62" width="220" height="156" rx="8" fill="#FEF3C7" stroke="#D97706" stroke-width="1.5"/>
+<text x="378" y="86" font-family="DejaVu Sans" font-size="9.2" fill="#D97706" text-anchor="middle" font-weight="bold">2  OXIDISE AGAIN</text>
+<text x="378" y="112" font-family="DejaVu Sans" font-size="7.6" fill="#0E1F40" text-anchor="middle" font-weight="normal">2NO + O₂ → 2NO₂</text>
+<text x="378" y="138" font-family="DejaVu Sans" font-size="7.0" fill="#334155" text-anchor="middle" font-weight="normal">no catalyst needed</text>
+<text x="378" y="150" font-family="DejaVu Sans" font-size="7.0" fill="#334155" text-anchor="middle" font-weight="normal">cool to about 50 °C</text>
+<text x="378" y="162" font-family="DejaVu Sans" font-size="7.0" fill="#334155" text-anchor="middle" font-weight="normal">brown gas appears</text>
+<line x1="489" y1="140" x2="496.6" y2="140.0" stroke="#008751" stroke-width="1.6"/><polygon points="509.0,140.0 496.6,144.6 496.6,135.4" fill="#008751"/>
+<rect x="512" y="62" width="220" height="156" rx="8" fill="#ECFDF5" stroke="#008751" stroke-width="1.5"/>
+<text x="622" y="86" font-family="DejaVu Sans" font-size="9.2" fill="#008751" text-anchor="middle" font-weight="bold">3  ABSORB</text>
+<text x="622" y="112" font-family="DejaVu Sans" font-size="7.6" fill="#0E1F40" text-anchor="middle" font-weight="normal">4NO₂ + O₂ + 2H₂O → 4HNO₃</text>
+<text x="622" y="138" font-family="DejaVu Sans" font-size="7.0" fill="#334155" text-anchor="middle" font-weight="normal">trickle down a packed tower</text>
+<text x="622" y="150" font-family="DejaVu Sans" font-size="7.0" fill="#334155" text-anchor="middle" font-weight="normal">counter-current water</text>
+<text x="622" y="162" font-family="DejaVu Sans" font-size="7.0" fill="#334155" text-anchor="middle" font-weight="normal">60 % acid</text>
+<rect x="24" y="234" width="712" height="44" rx="6" fill="#ECFDF5" stroke="#008751" stroke-width="1.0"/>
+<text x="380" y="252" font-family="DejaVu Sans" font-size="7.8" fill="#334155" text-anchor="middle" font-weight="normal">The first step is the only one that needs a catalyst, and it is the step that decides the cost:</text>
+<text x="380" y="268" font-family="DejaVu Sans" font-size="7.8" fill="#334155" text-anchor="middle" font-weight="normal">platinum is poisoned by arsenic impurities, so the ammonia must be very pure.</text>
+</svg>

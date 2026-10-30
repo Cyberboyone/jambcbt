@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 300" width="800" height="300">
+  <defs>
+    <marker id="ag" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#008751"/>
+    </marker>
+    <marker id="an" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#0E1F40"/>
+    </marker>
+    <marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#D97706"/>
+    </marker>
+    <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#DC2626"/>
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="800" height="300" fill="#FFFFFF"/>
+<text x="400" y="22" font-family="DejaVu Sans" font-size="12.2" fill="#0E1F40" text-anchor="middle" font-weight="bold">THE HABER PROCESS — A LOOP, NOT A LINE</text>
+<text x="400" y="40" font-family="DejaVu Sans" font-size="8.2" fill="#64748B" text-anchor="middle" font-weight="normal">Unreacted nitrogen and hydrogen are recycled, so the converter is fed again and again.</text>
+<rect x="16" y="66" width="140" height="108" rx="7" fill="#FFFFFF" stroke="#008751" stroke-width="1.5"/>
+<text x="86" y="86" font-family="DejaVu Sans" font-size="8.0" fill="#008751" text-anchor="middle" font-weight="bold">FEED</text>
+<text x="86" y="106" font-family="DejaVu Sans" font-size="6.8" fill="#334155" text-anchor="middle" font-weight="normal">N₂ from air</text>
+<text x="86" y="118" font-family="DejaVu Sans" font-size="6.8" fill="#334155" text-anchor="middle" font-weight="normal">H₂ from natural gas</text>
+<text x="86" y="130" font-family="DejaVu Sans" font-size="6.8" fill="#334155" text-anchor="middle" font-weight="normal">ratio 1 : 3</text>
+<line x1="158" y1="120" x2="157.6" y2="120.0" stroke="#008751" stroke-width="1.5"/><polygon points="170.0,120.0 157.6,124.6 157.6,115.4" fill="#008751"/>
+<rect x="172" y="66" width="140" height="108" rx="7" fill="#FFFFFF" stroke="#D97706" stroke-width="1.5"/>
+<text x="242" y="86" font-family="DejaVu Sans" font-size="8.0" fill="#D97706" text-anchor="middle" font-weight="bold">COMPRESS</text>
+<text x="242" y="106" font-family="DejaVu Sans" font-size="6.8" fill="#334155" text-anchor="middle" font-weight="normal">200 atm</text>
+<text x="242" y="118" font-family="DejaVu Sans" font-size="6.8" fill="#334155" text-anchor="middle" font-weight="normal">the gases are</text>
+<text x="242" y="130" font-family="DejaVu Sans" font-size="6.8" fill="#334155" text-anchor="middle" font-weight="normal">squeezed together</text>
+<line x1="314" y1="120" x2="313.6" y2="120.0" stroke="#008751" stroke-width="1.5"/><polygon points="326.0,120.0 313.6,124.6 313.6,115.4" fill="#008751"/>
+<rect x="328" y="66" width="140" height="108" rx="7" fill="#FFFFFF" stroke="#DC2626" stroke-width="1.5"/>
+<text x="398" y="86" font-family="DejaVu Sans" font-size="8.0" fill="#DC2626" text-anchor="middle" font-weight="bold">CONVERTER</text>
+<text x="398" y="106" font-family="DejaVu Sans" font-size="6.8" fill="#334155" text-anchor="middle" font-weight="normal">iron catalyst</text>
+<text x="398" y="118" font-family="DejaVu Sans" font-size="6.8" fill="#334155" text-anchor="middle" font-weight="normal">450 °C</text>
+<text x="398" y="130" font-family="DejaVu Sans" font-size="6.8" fill="#334155" text-anchor="middle" font-weight="normal">N₂ + 3H₂ ⇌ 2NH₃</text>
+<line x1="470" y1="120" x2="469.6" y2="120.0" stroke="#008751" stroke-width="1.5"/><polygon points="482.0,120.0 469.6,124.6 469.6,115.4" fill="#008751"/>
+<rect x="484" y="66" width="140" height="108" rx="7" fill="#FFFFFF" stroke="#2563EB" stroke-width="1.5"/>
+<text x="554" y="86" font-family="DejaVu Sans" font-size="8.0" fill="#2563EB" text-anchor="middle" font-weight="bold">COOL</text>
+<text x="554" y="106" font-family="DejaVu Sans" font-size="6.8" fill="#334155" text-anchor="middle" font-weight="normal">the mixture is</text>
+<text x="554" y="118" font-family="DejaVu Sans" font-size="6.8" fill="#334155" text-anchor="middle" font-weight="normal">cooled so that</text>
+<text x="554" y="130" font-family="DejaVu Sans" font-size="6.8" fill="#334155" text-anchor="middle" font-weight="normal">ammonia liquefies</text>
+<line x1="626" y1="120" x2="625.6" y2="120.0" stroke="#008751" stroke-width="1.5"/><polygon points="638.0,120.0 625.6,124.6 625.6,115.4" fill="#008751"/>
+<rect x="640" y="66" width="140" height="108" rx="7" fill="#FFFFFF" stroke="#7C3AED" stroke-width="1.5"/>
+<text x="710" y="86" font-family="DejaVu Sans" font-size="8.0" fill="#7C3AED" text-anchor="middle" font-weight="bold">SEPARATE</text>
+<text x="710" y="106" font-family="DejaVu Sans" font-size="6.8" fill="#334155" text-anchor="middle" font-weight="normal">liquid NH₃</text>
+<text x="710" y="118" font-family="DejaVu Sans" font-size="6.8" fill="#334155" text-anchor="middle" font-weight="normal">drawn off; unreacted</text>
+<text x="710" y="130" font-family="DejaVu Sans" font-size="6.8" fill="#334155" text-anchor="middle" font-weight="normal">gases return</text>
+<path d="M 710 176 L 710 236 L 398 236 L 398 178" fill="none" stroke="#D97706" stroke-width="1.6" stroke-linecap="round" stroke-dasharray="5 4"/>
+<line x1="398" y1="210" x2="398.0" y2="190.4" stroke="#D97706" stroke-width="1.6"/><polygon points="398.0,178.0 402.6,190.4 393.4,190.4" fill="#D97706"/>
+<text x="554" y="251" font-family="DejaVu Sans" font-size="7.2" fill="#D97706" text-anchor="middle" font-weight="normal">recycle: unreacted N₂ and H₂ go back to the compressor</text>
+<rect x="20" y="262" width="760" height="26" rx="5" fill="#ECFDF5" stroke="#008751" stroke-width="0.9"/>
+<text x="400" y="279" font-family="DejaVu Sans" font-size="7.6" fill="#334155" text-anchor="middle" font-weight="normal">Yield per pass is only about 15 % — the loop, not the yield, is what makes the process economic.</text>
+</svg>

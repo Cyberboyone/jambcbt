@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 300" width="760" height="300">
+  <defs>
+    <marker id="ag" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#008751"/>
+    </marker>
+    <marker id="an" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#0E1F40"/>
+    </marker>
+    <marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#D97706"/>
+    </marker>
+    <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#DC2626"/>
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="760" height="300" fill="#FFFFFF"/>
+<text x="380" y="24" font-family="DejaVu Sans" font-size="12.0" fill="#0E1F40" text-anchor="middle" font-weight="bold">THE WASTE HIERARCHY</text>
+<text x="380" y="42" font-family="DejaVu Sans" font-size="8.2" fill="#64748B" text-anchor="middle" font-weight="normal">The best waste is the waste that was never made. The bars get shorter as the option gets worse.</text>
+<rect x="30.0" y="58" width="700" height="34" rx="6" fill="#008751" stroke="none" stroke-width="0.0"/>
+<text x="46.0" y="80" font-family="DejaVu Sans" font-size="8.0" fill="#FFFFFF" text-anchor="start" font-weight="bold">REDUCE</text>
+<text x="126.0" y="80" font-family="DejaVu Sans" font-size="7.4" fill="#FFFFFF" text-anchor="start" font-weight="normal">buy less, design longer-lasting products</text>
+<rect x="68.0" y="100" width="624" height="34" rx="6" fill="#15803D" stroke="none" stroke-width="0.0"/>
+<text x="84.0" y="122" font-family="DejaVu Sans" font-size="8.0" fill="#FFFFFF" text-anchor="start" font-weight="bold">REUSE</text>
+<text x="164.0" y="122" font-family="DejaVu Sans" font-size="7.4" fill="#FFFFFF" text-anchor="start" font-weight="normal">refill bottles, repair rather than replace</text>
+<rect x="106.0" y="142" width="548" height="34" rx="6" fill="#D97706" stroke="none" stroke-width="0.0"/>
+<text x="122.0" y="164" font-family="DejaVu Sans" font-size="8.0" fill="#FFFFFF" text-anchor="start" font-weight="bold">RECYCLE</text>
+<text x="202.0" y="164" font-family="DejaVu Sans" font-size="7.4" fill="#FFFFFF" text-anchor="start" font-weight="normal">melt glass, re-pulp paper, re-mould plastics</text>
+<rect x="144.0" y="184" width="472" height="34" rx="6" fill="#B45309" stroke="none" stroke-width="0.0"/>
+<text x="160.0" y="206" font-family="DejaVu Sans" font-size="8.0" fill="#FFFFFF" text-anchor="start" font-weight="bold">RECOVER</text>
+<text x="240.0" y="206" font-family="DejaVu Sans" font-size="7.4" fill="#FFFFFF" text-anchor="start" font-weight="normal">burn for energy, digest for biogas</text>
+<rect x="182.0" y="226" width="396" height="34" rx="6" fill="#DC2626" stroke="none" stroke-width="0.0"/>
+<text x="198.0" y="248" font-family="DejaVu Sans" font-size="8.0" fill="#FFFFFF" text-anchor="start" font-weight="bold">DISPOSE</text>
+<text x="278.0" y="248" font-family="DejaVu Sans" font-size="7.4" fill="#FFFFFF" text-anchor="start" font-weight="normal">landfill — the last resort</text>
+<text x="380" y="274" font-family="DejaVu Sans" font-size="7.4" fill="#334155" text-anchor="middle" font-weight="normal">Biodegradable waste rots; plastics and metals do not. That is why the first three bars matter most.</text>
+</svg>

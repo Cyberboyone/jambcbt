@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 268" width="760" height="268">
+  <defs>
+    <marker id="ag" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#008751"/>
+    </marker>
+    <marker id="an" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#0E1F40"/>
+    </marker>
+    <marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#D97706"/>
+    </marker>
+    <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#DC2626"/>
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="760" height="268" fill="#FFFFFF"/>
+<text x="380" y="22" font-family="DejaVu Sans" font-size="12.2" fill="#0E1F40" text-anchor="middle" font-weight="bold">OXIDES, HYDROXIDES AND THE pH THAT FOLLOWS</text>
+<text x="380" y="40" font-family="DejaVu Sans" font-size="8.0" fill="#64748B" text-anchor="middle" font-weight="normal">Every Group 1 and Group 2 oxide is basic; the more reactive the metal, the more vigorously the oxide reacts.</text>
+<rect x="20" y="64" width="216" height="34" rx="6" fill="#FFFFFF" stroke="#DC2626" stroke-width="1.2"/>
+<text x="128" y="86" font-family="DejaVu Sans" font-size="9.6" fill="#0E1F40" text-anchor="middle" font-weight="normal">Na₂O + H₂O</text>
+<line x1="240" y1="81" x2="275.6" y2="81.0" stroke="#DC2626" stroke-width="1.5"/><polygon points="288.0,81.0 275.6,85.6 275.6,76.4" fill="#DC2626"/>
+<rect x="292" y="64" width="200" height="34" rx="6" fill="#FFFFFF" stroke="#DC2626" stroke-width="1.2"/>
+<text x="392" y="86" font-family="DejaVu Sans" font-size="9.6" fill="#0E1F40" text-anchor="middle" font-weight="normal">2NaOH</text>
+<line x1="496" y1="81" x2="527.6" y2="81.0" stroke="#DC2626" stroke-width="1.5"/><polygon points="540.0,81.0 527.6,85.6 527.6,76.4" fill="#DC2626"/>
+<text x="548" y="86" font-family="DejaVu Sans" font-size="8.4" fill="#334155" text-anchor="start" font-weight="normal">strong alkali, pH 13–14</text>
+<rect x="20" y="110" width="216" height="34" rx="6" fill="#FFFFFF" stroke="#D97706" stroke-width="1.2"/>
+<text x="128" y="132" font-family="DejaVu Sans" font-size="9.6" fill="#0E1F40" text-anchor="middle" font-weight="normal">MgO + H₂O</text>
+<line x1="240" y1="127" x2="275.6" y2="127.0" stroke="#D97706" stroke-width="1.5"/><polygon points="288.0,127.0 275.6,131.6 275.6,122.4" fill="#D97706"/>
+<rect x="292" y="110" width="200" height="34" rx="6" fill="#FFFFFF" stroke="#D97706" stroke-width="1.2"/>
+<text x="392" y="132" font-family="DejaVu Sans" font-size="9.6" fill="#0E1F40" text-anchor="middle" font-weight="normal">Mg(OH)₂</text>
+<line x1="496" y1="127" x2="527.6" y2="127.0" stroke="#D97706" stroke-width="1.5"/><polygon points="540.0,127.0 527.6,131.6 527.6,122.4" fill="#D97706"/>
+<text x="548" y="132" font-family="DejaVu Sans" font-size="8.4" fill="#334155" text-anchor="start" font-weight="normal">weakly alkaline, sparingly soluble</text>
+<rect x="20" y="156" width="216" height="34" rx="6" fill="#FFFFFF" stroke="#D97706" stroke-width="1.2"/>
+<text x="128" y="178" font-family="DejaVu Sans" font-size="9.6" fill="#0E1F40" text-anchor="middle" font-weight="normal">CaO + H₂O</text>
+<line x1="240" y1="173" x2="275.6" y2="173.0" stroke="#D97706" stroke-width="1.5"/><polygon points="288.0,173.0 275.6,177.6 275.6,168.4" fill="#D97706"/>
+<rect x="292" y="156" width="200" height="34" rx="6" fill="#FFFFFF" stroke="#D97706" stroke-width="1.2"/>
+<text x="392" y="178" font-family="DejaVu Sans" font-size="9.6" fill="#0E1F40" text-anchor="middle" font-weight="normal">Ca(OH)₂</text>
+<line x1="496" y1="173" x2="527.6" y2="173.0" stroke="#D97706" stroke-width="1.5"/><polygon points="540.0,173.0 527.6,177.6 527.6,168.4" fill="#D97706"/>
+<text x="548" y="178" font-family="DejaVu Sans" font-size="8.4" fill="#334155" text-anchor="start" font-weight="normal">limewater, pH about 12</text>
+<rect x="20" y="202" width="216" height="34" rx="6" fill="#FFFFFF" stroke="#2563EB" stroke-width="1.2"/>
+<text x="128" y="224" font-family="DejaVu Sans" font-size="9.6" fill="#0E1F40" text-anchor="middle" font-weight="normal">Na₂O₂ + 2H₂O</text>
+<line x1="240" y1="219" x2="275.6" y2="219.0" stroke="#2563EB" stroke-width="1.5"/><polygon points="288.0,219.0 275.6,223.6 275.6,214.4" fill="#2563EB"/>
+<rect x="292" y="202" width="200" height="34" rx="6" fill="#FFFFFF" stroke="#2563EB" stroke-width="1.2"/>
+<text x="392" y="224" font-family="DejaVu Sans" font-size="9.6" fill="#0E1F40" text-anchor="middle" font-weight="normal">2NaOH + H₂O₂</text>
+<line x1="496" y1="219" x2="527.6" y2="219.0" stroke="#2563EB" stroke-width="1.5"/><polygon points="540.0,219.0 527.6,223.6 527.6,214.4" fill="#2563EB"/>
+<text x="548" y="224" font-family="DejaVu Sans" font-size="8.4" fill="#334155" text-anchor="start" font-weight="normal">peroxide, not a simple oxide</text>
+<rect x="20" y="254" width="720" height="0.1" rx="0" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0"/>
+</svg>

@@ -1,0 +1,98 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 214" width="760" height="214">
+  <defs>
+    <marker id="ag" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#008751"/>
+    </marker>
+    <marker id="an" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#0E1F40"/>
+    </marker>
+    <marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#D97706"/>
+    </marker>
+    <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#DC2626"/>
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="760" height="214" fill="#FFFFFF"/>
+<text x="380" y="22" font-family="DejaVu Sans" font-size="12.2" fill="#0E1F40" text-anchor="middle" font-weight="bold">WHY AN ALLOY IS HARDER THAN THE PURE METAL</text>
+<circle cx="58" cy="56" r="9.2" fill="#A7F3D0" stroke="#FFFFFF" stroke-width="1.2"/>
+<circle cx="88" cy="56" r="9.2" fill="#A7F3D0" stroke="#FFFFFF" stroke-width="1.2"/>
+<circle cx="118" cy="56" r="9.2" fill="#A7F3D0" stroke="#FFFFFF" stroke-width="1.2"/>
+<circle cx="148" cy="56" r="9.2" fill="#A7F3D0" stroke="#FFFFFF" stroke-width="1.2"/>
+<circle cx="178" cy="56" r="9.2" fill="#A7F3D0" stroke="#FFFFFF" stroke-width="1.2"/>
+<circle cx="208" cy="56" r="9.2" fill="#A7F3D0" stroke="#FFFFFF" stroke-width="1.2"/>
+<circle cx="58" cy="83" r="9.2" fill="#A7F3D0" stroke="#FFFFFF" stroke-width="1.2"/>
+<circle cx="88" cy="83" r="9.2" fill="#A7F3D0" stroke="#FFFFFF" stroke-width="1.2"/>
+<circle cx="118" cy="83" r="9.2" fill="#A7F3D0" stroke="#FFFFFF" stroke-width="1.2"/>
+<circle cx="148" cy="83" r="9.2" fill="#A7F3D0" stroke="#FFFFFF" stroke-width="1.2"/>
+<circle cx="178" cy="83" r="9.2" fill="#A7F3D0" stroke="#FFFFFF" stroke-width="1.2"/>
+<circle cx="208" cy="83" r="9.2" fill="#A7F3D0" stroke="#FFFFFF" stroke-width="1.2"/>
+<circle cx="58" cy="110" r="9.2" fill="#A7F3D0" stroke="#FFFFFF" stroke-width="1.2"/>
+<circle cx="88" cy="110" r="9.2" fill="#A7F3D0" stroke="#FFFFFF" stroke-width="1.2"/>
+<circle cx="118" cy="110" r="9.2" fill="#A7F3D0" stroke="#FFFFFF" stroke-width="1.2"/>
+<circle cx="148" cy="110" r="9.2" fill="#A7F3D0" stroke="#FFFFFF" stroke-width="1.2"/>
+<circle cx="178" cy="110" r="9.2" fill="#A7F3D0" stroke="#FFFFFF" stroke-width="1.2"/>
+<circle cx="208" cy="110" r="9.2" fill="#A7F3D0" stroke="#FFFFFF" stroke-width="1.2"/>
+<circle cx="58" cy="137" r="9.2" fill="#A7F3D0" stroke="#FFFFFF" stroke-width="1.2"/>
+<circle cx="88" cy="137" r="9.2" fill="#A7F3D0" stroke="#FFFFFF" stroke-width="1.2"/>
+<circle cx="118" cy="137" r="9.2" fill="#A7F3D0" stroke="#FFFFFF" stroke-width="1.2"/>
+<circle cx="148" cy="137" r="9.2" fill="#A7F3D0" stroke="#FFFFFF" stroke-width="1.2"/>
+<circle cx="178" cy="137" r="9.2" fill="#A7F3D0" stroke="#FFFFFF" stroke-width="1.2"/>
+<circle cx="208" cy="137" r="9.2" fill="#A7F3D0" stroke="#FFFFFF" stroke-width="1.2"/>
+<text x="120" y="178" font-family="DejaVu Sans" font-size="9.0" fill="#0E1F40" text-anchor="middle" font-weight="bold">PURE METAL</text>
+<text x="120" y="193" font-family="DejaVu Sans" font-size="7.0" fill="#64748B" text-anchor="middle" font-weight="normal">regular rows slide — soft and malleable</text>
+<circle cx="333" cy="56" r="9.2" fill="#A7F3D0" stroke="#FFFFFF" stroke-width="1.2"/>
+<circle cx="363" cy="56" r="9.2" fill="#A7F3D0" stroke="#FFFFFF" stroke-width="1.2"/>
+<circle cx="393" cy="56" r="9.2" fill="#A7F3D0" stroke="#FFFFFF" stroke-width="1.2"/>
+<circle cx="423" cy="56" r="9.2" fill="#A7F3D0" stroke="#FFFFFF" stroke-width="1.2"/>
+<circle cx="453" cy="56" r="9.2" fill="#A7F3D0" stroke="#FFFFFF" stroke-width="1.2"/>
+<circle cx="483" cy="56" r="9.2" fill="#A7F3D0" stroke="#FFFFFF" stroke-width="1.2"/>
+<circle cx="324" cy="83" r="9.2" fill="#A7F3D0" stroke="#FFFFFF" stroke-width="1.2"/>
+<circle cx="354" cy="83" r="9.2" fill="#A7F3D0" stroke="#FFFFFF" stroke-width="1.2"/>
+<circle cx="384" cy="83" r="9.2" fill="#A7F3D0" stroke="#FFFFFF" stroke-width="1.2"/>
+<circle cx="414" cy="83" r="9.2" fill="#A7F3D0" stroke="#FFFFFF" stroke-width="1.2"/>
+<circle cx="444" cy="83" r="9.2" fill="#A7F3D0" stroke="#FFFFFF" stroke-width="1.2"/>
+<circle cx="474" cy="83" r="9.2" fill="#A7F3D0" stroke="#FFFFFF" stroke-width="1.2"/>
+<circle cx="315" cy="110" r="9.2" fill="#A7F3D0" stroke="#FFFFFF" stroke-width="1.2"/>
+<circle cx="345" cy="110" r="9.2" fill="#A7F3D0" stroke="#FFFFFF" stroke-width="1.2"/>
+<circle cx="375" cy="110" r="9.2" fill="#A7F3D0" stroke="#FFFFFF" stroke-width="1.2"/>
+<circle cx="405" cy="110" r="9.2" fill="#A7F3D0" stroke="#FFFFFF" stroke-width="1.2"/>
+<circle cx="435" cy="110" r="9.2" fill="#A7F3D0" stroke="#FFFFFF" stroke-width="1.2"/>
+<circle cx="465" cy="110" r="9.2" fill="#A7F3D0" stroke="#FFFFFF" stroke-width="1.2"/>
+<circle cx="306" cy="137" r="9.2" fill="#A7F3D0" stroke="#FFFFFF" stroke-width="1.2"/>
+<circle cx="336" cy="137" r="9.2" fill="#A7F3D0" stroke="#FFFFFF" stroke-width="1.2"/>
+<circle cx="366" cy="137" r="9.2" fill="#A7F3D0" stroke="#FFFFFF" stroke-width="1.2"/>
+<circle cx="396" cy="137" r="9.2" fill="#A7F3D0" stroke="#FFFFFF" stroke-width="1.2"/>
+<circle cx="426" cy="137" r="9.2" fill="#A7F3D0" stroke="#FFFFFF" stroke-width="1.2"/>
+<circle cx="456" cy="137" r="9.2" fill="#A7F3D0" stroke="#FFFFFF" stroke-width="1.2"/>
+<text x="368" y="178" font-family="DejaVu Sans" font-size="9.0" fill="#0E1F40" text-anchor="middle" font-weight="bold">PURE METAL UNDER STRESS</text>
+<text x="368" y="193" font-family="DejaVu Sans" font-size="7.0" fill="#64748B" text-anchor="middle" font-weight="normal">the planes slip, so it bends not breaks</text>
+<circle cx="554" cy="56" r="6.2" fill="#D97706" stroke="#FFFFFF" stroke-width="1.2"/>
+<circle cx="584" cy="56" r="9.2" fill="#A7F3D0" stroke="#FFFFFF" stroke-width="1.2"/>
+<circle cx="614" cy="56" r="9.2" fill="#A7F3D0" stroke="#FFFFFF" stroke-width="1.2"/>
+<circle cx="644" cy="56" r="6.2" fill="#D97706" stroke="#FFFFFF" stroke-width="1.2"/>
+<circle cx="674" cy="56" r="9.2" fill="#A7F3D0" stroke="#FFFFFF" stroke-width="1.2"/>
+<circle cx="704" cy="56" r="9.2" fill="#A7F3D0" stroke="#FFFFFF" stroke-width="1.2"/>
+<circle cx="554" cy="83" r="6.2" fill="#D97706" stroke="#FFFFFF" stroke-width="1.2"/>
+<circle cx="584" cy="83" r="9.2" fill="#A7F3D0" stroke="#FFFFFF" stroke-width="1.2"/>
+<circle cx="614" cy="83" r="9.2" fill="#A7F3D0" stroke="#FFFFFF" stroke-width="1.2"/>
+<circle cx="644" cy="83" r="6.2" fill="#D97706" stroke="#FFFFFF" stroke-width="1.2"/>
+<circle cx="674" cy="83" r="9.2" fill="#A7F3D0" stroke="#FFFFFF" stroke-width="1.2"/>
+<circle cx="704" cy="83" r="9.2" fill="#A7F3D0" stroke="#FFFFFF" stroke-width="1.2"/>
+<circle cx="554" cy="110" r="6.2" fill="#D97706" stroke="#FFFFFF" stroke-width="1.2"/>
+<circle cx="584" cy="110" r="9.2" fill="#A7F3D0" stroke="#FFFFFF" stroke-width="1.2"/>
+<circle cx="614" cy="110" r="9.2" fill="#A7F3D0" stroke="#FFFFFF" stroke-width="1.2"/>
+<circle cx="644" cy="110" r="6.2" fill="#D97706" stroke="#FFFFFF" stroke-width="1.2"/>
+<circle cx="674" cy="110" r="9.2" fill="#A7F3D0" stroke="#FFFFFF" stroke-width="1.2"/>
+<circle cx="704" cy="110" r="9.2" fill="#A7F3D0" stroke="#FFFFFF" stroke-width="1.2"/>
+<circle cx="554" cy="137" r="6.2" fill="#D97706" stroke="#FFFFFF" stroke-width="1.2"/>
+<circle cx="584" cy="137" r="9.2" fill="#A7F3D0" stroke="#FFFFFF" stroke-width="1.2"/>
+<circle cx="614" cy="137" r="9.2" fill="#A7F3D0" stroke="#FFFFFF" stroke-width="1.2"/>
+<circle cx="644" cy="137" r="6.2" fill="#D97706" stroke="#FFFFFF" stroke-width="1.2"/>
+<circle cx="674" cy="137" r="9.2" fill="#A7F3D0" stroke="#FFFFFF" stroke-width="1.2"/>
+<circle cx="704" cy="137" r="9.2" fill="#A7F3D0" stroke="#FFFFFF" stroke-width="1.2"/>
+<text x="616" y="178" font-family="DejaVu Sans" font-size="9.0" fill="#0E1F40" text-anchor="middle" font-weight="bold">ALLOY</text>
+<text x="616" y="193" font-family="DejaVu Sans" font-size="7.0" fill="#64748B" text-anchor="middle" font-weight="normal">odd-sized atoms pin the layers — hard</text>
+<rect x="20" y="200" width="720" height="12" rx="4" fill="#ECFDF5" stroke="#008751" stroke-width="0.8"/>
+<text x="380" y="209" font-family="DejaVu Sans" font-size="6.9" fill="#334155" text-anchor="middle" font-weight="normal">Steel is iron with carbon: the small carbon atoms sit between the iron layers and pin them.</text>
+</svg>

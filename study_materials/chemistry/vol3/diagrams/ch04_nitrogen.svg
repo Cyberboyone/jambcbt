@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 434" width="760" height="434">
+  <defs>
+    <marker id="ag" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#008751"/>
+    </marker>
+    <marker id="an" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#0E1F40"/>
+    </marker>
+    <marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#D97706"/>
+    </marker>
+    <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#DC2626"/>
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="760" height="434" fill="#FFFFFF"/>
+<text x="380" y="24" font-family="DejaVu Sans" font-size="12.2" fill="#0E1F40" text-anchor="middle" font-weight="bold">THE NITROGEN CYCLE</text>
+<text x="380" y="42" font-family="DejaVu Sans" font-size="8.2" fill="#64748B" text-anchor="middle" font-weight="normal">Nitrogen gas is inert; every living thing needs it as nitrate or ammonium, and bacteria do the conversion.</text>
+<rect x="290" y="52" width="180" height="56" rx="9" fill="#ECFDF5" stroke="#008751" stroke-width="1.4"/>
+<text x="380" y="74" font-family="DejaVu Sans" font-size="8.6" fill="#008751" text-anchor="middle" font-weight="bold">N₂ in the air</text>
+<text x="380" y="91" font-family="DejaVu Sans" font-size="6.8" fill="#64748B" text-anchor="middle" font-weight="normal">inert; 78 % of the atmosphere</text>
+<rect x="524" y="122" width="180" height="56" rx="9" fill="#FEF3C7" stroke="#D97706" stroke-width="1.4"/>
+<text x="614" y="144" font-family="DejaVu Sans" font-size="8.6" fill="#D97706" text-anchor="middle" font-weight="bold">nitrogen fixation</text>
+<text x="614" y="161" font-family="DejaVu Sans" font-size="6.8" fill="#64748B" text-anchor="middle" font-weight="normal">lightning, bacteria, Haber</text>
+<rect x="524" y="256" width="180" height="56" rx="9" fill="#FEF3C7" stroke="#D97706" stroke-width="1.4"/>
+<text x="614" y="278" font-family="DejaVu Sans" font-size="8.6" fill="#D97706" text-anchor="middle" font-weight="bold">nitrates and ammonium</text>
+<text x="614" y="295" font-family="DejaVu Sans" font-size="6.8" fill="#64748B" text-anchor="middle" font-weight="normal">nitrifying bacteria make them</text>
+<rect x="290" y="324" width="180" height="56" rx="9" fill="#ECFDF5" stroke="#008751" stroke-width="1.4"/>
+<text x="380" y="346" font-family="DejaVu Sans" font-size="8.6" fill="#008751" text-anchor="middle" font-weight="bold">plants absorb nitrate</text>
+<text x="380" y="363" font-family="DejaVu Sans" font-size="6.8" fill="#64748B" text-anchor="middle" font-weight="normal">assimilation into protein</text>
+<rect x="56" y="256" width="180" height="56" rx="9" fill="#DBEAFE" stroke="#2563EB" stroke-width="1.4"/>
+<text x="146" y="278" font-family="DejaVu Sans" font-size="8.6" fill="#2563EB" text-anchor="middle" font-weight="bold">animals eat plants</text>
+<text x="146" y="295" font-family="DejaVu Sans" font-size="6.8" fill="#64748B" text-anchor="middle" font-weight="normal">protein passes along the chain</text>
+<rect x="56" y="122" width="180" height="56" rx="9" fill="#EDE9FE" stroke="#7C3AED" stroke-width="1.4"/>
+<text x="146" y="138" font-family="DejaVu Sans" font-size="8.4" fill="#7C3AED" text-anchor="middle" font-weight="bold">decomposition and</text>
+<text x="146" y="152" font-family="DejaVu Sans" font-size="8.4" fill="#7C3AED" text-anchor="middle" font-weight="bold">denitrification</text>
+<text x="146" y="167" font-family="DejaVu Sans" font-size="6.6" fill="#64748B" text-anchor="middle" font-weight="normal">bacteria return N₂ to the air</text>
+<line x1="472" y1="100" x2="502.23632710417365" y2="110.07877570139121" stroke="#008751" stroke-width="1.5"/><polygon points="514.0,114.0 500.8,114.5 503.7,105.7" fill="#008751"/>
+<line x1="614" y1="180" x2="614.0" y2="239.6" stroke="#008751" stroke-width="1.5"/><polygon points="614.0,252.0 609.4,239.6 618.6,239.6" fill="#008751"/>
+<line x1="520" y1="308" x2="488.9843110374739" y2="324.2463132660851" stroke="#008751" stroke-width="1.5"/><polygon points="478.0,330.0 486.8,320.1 491.1,328.4" fill="#008751"/>
+<line x1="288" y1="332" x2="256.9843110374739" y2="315.7536867339149" stroke="#008751" stroke-width="1.5"/><polygon points="246.0,310.0 259.1,311.6 254.8,319.9" fill="#008751"/>
+<line x1="146" y1="252" x2="146.0" y2="192.4" stroke="#008751" stroke-width="1.5"/><polygon points="146.0,180.0 150.6,192.4 141.4,192.4" fill="#008751"/>
+<line x1="240" y1="122" x2="274.28823972084365" y2="110.07365574927178" stroke="#008751" stroke-width="1.5"/><polygon points="286.0,106.0 275.8,114.5 272.8,105.7" fill="#008751"/>
+<rect x="24" y="388" width="712" height="32" rx="6" fill="#ECFDF5" stroke="#008751" stroke-width="1.0"/>
+<text x="380" y="408" font-family="DejaVu Sans" font-size="7.6" fill="#334155" text-anchor="middle" font-weight="normal">The Haber process short-circuits the cycle: it fixes nitrogen industrially, without bacteria.</text>
+</svg>

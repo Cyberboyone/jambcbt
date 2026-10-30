@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 356" width="760" height="356">
+  <defs>
+    <marker id="ag" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#008751"/>
+    </marker>
+    <marker id="an" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#0E1F40"/>
+    </marker>
+    <marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#D97706"/>
+    </marker>
+    <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#DC2626"/>
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="760" height="356" fill="#FFFFFF"/>
+<text x="380" y="24" font-family="DejaVu Sans" font-size="12.0" fill="#0E1F40" text-anchor="middle" font-weight="bold">SIX POLLUTANTS AND WHAT THEY DO</text>
+<text x="380" y="42" font-family="DejaVu Sans" font-size="8.2" fill="#64748B" text-anchor="middle" font-weight="normal">Every entry is a chemistry fact followed by a control measure that works on the same fact.</text>
+<text x="26" y="64" font-family="DejaVu Sans" font-size="6.8" fill="#64748B" text-anchor="start" font-weight="normal">pollutant</text>
+<text x="150" y="64" font-family="DejaVu Sans" font-size="6.8" fill="#64748B" text-anchor="start" font-weight="normal">main source</text>
+<text x="356" y="64" font-family="DejaVu Sans" font-size="6.8" fill="#64748B" text-anchor="start" font-weight="normal">effect</text>
+<text x="562" y="64" font-family="DejaVu Sans" font-size="6.8" fill="#64748B" text-anchor="start" font-weight="normal">control</text>
+<rect x="20" y="74" width="720" height="36" rx="5" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="0.7"/>
+<text x="26" y="96" font-family="DejaVu Sans" font-size="7.8" fill="#DC2626" text-anchor="start" font-weight="bold">CO</text>
+<text x="150" y="90" font-family="DejaVu Sans" font-size="6.6" fill="#334155" text-anchor="start" font-weight="normal">incomplete combustion</text>
+<text x="150" y="101" font-family="DejaVu Sans" font-size="6.6" fill="#334155" text-anchor="start" font-weight="normal">in vehicle engines</text>
+<text x="356" y="90" font-family="DejaVu Sans" font-size="6.6" fill="#334155" text-anchor="start" font-weight="normal">binds haemoglobin, so the</text>
+<text x="356" y="101" font-family="DejaVu Sans" font-size="6.6" fill="#334155" text-anchor="start" font-weight="normal">blood carries less oxygen</text>
+<text x="562" y="90" font-family="DejaVu Sans" font-size="6.6" fill="#334155" text-anchor="start" font-weight="normal">catalytic converters,</text>
+<text x="562" y="101" font-family="DejaVu Sans" font-size="6.6" fill="#334155" text-anchor="start" font-weight="normal">well-tuned engines</text>
+<rect x="20" y="116" width="720" height="36" rx="5" fill="#F8FAFC" stroke="#CBD5E1" stroke-width="0.7"/>
+<text x="26" y="138" font-family="DejaVu Sans" font-size="7.8" fill="#DC2626" text-anchor="start" font-weight="bold">SO₂</text>
+<text x="150" y="132" font-family="DejaVu Sans" font-size="6.6" fill="#334155" text-anchor="start" font-weight="normal">burning coal and oil,</text>
+<text x="150" y="143" font-family="DejaVu Sans" font-size="6.6" fill="#334155" text-anchor="start" font-weight="normal">smelting sulphide ores</text>
+<text x="356" y="132" font-family="DejaVu Sans" font-size="6.6" fill="#334155" text-anchor="start" font-weight="normal">acid rain, bronchitis,</text>
+<text x="356" y="143" font-family="DejaVu Sans" font-size="6.6" fill="#334155" text-anchor="start" font-weight="normal">corrodes metal</text>
+<text x="562" y="132" font-family="DejaVu Sans" font-size="6.6" fill="#334155" text-anchor="start" font-weight="normal">lime scrubbers,</text>
+<text x="562" y="143" font-family="DejaVu Sans" font-size="6.6" fill="#334155" text-anchor="start" font-weight="normal">low-sulphur fuel</text>
+<rect x="20" y="158" width="720" height="36" rx="5" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="0.7"/>
+<text x="26" y="180" font-family="DejaVu Sans" font-size="7.8" fill="#DC2626" text-anchor="start" font-weight="bold">NOx</text>
+<text x="150" y="174" font-family="DejaVu Sans" font-size="6.6" fill="#334155" text-anchor="start" font-weight="normal">engines hot enough to</text>
+<text x="150" y="185" font-family="DejaVu Sans" font-size="6.6" fill="#334155" text-anchor="start" font-weight="normal">burn nitrogen from the air</text>
+<text x="356" y="174" font-family="DejaVu Sans" font-size="6.6" fill="#334155" text-anchor="start" font-weight="normal">photochemical smog,</text>
+<text x="356" y="185" font-family="DejaVu Sans" font-size="6.6" fill="#334155" text-anchor="start" font-weight="normal">acid rain</text>
+<text x="562" y="174" font-family="DejaVu Sans" font-size="6.6" fill="#334155" text-anchor="start" font-weight="normal">catalytic converters,</text>
+<text x="562" y="185" font-family="DejaVu Sans" font-size="6.6" fill="#334155" text-anchor="start" font-weight="normal">lean-burn engines</text>
+<rect x="20" y="200" width="720" height="36" rx="5" fill="#F8FAFC" stroke="#CBD5E1" stroke-width="0.7"/>
+<text x="26" y="222" font-family="DejaVu Sans" font-size="7.8" fill="#DC2626" text-anchor="start" font-weight="bold">CFCs</text>
+<text x="150" y="216" font-family="DejaVu Sans" font-size="6.6" fill="#334155" text-anchor="start" font-weight="normal">old fridges and aerosols</text>
+<text x="150" y="227" font-family="DejaVu Sans" font-size="6.6" fill="#334155" text-anchor="start" font-weight="normal">(now phased out)</text>
+<text x="356" y="216" font-family="DejaVu Sans" font-size="6.6" fill="#334155" text-anchor="start" font-weight="normal">breaks the ozone layer</text>
+<text x="356" y="227" font-family="DejaVu Sans" font-size="6.6" fill="#334155" text-anchor="start" font-weight="normal">one Cl atom at a time</text>
+<text x="562" y="216" font-family="DejaVu Sans" font-size="6.6" fill="#334155" text-anchor="start" font-weight="normal">HFCs and recovery</text>
+<text x="562" y="227" font-family="DejaVu Sans" font-size="6.6" fill="#334155" text-anchor="start" font-weight="normal">of old equipment</text>
+<rect x="20" y="242" width="720" height="36" rx="5" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="0.7"/>
+<text x="26" y="264" font-family="DejaVu Sans" font-size="7.8" fill="#DC2626" text-anchor="start" font-weight="bold">particulates</text>
+<text x="150" y="258" font-family="DejaVu Sans" font-size="6.6" fill="#334155" text-anchor="start" font-weight="normal">diesel exhaust, cement</text>
+<text x="150" y="269" font-family="DejaVu Sans" font-size="6.6" fill="#334155" text-anchor="start" font-weight="normal">kilns, bush burning</text>
+<text x="356" y="258" font-family="DejaVu Sans" font-size="6.6" fill="#334155" text-anchor="start" font-weight="normal">smog, asthma,</text>
+<text x="356" y="269" font-family="DejaVu Sans" font-size="6.6" fill="#334155" text-anchor="start" font-weight="normal">reduced visibility</text>
+<text x="562" y="258" font-family="DejaVu Sans" font-size="6.6" fill="#334155" text-anchor="start" font-weight="normal">filters, cleaner fuel,</text>
+<text x="562" y="269" font-family="DejaVu Sans" font-size="6.6" fill="#334155" text-anchor="start" font-weight="normal">no bush burning</text>
+<rect x="20" y="284" width="720" height="36" rx="5" fill="#F8FAFC" stroke="#CBD5E1" stroke-width="0.7"/>
+<text x="26" y="306" font-family="DejaVu Sans" font-size="7.8" fill="#DC2626" text-anchor="start" font-weight="bold">lead</text>
+<text x="150" y="300" font-family="DejaVu Sans" font-size="6.6" fill="#334155" text-anchor="start" font-weight="normal">old leaded petrol,</text>
+<text x="150" y="311" font-family="DejaVu Sans" font-size="6.6" fill="#334155" text-anchor="start" font-weight="normal">scrap batteries</text>
+<text x="356" y="300" font-family="DejaVu Sans" font-size="6.6" fill="#334155" text-anchor="start" font-weight="normal">brain damage in</text>
+<text x="356" y="311" font-family="DejaVu Sans" font-size="6.6" fill="#334155" text-anchor="start" font-weight="normal">children</text>
+<text x="562" y="300" font-family="DejaVu Sans" font-size="6.6" fill="#334155" text-anchor="start" font-weight="normal">unleaded petrol,</text>
+<text x="562" y="311" font-family="DejaVu Sans" font-size="6.6" fill="#334155" text-anchor="start" font-weight="normal">battery recycling</text>
+<text x="380" y="344" font-family="DejaVu Sans" font-size="7.4" fill="#334155" text-anchor="middle" font-weight="normal">Acid rain is the same story three times: SO₂ and NOx dissolve and oxidise to H₂SO₄ and HNO₃.</text>
+</svg>

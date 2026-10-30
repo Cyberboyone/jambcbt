@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 436" width="760" height="436">
+  <defs>
+    <marker id="ag" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#008751"/>
+    </marker>
+    <marker id="an" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#0E1F40"/>
+    </marker>
+    <marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#D97706"/>
+    </marker>
+    <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#DC2626"/>
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="760" height="436" fill="#FFFFFF"/>
+<text x="380" y="24" font-family="DejaVu Sans" font-size="12.2" fill="#0E1F40" text-anchor="middle" font-weight="bold">THE REACTIVITY SERIES AND HOW EACH METAL IS WON</text>
+<text x="380" y="42" font-family="DejaVu Sans" font-size="8.8" fill="#64748B" text-anchor="middle" font-weight="normal">The higher a metal sits, the harder it is to reduce — and the more it costs to extract.</text>
+<rect x="24" y="64" width="58" height="27" rx="5" fill="#FFFFFF" stroke="#DC2626" stroke-width="1.3"/>
+<text x="53" y="82" font-family="DejaVu Sans" font-size="11.6" fill="#DC2626" text-anchor="middle" font-weight="bold">K</text>
+<text x="92" y="82" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="start" font-weight="normal">potassium</text>
+<text x="196" y="82" font-family="DejaVu Sans" font-size="8.6" fill="#334155" text-anchor="start" font-weight="normal">electrolysis of the molten chloride</text>
+<rect x="24" y="96" width="58" height="27" rx="5" fill="#FFFFFF" stroke="#DC2626" stroke-width="1.3"/>
+<text x="53" y="114" font-family="DejaVu Sans" font-size="11.6" fill="#DC2626" text-anchor="middle" font-weight="bold">Na</text>
+<text x="92" y="114" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="start" font-weight="normal">sodium</text>
+<text x="196" y="114" font-family="DejaVu Sans" font-size="8.6" fill="#334155" text-anchor="start" font-weight="normal">electrolysis of molten NaCl (Downs cell)</text>
+<rect x="24" y="128" width="58" height="27" rx="5" fill="#FFFFFF" stroke="#DC2626" stroke-width="1.3"/>
+<text x="53" y="146" font-family="DejaVu Sans" font-size="11.6" fill="#DC2626" text-anchor="middle" font-weight="bold">Ca</text>
+<text x="92" y="146" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="start" font-weight="normal">calcium</text>
+<text x="196" y="146" font-family="DejaVu Sans" font-size="8.6" fill="#334155" text-anchor="start" font-weight="normal">electrolysis of molten CaCl₂</text>
+<rect x="24" y="160" width="58" height="27" rx="5" fill="#FFFFFF" stroke="#D97706" stroke-width="1.3"/>
+<text x="53" y="178" font-family="DejaVu Sans" font-size="11.6" fill="#D97706" text-anchor="middle" font-weight="bold">Mg</text>
+<text x="92" y="178" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="start" font-weight="normal">magnesium</text>
+<text x="196" y="178" font-family="DejaVu Sans" font-size="8.6" fill="#334155" text-anchor="start" font-weight="normal">electrolysis of molten MgCl₂</text>
+<rect x="24" y="192" width="58" height="27" rx="5" fill="#FFFFFF" stroke="#D97706" stroke-width="1.3"/>
+<text x="53" y="210" font-family="DejaVu Sans" font-size="11.6" fill="#D97706" text-anchor="middle" font-weight="bold">Al</text>
+<text x="92" y="210" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="start" font-weight="normal">aluminium</text>
+<text x="196" y="210" font-family="DejaVu Sans" font-size="8.6" fill="#334155" text-anchor="start" font-weight="normal">electrolysis of Al₂O₃ dissolved in cryolite</text>
+<rect x="24" y="224" width="58" height="27" rx="5" fill="#FFFFFF" stroke="#2563EB" stroke-width="1.3"/>
+<text x="53" y="242" font-family="DejaVu Sans" font-size="11.6" fill="#2563EB" text-anchor="middle" font-weight="bold">Zn</text>
+<text x="92" y="242" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="start" font-weight="normal">zinc</text>
+<text x="196" y="242" font-family="DejaVu Sans" font-size="8.6" fill="#334155" text-anchor="start" font-weight="normal">reduction of the oxide with coke</text>
+<rect x="24" y="256" width="58" height="27" rx="5" fill="#FFFFFF" stroke="#2563EB" stroke-width="1.3"/>
+<text x="53" y="274" font-family="DejaVu Sans" font-size="11.6" fill="#2563EB" text-anchor="middle" font-weight="bold">Fe</text>
+<text x="92" y="274" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="start" font-weight="normal">iron</text>
+<text x="196" y="274" font-family="DejaVu Sans" font-size="8.6" fill="#334155" text-anchor="start" font-weight="normal">reduction of the oxide in the blast furnace</text>
+<rect x="24" y="288" width="58" height="27" rx="5" fill="#FFFFFF" stroke="#2563EB" stroke-width="1.3"/>
+<text x="53" y="306" font-family="DejaVu Sans" font-size="11.6" fill="#2563EB" text-anchor="middle" font-weight="bold">Pb</text>
+<text x="92" y="306" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="start" font-weight="normal">lead</text>
+<text x="196" y="306" font-family="DejaVu Sans" font-size="8.6" fill="#334155" text-anchor="start" font-weight="normal">reduction of the oxide with coke</text>
+<rect x="24" y="320" width="58" height="27" rx="5" fill="#FFFFFF" stroke="#008751" stroke-width="1.3"/>
+<text x="53" y="338" font-family="DejaVu Sans" font-size="11.6" fill="#008751" text-anchor="middle" font-weight="bold">Cu</text>
+<text x="92" y="338" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="start" font-weight="normal">copper</text>
+<text x="196" y="338" font-family="DejaVu Sans" font-size="8.6" fill="#334155" text-anchor="start" font-weight="normal">roasting the sulphide, then reduction</text>
+<rect x="24" y="352" width="58" height="27" rx="5" fill="#FFFFFF" stroke="#008751" stroke-width="1.3"/>
+<text x="53" y="370" font-family="DejaVu Sans" font-size="11.6" fill="#008751" text-anchor="middle" font-weight="bold">Ag</text>
+<text x="92" y="370" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="start" font-weight="normal">silver</text>
+<text x="196" y="370" font-family="DejaVu Sans" font-size="8.6" fill="#334155" text-anchor="start" font-weight="normal">found native, or by displacement</text>
+<rect x="24" y="384" width="58" height="27" rx="5" fill="#FFFFFF" stroke="#008751" stroke-width="1.3"/>
+<text x="53" y="402" font-family="DejaVu Sans" font-size="11.6" fill="#008751" text-anchor="middle" font-weight="bold">Au</text>
+<text x="92" y="402" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="start" font-weight="normal">gold</text>
+<text x="196" y="402" font-family="DejaVu Sans" font-size="8.6" fill="#334155" text-anchor="start" font-weight="normal">found native — no extraction needed</text>
+<rect x="516" y="61" width="8" height="8" rx="2" fill="#DC2626" stroke="#DC2626" stroke-width="0"/>
+<text x="530" y="69" font-family="DejaVu Sans" font-size="7.8" fill="#DC2626" text-anchor="start" font-weight="bold">ELECTROLYSIS</text>
+<text x="530" y="82" font-family="DejaVu Sans" font-size="7.2" fill="#64748B" text-anchor="start" font-weight="normal">above zinc - too reactive</text>
+<text x="530" y="93" font-family="DejaVu Sans" font-size="7.2" fill="#64748B" text-anchor="start" font-weight="normal">for carbon</text>
+<rect x="516" y="113" width="8" height="8" rx="2" fill="#2563EB" stroke="#2563EB" stroke-width="0"/>
+<text x="530" y="121" font-family="DejaVu Sans" font-size="7.8" fill="#2563EB" text-anchor="start" font-weight="bold">CARBON REDUCTION</text>
+<text x="530" y="134" font-family="DejaVu Sans" font-size="7.2" fill="#64748B" text-anchor="start" font-weight="normal">zinc to lead - the oxide</text>
+<text x="530" y="145" font-family="DejaVu Sans" font-size="7.2" fill="#64748B" text-anchor="start" font-weight="normal">is reduced by coke</text>
+<rect x="516" y="165" width="8" height="8" rx="2" fill="#008751" stroke="#008751" stroke-width="0"/>
+<text x="530" y="173" font-family="DejaVu Sans" font-size="7.8" fill="#008751" text-anchor="start" font-weight="bold">NATIVE OR DISPLACEMENT</text>
+<text x="530" y="186" font-family="DejaVu Sans" font-size="7.2" fill="#64748B" text-anchor="start" font-weight="normal">copper, silver, gold -</text>
+<text x="530" y="197" font-family="DejaVu Sans" font-size="7.2" fill="#64748B" text-anchor="start" font-weight="normal">already easy to reduce</text>
+<line x1="24" y1="221" x2="500" y2="221" stroke="#D97706" stroke-width="1.0" stroke-dasharray="5 4"/>
+<text x="496" y="217" font-family="DejaVu Sans" font-size="7.4" fill="#D97706" text-anchor="end" font-weight="normal">the carbon line</text>
+</svg>

@@ -11,8 +11,47 @@ set.
 |---|---|---|
 | 1 | Matter, Atoms & Bonding | **complete — 143 pp** |
 | 2 | Physical Chemistry | **complete — 165 pp** |
-| 3 | Inorganic Chemistry | not started |
+| 3 | Inorganic Chemistry | **complete — 175 pp** |
 | 4 | Organic Chemistry & Practical | not started |
+
+### Volume 3 — contents
+
+Front matter (series map, three habits, twelve question types, syllabus
+mapping, how to use, printed Contents page with baked page numbers,
+12-question diagnostic), then six chapters:
+
+1. Metals and the Reactivity Series
+2. Groups 1 and 2
+3. Aluminium, Iron and Steel
+4. Hydrogen, Oxygen and Nitrogen
+5. Sulphur and the Halogens
+6. Chemical Industry and the Environment
+
+Back matter: two 40-question CBT mocks, Appendix A (40 rapid-fire pairs),
+Appendix B (120-question master bank), Appendix C (consolidated keys),
+Appendix D (data, series and tests), Appendix E (the reaction map),
+Appendix F (glossary), Appendix G (revision planner and score tracker),
+Appendix H (equations and conditions), Appendix I (structured questions with
+model answers), Appendix J (the twelve traps, worked), Appendix K (exam-day
+playbook). 34 diagrams, all drawn from script in `diagrams_gen/`.
+
+Item totals: **240 end-of-chapter drill questions** (40 per chapter), 80 mock
+questions, 40 rapid-fire pairs and a 120-question bank — every option
+explained in the solutions. The answer key of every drill and paper is spread
+across A–D rather than clustered on one letter.
+
+### Volume 3 — build
+
+```bash
+cd study_materials/chemistry/vol3
+python generate_diagrams.py        # writes diagrams/*.svg
+cd tools
+python drills_chem3.py             # writes drill_ch01–06.typ
+python papers_chem3.py             # writes mock_ch11, mock2, rapid_fire, bank120, answer_keys
+python fit_solutions.py            # tunes _fit.json, then rebuilds until every tail page is full
+cd ..
+python build.py                    # writes JAMB_Chemistry_Volume3_Inorganic_Chemistry.pdf
+```
 
 ### Volume 2 — contents
 

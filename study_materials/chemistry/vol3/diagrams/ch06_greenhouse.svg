@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 360" width="760" height="360">
+  <defs>
+    <marker id="ag" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#008751"/>
+    </marker>
+    <marker id="an" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#0E1F40"/>
+    </marker>
+    <marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#D97706"/>
+    </marker>
+    <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#DC2626"/>
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="760" height="360" fill="#FFFFFF"/>
+<text x="380" y="24" font-family="DejaVu Sans" font-size="12.0" fill="#0E1F40" text-anchor="middle" font-weight="bold">THE GREENHOUSE EFFECT</text>
+<text x="380" y="42" font-family="DejaVu Sans" font-size="8.2" fill="#64748B" text-anchor="middle" font-weight="normal">Short-wave sunlight passes in; long-wave heat is absorbed on the way out and re-radiated downwards.</text>
+<path d="M 60 268 Q 380 226 700 268 L 700 300 L 60 300 Z" fill="#BBF7D0" stroke="#166534" stroke-width="1.2" stroke-linecap="round"/>
+<text x="380" y="290" font-family="DejaVu Sans" font-size="7.2" fill="#166534" text-anchor="middle" font-weight="normal">the earth's surface</text>
+<circle cx="66" cy="100" r="24" fill="#FDE68A" stroke="#D97706" stroke-width="1.2"/>
+<line x1="88.98133329356934" y1="80.71637170940383" x2="99.70595549723504" y2="71.71734517379227" stroke="#D97706" stroke-width="1.4"/>
+<line x1="94.19077862357724" y1="89.73939570022993" x2="107.34647531457998" y2="84.95111369367058" stroke="#D97706" stroke-width="1.4"/>
+<line x1="96.0" y1="100.0" x2="110.0" y2="100.0" stroke="#D97706" stroke-width="1.4"/>
+<line x1="94.19077862357724" y1="110.26060429977007" x2="107.34647531457998" y2="115.04888630632942" stroke="#D97706" stroke-width="1.4"/>
+<line x1="88.98133329356934" y1="119.28362829059617" x2="99.70595549723504" y2="128.28265482620773" stroke="#D97706" stroke-width="1.4"/>
+<text x="66" y="142" font-family="DejaVu Sans" font-size="7.2" fill="#92400E" text-anchor="middle" font-weight="normal">sun</text>
+<rect x="70" y="190" width="620" height="26" rx="6" fill="#E0F2FE" stroke="#0369A1" stroke-width="0.9" stroke-dasharray="5 4"/>
+<text x="380" y="207" font-family="DejaVu Sans" font-size="7.2" fill="#075985" text-anchor="middle" font-weight="normal">greenhouse gases: CO₂  ·  CH₄  ·  N₂O  ·  water vapour</text>
+<line x1="103" y1="108" x2="289.84394675458407" y2="238.88560737123146" stroke="#D97706" stroke-width="1.8"/><polygon points="300.0,246.0 287.2,242.7 292.5,235.1" fill="#D97706"/>
+<text x="200" y="120" font-family="DejaVu Sans" font-size="7.0" fill="#92400E" text-anchor="start" font-weight="normal">sunlight, short wave: it passes straight through</text>
+<line x1="330" y1="254" x2="330.0" y2="230.4" stroke="#DC2626" stroke-width="1.8"/><polygon points="330.0,218.0 334.6,230.4 325.4,230.4" fill="#DC2626"/>
+<text x="338" y="238" font-family="DejaVu Sans" font-size="7.0" fill="#DC2626" text-anchor="start" font-weight="normal">heat radiated upward</text>
+<line x1="450" y1="218" x2="450.0" y2="241.6" stroke="#DC2626" stroke-width="1.8"/><polygon points="450.0,254.0 445.4,241.6 454.6,241.6" fill="#DC2626"/>
+<text x="458" y="238" font-family="DejaVu Sans" font-size="7.0" fill="#DC2626" text-anchor="start" font-weight="normal">re-radiated back down</text>
+<path d="M 560 188 L 560 152" fill="none" stroke="#DC2626" stroke-width="1.4" stroke-linecap="round" stroke-dasharray="4 3"/>
+<line x1="560" y1="164" x2="560.0" y2="162.4" stroke="#DC2626" stroke-width="1.4"/><polygon points="560.0,150.0 564.6,162.4 555.4,162.4" fill="#DC2626"/>
+<text x="568" y="172" font-family="DejaVu Sans" font-size="7.0" fill="#DC2626" text-anchor="start" font-weight="normal">the rest escapes</text>
+<rect x="20" y="316" width="720" height="30" rx="5" fill="#ECFDF5" stroke="#008751" stroke-width="0.9"/>
+<text x="380" y="335" font-family="DejaVu Sans" font-size="7.5" fill="#334155" text-anchor="middle" font-weight="normal">More gas means more heat returned: the surface warms, and the ice and the sea level answer.</text>
+</svg>
