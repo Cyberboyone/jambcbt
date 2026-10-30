@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 296" width="560" height="296">
+  <defs>
+    <marker id="ag" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#008751"/>
+    </marker>
+    <marker id="an" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#0E1F40"/>
+    </marker>
+    <marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#D97706"/>
+    </marker>
+    <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#DC2626"/>
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="560" height="296" fill="#FFFFFF"/>
+<text x="280" y="20" font-family="DejaVu Sans" font-size="10.6" fill="#0E1F40" text-anchor="middle" font-weight="bold">DISPERSION: ONE BEAM IN, SEVEN COLOURS OUT</text>
+<polygon points="96,196 236,196 166,78" fill="#EFF6FF" stroke="#2563EB" stroke-width="2"/>
+<line x1="18" y1="138" x2="115.597040477114" y2="109.08235837715141" stroke="#0F172A" stroke-width="2.2"/><polygon points="126.0,106.0 116.8,113.0 114.4,105.2" fill="#0F172A"/>
+<text x="20" y="126" font-family="DejaVu Sans" font-size="7.8" fill="#334155" text-anchor="start" font-weight="normal">white light</text>
+<line x1="126" y1="106" x2="201.74551497614718" y2="161.42354754352232" stroke="#475569" stroke-width="1.4"/><polygon points="208.0,166.0 200.0,163.8 203.5,159.1" fill="#475569"/>
+<line x1="208" y1="166" x2="386.71888752936826" y2="177.40758856570434" stroke="#DC2626" stroke-width="1.9"/><polygon points="396.0,178.0 386.5,180.9 386.9,173.9" fill="#DC2626"/>
+<text x="406" y="181" font-family="DejaVu Sans" font-size="7.8" fill="#DC2626" text-anchor="start" font-weight="normal">red</text>
+<line x1="208" y1="166" x2="386.7688257466915" y2="187.87065421369098" stroke="#EA580C" stroke-width="1.9"/><polygon points="396.0,189.0 386.3,191.3 387.2,184.4" fill="#EA580C"/>
+<text x="406" y="192" font-family="DejaVu Sans" font-size="7.8" fill="#EA580C" text-anchor="start" font-weight="normal">orange</text>
+<line x1="208" y1="166" x2="386.8484561374327" y2="198.34493355676975" stroke="#EAB308" stroke-width="1.9"/><polygon points="396.0,200.0 386.2,201.8 387.5,194.9" fill="#EAB308"/>
+<text x="406" y="203" font-family="DejaVu Sans" font-size="7.8" fill="#EAB308" text-anchor="start" font-weight="normal">yellow</text>
+<line x1="208" y1="166" x2="386.9554896577421" y2="208.83509060956592" stroke="#16A34A" stroke-width="1.9"/><polygon points="396.0,211.0 386.1,212.2 387.8,205.5" fill="#16A34A"/>
+<text x="406" y="214" font-family="DejaVu Sans" font-size="7.8" fill="#16A34A" text-anchor="start" font-weight="normal">green</text>
+<line x1="208" y1="166" x2="387.0870131426477" y2="219.34506774461846" stroke="#2563EB" stroke-width="1.9"/><polygon points="396.0,222.0 386.1,222.7 388.1,216.0" fill="#2563EB"/>
+<text x="406" y="225" font-family="DejaVu Sans" font-size="7.8" fill="#2563EB" text-anchor="start" font-weight="normal">blue</text>
+<line x1="208" y1="166" x2="387.2396937335182" y2="229.87797595822192" stroke="#4338CA" stroke-width="1.9"/><polygon points="396.0,233.0 386.1,233.2 388.4,226.6" fill="#4338CA"/>
+<text x="406" y="236" font-family="DejaVu Sans" font-size="7.8" fill="#4338CA" text-anchor="start" font-weight="normal">indigo</text>
+<line x1="208" y1="166" x2="387.4099871395697" y2="240.4360584940768" stroke="#7C3AED" stroke-width="1.9"/><polygon points="396.0,244.0 386.1,243.7 388.7,237.2" fill="#7C3AED"/>
+<text x="406" y="247" font-family="DejaVu Sans" font-size="7.8" fill="#7C3AED" text-anchor="start" font-weight="normal">violet</text>
+<text x="20" y="272" font-family="DejaVu Sans" font-size="8.6" fill="#334155" text-anchor="start" font-weight="normal">Red is deviated least and violet most: the refractive index rises with frequency.</text>
+</svg>

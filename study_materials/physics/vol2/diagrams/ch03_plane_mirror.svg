@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 300" width="560" height="300">
+  <defs>
+    <marker id="ag" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#008751"/>
+    </marker>
+    <marker id="an" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#0E1F40"/>
+    </marker>
+    <marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#D97706"/>
+    </marker>
+    <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#DC2626"/>
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="560" height="300" fill="#FFFFFF"/>
+<text x="280" y="20" font-family="DejaVu Sans" font-size="10.2" fill="#0E1F40" text-anchor="middle" font-weight="bold">A PLANE MIRROR: THE IMAGE IS AS FAR BEHIND AS THE OBJECT IS IN FRONT</text>
+<line x1="300" y1="42" x2="300" y2="224" stroke="#2563EB" stroke-width="2.6"/>
+<text x="308" y="54" font-family="DejaVu Sans" font-size="8.4" fill="#2563EB" text-anchor="start" font-weight="normal">mirror</text>
+<line x1="150" y1="170" x2="150.0" y2="120.4" stroke="#008751" stroke-width="2.4"/><polygon points="150.0,108.0 154.6,120.4 145.4,120.4" fill="#008751"/>
+<text x="150" y="186" font-family="DejaVu Sans" font-size="8.6" fill="#008751" text-anchor="middle" font-weight="normal">object</text>
+<line x1="450" y1="170" x2="450.0" y2="120.4" stroke="#D97706" stroke-width="2.0"/><polygon points="450.0,108.0 454.6,120.4 445.4,120.4" fill="#D97706"/>
+<text x="450" y="186" font-family="DejaVu Sans" font-size="8.6" fill="#D97706" text-anchor="middle" font-weight="normal">image (virtual)</text>
+<line x1="150" y1="170" x2="450" y2="170" stroke="#64748B" stroke-width="0.9" stroke-dasharray="4 3"/>
+<text x="225.0" y="162" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="middle" font-weight="bold">u</text>
+<text x="375.0" y="162" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="middle" font-weight="bold">v = u</text>
+<line x1="150" y1="108" x2="290.9300780074488" y2="76.05584898497827" stroke="#008751" stroke-width="1.3"/><polygon points="300.0,74.0 291.7,79.4 290.2,72.7" fill="#008751"/>
+<line x1="300" y1="74" x2="49.221487779768424" y2="41.20588686350818" stroke="#008751" stroke-width="1.2"/><polygon points="40.0,40.0 49.7,37.8 48.8,44.7" fill="#008751"/>
+<line x1="300" y1="74" x2="450" y2="108" stroke="#008751" stroke-width="1.0" stroke-dasharray="4 3"/>
+<line x1="150" y1="108" x2="290.72059803193355" y2="117.3813732021289" stroke="#008751" stroke-width="1.3"/><polygon points="300.0,118.0 290.5,120.9 291.0,113.9" fill="#008751"/>
+<line x1="300" y1="118" x2="49.2538458689529" y2="92.92538458689529" stroke="#008751" stroke-width="1.2"/><polygon points="40.0,92.0 49.6,89.5 48.9,96.4" fill="#008751"/>
+<line x1="300" y1="118" x2="450" y2="108" stroke="#008751" stroke-width="1.0" stroke-dasharray="4 3"/>
+<text x="40" y="262" font-family="DejaVu Sans" font-size="7.8" fill="#64748B" text-anchor="start" font-weight="normal">the reflected rays diverge, and the eye traces them back to the image behind the mirror</text>
+<rect x="14" y="272" width="532" height="22" rx="6" fill="#ECFDF5" stroke="#008751" stroke-width="1.0"/>
+<text x="280" y="287" font-family="DejaVu Sans" font-size="8.4" fill="#334155" text-anchor="middle" font-weight="normal">Same size, same way up, laterally inverted, as far behind as in front; i = r, measured from the normal.</text>
+</svg>

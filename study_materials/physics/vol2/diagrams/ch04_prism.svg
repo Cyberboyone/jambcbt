@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 270" width="560" height="270">
+  <defs>
+    <marker id="ag" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#008751"/>
+    </marker>
+    <marker id="an" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#0E1F40"/>
+    </marker>
+    <marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#D97706"/>
+    </marker>
+    <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#DC2626"/>
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="560" height="270" fill="#FFFFFF"/>
+<text x="280" y="20" font-family="DejaVu Sans" font-size="10.6" fill="#0E1F40" text-anchor="middle" font-weight="bold">THE PRISM: DEVIATION AT TWO SURFACES, AND THE SPLIT OF WHITE LIGHT</text>
+<polygon points="150,200 300,200 218,74" fill="#EFF6FF" stroke="#2563EB" stroke-width="2"/>
+<text x="225" y="216" font-family="DejaVu Sans" font-size="8.4" fill="#2563EB" text-anchor="middle" font-weight="normal">glass prism</text>
+<line x1="70" y1="150" x2="166.04680662960754" y2="108.31931033054767" stroke="#008751" stroke-width="1.8"/><polygon points="176.0,104.0 167.7,112.0 164.4,104.6" fill="#008751"/>
+<text x="96" y="116" font-family="DejaVu Sans" font-size="8.2" fill="#008751" text-anchor="middle" font-weight="normal">white light</text>
+<line x1="176" y1="104" x2="260.52116188436315" y2="166.4721631319206" stroke="#334155" stroke-width="1.4"/><polygon points="268.0,172.0 258.5,169.3 262.6,163.7" fill="#334155"/>
+<line x1="268" y1="172" x2="350.70877772729796" y2="168.40396618576966" stroke="#DC2626" stroke-width="1.6"/><polygon points="360.0,168.0 350.9,171.9 350.6,164.9" fill="#DC2626"/>
+<text x="372" y="172.0" font-family="DejaVu Sans" font-size="7.6" fill="#DC2626" text-anchor="start" font-weight="normal">red</text>
+<line x1="268" y1="172" x2="350.72529997580335" y2="178.11447869386373" stroke="#EA580C" stroke-width="1.6"/><polygon points="360.0,178.8 350.5,181.6 351.0,174.6" fill="#EA580C"/>
+<text x="372" y="182.8" font-family="DejaVu Sans" font-size="7.6" fill="#EA580C" text-anchor="start" font-weight="normal">orange</text>
+<line x1="268" y1="172" x2="350.86564469380966" y2="187.8525581153375" stroke="#16A34A" stroke-width="1.6"/><polygon points="360.0,189.6 350.2,191.3 351.5,184.4" fill="#16A34A"/>
+<text x="372" y="193.6" font-family="DejaVu Sans" font-size="7.6" fill="#16A34A" text-anchor="start" font-weight="normal">green</text>
+<line x1="268" y1="172" x2="351.1638912931978" y2="199.2994512723323" stroke="#2563EB" stroke-width="1.6"/><polygon points="360.0,202.2 350.1,202.6 352.2,196.0" fill="#2563EB"/>
+<text x="372" y="206.2" font-family="DejaVu Sans" font-size="7.6" fill="#2563EB" text-anchor="start" font-weight="normal">blue</text>
+<line x1="268" y1="172" x2="351.5678197148348" y2="210.8772030847275" stroke="#7C3AED" stroke-width="1.6"/><polygon points="360.0,214.8 350.1,214.0 353.0,207.7" fill="#7C3AED"/>
+<text x="372" y="218.8" font-family="DejaVu Sans" font-size="7.6" fill="#7C3AED" text-anchor="start" font-weight="normal">violet</text>
+<rect x="400" y="44" width="146" height="128" rx="7" fill="#F8FAFC" stroke="#CBD5E1" stroke-width="1.1"/>
+<text x="473" y="62" font-family="DejaVu Sans" font-size="9" fill="#0E1F40" text-anchor="middle" font-weight="bold">Why it splits</text>
+<text x="473" y="80" font-family="DejaVu Sans" font-size="8.2" fill="#334155" text-anchor="middle" font-weight="normal">Violet slows most, so it</text>
+<text x="473" y="94" font-family="DejaVu Sans" font-size="8.2" fill="#334155" text-anchor="middle" font-weight="normal">bends most — the glass</text>
+<text x="473" y="108" font-family="DejaVu Sans" font-size="8.2" fill="#334155" text-anchor="middle" font-weight="normal">has a larger n for it.</text>
+<text x="473" y="130" font-family="DejaVu Sans" font-size="8.2" fill="#008751" text-anchor="middle" font-weight="normal">Deviation d = i₁ + i₂ − A</text>
+<text x="473" y="152" font-family="DejaVu Sans" font-size="8.2" fill="#334155" text-anchor="middle" font-weight="normal">Dispersion needs a second</text>
+<text x="473" y="166" font-family="DejaVu Sans" font-size="8.2" fill="#334155" text-anchor="middle" font-weight="normal">prism to recombine.</text>
+<rect x="14" y="228" width="532" height="32" rx="7" fill="#ECFDF5" stroke="#008751" stroke-width="1.1"/>
+<text x="280" y="248" font-family="DejaVu Sans" font-size="8.6" fill="#334155" text-anchor="middle" font-weight="normal">A prism is not a lens: it deviates a ray without bringing it to a focus, and the deviation depends on the colour.</text>
+</svg>

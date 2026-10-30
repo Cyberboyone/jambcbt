@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 312" width="560" height="312">
+  <defs>
+    <marker id="ag" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#008751"/>
+    </marker>
+    <marker id="an" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#0E1F40"/>
+    </marker>
+    <marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#D97706"/>
+    </marker>
+    <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#DC2626"/>
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="560" height="312" fill="#FFFFFF"/>
+<text x="280" y="20" font-family="DejaVu Sans" font-size="10.6" fill="#0E1F40" text-anchor="middle" font-weight="bold">THE EYE — A CONVERGING SYSTEM THAT FOCUSES ON THE RETINA</text>
+<ellipse cx="152" cy="150" rx="106" ry="84" fill="#F8FAFC" stroke="#334155" stroke-width="1.8"/>
+<ellipse cx="152" cy="150" rx="98" ry="76" fill="#FFFFFF" stroke="none"/>
+<path d="M 54 120 Q 36 150 54 180" fill="#DBEAFE" stroke="#2563EB" stroke-width="2"/>
+<path d="M 74 126 Q 91.4 150 74 174 Q 68.6 150 74 126 Z" fill="#DBEAFE" stroke="#0EA5E9" stroke-width="2.0"/>
+<line x1="64" y1="120" x2="64" y2="140" stroke="#7C3AED" stroke-width="3.4"/>
+<line x1="64" y1="160" x2="64" y2="180" stroke="#7C3AED" stroke-width="3.4"/>
+<path d="M 226 98 A 102 80 0 0 1 226 202" fill="none" stroke="#DC2626" stroke-width="4"/>
+<line x1="14" y1="112" x2="67.30571351803714" y2="143.09499955218834" stroke="#008751" stroke-width="1.1"/><polygon points="74.0,147.0 65.8,145.6 68.8,140.6" fill="#008751"/>
+<line x1="14" y1="188" x2="67.30571351803714" y2="156.90500044781166" stroke="#008751" stroke-width="1.1"/><polygon points="74.0,153.0 68.8,159.4 65.8,154.4" fill="#008751"/>
+<line x1="86" y1="147" x2="216.2550819011117" y2="151.7193870254026" stroke="#008751" stroke-width="1.0"/><polygon points="224.0,152.0 216.2,154.6 216.4,148.8" fill="#008751"/>
+<line x1="86" y1="153" x2="216.25020346814742" y2="152.056157945883" stroke="#008751" stroke-width="1.0"/><polygon points="224.0,152.0 216.3,155.0 216.2,149.2" fill="#008751"/>
+<text x="36" y="108" font-family="DejaVu Sans" font-size="7.6" fill="#334155" text-anchor="end" font-weight="normal">cornea</text>
+<text x="96" y="132" font-family="DejaVu Sans" font-size="7.6" fill="#334155" text-anchor="start" font-weight="normal">lens</text>
+<text x="78" y="196" font-family="DejaVu Sans" font-size="7.6" fill="#334155" text-anchor="end" font-weight="normal">iris</text>
+<text x="232" y="90" font-family="DejaVu Sans" font-size="7.6" fill="#334155" text-anchor="start" font-weight="normal">retina</text>
+<text x="176" y="246" font-family="DejaVu Sans" font-size="7.6" fill="#334155" text-anchor="middle" font-weight="normal">optic nerve</text>
+<text x="152" y="292" font-family="DejaVu Sans" font-size="7.8" fill="#64748B" text-anchor="middle" font-weight="normal">the cornea does most of the refraction; the lens only fine-tunes the focus</text>
+<rect x="286" y="44" width="260" height="108" rx="7" fill="#FEE2E2" stroke="#DC2626" stroke-width="1.2"/>
+<text x="416" y="62" font-family="DejaVu Sans" font-size="9.2" fill="#DC2626" text-anchor="middle" font-weight="bold">Short sight (myopia)</text>
+<text x="416" y="80" font-family="DejaVu Sans" font-size="8.0" fill="#334155" text-anchor="middle" font-weight="normal">The image falls short of the retina, so</text>
+<text x="416" y="93" font-family="DejaVu Sans" font-size="8.0" fill="#334155" text-anchor="middle" font-weight="normal">distant objects blur and the far point</text>
+<text x="416" y="106" font-family="DejaVu Sans" font-size="8.0" fill="#334155" text-anchor="middle" font-weight="normal">is near. Corrected with a diverging</text>
+<text x="416" y="119" font-family="DejaVu Sans" font-size="8.0" fill="#334155" text-anchor="middle" font-weight="normal">lens; f = − (far point).</text>
+<text x="416" y="138" font-family="DejaVu Sans" font-size="8.0" fill="#DC2626" text-anchor="middle" font-weight="bold">Diverging lens, negative power.</text>
+<rect x="286" y="162" width="260" height="108" rx="7" fill="#DBEAFE" stroke="#2563EB" stroke-width="1.2"/>
+<text x="416" y="180" font-family="DejaVu Sans" font-size="9.2" fill="#2563EB" text-anchor="middle" font-weight="bold">Long sight (hypermetropia)</text>
+<text x="416" y="198" font-family="DejaVu Sans" font-size="8.0" fill="#334155" text-anchor="middle" font-weight="normal">The image would fall behind the retina,</text>
+<text x="416" y="211" font-family="DejaVu Sans" font-size="8.0" fill="#334155" text-anchor="middle" font-weight="normal">so near objects blur and the near</text>
+<text x="416" y="224" font-family="DejaVu Sans" font-size="8.0" fill="#334155" text-anchor="middle" font-weight="normal">point is too far. Corrected with a</text>
+<text x="416" y="237" font-family="DejaVu Sans" font-size="8.0" fill="#334155" text-anchor="middle" font-weight="normal">converging lens; presbyopia is the</text>
+<text x="416" y="250" font-family="DejaVu Sans" font-size="8.0" fill="#334155" text-anchor="middle" font-weight="normal">same fault, from age.</text>
+<text x="416" y="264" font-family="DejaVu Sans" font-size="8.0" fill="#2563EB" text-anchor="middle" font-weight="bold">Near point of a normal eye: 25 cm.</text>
+</svg>

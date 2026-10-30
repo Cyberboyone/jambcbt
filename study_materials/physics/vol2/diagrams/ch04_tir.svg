@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 300" width="560" height="300">
+  <defs>
+    <marker id="ag" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#008751"/>
+    </marker>
+    <marker id="an" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#0E1F40"/>
+    </marker>
+    <marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#D97706"/>
+    </marker>
+    <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#DC2626"/>
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="560" height="300" fill="#FFFFFF"/>
+<text x="280" y="20" font-family="DejaVu Sans" font-size="10.0" fill="#0E1F40" text-anchor="middle" font-weight="bold">TOTAL INTERNAL REFLECTION — DENSE MEDIUM, BEYOND THE CRITICAL ANGLE</text>
+<rect x="14" y="96" width="532" height="130" rx="4" fill="#DBEAFE" stroke="#2563EB" stroke-width="1.2"/>
+<rect x="14" y="62" width="532" height="34" rx="4" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="1.0"/>
+<text x="40" y="84" font-family="DejaVu Sans" font-size="8.2" fill="#64748B" text-anchor="start" font-weight="normal">air</text>
+<text x="280" y="216" font-family="DejaVu Sans" font-size="8.4" fill="#2563EB" text-anchor="middle" font-weight="normal">glass — the light starts inside the dense medium</text>
+<circle cx="250.0" cy="202" r="3.2" fill="#0E1F40"/>
+<text x="242.0" y="194" font-family="DejaVu Sans" font-size="7.8" fill="#0E1F40" text-anchor="end" font-weight="normal">source</text>
+<line x1="250.0" y1="202" x2="320.35" y2="80.15022568752948" stroke="#008751" stroke-width="1.6"/><polygon points="325.0,72.1 323.4,81.9 317.3,78.4" fill="#008751"/>
+<line x1="325.0" y1="96" x2="370.513485491705" y2="66.24118256311594" stroke="#008751" stroke-width="1.2"/><polygon points="377.0,62.0 372.1,68.7 368.9,63.8" fill="#008751"/>
+<text x="383.0" y="62" font-family="DejaVu Sans" font-size="7.8" fill="#008751" text-anchor="start" font-weight="normal">i &lt; c: mostly out</text>
+<line x1="250.0" y1="202" x2="343.97529372882497" y2="102.75299659398027" stroke="#D97706" stroke-width="1.6"/><polygon points="350.4,96.0 346.5,105.1 341.4,100.4" fill="#D97706"/>
+<line x1="350.3695909538287" y1="96" x2="404.6195909538287" y2="96.0" stroke="#D97706" stroke-width="1.2"/><polygon points="412.4,96.0 404.6,98.9 404.6,93.1" fill="#D97706"/>
+<text x="416.3695909538287" y="88" font-family="DejaVu Sans" font-size="7.8" fill="#D97706" text-anchor="start" font-weight="normal">i = c: skims the surface</text>
+<line x1="250.0" y1="202" x2="371.8497743124705" y2="131.64999999999998" stroke="#DC2626" stroke-width="1.7"/><polygon points="379.9,127.0 373.6,134.7 370.1,128.6" fill="#DC2626"/>
+<text x="385.9038105676658" y="141.0" font-family="DejaVu Sans" font-size="7.8" fill="#DC2626" text-anchor="start" font-weight="normal">i &gt; c: all of it reflects</text>
+<rect x="14" y="250" width="532" height="40" rx="7" fill="#ECFDF5" stroke="#008751" stroke-width="1.2"/>
+<text x="280" y="267" font-family="DejaVu Sans" font-size="10.4" fill="#008751" text-anchor="middle" font-weight="bold">sin c = 1 / n    —    n = 1.50 gives c = 42°</text>
+<text x="280" y="283" font-family="DejaVu Sans" font-size="8.4" fill="#334155" text-anchor="middle" font-weight="normal">Fibre optics, the diamond's sparkle, the mirage and the endoscope all depend on it.</text>
+</svg>

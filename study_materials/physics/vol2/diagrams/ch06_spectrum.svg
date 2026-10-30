@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="440.146125pt" height="142.118031pt" viewBox="0 0 440.146125 142.118031" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:format>image/svg+xml</dc:format>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 142.118031 
+L 440.146125 142.118031 
+L 440.146125 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 52.673063 105.292281 
+L 100.501634 105.292281 
+L 100.501634 39.457281 
+L 52.673063 39.457281 
+z
+" clip-path="url(#p5bd20ee47a)" style="fill: #7c3aed; opacity: 0.85; stroke: #ffffff; stroke-width: 1.2; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 100.501634 105.292281 
+L 148.330205 105.292281 
+L 148.330205 39.457281 
+L 100.501634 39.457281 
+z
+" clip-path="url(#p5bd20ee47a)" style="fill: #4338ca; opacity: 0.85; stroke: #ffffff; stroke-width: 1.2; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 148.330205 105.292281 
+L 196.158777 105.292281 
+L 196.158777 39.457281 
+L 148.330205 39.457281 
+z
+" clip-path="url(#p5bd20ee47a)" style="fill: #dc2626; opacity: 0.85; stroke: #ffffff; stroke-width: 1.2; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 196.158777 105.292281 
+L 243.987348 105.292281 
+L 243.987348 39.457281 
+L 196.158777 39.457281 
+z
+" clip-path="url(#p5bd20ee47a)" style="fill: #eab308; opacity: 0.85; stroke: #ffffff; stroke-width: 1.2; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 243.987348 105.292281 
+L 291.81592 105.292281 
+L 291.81592 39.457281 
+L 243.987348 39.457281 
+z
+" clip-path="url(#p5bd20ee47a)" style="fill: #16a34a; opacity: 0.85; stroke: #ffffff; stroke-width: 1.2; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 291.81592 105.292281 
+L 339.644491 105.292281 
+L 339.644491 39.457281 
+L 291.81592 39.457281 
+z
+" clip-path="url(#p5bd20ee47a)" style="fill: #0891b2; opacity: 0.85; stroke: #ffffff; stroke-width: 1.2; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 339.644491 105.292281 
+L 387.473063 105.292281 
+L 387.473063 39.457281 
+L 339.644491 39.457281 
+z
+" clip-path="url(#p5bd20ee47a)" style="fill: #0f172a; opacity: 0.85; stroke: #ffffff; stroke-width: 1.2; stroke-linejoin: miter"/>
+   </g>
+   <g id="text_1">
+    <text style="font-weight: 700; font-size: 7.4px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #ffffff" x="76.587348" y="74.297336" transform="rotate(-0 76.587348 74.297336)">radio</text>
+   </g>
+   <g id="text_2">
+    <text style="font-size: 5.6px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #334155" x="76.587348" y="119.913969" transform="rotate(-0 76.587348 119.913969)">&gt; 0.1 m</text>
+   </g>
+   <g id="text_3">
+    <text style="font-weight: 700; font-size: 7.4px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #ffffff" x="124.41592" y="74.297336" transform="rotate(-0 124.41592 74.297336)">micro</text>
+   </g>
+   <g id="text_4">
+    <text style="font-size: 5.6px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #334155" x="124.41592" y="119.913969" transform="rotate(-0 124.41592 119.913969)">0.1 m – 1 mm</text>
+   </g>
+   <g id="text_5">
+    <text style="font-weight: 700; font-size: 7.4px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #ffffff" x="172.244491" y="74.297336" transform="rotate(-0 172.244491 74.297336)">infra</text>
+   </g>
+   <g id="text_6">
+    <text style="font-size: 5.6px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #334155" x="172.244491" y="119.913969" transform="rotate(-0 172.244491 119.913969)">1 mm – 700 nm</text>
+   </g>
+   <g id="text_7">
+    <text style="font-weight: 700; font-size: 7.4px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #ffffff" x="220.073062" y="74.297336" transform="rotate(-0 220.073062 74.297336)">visible</text>
+   </g>
+   <g id="text_8">
+    <text style="font-size: 5.6px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #334155" x="220.073062" y="119.913969" transform="rotate(-0 220.073062 119.913969)">700 – 400 nm</text>
+   </g>
+   <g id="text_9">
+    <text style="font-weight: 700; font-size: 7.4px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #ffffff" x="267.901634" y="74.297047" transform="rotate(-0 267.901634 74.297047)">UV</text>
+   </g>
+   <g id="text_10">
+    <text style="font-size: 5.6px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #334155" x="267.901634" y="119.913969" transform="rotate(-0 267.901634 119.913969)">400 – 10 nm</text>
+   </g>
+   <g id="text_11">
+    <text style="font-weight: 700; font-size: 7.4px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #ffffff" x="315.730205" y="74.297047" transform="rotate(-0 315.730205 74.297047)">X-ray</text>
+   </g>
+   <g id="text_12">
+    <text style="font-size: 5.6px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #334155" x="315.730205" y="119.913969" transform="rotate(-0 315.730205 119.913969)">10 – 0.01 nm</text>
+   </g>
+   <g id="text_13">
+    <text style="font-weight: 700; font-size: 7.4px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #ffffff" x="363.558777" y="74.297047" transform="rotate(-0 363.558777 74.297047)">gamma</text>
+   </g>
+   <g id="text_14">
+    <text style="font-size: 5.6px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #334155" x="363.558777" y="119.913969" transform="rotate(-0 363.558777 119.913969)">&lt; 0.01 nm</text>
+   </g>
+   <g id="patch_9">
+    <path d="M 54.673096 31.557081 
+Q 220.073958 31.557081 384.13318 31.557081 
+" style="fill: none; stroke: #0e1f40; stroke-width: 1.2; stroke-linecap: round"/>
+    <path d="M 380.13318 29.557081 
+L 384.13318 31.557081 
+L 380.13318 33.557081 
+" style="fill: none; stroke: #0e1f40; stroke-width: 1.2; stroke-linecap: round"/>
+   </g>
+   <g id="text_15">
+    <text style="font-size: 7px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #0e1f40" x="220.073062" y="23.656881" transform="rotate(-0 220.073062 23.656881)">increasing frequency and energy →</text>
+   </g>
+   <g id="text_16">
+    <text style="font-size: 6.4px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #64748b" x="54.10792" y="25.319631" transform="rotate(-0 54.10792 25.319631)">long wavelength</text>
+   </g>
+   <g id="text_17">
+    <text style="font-weight: 700; font-size: 8.4px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #0e1f40" x="220.073062" y="13.582031" transform="rotate(-0 220.073062 13.582031)">THE ELECTROMAGNETIC SPECTRUM — ALL OF IT TRAVELS AT 3.0 × 10⁸ m s⁻¹ IN A VACUUM</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p5bd20ee47a">
+   <rect x="52.673063" y="29.582031" width="334.8" height="105.336"/>
+  </clipPath>
+ </defs>
+</svg>

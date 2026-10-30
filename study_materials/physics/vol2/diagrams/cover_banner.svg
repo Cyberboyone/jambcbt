@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 148" width="760" height="148">
+  <defs>
+    <marker id="ag" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#008751"/>
+    </marker>
+    <marker id="an" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#0E1F40"/>
+    </marker>
+    <marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#D97706"/>
+    </marker>
+    <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#DC2626"/>
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="760" height="148" fill="#0B2036"/>
+<rect x="0" y="0" width="760" height="148" rx="10" fill="#0B2036" stroke="#0B2036" stroke-width="1.0"/>
+<text x="380" y="34" font-family="DejaVu Sans" font-size="17" fill="#FFFFFF" text-anchor="middle" font-weight="bold">WAVES · SOUND · LIGHT</text>
+<line x1="120" y1="46" x2="640" y2="46" stroke="#34D399" stroke-width="1.2"/>
+<rect x="40" y="66" width="220" height="28" rx="6" fill="#12314F" stroke="#34D399" stroke-width="1.0"/>
+<text x="150" y="84" font-family="DejaVu Sans" font-size="9.2" fill="#E2E8F0" text-anchor="middle" font-weight="normal">Wave equation</text>
+<rect x="280" y="66" width="220" height="28" rx="6" fill="#12314F" stroke="#34D399" stroke-width="1.0"/>
+<text x="390" y="84" font-family="DejaVu Sans" font-size="9.2" fill="#E2E8F0" text-anchor="middle" font-weight="normal">Sound and resonance</text>
+<rect x="520" y="66" width="220" height="28" rx="6" fill="#12314F" stroke="#34D399" stroke-width="1.0"/>
+<text x="630" y="84" font-family="DejaVu Sans" font-size="9.2" fill="#E2E8F0" text-anchor="middle" font-weight="normal">Mirrors</text>
+<rect x="40" y="104" width="220" height="28" rx="6" fill="#12314F" stroke="#34D399" stroke-width="1.0"/>
+<text x="150" y="122" font-family="DejaVu Sans" font-size="9.2" fill="#E2E8F0" text-anchor="middle" font-weight="normal">Refraction and TIR</text>
+<rect x="280" y="104" width="220" height="28" rx="6" fill="#12314F" stroke="#34D399" stroke-width="1.0"/>
+<text x="390" y="122" font-family="DejaVu Sans" font-size="9.2" fill="#E2E8F0" text-anchor="middle" font-weight="normal">Lenses and the eye</text>
+<rect x="520" y="104" width="220" height="28" rx="6" fill="#12314F" stroke="#34D399" stroke-width="1.0"/>
+<text x="630" y="122" font-family="DejaVu Sans" font-size="9.2" fill="#E2E8F0" text-anchor="middle" font-weight="normal">Colour and the spectrum</text>
+</svg>

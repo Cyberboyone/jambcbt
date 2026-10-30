@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 268" width="560" height="268">
+  <defs>
+    <marker id="ag" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#008751"/>
+    </marker>
+    <marker id="an" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#0E1F40"/>
+    </marker>
+    <marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#D97706"/>
+    </marker>
+    <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#DC2626"/>
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="560" height="268" fill="#FFFFFF"/>
+<text x="280" y="20" font-family="DejaVu Sans" font-size="10.6" fill="#0E1F40" text-anchor="middle" font-weight="bold">TWO LENSES, TWO PURPOSES</text>
+<rect x="20" y="32" width="248" height="200" rx="7" fill="#FFFFFF" stroke="#008751" stroke-width="1.3"/>
+<text x="144" y="50" font-family="DejaVu Sans" font-size="9.2" fill="#008751" text-anchor="middle" font-weight="bold">Compound microscope</text>
+<line x1="34" y1="104" x2="254" y2="104" stroke="#64748B" stroke-width="1.0" stroke-dasharray="4 3"/>
+<path d="M 109 74 Q 129.3 104 109 134 Q 102.7 104 109 74 Z" fill="#DBEAFE" stroke="#008751" stroke-width="2.0"/>
+<path d="M 199 84 Q 213.5 104 199 124 Q 194.5 104 199 84 Z" fill="#DBEAFE" stroke="#008751" stroke-width="2.0"/>
+<text x="116" y="150" font-family="DejaVu Sans" font-size="7.4" fill="#64748B" text-anchor="middle" font-weight="normal">objective</text>
+<text x="204" y="140" font-family="DejaVu Sans" font-size="7.4" fill="#64748B" text-anchor="middle" font-weight="normal">eyepiece</text>
+<line x1="36" y1="124" x2="102.46957607549491" y2="107.83172473839313" stroke="#008751" stroke-width="1.1"/><polygon points="110.0,106.0 103.2,110.6 101.8,105.0" fill="#008751"/>
+<line x1="122" y1="102" x2="190.27403934793563" y2="96.60994426200509" stroke="#008751" stroke-width="1.1"/><polygon points="198.0,96.0 190.5,99.5 190.0,93.7" fill="#008751"/>
+<line x1="210" y1="96" x2="244.87662601736005" y2="81.05287456398855" stroke="#008751" stroke-width="1.1"/><polygon points="252.0,78.0 246.0,83.7 243.7,78.4" fill="#008751"/>
+<text x="144" y="172" font-family="DejaVu Sans" font-size="10.4" fill="#008751" text-anchor="middle" font-weight="bold">M = m₀ × m_e</text>
+<text x="144" y="194" font-family="DejaVu Sans" font-size="7.0" fill="#64748B" text-anchor="middle" font-weight="normal">the objective makes a magnified real image; the eyepiece then</text>
+<text x="144" y="206" font-family="DejaVu Sans" font-size="7.0" fill="#64748B" text-anchor="middle" font-weight="normal">magnifies it again, so the final image is virtual and very large</text>
+<rect x="292" y="32" width="248" height="200" rx="7" fill="#FFFFFF" stroke="#2563EB" stroke-width="1.3"/>
+<text x="416" y="50" font-family="DejaVu Sans" font-size="9.2" fill="#2563EB" text-anchor="middle" font-weight="bold">Astronomical telescope</text>
+<line x1="306" y1="104" x2="526" y2="104" stroke="#64748B" stroke-width="1.0" stroke-dasharray="4 3"/>
+<path d="M 363 66 Q 389.1 104 363 142 Q 354.9 104 363 66 Z" fill="#DBEAFE" stroke="#2563EB" stroke-width="2.0"/>
+<path d="M 466 87 Q 477.6 104 466 121 Q 462.4 104 466 87 Z" fill="#DBEAFE" stroke="#2563EB" stroke-width="2.0"/>
+<text x="372" y="158" font-family="DejaVu Sans" font-size="7.4" fill="#64748B" text-anchor="middle" font-weight="normal">objective, long focus</text>
+<text x="470" y="137" font-family="DejaVu Sans" font-size="7.4" fill="#64748B" text-anchor="middle" font-weight="normal">eyepiece, short focus</text>
+<line x1="308" y1="128" x2="358.75376917103716" y2="108.74857031443418" stroke="#2563EB" stroke-width="1.1"/><polygon points="366.0,106.0 359.8,111.5 357.7,106.0" fill="#2563EB"/>
+<line x1="378" y1="102" x2="456.258369332895" y2="98.36007584498162" stroke="#2563EB" stroke-width="1.1"/><polygon points="464.0,98.0 456.4,101.3 456.1,95.5" fill="#2563EB"/>
+<line x1="476" y1="99" x2="516.4458245314058" y2="89.73116521155282" stroke="#2563EB" stroke-width="1.1"/><polygon points="524.0,88.0 517.1,92.6 515.8,86.9" fill="#2563EB"/>
+<text x="416" y="172" font-family="DejaVu Sans" font-size="10.4" fill="#2563EB" text-anchor="middle" font-weight="bold">M = f₀ / f_e</text>
+<text x="416" y="194" font-family="DejaVu Sans" font-size="7.0" fill="#64748B" text-anchor="middle" font-weight="normal">the objective makes a small real image of a distant object; the</text>
+<text x="416" y="206" font-family="DejaVu Sans" font-size="7.0" fill="#64748B" text-anchor="middle" font-weight="normal">eyepiece enlarges it, so a long f₀ and a short f_e magnify most</text>
+<rect x="14" y="240" width="532" height="20" rx="6" fill="#F8FAFC" stroke="#CBD5E1" stroke-width="1.0"/>
+<text x="280" y="254" font-family="DejaVu Sans" font-size="8.2" fill="#334155" text-anchor="middle" font-weight="normal">Both use a real image from the objective and a virtual image from the eyepiece; the camera forms only the first.</text>
+</svg>

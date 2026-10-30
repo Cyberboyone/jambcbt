@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 300" width="560" height="300">
+  <defs>
+    <marker id="ag" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#008751"/>
+    </marker>
+    <marker id="an" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#0E1F40"/>
+    </marker>
+    <marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#D97706"/>
+    </marker>
+    <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#DC2626"/>
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="560" height="300" fill="#FFFFFF"/>
+<text x="280" y="20" font-family="DejaVu Sans" font-size="10.6" fill="#0E1F40" text-anchor="middle" font-weight="bold">A CONVEX LENS: THREE RAYS, ONE IMAGE</text>
+<line x1="30" y1="132" x2="530" y2="132" stroke="#64748B" stroke-width="1.0" stroke-dasharray="4 3"/>
+<path d="M 257 58 Q 288.9 132 257 206 Q 247.1 132 257 58 Z" fill="#DBEAFE" stroke="#2563EB" stroke-width="2.0"/>
+<circle cx="198" cy="132" r="2.8" fill="#0E1F40"/>
+<text x="198" y="148" font-family="DejaVu Sans" font-size="8.6" fill="#0E1F40" text-anchor="middle" font-weight="bold">F₁</text>
+<circle cx="338" cy="132" r="2.8" fill="#0E1F40"/>
+<text x="338" y="148" font-family="DejaVu Sans" font-size="8.6" fill="#0E1F40" text-anchor="middle" font-weight="bold">F₂</text>
+<line x1="148" y1="132" x2="148.0" y2="86.4" stroke="#008751" stroke-width="2.4"/><polygon points="148.0,74.0 152.6,86.4 143.4,86.4" fill="#008751"/>
+<text x="146" y="66" font-family="DejaVu Sans" font-size="8.2" fill="#008751" text-anchor="middle" font-weight="normal">object</text>
+<line x1="148" y1="74" x2="258.7" y2="74.0" stroke="#008751" stroke-width="1.2"/><polygon points="268.0,74.0 258.7,77.5 258.7,70.5" fill="#008751"/>
+<line x1="268" y1="74" x2="428.83879948357827" y2="207.266433857822" stroke="#008751" stroke-width="1.2"/><polygon points="436.0,213.2 426.6,209.9 431.1,204.6" fill="#008751"/>
+<line x1="148" y1="74" x2="429.02229561547495" y2="209.82744288081287" stroke="#D97706" stroke-width="1.1"/><polygon points="436.0,213.2 427.8,212.4 430.3,207.2" fill="#D97706"/>
+<line x1="148" y1="74" x2="261.84542560077955" y2="161.1233743139299" stroke="#7C3AED" stroke-width="1.1"/><polygon points="268.0,165.8 260.1,163.4 263.6,158.8" fill="#7C3AED"/>
+<line x1="268" y1="165.83333333333334" x2="512.25" y2="165.83333333333334" stroke="#7C3AED" stroke-width="1.1"/><polygon points="520.0,165.8 512.2,168.7 512.2,162.9" fill="#7C3AED"/>
+<line x1="436.0" y1="132" x2="436.0" y2="200.79999999999998" stroke="#DC2626" stroke-width="2.2"/><polygon points="436.0,213.2 431.4,200.8 440.6,200.8" fill="#DC2626"/>
+<text x="424.0" y="229.2" font-family="DejaVu Sans" font-size="7.6" fill="#DC2626" text-anchor="end" font-weight="normal">real, inverted image</text>
+<text x="208.0" y="124" font-family="DejaVu Sans" font-size="9" fill="#334155" text-anchor="middle" font-weight="bold">u</text>
+<text x="352.0" y="124" font-family="DejaVu Sans" font-size="9" fill="#334155" text-anchor="middle" font-weight="bold">v</text>
+<rect x="14" y="238" width="532" height="50" rx="7" fill="#ECFDF5" stroke="#008751" stroke-width="1.2"/>
+<text x="280" y="256" font-family="DejaVu Sans" font-size="8.8" fill="#008751" text-anchor="middle" font-weight="bold">Parallel to the axis → through F₂.   Through the centre → straight on.   Through F₁ → parallel.</text>
+<text x="280" y="272" font-family="DejaVu Sans" font-size="8.2" fill="#334155" text-anchor="middle" font-weight="normal">Object beyond 2F: real, inverted, diminished. Between F and 2F: real, enlarged.</text>
+<text x="280" y="284" font-family="DejaVu Sans" font-size="8.2" fill="#334155" text-anchor="middle" font-weight="normal">Inside F: virtual, upright, magnified — a magnifying glass.</text>
+</svg>
