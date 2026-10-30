@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 316" width="560" height="316">
+  <defs>
+    <marker id="ag" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#008751"/>
+    </marker>
+    <marker id="an" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#0E1F40"/>
+    </marker>
+    <marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#D97706"/>
+    </marker>
+    <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#DC2626"/>
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="560" height="316" fill="#FFFFFF"/>
+<text x="280" y="22" font-family="DejaVu Sans" font-size="11.0" fill="#0E1F40" text-anchor="middle" font-weight="bold">TWO WAYS TO BUILD A POLYMER</text>
+<rect x="6" y="40" width="268" height="250" rx="8" fill="#FFFFFF" stroke="#008751" stroke-width="1.4"/>
+<text x="140" y="60" font-family="DejaVu Sans" font-size="9.4" fill="#008751" text-anchor="middle" font-weight="bold">ADDITION</text>
+<text x="140" y="76" font-family="DejaVu Sans" font-size="7.6" fill="#64748B" text-anchor="middle" font-weight="normal">one monomer, nothing lost</text>
+<text x="140" y="104" font-family="DejaVu Sans" font-size="9.4" fill="#0E1F40" text-anchor="middle" font-weight="normal">n CH₂=CH₂</text>
+<text x="140" y="122" font-family="DejaVu Sans" font-size="9.4" fill="#008751" text-anchor="middle" font-weight="bold">→ [CH₂—CH₂]ₙ</text>
+<text x="140" y="148" font-family="DejaVu Sans" font-size="7.6" fill="#334155" text-anchor="middle" font-weight="normal">poly(ethene), PVC, polypropene,</text>
+<text x="140" y="162" font-family="DejaVu Sans" font-size="7.6" fill="#334155" text-anchor="middle" font-weight="normal">polystyrene, PTFE</text>
+<rect x="18" y="180" width="244" height="100" rx="5" fill="#ECFDF5" stroke="#008751" stroke-width="0.9"/>
+<text x="140" y="198" font-family="DejaVu Sans" font-size="7.6" fill="#0E1F40" text-anchor="middle" font-weight="normal">Monomer must be unsaturated.</text>
+<text x="140" y="216" font-family="DejaVu Sans" font-size="7.6" fill="#0E1F40" text-anchor="middle" font-weight="normal">The empirical formula does not change.</text>
+<text x="140" y="234" font-family="DejaVu Sans" font-size="7.6" fill="#0E1F40" text-anchor="middle" font-weight="normal">Thermoplastic: softens on heating.</text>
+<text x="140" y="252" font-family="DejaVu Sans" font-size="7.6" fill="#0E1F40" text-anchor="middle" font-weight="normal">No small molecule is eliminated.</text>
+<text x="140" y="270" font-family="DejaVu Sans" font-size="7.6" fill="#0E1F40" text-anchor="middle" font-weight="normal">Molecular mass ≈ n × monomer mass.</text>
+<rect x="286" y="40" width="268" height="250" rx="8" fill="#FFFFFF" stroke="#7C3AED" stroke-width="1.4"/>
+<text x="420" y="60" font-family="DejaVu Sans" font-size="9.4" fill="#7C3AED" text-anchor="middle" font-weight="bold">CONDENSATION</text>
+<text x="420" y="76" font-family="DejaVu Sans" font-size="7.6" fill="#64748B" text-anchor="middle" font-weight="normal">two monomers, water lost</text>
+<text x="420" y="104" font-family="DejaVu Sans" font-size="7.6" fill="#0E1F40" text-anchor="middle" font-weight="normal">n H₂N–R–NH₂ + n HOOC–R'–COOH</text>
+<text x="420" y="122" font-family="DejaVu Sans" font-size="7.6" fill="#7C3AED" text-anchor="middle" font-weight="bold">→ [–NH–R–NHCO–R'–CO–]ₙ + 2n H₂O</text>
+<text x="420" y="148" font-family="DejaVu Sans" font-size="7.6" fill="#334155" text-anchor="middle" font-weight="normal">nylon, terylene (PET), proteins</text>
+<text x="420" y="162" font-family="DejaVu Sans" font-size="7.6" fill="#334155" text-anchor="middle" font-weight="normal">and starch are all condensation</text>
+<rect x="298" y="180" width="244" height="100" rx="5" fill="#EDE9FE" stroke="#7C3AED" stroke-width="0.9"/>
+<text x="420" y="198" font-family="DejaVu Sans" font-size="7.6" fill="#0E1F40" text-anchor="middle" font-weight="normal">Each monomer needs two groups.</text>
+<text x="420" y="216" font-family="DejaVu Sans" font-size="7.6" fill="#0E1F40" text-anchor="middle" font-weight="normal">A small molecule (water, HCl) is lost</text>
+<text x="420" y="230" font-family="DejaVu Sans" font-size="7.6" fill="#0E1F40" text-anchor="middle" font-weight="normal">at every link.</text>
+<text x="420" y="250" font-family="DejaVu Sans" font-size="7.6" fill="#0E1F40" text-anchor="middle" font-weight="normal">Often thermosetting: it does not</text>
+<text x="420" y="264" font-family="DejaVu Sans" font-size="7.6" fill="#0E1F40" text-anchor="middle" font-weight="normal">soften again on heating.</text>
+</svg>

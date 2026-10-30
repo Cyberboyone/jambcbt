@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 250" width="560" height="250">
+  <defs>
+    <marker id="ag" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#008751"/>
+    </marker>
+    <marker id="an" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#0E1F40"/>
+    </marker>
+    <marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#D97706"/>
+    </marker>
+    <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#DC2626"/>
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="560" height="250" fill="#FFFFFF"/>
+<text x="280" y="22" font-family="DejaVu Sans" font-size="10.1" fill="#0E1F40" text-anchor="middle" font-weight="bold">THE BROMINE WATER TEST — AN ALKENE DECOLOURISES IT, AN ALKANE DOES NOT</text>
+<rect x="70" y="52" width="92" height="150" rx="10" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="1.4"/>
+<path d="M 74 150 L 74 198 Q 74 210 86 210 L 146 210 Q 158 210 158 198 L 158 150 Z" fill="#D97706" opacity="0.72"/>
+<text x="116" y="236" font-family="DejaVu Sans" font-size="8.2" fill="#0E1F40" text-anchor="middle" font-weight="bold">hexane + bromine water</text>
+<text x="116" y="250" font-family="DejaVu Sans" font-size="7.6" fill="#64748B" text-anchor="middle" font-weight="normal">stays orange — no reaction</text>
+<rect x="330" y="52" width="92" height="150" rx="10" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="1.4"/>
+<path d="M 334 150 L 334 198 Q 334 210 346 210 L 406 210 Q 418 210 418 198 L 418 150 Z" fill="#E2E8F0"/>
+<text x="376" y="236" font-family="DejaVu Sans" font-size="8.2" fill="#0E1F40" text-anchor="middle" font-weight="bold">hexene + bromine water</text>
+<text x="376" y="250" font-family="DejaVu Sans" font-size="7.6" fill="#64748B" text-anchor="middle" font-weight="normal">decolourised — addition</text>
+<text x="203" y="128" font-family="DejaVu Sans" font-size="10" fill="#DC2626" text-anchor="middle" font-weight="bold">no</text>
+<text x="203" y="146" font-family="DejaVu Sans" font-size="8.4" fill="#DC2626" text-anchor="middle" font-weight="normal">reaction</text>
+<text x="280" y="96" font-family="DejaVu Sans" font-size="11" fill="#64748B" text-anchor="middle" font-weight="bold">vs</text>
+<text x="452" y="120" font-family="DejaVu Sans" font-size="8.6" fill="#008751" text-anchor="middle" font-weight="bold">CH₂=CH₂</text>
+<text x="452" y="136" font-family="DejaVu Sans" font-size="8.6" fill="#008751" text-anchor="middle" font-weight="normal">+ Br₂</text>
+<text x="452" y="152" font-family="DejaVu Sans" font-size="9" fill="#008751" text-anchor="middle" font-weight="normal">→</text>
+<text x="452" y="168" font-family="DejaVu Sans" font-size="8.2" fill="#008751" text-anchor="middle" font-weight="bold">CH₂BrCH₂Br</text>
+<line x1="430" y1="152" x2="454.25" y2="152.0" stroke="#008751" stroke-width="1.3"/><polygon points="462.0,152.0 454.2,154.9 454.2,149.1" fill="#008751"/>
+</svg>

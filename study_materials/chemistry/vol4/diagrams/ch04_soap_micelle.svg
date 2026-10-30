@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 338" width="560" height="338">
+  <defs>
+    <marker id="ag" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#008751"/>
+    </marker>
+    <marker id="an" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#0E1F40"/>
+    </marker>
+    <marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#D97706"/>
+    </marker>
+    <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#DC2626"/>
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="560" height="338" fill="#FFFFFF"/>
+<text x="280" y="22" font-family="DejaVu Sans" font-size="9.7" fill="#0E1F40" text-anchor="middle" font-weight="bold">HOW SOAP WORKS — A LONG TAIL THAT LOVES OIL AND A HEAD THAT LOVES WATER</text>
+<rect x="12" y="40" width="536" height="62" rx="6" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="1.0"/>
+<circle cx="60" cy="71" r="15" fill="#008751"/>
+<text x="60" y="75" font-family="DejaVu Sans" font-size="7.2" fill="#FFFFFF" text-anchor="middle" font-weight="bold">Na⁺</text>
+<line x1="76" y1="71" x2="130" y2="71" stroke="#334155" stroke-width="2.2"/>
+<text x="150" y="66" font-family="DejaVu Sans" font-size="7.4" fill="#008751" text-anchor="start" font-weight="normal">the ionic head — hydrophilic</text>
+<text x="150" y="82" font-family="DejaVu Sans" font-size="7.4" fill="#64748B" text-anchor="start" font-weight="normal">the hydrocarbon tail, C₁₇H₃₅ — hydrophobic</text>
+<circle cx="170" cy="196" r="62" fill="#D97706" opacity="0.22" stroke="#D97706" stroke-width="1.2"/>
+<text x="170" y="200" font-family="DejaVu Sans" font-size="8.4" fill="#D97706" text-anchor="middle" font-weight="bold">grease</text>
+<line x1="234.0" y1="196.0" x2="262.0" y2="196.0" stroke="#334155" stroke-width="1.8"/>
+<circle cx="268.0" cy="196.0" r="5.5" fill="#008751"/>
+<line x1="215.25483399593904" y1="241.25483399593904" x2="235.0538238691624" y2="261.0538238691624" stroke="#334155" stroke-width="1.8"/>
+<circle cx="239.29646455628168" cy="265.29646455628165" r="5.5" fill="#008751"/>
+<line x1="170.0" y1="260.0" x2="170.0" y2="288.0" stroke="#334155" stroke-width="1.8"/>
+<circle cx="170.0" cy="294.0" r="5.5" fill="#008751"/>
+<line x1="124.74516600406096" y1="241.25483399593904" x2="104.94617613083763" y2="261.0538238691624" stroke="#334155" stroke-width="1.8"/>
+<circle cx="100.70353544371834" cy="265.29646455628165" r="5.5" fill="#008751"/>
+<line x1="106.0" y1="196.0" x2="78.0" y2="196.0" stroke="#334155" stroke-width="1.8"/>
+<circle cx="72.0" cy="196.0" r="5.5" fill="#008751"/>
+<line x1="124.74516600406095" y1="150.74516600406096" x2="104.94617613083761" y2="130.9461761308376" stroke="#334155" stroke-width="1.8"/>
+<circle cx="100.70353544371832" cy="126.70353544371832" r="5.5" fill="#008751"/>
+<line x1="170.0" y1="132.0" x2="169.99999999999997" y2="104.0" stroke="#334155" stroke-width="1.8"/>
+<circle cx="169.99999999999997" cy="98.0" r="5.5" fill="#008751"/>
+<line x1="215.25483399593904" y1="150.74516600406093" x2="235.05382386916236" y2="130.9461761308376" stroke="#334155" stroke-width="1.8"/>
+<circle cx="239.29646455628165" cy="126.70353544371832" r="5.5" fill="#008751"/>
+<text x="170" y="326" font-family="DejaVu Sans" font-size="7.6" fill="#64748B" text-anchor="middle" font-weight="normal">tails in the grease, heads in the water</text>
+<rect x="292" y="130" width="258" height="132" rx="7" fill="#ECFDF5" stroke="#008751" stroke-width="1.2"/>
+<text x="421" y="150" font-family="DejaVu Sans" font-size="8.8" fill="#008751" text-anchor="middle" font-weight="bold">Why the grease lifts</text>
+<text x="302" y="170" font-family="DejaVu Sans" font-size="7.4" fill="#0E1F40" text-anchor="start" font-weight="normal">1 · The tails dissolve in the grease and the heads</text>
+<text x="302" y="184" font-family="DejaVu Sans" font-size="7.4" fill="#0E1F40" text-anchor="start" font-weight="normal">     stay in the water, so the drop is surrounded.</text>
+<text x="302" y="204" font-family="DejaVu Sans" font-size="7.4" fill="#0E1F40" text-anchor="start" font-weight="normal">2 · The micelle carries a negative surface charge,</text>
+<text x="302" y="218" font-family="DejaVu Sans" font-size="7.4" fill="#0E1F40" text-anchor="start" font-weight="normal">     so the drops repel and cannot join again.</text>
+<text x="302" y="238" font-family="DejaVu Sans" font-size="7.4" fill="#0E1F40" text-anchor="start" font-weight="normal">3 · Agitation lifts the micelles into the water and</text>
+<text x="302" y="252" font-family="DejaVu Sans" font-size="7.4" fill="#0E1F40" text-anchor="start" font-weight="normal">     the rinse carries them away.</text>
+</svg>

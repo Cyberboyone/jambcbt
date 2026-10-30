@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 280" width="560" height="280">
+  <defs>
+    <marker id="ag" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#008751"/>
+    </marker>
+    <marker id="an" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#0E1F40"/>
+    </marker>
+    <marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#D97706"/>
+    </marker>
+    <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#DC2626"/>
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="560" height="280" fill="#FFFFFF"/>
+<text x="280" y="22" font-family="DejaVu Sans" font-size="10.8" fill="#0E1F40" text-anchor="middle" font-weight="bold">FERMENTATION — GLUCOSE TO ETHANOL WITH YEAST</text>
+<text x="280" y="40" font-family="DejaVu Sans" font-size="8.4" fill="#64748B" text-anchor="middle" font-weight="normal">C₆H₁₂O₆ → 2C₂H₅OH + 2CO₂ · yeast enzymes · 25–35 °C · no air</text>
+<path d="M 150 96 L 150 132 Q 150 148 136 156 L 104 176 Q 84 188 84 208 L 84 232 Q 84 246 98 246 L 202 246 Q 216 246 216 232 L 216 208 Q 216 188 196 176 L 164 156 Q 150 148 150 132 L 150 96" fill="#FFFFFF" stroke="#334155" stroke-width="1.6" stroke-linecap="round"/>
+<path d="M 90 190 L 90 232 Q 90 240 100 240 L 200 240 Q 210 240 210 232 L 210 190 Z" fill="#D97706" opacity="0.28"/>
+<text x="150" y="224" font-family="DejaVu Sans" font-size="8.2" fill="#0E1F40" text-anchor="middle" font-weight="normal">glucose + yeast</text>
+<text x="150" y="262" font-family="DejaVu Sans" font-size="7.6" fill="#64748B" text-anchor="middle" font-weight="normal">the flask is kept warm and closed</text>
+<rect x="132" y="82" width="36" height="18" rx="3" fill="#E2E8F0" stroke="#334155" stroke-width="1.2"/>
+<path d="M 150 82 L 150 60 L 300 60" fill="none" stroke="#334155" stroke-width="1.8" stroke-linecap="round"/>
+<path d="M 300 60 L 300 210" fill="none" stroke="#334155" stroke-width="1.8" stroke-linecap="round"/>
+<rect x="278" y="200" width="44" height="74" rx="8" fill="#FFFFFF" stroke="#334155" stroke-width="1.4"/>
+<path d="M 282 226 L 282 268 Q 282 272 288 272 L 312 272 Q 318 272 318 268 L 318 226 Z" fill="#F1F5F9"/>
+<text x="300" y="292" font-family="DejaVu Sans" font-size="7.6" fill="#64748B" text-anchor="middle" font-weight="normal">limewater</text>
+<rect x="340" y="84" width="208" height="108" rx="7" fill="#ECFDF5" stroke="#008751" stroke-width="1.2"/>
+<text x="444" y="104" font-family="DejaVu Sans" font-size="8.6" fill="#008751" text-anchor="middle" font-weight="bold">What the limewater proves</text>
+<text x="444" y="122" font-family="DejaVu Sans" font-size="7.8" fill="#0E1F40" text-anchor="middle" font-weight="normal">CO₂ turns it milky:</text>
+<text x="444" y="138" font-family="DejaVu Sans" font-size="7.6" fill="#0E1F40" text-anchor="middle" font-weight="normal">Ca(OH)₂ + CO₂ → CaCO₃ + H₂O</text>
+<text x="444" y="158" font-family="DejaVu Sans" font-size="7.8" fill="#0E1F40" text-anchor="middle" font-weight="normal">Excess CO₂ clears it again:</text>
+<text x="444" y="174" font-family="DejaVu Sans" font-size="7.6" fill="#0E1F40" text-anchor="middle" font-weight="normal">CaCO₃ + H₂O + CO₂ → Ca(HCO₃)₂</text>
+<rect x="340" y="202" width="208" height="70" rx="7" fill="#FFFBEB" stroke="#D97706" stroke-width="1.2"/>
+<text x="444" y="220" font-family="DejaVu Sans" font-size="8.4" fill="#D97706" text-anchor="middle" font-weight="bold">Why the flask must be closed</text>
+<text x="444" y="236" font-family="DejaVu Sans" font-size="7.6" fill="#0E1F40" text-anchor="middle" font-weight="normal">air oxidises the ethanol to ethanoic acid,</text>
+<text x="444" y="250" font-family="DejaVu Sans" font-size="7.6" fill="#0E1F40" text-anchor="middle" font-weight="normal">and the alcohol is lost as vapour.</text>
+<text x="444" y="264" font-family="DejaVu Sans" font-size="7.4" fill="#64748B" text-anchor="middle" font-weight="normal">The bung keeps both the air and the vapour in.</text>
+</svg>

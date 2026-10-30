@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 300" width="560" height="300">
+  <defs>
+    <marker id="ag" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#008751"/>
+    </marker>
+    <marker id="an" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#0E1F40"/>
+    </marker>
+    <marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#D97706"/>
+    </marker>
+    <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#DC2626"/>
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="560" height="300" fill="#FFFFFF"/>
+<text x="280" y="22" font-family="DejaVu Sans" font-size="10.6" fill="#0E1F40" text-anchor="middle" font-weight="bold">ETHANOL — FIVE REACTIONS THE EXAMINER ASKS FOR</text>
+<rect x="214" y="130" width="132" height="60" rx="9" fill="#FFFFFF" stroke="#0E1F40" stroke-width="1.7"/>
+<text x="280" y="158" font-family="DejaVu Sans" font-size="12.6" fill="#0E1F40" text-anchor="middle" font-weight="bold">C₂H₅OH</text>
+<text x="280" y="176" font-family="DejaVu Sans" font-size="7.8" fill="#64748B" text-anchor="middle" font-weight="normal">ethanol</text>
+<rect x="6" y="58" width="170" height="52" rx="6" fill="#FFFFFF" stroke="#008751" stroke-width="1.2"/>
+<text x="91" y="76" font-family="DejaVu Sans" font-size="7.4" fill="#008751" text-anchor="middle" font-weight="bold">with sodium</text>
+<text x="91" y="93" font-family="DejaVu Sans" font-size="7.0" fill="#334155" text-anchor="middle" font-weight="normal">2C₂H₅OH + 2Na → 2C₂H₅ONa + H₂</text>
+<line x1="180" y1="84" x2="206.86990529137518" y2="152.07042673815047" stroke="#008751" stroke-width="1.4"/><polygon points="210.0,160.0 203.9,153.2 209.8,150.9" fill="#008751"/>
+<rect x="6" y="134" width="170" height="52" rx="6" fill="#FFFFFF" stroke="#D97706" stroke-width="1.2"/>
+<text x="91" y="152" font-family="DejaVu Sans" font-size="7.4" fill="#D97706" text-anchor="middle" font-weight="bold">with acidified dichromate</text>
+<text x="91" y="169" font-family="DejaVu Sans" font-size="7.0" fill="#334155" text-anchor="middle" font-weight="normal">CH₃CHO, then CH₃COOH</text>
+<line x1="180" y1="160" x2="201.475" y2="160.0" stroke="#D97706" stroke-width="1.4"/><polygon points="210.0,160.0 201.5,163.2 201.5,156.8" fill="#D97706"/>
+<rect x="6" y="210" width="170" height="52" rx="6" fill="#FFFFFF" stroke="#2563EB" stroke-width="1.2"/>
+<text x="91" y="228" font-family="DejaVu Sans" font-size="7.4" fill="#2563EB" text-anchor="middle" font-weight="bold">dehydration, Al₂O₃, 300 °C</text>
+<text x="91" y="245" font-family="DejaVu Sans" font-size="7.0" fill="#334155" text-anchor="middle" font-weight="normal">C₂H₄ + H₂O</text>
+<line x1="180" y1="236" x2="206.86990529137518" y2="167.92957326184953" stroke="#2563EB" stroke-width="1.4"/><polygon points="210.0,160.0 209.8,169.1 203.9,166.8" fill="#2563EB"/>
+<rect x="384" y="58" width="170" height="52" rx="6" fill="#FFFFFF" stroke="#7C3AED" stroke-width="1.2"/>
+<text x="469" y="76" font-family="DejaVu Sans" font-size="7.4" fill="#7C3AED" text-anchor="middle" font-weight="bold">with ethanoic acid, H₂SO₄</text>
+<text x="469" y="93" font-family="DejaVu Sans" font-size="7.0" fill="#334155" text-anchor="middle" font-weight="normal">CH₃COOC₂H₅ + H₂O</text>
+<line x1="380" y1="84" x2="353.1300947086248" y2="152.07042673815047" stroke="#7C3AED" stroke-width="1.4"/><polygon points="350.0,160.0 350.2,150.9 356.1,153.2" fill="#7C3AED"/>
+<rect x="384" y="134" width="170" height="52" rx="6" fill="#FFFFFF" stroke="#DC2626" stroke-width="1.2"/>
+<text x="469" y="152" font-family="DejaVu Sans" font-size="7.4" fill="#DC2626" text-anchor="middle" font-weight="bold">burning in air</text>
+<text x="469" y="169" font-family="DejaVu Sans" font-size="7.0" fill="#334155" text-anchor="middle" font-weight="normal">2CO₂ + 3H₂O</text>
+<line x1="380" y1="160" x2="358.525" y2="160.0" stroke="#DC2626" stroke-width="1.4"/><polygon points="350.0,160.0 358.5,156.8 358.5,163.2" fill="#DC2626"/>
+<rect x="384" y="210" width="170" height="52" rx="6" fill="#FFFFFF" stroke="#334155" stroke-width="1.2"/>
+<text x="469" y="228" font-family="DejaVu Sans" font-size="7.4" fill="#334155" text-anchor="middle" font-weight="bold">with phosphorus(V) chloride</text>
+<text x="469" y="245" font-family="DejaVu Sans" font-size="7.0" fill="#334155" text-anchor="middle" font-weight="normal">C₂H₅Cl + POCl₃ + HCl</text>
+<line x1="380" y1="236" x2="353.1300947086248" y2="167.92957326184953" stroke="#334155" stroke-width="1.4"/><polygon points="350.0,160.0 356.1,166.8 350.2,169.1" fill="#334155"/>
+<text x="280" y="288" font-family="DejaVu Sans" font-size="8.0" fill="#64748B" text-anchor="middle" font-weight="normal">The first three show the O–H bond breaking; the last three show the whole molecule reacting.</text>
+</svg>

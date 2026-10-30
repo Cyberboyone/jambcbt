@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 226" width="560" height="226">
+  <defs>
+    <marker id="ag" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#008751"/>
+    </marker>
+    <marker id="an" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#0E1F40"/>
+    </marker>
+    <marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#D97706"/>
+    </marker>
+    <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#DC2626"/>
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="560" height="226" fill="#FFFFFF"/>
+<text x="280" y="22" font-family="DejaVu Sans" font-size="10.4" fill="#0E1F40" text-anchor="middle" font-weight="bold">RECRYSTALLISATION — THE STANDARD WAY TO PURIFY A SOLID</text>
+<rect x="8" y="46" width="128" height="84" rx="7" fill="#FFFFFF" stroke="#008751" stroke-width="1.3"/>
+<rect x="8" y="46" width="128" height="5" rx="2.5" fill="#008751"/>
+<text x="72" y="74" font-family="DejaVu Sans" font-size="8.4" fill="#0E1F40" text-anchor="middle" font-weight="bold">1 · Dissolve</text>
+<text x="72" y="98" font-family="DejaVu Sans" font-size="7.0" fill="#334155" text-anchor="middle" font-weight="normal">in the minimum of hot solvent</text>
+<line x1="138" y1="88" x2="136.25" y2="88.0" stroke="#008751" stroke-width="1.4"/><polygon points="144.0,88.0 136.2,90.9 136.2,85.1" fill="#008751"/>
+<rect x="146" y="46" width="128" height="84" rx="7" fill="#FFFFFF" stroke="#2563EB" stroke-width="1.3"/>
+<rect x="146" y="46" width="128" height="5" rx="2.5" fill="#2563EB"/>
+<text x="210" y="74" font-family="DejaVu Sans" font-size="8.4" fill="#0E1F40" text-anchor="middle" font-weight="bold">2 · Filter hot</text>
+<text x="210" y="98" font-family="DejaVu Sans" font-size="7.0" fill="#334155" text-anchor="middle" font-weight="normal">to remove the insoluble impurity</text>
+<line x1="276" y1="88" x2="274.25" y2="88.0" stroke="#008751" stroke-width="1.4"/><polygon points="282.0,88.0 274.2,90.9 274.2,85.1" fill="#008751"/>
+<rect x="284" y="46" width="128" height="84" rx="7" fill="#FFFFFF" stroke="#7C3AED" stroke-width="1.3"/>
+<rect x="284" y="46" width="128" height="5" rx="2.5" fill="#7C3AED"/>
+<text x="348" y="74" font-family="DejaVu Sans" font-size="8.4" fill="#0E1F40" text-anchor="middle" font-weight="bold">3 · Cool slowly</text>
+<text x="348" y="98" font-family="DejaVu Sans" font-size="7.0" fill="#334155" text-anchor="middle" font-weight="normal">the pure solid crystallises</text>
+<line x1="414" y1="88" x2="412.25" y2="88.0" stroke="#008751" stroke-width="1.4"/><polygon points="420.0,88.0 412.2,90.9 412.2,85.1" fill="#008751"/>
+<rect x="422" y="46" width="128" height="84" rx="7" fill="#FFFFFF" stroke="#D97706" stroke-width="1.3"/>
+<rect x="422" y="46" width="128" height="5" rx="2.5" fill="#D97706"/>
+<text x="486" y="74" font-family="DejaVu Sans" font-size="8.4" fill="#0E1F40" text-anchor="middle" font-weight="bold">4 · Filter and dry</text>
+<text x="486" y="98" font-family="DejaVu Sans" font-size="7.0" fill="#334155" text-anchor="middle" font-weight="normal">wash with a little cold solvent</text>
+<rect x="8" y="146" width="544" height="70" rx="6" fill="#ECFDF5" stroke="#008751" stroke-width="1.0"/>
+<text x="280" y="164" font-family="DejaVu Sans" font-size="7.8" fill="#0E1F40" text-anchor="middle" font-weight="normal">Purity is checked by melting point: a pure solid melts sharply at one temperature, an impure one over a range.</text>
+<text x="280" y="182" font-family="DejaVu Sans" font-size="7.8" fill="#0E1F40" text-anchor="middle" font-weight="normal">The yield is the mass obtained ÷ the mass expected × 100 %, and it is always below 100 %.</text>
+<text x="280" y="200" font-family="DejaVu Sans" font-size="7.6" fill="#64748B" text-anchor="middle" font-weight="normal">Losses come from solubility in the wash, from crystals left on the filter paper and from the impurity removed.</text>
+</svg>

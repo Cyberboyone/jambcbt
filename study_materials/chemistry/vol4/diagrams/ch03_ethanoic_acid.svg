@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 296" width="560" height="296">
+  <defs>
+    <marker id="ag" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#008751"/>
+    </marker>
+    <marker id="an" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#0E1F40"/>
+    </marker>
+    <marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#D97706"/>
+    </marker>
+    <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#DC2626"/>
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="560" height="296" fill="#FFFFFF"/>
+<text x="280" y="22" font-family="DejaVu Sans" font-size="9.9" fill="#0E1F40" text-anchor="middle" font-weight="bold">ETHANOIC ACID IS A WEAK ACID — AND A WEAK ACID REACTS SLOWLY BUT COMPLETELY</text>
+<text x="280" y="40" font-family="DejaVu Sans" font-size="8.2" fill="#64748B" text-anchor="middle" font-weight="normal">CH₃COOH ⇌ CH₃COO⁻ + H⁺ · about 1 % ionised in 0.1 M solution · pH about 3</text>
+<rect x="8" y="62" width="544" height="40" rx="5" fill="#FFFFFF" stroke="#008751" stroke-width="1.0"/>
+<text x="14" y="78" font-family="DejaVu Sans" font-size="7.8" fill="#008751" text-anchor="start" font-weight="bold">with a carbonate</text>
+<text x="150" y="78" font-family="DejaVu Sans" font-size="7.8" fill="#0E1F40" text-anchor="start" font-weight="normal">2CH₃COOH + Na₂CO₃ → 2CH₃COONa + H₂O + CO₂</text>
+<text x="14" y="93" font-family="DejaVu Sans" font-size="7.0" fill="#64748B" text-anchor="start" font-weight="normal">effervescence — the test that separates it from a phenol</text>
+<rect x="8" y="108" width="544" height="40" rx="5" fill="#ECFDF5" stroke="#2563EB" stroke-width="1.0"/>
+<text x="14" y="124" font-family="DejaVu Sans" font-size="7.8" fill="#2563EB" text-anchor="start" font-weight="bold">with a reactive metal</text>
+<text x="150" y="124" font-family="DejaVu Sans" font-size="7.8" fill="#0E1F40" text-anchor="start" font-weight="normal">2CH₃COOH + Mg → (CH₃COO)₂Mg + H₂</text>
+<text x="14" y="139" font-family="DejaVu Sans" font-size="7.0" fill="#64748B" text-anchor="start" font-weight="normal">steady bubbling, the metal dissolves</text>
+<rect x="8" y="154" width="544" height="40" rx="5" fill="#ECFDF5" stroke="#7C3AED" stroke-width="1.0"/>
+<text x="14" y="170" font-family="DejaVu Sans" font-size="7.8" fill="#7C3AED" text-anchor="start" font-weight="bold">with a base</text>
+<text x="150" y="170" font-family="DejaVu Sans" font-size="7.8" fill="#0E1F40" text-anchor="start" font-weight="normal">CH₃COOH + NaOH → CH₃COONa + H₂O</text>
+<text x="14" y="185" font-family="DejaVu Sans" font-size="7.0" fill="#64748B" text-anchor="start" font-weight="normal">warm, no visible change — neutralisation</text>
+<rect x="8" y="200" width="544" height="40" rx="5" fill="#ECFDF5" stroke="#D97706" stroke-width="1.0"/>
+<text x="14" y="216" font-family="DejaVu Sans" font-size="7.8" fill="#D97706" text-anchor="start" font-weight="bold">with an alcohol</text>
+<text x="150" y="216" font-family="DejaVu Sans" font-size="7.8" fill="#0E1F40" text-anchor="start" font-weight="normal">CH₃COOH + C₂H₅OH ⇌ CH₃COOC₂H₅ + H₂O</text>
+<text x="14" y="231" font-family="DejaVu Sans" font-size="7.0" fill="#64748B" text-anchor="start" font-weight="normal">a sweet smell; needs concentrated H₂SO₄</text>
+<rect x="8" y="246" width="544" height="40" rx="5" fill="#ECFDF5" stroke="#DC2626" stroke-width="1.0"/>
+<text x="14" y="262" font-family="DejaVu Sans" font-size="7.8" fill="#DC2626" text-anchor="start" font-weight="bold">with chlorine</text>
+<text x="150" y="262" font-family="DejaVu Sans" font-size="7.8" fill="#0E1F40" text-anchor="start" font-weight="normal">CH₃COOH + Cl₂ → CH₂ClCOOH + HCl</text>
+<text x="14" y="277" font-family="DejaVu Sans" font-size="7.0" fill="#64748B" text-anchor="start" font-weight="normal">in sunlight; gives a stronger acid</text>
+</svg>

@@ -12,7 +12,45 @@ set.
 | 1 | Matter, Atoms & Bonding | **complete — 143 pp** |
 | 2 | Physical Chemistry | **complete — 165 pp** |
 | 3 | Inorganic Chemistry | **complete — 175 pp** |
-| 4 | Organic Chemistry & Practical | not started |
+| 4 | Organic Chemistry & Practical | **complete — 177 pp** |
+
+### Volume 4 — contents
+
+Front matter (series map, three habits, twelve question types, syllabus
+mapping, how to use, printed Contents page with baked page numbers,
+12-question diagnostic), then six chapters:
+
+1. Alkanes and Crude Oil
+2. Alkenes and Alkynes
+3. Alcohols and Carboxylic Acids
+4. Esters, Soaps and Polymers
+5. Carbohydrates, Proteins and Food
+6. Practical Chemistry
+
+Back matter: two 40-question CBT mocks, Appendix A (40 rapid-fire pairs),
+Appendix B (120-question master bank), Appendix C (consolidated keys),
+Appendix D (data, formulae and constants), Appendix E (the functional-group
+map), Appendix F (glossary), Appendix G (revision planner and score tracker),
+Appendix H (reagents, conditions and equations), Appendix I (structured
+questions with model answers), Appendix J (the twelve traps, worked),
+Appendix K (exam-day playbook). 40 diagrams, all drawn from script in
+`diagrams_gen/`.
+
+Item totals: **240 end-of-chapter drill questions** (40 per chapter), 80 mock
+questions, 40 rapid-fire pairs and a 120-question bank — every option
+explained in the solutions. The answer key of every drill and paper is spread
+across A–D, with no run of four identical answers.
+
+### Volume 4 — build
+
+```bash
+cd study_materials/chemistry/vol4
+python generate_diagrams.py        # writes diagrams/*.svg
+python tools/drills_chem4.py       # writes drill_ch01–06.typ
+python tools/papers_chem4.py       # writes mock_ch11, mock2, rapid_fire, bank120, answer_keys
+python tools/fit_solutions.py      # tunes _fit.json, then rebuilds until every tail page is full
+python build.py                    # writes JAMB_Chemistry_Volume4_Organic_Chemistry_Practical.pdf
+```
 
 ### Volume 3 — contents
 

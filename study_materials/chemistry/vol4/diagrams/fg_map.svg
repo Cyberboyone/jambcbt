@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 402" width="560" height="402">
+  <defs>
+    <marker id="ag" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#008751"/>
+    </marker>
+    <marker id="an" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#0E1F40"/>
+    </marker>
+    <marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#D97706"/>
+    </marker>
+    <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#DC2626"/>
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="560" height="402" fill="#FFFFFF"/>
+<text x="280" y="22" font-family="DejaVu Sans" font-size="10.4" fill="#0E1F40" text-anchor="middle" font-weight="bold">THE FUNCTIONAL-GROUP MAP — EVERY CONVERSION IN THIS VOLUME</text>
+<text x="280" y="40" font-family="DejaVu Sans" font-size="7.6" fill="#64748B" text-anchor="middle" font-weight="normal">Follow the arrows: each one is a reagent with a condition, and each one is a question the examiner can ask.</text>
+<rect x="84" y="60" width="150" height="40" rx="6" fill="#FFFFFF" stroke="#008751" stroke-width="1.4"/>
+<text x="159" y="78" font-family="DejaVu Sans" font-size="8.8" fill="#008751" text-anchor="middle" font-weight="bold">ALKANE</text>
+<text x="159" y="93" font-family="DejaVu Sans" font-size="6.8" fill="#64748B" text-anchor="middle" font-weight="normal">no functional group</text>
+<rect x="84" y="130" width="150" height="40" rx="6" fill="#FFFFFF" stroke="#334155" stroke-width="1.4"/>
+<text x="159" y="148" font-family="DejaVu Sans" font-size="8.8" fill="#334155" text-anchor="middle" font-weight="bold">HALOALKANE</text>
+<text x="159" y="163" font-family="DejaVu Sans" font-size="6.8" fill="#64748B" text-anchor="middle" font-weight="normal">–X</text>
+<rect x="84" y="200" width="150" height="40" rx="6" fill="#FFFFFF" stroke="#2563EB" stroke-width="1.4"/>
+<text x="159" y="218" font-family="DejaVu Sans" font-size="8.8" fill="#2563EB" text-anchor="middle" font-weight="bold">ALKANOL</text>
+<text x="159" y="233" font-family="DejaVu Sans" font-size="6.8" fill="#64748B" text-anchor="middle" font-weight="normal">–OH</text>
+<rect x="84" y="270" width="150" height="40" rx="6" fill="#FFFFFF" stroke="#D97706" stroke-width="1.4"/>
+<text x="159" y="288" font-family="DejaVu Sans" font-size="8.8" fill="#D97706" text-anchor="middle" font-weight="bold">ALKANAL / KETONE</text>
+<text x="159" y="303" font-family="DejaVu Sans" font-size="6.8" fill="#64748B" text-anchor="middle" font-weight="normal">–CHO or –CO–</text>
+<rect x="84" y="340" width="150" height="40" rx="6" fill="#FFFFFF" stroke="#DC2626" stroke-width="1.4"/>
+<text x="159" y="358" font-family="DejaVu Sans" font-size="8.8" fill="#DC2626" text-anchor="middle" font-weight="bold">ALKANOIC ACID</text>
+<text x="159" y="373" font-family="DejaVu Sans" font-size="6.8" fill="#64748B" text-anchor="middle" font-weight="normal">–COOH</text>
+<line x1="159" y1="100" x2="159.0" y2="120.7" stroke="#008751" stroke-width="1.4"/><polygon points="159.0,130.0 155.5,120.7 162.5,120.7" fill="#008751"/>
+<text x="168" y="118.0" font-family="DejaVu Sans" font-size="6.4" fill="#008751" text-anchor="start" font-weight="normal">Cl₂, UV</text>
+<line x1="159" y1="170" x2="159.0" y2="190.7" stroke="#008751" stroke-width="1.4"/><polygon points="159.0,200.0 155.5,190.7 162.5,190.7" fill="#008751"/>
+<text x="168" y="188.0" font-family="DejaVu Sans" font-size="6.4" fill="#008751" text-anchor="start" font-weight="normal">NaOH (aq), warm</text>
+<line x1="159" y1="240" x2="159.0" y2="260.7" stroke="#008751" stroke-width="1.4"/><polygon points="159.0,270.0 155.5,260.7 162.5,260.7" fill="#008751"/>
+<text x="168" y="258.0" font-family="DejaVu Sans" font-size="6.4" fill="#008751" text-anchor="start" font-weight="normal">dichromate, distil</text>
+<line x1="159" y1="310" x2="159.0" y2="330.7" stroke="#008751" stroke-width="1.4"/><polygon points="159.0,340.0 155.5,330.7 162.5,330.7" fill="#008751"/>
+<text x="168" y="328.0" font-family="DejaVu Sans" font-size="6.4" fill="#008751" text-anchor="start" font-weight="normal">dichromate, reflux</text>
+<rect x="292" y="62" width="128" height="36" rx="6" fill="#FFFFFF" stroke="#7C3AED" stroke-width="1.3"/>
+<text x="356" y="78" font-family="DejaVu Sans" font-size="8.4" fill="#7C3AED" text-anchor="middle" font-weight="bold">ALKENE</text>
+<text x="356" y="92" font-family="DejaVu Sans" font-size="6.6" fill="#64748B" text-anchor="middle" font-weight="normal">C=C — addition</text>
+<line x1="238" y1="80" x2="278.7" y2="80.0" stroke="#7C3AED" stroke-width="1.3"/><polygon points="288.0,80.0 278.7,83.5 278.7,76.5" fill="#7C3AED"/>
+<rect x="292" y="202" width="128" height="36" rx="6" fill="#FFFFFF" stroke="#2563EB" stroke-width="1.3"/>
+<text x="356" y="218" font-family="DejaVu Sans" font-size="8.4" fill="#2563EB" text-anchor="middle" font-weight="bold">ALKOXIDE</text>
+<text x="356" y="232" font-family="DejaVu Sans" font-size="6.6" fill="#64748B" text-anchor="middle" font-weight="normal">sodium salt</text>
+<line x1="238" y1="220" x2="278.7" y2="220.0" stroke="#2563EB" stroke-width="1.3"/><polygon points="288.0,220.0 278.7,223.5 278.7,216.5" fill="#2563EB"/>
+<rect x="292" y="342" width="128" height="36" rx="6" fill="#FFFFFF" stroke="#DC2626" stroke-width="1.3"/>
+<text x="356" y="358" font-family="DejaVu Sans" font-size="8.4" fill="#DC2626" text-anchor="middle" font-weight="bold">ESTER</text>
+<text x="356" y="372" font-family="DejaVu Sans" font-size="6.6" fill="#64748B" text-anchor="middle" font-weight="normal">–COO– with an alcohol</text>
+<line x1="238" y1="360" x2="278.7" y2="360.0" stroke="#DC2626" stroke-width="1.3"/><polygon points="288.0,360.0 278.7,363.5 278.7,356.5" fill="#DC2626"/>
+<rect x="292" y="122" width="128" height="36" rx="6" fill="#FFFFFF" stroke="#7C3AED" stroke-width="1.3"/>
+<text x="356" y="138" font-family="DejaVu Sans" font-size="8.4" fill="#7C3AED" text-anchor="middle" font-weight="bold">POLY(ALKENE)</text>
+<text x="356" y="152" font-family="DejaVu Sans" font-size="6.6" fill="#64748B" text-anchor="middle" font-weight="normal">n monomers, nothing lost</text>
+<line x1="356" y1="100" x2="356.0" y2="112.25" stroke="#7C3AED" stroke-width="1.2"/><polygon points="356.0,120.0 353.1,112.2 358.9,112.2" fill="#7C3AED"/>
+<rect x="432" y="56" width="122" height="300" rx="6" fill="#ECFDF5" stroke="#CBD5E1" stroke-width="1.0"/>
+<text x="493" y="74" font-family="DejaVu Sans" font-size="8.4" fill="#0E1F40" text-anchor="middle" font-weight="bold">The two chains</text>
+<text x="440" y="96" font-family="DejaVu Sans" font-size="7.0" fill="#008751" text-anchor="start" font-weight="bold">From petroleum:</text>
+<text x="440" y="114" font-family="DejaVu Sans" font-size="6.5" fill="#334155" text-anchor="start" font-weight="normal">alkane → haloalkane</text>
+<text x="440" y="128" font-family="DejaVu Sans" font-size="6.5" fill="#334155" text-anchor="start" font-weight="normal">→ alkanol → alkanal</text>
+<text x="440" y="142" font-family="DejaVu Sans" font-size="6.5" fill="#334155" text-anchor="start" font-weight="normal">→ alkanoic acid</text>
+<text x="440" y="156" font-family="DejaVu Sans" font-size="6.5" fill="#334155" text-anchor="start" font-weight="normal">→ ester → fat → soap</text>
+<text x="440" y="190" font-family="DejaVu Sans" font-size="7.0" fill="#D97706" text-anchor="start" font-weight="bold">From sugar:</text>
+<text x="440" y="208" font-family="DejaVu Sans" font-size="6.5" fill="#334155" text-anchor="start" font-weight="normal">glucose → ethanol</text>
+<text x="440" y="222" font-family="DejaVu Sans" font-size="6.5" fill="#334155" text-anchor="start" font-weight="normal">→ ethanoic acid</text>
+<text x="440" y="236" font-family="DejaVu Sans" font-size="6.5" fill="#334155" text-anchor="start" font-weight="normal">→ ester</text>
+<text x="440" y="250" font-family="DejaVu Sans" font-size="6.5" fill="#334155" text-anchor="start" font-weight="normal">starch → glucose</text>
+<text x="440" y="284" font-family="DejaVu Sans" font-size="6.4" fill="#64748B" text-anchor="start" font-weight="normal">Every arrow is one</text>
+<text x="440" y="296" font-family="DejaVu Sans" font-size="6.4" fill="#64748B" text-anchor="start" font-weight="normal">reagent and one</text>
+<text x="440" y="308" font-family="DejaVu Sans" font-size="6.4" fill="#64748B" text-anchor="start" font-weight="normal">condition. Learn</text>
+<text x="440" y="320" font-family="DejaVu Sans" font-size="6.4" fill="#64748B" text-anchor="start" font-weight="normal">them in pairs.</text>
+<text x="280" y="392" font-family="DejaVu Sans" font-size="7.6" fill="#64748B" text-anchor="middle" font-weight="normal">A functional group is a reactive centre: the hydrocarbon skeleton decides the physical properties, and the group decides the chemistry.</text>
+</svg>

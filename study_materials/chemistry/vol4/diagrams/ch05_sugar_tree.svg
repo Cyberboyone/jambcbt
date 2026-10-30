@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 300" width="560" height="300">
+  <defs>
+    <marker id="ag" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#008751"/>
+    </marker>
+    <marker id="an" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#0E1F40"/>
+    </marker>
+    <marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#D97706"/>
+    </marker>
+    <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#DC2626"/>
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="560" height="300" fill="#FFFFFF"/>
+<text x="280" y="22" font-family="DejaVu Sans" font-size="10.8" fill="#0E1F40" text-anchor="middle" font-weight="bold">THE CARBOHYDRATES — ONE FAMILY, THREE SIZES</text>
+<rect x="196" y="44" width="168" height="40" rx="7" fill="#008751" stroke="#008751" stroke-width="0"/>
+<text x="280" y="62" font-family="DejaVu Sans" font-size="10.0" fill="#FFFFFF" text-anchor="middle" font-weight="bold">CARBOHYDRATES</text>
+<text x="280" y="77" font-family="DejaVu Sans" font-size="7.6" fill="#D1FAE5" text-anchor="middle" font-weight="normal">Cₓ(H₂O)ᵧ</text>
+<line x1="280" y1="84" x2="280" y2="108" stroke="#CBD5E1" stroke-width="1.2"/>
+<line x1="93" y1="108" x2="280" y2="108" stroke="#CBD5E1" stroke-width="1.2"/>
+<line x1="93" y1="108" x2="93" y2="124" stroke="#008751" stroke-width="1.4"/>
+<rect x="9" y="124" width="168" height="44" rx="7" fill="#FFFFFF" stroke="#008751" stroke-width="1.4"/>
+<text x="93" y="142" font-family="DejaVu Sans" font-size="8.0" fill="#008751" text-anchor="middle" font-weight="bold">MONOSACCHARIDES</text>
+<text x="93" y="158" font-family="DejaVu Sans" font-size="7.4" fill="#64748B" text-anchor="middle" font-weight="normal">one unit</text>
+<text x="93" y="180" font-family="DejaVu Sans" font-size="8.2" fill="#0E1F40" text-anchor="middle" font-weight="normal">glucose</text>
+<text x="93" y="195" font-family="DejaVu Sans" font-size="8.2" fill="#0E1F40" text-anchor="middle" font-weight="normal">fructose</text>
+<line x1="280" y1="84" x2="280" y2="108" stroke="#CBD5E1" stroke-width="1.2"/>
+<line x1="280" y1="108" x2="280" y2="108" stroke="#CBD5E1" stroke-width="1.2"/>
+<line x1="280" y1="108" x2="280" y2="124" stroke="#2563EB" stroke-width="1.4"/>
+<rect x="196" y="124" width="168" height="44" rx="7" fill="#FFFFFF" stroke="#2563EB" stroke-width="1.4"/>
+<text x="280" y="142" font-family="DejaVu Sans" font-size="8.0" fill="#2563EB" text-anchor="middle" font-weight="bold">DISACCHARIDES</text>
+<text x="280" y="158" font-family="DejaVu Sans" font-size="7.4" fill="#64748B" text-anchor="middle" font-weight="normal">two units</text>
+<text x="280" y="180" font-family="DejaVu Sans" font-size="8.2" fill="#0E1F40" text-anchor="middle" font-weight="normal">maltose</text>
+<text x="280" y="195" font-family="DejaVu Sans" font-size="8.2" fill="#0E1F40" text-anchor="middle" font-weight="normal">sucrose</text>
+<text x="280" y="210" font-family="DejaVu Sans" font-size="8.2" fill="#0E1F40" text-anchor="middle" font-weight="normal">lactose</text>
+<line x1="280" y1="84" x2="280" y2="108" stroke="#CBD5E1" stroke-width="1.2"/>
+<line x1="467" y1="108" x2="280" y2="108" stroke="#CBD5E1" stroke-width="1.2"/>
+<line x1="467" y1="108" x2="467" y2="124" stroke="#7C3AED" stroke-width="1.4"/>
+<rect x="383" y="124" width="168" height="44" rx="7" fill="#FFFFFF" stroke="#7C3AED" stroke-width="1.4"/>
+<text x="467" y="142" font-family="DejaVu Sans" font-size="8.0" fill="#7C3AED" text-anchor="middle" font-weight="bold">POLYSACCHARIDES</text>
+<text x="467" y="158" font-family="DejaVu Sans" font-size="7.4" fill="#64748B" text-anchor="middle" font-weight="normal">many units</text>
+<text x="467" y="180" font-family="DejaVu Sans" font-size="8.2" fill="#0E1F40" text-anchor="middle" font-weight="normal">starch</text>
+<text x="467" y="195" font-family="DejaVu Sans" font-size="8.2" fill="#0E1F40" text-anchor="middle" font-weight="normal">glycogen</text>
+<text x="467" y="210" font-family="DejaVu Sans" font-size="8.2" fill="#0E1F40" text-anchor="middle" font-weight="normal">cellulose</text>
+<rect x="12" y="248" width="536" height="44" rx="6" fill="#ECFDF5" stroke="#008751" stroke-width="1.0"/>
+<text x="280" y="266" font-family="DejaVu Sans" font-size="8.0" fill="#0E1F40" text-anchor="middle" font-weight="normal">Hydrolysis takes every one of them back to glucose; condensation builds them up and releases water.</text>
+<text x="280" y="284" font-family="DejaVu Sans" font-size="7.8" fill="#64748B" text-anchor="middle" font-weight="normal">The test for a reducing sugar is Benedict's solution — brick-red copper(I) oxide on warming.</text>
+</svg>

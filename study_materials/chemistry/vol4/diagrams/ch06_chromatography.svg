@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 288" width="560" height="288">
+  <defs>
+    <marker id="ag" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#008751"/>
+    </marker>
+    <marker id="an" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#0E1F40"/>
+    </marker>
+    <marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#D97706"/>
+    </marker>
+    <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#DC2626"/>
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="560" height="288" fill="#FFFFFF"/>
+<text x="280" y="22" font-family="DejaVu Sans" font-size="10.2" fill="#0E1F40" text-anchor="middle" font-weight="bold">PAPER CHROMATOGRAPHY — SEPARATING BY HOW FAST EACH DYE TRAVELS</text>
+<rect x="60" y="52" width="130" height="200" rx="4" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="1.2"/>
+<line x1="60" y1="108" x2="190" y2="108" stroke="#64748B" stroke-width="1.0" stroke-dasharray="4 3"/>
+<text x="40" y="106" font-family="DejaVu Sans" font-size="6.8" fill="#64748B" text-anchor="end" font-weight="normal">origin</text>
+<circle cx="86" cy="72" r="6" fill="#DC2626"/>
+<circle cx="110" cy="92" r="6" fill="#D97706"/>
+<circle cx="134" cy="128" r="6" fill="#2563EB"/>
+<circle cx="158" cy="158" r="6" fill="#008751"/>
+<line x1="60" y1="206" x2="190" y2="206" stroke="#2563EB" stroke-width="1.4"/>
+<text x="125" y="220" font-family="DejaVu Sans" font-size="6.8" fill="#2563EB" text-anchor="middle" font-weight="normal">solvent front</text>
+<text x="125" y="266" font-family="DejaVu Sans" font-size="6.8" fill="#64748B" text-anchor="middle" font-weight="normal">the paper is stood in the solvent,</text>
+<text x="125" y="278" font-family="DejaVu Sans" font-size="6.8" fill="#64748B" text-anchor="middle" font-weight="normal">and the solvent is allowed to climb</text>
+<rect x="216" y="52" width="332" height="130" rx="7" fill="#FFFFFF" stroke="#008751" stroke-width="1.2"/>
+<text x="382" y="72" font-family="DejaVu Sans" font-size="8.4" fill="#008751" text-anchor="middle" font-weight="bold">Rf is a constant for a substance in a given solvent</text>
+<text x="382" y="100" font-family="DejaVu Sans" font-size="9.4" fill="#0E1F40" text-anchor="middle" font-weight="normal">Rf  =  distance moved by the spot</text>
+<text x="382" y="118" font-family="DejaVu Sans" font-size="9.4" fill="#0E1F40" text-anchor="middle" font-weight="normal">      ─────────────────────────</text>
+<text x="382" y="136" font-family="DejaVu Sans" font-size="9.4" fill="#0E1F40" text-anchor="middle" font-weight="normal">      distance moved by the solvent front</text>
+<text x="382" y="162" font-family="DejaVu Sans" font-size="7.4" fill="#64748B" text-anchor="middle" font-weight="normal">0 ≤ Rf ≤ 1 · a pure substance gives one spot · Rf depends on the solvent</text>
+<rect x="216" y="194" width="332" height="34" rx="6" fill="#ECFDF5" stroke="#008751" stroke-width="1.0"/>
+<text x="382" y="215" font-family="DejaVu Sans" font-size="7.8" fill="#0E1F40" text-anchor="middle" font-weight="normal">Identify a dye by comparing its Rf with a known sample run beside it.</text>
+<rect x="216" y="236" width="332" height="34" rx="6" fill="#FFFBEB" stroke="#D97706" stroke-width="1.0"/>
+<text x="382" y="257" font-family="DejaVu Sans" font-size="7.8" fill="#0E1F40" text-anchor="middle" font-weight="normal">The same idea separates pigments, inks, sugars and amino acids.</text>
+</svg>

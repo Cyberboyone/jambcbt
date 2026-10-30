@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 274" width="560" height="274">
+  <defs>
+    <marker id="ag" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#008751"/>
+    </marker>
+    <marker id="an" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#0E1F40"/>
+    </marker>
+    <marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#D97706"/>
+    </marker>
+    <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#DC2626"/>
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="560" height="274" fill="#FFFFFF"/>
+<text x="280" y="22" font-family="DejaVu Sans" font-size="10.5" fill="#0E1F40" text-anchor="middle" font-weight="bold">GLUCOSE — THE OPEN CHAIN AND THE RING IT ACTUALLY FORMS</text>
+<rect x="8" y="40" width="268" height="170" rx="7" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="1.1"/>
+<text x="142" y="58" font-family="DejaVu Sans" font-size="8.4" fill="#0E1F40" text-anchor="middle" font-weight="bold">open chain</text>
+<text x="60" y="84" font-family="DejaVu Sans" font-size="8.4" fill="#0E1F40" text-anchor="start" font-weight="normal">CHO</text>
+<text x="60" y="105" font-family="DejaVu Sans" font-size="8.4" fill="#0E1F40" text-anchor="start" font-weight="normal">CHOH</text>
+<text x="60" y="126" font-family="DejaVu Sans" font-size="8.4" fill="#0E1F40" text-anchor="start" font-weight="normal">CHOH</text>
+<text x="60" y="147" font-family="DejaVu Sans" font-size="8.4" fill="#0E1F40" text-anchor="start" font-weight="normal">CHOH</text>
+<text x="60" y="168" font-family="DejaVu Sans" font-size="8.4" fill="#0E1F40" text-anchor="start" font-weight="normal">CHOH</text>
+<text x="60" y="189" font-family="DejaVu Sans" font-size="8.4" fill="#0E1F40" text-anchor="start" font-weight="normal">CH₂OH</text>
+<text x="142" y="196" font-family="DejaVu Sans" font-size="7.6" fill="#64748B" text-anchor="middle" font-weight="normal">C₆H₁₂O₆ — an aldohexose</text>
+<rect x="286" y="40" width="266" height="170" rx="7" fill="#FFFFFF" stroke="#008751" stroke-width="1.1"/>
+<text x="419" y="58" font-family="DejaVu Sans" font-size="8.4" fill="#008751" text-anchor="middle" font-weight="bold">the ring in solution</text>
+<polygon points="419.0,76.0 464.0333209967908,102.0 464.0333209967908,154.0 419.0,180.0 373.9666790032092,154.0 373.9666790032092,102.0" fill="#FFFFFF" stroke="#008751" stroke-width="1.6"/>
+<text x="419.0" y="68.0" font-family="DejaVu Sans" font-size="9.4" fill="#DC2626" text-anchor="middle" font-weight="bold">O</text>
+<text x="464.0333209967908" y="106.0" font-family="DejaVu Sans" font-size="8.4" fill="#0E1F40" text-anchor="middle" font-weight="normal">C</text>
+<text x="464.0333209967908" y="158.0" font-family="DejaVu Sans" font-size="8.4" fill="#0E1F40" text-anchor="middle" font-weight="normal">C</text>
+<text x="419.0" y="184.0" font-family="DejaVu Sans" font-size="8.4" fill="#0E1F40" text-anchor="middle" font-weight="normal">C</text>
+<text x="373.9666790032092" y="158.0" font-family="DejaVu Sans" font-size="8.4" fill="#0E1F40" text-anchor="middle" font-weight="normal">C</text>
+<text x="373.9666790032092" y="106.0" font-family="DejaVu Sans" font-size="8.4" fill="#0E1F40" text-anchor="middle" font-weight="normal">C</text>
+<text x="419" y="202" font-family="DejaVu Sans" font-size="7.6" fill="#64748B" text-anchor="middle" font-weight="normal">a six-membered ring — the hemiacetal</text>
+<rect x="8" y="220" width="544" height="44" rx="6" fill="#ECFDF5" stroke="#008751" stroke-width="1.0"/>
+<text x="280" y="238" font-family="DejaVu Sans" font-size="8.0" fill="#0E1F40" text-anchor="middle" font-weight="normal">Carbon 1 is the anomeric carbon: it still has an –OH that can open back to the aldehyde.</text>
+<text x="280" y="256" font-family="DejaVu Sans" font-size="7.8" fill="#64748B" text-anchor="middle" font-weight="normal">That open aldehyde is what reduces Benedict's reagent, which is why glucose is a reducing sugar.</text>
+</svg>

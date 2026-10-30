@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 300" width="560" height="300">
+  <defs>
+    <marker id="ag" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#008751"/>
+    </marker>
+    <marker id="an" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#0E1F40"/>
+    </marker>
+    <marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#D97706"/>
+    </marker>
+    <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#DC2626"/>
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="560" height="300" fill="#FFFFFF"/>
+<text x="280" y="22" font-family="DejaVu Sans" font-size="10.4" fill="#0E1F40" text-anchor="middle" font-weight="bold">CHLORINATION OF METHANE — A SUBSTITUTION, ONE HYDROGEN AT A TIME</text>
+<text x="280" y="40" font-family="DejaVu Sans" font-size="7.9" fill="#64748B" text-anchor="middle" font-weight="normal">UV light or 300 °C · the chlorine replaces a hydrogen; the hydrogen leaves as HCl</text>
+<rect x="12" y="49" width="100" height="34" rx="6" fill="#FFFFFF" stroke="#0E1F40" stroke-width="1.1"/>
+<text x="62" y="64" font-family="DejaVu Sans" font-size="10.4" fill="#0E1F40" text-anchor="middle" font-weight="bold">CH₄</text>
+<text x="62" y="77" font-family="DejaVu Sans" font-size="6.8" fill="#64748B" text-anchor="middle" font-weight="normal">the reagent</text>
+<line x1="118" y1="66" x2="203.925" y2="66.0" stroke="#008751" stroke-width="1.6"/><polygon points="214.0,66.0 203.9,69.8 203.9,62.2" fill="#008751"/>
+<text x="166" y="60" font-family="DejaVu Sans" font-size="8.0" fill="#008751" text-anchor="middle" font-weight="bold">+ Cl₂ →</text>
+<text x="166" y="76" font-family="DejaVu Sans" font-size="7.2" fill="#64748B" text-anchor="middle" font-weight="normal">UV</text>
+<rect x="220" y="49" width="124" height="34" rx="6" fill="#FFFFFF" stroke="#008751" stroke-width="1.2"/>
+<text x="282" y="64" font-family="DejaVu Sans" font-size="10.4" fill="#008751" text-anchor="middle" font-weight="bold">CH₃Cl</text>
+<text x="282" y="77" font-family="DejaVu Sans" font-size="6.8" fill="#64748B" text-anchor="middle" font-weight="normal">chloromethane</text>
+<text x="420" y="67" font-family="DejaVu Sans" font-size="9.0" fill="#334155" text-anchor="start" font-weight="normal">+ HCl</text>
+<rect x="12" y="101" width="100" height="34" rx="6" fill="#FFFFFF" stroke="#0E1F40" stroke-width="1.1"/>
+<text x="62" y="116" font-family="DejaVu Sans" font-size="10.4" fill="#0E1F40" text-anchor="middle" font-weight="bold">CH₃Cl</text>
+<text x="62" y="129" font-family="DejaVu Sans" font-size="6.8" fill="#64748B" text-anchor="middle" font-weight="normal">the reagent</text>
+<line x1="118" y1="118" x2="203.925" y2="118.0" stroke="#008751" stroke-width="1.6"/><polygon points="214.0,118.0 203.9,121.8 203.9,114.2" fill="#008751"/>
+<text x="166" y="112" font-family="DejaVu Sans" font-size="8.0" fill="#008751" text-anchor="middle" font-weight="bold">+ Cl₂ →</text>
+<text x="166" y="128" font-family="DejaVu Sans" font-size="7.2" fill="#64748B" text-anchor="middle" font-weight="normal">UV</text>
+<rect x="220" y="101" width="124" height="34" rx="6" fill="#FFFFFF" stroke="#008751" stroke-width="1.2"/>
+<text x="282" y="116" font-family="DejaVu Sans" font-size="10.4" fill="#008751" text-anchor="middle" font-weight="bold">CH₂Cl₂</text>
+<text x="282" y="129" font-family="DejaVu Sans" font-size="6.8" fill="#64748B" text-anchor="middle" font-weight="normal">dichloromethane</text>
+<text x="420" y="119" font-family="DejaVu Sans" font-size="9.0" fill="#334155" text-anchor="start" font-weight="normal">+ HCl</text>
+<rect x="12" y="153" width="100" height="34" rx="6" fill="#FFFFFF" stroke="#0E1F40" stroke-width="1.1"/>
+<text x="62" y="168" font-family="DejaVu Sans" font-size="10.4" fill="#0E1F40" text-anchor="middle" font-weight="bold">CH₂Cl₂</text>
+<text x="62" y="181" font-family="DejaVu Sans" font-size="6.8" fill="#64748B" text-anchor="middle" font-weight="normal">the reagent</text>
+<line x1="118" y1="170" x2="203.925" y2="170.0" stroke="#008751" stroke-width="1.6"/><polygon points="214.0,170.0 203.9,173.8 203.9,166.2" fill="#008751"/>
+<text x="166" y="164" font-family="DejaVu Sans" font-size="8.0" fill="#008751" text-anchor="middle" font-weight="bold">+ Cl₂ →</text>
+<text x="166" y="180" font-family="DejaVu Sans" font-size="7.2" fill="#64748B" text-anchor="middle" font-weight="normal">UV</text>
+<rect x="220" y="153" width="124" height="34" rx="6" fill="#FFFFFF" stroke="#008751" stroke-width="1.2"/>
+<text x="282" y="168" font-family="DejaVu Sans" font-size="10.4" fill="#008751" text-anchor="middle" font-weight="bold">CHCl₃</text>
+<text x="282" y="181" font-family="DejaVu Sans" font-size="6.8" fill="#64748B" text-anchor="middle" font-weight="normal">trichloromethane</text>
+<text x="420" y="171" font-family="DejaVu Sans" font-size="9.0" fill="#334155" text-anchor="start" font-weight="normal">+ HCl</text>
+<rect x="12" y="205" width="100" height="34" rx="6" fill="#FFFFFF" stroke="#0E1F40" stroke-width="1.1"/>
+<text x="62" y="220" font-family="DejaVu Sans" font-size="10.4" fill="#0E1F40" text-anchor="middle" font-weight="bold">CHCl₃</text>
+<text x="62" y="233" font-family="DejaVu Sans" font-size="6.8" fill="#64748B" text-anchor="middle" font-weight="normal">the reagent</text>
+<line x1="118" y1="222" x2="203.925" y2="222.0" stroke="#008751" stroke-width="1.6"/><polygon points="214.0,222.0 203.9,225.8 203.9,218.2" fill="#008751"/>
+<text x="166" y="216" font-family="DejaVu Sans" font-size="8.0" fill="#008751" text-anchor="middle" font-weight="bold">+ Cl₂ →</text>
+<text x="166" y="232" font-family="DejaVu Sans" font-size="7.2" fill="#64748B" text-anchor="middle" font-weight="normal">UV</text>
+<rect x="220" y="205" width="124" height="34" rx="6" fill="#FFFFFF" stroke="#008751" stroke-width="1.2"/>
+<text x="282" y="220" font-family="DejaVu Sans" font-size="10.4" fill="#008751" text-anchor="middle" font-weight="bold">CCl₄</text>
+<text x="282" y="233" font-family="DejaVu Sans" font-size="6.8" fill="#64748B" text-anchor="middle" font-weight="normal">tetrachloromethane</text>
+<text x="420" y="223" font-family="DejaVu Sans" font-size="9.0" fill="#334155" text-anchor="start" font-weight="normal">+ HCl</text>
+<rect x="12" y="262" width="536" height="30" rx="6" fill="#ECFDF5" stroke="#008751" stroke-width="1.0"/>
+<text x="280" y="281" font-family="DejaVu Sans" font-size="8.0" fill="#0E1F40" text-anchor="middle" font-weight="normal">The reaction does not stop at the first product: all four chloromethanes form in the same flask.</text>
+</svg>

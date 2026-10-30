@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 356" width="560" height="356">
+  <defs>
+    <marker id="ag" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#008751"/>
+    </marker>
+    <marker id="an" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#0E1F40"/>
+    </marker>
+    <marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#D97706"/>
+    </marker>
+    <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#DC2626"/>
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="560" height="356" fill="#FFFFFF"/>
+<text x="280" y="22" font-family="DejaVu Sans" font-size="10.3" fill="#0E1F40" text-anchor="middle" font-weight="bold">THE OXIDATION LADDER — WHAT KIND OF ALCOHOL DECIDES WHAT YOU GET</text>
+<text x="280" y="40" font-family="DejaVu Sans" font-size="7.8" fill="#64748B" text-anchor="middle" font-weight="normal">acidified potassium dichromate(VI), orange → green, is the reagent in every case</text>
+<rect x="26" y="56" width="148" height="26" rx="5" fill="#008751" stroke="#008751" stroke-width="0"/>
+<text x="100" y="74" font-family="DejaVu Sans" font-size="8.8" fill="#FFFFFF" text-anchor="middle" font-weight="bold">PRIMARY</text>
+<rect x="206" y="56" width="148" height="26" rx="5" fill="#2563EB" stroke="#2563EB" stroke-width="0"/>
+<text x="280" y="74" font-family="DejaVu Sans" font-size="8.8" fill="#FFFFFF" text-anchor="middle" font-weight="bold">SECONDARY</text>
+<rect x="384" y="56" width="148" height="26" rx="5" fill="#7C3AED" stroke="#7C3AED" stroke-width="0"/>
+<text x="458" y="74" font-family="DejaVu Sans" font-size="8.8" fill="#FFFFFF" text-anchor="middle" font-weight="bold">TERTIARY</text>
+<rect x="26" y="90" width="148" height="44" rx="6" fill="#FFFFFF" stroke="#008751" stroke-width="1.3"/>
+<text x="100" y="107" font-family="DejaVu Sans" font-size="10.4" fill="#008751" text-anchor="middle" font-weight="bold">RCH₂OH</text>
+<text x="100" y="123" font-family="DejaVu Sans" font-size="7.2" fill="#64748B" text-anchor="middle" font-weight="normal">the alcohol</text>
+<rect x="26" y="150" width="148" height="44" rx="6" fill="#FFFFFF" stroke="#D97706" stroke-width="1.3"/>
+<text x="100" y="167" font-family="DejaVu Sans" font-size="10.4" fill="#D97706" text-anchor="middle" font-weight="bold">RCHO</text>
+<text x="100" y="183" font-family="DejaVu Sans" font-size="7.2" fill="#64748B" text-anchor="middle" font-weight="normal">an aldehyde</text>
+<rect x="26" y="210" width="148" height="44" rx="6" fill="#FFFFFF" stroke="#DC2626" stroke-width="1.3"/>
+<text x="100" y="227" font-family="DejaVu Sans" font-size="10.4" fill="#DC2626" text-anchor="middle" font-weight="bold">RCOOH</text>
+<text x="100" y="243" font-family="DejaVu Sans" font-size="7.2" fill="#64748B" text-anchor="middle" font-weight="normal">a carboxylic acid</text>
+<rect x="206" y="90" width="148" height="44" rx="6" fill="#FFFFFF" stroke="#2563EB" stroke-width="1.3"/>
+<text x="280" y="107" font-family="DejaVu Sans" font-size="10.4" fill="#2563EB" text-anchor="middle" font-weight="bold">R₂CHOH</text>
+<text x="280" y="123" font-family="DejaVu Sans" font-size="7.2" fill="#64748B" text-anchor="middle" font-weight="normal">the alcohol</text>
+<rect x="206" y="150" width="148" height="44" rx="6" fill="#FFFFFF" stroke="#7C3AED" stroke-width="1.3"/>
+<text x="280" y="167" font-family="DejaVu Sans" font-size="10.4" fill="#7C3AED" text-anchor="middle" font-weight="bold">R₂C=O</text>
+<text x="280" y="183" font-family="DejaVu Sans" font-size="7.2" fill="#64748B" text-anchor="middle" font-weight="normal">a ketone</text>
+<rect x="384" y="90" width="148" height="44" rx="6" fill="#FFFFFF" stroke="#7C3AED" stroke-width="1.3"/>
+<text x="458" y="107" font-family="DejaVu Sans" font-size="10.4" fill="#7C3AED" text-anchor="middle" font-weight="bold">R₃COH</text>
+<text x="458" y="123" font-family="DejaVu Sans" font-size="7.2" fill="#64748B" text-anchor="middle" font-weight="normal">the alcohol</text>
+<line x1="100" y1="136" x2="100.0" y2="148.7" stroke="#D97706" stroke-width="1.4"/><polygon points="100.0,158.0 96.5,148.7 103.5,148.7" fill="#D97706"/>
+<text x="88" y="150" font-family="DejaVu Sans" font-size="6.8" fill="#D97706" text-anchor="end" font-weight="normal">distil off</text>
+<line x1="100" y1="196" x2="100.0" y2="206.7" stroke="#DC2626" stroke-width="1.4"/><polygon points="100.0,216.0 96.5,206.7 103.5,206.7" fill="#DC2626"/>
+<text x="88" y="210" font-family="DejaVu Sans" font-size="6.8" fill="#DC2626" text-anchor="end" font-weight="normal">reflux</text>
+<line x1="280" y1="136" x2="280.0" y2="148.7" stroke="#7C3AED" stroke-width="1.4"/><polygon points="280.0,158.0 276.5,148.7 283.5,148.7" fill="#7C3AED"/>
+<text x="366" y="150" font-family="DejaVu Sans" font-size="6.8" fill="#7C3AED" text-anchor="start" font-weight="normal">no further</text>
+<rect x="12" y="268" width="536" height="76" rx="6" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="1.0"/>
+<text x="280" y="288" font-family="DejaVu Sans" font-size="7.8" fill="#0E1F40" text-anchor="middle" font-weight="normal">The tertiary alcohol has no hydrogen on the carbon carrying the OH, so it cannot be oxidised without breaking the skeleton.</text>
+<text x="280" y="306" font-family="DejaVu Sans" font-size="7.8" fill="#64748B" text-anchor="middle" font-weight="normal">That is why it resists acidified dichromate and the orange colour simply stays — the standard negative test.</text>
+<text x="280" y="330" font-family="DejaVu Sans" font-size="7.6" fill="#334155" text-anchor="middle" font-weight="normal">A primary alcohol oxidised in air for a week goes all the way to the acid; the aldehyde is only caught if it is distilled off as it forms.</text>
+</svg>

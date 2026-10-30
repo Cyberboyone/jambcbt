@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 316" width="560" height="316">
+  <defs>
+    <marker id="ag" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#008751"/>
+    </marker>
+    <marker id="an" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#0E1F40"/>
+    </marker>
+    <marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#D97706"/>
+    </marker>
+    <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#DC2626"/>
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="560" height="316" fill="#FFFFFF"/>
+<text x="280" y="22" font-family="DejaVu Sans" font-size="10.4" fill="#0E1F40" text-anchor="middle" font-weight="bold">THE FIVE FOOD TESTS — LEARN THE COLOUR, NOT THE PROCEDURE</text>
+<rect x="8" y="46" width="544" height="46" rx="6" fill="#FFFFFF" stroke="#DC2626" stroke-width="1.1"/>
+<rect x="8" y="46" width="6" height="46" rx="3" fill="#DC2626" stroke="#DC2626" stroke-width="0"/>
+<text x="20" y="65" font-family="DejaVu Sans" font-size="8.8" fill="#0E1F40" text-anchor="start" font-weight="bold">Reducing sugar</text>
+<text x="20" y="81" font-family="DejaVu Sans" font-size="7.2" fill="#64748B" text-anchor="start" font-weight="normal">Benedict's solution, warm 3–5 min</text>
+<text x="322" y="73" font-family="DejaVu Sans" font-size="9" fill="#DC2626" text-anchor="middle" font-weight="bold">→</text>
+<text x="340" y="73" font-family="DejaVu Sans" font-size="7.8" fill="#DC2626" text-anchor="start" font-weight="bold">blue → brick-red precipitate</text>
+<rect x="8" y="98" width="544" height="46" rx="6" fill="#FFFFFF" stroke="#0E1F40" stroke-width="1.1"/>
+<rect x="8" y="98" width="6" height="46" rx="3" fill="#0E1F40" stroke="#0E1F40" stroke-width="0"/>
+<text x="20" y="117" font-family="DejaVu Sans" font-size="8.8" fill="#0E1F40" text-anchor="start" font-weight="bold">Starch</text>
+<text x="20" y="133" font-family="DejaVu Sans" font-size="7.2" fill="#64748B" text-anchor="start" font-weight="normal">a drop of iodine solution</text>
+<text x="322" y="125" font-family="DejaVu Sans" font-size="9" fill="#0E1F40" text-anchor="middle" font-weight="bold">→</text>
+<text x="340" y="125" font-family="DejaVu Sans" font-size="7.8" fill="#0E1F40" text-anchor="start" font-weight="bold">brown → blue-black</text>
+<rect x="8" y="150" width="544" height="46" rx="6" fill="#FFFFFF" stroke="#7C3AED" stroke-width="1.1"/>
+<rect x="8" y="150" width="6" height="46" rx="3" fill="#7C3AED" stroke="#7C3AED" stroke-width="0"/>
+<text x="20" y="169" font-family="DejaVu Sans" font-size="8.8" fill="#0E1F40" text-anchor="start" font-weight="bold">Protein</text>
+<text x="20" y="185" font-family="DejaVu Sans" font-size="7.2" fill="#64748B" text-anchor="start" font-weight="normal">Biuret reagent (NaOH + CuSO₄)</text>
+<text x="322" y="177" font-family="DejaVu Sans" font-size="9" fill="#7C3AED" text-anchor="middle" font-weight="bold">→</text>
+<text x="340" y="177" font-family="DejaVu Sans" font-size="7.8" fill="#7C3AED" text-anchor="start" font-weight="bold">blue → violet</text>
+<rect x="8" y="202" width="544" height="46" rx="6" fill="#FFFFFF" stroke="#D97706" stroke-width="1.1"/>
+<rect x="8" y="202" width="6" height="46" rx="3" fill="#D97706" stroke="#D97706" stroke-width="0"/>
+<text x="20" y="221" font-family="DejaVu Sans" font-size="8.8" fill="#0E1F40" text-anchor="start" font-weight="bold">Fat or oil</text>
+<text x="20" y="237" font-family="DejaVu Sans" font-size="7.2" fill="#64748B" text-anchor="start" font-weight="normal">rub on paper, or emulsify with water</text>
+<text x="322" y="229" font-family="DejaVu Sans" font-size="9" fill="#D97706" text-anchor="middle" font-weight="bold">→</text>
+<text x="340" y="229" font-family="DejaVu Sans" font-size="7.8" fill="#D97706" text-anchor="start" font-weight="bold">translucent stain, milky emulsion</text>
+<rect x="8" y="254" width="544" height="46" rx="6" fill="#FFFFFF" stroke="#2563EB" stroke-width="1.1"/>
+<rect x="8" y="254" width="6" height="46" rx="3" fill="#2563EB" stroke="#2563EB" stroke-width="0"/>
+<text x="20" y="273" font-family="DejaVu Sans" font-size="8.8" fill="#0E1F40" text-anchor="start" font-weight="bold">Water</text>
+<text x="20" y="289" font-family="DejaVu Sans" font-size="7.2" fill="#64748B" text-anchor="start" font-weight="normal">anhydrous copper(II) sulphate</text>
+<text x="322" y="281" font-family="DejaVu Sans" font-size="9" fill="#2563EB" text-anchor="middle" font-weight="bold">→</text>
+<text x="340" y="281" font-family="DejaVu Sans" font-size="7.8" fill="#2563EB" text-anchor="start" font-weight="bold">white → blue</text>
+<text x="280" y="310" font-family="DejaVu Sans" font-size="7.8" fill="#64748B" text-anchor="middle" font-weight="normal">A positive test is a colour or a smell, never a guess: write what you saw, then what it proves.</text>
+</svg>

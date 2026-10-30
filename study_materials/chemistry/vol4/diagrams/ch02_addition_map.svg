@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 344" width="560" height="344">
+  <defs>
+    <marker id="ag" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#008751"/>
+    </marker>
+    <marker id="an" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#0E1F40"/>
+    </marker>
+    <marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#D97706"/>
+    </marker>
+    <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#DC2626"/>
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="560" height="344" fill="#FFFFFF"/>
+<text x="280" y="22" font-family="DejaVu Sans" font-size="9.9" fill="#0E1F40" text-anchor="middle" font-weight="bold">ETHENE IS AN ELECTRON-RICH TARGET — EVERY REAGENT ADDS ACROSS THE DOUBLE BOND</text>
+<rect x="218" y="140" width="124" height="64" rx="8" fill="#FFFFFF" stroke="#0E1F40" stroke-width="1.6"/>
+<text x="280" y="166" font-family="DejaVu Sans" font-size="12.4" fill="#0E1F40" text-anchor="middle" font-weight="bold">CH₂=CH₂</text>
+<text x="280" y="186" font-family="DejaVu Sans" font-size="8.0" fill="#64748B" text-anchor="middle" font-weight="normal">ethene</text>
+<rect x="8" y="48" width="168" height="52" rx="7" fill="#FFFFFF" stroke="#008751" stroke-width="1.2"/>
+<text x="92" y="66" font-family="DejaVu Sans" font-size="7.9" fill="#008751" text-anchor="middle" font-weight="bold">H₂ / Ni, 150 °C</text>
+<text x="92" y="82" font-family="DejaVu Sans" font-size="7.6" fill="#334155" text-anchor="middle" font-weight="normal">CH₃CH₃ ethane</text>
+<line x1="180" y1="74" x2="210.951713870527" y2="163.21376350916603" stroke="#008751" stroke-width="1.5"/><polygon points="214.0,172.0 207.7,164.4 214.2,162.1" fill="#008751"/>
+<rect x="8" y="146" width="168" height="52" rx="7" fill="#FFFFFF" stroke="#2563EB" stroke-width="1.2"/>
+<text x="92" y="164" font-family="DejaVu Sans" font-size="7.9" fill="#2563EB" text-anchor="middle" font-weight="bold">Br₂ in CCl₄</text>
+<text x="92" y="180" font-family="DejaVu Sans" font-size="7.6" fill="#334155" text-anchor="middle" font-weight="normal">CH₂BrCH₂Br</text>
+<line x1="180" y1="172" x2="204.7" y2="172.0" stroke="#2563EB" stroke-width="1.5"/><polygon points="214.0,172.0 204.7,175.5 204.7,168.5" fill="#2563EB"/>
+<rect x="8" y="244" width="168" height="52" rx="7" fill="#FFFFFF" stroke="#7C3AED" stroke-width="1.2"/>
+<text x="92" y="262" font-family="DejaVu Sans" font-size="7.9" fill="#7C3AED" text-anchor="middle" font-weight="bold">HCl (g)</text>
+<text x="92" y="278" font-family="DejaVu Sans" font-size="7.6" fill="#334155" text-anchor="middle" font-weight="normal">CH₃CH₂Cl</text>
+<line x1="180" y1="270" x2="210.951713870527" y2="180.78623649083397" stroke="#7C3AED" stroke-width="1.5"/><polygon points="214.0,172.0 214.2,181.9 207.7,179.6" fill="#7C3AED"/>
+<rect x="384" y="48" width="168" height="52" rx="7" fill="#FFFFFF" stroke="#008751" stroke-width="1.2"/>
+<text x="468" y="66" font-family="DejaVu Sans" font-size="7.9" fill="#008751" text-anchor="middle" font-weight="bold">H₂O / H₃PO₄</text>
+<text x="468" y="82" font-family="DejaVu Sans" font-size="7.6" fill="#334155" text-anchor="middle" font-weight="normal">CH₃CH₂OH</text>
+<line x1="380" y1="74" x2="349.048286129473" y2="163.21376350916603" stroke="#008751" stroke-width="1.5"/><polygon points="346.0,172.0 345.8,162.1 352.3,164.4" fill="#008751"/>
+<rect x="384" y="146" width="168" height="52" rx="7" fill="#FFFFFF" stroke="#2563EB" stroke-width="1.2"/>
+<text x="468" y="164" font-family="DejaVu Sans" font-size="7.9" fill="#2563EB" text-anchor="middle" font-weight="bold">Cl₂</text>
+<text x="468" y="180" font-family="DejaVu Sans" font-size="7.6" fill="#334155" text-anchor="middle" font-weight="normal">CH₂ClCH₂Cl</text>
+<line x1="380" y1="172" x2="355.3" y2="172.0" stroke="#2563EB" stroke-width="1.5"/><polygon points="346.0,172.0 355.3,168.5 355.3,175.5" fill="#2563EB"/>
+<rect x="384" y="244" width="168" height="52" rx="7" fill="#FFFFFF" stroke="#DC2626" stroke-width="1.2"/>
+<text x="468" y="262" font-family="DejaVu Sans" font-size="7.9" fill="#DC2626" text-anchor="middle" font-weight="bold">acidified KMnO₄</text>
+<text x="468" y="278" font-family="DejaVu Sans" font-size="7.6" fill="#334155" text-anchor="middle" font-weight="normal">a diol — decolourised</text>
+<line x1="380" y1="270" x2="349.048286129473" y2="180.78623649083397" stroke="#DC2626" stroke-width="1.5"/><polygon points="346.0,172.0 352.3,179.6 345.8,181.9" fill="#DC2626"/>
+<text x="280" y="323" font-family="DejaVu Sans" font-size="8.0" fill="#64748B" text-anchor="middle" font-weight="normal">Addition needs no light and no heat: the π electrons are offered to any electrophile that arrives.</text>
+</svg>

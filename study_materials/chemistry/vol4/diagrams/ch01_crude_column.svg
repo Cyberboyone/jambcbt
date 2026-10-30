@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 392" width="560" height="392">
+  <defs>
+    <marker id="ag" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#008751"/>
+    </marker>
+    <marker id="an" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#0E1F40"/>
+    </marker>
+    <marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#D97706"/>
+    </marker>
+    <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#DC2626"/>
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="560" height="392" fill="#FFFFFF"/>
+<text x="280" y="22" font-family="DejaVu Sans" font-size="11.2" fill="#0E1F40" text-anchor="middle" font-weight="bold">THE FRACTIONATING COLUMN — CRUDE OIL SPLIT BY BOILING POINT</text>
+<rect x="150" y="42" width="116" height="300" rx="8" fill="#FFFFFF" stroke="#0E1F40" stroke-width="1.5"/>
+<line x1="158" y1="62" x2="258" y2="62" stroke="#CBD5E1" stroke-width="1.0" stroke-dasharray="3 3"/>
+<line x1="158" y1="108" x2="258" y2="108" stroke="#CBD5E1" stroke-width="1.0" stroke-dasharray="3 3"/>
+<line x1="158" y1="154" x2="258" y2="154" stroke="#CBD5E1" stroke-width="1.0" stroke-dasharray="3 3"/>
+<line x1="158" y1="200" x2="258" y2="200" stroke="#CBD5E1" stroke-width="1.0" stroke-dasharray="3 3"/>
+<line x1="158" y1="246" x2="258" y2="246" stroke="#CBD5E1" stroke-width="1.0" stroke-dasharray="3 3"/>
+<line x1="158" y1="292" x2="258" y2="292" stroke="#CBD5E1" stroke-width="1.0" stroke-dasharray="3 3"/>
+<rect x="8" y="47" width="132" height="34" rx="5" fill="#ECFDF5" stroke="#DC2626" stroke-width="1.0"/>
+<text x="74" y="59" font-family="DejaVu Sans" font-size="8.6" fill="#0E1F40" text-anchor="middle" font-weight="bold">Refinery gas</text>
+<text x="74" y="72" font-family="DejaVu Sans" font-size="7.6" fill="#64748B" text-anchor="middle" font-weight="normal">C₁–C₄</text>
+<line x1="142" y1="64" x2="147.475" y2="64.0" stroke="#DC2626" stroke-width="1.3"/><polygon points="156.0,64.0 147.5,67.2 147.5,60.8" fill="#DC2626"/>
+<rect x="282" y="47" width="270" height="34" rx="5" fill="#FFFFFF" stroke="#DC2626" stroke-width="1.0"/>
+<text x="292" y="59" font-family="DejaVu Sans" font-size="8.4" fill="#334155" text-anchor="start" font-weight="normal">bottled gas, LPG</text>
+<text x="292" y="72" font-family="DejaVu Sans" font-size="7.2" fill="#64748B" text-anchor="start" font-weight="normal">refinery gas</text>
+<line x1="270" y1="64" x2="269.475" y2="64.0" stroke="#DC2626" stroke-width="1.3"/><polygon points="278.0,64.0 269.5,67.2 269.5,60.8" fill="#DC2626"/>
+<rect x="8" y="93" width="132" height="34" rx="5" fill="#FFFFFF" stroke="#D97706" stroke-width="1.0"/>
+<text x="74" y="105" font-family="DejaVu Sans" font-size="8.6" fill="#0E1F40" text-anchor="middle" font-weight="bold">Petrol (gasoline)</text>
+<text x="74" y="118" font-family="DejaVu Sans" font-size="7.6" fill="#64748B" text-anchor="middle" font-weight="normal">C₅–C₁₀</text>
+<line x1="142" y1="110" x2="147.475" y2="110.0" stroke="#D97706" stroke-width="1.3"/><polygon points="156.0,110.0 147.5,113.2 147.5,106.8" fill="#D97706"/>
+<rect x="282" y="93" width="270" height="34" rx="5" fill="#FFFFFF" stroke="#D97706" stroke-width="1.0"/>
+<text x="292" y="105" font-family="DejaVu Sans" font-size="8.4" fill="#334155" text-anchor="start" font-weight="normal">cars — 40–180 °C</text>
+<text x="292" y="118" font-family="DejaVu Sans" font-size="7.2" fill="#64748B" text-anchor="start" font-weight="normal">petrol (gasoline)</text>
+<line x1="270" y1="110" x2="269.475" y2="110.0" stroke="#D97706" stroke-width="1.3"/><polygon points="278.0,110.0 269.5,113.2 269.5,106.8" fill="#D97706"/>
+<rect x="8" y="139" width="132" height="34" rx="5" fill="#ECFDF5" stroke="#D97706" stroke-width="1.0"/>
+<text x="74" y="151" font-family="DejaVu Sans" font-size="8.6" fill="#0E1F40" text-anchor="middle" font-weight="bold">Kerosene</text>
+<text x="74" y="164" font-family="DejaVu Sans" font-size="7.6" fill="#64748B" text-anchor="middle" font-weight="normal">C₁₀–C₁₄</text>
+<line x1="142" y1="156" x2="147.475" y2="156.0" stroke="#D97706" stroke-width="1.3"/><polygon points="156.0,156.0 147.5,159.2 147.5,152.8" fill="#D97706"/>
+<rect x="282" y="139" width="270" height="34" rx="5" fill="#FFFFFF" stroke="#D97706" stroke-width="1.0"/>
+<text x="292" y="151" font-family="DejaVu Sans" font-size="8.4" fill="#334155" text-anchor="start" font-weight="normal">stoves, jet fuel</text>
+<text x="292" y="164" font-family="DejaVu Sans" font-size="7.2" fill="#64748B" text-anchor="start" font-weight="normal">kerosene</text>
+<line x1="270" y1="156" x2="269.475" y2="156.0" stroke="#D97706" stroke-width="1.3"/><polygon points="278.0,156.0 269.5,159.2 269.5,152.8" fill="#D97706"/>
+<rect x="8" y="185" width="132" height="34" rx="5" fill="#FFFFFF" stroke="#2563EB" stroke-width="1.0"/>
+<text x="74" y="197" font-family="DejaVu Sans" font-size="8.6" fill="#0E1F40" text-anchor="middle" font-weight="bold">Diesel</text>
+<text x="74" y="210" font-family="DejaVu Sans" font-size="7.6" fill="#64748B" text-anchor="middle" font-weight="normal">C₁₄–C₂₀</text>
+<line x1="142" y1="202" x2="147.475" y2="202.0" stroke="#2563EB" stroke-width="1.3"/><polygon points="156.0,202.0 147.5,205.2 147.5,198.8" fill="#2563EB"/>
+<rect x="282" y="185" width="270" height="34" rx="5" fill="#FFFFFF" stroke="#2563EB" stroke-width="1.0"/>
+<text x="292" y="197" font-family="DejaVu Sans" font-size="8.4" fill="#334155" text-anchor="start" font-weight="normal">lorries, generators</text>
+<text x="292" y="210" font-family="DejaVu Sans" font-size="7.2" fill="#64748B" text-anchor="start" font-weight="normal">diesel</text>
+<line x1="270" y1="202" x2="269.475" y2="202.0" stroke="#2563EB" stroke-width="1.3"/><polygon points="278.0,202.0 269.5,205.2 269.5,198.8" fill="#2563EB"/>
+<rect x="8" y="231" width="132" height="34" rx="5" fill="#ECFDF5" stroke="#7C3AED" stroke-width="1.0"/>
+<text x="74" y="243" font-family="DejaVu Sans" font-size="8.6" fill="#0E1F40" text-anchor="middle" font-weight="bold">Lubricating oil</text>
+<text x="74" y="256" font-family="DejaVu Sans" font-size="7.6" fill="#64748B" text-anchor="middle" font-weight="normal">C₂₀–C₅₀</text>
+<line x1="142" y1="248" x2="147.475" y2="248.0" stroke="#7C3AED" stroke-width="1.3"/><polygon points="156.0,248.0 147.5,251.2 147.5,244.8" fill="#7C3AED"/>
+<rect x="282" y="231" width="270" height="34" rx="5" fill="#FFFFFF" stroke="#7C3AED" stroke-width="1.0"/>
+<text x="292" y="243" font-family="DejaVu Sans" font-size="8.4" fill="#334155" text-anchor="start" font-weight="normal">machinery</text>
+<text x="292" y="256" font-family="DejaVu Sans" font-size="7.2" fill="#64748B" text-anchor="start" font-weight="normal">lubricating oil</text>
+<line x1="270" y1="248" x2="269.475" y2="248.0" stroke="#7C3AED" stroke-width="1.3"/><polygon points="278.0,248.0 269.5,251.2 269.5,244.8" fill="#7C3AED"/>
+<rect x="8" y="277" width="132" height="34" rx="5" fill="#FFFFFF" stroke="#334155" stroke-width="1.0"/>
+<text x="74" y="289" font-family="DejaVu Sans" font-size="8.6" fill="#0E1F40" text-anchor="middle" font-weight="bold">Residue (bitumen)</text>
+<text x="74" y="302" font-family="DejaVu Sans" font-size="7.6" fill="#64748B" text-anchor="middle" font-weight="normal">C₅₀+</text>
+<line x1="142" y1="294" x2="147.475" y2="294.0" stroke="#334155" stroke-width="1.3"/><polygon points="156.0,294.0 147.5,297.2 147.5,290.8" fill="#334155"/>
+<rect x="282" y="277" width="270" height="34" rx="5" fill="#FFFFFF" stroke="#334155" stroke-width="1.0"/>
+<text x="292" y="289" font-family="DejaVu Sans" font-size="8.4" fill="#334155" text-anchor="start" font-weight="normal">roads, roofing</text>
+<text x="292" y="302" font-family="DejaVu Sans" font-size="7.2" fill="#64748B" text-anchor="start" font-weight="normal">residue (bitumen)</text>
+<line x1="270" y1="294" x2="269.475" y2="294.0" stroke="#334155" stroke-width="1.3"/><polygon points="278.0,294.0 269.5,297.2 269.5,290.8" fill="#334155"/>
+<text x="208.0" y="32" font-family="DejaVu Sans" font-size="7.8" fill="#64748B" text-anchor="middle" font-weight="normal">cold at the top</text>
+<text x="208.0" y="364" font-family="DejaVu Sans" font-size="7.8" fill="#64748B" text-anchor="middle" font-weight="normal">hot at the bottom</text>
+<text x="280" y="382" font-family="DejaVu Sans" font-size="7.8" fill="#64748B" text-anchor="middle" font-weight="normal">The vapour rises and cools; each fraction condenses at the tray whose temperature matches its boiling range.</text>
+</svg>

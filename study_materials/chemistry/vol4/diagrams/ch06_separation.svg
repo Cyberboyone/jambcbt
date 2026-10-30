@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 314" width="560" height="314">
+  <defs>
+    <marker id="ag" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#008751"/>
+    </marker>
+    <marker id="an" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#0E1F40"/>
+    </marker>
+    <marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#D97706"/>
+    </marker>
+    <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#DC2626"/>
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="560" height="314" fill="#FFFFFF"/>
+<text x="280" y="22" font-family="DejaVu Sans" font-size="10.4" fill="#0E1F40" text-anchor="middle" font-weight="bold">CHOOSING A SEPARATION METHOD — ASK WHAT IS DIFFERENT</text>
+<rect x="8" y="44" width="544" height="28" rx="5" fill="#FFFFFF" stroke="#008751" stroke-width="1.0"/>
+<text x="16" y="62" font-family="DejaVu Sans" font-size="7.6" fill="#0E1F40" text-anchor="start" font-weight="normal">A solid is insoluble in the liquid</text>
+<line x1="258" y1="58" x2="272.25" y2="58.0" stroke="#008751" stroke-width="1.2"/><polygon points="280.0,58.0 272.2,60.9 272.2,55.1" fill="#008751"/>
+<text x="290" y="62" font-family="DejaVu Sans" font-size="7.6" fill="#008751" text-anchor="start" font-weight="bold">filtration, then wash and dry the residue</text>
+<rect x="8" y="75" width="544" height="28" rx="5" fill="#FFFFFF" stroke="#2563EB" stroke-width="1.0"/>
+<text x="16" y="93" font-family="DejaVu Sans" font-size="7.6" fill="#0E1F40" text-anchor="start" font-weight="normal">A solid is dissolved and wanted pure</text>
+<line x1="258" y1="89" x2="272.25" y2="89.0" stroke="#2563EB" stroke-width="1.2"/><polygon points="280.0,89.0 272.2,91.9 272.2,86.1" fill="#2563EB"/>
+<text x="290" y="93" font-family="DejaVu Sans" font-size="7.6" fill="#2563EB" text-anchor="start" font-weight="bold">crystallisation or recrystallisation</text>
+<rect x="8" y="106" width="544" height="28" rx="5" fill="#FFFFFF" stroke="#7C3AED" stroke-width="1.0"/>
+<text x="16" y="124" font-family="DejaVu Sans" font-size="7.6" fill="#0E1F40" text-anchor="start" font-weight="normal">Two liquids mix and boil far apart</text>
+<line x1="258" y1="120" x2="272.25" y2="120.0" stroke="#7C3AED" stroke-width="1.2"/><polygon points="280.0,120.0 272.2,122.9 272.2,117.1" fill="#7C3AED"/>
+<text x="290" y="124" font-family="DejaVu Sans" font-size="7.6" fill="#7C3AED" text-anchor="start" font-weight="bold">fractional distillation</text>
+<rect x="8" y="137" width="544" height="28" rx="5" fill="#FFFFFF" stroke="#D97706" stroke-width="1.0"/>
+<text x="16" y="155" font-family="DejaVu Sans" font-size="7.6" fill="#0E1F40" text-anchor="start" font-weight="normal">Two liquids do not mix</text>
+<line x1="258" y1="151" x2="272.25" y2="151.0" stroke="#D97706" stroke-width="1.2"/><polygon points="280.0,151.0 272.2,153.9 272.2,148.1" fill="#D97706"/>
+<text x="290" y="155" font-family="DejaVu Sans" font-size="7.6" fill="#D97706" text-anchor="start" font-weight="bold">a separating funnel; run off the lower layer</text>
+<rect x="8" y="168" width="544" height="28" rx="5" fill="#FFFFFF" stroke="#DC2626" stroke-width="1.0"/>
+<text x="16" y="186" font-family="DejaVu Sans" font-size="7.6" fill="#0E1F40" text-anchor="start" font-weight="normal">One liquid, one dissolved solid</text>
+<line x1="258" y1="182" x2="272.25" y2="182.0" stroke="#DC2626" stroke-width="1.2"/><polygon points="280.0,182.0 272.2,184.9 272.2,179.1" fill="#DC2626"/>
+<text x="290" y="186" font-family="DejaVu Sans" font-size="7.6" fill="#DC2626" text-anchor="start" font-weight="bold">simple distillation, or evaporation to crystallisation</text>
+<rect x="8" y="199" width="544" height="28" rx="5" fill="#FFFFFF" stroke="#334155" stroke-width="1.0"/>
+<text x="16" y="217" font-family="DejaVu Sans" font-size="7.6" fill="#0E1F40" text-anchor="start" font-weight="normal">The colours are different but the solubilities are close</text>
+<line x1="258" y1="213" x2="272.25" y2="213.0" stroke="#334155" stroke-width="1.2"/><polygon points="280.0,213.0 272.2,215.9 272.2,210.1" fill="#334155"/>
+<text x="290" y="217" font-family="DejaVu Sans" font-size="7.6" fill="#334155" text-anchor="start" font-weight="bold">paper chromatography</text>
+<rect x="8" y="230" width="544" height="28" rx="5" fill="#FFFFFF" stroke="#008751" stroke-width="1.0"/>
+<text x="16" y="248" font-family="DejaVu Sans" font-size="7.6" fill="#0E1F40" text-anchor="start" font-weight="normal">One solid sublimes (ammonium chloride, iodine)</text>
+<line x1="258" y1="244" x2="272.25" y2="244.0" stroke="#008751" stroke-width="1.2"/><polygon points="280.0,244.0 272.2,246.9 272.2,241.1" fill="#008751"/>
+<text x="290" y="248" font-family="DejaVu Sans" font-size="7.6" fill="#008751" text-anchor="start" font-weight="bold">sublimation: heat, and collect the vapour</text>
+<rect x="8" y="261" width="544" height="28" rx="5" fill="#FFFFFF" stroke="#2563EB" stroke-width="1.0"/>
+<text x="16" y="279" font-family="DejaVu Sans" font-size="7.6" fill="#0E1F40" text-anchor="start" font-weight="normal">One component is magnetic (iron from sulphur)</text>
+<line x1="258" y1="275" x2="272.25" y2="275.0" stroke="#2563EB" stroke-width="1.2"/><polygon points="280.0,275.0 272.2,277.9 272.2,272.1" fill="#2563EB"/>
+<text x="290" y="279" font-family="DejaVu Sans" font-size="7.6" fill="#2563EB" text-anchor="start" font-weight="bold">a magnet, or a magnet wrapped in paper</text>
+<text x="280" y="308" font-family="DejaVu Sans" font-size="7.8" fill="#64748B" text-anchor="middle" font-weight="normal">The method is chosen by the property that differs: solubility, boiling point, density, particle size or magnetism.</text>
+</svg>
