@@ -276,3 +276,5 @@ A current carries energy from the source to the components, and each component c
 #concept-box("Carry this into Chapter 3")[
   A current in a wire produces a magnetic field, and a magnetic field pushes a current-carrying wire. Chapter 3 turns that pair of facts into the motor, the generator and the transformer — three machines that between them carry the whole of the electricity supply from the power station to the socket on your wall.
 ]
+
+#include "drill_ch02.typ"

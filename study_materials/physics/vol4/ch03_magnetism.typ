@@ -171,21 +171,82 @@ Two coils wound on the same iron core, with no electrical connection between the
   + *Real transformers lose energy* to resistance in the coils (copper loss) and to repeated magnetisation of the core (eddy currents). Laminating the core and using thick wire reduce both.
 ]
 
+#worked-example(
+  4,
+  "The efficiency of a real transformer",
+  [A transformer steps 240 V down to 12 V. With a 12 V load drawing 4.0 A, the primary current is 0.22 A. Find (a) the power delivered to the load, (b) the power taken from the supply and (c) the efficiency.],
+  [
+    *(a)* $P_s = V_s I_s = 12 times 4.0 = 48$ W.
+
+    *(b)* $P_p = V_p I_p = 240 times 0.22 = 52.8$ W.
+
+    *(c)* Efficiency $= P_s \/ P_p = 48 \/ 52.8 = 0.91$, or 91 %.
+
+    *Check.* The efficiency must be below 100 %, and 91 % is realistic for a small transformer. If the answer had come out above 100 %, the currents would have been read the wrong way round — the primary current is always the smaller one in a step-down transformer, because the power is roughly the same on both sides and the voltage is larger.
+  ],
+  tier: "UTME STANDARD",
+)
+
+#worked-example(
+  5,
+  "An e.m.f. from a changing field",
+  [A coil of 50 turns, each of area 0.040 m², is held perpendicular to a magnetic field that rises steadily from zero to 0.25 T in 0.050 s. Find the average e.m.f. induced in the coil.],
+  [
+    The flux through one turn is $Phi = B A$, so the change is
+    $Delta Phi = (0.25 - 0) times 0.040 = 1.0 times 10^(-2)$ Wb.
+
+    Faraday's law: $E = N (Delta Phi)\/(Delta t) = 50 times (1.0 times 10^(-2)) \/ 0.050 = 10$ V.
+
+    *Check.* The three levers are all visible in the formula: more turns, a bigger area or a faster change all raise the e.m.f. Halving the time would double it to 20 V. Note also that the coil is *perpendicular* to the field, which is the position of maximum flux — if it were parallel to the field, no lines would pass through it and the answer would be zero.
+  ],
+  tier: "JAMB CHALLENGE",
+)
+
+#diagram-fig("diagrams/recap_ch03.svg",
+  "Chapter 3 recap card: magnetism and electromagnetic induction.", width: 100%)
+
+#block(width: 100%, fill: jamb-mint, stroke: 0.9pt + jamb-green, radius: 7pt, inset: 10pt)[
+  #text(font: "DejaVu Sans", size: 9.2pt, weight: "bold", fill: jamb-green)[Chapter 3 in one breath]
+  #v(3pt)
+  #text(size: 10.1pt)[
+    Magnetic field lines leave a north pole and enter a south pole, and they are closed loops — cut a magnet in half and you get two magnets, never an isolated pole. A current makes a field of its own: circles round a straight wire, a bar-magnet pattern for a solenoid. Put a current *in* a field and it feels a force, $F = B I l sin theta$, at right angles to both, which is the motor effect and the reason for Fleming's left-hand rule. Move a magnet near a coil and the changing flux induces an e.m.f., $E = -N d Phi \/ d t$, in a direction that opposes the change (Lenz) — the generator effect, and the same physics running backwards. A transformer is two coils sharing a changing flux, so $V_s \/ V_p = N_s \/ N_p$ and, ideally, $V_p I_p = V_s I_s$; it needs a.c. because only a *changing* flux induces anything. That is also why the grid transmits at high voltage: for a fixed power the current falls, and the loss in the cables, $I^2 R$, falls with the square of it.
+  ]
+]
+
 // ============================================================================
-== 3.5 Chapter 3 in the Exam Hall — a Two-Minute Set
+== 3.5 Motors, Generators and the Grid in One Picture
 
-#mcq(1, [A wire of length 0.50 m carrying a current of 4.0 A is at right angles to a magnetic field of flux density 0.10 T. The force on the wire is], [0.02 N], [0.20 N], [2.0 N], [20 N])
+The motor effect and electromagnetic induction are the same physics running in opposite directions, and almost every machine in this chapter is one of the two.
+
+#concept-box("Two machines, one law")[
+  + *Motor:* a current in a magnetic field feels a force. Electrical energy in, mechanical energy out. The commutator keeps the torque turning the same way.
+  + *Generator:* a conductor moving in a magnetic field has a changing flux through it. Mechanical energy in, electrical energy out. Slip rings give a.c.; a commutator gives d.c.
+  + *Transformer:* two coils sharing a changing flux. No moving parts at all — it changes the voltage of an alternating supply and nothing else.
+  + *The grid:* generators produce at a few kilovolts, transformers step it up to hundreds of kilovolts for transmission, and step it back down for the streets. Each step is the same turns ratio.
+]
+
+#shortcut-box("Which rule, on which question?")[
+  + Asked for a *force* on a wire or a beam of electrons? Fleming's *left* hand, and the answer has a direction.
+  + Asked for an *induced current* or e.m.f.? Faraday for the size, Lenz for the direction — and the words "rate of change" should appear in your reasoning.
+  + Asked for a *field* around a wire? The right-hand grip rule: thumb along the current, fingers round the field.
+  + Asked what a transformer does to *current*? The opposite of what it does to voltage, because the power is unchanged.
+]
+
+// ============================================================================
+== 3.6 Chapter 3 in the Exam Hall — a Two-Minute Set
+
+#mcq(1, [A wire of length 0.50 m carrying a current of 4.0 A is at right angles to a magnetic field of flux density 0.10 T. The force on the wire is], [0.02 N], [2.0 N], [0.20 N], [20 N])
 #mcq(2, [An e.m.f. is induced in a coil when], [a steady magnetic field passes through it], [the magnetic flux through it changes], [the coil is placed in a strong field], [the coil is made of copper])
-#mcq(3, [A transformer with 1000 turns on the primary and 200 on the secondary is connected to a 240 V supply. The secondary voltage is], [24 V], [48 V], [240 V], [1200 V])
-#mcq(4, [The direction of an induced current is given by], [Faraday's law], [Lenz's law], [Ohm's law], [Fleming's left-hand rule])
+#mcq(3, [A transformer with 1000 turns on the primary and 200 on the secondary is connected to a 240 V supply. The secondary voltage is], [24 V], [1200 V], [240 V], [48 V])
+#mcq(4, [The direction of an induced current is given by], [Lenz's law], [Faraday's law], [Ohm's law], [Fleming's left-hand rule])
 
-#answer-key-grid(("B", "B", "B", "B"))
+#answer-key-grid(("C", "B", "D", "A"))
 
 #answer-notes((
-  ("B", [$F = B I l = 0.10 times 4.0 times 0.50 = 0.20$ N, since the wire is at right angles to the field.]),
+  ("C", [$F = B I l = 0.10 times 4.0 times 0.50 = 0.20$ N, since the wire is at right angles to the field. Multiplying the current by itself instead of by the length gives 2.0 N, the tempting distractor.]),
   ("B", [it is the *change* of flux that induces an e.m.f.; a steady field through a stationary coil gives nothing.]),
-  ("B", [a step-down: $V_s = 240 times 200\/1000 = 48$ V. Fewer turns on the secondary means a lower voltage.]),
-  ("B", [Lenz's law gives the direction — the induced current opposes the change producing it. Faraday's law gives the size, and Fleming's left hand is for the force on a current, not for induction.]),
+  ("D", [a step-down: $V_s = 240 times 200\/1000 = 48$ V. Fewer turns on the secondary means a lower voltage.]),
+  ("A", [Lenz's law gives the direction — the induced current opposes the change producing it. Faraday's law gives the size, and Fleming's left hand is for the force on a current, not for induction.]),
 ))
 
 #chapter-checklist("Before you leave Chapter 3", (
@@ -200,3 +261,5 @@ Two coils wound on the same iron core, with no electrical connection between the
 #concept-box("Carry this into Chapter 4")[
   The last three chapters all rested on currents in wires. Chapter 4 goes inside the wire, into the semiconductor, where a current can be made to flow in *one direction only* — the diode — and where a small current at one terminal can control a large current at another, the transistor. Those two devices, plus the logic gate built from them, are what makes a computer.
 ]
+
+#include "drill_ch03.typ"

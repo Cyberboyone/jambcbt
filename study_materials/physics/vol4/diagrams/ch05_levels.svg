@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 300" width="680" height="300">
+  <defs>
+    <marker id="ag" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#008751"/>
+    </marker>
+    <marker id="an" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#0E1F40"/>
+    </marker>
+    <marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#D97706"/>
+    </marker>
+    <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#DC2626"/>
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="680" height="300" fill="#FFFFFF"/>
+<text x="340" y="20" font-family="DejaVu Sans" font-size="10.6" fill="#0E1F40" text-anchor="middle" font-weight="bold">ENERGY LEVELS TURN INTO SPECTRAL LINES</text>
+<rect x="14" y="34" width="350" height="250" rx="7" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="1.2"/>
+<text x="189" y="52" font-family="DejaVu Sans" font-size="9.0" fill="#008751" text-anchor="middle" font-weight="bold">THE HYDROGEN ATOM</text>
+<line x1="52" y1="236.0" x2="186" y2="236.0" stroke="#334155" stroke-width="1.5"/>
+<text x="194" y="239.0" font-family="DejaVu Sans" font-size="7.4" fill="#334155" text-anchor="start" font-weight="normal">n = 1  −13.6 eV</text>
+<line x1="52" y1="116.0" x2="186" y2="116.0" stroke="#334155" stroke-width="1.5"/>
+<text x="194" y="119.0" font-family="DejaVu Sans" font-size="7.4" fill="#334155" text-anchor="start" font-weight="normal">n = 2  −3.4 eV</text>
+<line x1="52" y1="93.76470588235293" x2="186" y2="93.76470588235293" stroke="#334155" stroke-width="1.5"/>
+<text x="194" y="96.76470588235293" font-family="DejaVu Sans" font-size="7.4" fill="#334155" text-anchor="start" font-weight="normal">n = 3  −1.5 eV</text>
+<line x1="52" y1="86.0" x2="186" y2="86.0" stroke="#334155" stroke-width="1.5"/>
+<text x="194" y="89.0" font-family="DejaVu Sans" font-size="7.4" fill="#334155" text-anchor="start" font-weight="normal">n = 4  −0.85 eV</text>
+<line x1="52" y1="76" x2="186" y2="76" stroke="#64748B" stroke-width="1.0" stroke-dasharray="4 3"/>
+<text x="194" y="79" font-family="DejaVu Sans" font-size="7.4" fill="#64748B" text-anchor="start" font-weight="normal">n = ∞  0 eV, ionised</text>
+<line x1="76" y1="114.0" x2="76.0" y2="231.7" stroke="#008751" stroke-width="1.4"/><polygon points="76.0,241.0 72.5,231.7 79.5,231.7" fill="#008751"/>
+<line x1="108" y1="91.76470588235293" x2="108.0" y2="231.7" stroke="#008751" stroke-width="1.4"/><polygon points="108.0,241.0 104.5,231.7 111.5,231.7" fill="#008751"/>
+<line x1="140" y1="84.0" x2="140.0" y2="111.7" stroke="#008751" stroke-width="1.4"/><polygon points="140.0,121.0 136.5,111.7 143.5,111.7" fill="#008751"/>
+<text x="189" y="258" font-family="DejaVu Sans" font-size="7.6" fill="#0E1F40" text-anchor="middle" font-weight="normal">A falling electron emits a photon of energy h f = E₂ − E₁.</text>
+<text x="189" y="272" font-family="DejaVu Sans" font-size="7.6" fill="#64748B" text-anchor="middle" font-weight="normal">The bigger the drop, the shorter the wavelength.</text>
+<rect x="376" y="34" width="290" height="250" rx="7" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="1.2"/>
+<text x="521" y="52" font-family="DejaVu Sans" font-size="9.0" fill="#008751" text-anchor="middle" font-weight="bold">THE BALMER LINES OF HYDROGEN</text>
+<rect x="400" y="96" width="240" height="8" rx="2" fill="#0B2036" stroke="#0B2036" stroke-width="1.0"/>
+<rect x="605.0" y="92" width="4" height="16" rx="1" fill="#DC2626" stroke="#DC2626" stroke-width="1.0"/>
+<text x="607.0" y="126" font-family="DejaVu Sans" font-size="7.6" fill="#334155" text-anchor="middle" font-weight="normal">656</text>
+<rect x="477.5" y="92" width="4" height="16" rx="1" fill="#0891B2" stroke="#0891B2" stroke-width="1.0"/>
+<text x="479.5" y="126" font-family="DejaVu Sans" font-size="7.6" fill="#334155" text-anchor="middle" font-weight="normal">486</text>
+<rect x="438.5" y="92" width="4" height="16" rx="1" fill="#6D28D9" stroke="#6D28D9" stroke-width="1.0"/>
+<text x="440.5" y="126" font-family="DejaVu Sans" font-size="7.6" fill="#334155" text-anchor="middle" font-weight="normal">434</text>
+<rect x="420.5" y="92" width="4" height="16" rx="1" fill="#4C1D95" stroke="#4C1D95" stroke-width="1.0"/>
+<text x="422.5" y="126" font-family="DejaVu Sans" font-size="7.6" fill="#334155" text-anchor="middle" font-weight="normal">410</text>
+<text x="400" y="84" font-family="DejaVu Sans" font-size="7.2" fill="#64748B" text-anchor="start" font-weight="normal">400 nm</text>
+<text x="640" y="84" font-family="DejaVu Sans" font-size="7.2" fill="#64748B" text-anchor="end" font-weight="normal">700 nm</text>
+<text x="521" y="146" font-family="DejaVu Sans" font-size="7.6" fill="#64748B" text-anchor="middle" font-weight="normal">wavelength / nm</text>
+<text x="521" y="186" font-family="DejaVu Sans" font-size="7.9" fill="#0E1F40" text-anchor="middle" font-weight="normal">The lines are sharp, and they are</text>
+<text x="521" y="198" font-family="DejaVu Sans" font-size="7.9" fill="#0E1F40" text-anchor="middle" font-weight="normal">different for every element —</text>
+<text x="521" y="210" font-family="DejaVu Sans" font-size="7.9" fill="#0E1F40" text-anchor="middle" font-weight="normal">which is how astronomers read the</text>
+<text x="521" y="222" font-family="DejaVu Sans" font-size="7.9" fill="#0E1F40" text-anchor="middle" font-weight="normal">composition of a star.</text>
+<text x="521" y="250" font-family="DejaVu Sans" font-size="7.7" fill="#64748B" text-anchor="middle" font-weight="normal">An absorption spectrum is the same</text>
+<text x="521" y="262" font-family="DejaVu Sans" font-size="7.7" fill="#64748B" text-anchor="middle" font-weight="normal">lines, missing from a continuous band.</text>
+</svg>

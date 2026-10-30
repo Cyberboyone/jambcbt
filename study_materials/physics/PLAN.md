@@ -161,3 +161,41 @@ python tools/tune_fit.py --rounds 2        # tunes _fit.json, then rebuilds unti
 | Appendices D–K | done — pp 148–168 |
 
 Build at this checkpoint: **168 pp, 4.11 MB, 0 Typst warnings**. 240 drill questions, 240 paper items (two 40-question mocks, 40 rapid-fire pairs, 120-question bank), 28 diagrams, appendices A–K. House-style fixes carried from Volume 2 are in place — dense tables at `inset: 3.6pt`, the C.6 score log, J.3 morning-of table and the H.7/I.7 closing tables all present — plus three new ones found in this volume: formula and concept boxes carry `above`/`below` spacing so prose never butts against a border, `answer-notes` is breakable so a chapter never ends on a sliver, and question runs are padded by `tools/tune_fit.py` as well as solution runs.
+
+## Volume 4 — Electricity, Magnetism and Modern Physics
+
+| Ch | Title | Sections | Status |
+| --- | --- | --- | --- |
+| 1 | Electrostatics and Capacitors | 1.1–1.6 + 1.7 drill | done |
+| 2 | Current Electricity | 2.1–2.6 + 2.7 drill | done |
+| 3 | Magnetism and Electromagnetic Induction | 3.1–3.6 + 3.7 drill | done |
+| 4 | Electronics | 4.1–4.6 + 4.7 drill | done |
+| 5 | Atomic Physics and the Photoelectric Effect | 5.1–5.6 + 5.7 drill | done |
+| 6 | Radioactivity and Nuclear Physics | 6.1–6.6 + 6.7 drill | done |
+
+### Volume 4 — build
+
+```bash
+cd study_materials/physics/vol4
+python diagrams_gen/generate_diagrams.py  # regenerates all 31 SVGs
+python tools/drills_phys4.py              # writes drill_ch01–06.typ
+python tools/papers_phys4.py              # writes the mocks, rapid-fire, bank120 and answer_keys
+python build.py                           # writes JAMB_Physics_Volume4_Electricity_Magnetism_Modern_Physics.pdf
+python tools/tune_fit.py --rounds 2       # tunes _fit.json, then rebuilds until the tails are full
+```
+
+### Volume 4 — progress
+
+| Stage | Status |
+| --- | --- |
+| Front matter (cover, series map, chapters-at-a-glance, contents, how to use and where everything is) | done — 7 pp |
+| Chapters 1–6, five worked examples and four MCQs each | done — pp 7–108 |
+| Diagrams (31 reviewed SVGs, all script-generated) | done |
+| Drill banks, 40 per chapter, six chapters (240 questions) | done — pp 17–108 |
+| Paper banks, 40 per chapter (240 items feeding the mocks, bank and rapid-fire) | done |
+| Two 40-question CBT mocks | done — pp 109–124 |
+| Rapid-fire pairs, 120-question bank, consolidated keys | done — Appendices A–C, pp 125–151 |
+| Appendices D–K | done — pp 152–172 |
+
+Build at this checkpoint: **172 pp, 4.08 MB, 0 Typst warnings**. 240 drill questions, 240 paper items (two 40-question mocks, 40 rapid-fire pairs, 120-question bank), 31 diagrams, 30 worked examples, appendices A–K. Two house-style fixes were made in this volume: isotope notation is written with `attach(upright("U"), tl: 238, bl: 92)` because `${}^238_92"U"` prints literal braces in Typst math, and the chapter-two-step numbering (N.6 exam set, N.7 drill) is now enforced for every chapter — Chapter 3 needed an extra section to keep it.
+

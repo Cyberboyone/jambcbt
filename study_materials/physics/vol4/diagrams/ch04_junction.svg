@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 290" width="680" height="290">
+  <defs>
+    <marker id="ag" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#008751"/>
+    </marker>
+    <marker id="an" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#0E1F40"/>
+    </marker>
+    <marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#D97706"/>
+    </marker>
+    <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#DC2626"/>
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="680" height="290" fill="#FFFFFF"/>
+<text x="340" y="20" font-family="DejaVu Sans" font-size="10.4" fill="#0E1F40" text-anchor="middle" font-weight="bold">DOPING MAKES A SEMICONDUCTOR USEFUL; THE JUNCTION MAKES IT A DIODE</text>
+<rect x="14" y="34" width="320" height="236" rx="7" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="1.2"/>
+<text x="174" y="52" font-family="DejaVu Sans" font-size="9.0" fill="#008751" text-anchor="middle" font-weight="bold">TWO KINDS OF DOPED SILICON</text>
+<rect x="34" y="70" width="130" height="76" rx="4" fill="#FEE2E2" stroke="#DC2626" stroke-width="1.2"/>
+<text x="99" y="90" font-family="DejaVu Sans" font-size="9.4" fill="#DC2626" text-anchor="middle" font-weight="bold">p-type</text>
+<text x="99" y="108" font-family="DejaVu Sans" font-size="7.8" fill="#334155" text-anchor="middle" font-weight="normal">doped with boron</text>
+<text x="99" y="122" font-family="DejaVu Sans" font-size="7.8" fill="#334155" text-anchor="middle" font-weight="normal">positive holes</text>
+<text x="99" y="136" font-family="DejaVu Sans" font-size="7.8" fill="#334155" text-anchor="middle" font-weight="normal">are the carriers</text>
+<rect x="34" y="164" width="130" height="76" rx="4" fill="#DBEAFE" stroke="#2563EB" stroke-width="1.2"/>
+<text x="99" y="184" font-family="DejaVu Sans" font-size="9.4" fill="#2563EB" text-anchor="middle" font-weight="bold">n-type</text>
+<text x="99" y="202" font-family="DejaVu Sans" font-size="7.8" fill="#334155" text-anchor="middle" font-weight="normal">doped with arsenic</text>
+<text x="99" y="216" font-family="DejaVu Sans" font-size="7.8" fill="#334155" text-anchor="middle" font-weight="normal">free electrons</text>
+<text x="99" y="230" font-family="DejaVu Sans" font-size="7.8" fill="#334155" text-anchor="middle" font-weight="normal">are the carriers</text>
+<text x="220" y="108" font-family="DejaVu Sans" font-size="8.2" fill="#0E1F40" text-anchor="middle" font-weight="normal">Both are neutral overall:</text>
+<text x="220" y="124" font-family="DejaVu Sans" font-size="8.2" fill="#0E1F40" text-anchor="middle" font-weight="normal">doping adds carriers,</text>
+<text x="220" y="140" font-family="DejaVu Sans" font-size="8.2" fill="#0E1F40" text-anchor="middle" font-weight="normal">not charge.</text>
+<text x="220" y="176" font-family="DejaVu Sans" font-size="8.2" fill="#64748B" text-anchor="middle" font-weight="normal">Resistance falls as</text>
+<text x="220" y="192" font-family="DejaVu Sans" font-size="8.2" fill="#64748B" text-anchor="middle" font-weight="normal">the temperature rises —</text>
+<text x="220" y="208" font-family="DejaVu Sans" font-size="8.2" fill="#64748B" text-anchor="middle" font-weight="normal">the opposite of a metal.</text>
+<rect x="346" y="34" width="320" height="236" rx="7" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="1.2"/>
+<text x="506" y="52" font-family="DejaVu Sans" font-size="9.0" fill="#008751" text-anchor="middle" font-weight="bold">THE p-n JUNCTION AT REST</text>
+<rect x="366" y="78" width="130" height="96" rx="3" fill="#FEE2E2" stroke="#DC2626" stroke-width="1.2"/>
+<rect x="496" y="78" width="130" height="96" rx="3" fill="#DBEAFE" stroke="#2563EB" stroke-width="1.2"/>
+<text x="431" y="100" font-family="DejaVu Sans" font-size="11" fill="#DC2626" text-anchor="middle" font-weight="bold">p</text>
+<text x="561" y="100" font-family="DejaVu Sans" font-size="11" fill="#2563EB" text-anchor="middle" font-weight="bold">n</text>
+<rect x="478" y="78" width="38" height="96" rx="0" fill="#F1F5F9" stroke="#334155" stroke-width="1.0"/>
+<text x="497" y="190" font-family="DejaVu Sans" font-size="7.6" fill="#334155" text-anchor="middle" font-weight="normal">depletion layer</text>
+<line x1="462" y1="120" x2="478.25" y2="120.0" stroke="#008751" stroke-width="1.2"/><polygon points="486.0,120.0 478.2,122.9 478.2,117.1" fill="#008751"/>
+<line x1="532" y1="132" x2="515.75" y2="132.0" stroke="#008751" stroke-width="1.2"/><polygon points="508.0,132.0 515.8,129.1 515.8,134.9" fill="#008751"/>
+<text x="506" y="212" font-family="DejaVu Sans" font-size="7.9" fill="#0E1F40" text-anchor="middle" font-weight="normal">Electrons and holes diffuse across the junction and</text>
+<text x="506" y="226" font-family="DejaVu Sans" font-size="7.9" fill="#0E1F40" text-anchor="middle" font-weight="normal">leave a thin layer with no free carriers — a barrier</text>
+<text x="506" y="240" font-family="DejaVu Sans" font-size="7.9" fill="#0E1F40" text-anchor="middle" font-weight="normal">of about 0.7 V in silicon, and 0.3 V in germanium.</text>
+<text x="506" y="258" font-family="DejaVu Sans" font-size="7.7" fill="#64748B" text-anchor="middle" font-weight="normal">Forward bias lowers the barrier; reverse bias raises it.</text>
+</svg>

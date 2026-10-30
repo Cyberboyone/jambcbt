@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Stretch the long solution runs to the foot of their last page (Volume 3).
+"""Stretch the long solution runs to the foot of their last page (Volume 4).
 
 Each run of `sol-item` blocks ends wherever the text runs out, which leaves a
 short page at the end of a drill, a mock or the master bank. The pad in
@@ -25,7 +25,7 @@ from pathlib import Path
 HERE = Path(__file__).resolve().parent
 OUT = HERE.parent
 
-PDF = OUT / "JAMB_Physics_Volume3_Heat_Thermodynamics.pdf"
+PDF = OUT / "JAMB_Physics_Volume4_Electricity_Magnetism_Modern_Physics.pdf"
 
 RUNS = {
     "drill_ch01": 40,
@@ -43,16 +43,16 @@ QRUNS = {
     "q_mock1": ("Mock Examination 1 — Questions", "Mock Examination 1 — Answer Key"),
     "q_mock2": ("Mock Examination 2 — Questions", "Mock Examination 2 — Answer Key"),
     "q_bank120": ("Master Bank — Questions", "Master Bank — Answer Key"),
-    "q_rapid": ("A.1 The First Twenty", "Appendix B"),
+    "q_rapid": ("Appendix A", "Appendix B"),
 }
 
 CHAPTERS = [
-    "Chapter 1: Temperature and Thermometers",
-    "Chapter 2: Expansion of Solids, Liquids and Gases",
-    "Chapter 3: Heat Transfer",
-    "Chapter 4: Calorimetry, Latent Heat and Vapours",
-    "Chapter 5: The Gas Laws and the Kinetic Theory",
-    "Chapter 6: Thermodynamics and Heat Engines",
+    "Chapter 1: Electrostatics and Capacitors",
+    "Chapter 2: Current Electricity",
+    "Chapter 3: Magnetism and Electromagnetic Induction",
+    "Chapter 4: Electronics",
+    "Chapter 5: Atomic Physics",
+    "Chapter 6: Radioactivity and Nuclear Physics",
 ]
 
 TARGET = 120.0  # leave at most this much white space on the last page
@@ -102,7 +102,7 @@ def runs_from_toc(entries) -> dict[str, tuple[int, int]]:
     last = len(doc)
     out = {}
     starts = [page_of(entries, ch) for ch in CHAPTERS]
-    mocks = page_of(entries, "Mock Examination 1")
+    mocks = lenient(entries, "Mock Examination 1", fallback=last)
     stops = starts[1:] + [mocks]
     for i in range(1, 7):
         drill = page_of(entries, f"Chapter {i} Practice Drill")
@@ -139,10 +139,10 @@ def qspans() -> dict[str, tuple[int, int]]:
 
 
 def rebuild() -> None:
-    subprocess.run([sys.executable, str(HERE / "drills_phys3.py")], check=True,
-                   stdout=subprocess.DEVNULL)
-    subprocess.run([sys.executable, str(HERE / "papers_phys3.py")], check=True,
-                   stdout=subprocess.DEVNULL)
+    for script in ("drills_phys4.py", "papers_phys4.py"):
+        if (HERE / script).exists():
+            subprocess.run([sys.executable, str(HERE / script)], check=True,
+                           stdout=subprocess.DEVNULL)
     subprocess.run([sys.executable, str(OUT / "build.py")], check=True,
                    stdout=subprocess.DEVNULL)
 

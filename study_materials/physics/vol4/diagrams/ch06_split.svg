@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 306" width="680" height="306">
+  <defs>
+    <marker id="ag" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#008751"/>
+    </marker>
+    <marker id="an" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#0E1F40"/>
+    </marker>
+    <marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#D97706"/>
+    </marker>
+    <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#DC2626"/>
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="680" height="306" fill="#FFFFFF"/>
+<text x="340" y="20" font-family="DejaVu Sans" font-size="10.6" fill="#0E1F40" text-anchor="middle" font-weight="bold">SPLITTING HEAVY NUCLEI, JOINING LIGHT ONES</text>
+<rect x="14" y="34" width="326" height="240" rx="7" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="1.2"/>
+<text x="177" y="52" font-family="DejaVu Sans" font-size="9.2" fill="#008751" text-anchor="middle" font-weight="bold">FISSION</text>
+<circle cx="30" cy="120" r="3.2" fill="#2563EB"/>
+<text x="30" y="104" font-family="DejaVu Sans" font-size="6.8" fill="#2563EB" text-anchor="middle" font-weight="normal">n</text>
+<line x1="38" y1="120" x2="38.25" y2="120.0" stroke="#2563EB" stroke-width="1.2"/><polygon points="46.0,120.0 38.2,122.9 38.2,117.1" fill="#2563EB"/>
+<circle cx="72" cy="120" r="20" fill="#FDE68A" stroke="#B45309" stroke-width="1.4"/>
+<text x="72" y="123" font-family="DejaVu Sans" font-size="7.2" fill="#92400E" text-anchor="middle" font-weight="bold">U-235</text>
+<line x1="96" y1="114" x2="128.22586916838222" y2="99.498358874228" stroke="#64748B" stroke-width="1.3"/><polygon points="136.0,96.0 129.5,102.4 126.9,96.6" fill="#64748B"/>
+<line x1="96" y1="126" x2="128.22586916838222" y2="140.501641125772" stroke="#64748B" stroke-width="1.3"/><polygon points="136.0,144.0 126.9,143.4 129.5,137.6" fill="#64748B"/>
+<circle cx="152" cy="92" r="13" fill="#FCA5A5" stroke="#B91C1C" stroke-width="1.3"/>
+<text x="152" y="95" font-family="DejaVu Sans" font-size="6.8" fill="#7F1D1D" text-anchor="middle" font-weight="bold">Ba</text>
+<circle cx="152" cy="148" r="10" fill="#BFDBFE" stroke="#1D4ED8" stroke-width="1.3"/>
+<text x="152" y="151" font-family="DejaVu Sans" font-size="6.6" fill="#1E3A8A" text-anchor="middle" font-weight="bold">Kr</text>
+<circle cx="206" cy="78" r="3.4" fill="#2563EB"/>
+<text x="216" y="80.5" font-family="DejaVu Sans" font-size="6.8" fill="#2563EB" text-anchor="start" font-weight="normal">n</text>
+<circle cx="206" cy="120" r="3.4" fill="#2563EB"/>
+<text x="216" y="122.5" font-family="DejaVu Sans" font-size="6.8" fill="#2563EB" text-anchor="start" font-weight="normal">n</text>
+<circle cx="206" cy="162" r="3.4" fill="#2563EB"/>
+<text x="216" y="164.5" font-family="DejaVu Sans" font-size="6.8" fill="#2563EB" text-anchor="start" font-weight="normal">n</text>
+<text x="177" y="208" font-family="DejaVu Sans" font-size="7.5" fill="#0E1F40" text-anchor="middle" font-weight="normal">The nucleus splits asymmetrically — barium</text>
+<text x="177" y="220" font-family="DejaVu Sans" font-size="7.5" fill="#0E1F40" text-anchor="middle" font-weight="normal">and krypton are the usual fragments — and</text>
+<text x="177" y="232" font-family="DejaVu Sans" font-size="7.5" fill="#0E1F40" text-anchor="middle" font-weight="normal">two or three neutrons come out, each able</text>
+<text x="177" y="244" font-family="DejaVu Sans" font-size="7.5" fill="#0E1F40" text-anchor="middle" font-weight="normal">to split the next nucleus.</text>
+<rect x="350" y="34" width="316" height="240" rx="7" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="1.2"/>
+<text x="508" y="52" font-family="DejaVu Sans" font-size="9.2" fill="#008751" text-anchor="middle" font-weight="bold">FUSION</text>
+<circle cx="414" cy="108" r="11" fill="#FCA5A5" stroke="#B91C1C" stroke-width="1.3"/>
+<text x="414" y="111" font-family="DejaVu Sans" font-size="6.8" fill="#7F1D1D" text-anchor="middle" font-weight="bold">H</text>
+<circle cx="450" cy="108" r="13" fill="#BFDBFE" stroke="#1D4ED8" stroke-width="1.3"/>
+<text x="450" y="111" font-family="DejaVu Sans" font-size="6.8" fill="#1E3A8A" text-anchor="middle" font-weight="bold">H</text>
+<line x1="472" y1="108" x2="506.7" y2="108.0" stroke="#64748B" stroke-width="1.4"/><polygon points="516.0,108.0 506.7,111.5 506.7,104.5" fill="#64748B"/>
+<circle cx="552" cy="108" r="17" fill="#FDE68A" stroke="#B45309" stroke-width="1.4"/>
+<text x="552" y="112" font-family="DejaVu Sans" font-size="7.2" fill="#92400E" text-anchor="middle" font-weight="bold">He</text>
+<circle cx="596" cy="82" r="3.4" fill="#2563EB"/>
+<text x="606" y="84.5" font-family="DejaVu Sans" font-size="6.8" fill="#2563EB" text-anchor="start" font-weight="normal">n</text>
+<text x="508" y="176" font-family="DejaVu Sans" font-size="7.5" fill="#0E1F40" text-anchor="middle" font-weight="normal">The Sun runs on this reaction. Four</text>
+<text x="508" y="188" font-family="DejaVu Sans" font-size="7.5" fill="#0E1F40" text-anchor="middle" font-weight="normal">protons become helium, and the mass</text>
+<text x="508" y="200" font-family="DejaVu Sans" font-size="7.5" fill="#0E1F40" text-anchor="middle" font-weight="normal">lost reappears as 26.7 MeV of energy.</text>
+<text x="508" y="224" font-family="DejaVu Sans" font-size="7.4" fill="#64748B" text-anchor="middle" font-weight="normal">Both reactions release energy because</text>
+<text x="508" y="236" font-family="DejaVu Sans" font-size="7.4" fill="#64748B" text-anchor="middle" font-weight="normal">the product is more tightly bound than</text>
+<text x="508" y="248" font-family="DejaVu Sans" font-size="7.4" fill="#64748B" text-anchor="middle" font-weight="normal">what went in: E = mc², from the mass defect.</text>
+</svg>

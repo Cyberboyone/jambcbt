@@ -293,3 +293,5 @@ A capacitor is two conductors separated by an insulator. Connect it to a battery
 #concept-box("Carry this into Chapter 2")[
   A charge that has somewhere to go becomes a current, and the same field that pushes a scrap of paper will push electrons through a wire. Chapter 2 takes the charge of this chapter, sets it moving, and turns it into the three quantities every circuit question is built from: current, potential difference and resistance.
 ]
+
+#include "drill_ch01.typ"

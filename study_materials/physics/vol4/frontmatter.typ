@@ -62,7 +62,7 @@
     #text(font: "DejaVu Sans", size: 10.1pt, fill: rgb("#E2E8F0"))[
       Electrostatics and Capacitors, Current Electricity, Magnetism and
       Electromagnetic Induction, Electronics, Atomic Physics and the
-      Photoelectric Effect, and Radioactivity — with 26 reviewed diagrams,
+      Photoelectric Effect, and Radioactivity — with 31 reviewed diagrams,
       30 worked examples and a note on every exam-style option.
     ]
 
@@ -288,3 +288,32 @@ Every chapter is built in the same order, and the order is the method:
 #v(4pt)
 
 #text(font: "DejaVu Sans", size: 8.8pt, fill: jamb-muted)[Where a section is marked with a green bar and the word CONCEPT, it is a definition the examiner quotes back at you; where it is marked JAMB TRAP, it is the mistake the examiner is banking on. Both are worth more than their length in the chapter.]
+
+#v(8pt)
+
+== Where Everything Is
+
+The chapters are the teaching; the back half of the book is the practice and the reference.
+
+#v(2pt)
+
+#table(
+  columns: (1.55fr, 2.55fr, 1.2fr),
+  inset: 4.2pt,
+  align: (left + horizon, left + horizon, left + horizon),
+  stroke: 0.5pt + jamb-border,
+  fill: (x, y) => if y == 0 { jamb-navy } else if calc.odd(y) { white } else { jamb-light },
+  table.header(
+    text(font: "DejaVu Sans", size: 8.2pt, weight: "bold", fill: white)[Part],
+    text(font: "DejaVu Sans", size: 8.2pt, weight: "bold", fill: white)[What it holds],
+    text(font: "DejaVu Sans", size: 8.2pt, weight: "bold", fill: white)[When to use it],
+  ),
+  [Chapters 1–6], [Five worked examples, a recap card, a four-question set and a forty-question drill per chapter], [First pass, then wherever a drill shows a gap],
+  [Mocks 1 and 2], [Two forty-question papers, timed, with full solutions and a question map], [After Chapter 3, then a week later],
+  [Appendices A–C], [Rapid-fire pairs, the 120-question bank, every key and the score log], [Once the chapters are done],
+  [Appendices D–K], [Data, formulas, glossary, planner, derivations, structured questions, traps, playbook], [While working, then the last six weeks],
+)
+
+#v(4pt)
+
+#text(size: 9.6pt)[A note on order. Do not read the book from the first page to the last and then start the drills: the drills are the reading. Work a chapter, sit its drill the same week, and let the solutions send you back to the one section you skimmed. The mock papers exist to mix the chapters, because the examination mixes them — a chapter you can do in isolation but not under a mixed paper is not yet finished.]
