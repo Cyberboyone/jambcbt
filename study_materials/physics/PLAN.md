@@ -13,7 +13,7 @@ numbers are baked in at build time.
 |---|---|---|---|
 | 1 | Mechanics & Properties of Matter | measurement, vectors, kinematics, Newton's laws, momentum, work and energy, machines, circular motion, gravitation, SHM, elasticity, fluids | **delivered — 151 pp** |
 | 2 | Waves, Sound and Light | waves and superposition, sound, reflection and refraction, mirrors and lenses, optical instruments, the eye, colour and photometry | **delivered — 154 pp** |
-| 3 | Heat and Thermodynamics | temperature and thermometers, expansion, heat transfer, calorimetry, change of state, gas laws, thermodynamics, vapours and humidity | planned |
+| 3 | Heat and Thermodynamics | temperature and thermometers, expansion, heat transfer, calorimetry, change of state, gas laws, thermodynamics, vapours and humidity | **delivered — 168 pp** |
 | 4 | Electricity, Magnetism and Modern Physics | electrostatics, capacitors, current electricity, magnetism, electromagnetic induction, AC, electronics, atomic and nuclear physics | planned |
 
 ## Volume 1 — Mechanics & Properties of Matter
@@ -114,3 +114,50 @@ python tools/tune_fit.py --rounds 4        # tunes _fit.json, then rebuilds unti
 | Appendices D–K | done — pp 137–154 |
 
 Build at this checkpoint: **154 pp, 3.97 MB, 0 Typst warnings**. 240 drill questions, 240 paper items (two 40-question mocks, 40 rapid-fire pairs, 120-question bank), 28 diagrams, appendices A–K. Every chapter ends on a compact checklist and a carry-forward box; no page is left half blank, and `tools/tune_fit.py` keeps every solution run's tail page full.
+
+## Volume 3 — Heat and Thermodynamics
+
+| Ch | Title | Sections | Status |
+|----|-------|----------|--------|
+| 1 | Temperature and Thermometers | heat against temperature, the thermometric property and the two fixed points, the Celsius and Kelvin scales, calibration, choosing a thermometer, the two-minute set | **shipped** |
+| 2 | Expansion of Solids, Liquids and Gases | linear expansivity, real and apparent expansion of liquids, the anomalous expansion of water, expansion of gases, bimetallic strips, the two-minute set | **shipped** |
+| 3 | Heat Transfer | conduction, convection, radiation, the vacuum flask, the greenhouse and the sea breeze, the two-minute set | **shipped** |
+| 4 | Calorimetry, Latent Heat and Vapours | heat capacity and specific heat capacity, the method of mixtures, latent heat and the heating curve, vapours, boiling and humidity, the two-minute set | **shipped** |
+| 5 | The Gas Laws and the Kinetic Theory | Boyle, Charles and the pressure law, the general gas equation and the ideal gas law, the kinetic theory, Brownian motion and diffusion, the Maxwell–Boltzmann distribution, the two-minute set | **shipped** |
+| 6 | Thermodynamics and Heat Engines | internal energy and the first law, the four processes on a pV diagram, heat engines and efficiency, refrigerators and the second law, the two-minute set | **shipped** |
+
+Back matter (delivered): two 40-question CBT mocks, Appendix A (40 rapid-fire pairs),
+Appendix B (120-question master bank), Appendix C (consolidated keys, plus C.6 score
+log), Appendix D (data, formulae and constants, with D.6 symbol table), Appendix E
+(formula map, plus the five faces of the heat equation), Appendix F (glossary, 70
+terms), Appendix G (revision planner and score tracker, six-week and eight-week plans),
+Appendix H (derivations, with H.7 results table), Appendix I (structured questions with
+model answers, I.7 mark scheme), Appendix J (the twelve traps, worked, plus J.2 pocket
+list, J.3 morning of the paper and J.4 three traps in full), Appendix K (exam-day
+playbook).
+
+## Volume 3 — build
+
+```bash
+cd study_materials/physics/vol3
+python diagrams_gen/generate_diagrams.py   # writes diagrams/*.svg (28 figures)
+python tools/drills_phys3.py               # writes drill_ch01–06.typ
+python tools/papers_phys3.py               # writes the mocks, rapid-fire, bank120 and answer_keys
+python build.py                            # writes JAMB_Physics_Volume3_Heat_Thermodynamics.pdf
+python tools/tune_fit.py --rounds 2        # tunes _fit.json, then rebuilds until the tails are full
+```
+
+## Volume 3 — progress
+
+| Stage | Status |
+| --- | --- |
+| Front matter (cover, series map, chapters-at-a-glance, equation sheet, contents, how to use) | done — 5 pp |
+| Chapters 1–6, five worked examples and four MCQs each | done — pp 6–105 |
+| Diagrams (28 reviewed SVGs, all script-generated) | done |
+| Drill banks, 40 per chapter, six chapters (240 questions) | done — pp 15–105 |
+| Paper banks, 40 per chapter (240 items feeding the mocks, bank and rapid-fire) | done |
+| Two 40-question CBT mocks | done — pp 106–121 |
+| Rapid-fire pairs, 120-question bank, consolidated keys | done — Appendices A–C, pp 122–147 |
+| Appendices D–K | done — pp 148–168 |
+
+Build at this checkpoint: **168 pp, 4.11 MB, 0 Typst warnings**. 240 drill questions, 240 paper items (two 40-question mocks, 40 rapid-fire pairs, 120-question bank), 28 diagrams, appendices A–K. House-style fixes carried from Volume 2 are in place — dense tables at `inset: 3.6pt`, the C.6 score log, J.3 morning-of table and the H.7/I.7 closing tables all present — plus three new ones found in this volume: formula and concept boxes carry `above`/`below` spacing so prose never butts against a border, `answer-notes` is breakable so a chapter never ends on a sliver, and question runs are padded by `tools/tune_fit.py` as well as solution runs.

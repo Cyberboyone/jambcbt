@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 620 288" width="620" height="288">
+  <defs>
+    <marker id="ag" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#008751"/>
+    </marker>
+    <marker id="an" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#0E1F40"/>
+    </marker>
+    <marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#D97706"/>
+    </marker>
+    <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#DC2626"/>
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="620" height="288" fill="#FFFFFF"/>
+<text x="310" y="20" font-family="DejaVu Sans" font-size="10.4" fill="#0E1F40" text-anchor="middle" font-weight="bold">RUN THE ARROWS BACKWARDS AND YOU HAVE A REFRIGERATOR</text>
+<rect x="24" y="44" width="180" height="54" rx="7" fill="#DBEAFE" stroke="#2563EB" stroke-width="1.3"/>
+<text x="114" y="68" font-family="DejaVu Sans" font-size="8.8" fill="#2563EB" text-anchor="middle" font-weight="bold">COLD ROOM (inside)</text>
+<text x="114" y="86" font-family="DejaVu Sans" font-size="8.0" fill="#334155" text-anchor="middle" font-weight="normal">T₂, low</text>
+<rect x="228" y="136" width="130" height="86" rx="8" fill="#FFFFFF" stroke="#0E1F40" stroke-width="1.6"/>
+<text x="293" y="168" font-family="DejaVu Sans" font-size="10.4" fill="#0E1F40" text-anchor="middle" font-weight="bold">FRIDGE</text>
+<text x="293" y="186" font-family="DejaVu Sans" font-size="7.8" fill="#334155" text-anchor="middle" font-weight="normal">the compressor is</text>
+<text x="293" y="199" font-family="DejaVu Sans" font-size="7.8" fill="#334155" text-anchor="middle" font-weight="normal">driven by work W</text>
+<rect x="404" y="44" width="192" height="54" rx="7" fill="#FEE2E2" stroke="#DC2626" stroke-width="1.3"/>
+<text x="500" y="68" font-family="DejaVu Sans" font-size="8.8" fill="#DC2626" text-anchor="middle" font-weight="bold">KITCHEN (outside)</text>
+<text x="500" y="86" font-family="DejaVu Sans" font-size="8.0" fill="#334155" text-anchor="middle" font-weight="normal">T₁, warm</text>
+<line x1="206" y1="96" x2="225.47320277875795" y2="127.45671218107051" stroke="#2563EB" stroke-width="1.9"/><polygon points="232.0,138.0 221.5,129.9 229.4,125.0" fill="#2563EB"/>
+<text x="60" y="112" font-family="DejaVu Sans" font-size="7.8" fill="#2563EB" text-anchor="start" font-weight="normal">Q₂ taken from the food</text>
+<line x1="360" y1="146" x2="405.2318759132868" y2="100.76812408671319" stroke="#DC2626" stroke-width="1.9"/><polygon points="414.0,92.0 408.5,104.0 402.0,97.5" fill="#DC2626"/>
+<text x="424" y="132" font-family="DejaVu Sans" font-size="7.6" fill="#DC2626" text-anchor="start" font-weight="normal">Q₁ = Q₂ + W, dumped outside</text>
+<line x1="293" y1="222" x2="293.0" y2="233.6" stroke="#008751" stroke-width="1.9"/><polygon points="293.0,246.0 288.4,233.6 297.6,233.6" fill="#008751"/>
+<text x="360" y="240" font-family="DejaVu Sans" font-size="8.0" fill="#008751" text-anchor="start" font-weight="normal">work in</text>
+<rect x="24" y="256" width="572" height="26" rx="6" fill="#F8FAFC" stroke="#CBD5E1" stroke-width="1.1"/>
+<text x="310" y="273" font-family="DejaVu Sans" font-size="8.0" fill="#0E1F40" text-anchor="middle" font-weight="normal">coefficient of performance  =  Q₂ / W   —  it can be greater than 1, which is why a fridge is not called efficient</text>
+</svg>

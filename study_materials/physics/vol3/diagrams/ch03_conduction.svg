@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 280" width="680" height="280">
+  <defs>
+    <marker id="ag" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#008751"/>
+    </marker>
+    <marker id="an" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#0E1F40"/>
+    </marker>
+    <marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#D97706"/>
+    </marker>
+    <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#DC2626"/>
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="680" height="280" fill="#FFFFFF"/>
+<text x="340" y="20" font-family="DejaVu Sans" font-size="10.4" fill="#0E1F40" text-anchor="middle" font-weight="bold">SEARLE'S BAR: MEASURING THE THERMAL CONDUCTIVITY OF A METAL</text>
+<rect x="150" y="104" width="470" height="34" rx="4" fill="#D6D3D1" stroke="#334155" stroke-width="1.3"/>
+<text x="560" y="126" font-family="DejaVu Sans" font-size="8.2" fill="#334155" text-anchor="middle" font-weight="normal">metal bar</text>
+<rect x="150" y="96" width="470" height="8" rx="2" fill="#FDE68A" stroke="#D97706" stroke-width="1.0"/>
+<text x="470" y="92" font-family="DejaVu Sans" font-size="7.4" fill="#D97706" text-anchor="middle" font-weight="normal">lagged</text>
+<line x1="250" y1="164" x2="250" y2="172" stroke="#0E1F40" stroke-width="1.0"/>
+<line x1="400" y1="164" x2="400" y2="172" stroke="#0E1F40" stroke-width="1.0"/>
+<line x1="252" y1="172" x2="389.475" y2="172.0" stroke="#0E1F40" stroke-width="1.1"/><polygon points="398.0,172.0 389.5,175.2 389.5,168.8" fill="#0E1F40"/>
+<line x1="398" y1="172" x2="260.525" y2="172.0" stroke="#0E1F40" stroke-width="1.1"/><polygon points="252.0,172.0 260.5,168.8 260.5,175.2" fill="#0E1F40"/>
+<text x="325" y="166" font-family="DejaVu Sans" font-size="8.8" fill="#0E1F40" text-anchor="middle" font-weight="bold">L</text>
+<rect x="96" y="90" width="58" height="62" rx="5" fill="#DBEAFE" stroke="#2563EB" stroke-width="1.2"/>
+<line x1="125" y1="58" x2="125.0" y2="73.15" stroke="#2563EB" stroke-width="1.4"/><polygon points="125.0,84.0 120.9,73.2 129.1,73.2" fill="#2563EB"/>
+<text x="125" y="44" font-family="DejaVu Sans" font-size="7.8" fill="#2563EB" text-anchor="middle" font-weight="normal">steam in</text>
+<text x="125" y="170" font-family="DejaVu Sans" font-size="7.8" fill="#64748B" text-anchor="middle" font-weight="normal">100 °C end</text>
+<line x1="250" y1="56" x2="250" y2="108" stroke="#DC2626" stroke-width="1.6"/>
+<circle cx="250" cy="112" r="4" fill="#DC2626"/>
+<text x="236" y="46" font-family="DejaVu Sans" font-size="9.0" fill="#DC2626" text-anchor="middle" font-weight="bold">θ₁</text>
+<line x1="400" y1="56" x2="400" y2="108" stroke="#DC2626" stroke-width="1.6"/>
+<circle cx="400" cy="112" r="4" fill="#DC2626"/>
+<text x="386" y="46" font-family="DejaVu Sans" font-size="9.0" fill="#DC2626" text-anchor="middle" font-weight="bold">θ₂</text>
+<rect x="620" y="96" width="40" height="50" rx="4" fill="#FCA5A5" stroke="#DC2626" stroke-width="1.2"/>
+<text x="640" y="88" font-family="DejaVu Sans" font-size="7.8" fill="#DC2626" text-anchor="middle" font-weight="normal">coil</text>
+<text x="640" y="162" font-family="DejaVu Sans" font-size="7.8" fill="#DC2626" text-anchor="middle" font-weight="normal">heater, power P</text>
+<rect x="20" y="182" width="640" height="82" rx="7" fill="#F8FAFC" stroke="#CBD5E1" stroke-width="1.2"/>
+<text x="340" y="202" font-family="DejaVu Sans" font-size="9.0" fill="#0E1F40" text-anchor="middle" font-weight="bold">IN STEADY STATE ALL THE POWER PASSES ALONG THE BAR</text>
+<text x="340" y="228" font-family="DejaVu Sans" font-size="13.5" fill="#008751" text-anchor="middle" font-weight="bold">k  =  P L  /  [ A (θ₁ − θ₂) ]</text>
+<text x="340" y="250" font-family="DejaVu Sans" font-size="8.2" fill="#334155" text-anchor="middle" font-weight="normal">P in watts, L in metres, A in m², the temperatures in °C or K — the difference is the same either way.</text>
+</svg>

@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 300" width="640" height="300">
+  <defs>
+    <marker id="ag" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#008751"/>
+    </marker>
+    <marker id="an" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#0E1F40"/>
+    </marker>
+    <marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#D97706"/>
+    </marker>
+    <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#DC2626"/>
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="640" height="300" fill="#FFFFFF"/>
+<text x="320" y="20" font-family="DejaVu Sans" font-size="10.0" fill="#0E1F40" text-anchor="middle" font-weight="bold">A HEAT ENGINE MOVES HEAT FROM HOT TO COLD AND KEEPS SOME OF IT AS WORK</text>
+<rect x="24" y="44" width="200" height="56" rx="7" fill="#FEE2E2" stroke="#DC2626" stroke-width="1.4"/>
+<text x="124" y="68" font-family="DejaVu Sans" font-size="9.4" fill="#DC2626" text-anchor="middle" font-weight="bold">HOT SOURCE</text>
+<text x="124" y="86" font-family="DejaVu Sans" font-size="7.8" fill="#334155" text-anchor="middle" font-weight="normal">T₁ — burning fuel, steam</text>
+<rect x="250" y="152" width="140" height="86" rx="8" fill="#FFFFFF" stroke="#0E1F40" stroke-width="1.8"/>
+<text x="320" y="186" font-family="DejaVu Sans" font-size="11" fill="#0E1F40" text-anchor="middle" font-weight="bold">ENGINE</text>
+<text x="320" y="204" font-family="DejaVu Sans" font-size="8.4" fill="#334155" text-anchor="middle" font-weight="normal">does work W</text>
+<text x="320" y="220" font-family="DejaVu Sans" font-size="8.4" fill="#008751" text-anchor="middle" font-weight="normal">efficiency η = W / Q₁</text>
+<rect x="416" y="182" width="200" height="56" rx="7" fill="#DBEAFE" stroke="#2563EB" stroke-width="1.4"/>
+<text x="516" y="206" font-family="DejaVu Sans" font-size="9.4" fill="#2563EB" text-anchor="middle" font-weight="bold">COLD SINK</text>
+<text x="516" y="224" font-family="DejaVu Sans" font-size="7.8" fill="#334155" text-anchor="middle" font-weight="normal">T₂ — exhaust, cooling water</text>
+<line x1="150" y1="104" x2="245.16566549309536" y2="144.53352419150357" stroke="#DC2626" stroke-width="2.0"/><polygon points="258.0,150.0 243.1,149.3 247.2,139.7" fill="#DC2626"/>
+<text x="150" y="126" font-family="DejaVu Sans" font-size="8.8" fill="#DC2626" text-anchor="start" font-weight="bold">Q₁ in</text>
+<line x1="390" y1="176" x2="400.2309222461371" y2="182.51058688390543" stroke="#2563EB" stroke-width="2.0"/><polygon points="412.0,190.0 397.4,186.9 403.0,178.1" fill="#2563EB"/>
+<text x="398" y="168" font-family="DejaVu Sans" font-size="8.8" fill="#2563EB" text-anchor="start" font-weight="bold">Q₂ out</text>
+<line x1="320" y1="150" x2="320.0" y2="121.95" stroke="#008751" stroke-width="2.0"/><polygon points="320.0,108.0 325.2,122.0 314.8,122.0" fill="#008751"/>
+<text x="320" y="96" font-family="DejaVu Sans" font-size="8.8" fill="#008751" text-anchor="middle" font-weight="bold">W = Q₁ − Q₂</text>
+<rect x="24" y="262" width="592" height="30" rx="7" fill="#F8FAFC" stroke="#CBD5E1" stroke-width="1.2"/>
+<text x="320" y="282" font-family="DejaVu Sans" font-size="8.2" fill="#334155" text-anchor="middle" font-weight="normal">No engine turns all of Q₁ into work: some heat must always be rejected to a colder place.</text>
+</svg>

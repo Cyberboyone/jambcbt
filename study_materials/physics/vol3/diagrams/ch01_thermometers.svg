@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 660 322" width="660" height="322">
+  <defs>
+    <marker id="ag" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#008751"/>
+    </marker>
+    <marker id="an" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#0E1F40"/>
+    </marker>
+    <marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#D97706"/>
+    </marker>
+    <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#DC2626"/>
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="660" height="322" fill="#FFFFFF"/>
+<text x="330" y="20" font-family="DejaVu Sans" font-size="10.6" fill="#0E1F40" text-anchor="middle" font-weight="bold">FOUR THERMOMETERS — FOUR THERMOMETRIC PROPERTIES</text>
+<rect x="16" y="36" width="300" height="110" rx="7" fill="#FFFFFF" stroke="#008751" stroke-width="1.4"/>
+<rect x="16" y="36" width="300" height="5" rx="2.5" fill="#008751"/>
+<text x="166" y="60" font-family="DejaVu Sans" font-size="9.8" fill="#0E1F40" text-anchor="middle" font-weight="bold">Liquid in glass</text>
+<text x="166" y="76" font-family="DejaVu Sans" font-size="8.2" fill="#008751" text-anchor="middle" font-weight="normal">property: volume of the liquid</text>
+<text x="30" y="96" font-family="DejaVu Sans" font-size="8.4" fill="#334155" text-anchor="start" font-weight="normal">• −10 to 110 °C</text>
+<text x="30" y="112" font-family="DejaVu Sans" font-size="8.4" fill="#334155" text-anchor="start" font-weight="normal">• cheap, direct reading</text>
+<text x="30" y="128" font-family="DejaVu Sans" font-size="8.4" fill="#334155" text-anchor="start" font-weight="normal">• slow, fragile, wide bore</text>
+<rect x="334" y="36" width="300" height="110" rx="7" fill="#FFFFFF" stroke="#2563EB" stroke-width="1.4"/>
+<rect x="334" y="36" width="300" height="5" rx="2.5" fill="#2563EB"/>
+<text x="484" y="60" font-family="DejaVu Sans" font-size="9.8" fill="#0E1F40" text-anchor="middle" font-weight="bold">Thermocouple</text>
+<text x="484" y="76" font-family="DejaVu Sans" font-size="8.2" fill="#2563EB" text-anchor="middle" font-weight="normal">property: e.m.f. of a hot junction</text>
+<text x="348" y="96" font-family="DejaVu Sans" font-size="8.4" fill="#334155" text-anchor="start" font-weight="normal">• −200 to 1600 °C</text>
+<text x="348" y="112" font-family="DejaVu Sans" font-size="8.4" fill="#334155" text-anchor="start" font-weight="normal">• tiny junction, fast</text>
+<text x="348" y="128" font-family="DejaVu Sans" font-size="8.4" fill="#334155" text-anchor="start" font-weight="normal">• needs a cold junction</text>
+<rect x="16" y="160" width="300" height="110" rx="7" fill="#FFFFFF" stroke="#7C3AED" stroke-width="1.4"/>
+<rect x="16" y="160" width="300" height="5" rx="2.5" fill="#7C3AED"/>
+<text x="166" y="184" font-family="DejaVu Sans" font-size="9.8" fill="#0E1F40" text-anchor="middle" font-weight="bold">Resistance</text>
+<text x="166" y="200" font-family="DejaVu Sans" font-size="8.2" fill="#7C3AED" text-anchor="middle" font-weight="normal">property: resistance of a wire</text>
+<text x="30" y="220" font-family="DejaVu Sans" font-size="8.4" fill="#334155" text-anchor="start" font-weight="normal">• −200 to 600 °C</text>
+<text x="30" y="236" font-family="DejaVu Sans" font-size="8.4" fill="#334155" text-anchor="start" font-weight="normal">• very precise</text>
+<text x="30" y="252" font-family="DejaVu Sans" font-size="8.4" fill="#334155" text-anchor="start" font-weight="normal">• needs a bridge circuit</text>
+<rect x="334" y="160" width="300" height="110" rx="7" fill="#FFFFFF" stroke="#D97706" stroke-width="1.4"/>
+<rect x="334" y="160" width="300" height="5" rx="2.5" fill="#D97706"/>
+<text x="484" y="184" font-family="DejaVu Sans" font-size="9.8" fill="#0E1F40" text-anchor="middle" font-weight="bold">Pyrometer</text>
+<text x="484" y="200" font-family="DejaVu Sans" font-size="8.2" fill="#D97706" text-anchor="middle" font-weight="normal">property: colour of a hot body</text>
+<text x="348" y="220" font-family="DejaVu Sans" font-size="8.4" fill="#334155" text-anchor="start" font-weight="normal">• 800 to 3000 °C</text>
+<text x="348" y="236" font-family="DejaVu Sans" font-size="8.4" fill="#334155" text-anchor="start" font-weight="normal">• no contact needed</text>
+<text x="348" y="252" font-family="DejaVu Sans" font-size="8.4" fill="#334155" text-anchor="start" font-weight="normal">• reads only very hot bodies</text>
+<text x="330" y="306" font-family="DejaVu Sans" font-size="8.2" fill="#64748B" text-anchor="middle" font-weight="normal">Choose by range and by speed: a thermocouple for a flame, a resistance thermometer for a bath.</text>
+</svg>

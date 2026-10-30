@@ -1,0 +1,88 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 660 316" width="660" height="316">
+  <defs>
+    <marker id="ag" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#008751"/>
+    </marker>
+    <marker id="an" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#0E1F40"/>
+    </marker>
+    <marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#D97706"/>
+    </marker>
+    <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#DC2626"/>
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="660" height="316" fill="#FFFFFF"/>
+<text x="330" y="20" font-family="DejaVu Sans" font-size="10.6" fill="#0E1F40" text-anchor="middle" font-weight="bold">PRESSURE IS MOLECULES HITTING A WALL</text>
+<rect x="24" y="38" width="250" height="168" rx="6" fill="#FFFFFF" stroke="#0E1F40" stroke-width="1.8"/>
+<circle cx="176.77119358623608" cy="177.60993213574056" r="3.2" fill="#008751"/>
+<line x1="176.77119358623608" y1="177.60993213574056" x2="177.33199567073166" y2="174.16528396473305" stroke="#008751" stroke-width="1.1"/><polygon points="178.4,167.7 179.7,174.6 174.9,173.8" fill="#008751"/>
+<circle cx="87.9959961779114" cy="94.02327988757156" r="3.2" fill="#008751"/>
+<line x1="87.9959961779114" y1="94.02327988757156" x2="90.44126743597788" y2="91.53314967521841" stroke="#008751" stroke-width="1.1"/><polygon points="95.0,86.9 92.2,93.2 88.7,89.8" fill="#008751"/>
+<circle cx="39.16889761355759" cy="166.97197857358728" r="3.2" fill="#008751"/>
+<line x1="39.16889761355759" y1="166.97197857358728" x2="40.186070290778915" y2="163.63349692099212" stroke="#008751" stroke-width="1.1"/><polygon points="42.1,157.4 42.5,164.3 37.9,162.9" fill="#008751"/>
+<circle cx="141.881559531306" cy="94.42453975470389" r="3.2" fill="#008751"/>
+<line x1="141.881559531306" y1="94.42453975470389" x2="141.26154235401737" y2="97.85902351501883" stroke="#008751" stroke-width="1.1"/><polygon points="140.1,104.3 138.9,97.4 143.7,98.3" fill="#008751"/>
+<circle cx="94.58104845921565" cy="114.31068282357052" r="3.2" fill="#008751"/>
+<line x1="94.58104845921565" y1="114.31068282357052" x2="91.09247346287106" y2="114.21096073534903" stroke="#008751" stroke-width="1.1"/><polygon points="84.6,114.0 91.2,111.8 91.0,116.6" fill="#008751"/>
+<circle cx="160.8764121605373" cy="191.37003968081498" r="3.2" fill="#008751"/>
+<line x1="160.8764121605373" y1="191.37003968081498" x2="161.80075340054591" y2="188.00467294418442" stroke="#008751" stroke-width="1.1"/><polygon points="163.5,181.7 164.1,188.6 159.5,187.4" fill="#008751"/>
+<circle cx="176.1237889359381" cy="190.4544206754639" r="3.2" fill="#008751"/>
+<line x1="176.1237889359381" y1="190.4544206754639" x2="176.87850121284185" y2="193.8618404293379" stroke="#008751" stroke-width="1.1"/><polygon points="178.3,200.2 174.5,194.4 179.3,193.3" fill="#008751"/>
+<circle cx="73.56707151644149" cy="137.7555445982243" r="3.2" fill="#008751"/>
+<line x1="73.56707151644149" y1="137.7555445982243" x2="76.9248949715696" y2="138.70692341036568" stroke="#008751" stroke-width="1.1"/><polygon points="83.2,140.5 76.3,141.1 77.6,136.4" fill="#008751"/>
+<circle cx="45.92102188773834" cy="124.08443483799184" r="3.2" fill="#008751"/>
+<line x1="45.92102188773834" y1="124.08443483799184" x2="42.509401191108275" y2="124.8199239421432" stroke="#008751" stroke-width="1.1"/><polygon points="36.1,126.2 42.0,122.4 43.0,127.2" fill="#008751"/>
+<circle cx="241.6112456488132" cy="140.09167562874146" r="3.2" fill="#008751"/>
+<line x1="241.6112456488132" y1="140.09167562874146" x2="238.1349669404863" y2="139.78250521936658" stroke="#008751" stroke-width="1.1"/><polygon points="231.7,139.2 238.4,137.4 237.9,142.2" fill="#008751"/>
+<circle cx="148.30590265735793" cy="86.65208908382633" r="3.2" fill="#008751"/>
+<line x1="148.30590265735793" y1="86.65208908382633" x2="151.78632453135154" y2="86.91047557539791" stroke="#008751" stroke-width="1.1"/><polygon points="158.3,87.4 151.6,89.3 152.0,84.5" fill="#008751"/>
+<circle cx="80.71327596473895" cy="148.8844969234575" r="3.2" fill="#008751"/>
+<line x1="80.71327596473895" y1="148.8844969234575" x2="81.77908419899006" y2="152.2077713340054" stroke="#008751" stroke-width="1.1"/><polygon points="83.8,158.4 79.5,153.0 84.1,151.5" fill="#008751"/>
+<circle cx="120.03706095368989" cy="52.52279388729063" r="3.2" fill="#008751"/>
+<line x1="120.03706095368989" y1="52.52279388729063" x2="121.71929837323414" y2="49.4649879313338" stroke="#008751" stroke-width="1.1"/><polygon points="124.9,43.8 123.9,50.6 119.6,48.3" fill="#008751"/>
+<circle cx="72.29035999563965" cy="89.46390263892997" r="3.2" fill="#008751"/>
+<line x1="72.29035999563965" y1="89.46390263892997" x2="74.83944091332985" y2="87.0801479378192" stroke="#008751" stroke-width="1.1"/><polygon points="79.6,82.6 76.5,88.9 73.2,85.3" fill="#008751"/>
+<circle cx="151.17355979078997" cy="170.6010344912217" r="3.2" fill="#008751"/>
+<line x1="151.17355979078997" y1="170.6010344912217" x2="148.9441748179405" y2="167.91590085528605" stroke="#008751" stroke-width="1.1"/><polygon points="144.8,162.9 150.8,166.4 147.1,169.5" fill="#008751"/>
+<circle cx="202.67315031433228" cy="64.8093847088264" r="3.2" fill="#008751"/>
+<line x1="202.67315031433228" y1="64.8093847088264" x2="199.29911998576932" y2="63.917185548359846" stroke="#008751" stroke-width="1.1"/><polygon points="193.0,62.3 199.9,61.6 198.7,66.3" fill="#008751"/>
+<circle cx="150.72543645867768" cy="173.98751273700327" r="3.2" fill="#008751"/>
+<line x1="150.72543645867768" y1="173.98751273700327" x2="148.4795395083044" y2="176.65885077033113" stroke="#008751" stroke-width="1.1"/><polygon points="144.3,181.6 146.6,175.1 150.3,178.2" fill="#008751"/>
+<circle cx="170.7968629200013" cy="60.2952299283705" r="3.2" fill="#008751"/>
+<line x1="170.7968629200013" y1="60.2952299283705" x2="168.1411699907788" y2="62.55960513263273" stroke="#008751" stroke-width="1.1"/><polygon points="163.2,66.8 166.6,60.7 169.7,64.4" fill="#008751"/>
+<circle cx="109.71406886932188" cy="73.02796206986326" r="3.2" fill="#008751"/>
+<line x1="109.71406886932188" y1="73.02796206986326" x2="111.12699479358335" y2="69.8367647502746" stroke="#008751" stroke-width="1.1"/><polygon points="113.8,63.9 113.4,70.8 108.9,68.9" fill="#008751"/>
+<circle cx="122.23705008416937" cy="189.02470381757104" r="3.2" fill="#008751"/>
+<line x1="122.23705008416937" y1="189.02470381757104" x2="119.29024802288612" y2="187.15482210697627" stroke="#008751" stroke-width="1.1"/><polygon points="113.8,183.7 120.6,185.1 118.0,189.2" fill="#008751"/>
+<circle cx="172.322488350227" cy="141.3195213103665" r="3.2" fill="#008751"/>
+<line x1="172.322488350227" y1="141.3195213103665" x2="170.76646215197852" y2="138.19560030138365" stroke="#008751" stroke-width="1.1"/><polygon points="167.9,132.4 172.9,137.1 168.6,139.3" fill="#008751"/>
+<circle cx="71.47494025537785" cy="113.64388540634626" r="3.2" fill="#008751"/>
+<line x1="71.47494025537785" y1="113.64388540634626" x2="71.70362104967401" y2="117.1263852404195" stroke="#008751" stroke-width="1.1"/><polygon points="72.1,123.6 69.3,117.3 74.1,117.0" fill="#008751"/>
+<circle cx="127.35462217908392" cy="65.53857315044439" r="3.2" fill="#008751"/>
+<line x1="127.35462217908392" y1="65.53857315044439" x2="130.77356129957698" y2="64.83789113243472" stroke="#008751" stroke-width="1.1"/><polygon points="137.2,63.5 131.3,67.2 130.3,62.5" fill="#008751"/>
+<circle cx="85.73089629300537" cy="146.0471227655799" r="3.2" fill="#008751"/>
+<line x1="85.73089629300537" y1="146.0471227655799" x2="84.64366992146465" y2="149.3634518832982" stroke="#008751" stroke-width="1.1"/><polygon points="82.6,155.5 82.3,148.6 87.0,150.1" fill="#008751"/>
+<rect x="271" y="92" width="6" height="52" rx="2" fill="#DC2626" stroke="#DC2626" stroke-width="1.0"/>
+<text x="149.0" y="222" font-family="DejaVu Sans" font-size="8.2" fill="#334155" text-anchor="middle" font-weight="normal">N molecules, each of mass m,</text>
+<text x="149.0" y="236" font-family="DejaVu Sans" font-size="8.2" fill="#334155" text-anchor="middle" font-weight="normal">in a box of volume V</text>
+<line x1="292" y1="80" x2="277.3" y2="80.0" stroke="#DC2626" stroke-width="1.4"/><polygon points="268.0,80.0 277.3,76.5 277.3,83.5" fill="#DC2626"/>
+<rect x="300" y="38" width="336" height="168" rx="7" fill="#F8FAFC" stroke="#CBD5E1" stroke-width="1.2"/>
+<text x="468" y="58" font-family="DejaVu Sans" font-size="9.2" fill="#0E1F40" text-anchor="middle" font-weight="bold">THE ONE-LINE DERIVATION</text>
+<text x="312" y="78" font-family="DejaVu Sans" font-size="8.2" fill="#334155" text-anchor="start" font-weight="normal">each collision changes</text>
+<text x="624" y="78" font-family="DejaVu Sans" font-size="8.6" fill="#008751" text-anchor="end" font-weight="bold">2 m v</text>
+<text x="312" y="96" font-family="DejaVu Sans" font-size="8.2" fill="#334155" text-anchor="start" font-weight="normal">momentum by</text>
+<text x="312" y="114" font-family="DejaVu Sans" font-size="8.2" fill="#334155" text-anchor="start" font-weight="normal">collisions per second</text>
+<text x="624" y="114" font-family="DejaVu Sans" font-size="8.6" fill="#008751" text-anchor="end" font-weight="bold">N m v² / 3 L</text>
+<text x="312" y="132" font-family="DejaVu Sans" font-size="8.2" fill="#334155" text-anchor="start" font-weight="normal">on one wall</text>
+<text x="312" y="150" font-family="DejaVu Sans" font-size="8.2" fill="#334155" text-anchor="start" font-weight="normal">force on the wall</text>
+<text x="624" y="150" font-family="DejaVu Sans" font-size="8.6" fill="#008751" text-anchor="end" font-weight="bold">N m v² / 3 L</text>
+<text x="312" y="168" font-family="DejaVu Sans" font-size="8.2" fill="#334155" text-anchor="start" font-weight="normal">pressure = force / area</text>
+<text x="624" y="168" font-family="DejaVu Sans" font-size="8.6" fill="#008751" text-anchor="end" font-weight="bold">N m v² / 3 V</text>
+<line x1="312" y1="186" x2="624" y2="186" stroke="#CBD5E1" stroke-width="1.0"/>
+<text x="468" y="200" font-family="DejaVu Sans" font-size="10.6" fill="#0E1F40" text-anchor="middle" font-weight="bold">p V  =  ⅓ N m c²</text>
+<text x="330" y="254" font-family="DejaVu Sans" font-size="8.5" fill="#0E1F40" text-anchor="middle" font-weight="normal">Temperature is the average kinetic energy of the molecules.</text>
+<text x="330" y="272" font-family="DejaVu Sans" font-size="8.5" fill="#334155" text-anchor="middle" font-weight="normal">½ m c²  =  3/2 k T, so doubling the kelvin temperature makes the molecules √2 times faster.</text>
+<text x="330" y="306" font-family="DejaVu Sans" font-size="8.2" fill="#64748B" text-anchor="middle" font-weight="normal">This is why a gas pressure rises with temperature even when the volume is fixed.</text>
+</svg>
