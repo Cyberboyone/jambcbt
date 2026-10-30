@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 300" width="560" height="300">
+  <defs>
+    <marker id="ag" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#008751"/>
+    </marker>
+    <marker id="an" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#0E1F40"/>
+    </marker>
+    <marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#D97706"/>
+    </marker>
+    <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#DC2626"/>
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="560" height="300" fill="#FFFFFF"/>
+<text x="280" y="20" font-family="DejaVu Sans" font-size="11" fill="#0E1F40" text-anchor="middle" font-weight="bold">FREE FALL — ONE ACCELERATION, TWO DIRECTIONS OF SIGN</text>
+<line x1="280" y1="44" x2="280" y2="240" stroke="#334155" stroke-width="1.4" stroke-dasharray="5 3"/>
+<circle cx="280" cy="250" r="5" fill="#008751"/>
+<circle cx="280" cy="214" r="4" fill="#008751" opacity="0.85"/>
+<circle cx="280" cy="178" r="4" fill="#008751" opacity="0.73"/>
+<circle cx="280" cy="142" r="4" fill="#008751" opacity="0.61"/>
+<circle cx="280" cy="106" r="4" fill="#008751" opacity="0.49"/>
+<circle cx="280" cy="70" r="4" fill="#008751" opacity="0.37"/>
+<line x1="310" y1="246" x2="310.0" y2="82.4" stroke="#008751" stroke-width="2.0"/><polygon points="310.0,70.0 314.6,82.4 305.4,82.4" fill="#008751"/>
+<text x="340" y="150" font-family="DejaVu Sans" font-size="9.2" fill="#008751" text-anchor="middle" font-weight="bold">thrown up</text>
+<text x="340" y="166" font-family="DejaVu Sans" font-size="9.2" fill="#008751" text-anchor="middle" font-weight="normal">a = −g</text>
+<circle cx="200" cy="70" r="5" fill="#2563EB"/>
+<circle cx="200" cy="106" r="4" fill="#2563EB" opacity="0.85"/>
+<circle cx="200" cy="142" r="4" fill="#2563EB" opacity="0.73"/>
+<circle cx="200" cy="178" r="4" fill="#2563EB" opacity="0.61"/>
+<circle cx="200" cy="214" r="4" fill="#2563EB" opacity="0.49"/>
+<circle cx="200" cy="250" r="4" fill="#2563EB" opacity="0.37"/>
+<line x1="170" y1="74" x2="170.0" y2="237.6" stroke="#2563EB" stroke-width="2.0"/><polygon points="170.0,250.0 165.4,237.6 174.6,237.6" fill="#2563EB"/>
+<text x="96" y="150" font-family="DejaVu Sans" font-size="9.2" fill="#2563EB" text-anchor="middle" font-weight="bold">dropped</text>
+<text x="96" y="166" font-family="DejaVu Sans" font-size="9.2" fill="#2563EB" text-anchor="middle" font-weight="normal">a = +g</text>
+<rect x="8" y="258" width="544" height="34" rx="6" fill="#ECFDF5" stroke="#008751" stroke-width="1.1"/>
+<text x="280" y="274" font-family="DejaVu Sans" font-size="9.0" fill="#0E1F40" text-anchor="middle" font-weight="normal">same g = 10 m s⁻² downward; only the sign you give it changes</text>
+<text x="280" y="288" font-family="DejaVu Sans" font-size="8.4" fill="#64748B" text-anchor="middle" font-weight="normal">at the top of the flight v = 0 but a is still g — the ball is never weightless</text>
+</svg>

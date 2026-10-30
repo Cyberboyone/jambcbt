@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 336" width="560" height="336">
+  <defs>
+    <marker id="ag" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#008751"/>
+    </marker>
+    <marker id="an" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#0E1F40"/>
+    </marker>
+    <marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#D97706"/>
+    </marker>
+    <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#DC2626"/>
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="560" height="336" fill="#FFFFFF"/>
+<text x="280" y="20" font-family="DejaVu Sans" font-size="11" fill="#0E1F40" text-anchor="middle" font-weight="bold">THE SEVEN BASE UNITS, AND THE DERIVED UNITS BUILT ON THEM</text>
+<rect x="8" y="34" width="262" height="290" rx="8" fill="#FFFFFF" stroke="#008751" stroke-width="1.2"/>
+<rect x="8" y="34" width="262" height="22" rx="8" fill="#ECFDF5" stroke="#008751" stroke-width="1.0"/>
+<text x="139" y="49" font-family="DejaVu Sans" font-size="8.6" fill="#008751" text-anchor="middle" font-weight="bold">BASE QUANTITY  ·  UNIT  ·  SYMBOL</text>
+<text x="18" y="74" font-family="DejaVu Sans" font-size="9.0" fill="#0E1F40" text-anchor="start" font-weight="normal">length</text>
+<text x="160" y="74" font-family="DejaVu Sans" font-size="9.0" fill="#334155" text-anchor="start" font-weight="normal">metre</text>
+<text x="240" y="74" font-family="DejaVu Sans" font-size="9.4" fill="#008751" text-anchor="start" font-weight="bold">m</text>
+<text x="18" y="107" font-family="DejaVu Sans" font-size="9.0" fill="#0E1F40" text-anchor="start" font-weight="normal">mass</text>
+<text x="160" y="107" font-family="DejaVu Sans" font-size="9.0" fill="#334155" text-anchor="start" font-weight="normal">kilogram</text>
+<text x="240" y="107" font-family="DejaVu Sans" font-size="9.4" fill="#008751" text-anchor="start" font-weight="bold">kg</text>
+<text x="18" y="140" font-family="DejaVu Sans" font-size="9.0" fill="#0E1F40" text-anchor="start" font-weight="normal">time</text>
+<text x="160" y="140" font-family="DejaVu Sans" font-size="9.0" fill="#334155" text-anchor="start" font-weight="normal">second</text>
+<text x="240" y="140" font-family="DejaVu Sans" font-size="9.4" fill="#008751" text-anchor="start" font-weight="bold">s</text>
+<text x="18" y="173" font-family="DejaVu Sans" font-size="9.0" fill="#0E1F40" text-anchor="start" font-weight="normal">current</text>
+<text x="160" y="173" font-family="DejaVu Sans" font-size="9.0" fill="#334155" text-anchor="start" font-weight="normal">ampere</text>
+<text x="240" y="173" font-family="DejaVu Sans" font-size="9.4" fill="#008751" text-anchor="start" font-weight="bold">A</text>
+<text x="18" y="206" font-family="DejaVu Sans" font-size="9.0" fill="#0E1F40" text-anchor="start" font-weight="normal">temperature</text>
+<text x="160" y="206" font-family="DejaVu Sans" font-size="9.0" fill="#334155" text-anchor="start" font-weight="normal">kelvin</text>
+<text x="240" y="206" font-family="DejaVu Sans" font-size="9.4" fill="#008751" text-anchor="start" font-weight="bold">K</text>
+<text x="18" y="239" font-family="DejaVu Sans" font-size="9.0" fill="#0E1F40" text-anchor="start" font-weight="normal">amount of substance</text>
+<text x="160" y="239" font-family="DejaVu Sans" font-size="9.0" fill="#334155" text-anchor="start" font-weight="normal">mole</text>
+<text x="240" y="239" font-family="DejaVu Sans" font-size="9.4" fill="#008751" text-anchor="start" font-weight="bold">mol</text>
+<text x="18" y="272" font-family="DejaVu Sans" font-size="9.0" fill="#0E1F40" text-anchor="start" font-weight="normal">luminous intensity</text>
+<text x="160" y="272" font-family="DejaVu Sans" font-size="9.0" fill="#334155" text-anchor="start" font-weight="normal">candela</text>
+<text x="240" y="272" font-family="DejaVu Sans" font-size="9.4" fill="#008751" text-anchor="start" font-weight="bold">cd</text>
+<text x="139" y="312" font-family="DejaVu Sans" font-size="7.8" fill="#64748B" text-anchor="middle" font-weight="normal">every other unit in physics is built from these seven</text>
+<rect x="282" y="34" width="270" height="290" rx="8" fill="#FFFFFF" stroke="#2563EB" stroke-width="1.2"/>
+<rect x="282" y="34" width="270" height="22" rx="8" fill="#DBEAFE" stroke="#2563EB" stroke-width="1.0"/>
+<text x="417" y="49" font-family="DejaVu Sans" font-size="8.6" fill="#2563EB" text-anchor="middle" font-weight="bold">DERIVED UNIT  ·  IN BASE UNITS</text>
+<text x="292" y="74" font-family="DejaVu Sans" font-size="8.8" fill="#0E1F40" text-anchor="start" font-weight="normal">velocity</text>
+<text x="540" y="74" font-family="DejaVu Sans" font-size="9.0" fill="#2563EB" text-anchor="end" font-weight="bold">m s⁻¹</text>
+<text x="292" y="99" font-family="DejaVu Sans" font-size="8.8" fill="#0E1F40" text-anchor="start" font-weight="normal">acceleration</text>
+<text x="540" y="99" font-family="DejaVu Sans" font-size="9.0" fill="#2563EB" text-anchor="end" font-weight="bold">m s⁻²</text>
+<text x="292" y="124" font-family="DejaVu Sans" font-size="8.8" fill="#0E1F40" text-anchor="start" font-weight="normal">force, newton (N)</text>
+<text x="540" y="124" font-family="DejaVu Sans" font-size="9.0" fill="#2563EB" text-anchor="end" font-weight="bold">kg m s⁻²</text>
+<text x="292" y="149" font-family="DejaVu Sans" font-size="8.8" fill="#0E1F40" text-anchor="start" font-weight="normal">work, joule (J)</text>
+<text x="540" y="149" font-family="DejaVu Sans" font-size="9.0" fill="#2563EB" text-anchor="end" font-weight="bold">kg m² s⁻²</text>
+<text x="292" y="174" font-family="DejaVu Sans" font-size="8.8" fill="#0E1F40" text-anchor="start" font-weight="normal">power, watt (W)</text>
+<text x="540" y="174" font-family="DejaVu Sans" font-size="9.0" fill="#2563EB" text-anchor="end" font-weight="bold">kg m² s⁻³</text>
+<text x="292" y="199" font-family="DejaVu Sans" font-size="8.8" fill="#0E1F40" text-anchor="start" font-weight="normal">pressure, pascal (Pa)</text>
+<text x="540" y="199" font-family="DejaVu Sans" font-size="9.0" fill="#2563EB" text-anchor="end" font-weight="bold">kg m⁻¹ s⁻²</text>
+<text x="292" y="224" font-family="DejaVu Sans" font-size="8.8" fill="#0E1F40" text-anchor="start" font-weight="normal">charge, coulomb (C)</text>
+<text x="540" y="224" font-family="DejaVu Sans" font-size="9.0" fill="#2563EB" text-anchor="end" font-weight="bold">A s</text>
+<text x="292" y="249" font-family="DejaVu Sans" font-size="8.8" fill="#0E1F40" text-anchor="start" font-weight="normal">p.d., volt (V)</text>
+<text x="540" y="249" font-family="DejaVu Sans" font-size="9.0" fill="#2563EB" text-anchor="end" font-weight="bold">kg m² s⁻³ A⁻¹</text>
+<text x="292" y="274" font-family="DejaVu Sans" font-size="8.8" fill="#0E1F40" text-anchor="start" font-weight="normal">frequency, hertz (Hz)</text>
+<text x="540" y="274" font-family="DejaVu Sans" font-size="9.0" fill="#2563EB" text-anchor="end" font-weight="bold">s⁻¹</text>
+<text x="417" y="300" font-family="DejaVu Sans" font-size="7.8" fill="#64748B" text-anchor="middle" font-weight="normal">a derived unit is a base unit multiplied or divided;</text>
+<text x="417" y="313" font-family="DejaVu Sans" font-size="7.8" fill="#64748B" text-anchor="middle" font-weight="normal">it never invents a new dimension</text>
+</svg>

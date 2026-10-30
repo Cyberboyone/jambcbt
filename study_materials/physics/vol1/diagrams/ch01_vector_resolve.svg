@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 278" width="560" height="278">
+  <defs>
+    <marker id="ag" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#008751"/>
+    </marker>
+    <marker id="an" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#0E1F40"/>
+    </marker>
+    <marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#D97706"/>
+    </marker>
+    <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#DC2626"/>
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="560" height="278" fill="#FFFFFF"/>
+<text x="280" y="20" font-family="DejaVu Sans" font-size="11" fill="#0E1F40" text-anchor="middle" font-weight="bold">RESOLVING A VECTOR — AND THE SAME IDEA ON A SLOPE</text>
+<line x1="70" y1="208" x2="209.9507098405538" y2="98.65852198216308" stroke="#008751" stroke-width="2.4"/><polygon points="219.7,91.0 212.8,102.3 207.1,95.0" fill="#008751"/>
+<line x1="219.7" y1="91.0" x2="219.7" y2="208" stroke="#2563EB" stroke-width="1.5" stroke-dasharray="5 3"/>
+<line x1="219.7" y1="91.0" x2="70" y2="91.0" stroke="#2563EB" stroke-width="1.5" stroke-dasharray="5 3"/>
+<line x1="70" y1="208" x2="207.32204318527715" y2="208.0" stroke="#2563EB" stroke-width="2.0"/><polygon points="219.7,208.0 207.3,212.6 207.3,203.4" fill="#2563EB"/>
+<line x1="70" y1="208" x2="70.0" y2="103.42431968812492" stroke="#2563EB" stroke-width="2.0"/><polygon points="70.0,91.0 74.6,103.4 65.4,103.4" fill="#2563EB"/>
+<text x="144.86102159263856" y="226" font-family="DejaVu Sans" font-size="9.6" fill="#2563EB" text-anchor="middle" font-weight="bold">F cos θ</text>
+<text x="38" y="149.51215984406247" font-family="DejaVu Sans" font-size="9.6" fill="#2563EB" text-anchor="middle" font-weight="bold">F sin θ</text>
+<text x="174" y="112" font-family="DejaVu Sans" font-size="11" fill="#008751" text-anchor="middle" font-weight="bold">F</text>
+<path d="M 114 208 A 44 44 0 0 0 104.7 180.9" fill="none" stroke="#334155" stroke-width="1.2" stroke-linecap="round"/>
+<text x="126" y="196" font-family="DejaVu Sans" font-size="9.6" fill="#334155" text-anchor="middle" font-weight="normal">θ</text>
+<polygon points="330,228 530,228 530,128" fill="#F1F5F9" stroke="#334155" stroke-width="1.6"/>
+<text x="356" y="220" font-family="DejaVu Sans" font-size="10" fill="#334155" text-anchor="middle" font-weight="normal">θ</text>
+<g transform="rotate(-26.57 430 178)"><rect x="408" y="151" width="44" height="27" rx="3" fill="#A7F3D0" stroke="#008751" stroke-width="1.2"/></g>
+<line x1="428" y1="164" x2="428.0" y2="203.6" stroke="#DC2626" stroke-width="2.0"/><polygon points="428.0,216.0 423.4,203.6 432.6,203.6" fill="#DC2626"/>
+<line x1="428" y1="164" x2="392.58612484272476" y2="181.74501701429062" stroke="#7C3AED" stroke-width="2.0"/><polygon points="381.5,187.3 390.5,177.6 394.7,185.9" fill="#7C3AED"/>
+<line x1="428" y1="164" x2="445.7450170142906" y2="199.41387515727524" stroke="#D97706" stroke-width="2.0"/><polygon points="451.3,210.5 441.6,201.5 449.9,197.3" fill="#D97706"/>
+<text x="438" y="214" font-family="DejaVu Sans" font-size="9.6" fill="#DC2626" text-anchor="middle" font-weight="bold">W</text>
+<text x="376" y="178" font-family="DejaVu Sans" font-size="8.8" fill="#7C3AED" text-anchor="end" font-weight="bold">W sin θ</text>
+<text x="456" y="216" font-family="DejaVu Sans" font-size="8.8" fill="#D97706" text-anchor="start" font-weight="bold">W cos θ</text>
+<text x="430" y="254" font-family="DejaVu Sans" font-size="8.6" fill="#64748B" text-anchor="middle" font-weight="normal">down the slope: W sin θ  ·  into the slope: W cos θ</text>
+<rect x="8" y="260" width="544" height="14" rx="4" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="0.8"/>
+<text x="280" y="271" font-family="DejaVu Sans" font-size="8.4" fill="#64748B" text-anchor="middle" font-weight="normal">the component along the direction you resolve into carries the cosine</text>
+</svg>
