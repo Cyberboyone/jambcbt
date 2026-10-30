@@ -24,7 +24,7 @@ import pymupdf
 
 HERE = Path(__file__).resolve().parent
 OUT = HERE.parent
-PDF = OUT / "JAMB_Chemistry_Volume4_Organic_Chemistry_Practical.pdf"
+PDF = OUT / "JAMB_Physics_Volume1_Mechanics_Properties_of_Matter.pdf"
 FIT = OUT / "_fit.json"
 
 KEYS = [f"drill_ch{i:02d}" for i in range(1, 7)] + ["mock_ch11", "mock2", "bank120"]
@@ -50,7 +50,7 @@ def sections() -> dict[str, int]:
             key = "mock_ch11"
         elif title.startswith("Mock Examination 2"):
             key = "mock2"
-        elif title.startswith("The 120-Question"):
+        elif title.startswith("Master Bank"):
             key = "bank120"
         elif "Practice Drill" in parent:
             key = "drill_ch%02d" % int(parent.split(".")[0])
@@ -79,8 +79,8 @@ def measure() -> dict[str, int]:
 
 
 def rebuild() -> None:
-    for cmd in ([sys.executable, "tools/drills_chem4.py"],
-                [sys.executable, "tools/papers_chem4.py"],
+    for cmd in ([sys.executable, "tools/drills_phys1.py"],
+                [sys.executable, "tools/papers_phys1.py"],
                 [sys.executable, "build.py"]):
         res = subprocess.run(cmd, cwd=OUT, capture_output=True, text=True)
         if res.returncode:

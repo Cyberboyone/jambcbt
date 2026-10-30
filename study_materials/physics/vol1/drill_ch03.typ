@@ -341,164 +341,164 @@
 
   #block(breakable: false)[
   === Complete Solutions
-  #sol-item(1, "B", dense: true, pad: 0.0pt)[
+  #sol-item(1, "B", dense: true, pad: 7.5pt)[
     $F = m a = 5.0 times 4.0 = 20$ N.
   ]
 
-  #sol-item(2, "A", dense: true, pad: 0.0pt)[
+  #sol-item(2, "A", dense: true, pad: 7.5pt)[
     $W = m g = 3.0 times 10 = 30$ N, directed vertically downwards.
   ]
   ]
 
-  #sol-item(3, "C", dense: true, pad: 0.0pt)[
+  #sol-item(3, "C", dense: true, pad: 7.5pt)[
     $R = m(g + a) = 70(10 + 2.0) = 840$ N — heavier than at rest, as the passenger feels.
   ]
 
-  #sol-item(4, "A", dense: true, pad: 0.0pt)[
+  #sol-item(4, "A", dense: true, pad: 7.5pt)[
     $R = m(g - a) = 70(10 - 2.0) = 560$ N: the floor pushes less because the person is accelerating down with it.
   ]
 
-  #sol-item(5, "A", dense: true, pad: 0.0pt)[
+  #sol-item(5, "A", dense: true, pad: 7.5pt)[
     Steady speed means no acceleration, so $R = m g = 700$ N whatever the speed and whichever way the lift moves.
   ]
 
-  #sol-item(6, "D", dense: true, pad: 0.0pt)[
+  #sol-item(6, "D", dense: true, pad: 7.5pt)[
     A body keeps its state of rest or uniform motion unless a resultant force acts, and the property that resists change is inertia, measured by mass.
   ]
 
-  #sol-item(7, "B", dense: true, pad: 0.0pt)[
+  #sol-item(7, "B", dense: true, pad: 7.5pt)[
     Action and reaction are the same kind of force on *different* bodies: the Earth pulls the book down, so the book pulls the Earth up. The table's push is a separate force that happens to balance the weight.
   ]
 
-  #sol-item(8, "C", dense: true, pad: 0.0pt)[
+  #sol-item(8, "C", dense: true, pad: 7.5pt)[
     $p = m v = 2.0 times 5.0 = 10$ kg m s⁻¹, in the direction of the velocity.
   ]
 
-  #sol-item(9, "C", dense: true, pad: 0.0pt)[
+  #sol-item(9, "C", dense: true, pad: 7.5pt)[
     $F t = m v - m u$: impulse and change of momentum are the same quantity, both measured in N s or kg m s⁻¹.
   ]
 
-  #sol-item(10, "D", dense: true, pad: 0.0pt)[
+  #sol-item(10, "D", dense: true, pad: 7.5pt)[
     $F = (m v - m u)\/t = (0 - 0.50 times 10)\/0.10 = -50$ N, so 50 N opposite to the motion.
   ]
 
-  #sol-item(11, "A", dense: true, pad: 0.0pt)[
+  #sol-item(11, "A", dense: true, pad: 7.5pt)[
     Momentum before is zero, so $2.0 v = 0.020 times 300 = 6.0$ and $v = 3.0$ m s⁻¹.
   ]
 
-  #sol-item(12, "C", dense: true, pad: 0.0pt)[
+  #sol-item(12, "C", dense: true, pad: 7.5pt)[
     $6 m = 2 m v$, so $v = 3.0$ m s⁻¹: the momentum is shared between twice the mass, which halves the speed.
   ]
 
-  #sol-item(13, "A", dense: true, pad: 0.0pt)[
+  #sol-item(13, "A", dense: true, pad: 7.5pt)[
     Initial energy $= (1\/2) m v^2$; final $= (1\/2)(2m)(v\/2)^2 = (1\/4) m v^2$. Half the energy becomes heat and sound.
   ]
 
-  #sol-item(14, "B", dense: true, pad: 0.0pt)[
+  #sol-item(14, "B", dense: true, pad: 7.5pt)[
     Friction is proportional to the reaction and depends on the materials, not on how much surface is in contact — a brick slides as easily on its side as on its end.
   ]
 
-  #sol-item(15, "D", dense: true, pad: 0.0pt)[
+  #sol-item(15, "D", dense: true, pad: 7.5pt)[
     $mu = F\/R = 20\/50 = 0.40$, and it has no unit.
   ]
 
-  #sol-item(16, "D", dense: true, pad: 0.0pt)[
+  #sol-item(16, "D", dense: true, pad: 7.5pt)[
     $F = mu R = mu m g = 0.50 times 4.0 times 10 = 20$ N; at constant speed the pull just balances the friction.
   ]
 
-  #sol-item(17, "C", dense: true, pad: 0.0pt)[
+  #sol-item(17, "C", dense: true, pad: 7.5pt)[
     Moment $= F times d = 10 times 0.50 = 5.0$ N m.
   ]
 
-  #sol-item(18, "D", dense: true, pad: 0.0pt)[
+  #sol-item(18, "D", dense: true, pad: 7.5pt)[
     Taking moments about the pivot: $E times 2.0 = 60 times 0.50$, so $E = 15$ N.
   ]
 
-  #sol-item(19, "B", dense: true, pad: 0.0pt)[
+  #sol-item(19, "B", dense: true, pad: 7.5pt)[
     A couple is a pair of equal, opposite, parallel forces, and its moment is one force times the perpendicular distance *between* them.
   ]
 
-  #sol-item(20, "B", dense: true, pad: 0.0pt)[
+  #sol-item(20, "B", dense: true, pad: 7.5pt)[
     For a couple the distance used is the one between the forces: $5.0 times 0.40 = 2.0$ N m.
   ]
 
-  #sol-item(21, "D", dense: true, pad: 0.0pt)[
+  #sol-item(21, "D", dense: true, pad: 7.5pt)[
     A uniform rule balances at its midpoint, so its weight acts at the 50 cm mark — the fact that makes moment questions about rules work.
   ]
 
-  #sol-item(22, "D", dense: true, pad: 0.0pt)[
+  #sol-item(22, "D", dense: true, pad: 7.5pt)[
     Both conditions are needed: a couple can leave the resultant force zero while the body still turns.
   ]
 
-  #sol-item(23, "B", dense: true, pad: 0.0pt)[
+  #sol-item(23, "B", dense: true, pad: 7.5pt)[
     $T - m g = m a$, so $T = m(g + a) = 2.0(10 + 1.0) = 22$ N.
   ]
 
-  #sol-item(24, "A", dense: true, pad: 0.0pt)[
+  #sol-item(24, "A", dense: true, pad: 7.5pt)[
     With no vertical acceleration, $R = m g = 5.0 times 10 = 50$ N.
   ]
 
-  #sol-item(25, "B", dense: true, pad: 0.0pt)[
+  #sol-item(25, "B", dense: true, pad: 7.5pt)[
     $R = m g cos theta = 50 times cos 30 degree = 43$ N; the component down the slope is $50 sin 30 degree = 25$ N.
   ]
 
-  #sol-item(26, "C", dense: true, pad: 0.0pt)[
+  #sol-item(26, "C", dense: true, pad: 7.5pt)[
     The rate-of-change-of-momentum form survives a rocket burning fuel, where $m$ is not constant and $F = m a$ cannot be applied directly.
   ]
 
-  #sol-item(27, "B", dense: true, pad: 0.0pt)[
+  #sol-item(27, "B", dense: true, pad: 7.5pt)[
     Impulse is force times time, so N s — which is the same as kg m s⁻¹, the unit of momentum.
   ]
 
-  #sol-item(28, "C", dense: true, pad: 0.0pt)[
+  #sol-item(28, "C", dense: true, pad: 7.5pt)[
     $p = m v$ gives kg m s⁻¹, identical to N s.
   ]
 
-  #sol-item(29, "D", dense: true, pad: 0.0pt)[
+  #sol-item(29, "D", dense: true, pad: 7.5pt)[
     $3.0 times 4.0 = 4.0 v$, so $v = 3.0$ m s⁻¹.
   ]
 
-  #sol-item(30, "B", dense: true, pad: 0.0pt)[
+  #sol-item(30, "B", dense: true, pad: 7.5pt)[
     The explosion is internal, so momentum is conserved: the fragments move in opposite directions with equal and opposite momenta, and the total is still zero.
   ]
 
-  #sol-item(31, "A", dense: true, pad: 0.0pt)[
+  #sol-item(31, "A", dense: true, pad: 7.5pt)[
     Both momentum and kinetic energy are conserved in an elastic collision; in an inelastic one only momentum is.
   ]
 
-  #sol-item(32, "D", dense: true, pad: 0.0pt)[
+  #sol-item(32, "D", dense: true, pad: 7.5pt)[
     $F t = m v - m u$: for a fixed change of momentum, a longer time means a smaller force — which is also why a fielder draws her hands back.
   ]
 
-  #sol-item(33, "C", dense: true, pad: 0.0pt)[
+  #sol-item(33, "C", dense: true, pad: 7.5pt)[
     Friction opposes relative sliding and lies along the surface, so it points against the direction of motion.
   ]
 
-  #sol-item(34, "C", dense: true, pad: 0.0pt)[
+  #sol-item(34, "C", dense: true, pad: 7.5pt)[
     Mass is a scalar and does not change; weight is $m g$, a force, and it changes with $g$ — about one sixth as much on the Moon.
   ]
 
-  #sol-item(35, "D", dense: true, pad: 0.0pt)[
+  #sol-item(35, "D", dense: true, pad: 7.5pt)[
     $W = m g = 10 times 1.6 = 16$ N, while its mass stays 10 kg.
   ]
 
-  #sol-item(36, "A", dense: true, pad: 0.0pt)[
+  #sol-item(36, "A", dense: true, pad: 7.5pt)[
     Zero resultant force means zero acceleration: rest and uniform motion are the two cases, and both count as equilibrium.
   ]
 
-  #sol-item(37, "A", dense: true, pad: 0.0pt)[
+  #sol-item(37, "A", dense: true, pad: 7.5pt)[
     Momentum is a vector: $0.20(10) - 0.20(-10) = 4.0$ kg m s⁻¹, because the velocity reverses.
   ]
 
-  #sol-item(38, "B", dense: true, pad: 0.0pt)[
+  #sol-item(38, "B", dense: true, pad: 7.5pt)[
     $F = (m v - m u)\/t = 4.0\/0.10 = 40$ N.
   ]
 
-  #sol-item(39, "A", dense: true, pad: 0.0pt)[
+  #sol-item(39, "A", dense: true, pad: 7.5pt)[
     Opposite directions, subtract: $10 - 6.0 = 4.0$ N, and the resultant points the way the larger force does.
   ]
 
-  #sol-item(40, "C", dense: true, pad: 0.0pt)[
+  #sol-item(40, "C", dense: true, pad: 7.5pt)[
     $a = F\/m = 20\/4.0 = 5.0$ m s⁻².
   ]
 

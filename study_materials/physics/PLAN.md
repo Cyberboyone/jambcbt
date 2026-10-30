@@ -11,7 +11,7 @@ numbers are baked in at build time.
 
 | Vol. | Title | Coverage | Status |
 |---|---|---|---|
-| 1 | Mechanics & Properties of Matter | measurement, vectors, kinematics, Newton's laws, momentum, work and energy, machines, circular motion, gravitation, SHM, elasticity, fluids | **in progress** |
+| 1 | Mechanics & Properties of Matter | measurement, vectors, kinematics, Newton's laws, momentum, work and energy, machines, circular motion, gravitation, SHM, elasticity, fluids | **delivered — 151 pp** |
 | 2 | Waves, Sound and Light | waves and superposition, sound, reflection and refraction, mirrors and lenses, optical instruments, the eye, colour and photometry | planned |
 | 3 | Heat and Thermodynamics | temperature and thermometers, expansion, heat transfer, calorimetry, change of state, gas laws, thermodynamics, vapours and humidity | planned |
 | 4 | Electricity, Magnetism and Modern Physics | electrostatics, capacitors, current electricity, magnetism, electromagnetic induction, AC, electronics, atomic and nuclear physics | planned |
@@ -59,11 +59,12 @@ python build.py                    # writes JAMB_Physics_Volume1_Mechanics_Prope
 | Stage | Status |
 | --- | --- |
 | Front matter (cover, series map, contents, how to use) | done — 5 pp |
-| Chapters 1–6, five worked examples and four MCQs each | done — 57 pp |
+| Chapters 1–6, five worked examples and four MCQs each | done — pp 6–99 |
 | Diagrams (34 reviewed SVGs, all script-generated) | done |
 | Drill banks, 40 per chapter, six chapters (240 questions) | done |
-| Two 40-question CBT mocks | **next** |
-| Rapid-fire pairs, 120-question bank, consolidated keys | pending |
-| Appendices A–K | pending |
+| Paper banks, 40 per chapter (240 items feeding the mocks, bank and rapid-fire) | done |
+| Two 40-question CBT mocks | done — pp 100–114 |
+| Rapid-fire pairs, 120-question bank, consolidated keys | done — Appendices A–C |
+| Appendices A–K | done — pp 115–151 |
 
-Build at this checkpoint: 99 pp, 2.70 MB, 0 Typst warnings, 240 drill questions.
+Build at this checkpoint: **151 pp, 3.99 MB, 0 Typst warnings**. 240 drill questions, 240 paper items (two 40-question mocks, 40 rapid-fire pairs, 120-question bank), 34 diagrams, appendices A–K. No page ends on a sliver: `tools/fit_solutions.py` tunes `_fit.json` until every solution run's tail page is at least half full.
