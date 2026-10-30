@@ -156,9 +156,12 @@
   subtitle: "",
   syllabus-ref: "",
   utme-weight: "High-Yield",
+  running: none,
 ) = {
   pagebreak(weak: true)
-  current-chapter.update("Chapter " + str(num) + ": " + title)
+  // `running` is the short form printed in the page header; a long chapter
+  // title would otherwise wrap onto two lines at the top of every page.
+  current-chapter.update("Chapter " + str(num) + ": " + if running == none { title } else { running })
 
   // Hidden semantic level-1 heading for TOC & PDF Outline
   place(hide(heading(level: 1, outlined: true)[Chapter #num: #title]))

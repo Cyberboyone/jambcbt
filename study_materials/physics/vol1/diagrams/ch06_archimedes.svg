@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 258" width="560" height="258">
+  <defs>
+    <marker id="ag" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#008751"/>
+    </marker>
+    <marker id="an" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#0E1F40"/>
+    </marker>
+    <marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#D97706"/>
+    </marker>
+    <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#DC2626"/>
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="560" height="258" fill="#FFFFFF"/>
+<text x="280" y="20" font-family="DejaVu Sans" font-size="9.8" fill="#0E1F40" text-anchor="middle" font-weight="bold">ARCHIMEDES' PRINCIPLE — THE UPTHRUST IS THE WEIGHT OF THE FLUID PUSHED ASIDE</text>
+<rect x="96.0" y="148.0" width="210.0" height="86.0" rx="0" fill="#DBEAFE" stroke="#DBEAFE" stroke-width="0.5"/>
+<line x1="96.0" y1="148.0" x2="306.0" y2="148.0" stroke="#2563EB" stroke-width="1.6"/>
+<path d="M 96.0 88.0 L 96.0 234.0 L 306.0 234.0 L 306.0 88.0" fill="none" stroke="#334155" stroke-width="1.8" stroke-linecap="round"/>
+<text x="100.0" y="142.0" font-family="DejaVu Sans" font-size="7.6" fill="#2563EB" text-anchor="start" font-weight="normal">water surface</text>
+<rect x="168.0" y="112.0" width="66.0" height="70.0" rx="4" fill="#A7F3D0" stroke="#008751" stroke-width="1.4"/>
+<text x="199.0" y="142.0" font-family="DejaVu Sans" font-size="8.0" fill="#008751" text-anchor="middle" font-weight="bold">block</text>
+<line x1="201.0" y1="118.0" x2="201.0" y2="76.4" stroke="#DC2626" stroke-width="2.2"/><polygon points="201.0,64.0 205.6,76.4 196.4,76.4" fill="#DC2626"/>
+<text x="211.0" y="74" font-family="DejaVu Sans" font-size="8.6" fill="#DC2626" text-anchor="start" font-weight="bold">upthrust U</text>
+<line x1="201.0" y1="176.0" x2="201.0" y2="209.6" stroke="#0E1F40" stroke-width="2.2"/><polygon points="201.0,222.0 196.4,209.6 205.6,209.6" fill="#0E1F40"/>
+<text x="211.0" y="214" font-family="DejaVu Sans" font-size="8.6" fill="#0E1F40" text-anchor="start" font-weight="bold">weight W</text>
+<rect x="332" y="62" width="220" height="42" rx="6" fill="#ECFDF5" stroke="#008751" stroke-width="1.0"/>
+<text x="340" y="79" font-family="DejaVu Sans" font-size="8.2" fill="#0E1F40" text-anchor="start" font-weight="normal">U = weight of fluid displaced</text>
+<text x="340" y="94" font-family="DejaVu Sans" font-size="8.2" fill="#0E1F40" text-anchor="start" font-weight="normal">= ρ × V × g</text>
+<rect x="332" y="112" width="220" height="58" rx="6" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="1.0"/>
+<text x="340" y="129" font-family="DejaVu Sans" font-size="8.2" fill="#0E1F40" text-anchor="start" font-weight="normal">floats when U = W</text>
+<text x="340" y="144" font-family="DejaVu Sans" font-size="8.2" fill="#64748B" text-anchor="start" font-weight="normal">sinks when W &gt; the upthrust</text>
+<text x="340" y="159" font-family="DejaVu Sans" font-size="8.2" fill="#64748B" text-anchor="start" font-weight="normal">apparent weight = W − U</text>
+<text x="280" y="250" font-family="DejaVu Sans" font-size="8.2" fill="#64748B" text-anchor="middle" font-weight="normal">a body floats when it can displace its own weight of the fluid</text>
+</svg>

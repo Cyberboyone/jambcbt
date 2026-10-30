@@ -9,8 +9,9 @@ sys.path.insert(0, str(HERE / "diagrams_gen"))
 
 import figs_phys1 as A  # noqa: E402
 import figs_phys1_b as B  # noqa: E402
+import figs_phys1_c as C  # noqa: E402
 
-MODULES = [A, B]
+MODULES = [A, B, C]
 
 
 def main() -> int:

@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 250" width="560" height="250">
+  <defs>
+    <marker id="ag" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#008751"/>
+    </marker>
+    <marker id="an" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#0E1F40"/>
+    </marker>
+    <marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#D97706"/>
+    </marker>
+    <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#DC2626"/>
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="560" height="250" fill="#FFFFFF"/>
+<text x="280" y="20" font-family="DejaVu Sans" font-size="10.8" fill="#0E1F40" text-anchor="middle" font-weight="bold">TERMINAL VELOCITY — WHEN THE DRAG CATCHES UP WITH THE WEIGHT</text>
+<rect x="212" y="52" width="136" height="178" rx="5" fill="#FEF3C7" stroke="#D97706" stroke-width="1.3"/>
+<text x="280" y="212" font-family="DejaVu Sans" font-size="8.0" fill="#D97706" text-anchor="middle" font-weight="normal">viscous fluid</text>
+<circle cx="280" cy="120" r="13" fill="#A7F3D0" stroke="#008751" stroke-width="1.4"/>
+<line x1="280" y1="138" x2="280.0" y2="163.6" stroke="#0E1F40" stroke-width="2.0"/><polygon points="280.0,176.0 275.4,163.6 284.6,163.6" fill="#0E1F40"/>
+<text x="292" y="166" font-family="DejaVu Sans" font-size="9.4" fill="#0E1F40" text-anchor="start" font-weight="bold">W</text>
+<line x1="280" y1="102" x2="280.0" y2="84.4" stroke="#DC2626" stroke-width="2.0"/><polygon points="280.0,72.0 284.6,84.4 275.4,84.4" fill="#DC2626"/>
+<text x="292" y="90" font-family="DejaVu Sans" font-size="9.4" fill="#DC2626" text-anchor="start" font-weight="bold">drag</text>
+<rect x="370" y="60" width="182" height="92" rx="6" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="1.0"/>
+<text x="378" y="78" font-family="DejaVu Sans" font-size="8.2" fill="#0E1F40" text-anchor="start" font-weight="normal">at first W &gt; drag,</text>
+<text x="378" y="93" font-family="DejaVu Sans" font-size="8.2" fill="#0E1F40" text-anchor="start" font-weight="normal">so the ball accelerates;</text>
+<text x="378" y="108" font-family="DejaVu Sans" font-size="8.2" fill="#0E1F40" text-anchor="start" font-weight="normal">the drag grows with speed</text>
+<text x="378" y="123" font-family="DejaVu Sans" font-size="8.2" fill="#0E1F40" text-anchor="start" font-weight="normal">until drag = W.</text>
+<text x="378" y="138" font-family="DejaVu Sans" font-size="8.2" fill="#008751" text-anchor="start" font-weight="bold">Then v is constant.</text>
+<text x="280" y="242" font-family="DejaVu Sans" font-size="8.2" fill="#64748B" text-anchor="middle" font-weight="normal">a parachute works by making the terminal velocity small</text>
+</svg>
