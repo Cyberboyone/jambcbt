@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 264" width="560" height="264">
+  <defs>
+    <marker id="ag" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#008751"/>
+    </marker>
+    <marker id="an" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#0E1F40"/>
+    </marker>
+    <marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#D97706"/>
+    </marker>
+    <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#DC2626"/>
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="560" height="264" fill="#FFFFFF"/>
+<text x="280" y="20" font-family="DejaVu Sans" font-size="11" fill="#0E1F40" text-anchor="middle" font-weight="bold">THE FORCES ON THE SYLLABUS, SORTED BY HOW THEY ACT</text>
+<rect x="8" y="34" width="262" height="218" rx="8" fill="#FFFFFF" stroke="#008751" stroke-width="1.2"/>
+<rect x="8" y="34" width="262" height="24" rx="8" fill="#ECFDF5" stroke="#008751" stroke-width="1.0"/>
+<text x="139" y="50" font-family="DejaVu Sans" font-size="9.0" fill="#008751" text-anchor="middle" font-weight="bold">CONTACT — THE BODIES TOUCH</text>
+<text x="18" y="76" font-family="DejaVu Sans" font-size="9.0" fill="#0E1F40" text-anchor="start" font-weight="bold">normal reaction</text>
+<text x="18" y="89" font-family="DejaVu Sans" font-size="8.0" fill="#334155" text-anchor="start" font-weight="normal">perpendicular to the surface</text>
+<text x="18" y="110" font-family="DejaVu Sans" font-size="9.0" fill="#0E1F40" text-anchor="start" font-weight="bold">tension</text>
+<text x="18" y="123" font-family="DejaVu Sans" font-size="8.0" fill="#334155" text-anchor="start" font-weight="normal">along a string, away from the body</text>
+<text x="18" y="144" font-family="DejaVu Sans" font-size="9.0" fill="#0E1F40" text-anchor="start" font-weight="bold">friction</text>
+<text x="18" y="157" font-family="DejaVu Sans" font-size="8.0" fill="#334155" text-anchor="start" font-weight="normal">along a surface, against sliding</text>
+<text x="18" y="178" font-family="DejaVu Sans" font-size="9.0" fill="#0E1F40" text-anchor="start" font-weight="bold">upthrust</text>
+<text x="18" y="191" font-family="DejaVu Sans" font-size="8.0" fill="#334155" text-anchor="start" font-weight="normal">upward push of a fluid</text>
+<text x="18" y="212" font-family="DejaVu Sans" font-size="9.0" fill="#0E1F40" text-anchor="start" font-weight="bold">air resistance</text>
+<text x="18" y="225" font-family="DejaVu Sans" font-size="8.0" fill="#334155" text-anchor="start" font-weight="normal">against the motion through a fluid</text>
+<rect x="282" y="34" width="270" height="218" rx="8" fill="#FFFFFF" stroke="#2563EB" stroke-width="1.2"/>
+<rect x="282" y="34" width="270" height="24" rx="8" fill="#DBEAFE" stroke="#2563EB" stroke-width="1.0"/>
+<text x="417" y="50" font-family="DejaVu Sans" font-size="9.0" fill="#2563EB" text-anchor="middle" font-weight="bold">NON-CONTACT — ACTION AT A DISTANCE</text>
+<text x="292" y="76" font-family="DejaVu Sans" font-size="9.0" fill="#0E1F40" text-anchor="start" font-weight="bold">weight</text>
+<text x="292" y="89" font-family="DejaVu Sans" font-size="8.0" fill="#334155" text-anchor="start" font-weight="normal">the Earth's pull, W = m g, always down</text>
+<text x="292" y="116" font-family="DejaVu Sans" font-size="9.0" fill="#0E1F40" text-anchor="start" font-weight="bold">magnetic</text>
+<text x="292" y="129" font-family="DejaVu Sans" font-size="8.0" fill="#334155" text-anchor="start" font-weight="normal">between poles, and on a current</text>
+<text x="292" y="156" font-family="DejaVu Sans" font-size="9.0" fill="#0E1F40" text-anchor="start" font-weight="bold">electrostatic</text>
+<text x="292" y="169" font-family="DejaVu Sans" font-size="8.0" fill="#334155" text-anchor="start" font-weight="normal">between charges, like repels like</text>
+<text x="292" y="196" font-family="DejaVu Sans" font-size="9.0" fill="#0E1F40" text-anchor="start" font-weight="bold">gravitational</text>
+<text x="292" y="209" font-family="DejaVu Sans" font-size="8.0" fill="#334155" text-anchor="start" font-weight="normal">between any two masses</text>
+<text x="417" y="236" font-family="DejaVu Sans" font-size="7.6" fill="#64748B" text-anchor="middle" font-weight="normal">a free-body diagram shows only the forces on the body</text>
+</svg>

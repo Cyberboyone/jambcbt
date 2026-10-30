@@ -8,8 +8,9 @@ HERE = Path(__file__).resolve().parent
 sys.path.insert(0, str(HERE / "diagrams_gen"))
 
 import figs_phys1 as A  # noqa: E402
+import figs_phys1_b as B  # noqa: E402
 
-MODULES = [A]
+MODULES = [A, B]
 
 
 def main() -> int:

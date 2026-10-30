@@ -162,8 +162,11 @@ def axes_style(ax, xlabel="x", ylabel="y", grid=True, zero=True):
 
 
 def save(fig, name: str) -> None:
+    # Fixed hash salt and no date stamp, so that re-running the generator
+    # produces byte-identical SVGs and the repository diff stays honest.
+    plt.rcParams["svg.hashsalt"] = "jamb-physics-1"
     fig.savefig(OUT / name, format="svg", bbox_inches="tight", transparent=False,
-                facecolor="white")
+                facecolor="white", metadata={"Date": None, "Creator": None})
     plt.close(fig)
 
 

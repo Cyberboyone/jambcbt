@@ -1,0 +1,96 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 286" width="560" height="286">
+  <defs>
+    <marker id="ag" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#008751"/>
+    </marker>
+    <marker id="an" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#0E1F40"/>
+    </marker>
+    <marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#D97706"/>
+    </marker>
+    <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#DC2626"/>
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="560" height="286" fill="#FFFFFF"/>
+<text x="280" y="20" font-family="DejaVu Sans" font-size="11" fill="#0E1F40" text-anchor="middle" font-weight="bold">THREE PULLEY SYSTEMS — FORCE IS TRADED FOR DISTANCE</text>
+<line x1="43" y1="44" x2="167" y2="44" stroke="#334155" stroke-width="2.4"/>
+<line x1="43" y1="44" x2="36" y2="37" stroke="#CBD5E1" stroke-width="0.9"/>
+<line x1="55" y1="44" x2="48" y2="37" stroke="#CBD5E1" stroke-width="0.9"/>
+<line x1="67" y1="44" x2="60" y2="37" stroke="#CBD5E1" stroke-width="0.9"/>
+<line x1="79" y1="44" x2="72" y2="37" stroke="#CBD5E1" stroke-width="0.9"/>
+<line x1="91" y1="44" x2="84" y2="37" stroke="#CBD5E1" stroke-width="0.9"/>
+<line x1="103" y1="44" x2="96" y2="37" stroke="#CBD5E1" stroke-width="0.9"/>
+<line x1="115" y1="44" x2="108" y2="37" stroke="#CBD5E1" stroke-width="0.9"/>
+<line x1="127" y1="44" x2="120" y2="37" stroke="#CBD5E1" stroke-width="0.9"/>
+<line x1="139" y1="44" x2="132" y2="37" stroke="#CBD5E1" stroke-width="0.9"/>
+<line x1="151" y1="44" x2="144" y2="37" stroke="#CBD5E1" stroke-width="0.9"/>
+<line x1="163" y1="44" x2="156" y2="37" stroke="#CBD5E1" stroke-width="0.9"/>
+<circle cx="105" cy="78" r="22" fill="#FFFFFF" stroke="#334155" stroke-width="1.6"/><circle cx="105" cy="78" r="2.4" fill="#334155"/>
+<line x1="105" y1="44" x2="105" y2="56" stroke="#334155" stroke-width="1.8"/>
+<path d="M 83 78 L 83 162" fill="none" stroke="#2563EB" stroke-width="1.8" stroke-linecap="round"/>
+<path d="M 127 78 L 127 128" fill="none" stroke="#2563EB" stroke-width="1.8" stroke-linecap="round"/>
+<rect x="55" y="162" width="56" height="26" rx="4" fill="#A7F3D0" stroke="#008751" stroke-width="1.2"/>
+<text x="83" y="179" font-family="DejaVu Sans" font-size="8.2" fill="#008751" text-anchor="middle" font-weight="bold">load</text>
+<line x1="127" y1="128" x2="127.0" y2="145.6" stroke="#2563EB" stroke-width="1.8"/><polygon points="127.0,158.0 122.4,145.6 131.6,145.6" fill="#2563EB"/>
+<text x="139" y="150" font-family="DejaVu Sans" font-size="8.0" fill="#2563EB" text-anchor="start" font-weight="normal">effort</text>
+<text x="105" y="212" font-family="DejaVu Sans" font-size="8.8" fill="#0E1F40" text-anchor="middle" font-weight="bold">single fixed pulley</text>
+<text x="105" y="228" font-family="DejaVu Sans" font-size="9.2" fill="#008751" text-anchor="middle" font-weight="bold">VR = 1</text>
+<line x1="223" y1="44" x2="347" y2="44" stroke="#334155" stroke-width="2.4"/>
+<line x1="223" y1="44" x2="216" y2="37" stroke="#CBD5E1" stroke-width="0.9"/>
+<line x1="235" y1="44" x2="228" y2="37" stroke="#CBD5E1" stroke-width="0.9"/>
+<line x1="247" y1="44" x2="240" y2="37" stroke="#CBD5E1" stroke-width="0.9"/>
+<line x1="259" y1="44" x2="252" y2="37" stroke="#CBD5E1" stroke-width="0.9"/>
+<line x1="271" y1="44" x2="264" y2="37" stroke="#CBD5E1" stroke-width="0.9"/>
+<line x1="283" y1="44" x2="276" y2="37" stroke="#CBD5E1" stroke-width="0.9"/>
+<line x1="295" y1="44" x2="288" y2="37" stroke="#CBD5E1" stroke-width="0.9"/>
+<line x1="307" y1="44" x2="300" y2="37" stroke="#CBD5E1" stroke-width="0.9"/>
+<line x1="319" y1="44" x2="312" y2="37" stroke="#CBD5E1" stroke-width="0.9"/>
+<line x1="331" y1="44" x2="324" y2="37" stroke="#CBD5E1" stroke-width="0.9"/>
+<line x1="343" y1="44" x2="336" y2="37" stroke="#CBD5E1" stroke-width="0.9"/>
+<circle cx="307" cy="74" r="18" fill="#FFFFFF" stroke="#334155" stroke-width="1.6"/><circle cx="307" cy="74" r="2.4" fill="#334155"/>
+<line x1="307" y1="44" x2="307" y2="56" stroke="#334155" stroke-width="1.8"/>
+<circle cx="263" cy="128" r="22" fill="#FFFFFF" stroke="#334155" stroke-width="1.6"/><circle cx="263" cy="128" r="2.4" fill="#334155"/>
+<path d="M 241 44 L 241 128" fill="none" stroke="#2563EB" stroke-width="1.8" stroke-linecap="round"/>
+<path d="M 241 128 A 22 22 0 0 0 285 128" fill="none" stroke="#2563EB" stroke-width="1.8" stroke-linecap="round"/>
+<path d="M 285 128 L 289 74" fill="none" stroke="#2563EB" stroke-width="1.8" stroke-linecap="round"/>
+<path d="M 307 92 L 307 156" fill="none" stroke="#2563EB" stroke-width="1.8" stroke-linecap="round"/>
+<line x1="263" y1="150" x2="263" y2="162" stroke="#334155" stroke-width="1.8"/>
+<rect x="235" y="162" width="56" height="26" rx="4" fill="#A7F3D0" stroke="#008751" stroke-width="1.2"/>
+<text x="263" y="179" font-family="DejaVu Sans" font-size="8.2" fill="#008751" text-anchor="middle" font-weight="bold">load</text>
+<line x1="307" y1="152" x2="307.0" y2="171.6" stroke="#2563EB" stroke-width="1.8"/><polygon points="307.0,184.0 302.4,171.6 311.6,171.6" fill="#2563EB"/>
+<text x="319" y="172" font-family="DejaVu Sans" font-size="8.0" fill="#2563EB" text-anchor="start" font-weight="normal">effort</text>
+<text x="285" y="212" font-family="DejaVu Sans" font-size="8.8" fill="#0E1F40" text-anchor="middle" font-weight="bold">single movable pulley</text>
+<text x="285" y="228" font-family="DejaVu Sans" font-size="9.2" fill="#008751" text-anchor="middle" font-weight="bold">VR = 2</text>
+<line x1="393" y1="44" x2="517" y2="44" stroke="#334155" stroke-width="2.4"/>
+<line x1="393" y1="44" x2="386" y2="37" stroke="#CBD5E1" stroke-width="0.9"/>
+<line x1="405" y1="44" x2="398" y2="37" stroke="#CBD5E1" stroke-width="0.9"/>
+<line x1="417" y1="44" x2="410" y2="37" stroke="#CBD5E1" stroke-width="0.9"/>
+<line x1="429" y1="44" x2="422" y2="37" stroke="#CBD5E1" stroke-width="0.9"/>
+<line x1="441" y1="44" x2="434" y2="37" stroke="#CBD5E1" stroke-width="0.9"/>
+<line x1="453" y1="44" x2="446" y2="37" stroke="#CBD5E1" stroke-width="0.9"/>
+<line x1="465" y1="44" x2="458" y2="37" stroke="#CBD5E1" stroke-width="0.9"/>
+<line x1="477" y1="44" x2="470" y2="37" stroke="#CBD5E1" stroke-width="0.9"/>
+<line x1="489" y1="44" x2="482" y2="37" stroke="#CBD5E1" stroke-width="0.9"/>
+<line x1="501" y1="44" x2="494" y2="37" stroke="#CBD5E1" stroke-width="0.9"/>
+<line x1="513" y1="44" x2="506" y2="37" stroke="#CBD5E1" stroke-width="0.9"/>
+<circle cx="425" cy="68" r="12" fill="#FFFFFF" stroke="#334155" stroke-width="1.6"/><circle cx="425" cy="68" r="2.4" fill="#334155"/>
+<line x1="425" y1="44" x2="425" y2="56" stroke="#334155" stroke-width="1.6"/>
+<path d="M 425 80 L 425 140" fill="none" stroke="#2563EB" stroke-width="1.8" stroke-linecap="round"/>
+<circle cx="455" cy="68" r="12" fill="#FFFFFF" stroke="#334155" stroke-width="1.6"/><circle cx="455" cy="68" r="2.4" fill="#334155"/>
+<line x1="455" y1="44" x2="455" y2="56" stroke="#334155" stroke-width="1.6"/>
+<path d="M 455 80 L 455 140" fill="none" stroke="#2563EB" stroke-width="1.8" stroke-linecap="round"/>
+<circle cx="485" cy="68" r="12" fill="#FFFFFF" stroke="#334155" stroke-width="1.6"/><circle cx="485" cy="68" r="2.4" fill="#334155"/>
+<line x1="485" y1="44" x2="485" y2="56" stroke="#334155" stroke-width="1.6"/>
+<path d="M 485 80 L 485 140" fill="none" stroke="#2563EB" stroke-width="1.8" stroke-linecap="round"/>
+<rect x="409" y="140" width="92" height="26" rx="4" fill="#A7F3D0" stroke="#008751" stroke-width="1.2"/>
+<text x="455" y="157" font-family="DejaVu Sans" font-size="8.2" fill="#008751" text-anchor="middle" font-weight="bold">load</text>
+<path d="M 493 78 Q 505 92 505 110" fill="none" stroke="#2563EB" stroke-width="1.8" stroke-linecap="round"/>
+<line x1="505" y1="110" x2="505.0" y2="127.6" stroke="#2563EB" stroke-width="1.8"/><polygon points="505.0,140.0 500.4,127.6 509.6,127.6" fill="#2563EB"/>
+<text x="513" y="132" font-family="DejaVu Sans" font-size="8.0" fill="#2563EB" text-anchor="start" font-weight="normal">effort</text>
+<text x="455" y="212" font-family="DejaVu Sans" font-size="8.8" fill="#0E1F40" text-anchor="middle" font-weight="bold">block and tackle</text>
+<text x="455" y="228" font-family="DejaVu Sans" font-size="9.2" fill="#008751" text-anchor="middle" font-weight="bold">VR = 3</text>
+<rect x="8" y="254" width="544" height="24" rx="6" fill="#ECFDF5" stroke="#008751" stroke-width="1.1"/>
+<text x="280" y="270" font-family="DejaVu Sans" font-size="9.0" fill="#0E1F40" text-anchor="middle" font-weight="normal">efficiency = MA / VR × 100 %, and MA can never exceed VR</text>
+</svg>
