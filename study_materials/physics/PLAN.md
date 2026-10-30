@@ -22,10 +22,10 @@ numbers are baked in at build time.
 |----|-------|----------|--------|
 | 1 | Measurement, Units and Dimensions | physical quantities and SI units, dimensions and dimensional analysis, the measuring instruments, errors and uncertainties, scalars and vectors, resolution of vectors | **drafted** |
 | 2 | Motion in a Straight Line | distance and displacement, speed and velocity, acceleration, the equations of motion, motion graphs, free fall and projectiles | **drafted** |
-| 3 | Forces, Newton's Laws and Momentum | types of force, Newton's three laws, friction, equilibrium, moments and couples, centre of gravity, momentum and impulse, collisions | planned |
-| 4 | Work, Energy, Power and Machines | work and energy, kinetic and potential energy, conservation, power, efficiency, machines and mechanical advantage | planned |
-| 5 | Circular Motion, Gravitation and SHM | angular velocity, centripetal force, satellites, Newton's law of gravitation, variation of g, the pendulum and the loaded spring | planned |
-| 6 | Properties of Matter | Hooke's law and elasticity, pressure in fluids, Archimedes and floatation, surface tension and capillarity, viscosity, diffusion | planned |
+| 3 | Forces, Newton's Laws and Momentum | types of force, Newton's three laws, friction, equilibrium, moments and couples, centre of gravity, momentum and impulse, collisions | **drafted** |
+| 4 | Work, Energy, Power and Machines | work and energy, kinetic and potential energy, conservation, power, efficiency, machines and mechanical advantage | **drafted** |
+| 5 | Circular Motion, Gravitation and SHM | angular velocity, centripetal force, satellites, Newton's law of gravitation, variation of g, the pendulum and the loaded spring | **drafted** |
+| 6 | Properties of Matter | Hooke's law and elasticity, pressure in fluids, Archimedes and floatation, surface tension and capillarity, viscosity, diffusion | **drafted** |
 
 Back matter (planned): two 40-question CBT mocks, Appendix A (40 rapid-fire pairs),
 Appendix B (120-question master bank), Appendix C (consolidated keys), Appendix D
@@ -61,8 +61,9 @@ python build.py                    # writes JAMB_Physics_Volume1_Mechanics_Prope
 | Front matter (cover, series map, contents, how to use) | done — 5 pp |
 | Chapters 1–6, five worked examples and four MCQs each | done — 57 pp |
 | Diagrams (34 reviewed SVGs, all script-generated) | done |
-| Drill banks, 40 + 40 per chapter | **next** |
-| Two CBT mocks, rapid-fire pairs, 120-question bank, keys | pending |
+| Drill banks, 40 per chapter, six chapters (240 questions) | done |
+| Two 40-question CBT mocks | **next** |
+| Rapid-fire pairs, 120-question bank, consolidated keys | pending |
 | Appendices A–K | pending |
 
-Build at this checkpoint: 62 pp, 0 Typst warnings.
+Build at this checkpoint: 99 pp, 2.70 MB, 0 Typst warnings, 240 drill questions.
