@@ -84,10 +84,15 @@ def balance(items, seed, max_run: int = 3):
     return done
 
 
+def _clean(text: str) -> str:
+    """DOUBLE-BACKSLASH guard: `\\\\/` in a bank is not valid Typst math."""
+    return text.replace(chr(92) * 2 + "/", chr(92) + "/")
+
+
 def mcq(num, stem, opts):
-    out = [f"#mcq({num}, [{stem}],"]
+    out = [f"#mcq({num}, [{_clean(stem)}],"]
     for o in opts:
-        out.append(f"  [{o}],")
+        out.append(f"  [{_clean(o)}],")
     out[-1] = out[-1].rstrip(",")
     out.append(")")
     return "\n".join(out)
@@ -179,7 +184,7 @@ def render_chapter(ch):
     lines.append("  === Complete Solutions")
     for i, (_stem, _opts, k, sol) in enumerate(items, 1):
         lines.append(f'  #sol-item({i}, "{k}", dense: true, pad: {pad}pt)[')
-        lines.append(f"    {sol}")
+        lines.append(f"    {_clean(sol)}")
         lines.append("  ]")
         if i == 2:
             lines.append("  ]")
