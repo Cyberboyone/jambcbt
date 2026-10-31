@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 262" width="680" height="262">
+  <defs>
+    <marker id="ag" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#008751"/>
+    </marker>
+    <marker id="an" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#0E1F40"/>
+    </marker>
+    <marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#D97706"/>
+    </marker>
+    <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#DC2626"/>
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="680" height="262" fill="#FFFFFF"/>
+<text x="340" y="20" font-family="DejaVu Sans" font-size="10.6" fill="#0E1F40" text-anchor="middle" font-weight="bold">THREE WAYS TO ANSWER THE THREE QUESTIONS</text>
+<rect x="14" y="38" width="210" height="190" rx="7" fill="#FFFFFF" stroke="#008751" stroke-width="1.4"/>
+<rect x="14" y="38" width="210" height="26" rx="7" fill="#008751" stroke="#008751" stroke-width="1.0"/>
+<text x="119" y="55" font-family="DejaVu Sans" font-size="9.4" fill="#FFFFFF" text-anchor="middle" font-weight="bold">MARKET</text>
+<text x="26" y="82" font-family="DejaVu Sans" font-size="8.2" fill="#334155" text-anchor="start" font-weight="normal">what to produce: the price signal</text>
+<text x="26" y="116" font-family="DejaVu Sans" font-size="8.2" fill="#334155" text-anchor="start" font-weight="normal">who gets it: whoever pays</text>
+<text x="26" y="150" font-family="DejaVu Sans" font-size="8.2" fill="#334155" text-anchor="start" font-weight="normal">strength: efficiency, choice</text>
+<text x="26" y="184" font-family="DejaVu Sans" font-size="8.2" fill="#334155" text-anchor="start" font-weight="normal">weakness: inequality, public goods</text>
+<rect x="236" y="38" width="210" height="190" rx="7" fill="#FFFFFF" stroke="#DC2626" stroke-width="1.4"/>
+<rect x="236" y="38" width="210" height="26" rx="7" fill="#DC2626" stroke="#DC2626" stroke-width="1.0"/>
+<text x="341" y="55" font-family="DejaVu Sans" font-size="9.4" fill="#FFFFFF" text-anchor="middle" font-weight="bold">COMMAND</text>
+<text x="248" y="82" font-family="DejaVu Sans" font-size="8.2" fill="#334155" text-anchor="start" font-weight="normal">what to produce: the plan</text>
+<text x="248" y="116" font-family="DejaVu Sans" font-size="8.2" fill="#334155" text-anchor="start" font-weight="normal">who gets it: the planner</text>
+<text x="248" y="150" font-family="DejaVu Sans" font-size="8.2" fill="#334155" text-anchor="start" font-weight="normal">strength: can mobilise fast</text>
+<text x="248" y="184" font-family="DejaVu Sans" font-size="8.2" fill="#334155" text-anchor="start" font-weight="normal">weakness: shortages, no signal</text>
+<rect x="458" y="38" width="210" height="190" rx="7" fill="#FFFFFF" stroke="#2563EB" stroke-width="1.4"/>
+<rect x="458" y="38" width="210" height="26" rx="7" fill="#2563EB" stroke="#2563EB" stroke-width="1.0"/>
+<text x="563" y="55" font-family="DejaVu Sans" font-size="9.4" fill="#FFFFFF" text-anchor="middle" font-weight="bold">MIXED</text>
+<text x="470" y="82" font-family="DejaVu Sans" font-size="8.2" fill="#334155" text-anchor="start" font-weight="normal">what to produce: mostly price</text>
+<text x="470" y="116" font-family="DejaVu Sans" font-size="8.2" fill="#334155" text-anchor="start" font-weight="normal">who gets it: price, plus tax and subsidy</text>
+<text x="470" y="150" font-family="DejaVu Sans" font-size="8.2" fill="#334155" text-anchor="start" font-weight="normal">strength: keeps the signal</text>
+<text x="470" y="184" font-family="DejaVu Sans" font-size="8.2" fill="#334155" text-anchor="start" font-weight="normal">weakness: regulation can lag</text>
+<text x="340" y="248" font-family="DejaVu Sans" font-size="8.4" fill="#64748B" text-anchor="middle" font-weight="normal">Nigeria is a mixed economy: a price system inside a framework of planning, tax and public enterprise.</text>
+</svg>

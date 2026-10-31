@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 268" width="680" height="268">
+  <defs>
+    <marker id="ag" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#008751"/>
+    </marker>
+    <marker id="an" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#0E1F40"/>
+    </marker>
+    <marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#D97706"/>
+    </marker>
+    <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#DC2626"/>
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="680" height="268" fill="#FFFFFF"/>
+<text x="340" y="20" font-family="DejaVu Sans" font-size="10.6" fill="#0E1F40" text-anchor="middle" font-weight="bold">THE FOUR FACTORS OF PRODUCTION AND THEIR REWARDS</text>
+<rect x="14" y="36" width="652" height="48" rx="6" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="1.1"/>
+<rect x="14" y="36" width="6" height="48" rx="2" fill="#008751" stroke="#008751" stroke-width="1.0"/>
+<text x="30" y="56" font-family="DejaVu Sans" font-size="9.2" fill="#008751" text-anchor="start" font-weight="bold">LAND</text>
+<text x="150" y="56" font-family="DejaVu Sans" font-size="8.6" fill="#334155" text-anchor="start" font-weight="normal">all natural resources</text>
+<text x="470" y="56" font-family="DejaVu Sans" font-size="8.0" fill="#64748B" text-anchor="start" font-weight="normal">reward:</text>
+<text x="516" y="56" font-family="DejaVu Sans" font-size="8.8" fill="#0E1F40" text-anchor="start" font-weight="bold">RENT</text>
+<text x="150" y="72" font-family="DejaVu Sans" font-size="7" fill="#0E1F40" text-anchor="middle" font-weight="normal"></text>
+<rect x="14" y="90" width="652" height="48" rx="6" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="1.1"/>
+<rect x="14" y="90" width="6" height="48" rx="2" fill="#2563EB" stroke="#2563EB" stroke-width="1.0"/>
+<text x="30" y="110" font-family="DejaVu Sans" font-size="9.2" fill="#2563EB" text-anchor="start" font-weight="bold">LABOUR</text>
+<text x="150" y="110" font-family="DejaVu Sans" font-size="8.6" fill="#334155" text-anchor="start" font-weight="normal">human effort, mental and physical</text>
+<text x="470" y="110" font-family="DejaVu Sans" font-size="8.0" fill="#64748B" text-anchor="start" font-weight="normal">reward:</text>
+<text x="516" y="110" font-family="DejaVu Sans" font-size="8.8" fill="#0E1F40" text-anchor="start" font-weight="bold">WAGES / SALARY</text>
+<text x="150" y="126" font-family="DejaVu Sans" font-size="7" fill="#0E1F40" text-anchor="middle" font-weight="normal"></text>
+<rect x="14" y="144" width="652" height="48" rx="6" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="1.1"/>
+<rect x="14" y="144" width="6" height="48" rx="2" fill="#D97706" stroke="#D97706" stroke-width="1.0"/>
+<text x="30" y="164" font-family="DejaVu Sans" font-size="9.2" fill="#D97706" text-anchor="start" font-weight="bold">CAPITAL</text>
+<text x="150" y="164" font-family="DejaVu Sans" font-size="8.6" fill="#334155" text-anchor="start" font-weight="normal">goods made to make other goods</text>
+<text x="470" y="164" font-family="DejaVu Sans" font-size="8.0" fill="#64748B" text-anchor="start" font-weight="normal">reward:</text>
+<text x="516" y="164" font-family="DejaVu Sans" font-size="8.8" fill="#0E1F40" text-anchor="start" font-weight="bold">INTEREST</text>
+<text x="150" y="180" font-family="DejaVu Sans" font-size="7" fill="#0E1F40" text-anchor="middle" font-weight="normal"></text>
+<rect x="14" y="198" width="652" height="48" rx="6" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="1.1"/>
+<rect x="14" y="198" width="6" height="48" rx="2" fill="#7C3AED" stroke="#7C3AED" stroke-width="1.0"/>
+<text x="30" y="218" font-family="DejaVu Sans" font-size="9.2" fill="#7C3AED" text-anchor="start" font-weight="bold">ENTREPRENEUR</text>
+<text x="150" y="218" font-family="DejaVu Sans" font-size="8.6" fill="#334155" text-anchor="start" font-weight="normal">organises the other three, bears the risk</text>
+<text x="470" y="218" font-family="DejaVu Sans" font-size="8.0" fill="#64748B" text-anchor="start" font-weight="normal">reward:</text>
+<text x="516" y="218" font-family="DejaVu Sans" font-size="8.8" fill="#0E1F40" text-anchor="start" font-weight="bold">PROFIT</text>
+<text x="150" y="234" font-family="DejaVu Sans" font-size="7" fill="#0E1F40" text-anchor="middle" font-weight="normal"></text>
+<text x="340" y="258" font-family="DejaVu Sans" font-size="8.4" fill="#64748B" text-anchor="middle" font-weight="normal">Capital is a produced means of production — money is not capital until it buys a machine.</text>
+</svg>
