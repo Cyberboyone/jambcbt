@@ -368,12 +368,12 @@ L 221.668125 175.6
 " style="fill: none; stroke: #334155; stroke-linejoin: miter; stroke-linecap: square"/>
    </g>
    <g id="patch_5">
-    <path d="M 86.179385 91.621859 
-Q 106.388519 101.616195 125.395042 111.015784 
+    <path d="M 87.578797 92.313932 
+Q 107.088017 101.962128 125.394625 111.015578 
 " style="fill: none; stroke: #dc2626; stroke-width: 1.2; stroke-linecap: round"/>
-    <path d="M 122.69614 107.449844 
-L 125.395042 111.015784 
-L 120.922949 111.035342 
+    <path d="M 122.695723 107.449638 
+L 125.394625 111.015578 
+L 120.922532 111.035135 
 " style="fill: none; stroke: #dc2626; stroke-width: 1.2; stroke-linecap: round"/>
    </g>
    <g id="text_15">
@@ -381,6 +381,14 @@ L 120.922949 111.035342
     <text style="font-size: 7.2px; font-family: 'DejaVu Sans'; fill: #dc2626" transform="translate(112.548125 89.648)">quantity rises</text>
    </g>
    <g id="text_16">
+    <g id="patch_6">
+     <path d="M 146.308125 131.330109 
+L 156.659531 131.330109 
+L 156.659531 119.450109 
+L 146.308125 119.450109 
+z
+" style="fill: #ffffff; opacity: 0.88"/>
+    </g>
     <text style="font-weight: 700; font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #008751" x="147.748125" y="127.728" transform="rotate(-0 147.748125 127.728)">D</text>
    </g>
    <g id="text_17">
@@ -388,7 +396,7 @@ L 120.922949 111.035342
    </g>
   </g>
   <g id="axes_2">
-   <g id="patch_6">
+   <g id="patch_7">
     <path d="M 260.108125 175.6 
 L 446.668125 175.6 
 L 446.668125 50.48 
@@ -895,41 +903,49 @@ L 434.330347 174.720808
 L 436.108125 175.6 
 " clip-path="url(#p1528fe7316)" style="fill: none; stroke: #d97706; stroke-width: 2; stroke-linecap: square"/>
    </g>
-   <g id="patch_7">
+   <g id="patch_8">
     <path d="M 260.108125 175.6 
 L 260.108125 50.48 
 " style="fill: none; stroke: #334155; stroke-linejoin: miter; stroke-linecap: square"/>
    </g>
-   <g id="patch_8">
+   <g id="patch_9">
     <path d="M 260.108125 175.6 
 L 446.668125 175.6 
 " style="fill: none; stroke: #334155; stroke-linejoin: miter; stroke-linecap: square"/>
    </g>
-   <g id="patch_9">
-    <path d="M 298.828125 66.623758 
-Q 298.828125 76.048985 298.828125 83.908966 
+   <g id="patch_10">
+    <path d="M 298.828125 82.206914 
+Q 298.828125 73.87201 298.828125 67.102354 
 " style="fill: none; stroke: #2563eb; stroke-width: 1.4; stroke-linecap: round"/>
-    <path d="M 300.828125 79.908966 
-L 298.828125 83.908966 
-L 296.828125 79.908966 
+    <path d="M 296.828125 71.102354 
+L 298.828125 67.102354 
+L 300.828125 71.102354 
 " style="fill: none; stroke: #2563eb; stroke-width: 1.4; stroke-linecap: round"/>
    </g>
-   <g id="patch_10">
-    <path d="M 298.828125 124.636656 
-Q 298.828125 116.844254 298.828125 110.617098 
+   <g id="patch_11">
+    <path d="M 298.828125 113.94493 
+Q 298.828125 119.835375 298.828125 124.160573 
 " style="fill: none; stroke: #d97706; stroke-width: 1.4; stroke-linecap: round"/>
-    <path d="M 296.828125 114.617098 
-L 298.828125 110.617098 
-L 300.828125 114.617098 
+    <path d="M 300.828125 120.160573 
+L 298.828125 124.160573 
+L 296.828125 120.160573 
 " style="fill: none; stroke: #d97706; stroke-width: 1.4; stroke-linecap: round"/>
    </g>
    <g id="text_32">
-    <text style="font-size: 7.2px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #2563eb" x="305.868125" y="66.8" transform="rotate(-0 305.868125 66.8)">increase</text>
+    <text style="font-size: 7.2px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #2563eb" x="307.628125" y="58.096" transform="rotate(-0 307.628125 58.096)">increase</text>
    </g>
    <g id="text_33">
-    <text style="font-size: 7.2px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #d97706" x="305.868125" y="127.728" transform="rotate(-0 305.868125 127.728)">decrease</text>
+    <text style="font-size: 7.2px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #d97706" x="307.628125" y="139.696" transform="rotate(-0 307.628125 139.696)">decrease</text>
    </g>
    <g id="text_34">
+    <g id="patch_12">
+     <path d="M 429.388125 140.034109 
+L 439.739531 140.034109 
+L 439.739531 128.154109 
+L 429.388125 128.154109 
+z
+" style="fill: #ffffff; opacity: 0.88"/>
+    </g>
     <text style="font-weight: 700; font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #008751" x="430.828125" y="136.432" transform="rotate(-0 430.828125 136.432)">D</text>
    </g>
    <g id="text_35">

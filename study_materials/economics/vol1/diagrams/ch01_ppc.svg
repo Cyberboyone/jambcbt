@@ -418,15 +418,23 @@ L 342.245781 186.509844
 " style="fill: none; stroke: #334155; stroke-linejoin: miter; stroke-linecap: square"/>
    </g>
    <g id="patch_5">
-    <path d="M 103.841639 69.597513 
-Q 118.881002 83.921835 133.920366 98.246156 
+    <path d="M 103.177076 68.964546 
+Q 118.549168 83.605777 133.921261 98.247008 
 " style="fill: none; stroke: #334155; stroke-width: 0.8; stroke-linecap: round"/>
    </g>
    <g id="text_17">
+    <g id="patch_6">
+     <path d="M 55.298378 67.586158 
+L 126.133941 67.586158 
+L 126.133941 46.606002 
+L 55.298378 46.606002 
+z
+" style="fill: #ffffff; opacity: 0.88"/>
+    </g>
     <text style="font-size: 7.6px; font-family: 'DejaVu Sans'; fill: #0e1f40" transform="translate(56.666378 54.509557)">A  on the curve</text>
     <text style="font-size: 7.6px; font-family: 'DejaVu Sans'; fill: #0e1f40" transform="translate(56.666378 63.631635)">(full employment)</text>
    </g>
-   <g id="patch_6">
+   <g id="patch_7">
     <path d="M 101.114994 128.369975 
 Q 104.335771 135.430963 107.556548 142.491952 
 " style="fill: none; stroke: #334155; stroke-width: 0.8; stroke-linecap: round"/>
@@ -435,12 +443,20 @@ Q 104.335771 135.430963 107.556548 142.491952
     <text style="font-size: 7.6px; font-family: 'DejaVu Sans'; fill: #d97706" transform="translate(63.412348 112.845676)">B  inside</text>
     <text style="font-size: 7.6px; font-family: 'DejaVu Sans'; fill: #d97706" transform="translate(63.412348 121.967754)">(unemployment)</text>
    </g>
-   <g id="patch_7">
-    <path d="M 237.465117 110.589653 
-Q 225.456654 101.967571 213.448191 93.345489 
+   <g id="patch_8">
+    <path d="M 238.34462 111.221136 
+Q 225.895129 102.282396 213.445638 93.343656 
 " style="fill: none; stroke: #334155; stroke-width: 0.8; stroke-linecap: round"/>
    </g>
    <g id="text_19">
+    <g id="patch_9">
+     <path d="M 226.196289 133.369442 
+L 282.967101 133.369442 
+L 282.967101 112.389286 
+L 226.196289 112.389286 
+z
+" style="fill: #ffffff; opacity: 0.88"/>
+    </g>
     <text style="font-size: 7.6px; font-family: 'DejaVu Sans'; fill: #dc2626" transform="translate(227.564289 120.29284)">C  outside</text>
     <text style="font-size: 7.6px; font-family: 'DejaVu Sans'; fill: #dc2626" transform="translate(227.564289 129.414918)">(unattainable)</text>
    </g>

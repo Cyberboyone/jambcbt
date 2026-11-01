@@ -262,16 +262,16 @@ L 221.668125 175.6
     <text style="font-size: 7.4px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #dc2626" x="38.695817" y="135.344" transform="rotate(-0 38.695817 135.344)">ceiling</text>
    </g>
    <g id="patch_5">
-    <path d="M 91.930956 138.608 
-Q 135.565477 138.608 179.199999 138.608 
+    <path d="M 93.32673 138.608 
+Q 136.262176 138.608 179.197623 138.608 
 " style="fill: none; stroke: #dc2626; stroke-width: 0.9; stroke-linecap: round"/>
-    <path d="M 95.930956 140.608 
-L 91.930956 138.608 
-L 95.930956 136.608 
+    <path d="M 97.32673 140.608 
+L 93.32673 138.608 
+L 97.32673 136.608 
 " style="fill: none; stroke: #dc2626; stroke-width: 0.9; stroke-linecap: round"/>
-    <path d="M 175.199999 136.608 
-L 179.199999 138.608 
-L 175.199999 140.608 
+    <path d="M 175.197623 136.608 
+L 179.197623 138.608 
+L 175.197623 140.608 
 " style="fill: none; stroke: #dc2626; stroke-width: 0.9; stroke-linecap: round"/>
    </g>
    <g id="text_16">
@@ -511,16 +511,16 @@ L 446.668125 175.6
     <text style="font-size: 7.4px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #d97706" x="263.695817" y="89.648" transform="rotate(-0 263.695817 89.648)">floor</text>
    </g>
    <g id="patch_9">
-    <path d="M 404.196063 92.912 
-Q 360.561542 92.912 316.927021 92.912 
+    <path d="M 402.80029 92.912 
+Q 359.864843 92.912 316.929396 92.912 
 " style="fill: none; stroke: #d97706; stroke-width: 0.9; stroke-linecap: round"/>
-    <path d="M 400.196063 90.912 
-L 404.196063 92.912 
-L 400.196063 94.912 
+    <path d="M 398.80029 90.912 
+L 402.80029 92.912 
+L 398.80029 94.912 
 " style="fill: none; stroke: #d97706; stroke-width: 0.9; stroke-linecap: round"/>
-    <path d="M 320.927021 94.912 
-L 316.927021 92.912 
-L 320.927021 90.912 
+    <path d="M 320.929396 94.912 
+L 316.929396 92.912 
+L 320.929396 90.912 
 " style="fill: none; stroke: #d97706; stroke-width: 0.9; stroke-linecap: round"/>
    </g>
    <g id="text_33">

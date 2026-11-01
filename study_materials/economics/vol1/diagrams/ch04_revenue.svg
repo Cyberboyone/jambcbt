@@ -325,19 +325,27 @@ L 347.588125 180.965844
 " style="fill: none; stroke: #334155; stroke-linejoin: miter; stroke-linecap: square"/>
    </g>
    <g id="text_16">
-    <text style="font-size: 7.2px; font-family: 'DejaVu Sans'; fill: #0e1f40" transform="translate(206.538125 88.74394)">|E| = 1</text>
-    <text style="font-size: 7.2px; font-family: 'DejaVu Sans'; fill: #0e1f40" transform="translate(206.538125 97.385909)">total revenue</text>
-    <text style="font-size: 7.2px; font-family: 'DejaVu Sans'; fill: #0e1f40" transform="translate(206.538125 106.027878)">is at its maximum</text>
+    <text style="font-size: 7.2px; font-family: 'DejaVu Sans'; fill: #0e1f40" transform="translate(207.43951 79.206381)">|E| = 1</text>
+    <text style="font-size: 7.2px; font-family: 'DejaVu Sans'; fill: #0e1f40" transform="translate(207.43951 87.84835)">total revenue</text>
+    <text style="font-size: 7.2px; font-family: 'DejaVu Sans'; fill: #0e1f40" transform="translate(207.43951 96.490318)">peaks here</text>
    </g>
    <g id="text_17">
-    <text style="font-size: 7.2px; font-family: 'DejaVu Sans'; fill: #008751" transform="translate(65.154279 106.45655)">elastic:</text>
-    <text style="font-size: 7.2px; font-family: 'DejaVu Sans'; fill: #008751" transform="translate(65.154279 115.098519)">a price cut</text>
-    <text style="font-size: 7.2px; font-family: 'DejaVu Sans'; fill: #008751" transform="translate(65.154279 123.740488)">raises revenue</text>
+    <g id="patch_5">
+     <path d="M 59.279356 124.833861 
+L 115.087231 124.833861 
+L 115.087231 96.171955 
+L 59.279356 96.171955 
+z
+" style="fill: #ffffff; opacity: 0.88"/>
+    </g>
+    <text style="font-size: 7.2px; font-family: 'DejaVu Sans'; fill: #008751" transform="translate(60.647356 103.731533)">elastic:</text>
+    <text style="font-size: 7.2px; font-family: 'DejaVu Sans'; fill: #008751" transform="translate(60.647356 112.373502)">a price cut</text>
+    <text style="font-size: 7.2px; font-family: 'DejaVu Sans'; fill: #008751" transform="translate(60.647356 121.015471)">raises revenue</text>
    </g>
    <g id="text_18">
-    <text style="font-size: 7.2px; font-family: 'DejaVu Sans'; fill: #d97706" transform="translate(233.41274 106.45655)">inelastic:</text>
-    <text style="font-size: 7.2px; font-family: 'DejaVu Sans'; fill: #d97706" transform="translate(233.41274 115.098519)">a price cut</text>
-    <text style="font-size: 7.2px; font-family: 'DejaVu Sans'; fill: #d97706" transform="translate(233.41274 123.740488)">loses revenue</text>
+    <text style="font-size: 7.2px; font-family: 'DejaVu Sans'; fill: #d97706" transform="translate(246.93351 122.806652)">inelastic:</text>
+    <text style="font-size: 7.2px; font-family: 'DejaVu Sans'; fill: #d97706" transform="translate(246.93351 131.448621)">a price cut</text>
+    <text style="font-size: 7.2px; font-family: 'DejaVu Sans'; fill: #d97706" transform="translate(246.93351 140.09059)">loses revenue</text>
    </g>
    <g id="text_19">
     <text style="font-weight: 700; font-size: 9.2px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #0e1f40" x="191.348125" y="14.189844" transform="rotate(-0 191.348125 14.189844)">THE REVENUE TEST FOR ELASTICITY</text>

@@ -551,30 +551,46 @@ L 336.428125 180.965844
 " style="fill: none; stroke: #334155; stroke-linejoin: miter; stroke-linecap: square"/>
    </g>
    <g id="patch_5">
-    <path d="M 234.093031 58.53593 
-Q 234.093031 70.518119 234.093031 80.935059 
+    <path d="M 234.093031 62.347064 
+Q 234.093031 72.424435 234.093031 80.936559 
 " style="fill: none; stroke: #2563eb; stroke-width: 1.4; stroke-linecap: round"/>
-    <path d="M 236.093031 76.935059 
-L 234.093031 80.935059 
-L 232.093031 76.935059 
+    <path d="M 236.093031 76.936559 
+L 234.093031 80.936559 
+L 232.093031 76.936559 
 " style="fill: none; stroke: #2563eb; stroke-width: 1.4; stroke-linecap: round"/>
    </g>
    <g id="patch_6">
-    <path d="M 234.093031 104.86757 
-Q 234.093031 95.685864 234.093031 88.069406 
+    <path d="M 234.093031 95.870678 
+Q 234.093031 91.186203 234.093031 88.066976 
 " style="fill: none; stroke: #d97706; stroke-width: 1.4; stroke-linecap: round"/>
-    <path d="M 232.093031 92.069406 
-L 234.093031 88.069406 
-L 236.093031 92.069406 
+    <path d="M 232.093031 92.066976 
+L 234.093031 88.066976 
+L 236.093031 92.066976 
 " style="fill: none; stroke: #d97706; stroke-width: 1.4; stroke-linecap: round"/>
    </g>
    <g id="text_15">
+    <g id="patch_7">
+     <path d="M 241.220955 70.10789 
+L 308.765486 70.10789 
+L 308.765486 33.700233 
+L 241.220955 33.700233 
+z
+" style="fill: #ffffff; opacity: 0.88"/>
+    </g>
     <text style="font-size: 7px; font-family: 'DejaVu Sans'; fill: #2563eb" transform="translate(242.620955 41.119823)">S shifts right:</text>
     <text style="font-size: 7px; font-family: 'DejaVu Sans'; fill: #2563eb" transform="translate(242.620955 49.521737)">cheaper inputs,</text>
     <text style="font-size: 7px; font-family: 'DejaVu Sans'; fill: #2563eb" transform="translate(242.620955 57.923651)">better technology,</text>
     <text style="font-size: 7px; font-family: 'DejaVu Sans'; fill: #2563eb" transform="translate(242.620955 66.325565)">more sellers</text>
    </g>
    <g id="text_16">
+    <g id="patch_8">
+     <path d="M 241.220955 120.437768 
+L 303.736424 120.437768 
+L 303.736424 92.432026 
+L 241.220955 92.432026 
+z
+" style="fill: #ffffff; opacity: 0.88"/>
+    </g>
     <text style="font-size: 7px; font-family: 'DejaVu Sans'; fill: #d97706" transform="translate(242.620955 99.851616)">S shifts left:</text>
     <text style="font-size: 7px; font-family: 'DejaVu Sans'; fill: #d97706" transform="translate(242.620955 108.25353)">dearer inputs,</text>
     <text style="font-size: 7px; font-family: 'DejaVu Sans'; fill: #d97706" transform="translate(242.620955 116.655444)">tax, bad weather</text>

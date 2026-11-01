@@ -47,7 +47,7 @@ different as salt and cars.
 ]
 
 #diagram-fig("diagrams/ch04_ped.svg",
-  "Three demand curves and their elasticities. A flat curve is elastic, a rectangular hyperbola is unit elastic at every point, and a steep curve is inelastic.", width: 100%)
+  "Three straight demand curves through the same point. Because elasticity is the reciprocal of the slope times the price-quantity ratio, the flat curve is elastic and the steep curve is inelastic at that point, while the middle curve is unit elastic: a price cut leaves revenue unchanged.", width: 100%)
 
 #concept-box("Reading the three answers")[
   + *PED > 1* — elastic. Buyers are responsive; a small price change produces a large quantity change. Luxuries, goods with many substitutes, goods that take a large share of income.

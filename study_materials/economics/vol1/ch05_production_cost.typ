@@ -45,7 +45,7 @@ are fixed and labour can vary; in the long run, everything can change.
 ]
 
 #diagram-fig("diagrams/ch05_production.svg",
-  "TP, AP and MP. MP rises, peaks and falls; it cuts AP at AP's maximum; and the three stages of production are marked by where MP becomes zero and negative.", width: 100%)
+  "TP, AP and MP from the same table. MP rises, peaks and falls, and it cuts AP at AP's maximum; TP reaches its peak where MP reaches zero; and MP turns negative beyond that point, which is where Stage III begins.", width: 100%)
 
 #concept-box("The relationship worth memorising")[
   + MP above AP → AP is *rising*.
@@ -165,7 +165,7 @@ is the change in total revenue from one more unit sold.
 ]
 
 #diagram-fig("diagrams/ch05_revenue.svg",
-  "Total revenue against total cost. Where the lines cross the firm breaks even; between the crossings it makes a profit; where TR is below TC it makes a loss.", width: 96%)
+  "Total revenue against total cost. Where the two lines cross, the firm breaks even; to the right of the crossing TR is above TC and the green gap is profit; to the left the gap is a loss, made worse by the fixed cost line that has to be paid at zero output." , width: 96%)
 
 #worked-example(
   3,

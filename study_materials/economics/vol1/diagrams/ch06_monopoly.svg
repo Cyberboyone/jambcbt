@@ -318,15 +318,23 @@ L 328.179562 180.509984
 " style="fill: none; stroke: #334155; stroke-linejoin: miter; stroke-linecap: square"/>
    </g>
    <g id="patch_5">
-    <path d="M 105.063399 42.891093 
-Q 124.56989 67.222314 143.516912 90.855687 
+    <path d="M 104.55623 42.25848 
+Q 124.315893 66.905493 143.516087 90.854658 
 " style="fill: none; stroke: #334155; stroke-width: 0.8; stroke-linecap: round"/>
-    <path d="M 142.838969 87.707927 
-L 143.516912 90.855687 
-L 140.591938 89.509386 
+    <path d="M 142.838143 87.706898 
+L 143.516087 90.854658 
+L 140.591113 89.508356 
 " style="fill: none; stroke: #334155; stroke-width: 0.8; stroke-linecap: round"/>
    </g>
    <g id="text_17">
+    <g id="patch_6">
+     <path d="M 47.811562 40.701815 
+L 142.754812 40.701815 
+L 142.754812 20.681877 
+L 47.811562 20.681877 
+z
+" style="fill: #ffffff; opacity: 0.88"/>
+    </g>
     <text style="font-size: 7.2px; font-family: 'DejaVu Sans'; fill: #0e1f40" transform="translate(49.179562 28.241456)">price is read off the</text>
     <text style="font-size: 7.2px; font-family: 'DejaVu Sans'; fill: #0e1f40" transform="translate(49.179562 36.883424)">demand curve, above MC</text>
    </g>

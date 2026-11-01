@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
   "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="353.867188pt" height="208.469891pt" viewBox="0 0 353.867188 208.469891" xmlns="http://www.w3.org/2000/svg" version="1.1">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="332.468125pt" height="208.469891pt" viewBox="0 0 332.468125 208.469891" xmlns="http://www.w3.org/2000/svg" version="1.1">
  <metadata>
   <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
    <cc:Work>
@@ -16,8 +16,8 @@
  <g id="figure_1">
   <g id="patch_1">
    <path d="M 0 208.469891 
-L 353.867188 208.469891 
-L 353.867188 0 
+L 332.468125 208.469891 
+L 332.468125 0 
 L 0 0 
 z
 " style="fill: #ffffff"/>
@@ -574,7 +574,7 @@ L 325.268125 175.269891
 " style="fill: none; stroke: #334155; stroke-linejoin: miter; stroke-linecap: square"/>
    </g>
    <g id="text_15">
-    <text style="font-size: 7.6px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #008751" x="297.368125" y="90.229751" transform="rotate(-0 297.368125 90.229751)">P = AR = MR</text>
+    <text style="font-size: 7.4px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #008751" x="42.083125" y="88.204986" transform="rotate(-0 42.083125 88.204986)">P = AR = MR: the price line is demand</text>
    </g>
    <g id="patch_5">
     <path d="M 224.221316 67.568017 

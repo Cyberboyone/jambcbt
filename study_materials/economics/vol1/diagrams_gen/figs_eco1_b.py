@@ -43,10 +43,12 @@ def ch02_demand_curve():
     a2.plot(q, p, color=GREEN, lw=2.0)
     a2.plot(q, p + 2.2, color=BLUE, lw=2.0)
     a2.plot(q, p - 2.0, color=AMBER, lw=2.0)
-    a2.annotate("", (2.2, 8.1), (2.2, 10.2), arrowprops=dict(arrowstyle="->", color=BLUE, lw=1.4))
-    a2.annotate("", (2.2, 6.3), (2.2, 4.5), arrowprops=dict(arrowstyle="->", color=AMBER, lw=1.4))
-    a2.text(2.6, 10.0, "increase", fontsize=7.2, color=BLUE)
-    a2.text(2.6, 4.4, "decrease", fontsize=7.2, color=AMBER)
+    # Both arrows leave the original curve D and point to where the new curve sits,
+    # so "increase" points up and "decrease" points down.
+    a2.annotate("", (2.2, 10.3), (2.2, 8.4), arrowprops=dict(arrowstyle="->", color=BLUE, lw=1.4))
+    a2.annotate("", (2.2, 4.4), (2.2, 6.2), arrowprops=dict(arrowstyle="->", color=AMBER, lw=1.4))
+    a2.text(2.7, 10.8, "increase", fontsize=7.2, color=BLUE)
+    a2.text(2.7, 3.3, "decrease", fontsize=7.2, color=AMBER)
     a2.text(9.7, 3.6, "D", fontsize=9, color=GREEN, weight="bold")
     a2.set_title("shift (any non-price determinant)", fontsize=8.0, color=NAVY)
 
@@ -77,18 +79,26 @@ def ch02_schedule():
         b.append(t(100, y, p, size=9.0, fill=NAVY))
         b.append(t(212, y, q, size=9.0, fill=NAVY))
         b.append(line(38, y + 8, 252, y + 8, color="#E2E8F0", sw=0.7))
-    b.append(t(280, 230, "each ₦2 cut adds two units demanded", size=8.2, fill=MUTED))
+    b.append(t(280, 243, "each ₦2 cut adds two units demanded", size=8.2, fill=MUTED))
 
     # a small plot
     x0, y0, pw, ph = 300, 46, 220, 168
     b.append(line(x0, y0 + ph, x0 + pw, y0 + ph, color=SLATE, sw=1.2))
     b.append(line(x0, y0, x0, y0 + ph, color=SLATE, sw=1.2))
     b.append(t(x0 + pw / 2, y0 + ph + 16, "quantity", size=8.0))
-    b.append(t(x0 - 18, y0 + 10, "price", size=8.0))
+    b.append(t(x0 + 1, y0 - 7, "price", size=8.0, anchor="start"))
+    for v in (2, 6, 10):
+        yv = y0 + ph - 10 - (v / 10) * (ph - 24)
+        b.append(t(x0 - 8, yv + 3, str(v), size=6.6, fill=MUTED, anchor="end"))
+    for v in (2, 6, 10):
+        xv = x0 + 12 + (v / 10) * (pw - 26)
+        b.append(t(xv, y0 + ph + 10, str(v), size=6.6, fill=MUTED))
     pts = []
     for p, q in rows:
         px = x0 + 12 + (int(q) / 10) * (pw - 26)
-        py = y0 + (int(p) / 10) * (ph - 14)
+        # SVG y grows downwards, so a HIGH price must sit near the top of the
+        # plot: invert the price scale before placing the point.
+        py = y0 + ph - 10 - (int(p) / 10) * (ph - 24)
         pts.append((px, py))
         b.append(dot(px, py, 3.0, GREEN))
     b.append(path("M " + " L ".join(f"{x:.1f},{y:.1f}" for x, y in pts), stroke=GREEN, sw=1.8))
@@ -127,10 +137,13 @@ def ch02_utility():
     fig, (a1, a2) = _pair_axes("TOTAL UTILITY RISES, MARGINAL UTILITY FALLS")
     q = np.arange(1, 8)
     mu = np.array([10, 8, 6, 4, 2, 0.5, -1.0])
-    tu = np.cumsum(mu)
-    a1.plot(q, tu, "-o", color=GREEN, lw=1.8, ms=3.5)
+    # Total utility starts at zero with nothing consumed and is the running sum
+    # of marginal utility; the curve therefore peaks exactly where MU reaches 0.
+    tu = np.concatenate([[0], np.cumsum(mu)])
+    qq = np.concatenate([[0], q])
+    a1.plot(qq, tu, "-o", color=GREEN, lw=1.8, ms=3.5)
     a1.set_title("total utility", fontsize=8.0, color=NAVY)
-    a1.annotate("maximum where\nMU = 0", (6, tu[5]), (2.0, 14), fontsize=7.2, color=RED,
+    a1.annotate("total utility peaks\nwhere MU = 0", (6, tu[6]), (2.0, 14), fontsize=7.2, color=RED,
                 arrowprops=dict(arrowstyle="->", color=RED, lw=0.9))
     a1.set_xlabel("units consumed", fontsize=8)
     a1.set_ylabel("utils", fontsize=8)
@@ -198,18 +211,35 @@ def ch03_equilibrium():
     ax.plot(q, s, color=BLUE, lw=2.0)
     qe = (10 - 1) / (0.75 + 0.8)
     pe = 10 - 0.8 * qe
-    ax.plot([qe], [pe], "o", color=NAVY, ms=5)
-    ax.axhline(pe, 0, qe / 10, color=SLATE, lw=0.8, ls=":")
-    ax.axvline(qe, 0, pe / 10, color=SLATE, lw=0.8, ls=":")
-    ax.text(qe + 0.1, pe - 0.9, "E: no surplus,\nno shortage", fontsize=7.4, color=NAVY)
-    ax.fill_between(q, d, s, where=(s > d), color=RED_LIGHT, alpha=0.55)
-    ax.fill_between(q, d, s, where=(s < d), color=BLUE_LIGHT, alpha=0.55)
-    ax.text(2.2, 8.9, "surplus\nprice is pushed down", fontsize=7.2, color=RED)
-    ax.text(6.6, 3.0, "shortage\nprice is pulled up", fontsize=7.2, color=BLUE)
-    ax.text(9.3, 3.4, "D", fontsize=9, color=GREEN, weight="bold")
-    ax.text(9.3, 9.4, "S", fontsize=9, color=BLUE, weight="bold")
+
+    def q_at(p, curve):
+        return (10 - p) / 0.8 if curve == "d" else (p - 1) / 0.75
+
+    # A price held ABOVE equilibrium: sellers offer more than buyers take, so the
+    # horizontal gap is a surplus and it pushes the price down.  A price held
+    # BELOW: buyers want more than is offered, the gap is a shortage, price rises.
+    p_hi, p_lo = 8.4, 2.6
+    for p, colour, fillc, label, dy in (
+        (p_hi, RED, RED_LIGHT, "surplus at a price above equilibrium", 0.42),
+        (p_lo, BLUE, BLUE_LIGHT, "shortage at a price below equilibrium", -0.05),
+    ):
+        ax.hlines(p, 0, 9.6, color=colour, lw=0.9, ls=":")
+        qs, qd = q_at(p, "s"), q_at(p, "d")
+        lo, hi = min(qs, qd), max(qs, qd)
+        ax.fill_between([lo, hi], p, p + 0.0, color=fillc, alpha=0.9)
+        ax.annotate("", (lo, p), (hi, p),
+                    arrowprops=dict(arrowstyle="<|-|>", color=colour, lw=1.1, mutation_scale=9))
+        ax.text((lo + hi) / 2, p + dy, label, fontsize=7.1, color=colour,
+                ha="center", va="bottom" if dy > 0 else "top")
+
+    ax.plot([qe], [pe], "o", color=NAVY, ms=5.5, zorder=5)
+    ax.annotate("E: the market clears", xy=(qe - 0.08, pe), xytext=(2.15, pe - 0.02),
+                fontsize=7.3, color=NAVY, ha="left", va="center",
+                arrowprops=dict(arrowstyle="->", color=NAVY, lw=0.9))
+    ax.text(10.15, 1.15, "D", fontsize=9, color=GREEN, weight="bold", ha="right")
+    ax.text(10.15, 9.35, "S", fontsize=9, color=BLUE, weight="bold", ha="right")
     ax.set_xlim(0, 10.4)
-    ax.set_ylim(0, 11.5)
+    ax.set_ylim(0, 11.4)
     ax.set_xlabel("quantity", fontsize=8)
     ax.set_ylabel("price", fontsize=8)
     for sp in ("top", "right"):
@@ -217,7 +247,7 @@ def ch03_equilibrium():
     ax.grid(color="#E2E8F0", lw=0.6)
     ax.set_axisbelow(True)
     ax.tick_params(labelsize=7)
-    ax.set_title("EQUILIBRIUM IS THE PRICE WITH NO PRESSURE TO MOVE", fontsize=9.2, color=NAVY, weight="bold")
+    ax.set_title("EQUILIBRIUM IS THE PRICE WITH NO PRESSURE TO MOVE", fontsize=8.8, color=NAVY, weight="bold")
     save(fig, "ch03_equilibrium.svg")
 
 

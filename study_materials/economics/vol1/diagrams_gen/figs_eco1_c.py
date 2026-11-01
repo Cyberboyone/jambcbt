@@ -8,7 +8,7 @@ import numpy as np
 from common import (
     AMBER, AMBER_LIGHT, BLUE, BLUE_LIGHT, BORDER, GREEN, GREEN_LIGHT, LIGHT_BG,
     MUTED, NAVY, PURPLE, PURPLE_LIGHT, RED, RED_LIGHT, SLATE,
-    arrow2, axes_style, card, dot, line, path, poly, recap_card, rect, save,
+    arrow2, axes_style, card, dot, line, lines, path, poly, recap_card, rect, save,
     svg, t, write_svg,
 )
 
@@ -21,23 +21,29 @@ FIGURES = [
 
 def ch04_ped():
     fig, axes = plt.subplots(1, 3, figsize=(6.6, 2.5))
-    fig.suptitle("THREE DEMAND CURVES, THREE ELASTICITIES", fontsize=9.2, color=NAVY, weight="bold", y=1.02)
-    titles = ["elastic  |E| > 1", "unit elastic  |E| = 1", "inelastic  |E| < 1"]
-    cols = [GREEN, BLUE, AMBER]
-    for ax, title, col in zip(axes, titles, cols):
-        q = np.linspace(0.4, 10, 100)
-        if title.startswith("elastic"):
-            p = 3.0 / q ** 0.9
-        elif title.startswith("unit"):
-            p = 6.0 / q
-        else:
-            p = 12 - 0.9 * q
-        ax.plot(q, p, color=col, lw=1.9)
-        ax.set_xlim(0, 10.5)
+    fig.suptitle("THREE DEMAND CURVES THROUGH ONE POINT", fontsize=9.2, color=NAVY, weight="bold", y=1.02)
+    # PED = (1/slope) x (P/Q), so through a single point the FLAT curve is the
+    # elastic one and the STEEP curve is the inelastic one.  All three pass
+    # through (5, 5), where Q = 5 and P = 5, so the labels are exact.
+    cases = [
+        ("flat curve — elastic", 0.35, GREEN, ["|E| = 2.9", "a price cut", "raises revenue"]),
+        ("unit elastic", 1.00, BLUE, ["|E| = 1.0", "revenue", "unchanged"]),
+        ("steep curve — inelastic", 2.20, AMBER, ["|E| = 0.45", "a price cut", "loses revenue"]),
+    ]
+    for ax, (title, b, col, note) in zip(axes, cases):
+        q = np.linspace(0, 10, 400)
+        p = 5 - b * (q - 5)
+        keep = (p >= 0.0) & (p <= 11.3)
+        ax.plot(q[keep], p[keep], color=col, lw=1.9)
+        ax.plot([5], [5], "o", color=NAVY, ms=4)
+        ax.set_xlim(0, 10.4)
         ax.set_ylim(0, 11.5)
         ax.set_xlabel("quantity", fontsize=7.4)
         ax.set_ylabel("price", fontsize=7.4)
-        ax.set_title(title, fontsize=8.0, color=NAVY)
+        ax.set_title(title, fontsize=7.6, color=NAVY)
+        # Keep the note in the corner the curve does not run through.
+        ax.text(0.97, 0.04, "\n".join(note), transform=ax.transAxes, ha="right",
+                va="bottom", fontsize=6.9, color=col)
         for sp in ("top", "right"):
             ax.spines[sp].set_visible(False)
         ax.grid(color="#E2E8F0", lw=0.5)
@@ -53,9 +59,9 @@ def ch04_revenue():
     tr = 10 * q - 0.9 * q ** 2
     ax.plot(q, tr, color=PURPLE, lw=2.0)
     ax.axvline(10 / 1.8, color=SLATE, lw=0.9, ls=":")
-    ax.text(10 / 1.8 + 0.15, max(tr) * 0.55, "|E| = 1\ntotal revenue\nis at its maximum", fontsize=7.2, color=NAVY)
-    ax.text(1.0, max(tr) * 0.42, "elastic:\na price cut\nraises revenue", fontsize=7.2, color=GREEN)
-    ax.text(6.6, max(tr) * 0.42, "inelastic:\na price cut\nloses revenue", fontsize=7.2, color=AMBER)
+    ax.text(10 / 1.8 + 0.18, max(tr) * 0.62, "|E| = 1\ntotal revenue\npeaks here", fontsize=7.2, color=NAVY)
+    ax.text(0.85, max(tr) * 0.44, "elastic:\na price cut\nraises revenue", fontsize=7.2, color=GREEN)
+    ax.text(7.05, max(tr) * 0.30, "inelastic:\na price cut\nloses revenue", fontsize=7.2, color=AMBER)
     ax.set_xlim(0, 10.4)
     ax.set_ylim(0, max(tr) * 1.18)
     ax.set_xlabel("quantity sold", fontsize=8)
@@ -99,16 +105,23 @@ def ch04_income_cross():
 
 
 def ch04_pes():
-    fig, ax = plt.subplots(figsize=(5.4, 2.8))
+    fig, ax = plt.subplots(figsize=(5.4, 2.9))
     q = np.linspace(0, 10, 200)
-    ax.plot(q, 2 + 1.6 * q, color=GREEN, lw=1.9)
-    ax.plot(q, 2 + 0.35 * q, color=AMBER, lw=1.9)
-    ax.plot([4.4, 4.4], [0, 9.2], color=RED, lw=1.6, ls="--")
-    ax.text(8.0, 14.4, "elastic supply", fontsize=7.4, color=GREEN)
-    ax.text(8.0, 5.0, "inelastic supply", fontsize=7.4, color=AMBER)
-    ax.text(4.5, 9.6, "a fixed capacity\n(perfectly inelastic)", fontsize=7.2, color=RED)
+    # A flatter supply curve is the MORE elastic one: a small price rise buys a
+    # large quantity response.  A steep curve is inelastic; a vertical one is
+    # perfectly inelastic, because capacity cannot be increased at all.
+    ax.plot(q, 1.4 + 0.40 * q, color=GREEN, lw=1.9)
+    ax.plot(q, 1.4 + 1.50 * q, color=AMBER, lw=1.9)
+    ax.plot([5.6, 5.6], [0, 9.0], color=RED, lw=1.7, ls="--")
+    ax.text(6.5, 2.6, "elastic supply\n(output can rise)", fontsize=7.3, color=GREEN)
+    ax.annotate("inelastic supply\n(capacity nearly full)", xy=(6.4, 11.0),
+                xytext=(7.15, 6.4), fontsize=7.3, color=AMBER,
+                arrowprops=dict(arrowstyle="->", color=AMBER, lw=0.9))
+    ax.annotate("fixed capacity: perfectly\ninelastic, Pes = 0", xy=(5.62, 8.4),
+                xytext=(0.35, 12.6), fontsize=7.3, color=RED,
+                arrowprops=dict(arrowstyle="->", color=RED, lw=0.9))
     ax.set_xlim(0, 10.4)
-    ax.set_ylim(0, 16)
+    ax.set_ylim(0, 15.6)
     ax.set_xlabel("quantity supplied", fontsize=8)
     ax.set_ylabel("price", fontsize=8)
     for sp in ("top", "right"):
@@ -116,7 +129,7 @@ def ch04_pes():
     ax.grid(color="#E2E8F0", lw=0.6)
     ax.set_axisbelow(True)
     ax.tick_params(labelsize=7)
-    ax.set_title("SUPPLY ELASTICITY IS ABOUT TIME AND SPARE CAPACITY", fontsize=9.2, color=NAVY, weight="bold")
+    ax.set_title("SUPPLY ELASTICITY IS ABOUT TIME AND SPARE CAPACITY", fontsize=8.6, color=NAVY, weight="bold")
     save(fig, "ch04_pes.svg")
 
 
@@ -131,23 +144,31 @@ def recap_ch04():
 
 def ch05_production():
     fig, ax = plt.subplots(figsize=(5.6, 3.0))
-    L = np.linspace(0.2, 10, 300)
-    tp = 12 * L - 0.75 * L ** 2 - 0.03 * L ** 3
-    tp = tp - tp.min()
-    mp = np.gradient(tp, L)
-    ap = tp / L
+    L = np.linspace(0, 10, 400)
+    # TP = 1.2L^2 - 0.09L^3 gives the textbook three stages: MP rises, then falls
+    # through AP at AP's peak (L = 6.67), and finally turns negative at L = 8.89.
+    tp = 1.2 * L ** 2 - 0.09 * L ** 3
+    mp = 2.4 * L - 0.27 * L ** 2
+    ap = np.where(L > 1e-9, tp / np.maximum(L, 1e-9), 0.0)
     ax.plot(L, tp, color=GREEN, lw=2.0, label="TP")
     ax.plot(L, mp, color=BLUE, lw=1.7, label="MP")
     ax.plot(L, ap, color=AMBER, lw=1.7, label="AP")
     ax.axhline(0, color=SLATE, lw=0.8)
-    ax.axvline(3.4, color=BORDER, lw=0.9, ls=":")
-    ax.axvline(6.6, color=BORDER, lw=0.9, ls=":")
-    ax.text(1.3, max(tp) * 0.92, "stage I", fontsize=7.2, color=MUTED)
-    ax.text(4.4, max(tp) * 0.92, "stage II", fontsize=7.2, color=MUTED)
-    ax.text(7.6, max(tp) * 0.92, "stage III", fontsize=7.2, color=MUTED)
-    ax.text(6.8, -3.0, "MP cuts AP\nat AP's peak", fontsize=7.0, color=AMBER)
+    l_ap_peak, l_mp_zero = 20 / 3, 80 / 9
+    ax.axvline(l_ap_peak, color=SLATE, lw=0.9, ls=(0, (3, 3)))
+    ax.axvline(l_mp_zero, color=SLATE, lw=0.9, ls=(0, (3, 3)))
+    ax.text(3.1, 33.0, "stage I", fontsize=7.4, color=MUTED)
+    ax.text(7.35, 33.0, "stage II", fontsize=7.4, color=MUTED)
+    ax.text(9.55, 33.0, "III", fontsize=7.0, color=MUTED)
+    ax.plot([l_ap_peak], [1.2 * l_ap_peak ** 2 - 0.09 * l_ap_peak ** 3], "o", color=NAVY, ms=4, zorder=5)
+    ax.annotate("MP cuts AP at AP's peak", xy=(l_ap_peak + 0.08, 4.4), xytext=(4.55, 13.5),
+                fontsize=7.1, color=AMBER,
+                arrowprops=dict(arrowstyle="->", color=AMBER, lw=0.9))
+    ax.annotate("TP peaks where MP = 0", xy=(l_mp_zero, 31.4), xytext=(5.05, 24.6),
+                fontsize=7.1, color=GREEN,
+                arrowprops=dict(arrowstyle="->", color=GREEN, lw=0.9))
     ax.set_xlim(0, 10.4)
-    ax.set_ylim(min(mp) * 1.12, max(tp) * 1.10)
+    ax.set_ylim(-9, 36)
     ax.set_xlabel("units of the variable factor (labour)", fontsize=8)
     ax.set_ylabel("output / product", fontsize=8)
     ax.legend(fontsize=7.4, frameon=False, loc="upper left")
@@ -197,10 +218,11 @@ def ch05_revenue():
     ax.fill_between(q[:idx], tr[:idx], tc[:idx], color=RED_LIGHT, alpha=0.7)
     ax.fill_between(q[idx:], tr[idx:], tc[idx:], color=GREEN_LIGHT, alpha=0.8)
     ax.axhline(6, color=SLATE, lw=0.9, ls=":")
-    ax.text(0.2, 6.5, "fixed cost", fontsize=7.2, color=SLATE)
-    ax.text(1.0, 34, "loss", fontsize=8.0, color=RED)
-    ax.text(7.6, 42, "profit", fontsize=8.0, color=GREEN)
-    ax.text(4.9, 19, "break-even", fontsize=7.4, color=NAVY)
+    ax.text(7.9, 6.6, "fixed cost", fontsize=7.2, color=SLATE)
+    ax.text(6.1, 47, "profit", fontsize=8.0, color=GREEN)
+    ax.annotate("break-even, where TR meets TC", xy=(1.0, 7.8), xytext=(2.9, 2.0),
+                fontsize=7.3, color=NAVY,
+                arrowprops=dict(arrowstyle="->", color=NAVY, lw=0.9))
     ax.set_xlim(0, 10.4)
     ax.set_ylim(0, 62)
     ax.set_xlabel("output", fontsize=8)
@@ -211,7 +233,7 @@ def ch05_revenue():
     ax.grid(color="#E2E8F0", lw=0.6)
     ax.set_axisbelow(True)
     ax.tick_params(labelsize=7)
-    ax.set_title("PROFIT IS THE GAP BETWEEN TR AND TC", fontsize=9.2, color=NAVY, weight="bold")
+    ax.set_title("PROFIT IS TR MINUS TC", fontsize=8.8, color=NAVY, weight="bold")
     save(fig, "ch05_revenue.svg")
 
 
@@ -228,11 +250,13 @@ def ch06_spectrum():
     w, h = 680, 250
     b = [t(340, 20, "THE SPECTRUM FROM MANY SELLERS TO ONE", size=10.6, weight="bold")]
     b.append(rect(30, 48, 620, 26, "#E2E8F0", BORDER, 13, 1.0))
-    stops = [(60, "PERFECT\nCOMPETITION", GREEN), (232, "MONOPOLISTIC\nCOMPETITION", BLUE),
-             (404, "OLIGOPOLY", AMBER), (576, "MONOPOLY", RED)]
+    stops = [(60, ("PERFECT", "COMPETITION"), GREEN),
+             (232, ("MONOPOLISTIC", "COMPETITION"), BLUE),
+             (404, ("OLIGOPOLY",), AMBER),
+             (576, ("MONOPOLY",), RED)]
     for x, label, col in stops:
         b.append(dot(x, 61, 9, col))
-        b.append(t(x, 92, label, size=8.4, weight="bold", fill=col))
+        b.append(lines(x, 92, list(label), size=8.4, gap=12, fill=col, weight="bold"))
     b.append(t(146, 122, "many · identical", size=7.6, fill=MUTED))
     b.append(t(318, 122, "many · differentiated", size=7.6, fill=MUTED))
     b.append(t(470, 122, "few · interdependent", size=7.6, fill=MUTED))
@@ -253,7 +277,7 @@ def ch06_perfect():
     ax.plot(q, 2 + 0.45 * q, color=RED, lw=1.7, label="MC")
     ax.plot(q, 3.4 + 0.22 * q, color=AMBER, lw=1.5, ls="--", label="AC")
     ax.axhline(p, color=GREEN, lw=0.8, ls=":")
-    ax.text(9.4, p + 0.3, "P = AR = MR", fontsize=7.6, color=GREEN)
+    ax.text(0.25, p + 0.45, "P = AR = MR: the price line is demand", fontsize=7.4, color=GREEN)
     ax.plot([8.0], [p], "o", color=NAVY, ms=5)
     ax.annotate("MR = MC\nprofit is maximised", (8.0, p), (5.0, 8.4), fontsize=7.2, color=NAVY,
                 arrowprops=dict(arrowstyle="->", color=SLATE, lw=0.8))
@@ -302,9 +326,9 @@ def ch06_monopoly():
 
 
 def ch06_compare():
-    w, h = 680, 296
+    w, h = 680, 300
     b = [t(340, 20, "THE FOUR STRUCTURES SIDE BY SIDE", size=10.6, weight="bold")]
-    heads = ["", "perfect", "monopolistic", "oligopoly", "monopoly"]
+    heads = ["the test", "perfect", "monopolistic", "oligopoly", "monopoly"]
     xs = [14, 150, 282, 414, 546]
     widths = [132, 128, 128, 128, 120]
     for x, wd, hd in zip(xs, widths, heads):
@@ -319,13 +343,15 @@ def ch06_compare():
         ("long-run profit", "normal", "normal", "possible", "possible"),
     ]
     for i, row in enumerate(rows):
-        y = 60 + i * 36
+        y = 62 + i * 33
         fill = "#FFFFFF" if i % 2 == 0 else LIGHT_BG
-        b.append(rect(14, y, 652, 34, fill, BORDER, 3, 0.9))
-        b.append(t(80, y + 21, row[0], size=8.0, weight="bold", fill=NAVY))
+        b.append(rect(14, y, 652, 31, fill, BORDER, 3, 0.9))
+        b.append(t(80, y + 20, row[0], size=8.0, weight="bold", fill=NAVY))
         for x, wd, cell in zip(xs[1:], widths[1:], row[1:]):
-            b.append(t(x + wd / 2, y + 21, cell, size=7.8, fill=SLATE))
-    b.append(rect(14, 280, 652, 12, GREEN_LIGHT, GREEN_LIGHT, 2, 0.7))
+            b.append(t(x + wd / 2, y + 20, cell, size=7.8, fill=SLATE))
+    b.append(rect(14, 266, 652, 26, GREEN_LIGHT, GREEN, 4, 0.9))
+    b.append(t(340, 283, "Read down a column, not across a row: each structure is one test relaxed.",
+               size=8.3, weight="bold", fill=GREEN))
     write_svg("ch06_compare.svg", svg(w, h, "\n".join(b)))
 
 

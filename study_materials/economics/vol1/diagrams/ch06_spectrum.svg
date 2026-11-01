@@ -17,11 +17,11 @@
 <text x="340" y="20" font-family="DejaVu Sans" font-size="10.6" fill="#0E1F40" text-anchor="middle" font-weight="bold">THE SPECTRUM FROM MANY SELLERS TO ONE</text>
 <rect x="30" y="48" width="620" height="26" rx="13" fill="#E2E8F0" stroke="#CBD5E1" stroke-width="1.0"/>
 <circle cx="60" cy="61" r="9" fill="#008751"/>
-<text x="60" y="92" font-family="DejaVu Sans" font-size="8.4" fill="#008751" text-anchor="middle" font-weight="bold">PERFECT
-COMPETITION</text>
+<text x="60" y="92" font-family="DejaVu Sans" font-size="8.4" fill="#008751" text-anchor="middle" font-weight="bold">PERFECT</text>
+<text x="60" y="104" font-family="DejaVu Sans" font-size="8.4" fill="#008751" text-anchor="middle" font-weight="bold">COMPETITION</text>
 <circle cx="232" cy="61" r="9" fill="#2563EB"/>
-<text x="232" y="92" font-family="DejaVu Sans" font-size="8.4" fill="#2563EB" text-anchor="middle" font-weight="bold">MONOPOLISTIC
-COMPETITION</text>
+<text x="232" y="92" font-family="DejaVu Sans" font-size="8.4" fill="#2563EB" text-anchor="middle" font-weight="bold">MONOPOLISTIC</text>
+<text x="232" y="104" font-family="DejaVu Sans" font-size="8.4" fill="#2563EB" text-anchor="middle" font-weight="bold">COMPETITION</text>
 <circle cx="404" cy="61" r="9" fill="#D97706"/>
 <text x="404" y="92" font-family="DejaVu Sans" font-size="8.4" fill="#D97706" text-anchor="middle" font-weight="bold">OLIGOPOLY</text>
 <circle cx="576" cy="61" r="9" fill="#DC2626"/>

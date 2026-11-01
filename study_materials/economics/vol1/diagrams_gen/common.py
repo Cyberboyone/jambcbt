@@ -161,10 +161,60 @@ def axes_style(ax, xlabel="x", ylabel="y", grid=True, zero=True):
     ax.set_ylabel(ylabel)
 
 
+def _seg_hits_rect(p0, p1, x0, y0, x1, y1) -> bool:
+    """Liang-Barsky: does the segment p0-p1 cross the rectangle?"""
+    dx, dy = p1[0] - p0[0], p1[1] - p0[1]
+    t0, t1 = 0.0, 1.0
+    for den, num in ((-dx, p0[0] - x0), (dx, x1 - p0[0]),
+                     (-dy, p0[1] - y0), (dy, y1 - p0[1])):
+        if den == 0:
+            if num < 0:
+                return False
+        else:
+            r = num / den
+            if den < 0:
+                t0 = max(t0, r)
+            else:
+                t1 = min(t1, r)
+            if t0 > t1:
+                return False
+    return True
+
+
+def declutter(fig) -> None:
+    """Put a soft white card behind any figure label a plotted line runs through.
+
+    The diagrams are drawn at 5.4in and then scaled to the text width, so a
+    label that a curve crosses turns into a smudge on paper.  Doing this in
+    one place keeps every figure legible without hand-tuning each label.
+    """
+    fig.canvas.draw()
+    rend = fig.canvas.get_renderer()
+    for ax in fig.axes:
+        for txt in ax.texts:
+            try:
+                bb = txt.get_window_extent(rend)
+            except Exception:
+                continue
+            hit = False
+            for ln in ax.lines:
+                xy = ax.transData.transform(ln.get_xydata())
+                for i in range(len(xy) - 1):
+                    if _seg_hits_rect(xy[i], xy[i + 1], bb.x0, bb.y0, bb.x1, bb.y1):
+                        hit = True
+                        break
+                if hit:
+                    break
+            if hit:
+                txt.set_bbox(dict(facecolor="white", edgecolor="none",
+                                  pad=1.4, alpha=0.88))
+
+
 def save(fig, name: str) -> None:
     # Fixed hash salt and no date stamp, so that re-running the generator
     # produces byte-identical SVGs and the repository diff stays honest.
     plt.rcParams["svg.hashsalt"] = "jamb-physics-1"
+    declutter(fig)
     fig.savefig(OUT / name, format="svg", bbox_inches="tight", transparent=False,
                 facecolor="white", metadata={"Date": None, "Creator": None})
     plt.close(fig)
