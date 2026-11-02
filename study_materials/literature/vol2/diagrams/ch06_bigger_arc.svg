@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 300" width="760" height="300">
+  <defs>
+    <marker id="ag" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#008751"/>
+    </marker>
+    <marker id="an" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#0E1F40"/>
+    </marker>
+    <marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#D97706"/>
+    </marker>
+    <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#DC2626"/>
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="760" height="300" fill="#FFFFFF"/>
+<text x="380" y="24" font-family="DejaVu Sans" font-size="12.5" fill="#0E1F40" text-anchor="middle" font-weight="bold">Native Son: Fear, Flight, Fate</text>
+<rect x="40.0" y="58" width="281.59999999999997" height="92" rx="8" fill="#FFFFFF" stroke="#2563EB" stroke-width="1.4"/>
+<rect x="40.0" y="58" width="281.59999999999997" height="5" rx="2.5" fill="#2563EB"/>
+<text x="182.79999999999998" y="84" font-family="DejaVu Sans" font-size="9.2" fill="#2563EB" text-anchor="middle" font-weight="bold">BOOK ONE — FEAR</text>
+<text x="182.79999999999998" y="106" font-family="DejaVu Sans" font-size="7.9" fill="#334155" text-anchor="middle" font-weight="normal">the rat, the relief job, the Dalton house,</text>
+<text x="182.79999999999998" y="120" font-family="DejaVu Sans" font-size="7.9" fill="#334155" text-anchor="middle" font-weight="normal">the pillow, the furnace</text>
+<rect x="325.59999999999997" y="58" width="220.40000000000003" height="92" rx="8" fill="#FFFFFF" stroke="#D97706" stroke-width="1.4"/>
+<rect x="325.59999999999997" y="58" width="220.40000000000003" height="5" rx="2.5" fill="#D97706"/>
+<text x="437.79999999999995" y="84" font-family="DejaVu Sans" font-size="9.2" fill="#D97706" text-anchor="middle" font-weight="bold">BOOK TWO — FLIGHT</text>
+<text x="437.79999999999995" y="106" font-family="DejaVu Sans" font-size="7.9" fill="#334155" text-anchor="middle" font-weight="normal">Bessie, the ransom note, the rooftops,</text>
+<text x="437.79999999999995" y="120" font-family="DejaVu Sans" font-size="7.9" fill="#334155" text-anchor="middle" font-weight="normal">the capture</text>
+<rect x="550.0" y="58" width="166.0" height="92" rx="8" fill="#FFFFFF" stroke="#DC2626" stroke-width="1.4"/>
+<rect x="550.0" y="58" width="166.0" height="5" rx="2.5" fill="#DC2626"/>
+<text x="635.0" y="84" font-family="DejaVu Sans" font-size="9.2" fill="#DC2626" text-anchor="middle" font-weight="bold">BOOK THREE — FATE</text>
+<text x="635.0" y="106" font-family="DejaVu Sans" font-size="7.9" fill="#334155" text-anchor="middle" font-weight="normal">the confession, the trial, the sentence,</text>
+<text x="635.0" y="120" font-family="DejaVu Sans" font-size="7.9" fill="#334155" text-anchor="middle" font-weight="normal">the last conversation with Max</text>
+<line x1="40" y1="190" x2="720" y2="190" stroke="#CBD5E1" stroke-width="1.4"/>
+<circle cx="110" cy="190" r="4.4" fill="#2563EB"/>
+<text x="110" y="210" font-family="DejaVu Sans" font-size="7.8" fill="#334155" text-anchor="middle" font-weight="normal">a killing</text>
+<text x="110" y="222" font-family="DejaVu Sans" font-size="7.8" fill="#334155" text-anchor="middle" font-weight="normal">that feels like</text>
+<text x="110" y="234" font-family="DejaVu Sans" font-size="7.8" fill="#334155" text-anchor="middle" font-weight="normal">a first act</text>
+<circle cx="390" cy="190" r="4.4" fill="#D97706"/>
+<text x="390" y="210" font-family="DejaVu Sans" font-size="7.8" fill="#334155" text-anchor="middle" font-weight="normal">a flight that</text>
+<text x="390" y="222" font-family="DejaVu Sans" font-size="7.8" fill="#334155" text-anchor="middle" font-weight="normal">cannot go</text>
+<text x="390" y="234" font-family="DejaVu Sans" font-size="7.8" fill="#334155" text-anchor="middle" font-weight="normal">anywhere</text>
+<circle cx="640" cy="190" r="4.4" fill="#DC2626"/>
+<text x="640" y="210" font-family="DejaVu Sans" font-size="7.8" fill="#334155" text-anchor="middle" font-weight="normal">a trial that</text>
+<text x="640" y="222" font-family="DejaVu Sans" font-size="7.8" fill="#334155" text-anchor="middle" font-weight="normal">explains him</text>
+<text x="640" y="234" font-family="DejaVu Sans" font-size="7.8" fill="#334155" text-anchor="middle" font-weight="normal">and kills him</text>
+<text x="380" y="272" font-family="DejaVu Sans" font-size="8.9" fill="#64748B" text-anchor="middle" font-weight="normal">Bigger is never allowed to be a person and a case at the same time — that is the novel's indictment.</text>
+</svg>

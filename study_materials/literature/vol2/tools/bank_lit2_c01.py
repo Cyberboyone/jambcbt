@@ -1,184 +1,198 @@
-"""Drill bank — Literature in English Volume 2, chapter 1 (30 items)."""
+"""Drill bank — Literature in English Volume 2, chapter 1 (40 items).
+
+Items are (stem, [A, B, C, D], zero-based index of the correct option, solution).
+Solutions refer to the options by their content, never by letter, because the
+renderer shuffles the options and a letter would go stale.
+"""
+
+
+def q(stem, a, b, c, d, k, sol):
+    return (stem, [a, b, c, d], k, sol)
+
 
 DRILL_1 = [
-    (
-        "A set-text question differs from an unseen question because it assumes",
-        ["a longer extract", "that the evidence is already yours and asks you to select it", "a higher mark", "that the text is poetry"],
-        1,
-        "Selection is the skill tested; the evidence is not supplied, so nothing on the page points to the right scene.",
-    ),
-    (
-        "The “unit” of a set-text answer is",
-        ["the whole play", "the scene, chapter or speech the question is anchored to", "the author's biography", "the genre"],
-        1,
-        "Every stem is anchored somewhere. “In the play” is too broad to be evidence; “in the scene after the brawl” is usable.",
-    ),
-    (
-        "A question beginning “What is the function of …” asks for",
-        ["a summary", "a relationship between the part and the whole", "the character's motives", "the act number"],
-        1,
-        "Function is relational. A summary can be accurate and still say nothing about what the part does.",
-    ),
-    (
-        "A question asking for “the effect of the repetition” wants",
-        ["the number of repetitions", "what the audience now understands, and the words that produce it", "the device's definition", "the line numbers"],
-        1,
-        "Effect names a consequence for the audience, tied to the specific words rather than to the label.",
-    ),
-    (
-        "A stem beginning “How far does the play persuade us …” requires",
-        ["a yes or no", "a claim, the strongest objection, and a verdict", "a summary of the plot", "a character description"],
-        1,
-        "“How far” asks for a proportion. A confident yes answers half the question and caps the mark.",
-    ),
-    (
-        "The four shapes of set-text question are fact, function, effect and",
-        ["opinion", "judgement", "definition", "translation"],
-        1,
-        "Judgement asks how well the text works and at what cost — the evaluative shape.",
-    ),
-    (
-        "A four-part set-text answer contains",
-        ["unit, name, evidence, effect", "name, definition, example, summary", "plot, character, theme, setting", "author, date, genre, title"],
-        0,
-        "The unit locates the answer, the name or act identifies the move, the evidence proves it, the effect earns the mark.",
-    ),
-    (
-        "The most economical length for a quotation in an exam answer is",
-        ["one word", "six to ten words", "twenty words", "a whole speech"],
-        1,
-        "Six to ten words are unmistakable, embeddable, and short enough to be accurate under pressure.",
-    ),
-    (
-        "A quotation should be",
-        ["displayed on its own line", "embedded in the candidate's own sentence", "as long as possible", "repeated for emphasis"],
-        1,
-        "Embedding makes the quotation part of an argument; a display block invites a comment that never comes.",
-    ),
-    (
-        "A sentence in an answer should never end on",
-        ["a name", "a quotation", "a date", "a semicolon"],
-        1,
-        "A quotation at the end of a sentence is an ornament: the effect it produces is the point and must follow it.",
-    ),
-    (
-        "If you are not certain of a line's exact words, the correct policy is",
-        ["quote it approximately and hope", "describe the line instead of quoting it", "invent a plausible line", "quote it twice"],
-        1,
-        "A misquote is evidence of not checking, and it costs more than the quotation earns.",
-    ),
-    (
-        "“Iago is jealous of Othello” is a weak answer because it",
-        ["is untrue", "is true of the whole play and of no scene in particular", "misnames the play", "uses a character's name"],
-        1,
-        "A claim that fits everywhere in the text cannot be anchored to a unit, so it evidences nothing.",
-    ),
-    (
-        "“Shakespeare uses dramatic irony here” is weak because it",
-        ["names the wrong device", "does not say who knows what and who does not", "is too short", "quotes inaccurately"],
-        1,
-        "Dramatic irony is a gap in knowledge; naming it without describing the gap is a label rather than an answer.",
-    ),
-    (
-        "“Iago is an evil man and deserves punishment” fails as a literary answer because it",
-        ["is morally wrong", "offers a moral verdict instead of a function", "is too long", "misquotes the play"],
-        1,
-        "Literary criticism asks what the play uses him to show, not whether he deserves punishment.",
-    ),
-    (
-        "The commonest error on the set-text block is",
-        ["misquoting", "retelling the plot", "moralising", "spelling character names wrongly"],
-        1,
-        "Retelling feels productive and earns nothing that a clause of function would not have earned faster.",
-    ),
-    (
-        "A “fact” question is best answered with",
-        ["a paragraph of context", "the name and the unit in as few words as possible", "a quotation and its effect", "an evaluation of the scene"],
-        1,
-        "Fact questions carry the same mark as judgement questions, so they should cost the least time.",
-    ),
-    (
-        "The cheapest marks on the text block are usually",
-        ["judgement questions", "fact questions", "comparative questions", "essay questions"],
-        1,
-        "Fact questions need recognition, not argument, and they should be banked before the expensive shapes.",
-    ),
-    (
-        "Spending four minutes on one judgement question is a mistake because",
-        ["judgement questions are unfair", "each question is worth one mark and the time is needed elsewhere", "the answer must be short", "the text is not prescribed"],
-        1,
-        "The paper pays one mark per question regardless of shape, so time should follow the marks, not the difficulty.",
-    ),
-    (
-        "A quotation that can only answer one question is",
-        ["essential", "a luxury, because a good one does several jobs", "the safest choice", "the only kind worth learning"],
-        1,
-        "Ten flexible quotations beat fifty single-use ones, because the exam asks about design rather than recall.",
-    ),
-    (
-        "The number of quotations a candidate needs for a play is roughly",
-        ["two", "ten", "fifty", "a hundred"],
-        1,
-        "One per major unit, each chosen for the several questions it can carry.",
-    ),
-    (
-        "A summary is poor preparation for the text block because it",
-        ["is inaccurate", "reports events in order rather than what each unit does", "is too long", "uses the wrong names"],
-        1,
-        "The bank records function; a summary records sequence, and the paper does not ask about sequence.",
-    ),
-    (
-        "The clause that usually earns the mark in a set-text answer is the one that names",
-        ["the author", "the consequence for the audience", "the act and scene", "the character's age"],
-        1,
-        "The effect clause is the only part that cannot be produced without interpretation.",
-    ),
-    (
-        "“In the play” is a weak anchor because",
-        ["it is ungrammatical", "it does not locate the evidence", "the play is not named", "it is too formal"],
-        1,
-        "An anchor narrows to a scene or chapter; a whole text is not a location.",
-    ),
-    (
-        "A judgement answer that gives only one side of the case",
-        ["is correct", "earns at most half the mark", "earns full marks", "is preferred by examiners"],
-        1,
-        "The second half of “how far” is the objection, and without it the verdict is unsupported.",
-    ),
-    (
-        "The best order for working a set-text block is",
-        ["hardest first", "fact questions first, judgement last", "in the order printed", "longest first"],
-        1,
-        "Bank the cheap marks, then spend the remaining time on the shapes that need thought.",
-    ),
-    (
-        "An answer that could be written about a different text has",
-        ["answered well", "failed to answer this one", "used the wrong device", "misquoted"],
-        1,
-        "Portability is the test of a hollow answer: evidence specific to one text is what the question rewards.",
-    ),
-    (
-        "“The subplot makes the main marriage look like a choice rather than a fate” is",
-        ["a summary", "a function claim", "a quotation", "a judgement about the author"],
-        1,
-        "It states what the part does for the whole, which is exactly what a function question asks.",
-    ),
-    (
-        "The relationship between the set-text block and the unseen block is that",
-        ["they test different skills and should be revised together", "the unseen block is easier", "the set texts replace the unseen block", "only one appears in a paper"],
-        1,
-        "Both are answered with the same method; the set texts add selection to it, so practice in one supports the other.",
-    ),
-    (
-        "A candidate who has read all five texts but cannot say what a scene does will probably score",
-        ["in the seventies", "in the forties", "in the nineties", "full marks"],
-        1,
-        "Reading without preparation leaves nothing to select from, and the text block rewards selection.",
-    ),
-    (
-        "The single most useful sentence to memorise for the text block is",
-        ["“This shows that the theme is important.”", "“In this scene, … does …, which makes the audience …”", "“The author uses many techniques.”", "“This is a very good play.”"],
-        1,
-        "The frame forces a unit, an act and an effect into one sentence, which is the shape of the answer.",
-    ),
+    q("The first of the six moves is to ask",
+      "which character is speaking", "which text, genre and writer the stem belongs to",
+      "which theme the passage illustrates", "which option is longest", 1,
+      "Place comes first because an option that belongs to another text can be eliminated before any interpretation begins."),
+
+    q("A set-text question almost always contains",
+      "a quotation and a definition", "a location and a judgment",
+      "two quotations and a name", "a date and a summary", 1,
+      "The location is the scene; the judgment is what the scene does. Distractors usually get one right and the other wrong."),
+
+    q("Which move eliminates an option that describes the right event at the wrong point in the text?",
+      "Place", "Locate", "Effect", "Check", 1,
+      "Locate fixes the act, scene, book or chapter, so a true statement about the wrong moment is removed."),
+
+    q("The sixth move, check, exists to catch",
+      "a misspelt character name", "a true statement that answers a different question",
+      "an option longer than the others", "a quotation from another text", 1,
+      "A true sentence is not automatically an answer; the last move re-reads the stem rather than the option."),
+
+    q("Set-text distractors are dangerous because they are",
+      "obviously false", "built from real features of the text",
+      "always about minor characters", "usually longer than the key", 1,
+      "Because the wrong options are made of real material, recognition feels like knowledge."),
+
+    q("A fact question about a set text should cost roughly",
+      "ten seconds", "forty seconds", "two minutes", "five minutes", 0,
+      "Fact questions are the cheapest marks on the paper and are won by secure names and settings."),
+
+    q("A scene question asks you to supply",
+      "the theme of the whole text", "the position of the line and who is present",
+      "the writer's biography", "the date of publication", 1,
+      "Scene questions are the majority of set-text questions, and the plot table is the instrument that answers them."),
+
+    q("A question on technique asks for the device and",
+      "its Latin name", "what it does in the plot or for the audience",
+      "the number of times it appears", "the writer's other works", 1,
+      "Naming a device earns nothing on its own; the mark is for its work in the text."),
+
+    q("An option that offers only an adjective, such as she is kind, is usually wrong because",
+      "adjectives are never used in the paper", "it gives a judgment without the scene that proves it",
+      "it is too short to be an answer", "it describes the writer rather than the character", 1,
+      "Character and theme questions want a scene and its evidence, not a label."),
+
+    q("When a who-says-this stem could fit two characters, the stem will contain",
+      "a quotation from the title", "a detail that only one of them could know",
+      "a reference to the writer", "the name of the act", 1,
+      "The discriminating detail is the whole design of the question; find it before you choose."),
+
+    q("A biography option is a distractor unless the stem",
+      "quotes a line", "names the writer",
+      "asks about a character", "uses the word theme", 1,
+      "The paper tests the text. The writer's life enters only when the stem asks for it by name."),
+
+    q("The three lines of a scene card are who wanted what, what it cost, and",
+      "who else was present", "the line you would quote",
+      "the chapter number", "the theme it proves", 1,
+      "A quotation of six to ten words, exact, plus the reason you chose it, turns reading into recall."),
+
+    q("A play can be reduced to about twenty-five scene cards and a novel to about",
+      "ten", "thirty", "sixty", "a hundred", 1,
+      "Thirty cards for a novel gives a revision pack of roughly ninety lines that holds plot, character and quotation at once."),
+
+    q("Copying another candidate's scene cards is useless because",
+      "their handwriting is different", "writing the card is itself the revision",
+      "the cards are always wrong", "the paper does not test quotations", 1,
+      "The instrument works through the act of compression, not through the finished card."),
+
+    q("In an answer, a quotation should function as",
+      "decoration", "evidence",
+      "a substitute for the scene", "a way of lengthening the option", 1,
+      "A quotation is used because it proves the point, and the best options name what the words do."),
+
+    q("When a stem quotes half a line, the first task is to",
+      "identify the play", "complete the context",
+      "count the feet", "name the device", 1,
+      "The half-line is a location prompt: the question is testing whether you know what surrounds it."),
+
+    q("The commonest order of failure in the exam hall is",
+      "reading the options before locating the scene", "reading the stem twice",
+      "checking the clock", "skipping a hard question", 0,
+      "Once the options are read, the plausible ones colonise the memory; locate first, then read."),
+
+    q("Answering from a film adaptation is unsafe because adaptations change",
+      "the writer's name", "scene order and who is present",
+      "the number of acts only", "the price of the book", 1,
+      "Set-text questions are built on the words and the arrangement of the printed text."),
+
+    q("Of the five prescribed texts in this volume, the two that are drama are",
+      "Othello and Faceless", "Harvest of Corruption and Othello",
+      "Lonely Days and Native Son", "Faceless and Lonely Days", 1,
+      "Ogbeche's play and Shakespeare's tragedy are the drama; the other three are novels."),
+
+    q("The three prose texts in this volume are",
+      "Faceless, Lonely Days and Native Son", "Harvest of Corruption, Faceless and Othello",
+      "Othello, Lonely Days and Native Son", "Faceless, Othello and Harvest of Corruption", 0,
+      "Three novels: Darko's, Adebowale's and Wright's."),
+
+    q("Harvest of Corruption was written by",
+      "Amma Darko", "Bayo Adebowale", "Richard Wright", "Uche Ogbeche", 3,
+      "Ogbeche's play is the Nigerian drama on the list."),
+
+    q("Faceless is set in",
+      "Lagos", "Accra", "Kufi", "Chicago", 1,
+      "Darko's novel is set in Accra, in the market and the slum around it."),
+
+    q("Lonely Days is set in",
+      "a Yoruba village in the south-west of Nigeria", "a Ghanaian fishing town",
+      "the capital city of Jacassa", "Venice and Cyprus", 0,
+      "Kufi is the village, and its smallness carries the novel's social argument."),
+
+    q("Native Son is set in",
+      "New York", "Chicago", "Detroit", "Accra", 1,
+      "The South Side of Chicago in the late 1930s, with the Dalton mansion a bus ride away."),
+
+    q("Harvest of Corruption is set in",
+      "Kufi", "Jacassa", "Cyprus", "Accra", 1,
+      "Jacassa is the country and Jabu its capital, where the ministries are."),
+
+    q("Othello moves between",
+      "Venice and Cyprus", "Venice and Rome", "Cyprus and Athens", "Verona and Milan", 0,
+      "The first act is Venice; the rest of the play is Cyprus."),
+
+    q("The writer of Native Son is",
+      "Richard Wright", "Amma Darko", "Bayo Adebowale", "Uche Ogbeche", 0,
+      "Wright's novel of 1940 is the American text on the list."),
+
+    q("The writer of Lonely Days is",
+      "Amma Darko", "Bayo Adebowale", "Uche Ogbeche", "William Shakespeare", 1,
+      "Adebowale's novel is the Yoruba novel on the list."),
+
+    q("Which question shape is answered by naming a setting or a relationship?",
+      "Fact", "Scene", "Character", "Theme", 0,
+      "Fact questions are pure recall: setting, marriage, occupation, order of events."),
+
+    q("Which question shape is answered by a scene rather than by an adjective?",
+      "Fact", "Character", "Setting", "Publication", 1,
+      "Character stems ask about attitude, and an attitude has to be shown happening."),
+
+    q("The plot table exists so that a quotation can be located in",
+      "five seconds", "five minutes", "one act", "the index", 0,
+      "Location before interpretation is the whole skill of a set-text paper."),
+
+    q("Choosing the thematic option when the stem asked for the scene is a failure of",
+      "place", "check", "locate", "name", 1,
+      "The statement may be true and still answer a different question, which is what check is for."),
+
+    q("The paper allows forty seconds per set-text question because",
+      "the questions are short", "location is the skill, and it is fast once the text is known",
+      "there are only twelve questions", "the answers are all one word", 1,
+      "Knowledge of position is what buys speed; the reading is done in advance."),
+
+    q("Which of these stems is a scene question?",
+      "The play is set in Jacassa.", "What has just happened when the handkerchief is called a handkerchief?",
+      "Othello was written by Shakespeare.", "The novel has three books.", 1,
+      "It asks for the position of a moment, which is what a scene question always does."),
+
+    q("Two options that seem to mean the same thing are usually separated by",
+      "length", "the presence of scene-level detail",
+      "the letter they start with", "the writer named in each", 1,
+      "The key names the specific moment; the near-miss states the general truth."),
+
+    q("The correct order of the first three moves is",
+      "locate, place, name", "place, locate, name",
+      "name, place, locate", "effect, place, locate", 1,
+      "Text first, then moment, then the person or term the stem means."),
+
+    q("If a fact question is genuinely unknown, the best fallback is",
+      "leaving it blank", "eliminating by text and genre, then answering",
+      "choosing the longest option", "choosing the thematic option", 1,
+      "There is no negative marking, so a reasoned elimination is always worth a mark."),
+
+    q("A quotation bank is most useful when it is organised by",
+      "alphabetical order of first words", "text, then scene or chapter, then speaker and function",
+      "the length of the quotation", "the number of times it is repeated", 1,
+      "Quotations are retrieved by location, so they have to be filed by location."),
+
+    q("The central habit this chapter asks you to break is",
+      "reading the whole text", "answering from a summary rather than the text",
+      "writing scene cards", "timing yourself", 1,
+      "Summaries flatten scenes, and scene questions are where the marks are."),
+    q("In the UTME, the Literature paper is",
+      "entirely essay", "entirely objective",
+      "part essay and part practical", "an oral examination", 1,
+      "Forty questions, four options, forty minutes, and no negative marking for a wrong answer."),
 ]

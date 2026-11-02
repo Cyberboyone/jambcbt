@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 300" width="760" height="300">
+  <defs>
+    <marker id="ag" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#008751"/>
+    </marker>
+    <marker id="an" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#0E1F40"/>
+    </marker>
+    <marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#D97706"/>
+    </marker>
+    <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#DC2626"/>
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="760" height="300" fill="#FFFFFF"/>
+<text x="380" y="24" font-family="DejaVu Sans" font-size="12.5" fill="#0E1F40" text-anchor="middle" font-weight="bold">The six moves that answer a question on a set text</text>
+<rect x="6.5" y="62" width="112" height="108" rx="8" fill="#FFFFFF" stroke="#2563EB" stroke-width="1.5"/>
+<rect x="6.5" y="62" width="112" height="5" rx="2.5" fill="#2563EB"/>
+<text x="62.5" y="88" font-family="DejaVu Sans" font-size="16" fill="#2563EB" text-anchor="middle" font-weight="bold">1</text>
+<text x="62.5" y="108" font-family="DejaVu Sans" font-size="9.6" fill="#0E1F40" text-anchor="middle" font-weight="bold">PLACE</text>
+<text x="62.5" y="128" font-family="DejaVu Sans" font-size="7.9" fill="#334155" text-anchor="middle" font-weight="normal">which text,</text>
+<text x="62.5" y="140" font-family="DejaVu Sans" font-size="7.9" fill="#334155" text-anchor="middle" font-weight="normal">which act or book</text>
+<line x1="119.5" y1="116" x2="131.5" y2="116" stroke="#CBD5E1" stroke-width="1.4" marker-end="url(#ag)"/>
+<rect x="133.5" y="62" width="112" height="108" rx="8" fill="#FFFFFF" stroke="#2563EB" stroke-width="1.5"/>
+<rect x="133.5" y="62" width="112" height="5" rx="2.5" fill="#2563EB"/>
+<text x="189.5" y="88" font-family="DejaVu Sans" font-size="16" fill="#2563EB" text-anchor="middle" font-weight="bold">2</text>
+<text x="189.5" y="108" font-family="DejaVu Sans" font-size="9.6" fill="#0E1F40" text-anchor="middle" font-weight="bold">LOCATE</text>
+<text x="189.5" y="128" font-family="DejaVu Sans" font-size="7.9" fill="#334155" text-anchor="middle" font-weight="normal">the scene the</text>
+<text x="189.5" y="140" font-family="DejaVu Sans" font-size="7.9" fill="#334155" text-anchor="middle" font-weight="normal">stem points at</text>
+<line x1="246.5" y1="116" x2="258.5" y2="116" stroke="#CBD5E1" stroke-width="1.4" marker-end="url(#ag)"/>
+<rect x="260.5" y="62" width="112" height="108" rx="8" fill="#FFFFFF" stroke="#7C3AED" stroke-width="1.5"/>
+<rect x="260.5" y="62" width="112" height="5" rx="2.5" fill="#7C3AED"/>
+<text x="316.5" y="88" font-family="DejaVu Sans" font-size="16" fill="#7C3AED" text-anchor="middle" font-weight="bold">3</text>
+<text x="316.5" y="108" font-family="DejaVu Sans" font-size="9.6" fill="#0E1F40" text-anchor="middle" font-weight="bold">NAME</text>
+<text x="316.5" y="128" font-family="DejaVu Sans" font-size="7.9" fill="#334155" text-anchor="middle" font-weight="normal">the character,</text>
+<text x="316.5" y="140" font-family="DejaVu Sans" font-size="7.9" fill="#334155" text-anchor="middle" font-weight="normal">the device, the term</text>
+<line x1="373.5" y1="116" x2="385.5" y2="116" stroke="#CBD5E1" stroke-width="1.4" marker-end="url(#ag)"/>
+<rect x="387.5" y="62" width="112" height="108" rx="8" fill="#FFFFFF" stroke="#008751" stroke-width="1.5"/>
+<rect x="387.5" y="62" width="112" height="5" rx="2.5" fill="#008751"/>
+<text x="443.5" y="88" font-family="DejaVu Sans" font-size="16" fill="#008751" text-anchor="middle" font-weight="bold">4</text>
+<text x="443.5" y="108" font-family="DejaVu Sans" font-size="9.6" fill="#0E1F40" text-anchor="middle" font-weight="bold">EVIDENCE</text>
+<text x="443.5" y="128" font-family="DejaVu Sans" font-size="7.9" fill="#334155" text-anchor="middle" font-weight="normal">the words you</text>
+<text x="443.5" y="140" font-family="DejaVu Sans" font-size="7.9" fill="#334155" text-anchor="middle" font-weight="normal">can quote</text>
+<line x1="500.5" y1="116" x2="512.5" y2="116" stroke="#CBD5E1" stroke-width="1.4" marker-end="url(#ag)"/>
+<rect x="514.5" y="62" width="112" height="108" rx="8" fill="#FFFFFF" stroke="#D97706" stroke-width="1.5"/>
+<rect x="514.5" y="62" width="112" height="5" rx="2.5" fill="#D97706"/>
+<text x="570.5" y="88" font-family="DejaVu Sans" font-size="16" fill="#D97706" text-anchor="middle" font-weight="bold">5</text>
+<text x="570.5" y="108" font-family="DejaVu Sans" font-size="9.6" fill="#0E1F40" text-anchor="middle" font-weight="bold">EFFECT</text>
+<text x="570.5" y="128" font-family="DejaVu Sans" font-size="7.9" fill="#334155" text-anchor="middle" font-weight="normal">what it does to</text>
+<text x="570.5" y="140" font-family="DejaVu Sans" font-size="7.9" fill="#334155" text-anchor="middle" font-weight="normal">the reader</text>
+<line x1="627.5" y1="116" x2="639.5" y2="116" stroke="#CBD5E1" stroke-width="1.4" marker-end="url(#ag)"/>
+<rect x="641.5" y="62" width="112" height="108" rx="8" fill="#FFFFFF" stroke="#DC2626" stroke-width="1.5"/>
+<rect x="641.5" y="62" width="112" height="5" rx="2.5" fill="#DC2626"/>
+<text x="697.5" y="88" font-family="DejaVu Sans" font-size="16" fill="#DC2626" text-anchor="middle" font-weight="bold">6</text>
+<text x="697.5" y="108" font-family="DejaVu Sans" font-size="9.6" fill="#0E1F40" text-anchor="middle" font-weight="bold">CHECK</text>
+<text x="697.5" y="128" font-family="DejaVu Sans" font-size="7.9" fill="#334155" text-anchor="middle" font-weight="normal">does the option</text>
+<text x="697.5" y="140" font-family="DejaVu Sans" font-size="7.9" fill="#334155" text-anchor="middle" font-weight="normal">answer the stem?</text>
+<rect x="40" y="196" width="680" height="78" rx="8" fill="#ECFDF5" stroke="#008751" stroke-width="1.2"/>
+<text x="380" y="218" font-family="DejaVu Sans" font-size="10.6" fill="#008751" text-anchor="middle" font-weight="bold">The rule that decides most questions</text>
+<text x="380" y="240" font-family="DejaVu Sans" font-size="9.0" fill="#334155" text-anchor="middle" font-weight="normal">An option that names a device but not its effect is a distractor; an option that describes the text</text>
+<text x="380" y="257" font-family="DejaVu Sans" font-size="9.0" fill="#334155" text-anchor="middle" font-weight="normal">without arguing about it is a distractor. The answer is the one that says what the writing DOES.</text>
+</svg>

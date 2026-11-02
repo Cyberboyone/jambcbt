@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 470 225" width="470" height="225">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 470 250" width="470" height="250">
   <defs>
     <marker id="ag" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
       <path d="M 0 1 L 10 5 L 0 9 z" fill="#008751"/>
@@ -13,20 +13,22 @@
       <path d="M 0 1 L 10 5 L 0 9 z" fill="#DC2626"/>
     </marker>
   </defs>
-  <rect x="0" y="0" width="470" height="225" fill="#FFFFFF"/>
+  <rect x="0" y="0" width="470" height="250" fill="#FFFFFF"/>
 <text x="235.0" y="21" font-family="DejaVu Sans" font-size="11.8" fill="#0E1F40" text-anchor="middle" font-weight="bold">Chapter 6 recap — Native Son</text>
-<rect x="12" y="33" width="446" height="35.6" rx="6" fill="#FFFFFF" stroke="#008751" stroke-width="1.1"/>
-<text x="24" y="48" font-family="DejaVu Sans" font-size="10.6" fill="#008751" text-anchor="start" font-weight="bold">THREE BOOKS</text>
-<text x="24" y="60.6" font-family="DejaVu Sans" font-size="9.6" fill="#334155" text-anchor="start" font-weight="normal">Fear, Flight, Fate: the titles name the sequence that produces the crime.</text>
-<rect x="12" y="73.6" width="446" height="35.6" rx="6" fill="#FFFFFF" stroke="#008751" stroke-width="1.1"/>
-<text x="24" y="88.6" font-family="DejaVu Sans" font-size="10.6" fill="#008751" text-anchor="start" font-weight="bold">FOUR ROOMS</text>
-<text x="24" y="101.19999999999999" font-family="DejaVu Sans" font-size="9.6" fill="#334155" text-anchor="start" font-weight="normal">The rat room, the Dalton house, the furnace, the cell. Space permits and forbids.</text>
-<rect x="12" y="114.19999999999999" width="446" height="48.2" rx="6" fill="#FFFFFF" stroke="#008751" stroke-width="1.1"/>
-<text x="24" y="129.2" font-family="DejaVu Sans" font-size="10.6" fill="#008751" text-anchor="start" font-weight="bold">BLINDNESS</text>
-<text x="24" y="141.79999999999998" font-family="DejaVu Sans" font-size="9.6" fill="#334155" text-anchor="start" font-weight="normal">Mrs Dalton's eyes, the snow, the newspapers: nobody sees Bigger, so he acts to be</text>
-<text x="24" y="154.39999999999998" font-family="DejaVu Sans" font-size="9.6" fill="#334155" text-anchor="start" font-weight="normal">seen.</text>
-<rect x="12" y="167.39999999999998" width="446" height="48.2" rx="6" fill="#FFFFFF" stroke="#008751" stroke-width="1.1"/>
-<text x="24" y="182.39999999999998" font-family="DejaVu Sans" font-size="10.6" fill="#008751" text-anchor="start" font-weight="bold">THE ARGUMENT</text>
-<text x="24" y="194.99999999999997" font-family="DejaVu Sans" font-size="9.6" fill="#334155" text-anchor="start" font-weight="normal">Max explains the system; Bigger asks whether that is an excuse. The novel ends on</text>
-<text x="24" y="207.59999999999997" font-family="DejaVu Sans" font-size="9.6" fill="#334155" text-anchor="start" font-weight="normal">the question.</text>
+<rect x="12" y="33" width="446" height="48.2" rx="6" fill="#FFFFFF" stroke="#008751" stroke-width="1.1"/>
+<text x="24" y="48" font-family="DejaVu Sans" font-size="10.6" fill="#008751" text-anchor="start" font-weight="bold">FEAR</text>
+<text x="24" y="60.6" font-family="DejaVu Sans" font-size="9.6" fill="#334155" text-anchor="start" font-weight="normal">Bigger kills Mary Dalton by accident and discovers that the killing feels like the first</text>
+<text x="24" y="73.2" font-family="DejaVu Sans" font-size="9.6" fill="#334155" text-anchor="start" font-weight="normal">thing he has ever done.</text>
+<rect x="12" y="86.2" width="446" height="48.2" rx="6" fill="#FFFFFF" stroke="#008751" stroke-width="1.1"/>
+<text x="24" y="101.2" font-family="DejaVu Sans" font-size="10.6" fill="#008751" text-anchor="start" font-weight="bold">FLIGHT</text>
+<text x="24" y="113.8" font-family="DejaVu Sans" font-size="9.6" fill="#334155" text-anchor="start" font-weight="normal">He draws Bessie into the plan, kills her too, and is hunted across the rooftops of the</text>
+<text x="24" y="126.4" font-family="DejaVu Sans" font-size="9.6" fill="#334155" text-anchor="start" font-weight="normal">South Side.</text>
+<rect x="12" y="139.4" width="446" height="48.2" rx="6" fill="#FFFFFF" stroke="#008751" stroke-width="1.1"/>
+<text x="24" y="154.4" font-family="DejaVu Sans" font-size="10.6" fill="#008751" text-anchor="start" font-weight="bold">FATE</text>
+<text x="24" y="167.0" font-family="DejaVu Sans" font-size="9.6" fill="#334155" text-anchor="start" font-weight="normal">Buckley prosecutes, Max explains, and the court converts a man's life into a lesson</text>
+<text x="24" y="179.6" font-family="DejaVu Sans" font-size="9.6" fill="#334155" text-anchor="start" font-weight="normal">about environment.</text>
+<rect x="12" y="192.60000000000002" width="446" height="48.2" rx="6" fill="#FFFFFF" stroke="#008751" stroke-width="1.1"/>
+<text x="24" y="207.60000000000002" font-family="DejaVu Sans" font-size="10.6" fill="#008751" text-anchor="start" font-weight="bold">THE LIMIT</text>
+<text x="24" y="220.20000000000002" font-family="DejaVu Sans" font-size="9.6" fill="#334155" text-anchor="start" font-weight="normal">Even Max's sympathy cannot see Bigger as a person; the novel ends with a man alone</text>
+<text x="24" y="232.8" font-family="DejaVu Sans" font-size="9.6" fill="#334155" text-anchor="start" font-weight="normal">in a cell.</text>
 </svg>

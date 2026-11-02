@@ -1,184 +1,199 @@
-"""Drill bank — Literature in English Volume 2, chapter 6 (30 items)."""
+"""Drill bank — Literature in English Volume 2, chapter 6 (40 items)."""
+
+
+def q(stem, a, b, c, d, k, sol):
+    return (stem, [a, b, c, d], k, sol)
+
 
 DRILL_6 = [
-    (
-        "The three books of *Native Son* are",
-        ["Fear, Flight, Fate", "Childhood, Youth, Age", "Winter, Spring, Summer", "Crime, Trial, Appeal"],
-        0,
-        "The titles are also the three conditions the novel moves through, and each is tied to a space.",
-    ),
-    (
-        "The novel opens with",
-        ["a courtroom scene", "the killing of a rat in a one-room kitchenette", "a car journey", "a newspaper headline"],
-        1,
-        "The rat scene establishes the family's space and the violence that survival requires inside it.",
-    ),
-    (
-        "Bigger's job with the Daltons is arranged by",
-        ["his mother's church", "the relief agency", "his friend Gus", "Mary Dalton"],
-        1,
-        "The agency that is supposed to help him is the route by which he arrives at the house that destroys him.",
-    ),
-    (
-        "The Daltons are significant because they",
-        ["employ Bigger and collect his mother's rent", "are members of the Communist Party", "own a newspaper", "knew Bigger's father"],
-        0,
-        "Charity and profit come from the same household, which is the novel's cleanest structural argument.",
-    ),
-    (
-        "Mrs Dalton is",
-        ["blind", "deaf", "bedridden", "a teacher"],
-        0,
-        "Her literal blindness is the novel's most direct figure for the household's inability to see what it employs.",
-    ),
-    (
-        "Mary Dalton is killed",
-        ["in the furnace", "in her bedroom, smothered", "in the car", "on the rooftop"],
-        1,
-        "The killing happens in her bedroom while Bigger is trying to keep her quiet, and it is accident and panic rather than plan.",
-    ),
-    (
-        "Bigger dismembers Mary's body in order to",
-        ["hide it in the garden", "fit it into the furnace", "take it to Bessie", "sell the jewellery"],
-        1,
-        "The house's heating system becomes the house's method of consumption, which is why the furnace is read as a symbol.",
-    ),
-    (
-        "The ransom note is signed",
-        ["Red", "Bigger", "Mary", "Jan"],
-        0,
-        "The invented signature manufactures a kidnapping out of a killing, and the public believes the story it prefers.",
-    ),
-    (
-        "Bessie Mears is killed because",
-        ["she betrays Bigger", "she becomes a liability who might talk", "she attacks him", "she is mistaken for Mary"],
-        1,
-        "The killing is deliberate where Mary's was not, which is why the novel's moral accounting is not simple.",
-    ),
-    (
-        "Bessie's body is disposed of",
-        ["in the furnace", "down an airshaft", "in the river", "in the snow"],
-        1,
-        "The airshaft puts her in the building's infrastructure, as Mary was put in its furnace.",
-    ),
-    (
-        "The novel's narration is best described as",
-        ["first person", "third person limited, leaning into Bigger's consciousness", "omniscient and neutral", "epistolary"],
-        1,
-        "The third person enters Bigger's idiom and then withdraws, which produces sympathy and judgement at once.",
-    ),
-    (
-        "Free indirect discourse in the novel gives the reader",
-        ["Bigger's view only", "an external view only", "Bigger's experience and an external standpoint together", "the newspapers' view"],
-        2,
-        "The double perspective is the technique's point, and it is what allows the novel to judge without a moralising narrator.",
-    ),
-    (
-        "At the moments of greatest violence, the prose",
-        ["becomes more lyrical", "withdraws and records", "switches to first person", "turns comic"],
-        1,
-        "The withdrawal refuses both glamour and excuse, and it is the novel's moral instrument.",
-    ),
-    (
-        "The newspapers in the novel function to",
-        ["report the truth", "manufacture a story Bigger then has to live inside", "defend Bigger", "ignore the case"],
-        1,
-        "The press writes the criminal before the court does, which is the novel's argument about public narrative.",
-    ),
-    (
-        "Bigger's friends in Book One are planning",
-        ["a robbery of a delicatessen", "a trip to Detroit", "a union meeting", "a church service"],
-        0,
-        "The planned robbery of Blum's shop establishes the economy Bigger has access to and his fear of acting alone.",
-    ),
-    (
-        "The lawyer who defends Bigger is",
-        ["Buckley", "Max", "Dalton", "Jan"],
-        1,
-        "Boris Max defends him; Buckley is the state's attorney who interrogates and prosecutes.",
-    ),
-    (
-        "Max's defence argues that",
-        ["Bigger is innocent", "Bigger's crime was produced by conditions the court refuses to see", "the evidence is unreliable", "Mary seduced Bigger"],
-        1,
-        "The defence is sociological and accurate, and the novel shows that accuracy is not the same as being heard.",
-    ),
-    (
-        "The court's response to Max's argument is",
-        ["to reduce the charge", "to accept the explanation and acquit", "to treat the explanation as irrelevant to guilt", "to call Jan as a witness"],
-        2,
-        "The law can convict the man and cannot hear the argument, which is the novel's claim about justice.",
-    ),
-    (
-        "Bigger's final recognition is that",
-        ["he will be acquitted", "he did not know he was alive until he felt things hard enough to kill for", "Jan is to blame", "his mother was right"],
-        1,
-        "The line is the novel's last and most dangerous statement: recognition arrives through violence, and it is still recognition.",
-    ),
-    (
-        "The ending's recognition is",
-        ["legal hope", "personal recognition without legal hope", "an acquittal", "a reprieve"],
-        1,
-        "The novel separates recognition from hope on purpose, and “how far” questions are built on the separation.",
-    ),
-    (
-        "Snow in the novel is often read as",
-        ["warmth", "a blankness that covers the city's distinctions", "a religious symbol", "a sign of spring"],
-        1,
-        "The snow makes the streets uniform while the city remains divided, which is the novel's irony of weather.",
-    ),
-    (
-        "Bigger's mother's religion offers him",
-        ["a political programme", "a story in which suffering is rewarded later", "an escape route", "a job"],
-        1,
-        "The church's consolation is real and is not available to Bigger, which is the source of the novel's tension with it.",
-    ),
-    (
-        "The rat in the opening is best read as",
-        ["comic relief", "a description of Bigger's condition inside the kitchenette", "a symbol of the Daltons", "a plot device"],
-        1,
-        "The rat is trapped in the same space and killed for being in it, which is the novel's argument in miniature.",
-    ),
-    (
-        "Bigger's fear is best described as",
-        ["a personality trait", "a structure he lives inside", "a temporary emotion", "a medical condition"],
-        1,
-        "The novel treats fear as the atmosphere of a life rather than a feeling that passes.",
-    ),
-    (
-        "The title *Native Son* is ironic because",
-        ["Bigger is foreign", "the native son of the city is treated as an intruder in it", "the novel is set abroad", "there is no son"],
-        1,
-        "The phrase that should name belonging is used to name exclusion, which is the novel's central irony.",
-    ),
-    (
-        "Which is the strongest claim about race in the novel?",
-        ["Race is a theme the novel mentions.", "Race works as visibility without recognition.", "Race is treated as a private prejudice.", "Race is only in the newspapers."],
-        1,
-        "The claim names a mechanism — seen constantly, recognised never — and it explains the trial as well as the street.",
-    ),
-    (
-        "The Daltons' kindness is presented as",
-        ["a solution to Bigger's problems", "part of the same system that profits from his family", "irrelevant to the plot", "a mask worn by Mary only"],
-        1,
-        "Kindness and rent come from the same house, and the novel refuses to let either cancel the other.",
-    ),
-    (
-        "A judgement question on Bigger is best answered by",
-        ["calling him a hero", "calling him a monster", "holding sympathy and condemnation together and saying why", "summarising his crimes"],
-        2,
-        "The novel makes both labels unusable, and the relation between them is the argument.",
-    ),
-    (
-        "The most examinable part of the novel is often",
-        ["Book One's rat scene", "Book Three's trial and cell", "the car journey", "the descriptions of food"],
-        1,
-        "The third book contains the argument, and candidates who stop at the killing miss the novel's case.",
-    ),
-    (
-        "The novel's structure of three spaces suggests that",
-        ["Bigger moves towards freedom", "no available space was built to hold him", "the city is generous", "the family is improving"],
-        1,
-        "Kitchenette, street and cell are three scales of the same exclusion, which is the structural claim.",
-    ),
+    q("Native Son is set in",
+      "New York in the 1920s", "Chicago in the late 1930s",
+      "Detroit in the 1950s", "the rural South", 1,
+      "The South Side of Chicago, with the Dalton mansion a bus ride into a white neighbourhood."),
+
+    q("The three books of the novel are",
+      "Fear, Flight, Fate", "Fear, Hunger, Fate",
+      "Flight, Trial, Death", "Crime, Punishment, Fate", 0,
+      "The titles are the plot: the condition, the action, and the trial that converts both into a sentence."),
+
+    q("Bigger Thomas is",
+      "a student", "twenty years old and unemployed at the start",
+      "a soldier", "a chauffeur from the opening page", 1,
+      "He lives in a one-room flat with his mother, brother and sister, and the novel begins with the rat."),
+
+    q("The novel opens with Bigger",
+      "killing a rat in the family's one-room flat", "driving the Daltons' car",
+      "in a courtroom", "at the relief office", 0,
+      "The rat establishes a world in which killing is ordinary before any human being is harmed."),
+
+    q("Bigger's job with the Daltons comes through",
+      "his uncle", "the relief agency", "Jan Erlone", "Britten", 1,
+      "The relief office is the state's provision for his family, and it is also the route into the house."),
+
+    q("Mr Dalton's wealth comes from",
+      "shipping", "the tenements his family owns on the South Side",
+      "a chain of hotels", "a newspaper", 1,
+      "The philanthropy and the rent come from the same property, which is the novel's point about liberal charity."),
+
+    q("Mrs Dalton is significant because she is",
+      "a Communist", "blind", "a journalist", "Bigger's teacher", 1,
+      "The one person in the room who cannot see colour is the one whose approach forces the killing."),
+
+    q("Mary Dalton is",
+      "Bigger's sister", "the Daltons' daughter, a Communist sympathiser",
+      "the family's cook", "Jan's sister", 1,
+      "Her attempt to treat Bigger as an equal is part of what makes the night unmanageable."),
+
+    q("Jan Erlone is",
+      "a police officer", "Mary's boyfriend and a Communist organiser",
+      "the family lawyer", "a reporter", 1,
+      "He is first suspected of the murder, and later becomes one of the few whites who speaks to Bigger as a person."),
+
+    q("Bessie Mears is",
+      "Bigger's girlfriend", "Mary's friend", "a maid at the Daltons'", "Bigger's sister", 0,
+      "She is the second victim, and her death is the one Bigger chooses."),
+
+    q("Bigger kills Mary Dalton because",
+      "he plans to rob the house", "he is trying to keep her quiet while her mother stands at the door",
+      "she insults him", "Jan orders him to", 1,
+      "The intent is silence, the result is death, and the cause is the fear of being found in that room."),
+
+    q("After Mary's death, Bigger",
+      "calls the police", "beheads the body and burns it in the furnace",
+      "buries her in the garden", "carries her to the hospital", 1,
+      "The furnace is the novel's central image of disposal, and the smoke and the bones are what convict him."),
+
+    q("Bigger kills Bessie because",
+      "she attacks him", "she knows too much and might betray him",
+      "she has stolen his money", "Jan tells him to", 1,
+      "The second killing is deliberate, and the difference from the first is the novel's moral centre."),
+
+    q("Bessie is killed with",
+      "a knife", "a brick", "a pillow", "a hatchet", 1,
+      "She is struck with a brick and thrown down an airshaft, and the method marks the killing as planned."),
+
+    q("The private investigator hired by the Daltons is",
+      "Max", "Buckley", "Britten", "Jan", 2,
+      "Britten investigates, and his method is to sort the household by race before he sorts it by evidence."),
+
+    q("The State's Attorney who prosecutes Bigger is",
+      "Max", "Buckley", "Britten", "Dalton", 1,
+      "Buckley's speech is the counter-argument to Max's, and the trial is the debate between them."),
+
+    q("Bigger's defence lawyer is",
+      "a court-appointed prosecutor", "Max, a Jewish lawyer",
+      "Jan Erlone", "a family friend", 1,
+      "Max is the novel's attempt to explain Bigger rather than to excuse him."),
+
+    q("Before the trial, Bigger sends the Daltons",
+      "a confession", "a ransom note demanding money",
+      "a letter of apology", "a threat to Jan", 1,
+      "The note is an attempt to turn the death into a kidnapping, and it deepens the case against him."),
+
+    q("The newspapers in the novel treat Bigger as",
+      "a victim of circumstance", "a monster and a symbol",
+      "a minor offender", "a political prisoner", 1,
+      "The press builds a public figure out of him, and the novel sets the headlines beside his own thoughts."),
+
+    q("The newsreel scene matters because Bigger",
+      "falls asleep", "watches the official version of his own life in a cinema",
+      "meets Mary there", "is arrested there", 1,
+      "Wright puts the reader in the same seat as the audience, and then reminds us who is in the room."),
+
+    q("Bigger's family consists of",
+      "his mother, his brother Buddy and his sister Vera", "his mother and father",
+      "his wife and two children", "his aunt and uncle", 0,
+      "The four of them share one room, and the family's need is the pressure behind every choice he makes."),
+
+    q("Bigger's father died",
+      "in a race riot in the South", "in the war", "of an illness in Chicago", "in a car accident", 0,
+      "The family came north for a better life, and the novel shows what the move actually delivered."),
+
+    q("The plan to rob Blum's store fails because",
+      "the police arrive", "Bigger cannot bring himself to act with Gus",
+      "Blum has closed early", "Jan warns Blum", 1,
+      "The scene establishes that violence against white property is the line Bigger's world cannot cross."),
+
+    q("Bigger's group of friends includes",
+      "Gus, Jack, G.H. and Doc", "Max, Britten and Buckley", "Jan, Mary and Peggy", "Buddy, Vera and Gus", 0,
+      "The pool hall is the peer world, and its plans are all fantasy until the Dalton job makes one real."),
+
+    q("Which pairing is correct?",
+      "Max defends and Buckley prosecutes", "Buckley defends and Max prosecutes",
+      "Britten defends and Max investigates", "Jan defends and Britten prosecutes", 0,
+      "The two lawyers are the novel's two accounts of the same life."),
+
+    q("The novel's title suggests that Bigger is",
+      "a foreigner in his own country", "a son of the nation, formed by it and destroyed by it",
+      "an adopted child", "a soldier", 1,
+      "The title claims him as native, which is what makes the city's treatment of him a national indictment."),
+
+    q("The theme of invisibility in the novel is carried by",
+      "the love scenes", "the way institutions see a category instead of a man",
+      "the courtroom only", "the weather", 1,
+      "The relief office, the Daltons, the police and the press each have a slot for him."),
+
+    q("Max's courtroom speech argues that Bigger's crime should be understood as",
+      "the act of a born criminal", "the product of the conditions the court itself maintains",
+      "a political conspiracy", "a religious offence", 1,
+      "The speech is the novel's essay, and Buckley's reply is the country's answer."),
+
+    q("Bigger's final conversation with Max is significant because Bigger",
+      "asks for forgiveness", "claims the killing as the first thing he has ever owned",
+      "denies everything", "asks to see his mother", 1,
+      "The claim is a paradox, and the novel ends on it rather than on a resolution."),
+
+    q("The novel's attitude to white liberalism is",
+      "wholehearted approval", "critical of a charity that leaves the arrangement intact",
+      "indifferent", "hostile to all white characters equally", 1,
+      "Dalton's rent and Mary's slumming are two versions of the same distance."),
+
+    q("The killing of Mary is best described as",
+      "premeditated murder", "an accidental killing with no intent to kill",
+      "a political assassination", "a suicide", 1,
+      "Say it precisely: the intent was silence, the result was death, and the cause was the room he was in."),
+
+    q("The killing of Bessie is best described as",
+      "an accident", "a deliberate killing",
+      "a mercy killing", "a suicide", 1,
+      "The pair of deaths is the novel's structure: one is panic, the other is calculation."),
+
+    q("Bigger's mother's religion functions in the novel as",
+      "the source of the family's wealth", "a consolation that Bigger cannot accept",
+      "a political programme", "a comic device", 1,
+      "Her faith holds the family together and offers Bigger nothing he can use."),
+
+    q("Free indirect style in the novel means that",
+      "the narrator quotes Bigger's speech", "the narration slides into Bigger's mind without quotation marks",
+      "the novel is written in the first person", "the characters address the reader", 1,
+      "His fear becomes the reader's atmosphere rather than a piece of information."),
+
+    q("The documentary inserts in the novel are",
+      "poems", "newspaper headlines and official reports",
+      "letters from Max", "stage directions", 1,
+      "They set the official version of Bigger beside his own, and the gap is the novel's argument."),
+
+    q("The furnace in the novel symbolises",
+      "domestic warmth", "the city's power to consume a person without a trace",
+      "Mary's innocence", "the family's poverty", 1,
+      "The smoke and the bones are also the evidence, so the symbol and the plot are the same object."),
+
+    q("Bigger's capture takes place",
+      "in the Dalton house", "on the rooftops, after a chase across the city",
+      "in a courtroom", "at the relief office", 1,
+      "The rooftop chase is the climax of Book Two, and the snow is the novel's physical world closing in."),
+
+    q("Which statement about the trial is accurate?",
+      "Bigger is acquitted", "Bigger is convicted and sentenced to death",
+      "Bigger is found insane", "Bigger escapes before the verdict", 1,
+      "The trial is a ritual of explanation that ends in an execution, which is the novel's view of the court."),
+
+    q("Native Son is finally an argument about",
+      "the natural criminality of the poor", "race, poverty and the making of a crime",
+      "the value of philanthropy", "the failure of the family", 1,
+      "The novel insists that the crime and the conditions that produced it cannot be separated."),
+    q("The third book of Native Son is chiefly set in",
+      "the Dalton house", "a courtroom and a prison cell",
+      "a pool hall", "a church", 1,
+      "Fate is the trial, and the trial is where the novel argues about what Bigger is."),
 ]

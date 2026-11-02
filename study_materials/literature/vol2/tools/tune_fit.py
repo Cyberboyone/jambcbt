@@ -24,18 +24,18 @@ from pathlib import Path
 HERE = Path(__file__).resolve().parent
 OUT = HERE.parent
 
-PDF = OUT / "JAMB_Government_Volume1_The_State_and_Its_Organs.pdf"
+PDF = OUT / "JAMB_Literature_Volume2_The_Drama_and_the_Prose.pdf"
 
 # key -> (anchor heading whose drill/paper owns the run, heading that ends it)
 RUNS = {
-    "drill_ch01": ("Chapter 1 Practice Drill — 40 Questions", "Chapter 2: Constitutions and Constitutional Development"),
-    "drill_ch02": ("Chapter 2 Practice Drill — 40 Questions", "Chapter 3: The Organs of Government"),
-    "drill_ch03": ("Chapter 3 Practice Drill — 40 Questions", "Chapter 4: Political Parties, Pressure Groups and Elections"),
-    "drill_ch04": ("Chapter 4 Practice Drill — 40 Questions", "Chapter 5: Citizenship, Rights and Public Administration"),
-    "drill_ch05": ("Chapter 5 Practice Drill — 40 Questions", "Chapter 6: Nigeria in the International Community"),
-    "drill_ch06": ("Chapter 6 Practice Drill — 40 Questions", "Full Paper 1: The State, the Constitution and the Organs"),
-    "paper1": ("Full Paper 1: The State, the Constitution and the Organs", "Full Paper 2: Parties, Rights and the World"),
-    "paper2": ("Full Paper 2: Parties, Rights and the World", "Appendix A: 60 Rapid-Fire Recall Pairs"),
+    "drill_ch01": ("Chapter 1 Practice Drill — 40 Questions", "Chapter 2: Harvest of Corruption"),
+    "drill_ch02": ("Chapter 2 Practice Drill — 40 Questions", "Chapter 3: Othello"),
+    "drill_ch03": ("Chapter 3 Practice Drill — 40 Questions", "Chapter 4: Faceless"),
+    "drill_ch04": ("Chapter 4 Practice Drill — 40 Questions", "Chapter 5: Lonely Days"),
+    "drill_ch05": ("Chapter 5 Practice Drill — 40 Questions", "Chapter 6: Native Son"),
+    "drill_ch06": ("Chapter 6 Practice Drill — 40 Questions", "Full Paper 1"),
+    "paper1": ("Full Paper 1", "Full Paper 2"),
+    "paper2": ("Full Paper 2", "Appendix A: 60 Rapid-Fire Recall Pairs"),
     "bank120": ("Appendix B: The 120-Question Master Bank", "Appendix C: Consolidated Answer Keys"),
 }
 
@@ -59,7 +59,7 @@ def toc():
 
 
 def rebuild() -> None:
-    for script in ("drills_gov1.py", "papers_gov1.py"):
+    for script in ("drills_lit2.py", "papers_lit2.py"):
         subprocess.run([sys.executable, str(HERE / script)], check=True, stdout=subprocess.DEVNULL)
     subprocess.run([sys.executable, str(OUT / "build.py")], check=True, stdout=subprocess.DEVNULL)
 

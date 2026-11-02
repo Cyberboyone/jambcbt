@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 300" width="760" height="300">
+  <defs>
+    <marker id="ag" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#008751"/>
+    </marker>
+    <marker id="an" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#0E1F40"/>
+    </marker>
+    <marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#D97706"/>
+    </marker>
+    <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#DC2626"/>
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="760" height="300" fill="#FFFFFF"/>
+<text x="380" y="24" font-family="DejaVu Sans" font-size="12.5" fill="#0E1F40" text-anchor="middle" font-weight="bold">Othello: the fall, act by act</text>
+<line x1="70" y1="250" x2="720" y2="250" stroke="#334155" stroke-width="1.2"/>
+<line x1="70" y1="250" x2="70" y2="62" stroke="#334155" stroke-width="1.2"/>
+<text x="44" y="70" font-family="DejaVu Sans" font-size="8" fill="#64748B" text-anchor="start" font-weight="normal">trust</text>
+<text x="40" y="246" font-family="DejaVu Sans" font-size="8" fill="#64748B" text-anchor="start" font-weight="normal">ruin</text>
+<line x1="110" y1="210" x2="230" y2="190" stroke="#008751" stroke-width="2.2"/>
+<line x1="230" y1="190" x2="350" y2="150" stroke="#008751" stroke-width="2.2"/>
+<line x1="350" y1="150" x2="470" y2="110" stroke="#008751" stroke-width="2.2"/>
+<line x1="470" y1="110" x2="590" y2="82" stroke="#008751" stroke-width="2.2"/>
+<line x1="590" y1="82" x2="690" y2="240" stroke="#008751" stroke-width="2.2"/>
+<circle cx="110" cy="210" r="4.2" fill="#008751"/>
+<text x="110" y="183" font-family="DejaVu Sans" font-size="7.8" fill="#334155" text-anchor="middle" font-weight="normal">Act 1</text>
+<text x="110" y="194" font-family="DejaVu Sans" font-size="7.8" fill="#334155" text-anchor="middle" font-weight="normal">Venice</text>
+<circle cx="230" cy="190" r="4.2" fill="#008751"/>
+<text x="230" y="163" font-family="DejaVu Sans" font-size="7.8" fill="#334155" text-anchor="middle" font-weight="normal">Act 2</text>
+<text x="230" y="174" font-family="DejaVu Sans" font-size="7.8" fill="#334155" text-anchor="middle" font-weight="normal">Cyprus</text>
+<circle cx="350" cy="150" r="4.2" fill="#008751"/>
+<text x="350" y="123" font-family="DejaVu Sans" font-size="7.8" fill="#334155" text-anchor="middle" font-weight="normal">Act 3</text>
+<text x="350" y="134" font-family="DejaVu Sans" font-size="7.8" fill="#334155" text-anchor="middle" font-weight="normal">the handkerchief</text>
+<circle cx="470" cy="110" r="4.2" fill="#008751"/>
+<text x="470" y="83" font-family="DejaVu Sans" font-size="7.8" fill="#334155" text-anchor="middle" font-weight="normal">Act 4</text>
+<text x="470" y="94" font-family="DejaVu Sans" font-size="7.8" fill="#334155" text-anchor="middle" font-weight="normal">the fit</text>
+<circle cx="590" cy="82" r="4.2" fill="#008751"/>
+<text x="590" y="55" font-family="DejaVu Sans" font-size="7.8" fill="#334155" text-anchor="middle" font-weight="normal">Act 5</text>
+<text x="590" y="66" font-family="DejaVu Sans" font-size="7.8" fill="#334155" text-anchor="middle" font-weight="normal">the murder</text>
+<circle cx="690" cy="240" r="4.2" fill="#008751"/>
+<text x="690" y="224" font-family="DejaVu Sans" font-size="7.8" fill="#334155" text-anchor="middle" font-weight="normal">the truth</text>
+<rect x="392" y="268" width="330" height="0" rx="0" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0"/>
+</svg>

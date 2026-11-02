@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Render the timed papers, the rapid-fire pairs and the master bank for Literature 2.
+"""Render the timed papers, the rapid-fire pairs and the master bank for Literature 1.
 
 Each paper is a list of sections. A section is:
 
@@ -144,7 +144,6 @@ def render_paper(spec, out_name, banner_label, banner_title, lead, minutes, numb
         "",
         "#block(",
         "  width: 100%,",
-        "  breakable: false,",
         "  fill: jamb-navy,",
         "  stroke: 1.5pt + jamb-bright,",
         "  radius: 10pt,",
@@ -301,7 +300,6 @@ def render_paper(spec, out_name, banner_label, banner_title, lead, minutes, numb
         "",
         "#block(",
         "  width: 100%,",
-        "  breakable: false,",
         "  fill: jamb-navy,",
         "  stroke: 1.5pt + jamb-bright,",
         "  radius: 10pt,",
@@ -477,12 +475,14 @@ def render_answer_keys():
         blocks.append((label, keys))
     blocks.append(("C.3 The 120-Question Master Bank",
                    [k for _s, _o, k, _so in balance(BANK, seed=4711)]))
-    titles = {1: "Chapter 1 Practice Drill", 2: "Chapter 2 Practice Drill",
-              3: "Chapter 3 Practice Drill", 4: "Chapter 4 Practice Drill",
-              5: "Chapter 5 Practice Drill", 6: "Chapter 6 Practice Drill",
-              7: "Chapter 7 Practice Drill", 8: "Chapter 8 Practice Drill"}
-    for ch in range(1, 9):
-        items = drills_lit2.balance(drills_lit2.BANK[ch], seed=2000 + ch * 41)
+    titles = {1: "Chapter 1 Practice Drill: Method",
+              2: "Chapter 2 Practice Drill: Harvest of Corruption",
+              3: "Chapter 3 Practice Drill: Othello",
+              4: "Chapter 4 Practice Drill: Faceless",
+              5: "Chapter 5 Practice Drill: Lonely Days",
+              6: "Chapter 6 Practice Drill: Native Son"}
+    for ch in range(1, 7):
+        items = drills_lit2.balance(drills_lit2.BANK[ch], seed=1000 + ch * 37)
         blocks.append((f"C.{3 + ch} {titles[ch]}", [k for _s, _o, k, _so in items]))
 
     lines = ['#import "template.typ": *', "",
@@ -496,7 +496,7 @@ def render_answer_keys():
              '  #text(font: "DejaVu Sans", size: 20pt, weight: "bold", fill: white)[Consolidated Answer Keys]',
              "  #v(4pt)",
              '  #text(font: "DejaVu Sans", size: 10.5pt, fill: rgb("#CBD5E1"))[',
-             "    Every key in the volume, in one place: the two full papers, the master bank and the eight chapter drills.",
+             "    Every key in the volume, in one place: the two full papers, the master bank and the six chapter drills.",
              "    If you photocopy one part of this book, photocopy this.",
              "  ]", "]", "", "#v(5pt)", ""]
     for name, keys in blocks:
@@ -510,10 +510,10 @@ def render_answer_keys():
 
 def main() -> int:
     render_paper(PAPER_1, "paper1.typ", "PAPER 1 OF 2", "Full Paper 1",
-                 "Forty questions in forty minutes, in the proportions of a real UTME Literature paper: an unseen drama extract, a block on each prescribed drama text, a block on technique, and a block on quotation and judgement.",
+                 "Forty questions in forty minutes, in the proportions of a real UTME Literature paper: a Shakespeare extract, an unseen prose passage, a block on Harvest of Corruption, a block across the three novels, and a block of terms.",
                  40, "Every solution names the chapter that teaches the skill the question tests.")
     render_paper(PAPER_2, "paper2.typ", "PAPER 2 OF 2", "Full Paper 2",
-                 "A second forty-question paper at the same length and difficulty, drawn from an unseen prose passage and a block on each prescribed prose text.",
+                 "A second forty-question paper at the same length and difficulty, drawn from a different Shakespeare extract, an unseen drama scene, and a different mix of texts and terms.",
                  40, "Sit this one a week after Paper 1, when the first paper's mistakes have had time to become habits.")
     render_bank()
     render_answer_keys()

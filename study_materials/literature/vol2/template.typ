@@ -119,10 +119,10 @@
         rect(width: 5pt, height: 18pt, radius: 2pt, fill: jamb-bright),
         align(horizon, text(font: "DejaVu Sans", size: 13.2pt, weight: "bold", fill: jamb-navy)[#it.body]),
       )
-      #v(1pt)
+      #v(-3pt)
       #line(length: 100%, stroke: 0.5pt + jamb-border)
     ]
-    v(5pt, weak: true)
+    v(4pt, weak: true)
   }
 
   show heading.where(level: 3): it => {

@@ -1,4 +1,4 @@
-"""Cover, weight chart and the method chapters for Literature Volume 2."""
+"""Cover, method figure and the two Harvest of Corruption figures."""
 
 from __future__ import annotations
 
@@ -15,180 +15,118 @@ def _panel(x, y, w, h, fill="#FFFFFF", stroke=BORDER):
     return rect(x, y, w, h, fill, stroke, 8, 1.3)
 
 
-def _head(title, sub=None, h=0):
-    b = [t(W / 2, 26, title, size=13, weight="bold")]
-    if sub:
-        b.append(t(W / 2, 45, sub, size=9.2, fill=MUTED))
-    return b
-
-
 # ── cover ─────────────────────────────────────────────────────────────────
 def cover_banner() -> None:
     w, h = 760, 150
     b = [rect(0, 0, w, h, GREEN_LIGHT, GREEN, 10, 1.4)]
-    b.append(t(26, 50, "WHO IS SPEAKING,", size=17, weight="bold", fill=NAVY, anchor="start"))
-    b.append(t(26, 76, "AND WHAT IS THE WRITER DOING?", size=17, weight="bold", fill=GREEN, anchor="start"))
-    b.append(t(26, 106, "Five set texts, one method: the evidence, the pattern, the effect", size=9.8, fill=MUTED, anchor="start"))
-    for i, (label, sub, col) in enumerate((("DRAMA", "two plays", BLUE), ("PROSE", "three novels", AMBER))):
-        y = 38 + i * 48
-        b.append(t(566 - 12, y + 22, sub, size=8.6, fill=MUTED, anchor="end"))
-        b.append(rect(566, y, 160, 34, "#FFFFFF", col, 6, 1.4))
-        b.append(t(646, y + 22, label, size=10.6, weight="bold", fill=col))
+    b.append(t(24, 34, "FIVE TEXTS,", size=17, weight="bold", fill=NAVY, anchor="start"))
+    b.append(t(24, 58, "AND ONE METHOD FOR ALL OF THEM", size=15.5, weight="bold", fill=GREEN, anchor="start"))
+    b.append(t(24, 82, "Two plays, three novels, and the questions the paper asks of each", size=9.8, fill=MUTED, anchor="start"))
+    xs = 430
+    for i, (label, col) in enumerate((("DRAMA", BLUE), ("PROSE", AMBER), ("METHOD", PURPLE))):
+        x = xs + i * 100
+        b.append(rect(x, 96, 92, 34, "#FFFFFF", col, 6, 1.4))
+        b.append(t(x + 46, 118, label, size=10, weight="bold", fill=col))
+    for i, (label, col) in enumerate((("2 plays", BLUE), ("3 novels", AMBER), ("6 steps", PURPLE))):
+        b.append(t(xs + i * 100 + 46, 92, label, size=7.6, fill=MUTED))
     write_svg("cover_banner.svg", svg(w, h, "\n".join(b), bg=GREEN_LIGHT))
 
 
-# ── weights ───────────────────────────────────────────────────────────────
-def weights() -> None:
-    w, h = 760, 250
+# ── chapter 1: the method ─────────────────────────────────────────────────
+def ch01_method() -> None:
+    w, h = 760, 300
+    b = [t(380, 24, "The six moves that answer a question on a set text", size=12.5, weight="bold")]
+    steps = [
+        ("1", "PLACE", "which text,\nwhich act or book", BLUE),
+        ("2", "LOCATE", "the scene the\nstem points at", BLUE),
+        ("3", "NAME", "the character,\nthe device, the term", PURPLE),
+        ("4", "EVIDENCE", "the words you\ncan quote", GREEN),
+        ("5", "EFFECT", "what it does to\nthe reader", AMBER),
+        ("6", "CHECK", "does the option\nanswer the stem?", RED),
+    ]
+    cw, gap = 112, 15
+    x0 = (w - (6 * cw + 5 * gap)) / 2
+    for i, (num, head, body, col) in enumerate(steps):
+        x = x0 + i * (cw + gap)
+        b.append(rect(x, 62, cw, 108, "#FFFFFF", col, 8, 1.5))
+        b.append(f'<rect x="{x}" y="62" width="{cw}" height="5" rx="2.5" fill="{col}"/>')
+        b.append(t(x + cw / 2, 88, num, size=16, weight="bold", fill=col))
+        b.append(t(x + cw / 2, 108, head, size=9.6, weight="bold", fill=NAVY))
+        for j, ln in enumerate(body.split("\n")):
+            b.append(t(x + cw / 2, 128 + j * 12, ln, size=7.9, fill=SLATE))
+        if i < 5:
+            b.append(arrow(x + cw + 1, 116, x + cw + gap - 2, 116, color=BORDER, sw=1.4, marker="ag"))
+    b.append(rect(40, 196, 680, 78, GREEN_LIGHT, GREEN, 8, 1.2))
+    b.append(t(380, 218, "The rule that decides most questions", size=10.6, weight="bold", fill=GREEN))
+    b.append(t(380, 240, "An option that names a device but not its effect is a distractor; an option that describes the text", size=9.0, fill=SLATE))
+    b.append(t(380, 257, "without arguing about it is a distractor. The answer is the one that says what the writing DOES.", size=9.0, fill=SLATE))
+    write_svg("ch01_method.svg", svg(w, h, "\n".join(b)))
+
+
+# ── chapter 2: Harvest of Corruption causality ────────────────────────────
+def ch02_harvest_chain() -> None:
+    w, h = 760, 340
+    b = [t(380, 24, "Harvest of Corruption: the chain from a degree to a grave", size=12.5, weight="bold")]
     rows = [
-        ("Method: the paper, the banks, character, theme", 20, GREEN),
-        ("Othello", 22, BLUE),
-        ("Native Son", 18, AMBER),
-        ("The three African texts", 30, PURPLE),
-        ("Comparative essays and the exam hall", 10, RED),
+        ("No job after service", "Aloho has a degree and no income", BLUE),
+        ("Ochuole's offer", "a schoolmate with a reputation", AMBER),
+        ("The Ministry post", "protocol officer to Chief", PURPLE),
+        ("The US trip", "cocaine in the luggage", RED),
+        ("Arrest and acquittal", "the case thrown out for money", RED),
+        ("Pregnancy and death", "she dies in childbirth", NAVY),
     ]
-    b = [f'<rect x="0" y="0" width="{w}" height="{h}" rx="10" fill="{LIGHT_BG}" stroke="{BORDER}" stroke-width="1.2"/>']
-    b.append(t(w / 2, 26, "Where the Set-Text Marks Sit", size=13.5, weight="bold"))
-    b.append(t(w / 2, 44, "A working split for a paper that asks ten to fourteen questions on the prescribed list", size=9.4, fill=MUTED))
-    x0, y = 40, 70
-    scale = 330 / 30
-    for i, (title, q, col) in enumerate(rows):
-        yy = y + i * 32
-        b.append(t(x0, yy + 12, title, size=9.4, fill=SLATE, anchor="start"))
-        bw = max(8, q * scale)
-        b.append(rect(x0 + 330, yy + 1, 330, 18, "#FFFFFF", BORDER, 3, 1.0))
-        b.append(rect(x0 + 330, yy + 1, bw, 18, col, col, 3, 1.0))
-        b.append(t(x0 + 330 + bw + 12, yy + 14, f"{q}%", size=9.0, weight="bold", fill=col, anchor="start"))
-    b.append(t(w / 2, h - 12, "The three African texts share the largest block because three of the five texts are African.", size=8.8, fill=MUTED))
-    write_svg("weights.svg", svg(w, h, "\n".join(b), bg=LIGHT_BG))
+    y = 56
+    for i, (head, sub, col) in enumerate(rows):
+        x = 40
+        b.append(rect(x, y, 300, 36, "#FFFFFF", col if i >= 3 else BORDER, 7, 1.4))
+        b.append(f'<rect x="{x}" y="{y}" width="5" height="36" rx="2.5" fill="{col}"/>')
+        b.append(t(x + 16, y + 16, head, size=9.4, weight="bold", fill=NAVY, anchor="start"))
+        b.append(t(x + 16, y + 30, sub, size=8.2, fill=SLATE, anchor="start"))
+        b.append(arrow(345, y + 18, 380, y + 18, color=BORDER, sw=1.3))
+        y += 46
+    # right-hand commentary column
+    notes = [
+        ("THE CAUSE", "unemployment makes an offer\nlook like a rescue", BLUE),
+        ("THE INSTRUMENT", "Chief's office is a criminal\nenterprise with a title", AMBER),
+        ("THE PRICE", "the state protects the guilty\nand destroys the innocent", RED),
+    ]
+    ny = 62
+    for head, body, col in notes:
+        b.append(rect(392, ny, 328, 80, GREEN_LIGHT, col, 8, 1.2))
+        b.append(t(406, ny + 20, head, size=9.2, weight="bold", fill=col, anchor="start"))
+        for j, ln in enumerate(body.split("\n")):
+            b.append(t(406, ny + 38 + j * 13, ln, size=8.6, fill=SLATE, anchor="start"))
+        ny += 90
+    write_svg("ch02_harvest_chain.svg", svg(w, h, "\n".join(b)))
 
 
-# ── chapter 1: the four shapes of a set-text question ─────────────────────
-def ch01_shapes() -> None:
+def ch02_harvest_map() -> None:
     w, h = 760, 300
-    b = [_panel(0, 0, w, h, LIGHT_BG)]
-    b += _head("The Four Shapes of a Set-Text Question",
-               "Every question about a prescribed text is one of these, and each wants a different kind of evidence")
-    cards = [
-        ("FACT", "who, where, when", ["“Who speaks this line?”", "“Where is the scene set?”", "one word, no argument"], BLUE),
-        ("FUNCTION", "what the part does", ["“What is the function of the", "subplot / the fool / the letter?”", "a relationship, not a summary"], AMBER),
-        ("EFFECT", "what the reader feels", ["“What is the effect of the", "repetition in this speech?”", "a consequence for the audience"], GREEN),
-        ("JUDGEMENT", "how good, at what cost", ["“How far does the play", "persuade us that …?”", "a claim, an objection, a verdict"], RED),
+    b = [t(380, 24, "Who is connected to whom, and by what", size=12.5, weight="bold")]
+    # centre
+    b.append(rect(300, 116, 160, 52, GREEN_LIGHT, GREEN, 9, 1.6))
+    b.append(t(380, 138, "CHIEF HALADU", size=10, weight="bold", fill=GREEN))
+    b.append(t(380, 154, "ADE-AMAKA", size=9, weight="bold", fill=GREEN))
+    b.append(t(380, 90, "the centre of the web", size=8.6, fill=MUTED, italic=True))
+    nodes = [
+        (40, 56, "OCHUOLE", "recruits; supplies", BLUE),
+        (40, 196, "MADAM HOHA", "Akpara Hotel; the venue", AMBER),
+        (560, 56, "JUSTICE ODILI", "throws out the case", RED),
+        (560, 196, "COMMISSIONER", "of Police; buries it", RED),
+        (300, 226, "AYO", "clerk; the vouchers", PURPLE),
+        (300, 56, "ALOHO", "the victim", NAVY),
     ]
-    for i, (head, sub, pts, col) in enumerate(cards):
-        x = 20 + i * 185
-        b.append(rect(x, 68, 170, 190, "#FFFFFF", col, 8, 1.5))
-        b.append(f'<rect x="{x}" y="68" width="170" height="6" rx="3" fill="{col}"/>')
-        b.append(t(x + 85, 96, head, size=12, weight="bold", fill=col))
-        b.append(t(x + 85, 114, sub, size=8.6, fill=MUTED))
-        for j, p in enumerate(pts):
-            for k, ln in enumerate(wrap_text(p, 8.6, 142)):
-                b.append(t(x + 85, 140 + j * 24 + k * 11, ln, size=8.6, fill=SLATE))
-    b.append(t(w / 2, h - 14, "Answer the shape that was asked. A function question answered with a plot summary is the commonest lost mark on the text paper.", size=8.8, fill=MUTED))
-    write_svg("ch01_shapes.svg", svg(w, h, "\n".join(b), bg=LIGHT_BG))
+    for x, y, head, sub, col in nodes:
+        b.append(rect(x, y, 160, 44, "#FFFFFF", col, 7, 1.4))
+        b.append(t(x + 80, y + 18, head, size=9.2, weight="bold", fill=col))
+        b.append(t(x + 80, y + 33, sub, size=7.9, fill=SLATE))
+    # connectors
+    for (x1, y1, x2, y2) in ((200, 78, 300, 130), (200, 218, 300, 160),
+                             (460, 130, 560, 78), (460, 160, 560, 218),
+                             (380, 168, 380, 226), (380, 116, 380, 100)):
+        b.append(line(x1, y1, x2, y2, color=BORDER, sw=1.3))
+    b.append(t(380, 288, "Two honest figures stand outside the web: ACP Yakubu and Ogeyi, who bring it down.", size=8.8, fill=MUTED))
+    write_svg("ch02_harvest_map.svg", svg(w, h, "\n".join(b)))
 
 
-# ── chapter 2: the bank ───────────────────────────────────────────────────
-def ch02_bank() -> None:
-    w, h = 760, 300
-    b = [_panel(0, 0, w, h)]
-    b += _head("The Bank: Four Columns You Fill Yourself",
-               "Reading a text is not the same as preparing it. The bank is the difference.")
-    cols = [
-        ("SCENE / CHAPTER", "what happens, in five words", ["Act 3 scene 3 — the", "handkerchief is lost", "one line per unit"], BLUE),
-        ("WHO", "who is present, who wants what", ["Iago, Othello,", "Desdemona offstage", "names, not descriptions"], AMBER),
-        ("TURN", "what changes by the end", ["trust becomes", "suspicion", "the hinge of the unit"], GREEN),
-        ("QUOTE", "six to ten words, exact", ["“the green-eyed", "monster”", "one per unit, no more"], PURPLE),
-    ]
-    for i, (head, sub, pts, col) in enumerate(cols):
-        x = 20 + i * 185
-        b.append(rect(x, 66, 170, 196, "#FFFFFF", col, 8, 1.5))
-        b.append(f'<rect x="{x}" y="66" width="170" height="6" rx="3" fill="{col}"/>')
-        for j, ln in enumerate(wrap_text(head, 10.4, 146)):
-            b.append(t(x + 85, 92 + j * 13, ln, size=10.4, weight="bold", fill=col))
-        b.append(t(x + 85, 118, sub, size=8.4, fill=MUTED))
-        for j, p in enumerate(pts):
-            b.append(t(x + 85, 146 + j * 16, p, size=8.8, fill=SLATE))
-    b.append(t(w / 2, h - 14, "One row per scene or chapter, built as you read. By the last week the bank is the only revision document you need.", size=8.8, fill=MUTED))
-    write_svg("ch02_bank.svg", svg(w, h, "\n".join(b)))
-
-
-# ── chapter 3: character ──────────────────────────────────────────────────
-def ch03_character() -> None:
-    w, h = 760, 330
-    b = [_panel(0, 0, w, h, LIGHT_BG)]
-    b += _head("Character: Five Questions, Not a Description",
-               "A character in an exam answer is a function before he is a person")
-    qs = [
-        ("1  WHAT DOES HE WANT?", "the desire that drives his scenes, in this unit", GREEN),
-        ("2  WHAT STOPS HIM?", "the obstacle, and who holds it", BLUE),
-        ("3  WHAT DOES HE DO WHEN IT COSTS?", "the choice that reveals him", AMBER),
-        ("4  WHAT CAN HE NOT SAY?", "the silence the text has designed", PURPLE),
-        ("5  WHAT WOULD THE TEXT LOSE WITHOUT HIM?", "his function in the structure", RED),
-    ]
-    for i, (head, sub, col) in enumerate(qs):
-        x = 22 + (i % 2) * 360
-        y = 64 + (i // 2) * 84
-        b.append(rect(x, y, 340, 72, "#FFFFFF", col, 8, 1.4))
-        b.append(t(x + 16, y + 24, head, size=9.0, weight="bold", fill=col, anchor="start"))
-        for j, ln in enumerate(wrap_text(sub, 8.6, 300)):
-            b.append(t(x + 16, y + 44 + j * 12, ln, size=8.6, fill=SLATE, anchor="start"))
-    b.append(t(w / 2, h - 12, "If the fifth answer is “nothing”, the character is scenery — and a question about him is really asking about someone else.", size=8.6, fill=MUTED))
-    write_svg("ch03_character.svg", svg(w, h, "\n".join(b), bg=LIGHT_BG))
-
-
-# ── chapter 4: theme ledger ───────────────────────────────────────────────
-def ch04_ledger() -> None:
-    w, h = 760, 290
-    b = [_panel(0, 0, w, h)]
-    b += _head("The Theme Ledger: A Claim, Its Evidence, and the Case Against",
-               "A theme is not a word. It is a sentence, and it must be arguable")
-    b.append(rect(20, 64, 720, 34, GREEN_LIGHT, GREEN, 6, 1.2))
-    b.append(t(30, 86, "CLAIM:", size=9.2, weight="bold", fill=GREEN, anchor="start"))
-    b.append(t(80, 86, "“The play argues that reputation is a story other people tell about you.”", size=9.2, fill=SLATE, anchor="start"))
-    b.append(rect(20, 108, 350, 120, "#FFFFFF", BLUE, 7, 1.3))
-    b.append(t(195, 128, "FOR — three moments", size=9.4, weight="bold", fill=BLUE))
-    for j, s in enumerate(["Cassio's brawl costs him the name of soldier",
-                           "Iago's “reputation” speech to Cassio",
-                           "Othello's “name ... as indifferent as my birth”"]):
-        for k, ln in enumerate(wrap_text("• " + s, 8.6, 310)):
-            b.append(t(36, 150 + j * 24 + k * 11, ln, size=8.6, fill=SLATE, anchor="start"))
-    b.append(rect(390, 108, 350, 120, "#FFFFFF", RED, 7, 1.3))
-    b.append(t(565, 128, "AGAINST — two moments", size=9.4, weight="bold", fill=RED))
-    for j, s in enumerate(["Desdemona is valued for her mind, not her name",
-                           "Emilia dies telling the truth about the name"]):
-        for k, ln in enumerate(wrap_text("• " + s, 8.6, 310)):
-            b.append(t(406, 150 + j * 24 + k * 11, ln, size=8.6, fill=SLATE, anchor="start"))
-    b.append(t(w / 2, h - 12, "A ledger with a column against is an argument. A ledger with only a column for is a summary.", size=8.8, fill=MUTED))
-    write_svg("ch04_ledger.svg", svg(w, h, "\n".join(b)))
-
-
-# ── chapter 8: comparative axes ───────────────────────────────────────────
-def ch08_compare() -> None:
-    w, h = 760, 280
-    b = [_panel(0, 0, w, h, LIGHT_BG)]
-    b += _head("Four Axes for Any Comparison",
-               "Never compare two texts on everything. Compare them on one axis, then let the axis do the work")
-    axes = [
-        ("WHO HOLDS THE POWER", "and how the text distributes it", BLUE),
-        ("WHO IS ALLOWED TO SPEAK", "and in what form", GREEN),
-        ("WHAT THE ENDING COSTS", "who pays, and who is spared", AMBER),
-        ("WHAT THE TEXT REFUSES TO SAY", "the silence at the centre", PURPLE),
-    ]
-    b.append(line(40, 210, 720, 210, MUTED, 1.4))
-    for i, (head, sub, col) in enumerate(axes):
-        x = 100 + i * 160
-        b.append(line(x, 210, x, 190, col, 2.0))
-        b.append(dot(x, 210, 4.6, col))
-        for j, ln in enumerate(wrap_text(head, 9.0, 140)):
-            b.append(t(x, 176 - j * 11, ln, size=9.0, weight="bold", fill=col))
-        for j, ln in enumerate(wrap_text(sub, 8.2, 140)):
-            b.append(t(x, 232 + j * 11, ln, size=8.2, fill=SLATE))
-    b.append(t(w / 2, h - 12, "One axis per paragraph. Two texts, one question, and the comparison becomes an argument rather than a list.", size=8.8, fill=MUTED))
-    write_svg("ch08_compare.svg", svg(w, h, "\n".join(b), bg=LIGHT_BG))
-
-
-FIGURES = [
-    cover_banner, weights, ch01_shapes, ch02_bank, ch03_character,
-    ch04_ledger, ch08_compare,
-]
+FIGURES = ["cover_banner", "ch01_method", "ch02_harvest_chain", "ch02_harvest_map"]

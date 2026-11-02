@@ -1,184 +1,197 @@
-"""Drill bank — Literature in English Volume 2, chapter 4 (30 items)."""
+"""Drill bank — Literature in English Volume 2, chapter 4 (40 items)."""
+
+
+def q(stem, a, b, c, d, k, sol):
+    return (stem, [a, b, c, d], k, sol)
+
 
 DRILL_4 = [
-    (
-        "The difference between a topic and a theme is that a theme",
-        ["is shorter", "is a claim the text argues", "names a character", "appears in the title"],
-        1,
-        "A theme is a sentence with a verb that argues; a topic is a noun that can only be agreed with.",
-    ),
-    (
-        "“The theme of the play is jealousy” is",
-        ["a claim", "a topic mistaken for a claim", "a quotation", "a judgement"],
-        1,
-        "The sentence names a subject and asserts nothing about it, which is the definition of a topic.",
-    ),
-    (
-        "“Jealousy is what love becomes when it is asked for proof” is a claim because",
-        ["it is longer", "it names a mechanism and can be disputed", "it mentions love", "it uses abstract nouns"],
-        1,
-        "The mechanism — love converted into jealousy by a demand for evidence — is what makes it arguable.",
-    ),
-    (
-        "The verb test asks you to underline the verb and check whether it",
-        ["is in the present tense", "argues rather than merely asserts existence", "is active", "is irregular"],
-        1,
-        "Verbs such as *becomes*, *converts* and *costs* argue; *is*, *has* and *shows* usually do not.",
-    ),
-    (
-        "The four columns of the ledger are claim, units, evidence and",
-        ["biography", "counter-evidence", "page numbers", "quotations"],
-        1,
-        "The fourth column is the objection, and it is the one that separates a strong answer from a prosecution.",
-    ),
-    (
-        "The three units in a theme paragraph should be chosen from",
-        ["one scene", "the establishing movement, the pressure and the cost", "the beginning only", "the chapters you recall best"],
-        1,
-        "Range across the arc is what proves the theme structural rather than local.",
-    ),
-    (
-        "Counter-evidence is the moment that",
-        ["supports the claim weakly", "resists the claim and must be answered", "is hardest to quote", "appears last in the text"],
-        1,
-        "A resisting moment is what makes a claim arguable; answering it is what makes the answer credible.",
-    ),
-    (
-        "An essay with no concession sentence usually reads as",
-        ["balanced", "a prosecution with the defence absent", "short", "well organised"],
-        1,
-        "Without an objection the reader cannot tell whether the claim has been tested or merely asserted.",
-    ),
-    (
-        "In *Othello*, the counter-evidence to “love is destroyed by the demand for proof” is",
-        ["Iago's plotting", "Othello's tenderness on arrival in Cyprus", "Desdemona's handkerchief", "Cassio's drinking"],
-        1,
-        "The tenderness is the moment that resists the claim, which is why answering it strengthens the argument.",
-    ),
-    (
-        "In *Faceless*, the claim that poverty is a lack of witnesses is resisted by",
-        ["the setting", "the characters who do try to help the child", "the title", "the ending"],
-        1,
-        "Help that fails is the strongest objection, and the answer distinguishes goodwill from witness.",
-    ),
-    (
-        "“Love and trust”, “race and visibility”, “power”, “poverty” and “gender and silence” are",
-        ["the five acts of a play", "the five ledgers the set texts share", "the five genres", "the five mark bands"],
-        1,
-        "They are the recurring ledgers, and each text inflects them differently, which is what comparison exploits.",
-    ),
-    (
-        "The same theme in two different texts usually",
-        ["means the same thing", "takes a different shape and produces a different claim", "proves influence", "indicates the same author"],
-        1,
-        "Love in *Othello* is evidence; love in *Faceless* is a debt. The difference is where the marks are.",
-    ),
-    (
-        "A theme answer needs three well-chosen units rather than ten because",
-        ["markers count words", "three can be developed and ten can only be listed", "the paper forbids more", "ten would take too long to read"],
-        1,
-        "Development, not coverage, is what an essay is marked on.",
-    ),
-    (
-        "The paragraph structure recommended in this book is",
-        ["claim, quotation, summary, conclusion", "claim, unit and evidence, mechanism, concession and return", "introduction, body, conclusion", "topic, example, topic"],
-        1,
-        "Four sentences, each doing one job, and the fourth securing the claim against the objection.",
-    ),
-    (
-        "The “reading” sentence fails when it names",
-        ["a mechanism", "a mood", "a relation between words", "a consequence for the audience"],
-        1,
-        "“Othello is very sad here” names a feeling; the reading sentence must say how the words produce it.",
-    ),
-    (
-        "“Shakespeare uses repetition for emphasis” fails because",
-        ["repetition is not a device", "it names a device without saying what it does here", "it misquotes", "it is too long"],
-        1,
-        "Device plus function is the requirement; the label alone earns nothing.",
-    ),
-    (
-        "A theme claim that could be made about any text is",
-        ["strong, because it is general", "weak, because it is not about this text", "ideal for a conclusion", "required by the syllabus"],
-        1,
-        "Portability is the sign of an empty claim; specificity is what the paper rewards.",
-    ),
-    (
-        "In *Native Son*, the claim that race is “invisibility plus surveillance” means",
-        ["Black characters are ignored", "Bigger is watched constantly and recognised never", "the novel has no white characters", "the narrator is unreliable"],
-        1,
-        "The paradox of being highly visible and wholly unrecognised is the novel's central social observation.",
-    ),
-    (
-        "In *Harvest of Corruption*, the claim that corruption is an employment agency means",
-        ["the play is about jobs", "the system recruits the people it will later consume", "the ministry is efficient", "Aloho is a civil servant"],
-        1,
-        "Ochuole recruits, the Ministry employs, the network protects and then discards — the pipeline is the claim.",
-    ),
-    (
-        "A ledger is useful in the exam because it",
-        ["provides quotations to copy", "holds a claim and its evidence in a form that can be recalled", "replaces the text", "counts the pages"],
-        1,
-        "The ledger is a retrieval structure for arguments, not a substitute for reading.",
-    ),
-    (
-        "The strongest opening for a theme answer is",
-        ["“The theme is …”", "“The play argues that …”", "“This essay will discuss …”", "“Many critics have said …”"],
-        1,
-        "The verb “argues” commits the answer to a claim and sets the register for the whole response.",
-    ),
-    (
-        "A theme question that says “discuss” wants",
-        ["a list of scenes", "a claim, its evidence, and its limits", "a summary", "the author's biography"],
-        1,
-        "Discussion means testing a claim, which requires both support and limit.",
-    ),
-    (
-        "If two texts share a theme but reach opposite conclusions, the examinable point is",
-        ["that one author copied the other", "what each text's conclusion implies about its world", "the publication dates", "the genre difference"],
-        1,
-        "The conclusions are the texts' arguments about their worlds, which is exactly what comparison addresses.",
-    ),
-    (
-        "The counter-evidence column protects a candidate from",
-        ["misquoting", "overstating a claim until it becomes indefensible", "writing too briefly", "using the wrong text"],
-        1,
-        "A claim with a visible limit is harder to defeat than a claim that admits nothing.",
-    ),
-    (
-        "The theme of gender in *Othello* is best stated as",
-        ["women suffer", "a woman's plain speech is not accepted as evidence", "men are jealous", "marriage is difficult"],
-        1,
-        "The claim names a mechanism — speech that does not count — and predicts the ending.",
-    ),
-    (
-        "In *Lonely Days*, the theme of custom is best stated as",
-        ["custom is bad", "custom turns a private grief into a public procedure", "old people are cruel", "villages are conservative"],
-        1,
-        "The mechanism is administrative: accusation, ceremony, confiscation.",
-    ),
-    (
-        "A theme answer that quotes ten times and argues once is",
-        ["excellent", "evidence-rich and argument-poor", "too short", "a model answer"],
-        1,
-        "Quotation is the servant of the claim; ten quotations without a claim is a commonplace book, not an essay.",
-    ),
-    (
-        "Judging a text's theme means asking",
-        ["whether you agree with it", "what it costs the text to make its claim", "whether it is popular", "how long it is"],
-        1,
-        "Judgement weighs the claim's price — what the text has to simplify or sacrifice to make it.",
-    ),
-    (
-        "The most reliable way to find a text's themes is to ask",
-        ["what the title means", "what the ending does with the characters' wants", "how many chapters there are", "who narrates"],
-        1,
-        "The ending is where a text settles its account with the wants it has set in motion.",
-    ),
-    (
-        "A theme ledger built for one text can be reused for another",
-        ["without change", "by keeping the columns and changing every entry", "only in poetry", "only if the texts share a genre"],
-        1,
-        "The structure travels; the entries must not, which is the discipline the ledger teaches.",
-    ),
+    q("Faceless is set in",
+      "Lagos", "Accra", "Kufi", "Chicago", 1,
+      "Darko's novel is set in Accra, and its geography runs from the market to the slum to the suburbs."),
+
+    q("The body at the centre of the novel is found",
+      "in a churchyard", "behind a Rasta hairdressing kiosk in a market",
+      "in a lagoon", "in a hotel room", 1,
+      "The place is Agbogbloshie market, and the kiosk is the first of the novel's many places where a child is not seen."),
+
+    q("The dead girl is at first taken to be",
+      "a trader", "a kayayoo, a head porter",
+      "a student", "a prostitute from a hotel", 1,
+      "The category is the point: the city has a slot for a poor girl's body and does not look inside it."),
+
+    q("Fofo is",
+      "fourteen and disguised as a boy", "eighteen and pregnant",
+      "a market trader of thirty", "a schoolteacher's daughter", 0,
+      "Her disguise is a survival technique, and it is also the novel's image of a girl with no safe identity."),
+
+    q("Baby T is",
+      "Fofo's sister", "Fofo's mother", "a neighbour", "a police officer", 0,
+      "The dead girl is Fofo's sister, which is why the search for a name becomes a search for a family."),
+
+    q("Maa Tsuru is",
+      "Fofo's employer", "the mother of Fofo and Baby T",
+      "a MUTE officer", "the brothel keeper", 1,
+      "Her poverty and her choices are the novel's most uncomfortable subject, and it refuses to make her simply a villain."),
+
+    q("Kwei is",
+      "Maa Tsuru's husband, who abandoned the family", "Fofo's uncle",
+      "a police inspector", "a radio presenter", 0,
+      "His departure is the first break in the family, and the novel traces the later ones from it."),
+
+    q("Kpakpo is significant because he",
+      "arrests Fofo", "abuses and sells Baby T",
+      "employs Maa Tsuru", "drives for the Daltons", 1,
+      "He is the mother's lover, and his betrayal comes from inside the household, which is the novel's pattern."),
+
+    q("Onko is the man who",
+      "kills Baby T and then commits suicide", "adopts Fofo",
+      "owns the market kiosk", "leads the police inquiry", 0,
+      "His death closes the case without a trial, which leaves the novel's questions about responsibility open."),
+
+    q("Poison is",
+      "a street lord who controls the children", "a doctor at the hospital",
+      "a journalist", "a policeman", 0,
+      "He takes what the children earn, and his name states his function."),
+
+    q("Maami Broni is",
+      "the keeper of a brothel", "Fofo's teacher", "a MUTE director", "a customs officer", 0,
+      "She telephones the radio station when the story becomes public, and then disappears."),
+
+    q("Odarley is",
+      "Fofo's friend who is not rescued", "Fofo's sister", "a presenter at Harvest FM", "a policewoman", 0,
+      "The novel ends its rescue halfway: one girl is taken in and the other is left, which is the honest ending."),
+
+    q("MUTE is",
+      "a government ministry", "a non-governmental organisation with a press and advocacy role",
+      "a market association", "a school", 1,
+      "It is the institution through which Kabria works, and its limits are part of the novel's argument."),
+
+    q("Dina is",
+      "the head of MUTE", "a market woman", "Fofo's aunt", "a police commissioner", 0,
+      "As the head of the organisation, she sets the limits within which Kabria can act."),
+
+    q("Kabria is",
+      "a programme officer at MUTE", "a radio presenter", "a brothel keeper", "a journalist for a newspaper", 0,
+      "Her role is the novel's answer to the question of what a professional woman can do for a street child."),
+
+    q("Vickie and Aggie are",
+      "Kabria's colleagues", "Fofo's sisters", "market traders", "police officers", 0,
+      "They share the office with Kabria, and their different responses measure the range of ordinary sympathy."),
+
+    q("Sylv Po is",
+      "a radio presenter at Harvest FM", "a police inspector", "a teacher", "a brothel keeper", 0,
+      "The radio is the novel's public sphere, and Sylv Po is the voice through which the story reaches the city."),
+
+    q("The clue that the attacker was left-handed comes from",
+      "a footprint", "the handprint on the right cheek of the body",
+      "a witness's statement", "a telephone call", 1,
+      "A blow from a left hand lands on the right cheek, and the small forensic detail is the novel's one piece of proof."),
+
+    q("The novel is divided into",
+      "three parts", "two acts", "five chapters", "four books and an epilogue", 0,
+      "The three-part structure moves between Fofo's world, the investigation and the public story."),
+
+    q("The title Faceless refers chiefly to",
+      "the mask worn by a character", "the way a dead street child has no identity in the city's records",
+      "a hairstyle", "the anonymity of the narrator", 1,
+      "The body is a category before it is a person, and the novel's work is to give it a face."),
+
+    q("The novel's treatment of institutions shows that they",
+      "always protect the poor", "see a category rather than a child",
+      "are staffed only by villains", "have no effect on the plot", 1,
+      "The police, the hospital, the press and the NGO each have a slot, and the child falls between them."),
+
+    q("The novel suggests that rescue is",
+      "complete once the police act", "partial, and unevenly distributed",
+      "impossible", "a matter of money alone", 1,
+      "Fofo is taken in and Odarley is not, and the novel refuses to pretend that the difference is justice."),
+
+    q("Maa Tsuru's character is important because the novel",
+      "condemns her without qualification", "shows poverty producing choices that a reader would rather not judge",
+      "makes her a comic figure", "removes her from the plot", 1,
+      "She is the novel's hardest case: a mother whose love is real and whose protection fails."),
+
+    q("The market in the novel functions as",
+      "a place of safety", "a public space where a death becomes a rumour",
+      "a courtroom", "a school", 1,
+      "The kiosk, the traders and the crowd are the novel's first public, and the public does not investigate."),
+
+    q("The radio phone-in matters because it",
+      "proves the crime", "makes the private death a public story",
+      "arrests the culprit", "clears Maa Tsuru", 1,
+      "Maami Broni's call is the moment the case becomes a matter of public knowledge and then of public forgetting."),
+
+    q("Onko's suicide is significant because it",
+      "gives the novel a trial scene", "closes the case without an answer",
+      "proves Fofo innocent", "frees Kpakpo", 1,
+      "The novel is more interested in how a death is explained than in a conviction, and suicide removes the explanation."),
+
+    q("Fofo's disguise as a boy shows that",
+      "she wants to be a soldier", "a girl on the street is safer when she is not read as a girl",
+      "she is dishonest", "the novel is set in a war", 1,
+      "The disguise is a comment on what the street does to a female child."),
+
+    q("Which pairing is correct?",
+      "Kabria and the radio station", "Sylv Po and MUTE",
+      "Dina and the brothel", "Poison and the police", 0,
+      "Kabria works at MUTE and deals with the radio; Sylv Po is the presenter; Dina heads MUTE; Poison controls the street."),
+
+    q("The novel's use of several points of view allows it to",
+      "confuse the reader deliberately", "show the same death from the street, the office and the studio",
+      "avoid a plot", "give every character a chapter", 1,
+      "Each viewpoint has a different amount of power, and the gaps between them are the novel's subject."),
+
+    q("The hospital's treatment of the body suggests that",
+      "the state has a system for unidentified children", "a poor child's death is recorded without a name",
+      "the doctors solve the case", "Fofo is arrested", 1,
+      "The bureaucratic record is the novel's coldest document, because it is accurate and useless."),
+
+    q("The novel's attitude to Fofo's future is",
+      "sentimental optimism", "guarded hope, conditional on the reader's attention",
+      "total despair", "indifference", 1,
+      "She is taken in, and the novel does not promise that this is enough."),
+
+    q("Agbogbloshie is significant as a setting because it is",
+      "a wealthy suburb", "a market and slum area where poor children work",
+      "a university town", "a port for foreign ships", 1,
+      "The place is a system of survival, and the novel shows how it processes children."),
+
+    q("The dead girl is passed off as a kayayoo because",
+      "she was carrying a load", "the city expects poor girls from the north to do that work",
+      "she was wearing a uniform", "the police say so", 1,
+      "The assumption is an act of classification, and the novel's plot is the work of undoing it."),
+
+    q("Which is NOT one of the novel's themes?",
+      "child trafficking", "institutional neglect", "the ethics of survival", "the glory of war", 3,
+      "War belongs to Othello, not to Darko's Accra."),
+
+    q("Fofo goes to MUTE because",
+      "she wants a job", "she needs help to find out what happened to her sister",
+      "she is arrested", "her mother sends her", 1,
+      "Her arrival at the office is the hinge between the street narrative and the institutional one."),
+
+    q("The novel's ending is best described as",
+      "a full resolution", "a partial resolution with an unresolved remainder",
+      "a cliffhanger", "a comic reversal", 1,
+      "The remainder is Odarley, and the novel insists on her."),
+
+    q("The novel's most examinable structural feature is",
+      "its single narrator", "its movement between street, office and radio",
+      "its use of verse", "its five-act form", 1,
+      "The movement is what lets the novel compare kinds of seeing, which is what facelessness means."),
+
+    q("The handprint clue matters because it",
+      "identifies Onko without a confession", "proves Maa Tsuru's guilt",
+      "is later disproved", "belongs to Fofo", 0,
+      "Physical evidence does what the city's categories cannot: it points to a particular man."),
+
+    q("The novel is finally an argument about",
+      "the cost of being seen, and the price of not being seen", "the value of market trade",
+      "the danger of radio", "the failure of marriage", 0,
+      "Every institution in the book sees or fails to see, and the title states the stakes."),
+    q("The title Faceless is explained by the fact that the dead girl",
+      "has no family at all", "is identified by a place and a category before she is given a name",
+      "wears a veil", "is never found", 1,
+      "The novel's plot is the slow conversion of a category into a person."),
 ]

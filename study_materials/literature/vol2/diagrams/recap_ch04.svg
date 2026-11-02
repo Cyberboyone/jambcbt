@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 470 199" width="470" height="199">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 470 250" width="470" height="250">
   <defs>
     <marker id="ag" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
       <path d="M 0 1 L 10 5 L 0 9 z" fill="#008751"/>
@@ -13,18 +13,22 @@
       <path d="M 0 1 L 10 5 L 0 9 z" fill="#DC2626"/>
     </marker>
   </defs>
-  <rect x="0" y="0" width="470" height="199" fill="#FFFFFF"/>
-<text x="235.0" y="21" font-family="DejaVu Sans" font-size="11.8" fill="#0E1F40" text-anchor="middle" font-weight="bold">Chapter 4 recap — the theme ledger</text>
-<rect x="12" y="33" width="446" height="35.6" rx="6" fill="#FFFFFF" stroke="#008751" stroke-width="1.1"/>
-<text x="24" y="48" font-family="DejaVu Sans" font-size="10.6" fill="#008751" text-anchor="start" font-weight="bold">CLAIM</text>
-<text x="24" y="60.6" font-family="DejaVu Sans" font-size="9.6" fill="#334155" text-anchor="start" font-weight="normal">A sentence with a verb, arguable by a reasonable reader, and about this text only.</text>
-<rect x="12" y="73.6" width="446" height="35.6" rx="6" fill="#FFFFFF" stroke="#008751" stroke-width="1.1"/>
-<text x="24" y="88.6" font-family="DejaVu Sans" font-size="10.6" fill="#008751" text-anchor="start" font-weight="bold">FOR</text>
-<text x="24" y="101.19999999999999" font-family="DejaVu Sans" font-size="9.6" fill="#334155" text-anchor="start" font-weight="normal">Three moments from different parts of the text. Three is the minimum for a claim.</text>
-<rect x="12" y="114.19999999999999" width="446" height="35.6" rx="6" fill="#FFFFFF" stroke="#008751" stroke-width="1.1"/>
-<text x="24" y="129.2" font-family="DejaVu Sans" font-size="10.6" fill="#008751" text-anchor="start" font-weight="bold">AGAINST</text>
-<text x="24" y="141.79999999999998" font-family="DejaVu Sans" font-size="9.6" fill="#334155" text-anchor="start" font-weight="normal">Two moments that push the other way. A ledger without this column is a summary.</text>
-<rect x="12" y="154.79999999999998" width="446" height="35.6" rx="6" fill="#FFFFFF" stroke="#008751" stroke-width="1.1"/>
-<text x="24" y="169.79999999999998" font-family="DejaVu Sans" font-size="10.6" fill="#008751" text-anchor="start" font-weight="bold">VERDICT</text>
-<text x="24" y="182.39999999999998" font-family="DejaVu Sans" font-size="9.6" fill="#334155" text-anchor="start" font-weight="normal">What the text finally does with the contradiction, and what it leaves unresolved.</text>
+  <rect x="0" y="0" width="470" height="250" fill="#FFFFFF"/>
+<text x="235.0" y="21" font-family="DejaVu Sans" font-size="11.8" fill="#0E1F40" text-anchor="middle" font-weight="bold">Chapter 4 recap — Faceless</text>
+<rect x="12" y="33" width="446" height="48.2" rx="6" fill="#FFFFFF" stroke="#008751" stroke-width="1.1"/>
+<text x="24" y="48" font-family="DejaVu Sans" font-size="10.6" fill="#008751" text-anchor="start" font-weight="bold">THE DEATH</text>
+<text x="24" y="60.6" font-family="DejaVu Sans" font-size="9.6" fill="#334155" text-anchor="start" font-weight="normal">Baby T is found behind a hair salon in Agbogbloshie; the body is moved there to hide</text>
+<text x="24" y="73.2" font-family="DejaVu Sans" font-size="9.6" fill="#334155" text-anchor="start" font-weight="normal">where she died.</text>
+<rect x="12" y="86.2" width="446" height="48.2" rx="6" fill="#FFFFFF" stroke="#008751" stroke-width="1.1"/>
+<text x="24" y="101.2" font-family="DejaVu Sans" font-size="10.6" fill="#008751" text-anchor="start" font-weight="bold">THE HOUSEHOLD</text>
+<text x="24" y="113.8" font-family="DejaVu Sans" font-size="9.6" fill="#334155" text-anchor="start" font-weight="normal">Kpakpo abuses her, Onko rapes her, Maa Tsuru sells her, and the community calls the</text>
+<text x="24" y="126.4" font-family="DejaVu Sans" font-size="9.6" fill="#334155" text-anchor="start" font-weight="normal">family cursed.</text>
+<rect x="12" y="139.4" width="446" height="48.2" rx="6" fill="#FFFFFF" stroke="#008751" stroke-width="1.1"/>
+<text x="24" y="154.4" font-family="DejaVu Sans" font-size="10.6" fill="#008751" text-anchor="start" font-weight="bold">THE INVESTIGATION</text>
+<text x="24" y="167.0" font-family="DejaVu Sans" font-size="9.6" fill="#334155" text-anchor="start" font-weight="normal">MUTE and Sylv Po use the radio, the mortuary report and a left-hand print to reach the</text>
+<text x="24" y="179.6" font-family="DejaVu Sans" font-size="9.6" fill="#334155" text-anchor="start" font-weight="normal">truth.</text>
+<rect x="12" y="192.60000000000002" width="446" height="48.2" rx="6" fill="#FFFFFF" stroke="#008751" stroke-width="1.1"/>
+<text x="24" y="207.60000000000002" font-family="DejaVu Sans" font-size="10.6" fill="#008751" text-anchor="start" font-weight="bold">THE SURVIVOR</text>
+<text x="24" y="220.20000000000002" font-family="DejaVu Sans" font-size="9.6" fill="#334155" text-anchor="start" font-weight="normal">Fofo is rehabilitated and trained; her sister's story becomes the reason she has a</text>
+<text x="24" y="232.8" font-family="DejaVu Sans" font-size="9.6" fill="#334155" text-anchor="start" font-weight="normal">future.</text>
 </svg>

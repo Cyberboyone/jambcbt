@@ -1,11 +1,10 @@
 #import "template.typ": *
 
 
-#current-chapter.update("Chapter 2: The Bank — Drills")
+#current-chapter.update("Chapter 2: Harvest of Corruption — Drills")
 
 #block(
   width: 100%,
-  breakable: false,
   fill: jamb-navy,
   stroke: 1.5pt + jamb-bright,
   radius: 10pt,
@@ -16,7 +15,7 @@
   #text(font: "DejaVu Sans", size: 17pt, weight: "bold", fill: white)[Chapter 2 Practice Set]
   #v(3pt)
   #text(font: "DejaVu Sans", size: 9.8pt, fill: rgb("#CBD5E1"))[
-    30 exam-standard questions on the bank: building your own. Attempt every question before
+    40 exam-standard questions on Harvest of Corruption. Attempt every question before
     turning to the key, then read the solution for every question — including the ones
     you answered correctly.
   ]
@@ -24,218 +23,288 @@
 
 #v(4pt)
 
-== 2.7 Chapter 2 Practice Drill — 30 Questions
+== 2.8 Chapter 2 Practice Drill — 40 Questions
 
-30 questions graded in the order the CBT engine is likely to meet them. Allow 33 minutes; the key and a full solution for every question follow.
+40 questions graded in the order the CBT engine is likely to meet them. Allow 44 minutes; the key and a full solution for every question follow.
 
-#mcq(1, [A bank row earns its place when it records],
-  [what the unit does and what changes in it],
-  [the act and scene numbers],
-  [the names of the characters present],
-  [the page numbers of each scene]
+#mcq(1, [At the beginning of Harvest of Corruption, Aloho's central problem is],
+  [unemployment after graduation],
+  [a broken marriage],
+  [her brother's illness],
+  [a court case she has lost]
 )
 
-#mcq(2, [The five-word compression of a scene is useful because],
-  [it shortens revision],
-  [a scene you cannot compress is a scene you have not understood],
-  [examiners prefer short answers],
-  [it is easy to memorise]
+#mcq(2, [Aloho is introduced to Chief Ade-Amaka by],
+  [Inspector Inaku],
+  [Ogeyi],
+  [Ochuole],
+  [Madam Hoha]
 )
 
-#mcq(3, [A drama bank is written per scene because],
-  [scenes have more characters],
-  [acts are not numbered],
-  [scenes are shorter than acts],
-  [a scene is the unit a playwright builds and a question anchors to]
+#mcq(3, [Ochuole's position in the ministry is],
+  [Commissioner of Police],
+  [Chief Administrative Officer],
+  [clerical assistant],
+  [Minister of External Relations]
 )
 
-#mcq(4, [A prose bank is written per chapter, with 4a and 4b where],
-  [a chapter moves from a public scene to a private one],
-  [two narrators appear],
-  [the chapter has a title],
-  [the chapter is long]
+#mcq(4, [Chief Haladu Ade-Amaka is the Minister of],
+  [Finance],
+  [Education],
+  [Justice],
+  [External Relations]
 )
 
-#mcq(5, [The column a bank row must not leave empty is],
-  [the quotation],
-  [the unit],
-  [who],
-  [the turn]
+#mcq(5, [The hotel at which Aloho is received is],
+  [the Hotel Hoha],
+  [the Jacassa Palms],
+  [the Akpara Hotel],
+  [the Jabu Continental]
 )
 
-#mcq(6, [The cast grid's most useful column is],
-  [the function — what the text loses without them],
-  [their first appearance],
-  [their relationship to the hero],
-  [the character's age]
+#mcq(6, [The post Aloho is given is],
+  [protocol officer],
+  [private secretary],
+  [accounts clerk],
+  [customs officer]
 )
 
-#mcq(7, [A want in a cast grid should be written as],
-  [a quotation],
-  [an adjective],
-  [a verb phrase naming what the character is trying to get],
-  [a chapter reference]
+#mcq(7, [On her journey abroad, Aloho is used to carry],
+  [cocaine],
+  [a diplomatic pouch],
+  [foreign currency],
+  [government documents]
 )
 
-#mcq(8, [The deletion test asks],
-  [whether the character speaks in the first act],
-  [whether a character could be cut without loss],
-  [how many scenes the character appears in],
-  [what the text can no longer do without the character]
+#mcq(8, [Aloho is arrested by],
+  [Inspector Inaku],
+  [customs officers at the airport],
+  [the police in Jabu],
+  [officers of the ministry]
 )
 
-#mcq(9, [The ten marked passages should include],
-  [the ten longest passages],
-  [one from the opening, one from each turn, one long speech, one quiet scene and the last page],
-  [ten speeches by the protagonist],
-  [the passages the teacher read aloud]
+#mcq(9, [The case against Aloho is struck out],
+  [for want of evidence],
+  [after a full trial],
+  [because she confesses],
+  [on the Minister's appeal]
 )
 
-#mcq(10, [A passage you enjoyed but cannot connect to a theme is],
-  [better than a long speech],
-  [the best choice, because you will remember it],
-  [essential for the last page],
-  [a weak choice, because it cannot carry a question]
+#mcq(10, [The judge who strikes out the case is],
+  [Justice Okpotu],
+  [Justice Odili],
+  [Justice Yakubu],
+  [Justice Ade-Amaka]
 )
 
-#mcq(11, [Reviewing a bank means],
-  [covering the right-hand columns and reciting from the units],
-  [copying it out again],
-  [reading the text alongside it],
-  [reading it from top to bottom]
+#mcq(11, [The officer whose intervention secures the striking out of the case is],
+  [Inspector Inaku],
+  [ACP Yakubu],
+  [Mr Ayo],
+  [the Commissioner of Police]
 )
 
-#mcq(12, [The fifteen-minute review should end with],
-  [rereading only the rows marked as half-known or unknown],
-  [a new bank row],
-  [rereading every row],
-  [a timed essay]
+#mcq(12, [Aloho's friend, who warns her and later reports the matter, is],
+  [Ochuole],
+  [Ogeyi],
+  [Radeke],
+  [Madam Hoha]
 )
 
-#mcq(13, [A row of forty words is a problem because],
-  [it takes too long to write],
-  [it uses too much paper],
-  [it is a paragraph in disguise and cannot be recited],
-  [it is difficult to read]
+#mcq(13, [Aloho's brother is],
+  [Inspector Inaku],
+  [Doctor Okpotu],
+  [Chief Ade-Amaka],
+  [Mr Ayo]
 )
 
-#mcq(14, [A bank built in the last fortnight is],
-  [the only kind that works],
-  [a rereading with extra steps],
-  [the best use of the last fortnight],
-  [more accurate than an early bank]
+#mcq(14, [Ogeyi takes her report to],
+  [the Commissioner of Police],
+  [the Editor of the Chronicle],
+  [the Minister of External Relations],
+  [ACP Yakubu]
 )
 
-#mcq(15, [The pencil column for what a chapter refuses to say answers questions beginning],
-  [“Who is …”],
-  [“Where is …”],
-  [“How does the writer make us feel …”],
-  [“What happens when …”]
+#mcq(15, [The officer who conducts the investigation is],
+  [ACP Yakubu],
+  [Mr Ayo],
+  [Justice Odili],
+  [Inspector Inaku]
 )
 
-#mcq(16, [A bank that records only events is],
-  [a complete preparation],
-  [a summary with headings],
-  [a cast grid],
-  [a quotation bank]
+#mcq(16, [Mr Ayo is significant because he is],
+  [a clerical assistant who supplies the vouchers],
+  [Aloho's lawyer],
+  [the hotel manager],
+  [the Minister's driver]
 )
 
-#mcq(17, [The best moment to write the first row of a bank is],
-  [during the first reading, at the end of the first scene or chapter],
-  [the week before the exam],
-  [after finishing the text],
-  [after the first mock paper]
+#mcq(17, [The sum established through the vouchers is],
+  [120 million naira],
+  [12 million naira],
+  [1.2 billion naira],
+  [12 billion naira]
 )
 
-#mcq(18, [If a row's quotation is uncertain, the correct action is],
-  [invent a plausible line],
-  [leave the row blank],
-  [describe the moment and mark the row for checking],
-  [write it approximately]
+#mcq(18, [Chief Ade-Amaka is sentenced to],
+  [life imprisonment],
+  [ten years],
+  [twenty-five years and a refund],
+  [twenty years]
 )
 
-#mcq(19, [A cast grid is most useful when the wants are],
-  [phrased in your own sentences],
-  [copied from a study guide],
-  [quoted from the text],
-  [written as single adjectives]
+#mcq(19, [Justice Odili is sentenced to],
+  [five years],
+  [twenty-five years],
+  [ten years],
+  [twenty years]
 )
 
-#mcq(20, [Two characters with the same function in a text usually indicate],
-  [that they are related],
-  [that the text needs one of them to fail where the other succeeds],
-  [a mistake by the author],
-  [that the text is a comedy]
+#mcq(20, [The Commissioner of Police receives],
+  [ten years],
+  [five years],
+  [twenty years],
+  [a discharge]
 )
 
-#mcq(21, [The most useful thing to record about a stage direction is],
-  [its position on the page],
-  [what it makes visible that the dialogue does not say],
-  [whether it is in brackets],
-  [the actor it names]
+#mcq(21, [Ochuole is sentenced to],
+  [ten years],
+  [twenty-five years],
+  [five years],
+  [twenty years]
 )
 
-#mcq(22, [A novel's chapter title is worth recording because],
-  [it always names a character],
-  [it is part of the examination],
-  [it is the author's own summary of the chapter's work],
-  [it indicates the setting]
+#mcq(22, [Madam Hoha is sentenced to ten years and],
+  [is released on bail],
+  [is deported],
+  [fined],
+  [has her hotel sealed]
 )
 
-#mcq(23, [A bank with twelve rows for a five-act play is],
-  [useless],
-  [adequate only if the rows cover the turns],
-  [better than a bank of thirty rows],
-  [too detailed]
+#mcq(23, [Mr Ayo's sentence is],
+  [a caution],
+  [five years],
+  [twenty years],
+  [ten years]
 )
 
-#mcq(24, [The bank and the essay plan differ because],
-  [the plan is written first],
-  [the bank is longer],
-  [the bank records the text's design while a plan records your argument],
-  [the bank is only for poetry]
+#mcq(24, [Aloho dies],
+  [in a road accident],
+  [by suicide],
+  [in childbirth],
+  [in prison]
 )
 
-#mcq(25, [If you cannot say what a scene costs, the most likely reason is that],
-  [the scene is unimportant],
-  [you have not identified what changed],
-  [the scene has no quotation],
-  [you have not read it]
+#mcq(25, [Aloho refuses],
+  [to accept bail],
+  [to leave the country],
+  [to name the Minister],
+  [to have an abortion]
 )
 
-#mcq(26, [The cast grid should be organised],
-  [by order of appearance],
-  [by the number of lines],
-  [alphabetically],
-  [by importance to the central want]
+#mcq(26, [The play's title suggests that corruption],
+  [is punished abroad],
+  [eventually produces a harvest of consequences],
+  [is a foreign import],
+  [belongs only to politicians]
 )
 
-#mcq(27, [A chapter row for a novel should record what the chapter withholds because],
-  [it is required in the syllabus],
-  [it is easier than recording events],
-  [withholding produces the effects that questions ask about],
-  [chapters always withhold something]
+#mcq(27, [Aloho's vulnerability is compounded by],
+  [her wealth],
+  [her poverty and her gratitude to her helpers],
+  [her family's political connections],
+  [her lack of education]
 )
 
-#mcq(28, [The bank is finished when],
-  [the text has been read twice],
-  [the quotations are all memorised],
-  [every page has a row],
-  [every turn has a row that can be recited in one breath]
+#mcq(28, [Ogeyi's function in the play is to],
+  [supply the moral perspective and trigger the investigation],
+  [profit from the plot],
+  [replace Aloho as a courier],
+  [defend the Minister]
 )
 
-#mcq(29, [A candidate whose bank has four rows a week before the exam is],
-  [over-prepared],
-  [well prepared, because the bank shrinks as the ticks grow],
-  [badly prepared],
-  [unusual]
+#mcq(29, [The irony of Aloho's appointment is that a protocol officer],
+  [reports to the police],
+  [earns less than a clerk],
+  [is never given a desk],
+  [is used as a courier of contraband]
 )
 
-#mcq(30, [The bank's ultimate purpose is to],
-  [provide quotations for an essay],
-  [make selection possible under exam pressure],
-  [replace reading the text],
-  [shorten the syllabus]
+#mcq(30, [Madam Hoha's role is to],
+  [prosecute the case],
+  [warn Aloho of the danger],
+  [provide the hotel where the arrangement is made],
+  [keep the ministry's accounts]
+)
+
+#mcq(31, [Doctor Okpotu's presence in the play ensures that Aloho's death is],
+  [kept secret],
+  [a matter of public record only],
+  [felt as a family loss],
+  [treated as a crime scene]
+)
+
+#mcq(32, [The treatment of Aloho's case before Justice Odili shows that the law],
+  [is slow but certain],
+  [protects the poor],
+  [is controlled by foreign courts],
+  [can be bought]
+)
+
+#mcq(33, [The play is best described as],
+  [a domestic farce],
+  [a comedy of manners],
+  [a historical tragedy],
+  [a satire on public corruption]
+)
+
+#mcq(34, [Stage directions in Harvest of Corruption are used mainly to],
+  [provide the actors' salaries],
+  [place the action and manage entrances and exits],
+  [summarise the plot],
+  [describe the writer's intentions]
+)
+
+#mcq(35, [Aloho's greatest mistake, in the play's own terms, is],
+  [refusing the job],
+  [leaving her brother's house],
+  [reporting the Minister],
+  [trusting a schoolmate's introduction without asking what it costs]
+)
+
+#mcq(36, [The character who is punished least is],
+  [the hotel owner],
+  [the clerical assistant],
+  [the Minister],
+  [the judge]
+)
+
+#mcq(37, [The play's treatment of Aloho's body is significant because],
+  [it is protected by the court],
+  [it becomes the site where the men's transactions are paid for],
+  [it is the subject of the trial],
+  [it is never described]
+)
+
+#mcq(38, [Which sequence is correct?],
+  [Arrest, appointment, trial, death],
+  [Appointment, arrest, struck-out case, death],
+  [Trial, appointment, arrest, death],
+  [Appointment, trial, arrest, struck-out case]
+)
+
+#mcq(39, [The play finally suggests that corruption is defeated by],
+  [a single honest minister],
+  [an election],
+  [the persistence of an ordinary friend and an investigating officer],
+  [foreign intervention]
+)
+
+#mcq(40, [Aloho's qualification at the start of the play is],
+  [a university degree],
+  [no formal education],
+  [a nursing certificate],
+  [a teaching certificate]
 )
 
 #shortcut-box("Before you turn to the key")[
@@ -246,14 +315,15 @@
 
 #v(6pt)
 
-#current-chapter.update("Chapter 2: The Bank — Drills")
+#current-chapter.update("Chapter 2: Harvest of Corruption — Drills")
 
 === Answer Key and Score Bands
 
 #answer-key-grid((
-  "A", "B", "D", "A", "D", "A", "C", "D", "B", "D",
-  "A", "A", "C", "B", "C", "A", "A", "C", "A", "B",
-  "B", "C", "B", "C", "B", "D", "C", "D", "B", "B",
+  "A", "C", "B", "D", "C", "A", "A", "B", "A", "B",
+  "D", "B", "B", "D", "D", "A", "C", "C", "D", "C",
+  "A", "D", "B", "C", "D", "B", "B", "A", "D", "C",
+  "C", "D", "D", "B", "D", "B", "B", "B", "C", "A",
 ))
 
 #block(width: 100%, fill: jamb-mint, stroke: 0.9pt + jamb-green, radius: 8pt, inset: 11pt)[
@@ -264,9 +334,9 @@
     inset: 4pt,
     align: (left + horizon, left + horizon),
     stroke: none,
-    [*25–30*], [Secure. Move on to the next chapter, then return to this drill in a fortnight.],
-    [*21–24*], [Developing. Every solution names the concept, so reread the chapter section that the missed questions share.],
-    [*0–20*], [Revise before re-testing. Reread the chapter, then redo this drill from the beginning.],
+    [*34–40*], [Secure. Move on to the next chapter, then return to this drill in a fortnight.],
+    [*28–33*], [Developing. Every solution names the concept, so reread the chapter section that the missed questions share.],
+    [*0–27*], [Revise before re-testing. Reread the chapter, then redo this drill from the beginning.],
   )
 ]
 
@@ -276,125 +346,165 @@
 
   #block(breakable: false)[
   === Complete Solutions
-  #sol-item(1, "A", dense: true, pad: 0.0pt)[
-    Function and change are the two things a set-text question asks about; page numbers and cast lists are available in the text itself.
+  #sol-item(1, "A", dense: true, pad: 14.22pt)[
+    She has finished her studies and cannot find work, which is the door through which the play's corruption enters.
   ]
 
-  #sol-item(2, "B", dense: true, pad: 0.0pt)[
-    The compression is a test of understanding rather than a technique for saving space.
+  #sol-item(2, "C", dense: true, pad: 14.22pt)[
+    Ochuole is the recruiter, and the introduction is the play's first transaction.
   ]
   ]
 
-  #sol-item(3, "D", dense: true, pad: 0.0pt)[
-    The unit of the bank should match the unit of the question, and set-text stems anchor to scenes rather than to whole acts.
+  #sol-item(3, "B", dense: true, pad: 14.22pt)[
+    Her office is the instrument of the recruitment, which is why she is sentenced with the rest.
   ]
 
-  #sol-item(4, "A", dense: true, pad: 0.0pt)[
-    When a chapter changes register or space, it is doing two jobs and needs two rows.
+  #sol-item(4, "D", dense: true, pad: 14.22pt)[
+    The ministry matters because it controls travel and postings abroad, which is how Aloho is moved.
   ]
 
-  #sol-item(5, "D", dense: true, pad: 0.0pt)[
-    Without the turn the row is an event, and an event cannot answer a function or effect question.
+  #sol-item(5, "C", dense: true, pad: 14.22pt)[
+    The Akpara is owned by Madam Hoha, and it is the venue of the play's central transaction.
   ]
 
-  #sol-item(6, "A", dense: true, pad: 0.0pt)[
-    The function is the one column that produces an argument rather than a fact.
+  #sol-item(6, "A", dense: true, pad: 14.22pt)[
+    The title is a cover: it gives her the appearance of official travel while making her a courier.
   ]
 
-  #sol-item(7, "C", dense: true, pad: 0.0pt)[
-    Adjectives cannot be evidenced; a want can be traced through the text.
+  #sol-item(7, "A", dense: true, pad: 14.22pt)[
+    She does not know what she is carrying, which is why her arrest is the play's turning point.
   ]
 
-  #sol-item(8, "D", dense: true, pad: 0.0pt)[
-    The test is about the text's capability, not about the character's page count.
+  #sol-item(8, "B", dense: true, pad: 14.22pt)[
+    The arrest happens on arrival, and it converts her from beneficiary to accused.
   ]
 
-  #sol-item(9, "B", dense: true, pad: 0.0pt)[
-    Range is the point: each slot answers a different family of questions.
+  #sol-item(9, "A", dense: true, pad: 14.22pt)[
+    The phrase is the play's bitterest irony: the evidence has been removed, not found wanting.
   ]
 
-  #sol-item(10, "D", dense: true, pad: 0.0pt)[
-    Enjoyment is not a criterion; the slot must earn its place by the questions it can answer.
+  #sol-item(10, "B", dense: true, pad: 14.22pt)[
+    Odili is later sentenced, which is the play's answer to the struck-out case.
   ]
 
-  #sol-item(11, "A", dense: true, pad: 0.0pt)[
-    The left-hand column is the prompt and the right-hand columns are the answers, so review is a covering exercise.
+  #sol-item(11, "D", dense: true, pad: 14.22pt)[
+    The Commissioner is compromised, and his sentence at the end is the play's judgment on the police.
   ]
 
-  #sol-item(12, "A", dense: true, pad: 0.0pt)[
-    The ticks are already known; time spent on them is time not spent on the gaps.
+  #sol-item(12, "B", dense: true, pad: 14.22pt)[
+    Ogeyi is the voice of reason in the first half and the witness in the second.
   ]
 
-  #sol-item(13, "C", dense: true, pad: 0.0pt)[
-    The bank is a retrieval structure; a row that cannot be recited cannot be retrieved.
+  #sol-item(13, "B", dense: true, pad: 14.22pt)[
+    Okpotu is a doctor, and his presence makes Aloho's decline a family matter rather than a statistic.
   ]
 
-  #sol-item(14, "B", dense: true, pad: 0.0pt)[
-    The bank is built during the first reading, and its value is that it makes later reading cheap.
+  #sol-item(14, "D", dense: true, pad: 14.22pt)[
+    Yakubu receives the complaint and sets the investigation in motion.
   ]
 
-  #sol-item(15, "C", dense: true, pad: 0.0pt)[
-    Withholding is how prose produces suspense and sympathy, so the column answers the effect questions.
+  #sol-item(15, "D", dense: true, pad: 14.22pt)[
+    Inaku is the investigating officer, and his work produces the evidence the earlier case lacked.
   ]
 
-  #sol-item(16, "A", dense: true, pad: 0.0pt)[
-    Without function and change, the four columns have collapsed into one.
+  #sol-item(16, "A", dense: true, pad: 14.22pt)[
+    His vouchers document the movement of public money, which is what makes the case provable.
   ]
 
-  #sol-item(17, "A", dense: true, pad: 0.0pt)[
-    Rows written while the unit is fresh cost a fraction of the time and are far more accurate.
+  #sol-item(17, "C", dense: true, pad: 14.22pt)[
+    The figure is what turns the play's general talk of corruption into a specific charge.
   ]
 
-  #sol-item(18, "C", dense: true, pad: 0.0pt)[
-    An approximate quotation is worse than a described moment, and the mark reminds you to check it.
+  #sol-item(18, "C", dense: true, pad: 14.22pt)[
+    He is the principal beneficiary, and his sentence is the longest in the play.
   ]
 
-  #sol-item(19, "A", dense: true, pad: 0.0pt)[
-    A want you have phrased is a want you can argue about, which is what the exam requires.
+  #sol-item(19, "D", dense: true, pad: 14.22pt)[
+    Twice the sentence given to Ochuole, which registers the play's view of a judge who sells a case.
   ]
 
-  #sol-item(20, "B", dense: true, pad: 0.0pt)[
-    Repeated functions are almost always distributed: one version succeeds, one fails, and the pairing argues.
+  #sol-item(20, "C", dense: true, pad: 14.22pt)[
+    The Commissioner and the judge are sentenced alike, which is the point: the law and its guardians were both bought.
   ]
 
-  #sol-item(21, "B", dense: true, pad: 0.0pt)[
-    Stage directions carry information the characters cannot speak, which makes them evidence of a special kind.
+  #sol-item(21, "A", dense: true, pad: 14.22pt)[
+    Her ten years and Madam Hoha's ten years pair the recruiter with the woman who provided the venue.
   ]
 
-  #sol-item(22, "C", dense: true, pad: 0.0pt)[
-    A title is the author's compression of the unit, which is exactly what the bank's first column needs.
+  #sol-item(22, "D", dense: true, pad: 14.22pt)[
+    The sealing of the hotel is a sentence on the place as well as the person.
   ]
 
-  #sol-item(23, "B", dense: true, pad: 0.0pt)[
-    Coverage of the turns matters more than coverage of every scene; twelve well-chosen rows can carry a play.
+  #sol-item(23, "B", dense: true, pad: 14.22pt)[
+    The smallest sentence in the play goes to the man who kept the records.
   ]
 
-  #sol-item(24, "C", dense: true, pad: 0.0pt)[
-    One is retrieval of the text; the other is the shape of an answer about it.
+  #sol-item(24, "C", dense: true, pad: 14.22pt)[
+    She refuses an abortion, carries the child, and dies giving birth, which is the play's final image of cost.
   ]
 
-  #sol-item(25, "B", dense: true, pad: 0.0pt)[
-    Cost follows change: find the change and the cost becomes visible.
+  #sol-item(25, "D", dense: true, pad: 14.22pt)[
+    The refusal is her one act of autonomy after the arrest, and the play treats it as heroic.
   ]
 
-  #sol-item(26, "D", dense: true, pad: 0.0pt)[
-    Ordering by the central want makes the functions visible and shows which characters carry the argument.
+  #sol-item(26, "B", dense: true, pad: 14.22pt)[
+    The ending is the harvest: every participant reaps a sentence in proportion to the part played.
   ]
 
-  #sol-item(27, "C", dense: true, pad: 0.0pt)[
-    The withheld information is often the source of suspense, sympathy and surprise — the effects the paper tests.
+  #sol-item(27, "B", dense: true, pad: 14.22pt)[
+    Gratitude stops her asking questions, and poverty makes refusal expensive, which is why the trap works.
   ]
 
-  #sol-item(28, "D", dense: true, pad: 0.0pt)[
-    The test is recitability and coverage of the turns, not completeness of pagination.
+  #sol-item(28, "A", dense: true, pad: 14.22pt)[
+    She is the character who says what the audience is thinking and then acts on it.
   ]
 
-  #sol-item(29, "B", dense: true, pad: 0.0pt)[
-    The shrinking bank is the sign that the review has worked: only the uncertain rows remain.
+  #sol-item(29, "D", dense: true, pad: 14.22pt)[
+    The office that should protect her is the instrument of her use.
   ]
 
-  #sol-item(30, "B", dense: true, pad: 0.0pt)[
-    Selection is the skill the set-text block tests, and the bank is the instrument that makes selection fast.
+  #sol-item(30, "C", dense: true, pad: 14.22pt)[
+    She supplies the place and the privacy, and the sealing of the hotel is the play's judgment on that service.
+  ]
+
+  #sol-item(31, "C", dense: true, pad: 14.22pt)[
+    A brother who is a doctor can do nothing for her, which is the play's point about professional competence without power.
+  ]
+
+  #sol-item(32, "D", dense: true, pad: 14.22pt)[
+    The case is struck out for want of evidence while the evidence exists, which is the definition of a purchased outcome.
+  ]
+
+  #sol-item(33, "D", dense: true, pad: 14.22pt)[
+    It holds up the ministries, the courts and the police for judgment, which is what satire does.
+  ]
+
+  #sol-item(34, "B", dense: true, pad: 14.22pt)[
+    As in any play, the directions carry what dialogue cannot: who is in the room, and where the room is.
+  ]
+
+  #sol-item(35, "D", dense: true, pad: 14.22pt)[
+    The play shows how ordinary social trust is the mechanism through which the network recruits.
+  ]
+
+  #sol-item(36, "B", dense: true, pad: 14.22pt)[
+    Five years goes to the man whose vouchers made the case provable, which is the play's comment on who is expendable.
+  ]
+
+  #sol-item(37, "B", dense: true, pad: 14.22pt)[
+    She is used as a courier, then as a witness, then as a mother, and the cost is borne physically.
+  ]
+
+  #sol-item(38, "B", dense: true, pad: 14.22pt)[
+    The appointment creates the journey, the arrest follows it, the case is struck out, and she dies after her release.
+  ]
+
+  #sol-item(39, "C", dense: true, pad: 14.22pt)[
+    Ogeyi's report and Inaku's work are the only forces in the play that are not for sale.
+  ]
+
+  #sol-item(40, "A", dense: true, pad: 14.22pt)[
+    She is a graduate, and the waste of an educated woman's unemployment is what makes the trap plausible.
   ]
 
 ]

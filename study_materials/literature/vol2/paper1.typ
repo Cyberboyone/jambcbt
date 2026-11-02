@@ -8,7 +8,6 @@
 
 #block(
   width: 100%,
-  breakable: false,
   fill: jamb-navy,
   stroke: 1.5pt + jamb-bright,
   radius: 10pt,
@@ -19,7 +18,7 @@
   #text(font: "DejaVu Sans", size: 20pt, weight: "bold", fill: white)[Full Paper 1]
   #v(4pt)
   #text(font: "DejaVu Sans", size: 10.5pt, fill: rgb("#CBD5E1"))[
-    Forty questions in forty minutes, in the proportions of a real UTME Literature paper: an unseen drama extract, a block on each prescribed drama text, a block on technique, and a block on quotation and judgement.
+    Forty questions in forty minutes, in the proportions of a real UTME Literature paper: a Shakespeare extract, an unseen prose passage, a block on Harvest of Corruption, a block across the three novels, and a block of terms.
   ]
 ]
 
@@ -33,7 +32,7 @@
 
 #v(4pt)
 
-== Section A — Unseen Drama
+== Section A — Shakespeare: Othello, Act 5, Scene 2
 
 #block(
   width: 100%,
@@ -46,316 +45,333 @@
   #text(font: "DejaVu Sans", size: 8.4pt, weight: "bold", fill: jamb-green)[EXTRACT]
   #v(4pt)
   #set text(size: 9.9pt)
-  (A motor park at dawn. A signboard reads GOD'S TIME TRAVELS. MAMA ELIZA sits behind a table with a ledger. EMEKA, twenty, stands.) \
-  #v(7pt)
-  EMEKA: I have come for the refund. \
-  MAMA ELIZA: (without looking up) Which refund? \
-  EMEKA: The one you promised when the bus did not leave. \
-  MAMA ELIZA: (turning a page) The bus left. \
-  EMEKA: I was here. I stood here from four until nine. \
-  MAMA ELIZA: The bus left at five. \
-  EMEKA: Then it left without its passengers. \
-  MAMA ELIZA: (looks up at last) Young man, do you want a refund or a story? \
-  EMEKA: I want the money. \
-  MAMA ELIZA: The money is in the ledger. The ledger says the bus left. \
-  EMEKA: And what does the ledger say about me? \
-  MAMA ELIZA: (closing it) It says you were not here. \
-  (A silence. EMEKA puts his hand on the ledger. She puts hers on top of his.) \
-  EMEKA: Then we shall read it together. \
-  (She does not move. The signboard creaks. Lights down.) \
+  OTHELLO: It is the cause, it is the cause, my soul. \
+  Let me not name it to you, you chaste stars! \
+  It is the cause. Yet I'll not shed her blood, \
+  Nor scar that whiter skin of hers than snow, \
+  And smooth as monumental alabaster. \
+  Yet she must die, else she'll betray more men. \
+  Put out the light, and then put out the light. \
+  If I quench thee, thou flaming minister, \
+  I can again thy former light restore, \
+  Should I repent me; but once put out thy light, \
+  Thou cunning'st pattern of excelling nature, \
+  I know not where is that Promethean heat \
+  That can thy light relume. \
   #v(7pt)
 ]
 
-#mcq(1, [The extract's central conflict is between],
-  [a mother and her son],
-  [two travellers over a seat],
-  [two bus companies],
-  [a customer's claim and a record that denies it]
+#mcq(1, [The cause to which Othello refers is],
+  [Iago's dishonesty],
+  [the war in Cyprus],
+  [his own loss of rank],
+  [Desdemona's supposed infidelity]
 )
 
-#mcq(2, [Mama Eliza's first stage direction, “without looking up”, establishes],
-  [her power over the encounter],
-  [her age],
-  [her kindness],
-  [her nervousness]
+#mcq(2, [The repeated phrase It is the cause shows Othello],
+  [converting a murder into an act of justice],
+  [forgetting Desdemona's name],
+  [losing control of his language],
+  [praying for forgiveness]
 )
 
-#mcq(3, [“Do you want a refund or a story?” is effective because it],
-  [is comic relief],
-  [presents two things as alternatives when the story is what has cost him the refund],
-  [offers Emeka a choice he can win],
-  [reveals her age]
+#mcq(3, [In Put out the light, and then put out the light, the two lights are],
+  [his sword and his honour],
+  [the lamp and Desdemona's life],
+  [the moon and the stars],
+  [the sun and the fire]
 )
 
-#mcq(4, [The ledger in the extract functions as],
-  [a piece of furniture],
-  [a record of fares only],
-  [an instrument that turns memory into official fact],
-  [a symbol of education]
+#mcq(4, [The image of monumental alabaster makes Desdemona seem],
+  [warm and living],
+  [like a soldier's wife],
+  [like a figure carved on a tomb],
+  [like a statue in a market]
 )
 
-#mcq(5, [“Then we shall read it together” is a turning point because],
-  [Emeka stops appealing to her record and claims a share of it],
-  [she agrees to refund him],
-  [the bus arrives],
-  [Emeka threatens her]
+#mcq(5, [Yet she must die, else she'll betray more men presents the killing as],
+  [a public benefit],
+  [an accident],
+  [a religious duty],
+  [a private revenge]
 )
 
-#mcq(6, [The final stage direction, “She does not move”, communicates],
-  [that she has forgotten her line],
-  [that she is tired],
-  [that the scene is over],
-  [that her authority survives the challenge]
+#mcq(6, [The dramatic irony of the speech is that],
+  [Iago is in the room],
+  [Othello knows the truth],
+  [Desdemona is awake],
+  [the audience knows Desdemona is innocent]
 )
 
-#mcq(7, [The creaking signboard is used to],
-  [indicate the weather],
-  [mark the passage of time],
-  [comment on the promise of “God's time” in a place where time is being denied],
-  [introduce a new character]
+#mcq(7, [Desdemona is, during this speech],
+  [praying in the chapel],
+  [talking to Emilia],
+  [asleep in bed],
+  [walking in the garden]
 )
 
-#mcq(8, [The extract is best described as],
-  [a tragedy],
-  [a farce],
-  [a satirical confrontation built on a power imbalance],
-  [a history play]
-)
-
-
-== Section B — *Othello*
-
-#mcq(9, [Othello's account of his courtship wins the Duke over because],
-  [the Duke already supports the marriage],
-  [it is spoken in rhyme],
-  [Brabantio withdraws],
-  [a story is accepted as legal evidence in the Venetian court]
-)
-
-#mcq(10, [Iago's stated grievance against Othello is],
-  [the promotion of Cassio over him, and a suspicion about Emilia],
-  [the elopement],
-  [a public insult],
-  [an unpaid wage]
-)
-
-#mcq(11, [Desdemona's “I saw Othello's visage in his mind” places her love in],
-  [the Venetian state],
-  [his mind and character rather than his appearance],
-  [his reputation],
-  [her father's household]
-)
-
-#mcq(12, [The brawl in Cyprus is important because it],
-  [removes Othello from command],
-  [costs Cassio his rank and gives Iago his opening],
-  [brings Desdemona to Cyprus],
-  [reveals Iago's plot]
-)
-
-#mcq(13, [Othello's demand for “ocular proof” is ironic because],
-  [the proof he is given is a staged misunderstanding],
-  [he refuses to look at anything],
-  [proof is easily available],
-  [Desdemona confesses]
-)
-
-#mcq(14, [Emilia's role in the handkerchief plot shows],
-  [her jealousy of Desdemona],
-  [how a small act of obedience can serve a large design],
-  [her malice],
-  [her ignorance of Iago]
-)
-
-#mcq(15, [Bianca's function is to],
-  [expose Iago],
-  [warn Desdemona],
-  [complete the chain that makes the handkerchief look like Cassio's gift to a mistress],
-  [complain about Cassio]
-)
-
-#mcq(16, [Othello's style in Act 3 is marked by],
-  [prose],
-  [long periodic sentences],
-  [exclamation, repetition and broken syntax],
-  [rhymed couplets]
-)
-
-#mcq(17, [Othello strikes Desdemona in front of Lodovico, which],
-  [is a private quarrel],
-  [ends the play],
-  [wins Lodovico's sympathy for Iago],
-  [turns a domestic suspicion into a public and diplomatic scandal]
-)
-
-#mcq(18, [The play's final arrangement — Cassio governing Cyprus — suggests that],
-  [Othello was a poor general],
-  [Iago has won],
-  [the state rewards virtue],
-  [the machine repairs its instruments while the victims stay dead]
+#mcq(8, [The tone of the extract is best described as],
+  [comic and relaxed],
+  [angry and uncontrolled],
+  [tender and terrible at the same time],
+  [cold and businesslike]
 )
 
 
-== Section C — *Harvest of Corruption*
+== Section B — Unseen Prose
 
-#mcq(19, [Aloho's profession at the Ministry is],
-  [permanent secretary],
-  [clerk],
-  [driver],
-  [protocol officer]
+#block(
+  width: 100%,
+  fill: rgb("#F8FAFC"),
+  stroke: 0.9pt + jamb-border,
+  radius: 8pt,
+  inset: (x: 12pt, y: 10pt),
+)[
+  #set par(leading: 0.62em, spacing: 0.72em)
+  #text(font: "DejaVu Sans", size: 8.4pt, weight: "bold", fill: jamb-green)[PASSAGE]
+  #v(3pt)
+  #text(size: 9.6pt)[
+    The bus filled at Ilasa, and by the time it reached the bridge it was carrying three more passengers than it had seats. Chidi stood in the aisle with his bag between his feet, and every time the conductor called out a stop the bag moved a little further from him, as though the bus were quietly taking it. \
+    #v(4pt)
+    He had paid for a seat. A woman with a baby had taken it, and he had stood up before he had decided to. That was how most of his decisions were made: the body first, the argument afterwards. \
+    #v(4pt)
+    At Ore a man in a brown shirt got on and stood so close that Chidi could smell the palm oil on his fingers. The man asked where he was going, and Chidi told him. The man said he had a brother in the same town, that they should travel together, and he said it in the voice of a person who had already decided the matter. \
+    #v(4pt)
+    Chidi said yes. He heard himself say it, and he knew, in the same moment, that he would spend the rest of the journey working out how to leave.
+  ]
+]
+
+#mcq(9, [The passage is narrated in],
+  [the third person by an omniscient narrator who knows everyone],
+  [the first person by Chidi],
+  [the second person],
+  [the third person, limited to Chidi's mind]
 )
 
-#mcq(20, [The package Aloho carries contains],
-  [hard drugs],
-  [money],
-  [documents],
-  [jewellery]
+#mcq(10, [The bag moving further from him is described as though],
+  [the bus were quietly taking it],
+  [the bag is alive],
+  [the woman had asked for it],
+  [the conductor were stealing it]
 )
 
-#mcq(21, [Madam Hoha's hotel matters because it],
-  [belongs to the police],
-  [gives the network a respectable public face],
-  [is the courthouse],
-  [is where Aloho lives]
+#mcq(11, [Chidi's character is established chiefly by],
+  [his job],
+  [his actions before his thoughts],
+  [his speech],
+  [his clothes]
 )
 
-#mcq(22, [Ochuole's character is best described as],
-  [an innocent bystander],
-  [a recruiter who is also a product of the same system],
-  [a police informant],
-  [a victim who resists]
+#mcq(12, [The sentence the body first, the argument afterwards means that Chidi],
+  [is physically strong],
+  [acts before he reasons, and justifies afterwards],
+  [trusts other people's arguments],
+  [thinks quickly in a crisis]
 )
 
-#mcq(23, [ACP Yakubu is unusual in the play because he],
-  [pursues the case against his superior's instruction],
-  [refuses to arrest anyone],
-  [is bribed and then repents],
-  [is related to the Minister]
+#mcq(13, [The man in the brown shirt speaks in the voice of a person who],
+  [has already decided the matter],
+  [is asking for directions],
+  [is uncertain of his welcome],
+  [is afraid of the journey]
 )
 
-#mcq(24, [Ogeyi's apartment in Pannya functions as],
-  [the courtroom],
-  [the play's one space not for sale],
-  [the Ministry annex],
-  [the scene of the crime]
+#mcq(14, [The phrase palm oil on his fingers suggests],
+  [the man's wealth],
+  [a closeness that Chidi cannot escape],
+  [the man's trade],
+  [the heat of the bus]
 )
 
-#mcq(25, [The play's title is justified by the ending because],
-  [the harvest is a farm scene],
-  [Aloho's child inherits the money],
-  [each offender receives a sentence that matches what was sown],
-  [the Minister repents]
+#mcq(15, [The passage's main theme is],
+  [the hardship of poverty],
+  [the dishonesty of conductors],
+  [the difficulty of refusing a confident stranger],
+  [the danger of travel]
 )
 
-#mcq(26, [Aloho's death is best read as],
-  [an accident with no meaning],
-  [a punishment for crime],
-  [a sacrifice that saves Ogeyi],
-  [the system's final consumption of the person it used]
-)
-
-#mcq(27, [The play's treatment of justice is],
-  [comic],
-  [pessimistic, since nothing changes],
-  [cautiously optimistic, since the network falls but only through an exceptional individual],
-  [indifferent]
-)
-
-#mcq(28, [The most examinable structural feature of the play is],
-  [its unity of place],
-  [the movement from private need to public crime to public sentence],
-  [its verse form],
-  [its use of song]
+#mcq(16, [The last sentence is ironic because Chidi],
+  [is asleep],
+  [has agreed to travel with the man and is already planning to escape],
+  [has refused the man and regrets it],
+  [has missed his bus]
 )
 
 
-== Section D — Dramatic Technique
+== Section C — Harvest of Corruption
 
-#mcq(29, [A speech delivered alone on stage, revealing a character's inward thoughts, is],
-  [an aside],
-  [a chorus],
-  [a monologue addressed to another],
-  [a soliloquy]
+#mcq(17, [Aloho's appointment as protocol officer is significant because the post],
+  [pays a small salary],
+  [requires no qualifications],
+  [is in the Ministry of Justice],
+  [gives her the travel and access the plot needs]
 )
 
-#mcq(30, [A remark spoken to the audience while other characters are present and cannot hear it is],
+#mcq(18, [The person who first warns Aloho about Ochuole is],
+  [Inspector Inaku],
+  [Doctor Okpotu],
+  [Madam Hoha],
+  [Ogeyi]
+)
+
+#mcq(19, [The case against Aloho is struck out because],
+  [she agrees to testify],
+  [the drugs were not hers],
+  [the customs officers withdraw],
+  [the Minister has bought the court and the police]
+)
+
+#mcq(20, [Aloho's reaction to her discharge is to],
+  [resign, because the acquittal frightens her more than the arrest],
+  [leave the country again],
+  [celebrate with Ochuole],
+  [marry the Minister]
+)
+
+#mcq(21, [The vouchers that make the case provable are supplied by],
+  [Justice Odili],
+  [Mr Ayo],
+  [Madam Hoha],
+  [ACP Yakubu]
+)
+
+#mcq(22, [Which sentence is correct?],
+  [Both receive twenty years],
+  [Chief receives twenty-five years and Ochuole ten],
+  [Chief is acquitted and Ochuole is convicted],
+  [Chief receives ten years and Ochuole twenty-five]
+)
+
+#mcq(23, [Madam Hoha's punishment includes],
+  [the sealing of her hotel],
+  [a life sentence],
+  [a fine only],
+  [deportation]
+)
+
+#mcq(24, [The play ends in a courtroom because],
+  [the Minister confesses],
+  [the play's subject is public accountability, not private grief],
+  [Aloho's death needs a witness],
+  [the audience enjoys trials]
+)
+
+
+== Section D — The Three Novels
+
+#mcq(25, [In Faceless, the dead girl is first classified as],
+  [a missing student],
+  [a trader's daughter],
+  [a kayayoo],
+  [a hospital patient]
+)
+
+#mcq(26, [Fofo's disguise as a boy is best understood as],
+  [a punishment from her mother],
+  [a game],
+  [a way of getting to school],
+  [a survival strategy on the street]
+)
+
+#mcq(27, [In Faceless, Kabria works for],
+  [MUTE],
+  [the police],
+  [a radio station],
+  [a hospital]
+)
+
+#mcq(28, [In Lonely Days, the cap-picking ceremony requires the widow to],
+  [lick the libation],
+  [shave her head],
+  [confess her sins],
+  [choose a new husband]
+)
+
+#mcq(29, [Lanwa's claim to Yaremi rests on],
+  [his wealth],
+  [a debt],
+  [the elders' vote],
+  [his kinship with her dead husband]
+)
+
+#mcq(30, [In Lonely Days, Yaremi's trade is important because it],
+  [keeps her son at home],
+  [makes her the richest woman in Kufi],
+  [gives her the means to refuse a suitor],
+  [brings her a new husband]
+)
+
+#mcq(31, [In Native Son, Bigger's first human victim is killed],
+  [by Jan Erlone],
+  [in a car accident],
+  [accidentally, while he tries to silence her],
+  [deliberately, with a brick]
+)
+
+#mcq(32, [In Native Son, Bessie Mears is killed because],
+  [Mary's mother orders it],
+  [she attacks him first],
+  [she knows too much and might be a danger to him],
+  [she betrays Bigger to the police]
+)
+
+#mcq(33, [The lawyer who defends Bigger is],
+  [Jan],
+  [Britten],
+  [Buckley],
+  [Max]
+)
+
+#mcq(34, [At the end of Native Son, Bigger],
+  [is acquitted],
+  [is sentenced to death],
+  [escapes to the North],
+  [is pardoned]
+)
+
+
+== Section E — Technique and Terminology
+
+#mcq(35, [A soliloquy is],
+  [a speech in which a character alone on stage reveals his thoughts],
   [a stage direction],
-  [a soliloquy],
-  [an aside],
-  [a prologue]
+  [a song in a play],
+  [a speech to another character]
 )
 
-#mcq(31, [Dramatic irony occurs when],
-  [two characters argue],
-  [the play ends sadly],
-  [the audience knows something a character does not],
-  [a character says something funny]
+#mcq(36, [Dramatic irony occurs when],
+  [the play ends unhappily],
+  [a character says the opposite of what he means],
+  [the audience knows something the characters do not],
+  [two characters speak at once]
 )
 
-#mcq(32, [Comic relief in a tragedy serves to],
-  [replace the subplot],
-  [please the crowd only],
-  [release tension and sharpen the surrounding seriousness by contrast],
-  [prolong the play]
+#mcq(37, [A foil is],
+  [the final speech of a play],
+  [a comic scene inserted into a tragedy],
+  [a character whose qualities set off another's by contrast],
+  [a repeated image]
 )
 
-#mcq(33, [The audience's purging of pity and fear at the end of a tragedy is called],
-  [peripeteia],
-  [catharsis],
-  [hubris],
-  [denouement]
+#mcq(38, [The turning point of a plot is],
+  [the moment at which the action can no longer be reversed],
+  [the exposition],
+  [the epilogue],
+  [the resolution]
 )
 
-#mcq(34, [The reversal of a protagonist's fortune is],
-  [catharsis],
-  [exposition],
-  [peripeteia],
-  [denouement]
+#mcq(39, [Catharsis, in tragedy, refers to],
+  [the opening speech],
+  [the punishment of the villain],
+  [the hero's recognition scene],
+  [the purging of pity and fear in the audience]
 )
 
-#mcq(35, [A stage direction is best described as],
-  [the playwright's control of what is seen and heard beyond dialogue],
-  [a printer's error],
-  [an actor's improvisation],
-  [an instruction to the reader]
-)
-
-
-== Section E — Quotation and Judgement
-
-#mcq(36, [Which comment on *Othello* would a mark scheme reward most?],
-  [The play is about jealousy.],
-  [Iago is a very wicked man.],
-  [Iago's method converts a loving husband into an interrogator by supplying interpretations before facts.],
-  [Othello is a Moor.]
-)
-
-#mcq(37, [Which sentence best embeds a quotation?],
-  [The play says reputation, reputation, reputation.],
-  [Cassio's cry of “reputation, reputation, reputation” measures how much of himself is other people's opinion.],
-  [“Reputation, reputation, reputation!” is a quotation from the play.],
-  [Cassio says: “O, I have lost my reputation!”]
-)
-
-#mcq(38, [A judgement answer to “Othello's suicide is an act of justice” must include],
-  [the strongest objection to the claim],
-  [a summary of the last scene],
-  [the number of the act],
-  [a biography of Shakespeare]
-)
-
-#mcq(39, [The best evidence that Aloho is a victim rather than a criminal is],
-  [that Ogeyi likes her],
-  [her age],
-  [that she is a graduate],
-  [that she does not know what the package contains]
-)
-
-#mcq(40, [Which pairing states a claim rather than a difference?],
-  [Cassio is Florentine and Othello is a Moor.],
-  [Both men lose their reputations, but only Cassio is offered a way to recover his.],
-  [Othello is older than Cassio.],
-  [Othello is a general and Cassio is a lieutenant.]
+#mcq(40, [Free indirect style is best described as],
+  [a poem in prose],
+  [narration that takes on a character's thoughts without quotation marks],
+  [a play within a play],
+  [direct quotation of a character's speech]
 )
 
 
@@ -365,9 +381,9 @@
 
 #answer-key-grid((
   "D", "A", "B", "C", "A", "D", "C", "C", "D", "A",
-  "B", "B", "A", "B", "C", "C", "D", "D", "D", "A",
-  "B", "B", "A", "B", "C", "D", "C", "B", "D", "C",
-  "C", "C", "B", "C", "A", "C", "B", "A", "D", "B",
+  "B", "B", "A", "B", "C", "B", "D", "D", "D", "A",
+  "B", "B", "A", "B", "C", "D", "A", "D", "D", "C",
+  "C", "C", "D", "B", "A", "C", "C", "A", "D", "B",
 ))
 
 #block(width: 100%, fill: jamb-mint, stroke: 0.9pt + jamb-green, radius: 8pt, inset: 11pt)[
@@ -396,164 +412,164 @@
   Every solution names the chapter that teaches the skill the question tests.
 
   #sol-item(1, "D", dense: true, pad: 0.0pt)[
-    The whole scene is a dispute about whether the ledger or the witness is the authority.
+    The repetition steadies him for a killing he has decided to call a sacrifice.
   ]
   ]
 
   #sol-item(2, "A", dense: true, pad: 0.0pt)[
-    Refusing eye contact is a claim of authority: the customer must wait on her attention.
+    He needs a cause because without one the killing is only a husband's violence.
   ]
 
   #sol-item(3, "B", dense: true, pad: 0.0pt)[
-    The question dresses up an evasion as a service, which is how the scene's power works.
+    The pun is the play's clearest statement that he knows the difference between what can be relit and what cannot.
   ]
 
   #sol-item(4, "C", dense: true, pad: 0.0pt)[
-    Whoever writes in the ledger decides what happened, and the scene is about that power.
+    The image is beautiful and funereal at once, which is the play's habit in this speech.
   ]
 
   #sol-item(5, "A", dense: true, pad: 0.0pt)[
-    The line moves the conflict from petition to contest: he is no longer asking her to read, but to read with him.
+    He argues from consequences rather than from injury, which is the rhetoric of a man justifying himself.
   ]
 
   #sol-item(6, "D", dense: true, pad: 0.0pt)[
-    The stillness is the answer to his challenge, and it is given visually rather than in dialogue.
+    The theatre has seen the handkerchief planted, so every word of the speech works against the speaker.
   ]
 
   #sol-item(7, "C", dense: true, pad: 0.0pt)[
-    The sign's promise is ironised by the action, and the creak makes the irony audible.
+    The stillness of the listener makes the speech a soliloquy in effect, though another person is present.
   ]
 
   #sol-item(8, "C", dense: true, pad: 0.0pt)[
-    It is a short confrontation with a satirical edge, and nobody dies, which rules out tragedy.
+    The beauty of the language and the horror of the intention are held together, and that is the tragedy.
   ]
 
   #sol-item(9, "D", dense: true, pad: 0.0pt)[
-    The play's first lesson in evidence is that eloquence counts, which makes the later refusal to hear Desdemona sharper.
+    We are told what Chidi thinks and feels, and nothing that he cannot know.
   ]
 
   #sol-item(10, "A", dense: true, pad: 0.0pt)[
-    He gives two reasons, and the play never confirms either, which is why motive-hunting is a weak strategy.
+    The mild personification makes the journey feel like a small loss that Chidi cannot prevent.
   ]
 
   #sol-item(11, "B", dense: true, pad: 0.0pt)[
-    The line answers Brabantio's charge of witchcraft with an account of inward affinity.
+    He stands up before deciding, which is the passage's account of him in one gesture.
   ]
 
   #sol-item(12, "B", dense: true, pad: 0.0pt)[
-    Cassio's demotion is the opportunity Iago uses, and it sets up the reputation theme.
+    It is the passage's diagnosis of his politeness, and it prepares the ending.
   ]
 
   #sol-item(13, "A", dense: true, pad: 0.0pt)[
-    The scene supplies exactly what he asks for, and it is manufactured.
+    The detail tells us that the man takes agreement for granted, before Chidi gives it.
   ]
 
   #sol-item(14, "B", dense: true, pad: 0.0pt)[
-    She takes the handkerchief to please her husband, and the tragedy runs through that ordinary motive.
+    It is a smell rather than a message, and it makes the intrusion physical.
   ]
 
   #sol-item(15, "C", dense: true, pad: 0.0pt)[
-    Without Bianca the handkerchief remains a lost token; with her it becomes evidence.
+    Every detail serves the same subject: how a polite person is recruited into an arrangement he does not want.
   ]
 
-  #sol-item(16, "C", dense: true, pad: 0.0pt)[
-    The collapse of the public style is the play's most visible evidence of the change in him.
+  #sol-item(16, "B", dense: true, pad: 0.0pt)[
+    The yes and the escape plan occupy the same moment, which is the passage's quiet joke at his expense.
   ]
 
   #sol-item(17, "D", dense: true, pad: 0.0pt)[
-    Lodovico's presence makes the gesture a report that will travel to Venice.
+    The title is a cover for the journey, which is why the appointment is the trap's hinge.
   ]
 
   #sol-item(18, "D", dense: true, pad: 0.0pt)[
-    The administration continues and the dead are not part of the repair.
+    Ogeyi's warning is the play's early statement of the truth, and Aloho's disregard of it is the plot.
   ]
 
   #sol-item(19, "D", dense: true, pad: 0.0pt)[
-    The title is the cover under which she is used as a courier.
+    The acquittal is the play's indictment: the evidence exists and the case disappears.
   ]
 
   #sol-item(20, "A", dense: true, pad: 0.0pt)[
-    The drugs are what she is arrested for, and she does not know they are there.
+    The acquittal teaches her what the system is, and her resignation is the first consequence of that knowledge.
   ]
 
   #sol-item(21, "B", dense: true, pad: 0.0pt)[
-    The hotel converts criminal meetings into hospitality, which is how the play stages corruption.
+    Ayo is the clerical assistant whose records survive the destruction of everything else.
   ]
 
   #sol-item(22, "B", dense: true, pad: 0.0pt)[
-    She lures Aloho in and is herself sentenced at the end, which makes her both agent and product.
+    The sentences are graded, and the ranking of the six is a favourite question.
   ]
 
   #sol-item(23, "A", dense: true, pad: 0.0pt)[
-    His incorruptibility is the play's one institutional hope.
+    The place is sentenced with the person, which is the play's view of the venue.
   ]
 
   #sol-item(24, "B", dense: true, pad: 0.0pt)[
-    Her small flat is the counter-space to the hotel and the Ministry.
+    The ending is the harvest: the death is mourned earlier, and the system is judged at the end.
   ]
 
   #sol-item(25, "C", dense: true, pad: 0.0pt)[
-    The final movement distributes penalties, and the title names the logic of that distribution.
+    The classification is the novel's subject: a category replaces a name.
   ]
 
   #sol-item(26, "D", dense: true, pad: 0.0pt)[
-    She is used, protected, discarded and finally destroyed by the consequences of the use.
+    It shows what the street does to a female child, and it is removed only when she is taken in.
   ]
 
-  #sol-item(27, "C", dense: true, pad: 0.0pt)[
-    The convictions arrive, and the play is careful to show that they depended on one uncorrupted officer.
+  #sol-item(27, "A", dense: true, pad: 0.0pt)[
+    MUTE is the NGO whose limits the novel is honest about.
   ]
 
-  #sol-item(28, "B", dense: true, pad: 0.0pt)[
-    The play's shape is a widening circle, from one graduate's job hunt to a courtroom.
+  #sol-item(28, "D", dense: true, pad: 0.0pt)[
+    The other rites are separate; the cap is the remarriage, and Yaremi refuses it.
   ]
 
   #sol-item(29, "D", dense: true, pad: 0.0pt)[
-    The soliloquy is unheard by other characters; an aside is a short remark not meant for the company on stage.
+    As Ajumobi's half-brother he argues that the widow is part of the estate.
   ]
 
   #sol-item(30, "C", dense: true, pad: 0.0pt)[
-    The aside is brief and depends on the convention that the others do not hear.
+    A woman who earns can refuse; the novel is careful to show the work.
   ]
 
   #sol-item(31, "C", dense: true, pad: 0.0pt)[
-    The gap in knowledge between audience and character is the mechanism, and *Othello* is built on it.
+    Mary's death is the accident, and the novel's argument depends on the distinction.
   ]
 
   #sol-item(32, "C", dense: true, pad: 0.0pt)[
-    The release is structural: it makes the return to seriousness more effective.
+    The second killing is deliberate, which is why it is the novel's moral centre.
   ]
 
-  #sol-item(33, "B", dense: true, pad: 0.0pt)[
-    Catharsis names the emotional purgation; peripeteia is the reversal of fortune and hubris the fatal pride.
+  #sol-item(33, "D", dense: true, pad: 0.0pt)[
+    Max explains him; Buckley prosecutes; Britten investigates.
   ]
 
-  #sol-item(34, "C", dense: true, pad: 0.0pt)[
-    Peripeteia is the turn; the denouement is the unknotting that follows.
+  #sol-item(34, "B", dense: true, pad: 0.0pt)[
+    The trial ends in execution, and the last scene is the cell.
   ]
 
   #sol-item(35, "A", dense: true, pad: 0.0pt)[
-    Stage directions are part of the text's meaning, not stage machinery to be skipped.
+    Iago's soliloquies are the audience's only reliable account of his intentions.
   ]
 
   #sol-item(36, "C", dense: true, pad: 0.0pt)[
-    The second names a mechanism and a consequence, and it can be evidenced in three scenes.
+    Othello calling Iago honest is the standard example.
   ]
 
-  #sol-item(37, "B", dense: true, pad: 0.0pt)[
-    The quotation is inside the candidate's sentence and is followed by the effect it produces.
+  #sol-item(37, "C", dense: true, pad: 0.0pt)[
+    Emilia's loyalty sets off Desdemona's obedience, and Max sets off Buckley.
   ]
 
   #sol-item(38, "A", dense: true, pad: 0.0pt)[
-    “How far” requires the case against, or the verdict is unsupported.
+    In Othello it is the temptation scene; in Harvest it is the appointment.
   ]
 
   #sol-item(39, "D", dense: true, pad: 0.0pt)[
-    Her ignorance of the contents is what makes her a courier rather than a trafficker.
+    The term is Aristotle's, and it describes an effect on the audience rather than on the characters.
   ]
 
   #sol-item(40, "B", dense: true, pad: 0.0pt)[
-    The sentence has a shared ground (both lose reputations) and a difference that argues (one recovery is possible).
+    Wright uses it so that Bigger's fear becomes the reader's atmosphere.
   ]
 
 ]

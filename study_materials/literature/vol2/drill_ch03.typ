@@ -1,11 +1,10 @@
 #import "template.typ": *
 
 
-#current-chapter.update("Chapter 3: Character — Drills")
+#current-chapter.update("Chapter 3: Othello — Drills")
 
 #block(
   width: 100%,
-  breakable: false,
   fill: jamb-navy,
   stroke: 1.5pt + jamb-bright,
   radius: 10pt,
@@ -16,7 +15,7 @@
   #text(font: "DejaVu Sans", size: 17pt, weight: "bold", fill: white)[Chapter 3 Practice Set]
   #v(3pt)
   #text(font: "DejaVu Sans", size: 9.8pt, fill: rgb("#CBD5E1"))[
-    30 exam-standard questions on character: maps, functions, contrasts. Attempt every question before
+    40 exam-standard questions on Othello. Attempt every question before
     turning to the key, then read the solution for every question — including the ones
     you answered correctly.
   ]
@@ -24,218 +23,288 @@
 
 #v(4pt)
 
-== 3.7 Chapter 3 Practice Drill — 30 Questions
+== 3.8 Chapter 3 Practice Drill — 40 Questions
 
-30 questions graded in the order the CBT engine is likely to meet them. Allow 33 minutes; the key and a full solution for every question follow.
+40 questions graded in the order the CBT engine is likely to meet them. Allow 44 minutes; the key and a full solution for every question follow.
 
-#mcq(1, [The five-question map asks about want, obstacle, action, silence and],
-  [the character's age],
-  [what the text loses without the character],
-  [appearance],
-  [the actor's choices]
+#mcq(1, [Othello opens in],
+  [Rhodes],
+  [Venice],
+  [Cyprus],
+  [Florence]
 )
 
-#mcq(2, [A want is best written as],
-  [a verb phrase about this scene],
-  [a quotation],
-  [a summary of the plot],
-  [an adjective]
+#mcq(2, [The play's first scene takes place outside the house of],
+  [Gratiano],
+  [Lodovico],
+  [Montano],
+  [Brabantio]
 )
 
-#mcq(3, [“Desdemona is innocent” is a weak answer because],
-  [it is a label that cannot be traced to a specific choice],
-  [it is untrue],
-  [it is too long],
-  [it misnames the character]
+#mcq(3, [Iago's immediate grievance against Othello is that],
+  [Roderigo has been made lieutenant],
+  [Othello has dismissed him],
+  [Cassio has been promoted over him],
+  [Othello has insulted him in public]
 )
 
-#mcq(4, [The obstacle question earns marks because it],
-  [is easy to answer],
-  [requires a quotation],
-  [names the villain],
-  [identifies the pressure that makes the want visible]
+#mcq(4, [Iago's second motive, hinted at several times, is his suspicion that],
+  [Othello has slept with Emilia],
+  [Roderigo has betrayed him],
+  [Desdemona has mocked him],
+  [Cassio has taken his pay]
 )
 
-#mcq(5, [The action question asks],
-  [who the character knows],
-  [what the character does about the obstacle],
-  [how the character looks],
-  [what the character says]
+#mcq(5, [The phrase an old black ram is tupping your white ewe is spoken by],
+  [Roderigo],
+  [Iago],
+  [Brabantio],
+  [the Duke]
 )
 
-#mcq(6, [The silence question asks],
-  [how long the pauses are],
-  [what the character cannot say, and why],
-  [which characters are absent],
-  [who says nothing in the scene]
+#mcq(6, [Brabantio accuses Othello of],
+  [stealing his money],
+  [forging a marriage contract],
+  [winning Desdemona by witchcraft],
+  [deserting the army]
 )
 
-#mcq(7, [A character's function is],
-  [their job in the plot],
-  [their social role],
-  [their relationship to the hero],
-  [what the text can no longer do without them]
+#mcq(7, [Othello wins Desdemona by],
+  [telling the story of his life],
+  [his rank],
+  [his wealth],
+  [his father's agreement]
 )
 
-#mcq(8, [The six functions listed in this book include protagonist, antagonist, foil, confidant, witness and],
-  [villain],
-  [narrator],
-  [hero],
-  [chorus]
+#mcq(8, [The Duke sends Othello to Cyprus because],
+  [Venice needs a governor],
+  [the Turks have taken the island],
+  [the Senate fears an invasion],
+  [the island's governor has died]
 )
 
-#mcq(9, [A foil is a character who],
-  [opposes the hero],
-  [runs parallel to the hero so that the difference becomes visible],
-  [narrates the story],
-  [dies early]
+#mcq(9, [The Turkish fleet is destroyed by],
+  [Iago's trick],
+  [a storm],
+  [Cassio's squadron],
+  [Othello's ships]
 )
 
-#mcq(10, [Cassio functions as a foil to Othello because],
-  [he loses his reputation and asks to have it restored, while Othello cannot],
-  [he is younger],
-  [he is a better soldier],
-  [he is Venetian]
+#mcq(10, [Cassio loses his rank in Act 2 because],
+  [he deserts his post],
+  [he gambles away his pay],
+  [he brawls while drunk],
+  [he insults Desdemona]
 )
 
-#mcq(11, [Emilia's double function is],
-  [antagonist and chorus],
-  [foil and chorus],
-  [confidante and witness],
-  [protagonist and narrator]
+#mcq(11, [Iago's advice to the ruined Cassio is to],
+  [leave Cyprus],
+  [ask Desdemona to plead for him],
+  [challenge Roderigo],
+  [confess to Othello]
 )
 
-#mcq(12, [A contrast pair earns marks when the answer states],
-  [how the characters differ],
-  [who is more likeable],
-  [what the pairing claims],
-  [which one appears first]
+#mcq(12, [Cassio laments that he has lost],
+  [his place in the line],
+  [Desdemona],
+  [his honour and his reputation],
+  [his rank only]
 )
 
-#mcq(13, [“Othello and Cassio are opposites” fails because],
-  [opposition is the least interesting thing about a pair],
-  [Cassio is not in the play],
-  [it uses a character's name],
-  [it is inaccurate]
+#mcq(13, [Iago replies to Cassio's lament by saying that reputation is],
+  [the gift of heaven],
+  [a true measure of a man],
+  [an often unfounded invention that people manage],
+  [the general's business]
 )
 
-#mcq(14, [Bigger and Jan are paired in *Native Son* in order to show],
-  [that both are young],
-  [that Jan is guilty too],
-  [that Jan is kinder],
-  [who can speak his guilt and be heard]
+#mcq(14, [The temptation scene is],
+  [Act 5, scene 2],
+  [Act 2, scene 1],
+  [Act 4, scene 1],
+  [Act 3, scene 3]
 )
 
-#mcq(15, [An arc requires three points: the initial want, the forced choice and],
-  [the final speech],
-  [the author's intention],
-  [the cost accepted],
-  [the setting]
+#mcq(15, [Iago's first hint to Othello in the temptation scene is],
+  [a report from Montano],
+  [a letter from Venice],
+  [I like not that, as Cassio takes his leave],
+  [a direct accusation]
 )
 
-#mcq(16, [A character who changes their mind has],
-  [completed an arc],
-  [become the protagonist],
-  [not necessarily changed at all],
-  [become a foil]
+#mcq(16, [The green-eyed monster passage is spoken by],
+  [Iago],
+  [Desdemona],
+  [Emilia],
+  [Othello]
 )
 
-#mcq(17, [“Developed” is a false friend because],
-  [markers dislike the word],
-  [it means the character grows older],
-  [it applies only to prose],
-  [it is often used for a character who merely changes opinion]
+#mcq(17, [The handkerchief originally belonged to],
+  [Bianca],
+  [Emilia's mother],
+  [Desdemona's mother],
+  [Othello's mother]
 )
 
-#mcq(18, [“How is X presented?” most nearly asks about],
-  [the character's history],
-  [the method that makes us see them a certain way],
-  [the author's biography],
-  [the actor's performance]
+#mcq(18, [The story attached to the handkerchief is that],
+  [it was stolen from a Turkish queen],
+  [it keeps a woman faithful and a man's love constant],
+  [it was woven in Cyprus],
+  [a man who loses it betrays his wife]
 )
 
-#mcq(19, [In a character answer, the second part of the four-part frame should name],
-  [a technique or structural choice],
-  [an adjective],
-  [a quotation],
-  [a scene number]
+#mcq(19, [The handkerchief reaches Cassio by way of],
+  [Desdemona, who leaves it in his room],
+  [Roderigo, who steals it],
+  [Bianca, who passes it on],
+  [Emilia, who finds it and gives it to Iago]
 )
 
-#mcq(20, [A minor character is worth preparing because],
-  [they speak in prose],
-  [they appear in every act],
-  [they are easy to remember],
-  [questions are often set on figures the candidate has ignored]
+#mcq(20, [The handkerchief ends up in the hands of],
+  [Emilia],
+  [Bianca],
+  [Roderigo],
+  [Montano]
 )
 
-#mcq(21, [The best evidence of a character's change is],
-  [a longer appearance],
-  [a new costume],
-  [a speech saying they have changed],
-  [a different choice under the same pressure]
+#mcq(21, [Othello's fit in Act 4 marks],
+  [his decision to kill],
+  [the collapse of his language under Iago's pressure],
+  [the death of his love],
+  [his first suspicion]
 )
 
-#mcq(22, [A character who performs two functions at once is],
-  [a chorus],
-  [badly written],
-  [usually the most examinable figure in the text],
-  [always the protagonist]
+#mcq(22, [In the eavesdropping scene, Othello watches Cassio],
+  [laugh about Bianca],
+  [meet the Duke],
+  [talk about Desdemona],
+  [fight with Montano]
 )
 
-#mcq(23, [The question “What is the function of Bianca?” is asking],
-  [what the play can no longer do without her],
-  [what Bianca wants],
-  [who Bianca loves],
-  [where Bianca lives]
+#mcq(23, [Othello strikes Desdemona in public],
+  [in Act 5],
+  [in Act 3],
+  [in Act 2],
+  [in Act 4]
 )
 
-#mcq(24, [The sentence “She is a strong woman” fails as an answer because],
-  [it is false],
-  [it is too short],
-  [it names a woman],
-  [it is a label with no method and no evidence]
+#mcq(24, [Lodovico's comment on the blow is that],
+  [it is the business of the general],
+  [it would not be believed in Venice],
+  [Desdemona must apologize],
+  [Othello is right to correct her]
 )
 
-#mcq(25, [In *Lonely Days*, Yaremi's refusal of the three caps reveals],
-  [her conservatism],
-  [her fear of men],
-  [her dependence on her son],
-  [a claim about ownership of her own name and house]
+#mcq(25, [Emilia's opinion of the Moor's treatment of Desdemona is expressed in],
+  [the willow scene],
+  [her rebuke of Othello after the murder],
+  [her report to Iago in Act 3],
+  [her silence]
 )
 
-#mcq(26, [The most useful order for mapping a character is],
-  [want, obstacle, action, silence, function],
-  [appearance, age, family, friends],
-  [scene one to the last scene],
-  [alphabetical by other characters]
+#mcq(26, [The willow scene is between],
+  [Desdemona and Lodovico],
+  [Desdemona and Iago],
+  [Desdemona and Bianca],
+  [Desdemona and Emilia]
 )
 
-#mcq(27, [A character's silence is evidence when],
-  [they are a minor character],
-  [the scene is short],
-  [the text makes the silence visible and consequential],
-  [they have no lines]
+#mcq(27, [The song in the willow scene is significant because it is about],
+  [a mother's grief],
+  [a storm at sea],
+  [a woman abandoned by her lover],
+  [a soldier's death]
 )
 
-#mcq(28, [Two characters who want the same thing usually],
-  [cancel each other out],
-  [reveal what the text thinks of that want by distributing success and failure],
-  [are twins],
-  [are both foils]
+#mcq(28, [Emilia's speech on husbands argues that],
+  [wives must obey absolutely],
+  [jealousy is a naturally female vice],
+  [husbands are incapable of love],
+  [wives have senses like their husbands and are provoked to the same faults]
 )
 
-#mcq(29, [An answer about character that never mentions a technique],
-  [needs more quotation],
-  [is complete],
-  [has answered the plot rather than the presentation],
-  [is preferred]
+#mcq(29, [Desdemona's last words are],
+  [a denial of having killed herself],
+  [an accusation of Othello],
+  [a curse on Iago],
+  [a prayer for Cassio]
 )
 
-#mcq(30, [The best character notes are organised by],
-  [alphabet, for quick lookup],
-  [scene, with every name listed],
-  [character, with a want and a function each],
-  [the order in which characters die]
+#mcq(30, [Emilia reveals Iago's guilt by],
+  [confessing that she gave the handkerchief to Iago],
+  [refusing to speak],
+  [naming her husband under torture],
+  [producing a letter]
+)
+
+#mcq(31, [Iago's response when his guilt is exposed is],
+  [to escape to Venice],
+  [to beg mercy],
+  [to say that he will never speak word],
+  [to accuse Desdemona]
+)
+
+#mcq(32, [Othello's final speech asks those who report his death to],
+  [reveal Iago's plot],
+  [protect Desdemona's name],
+  [describe him as one who loved not wisely but too well],
+  [blame Brabantio]
+)
+
+#mcq(33, [At the end of the play, Cyprus is governed by],
+  [Cassio],
+  [Montano],
+  [Lodovico],
+  [Iago]
+)
+
+#mcq(34, [Brabantio's death is reported as having been caused by],
+  [grief],
+  [a duel],
+  [poison],
+  [the Turkish war]
+)
+
+#mcq(35, [The play's principal theme is],
+  [jealousy and the destruction it makes possible],
+  [the natural inferiority of soldiers],
+  [the value of tradition],
+  [the necessity of war]
+)
+
+#mcq(36, [The animal imagery in the play is used mainly to],
+  [comic effect],
+  [describe the Turkish army],
+  [reduce love and race to bestial terms],
+  [make the verse sound rural]
+)
+
+#mcq(37, [Dramatic irony in the play means that],
+  [the play has two endings],
+  [the characters know more than the audience],
+  [the actors speak to the audience],
+  [the audience knows what Othello does not]
+)
+
+#mcq(38, [The soliloquy is used in Othello chiefly to],
+  [summarise the battle news],
+  [delay the action],
+  [provide comic relief],
+  [let the audience hear the plotting that other characters cannot]
+)
+
+#mcq(39, [Othello is best called a tragedy of],
+  [accident],
+  [character and circumstance together],
+  [inheritance],
+  [politics alone]
+)
+
+#mcq(40, [The play's treatment of race is carried chiefly by],
+  [the war in Cyprus],
+  [the Duke's speech],
+  [Emilia's songs],
+  [the imagery used of Othello and Brabantio's disgust]
 )
 
 #shortcut-box("Before you turn to the key")[
@@ -246,14 +315,15 @@
 
 #v(6pt)
 
-#current-chapter.update("Chapter 3: Character — Drills")
+#current-chapter.update("Chapter 3: Othello — Drills")
 
 === Answer Key and Score Bands
 
 #answer-key-grid((
-  "B", "A", "A", "D", "B", "B", "D", "D", "B", "A",
-  "C", "C", "A", "D", "C", "C", "D", "B", "A", "D",
-  "D", "C", "A", "D", "D", "A", "C", "B", "C", "B",
+  "B", "D", "C", "A", "B", "C", "A", "C", "B", "C",
+  "B", "C", "C", "D", "C", "A", "D", "B", "D", "B",
+  "B", "A", "D", "B", "B", "D", "C", "D", "A", "A",
+  "C", "C", "A", "A", "A", "C", "D", "D", "B", "D",
 ))
 
 #block(width: 100%, fill: jamb-mint, stroke: 0.9pt + jamb-green, radius: 8pt, inset: 11pt)[
@@ -264,9 +334,9 @@
     inset: 4pt,
     align: (left + horizon, left + horizon),
     stroke: none,
-    [*25–30*], [Secure. Move on to the next chapter, then return to this drill in a fortnight.],
-    [*21–24*], [Developing. Every solution names the concept, so reread the chapter section that the missed questions share.],
-    [*0–20*], [Revise before re-testing. Reread the chapter, then redo this drill from the beginning.],
+    [*34–40*], [Secure. Move on to the next chapter, then return to this drill in a fortnight.],
+    [*28–33*], [Developing. Every solution names the concept, so reread the chapter section that the missed questions share.],
+    [*0–27*], [Revise before re-testing. Reread the chapter, then redo this drill from the beginning.],
   )
 ]
 
@@ -277,124 +347,164 @@
   #block(breakable: false)[
   === Complete Solutions
   #sol-item(1, "B", dense: true, pad: 0.0pt)[
-    The fifth question produces the function, which is the most useful sentence the map can give you.
+    The first act is Venice; the rest of the play is Cyprus, and the move is part of Iago's opportunity.
   ]
 
-  #sol-item(2, "A", dense: true, pad: 0.0pt)[
-    Adjectives describe; verb phrases name a pursuit that can be evidenced.
+  #sol-item(2, "D", dense: true, pad: 0.0pt)[
+    Iago and Roderigo wake Brabantio with the news of Desdemona's elopement, which begins the play in accusation.
   ]
   ]
 
-  #sol-item(3, "A", dense: true, pad: 0.0pt)[
-    Innocence in the abstract cannot be evidenced; what she does, and what is done to her, can.
+  #sol-item(3, "C", dense: true, pad: 0.0pt)[
+    He says the appointment went to a bookish theorist who has never commanded men in the field.
   ]
 
-  #sol-item(4, "D", dense: true, pad: 0.0pt)[
-    A want without an obstacle is a wish; the obstacle is what turns it into a plot and an argument.
+  #sol-item(4, "A", dense: true, pad: 0.0pt)[
+    The suspicion is never proved, which is part of Iago's character: motive is a story he tells himself.
   ]
 
   #sol-item(5, "B", dense: true, pad: 0.0pt)[
-    Action is where character becomes evidence, because it is chosen rather than announced.
+    Iago's imagery does the work of planting racial disgust in a father's mind before any question of character is raised.
   ]
 
-  #sol-item(6, "B", dense: true, pad: 0.0pt)[
-    The unsaid is a designed absence, and it is where the text's pressure is most visible.
+  #sol-item(6, "C", dense: true, pad: 0.0pt)[
+    Othello answers the charge with his account of their courtship, which is the play's other portrait of him.
   ]
 
-  #sol-item(7, "D", dense: true, pad: 0.0pt)[
-    Function is measured by the text's capability, which is why the deletion test works.
+  #sol-item(7, "A", dense: true, pad: 0.0pt)[
+    She wishes heaven had made her such a man, and the tale is the courtship; the play later turns speech against him.
   ]
 
-  #sol-item(8, "D", dense: true, pad: 0.0pt)[
-    Chorus is the sixth: the figure or body that speaks the world's judgement or frames the action.
+  #sol-item(8, "C", dense: true, pad: 0.0pt)[
+    The war is the excuse to move the household to a small island where Iago can control the room.
   ]
 
   #sol-item(9, "B", dense: true, pad: 0.0pt)[
-    The foil need not be hostile; the point is the near-parallel that makes the hero legible.
+    The storm removes the external plot, so that the play's war becomes internal.
   ]
 
-  #sol-item(10, "A", dense: true, pad: 0.0pt)[
-    The near-parallel and the difference — one reputation is recoverable, the other is not — is what makes the pairing argue.
+  #sol-item(10, "C", dense: true, pad: 0.0pt)[
+    Iago gets him drunk and sets Roderigo on him, and Othello dismisses him for the disturbance.
   ]
 
-  #sol-item(11, "C", dense: true, pad: 0.0pt)[
-    She receives Desdemona's speech and then reports the truth in public, at the cost of her life.
+  #sol-item(11, "B", dense: true, pad: 0.0pt)[
+    The advice is the trap: Desdemona's advocacy becomes Iago's first evidence of an affair.
   ]
 
   #sol-item(12, "C", dense: true, pad: 0.0pt)[
-    The pairing is an argument the text makes; describing the difference is only the first step.
+    He says he has lost the immortal part of himself and what remains is bestial.
   ]
 
-  #sol-item(13, "A", dense: true, pad: 0.0pt)[
-    What the pairing claims is the mark-earning sentence; opposition alone explains nothing.
+  #sol-item(13, "C", dense: true, pad: 0.0pt)[
+    The line is often read as the play's own view of honour, and it is spoken by a man who wants Cassio to stop caring.
   ]
 
   #sol-item(14, "D", dense: true, pad: 0.0pt)[
-    The structural difference is speech and hearing, and it predicts the trial and the ending.
+    It is the middle of the play, and it is where Iago first plants the idea and then feeds it with the handkerchief.
   ]
 
   #sol-item(15, "C", dense: true, pad: 0.0pt)[
-    The cost is what makes the change measurable rather than merely asserted.
+    The aside makes Othello ask the question Iago needs him to ask, which is the method of the whole act.
   ]
 
-  #sol-item(16, "C", dense: true, pad: 0.0pt)[
-    Change is measured by what the character will now risk, not by what they now think.
+  #sol-item(16, "A", dense: true, pad: 0.0pt)[
+    Iago warns Othello about jealousy while carefully describing it well enough to produce it.
   ]
 
   #sol-item(17, "D", dense: true, pad: 0.0pt)[
-    The word implies moral growth, while the text may show only a change of tactic.
+    An Egyptian charmer gave it to Othello's mother, and she gave it to Othello, who gave it to Desdemona.
   ]
 
   #sol-item(18, "B", dense: true, pad: 0.0pt)[
-    Presentation is technique: staging, speech, company, sequence, and the narrator's choices.
+    The magic is what gives a piece of cloth the power of proof in Othello's mind.
   ]
 
-  #sol-item(19, "A", dense: true, pad: 0.0pt)[
-    The frame is unit, presentation, evidence, effect — and presentation is the method, not a quality.
+  #sol-item(19, "D", dense: true, pad: 0.0pt)[
+    Emilia gives it to Iago without knowing what he will do with it, which is why her confession matters later.
   ]
 
-  #sol-item(20, "D", dense: true, pad: 0.0pt)[
-    Bianca, Emilia, Bessie and Fofo are exactly the figures that separate prepared candidates from readers.
+  #sol-item(20, "B", dense: true, pad: 0.0pt)[
+    Cassio gives it to Bianca to copy, and that is how Othello's eyes are finally made to confirm Iago's story.
   ]
 
-  #sol-item(21, "D", dense: true, pad: 0.0pt)[
-    Repetition of the pressure with a different response is the cleanest proof of change.
+  #sol-item(21, "B", dense: true, pad: 0.0pt)[
+    The man who wooed with a tale stops speaking in sentences, and the collapse is the play's image of jealousy as an illness.
   ]
 
-  #sol-item(22, "C", dense: true, pad: 0.0pt)[
-    Double functions create the density that questions are designed to reward.
+  #sol-item(22, "A", dense: true, pad: 0.0pt)[
+    The joke about the handkerchief is taken as proof of the affair, though Cassio is speaking of a courtesan.
   ]
 
-  #sol-item(23, "A", dense: true, pad: 0.0pt)[
-    Function questions ask about the text's capability, not the character's biography.
+  #sol-item(23, "D", dense: true, pad: 0.0pt)[
+    Lodovico has arrived from Venice, and the blow is the moment the audience's estimate of Othello collapses.
   ]
 
-  #sol-item(24, "D", dense: true, pad: 0.0pt)[
-    Labels cannot be quoted; the answer needs a choice, a moment and an effect.
+  #sol-item(24, "B", dense: true, pad: 0.0pt)[
+    Venice's view is the measure of how far Othello has moved, and Lodovico is the messenger of that view.
   ]
 
-  #sol-item(25, "D", dense: true, pad: 0.0pt)[
-    The refusal is an assertion of ownership against a procedure that reassigns her.
+  #sol-item(25, "B", dense: true, pad: 0.0pt)[
+    She calls him rash as fire and asks what Desdemona had done, and her answer is that she was too fond of a filthy bargain.
   ]
 
-  #sol-item(26, "A", dense: true, pad: 0.0pt)[
-    The five questions build towards the function, which is the sentence worth carrying into the exam.
+  #sol-item(26, "D", dense: true, pad: 0.0pt)[
+    It is the play's quietest scene, and it is the last conversation between the two women before the murder.
   ]
 
   #sol-item(27, "C", dense: true, pad: 0.0pt)[
-    Silence must be marked by the text to be evidence; an absent character is not automatically significant.
+    The song is the play's lyric double, and Desdemona sings it while preparing to be killed.
   ]
 
-  #sol-item(28, "B", dense: true, pad: 0.0pt)[
-    The distribution of success and failure is the text's judgement on the shared want.
+  #sol-item(28, "D", dense: true, pad: 0.0pt)[
+    It is the play's most direct statement of marital justice, and it makes her later confession dangerous.
   ]
 
-  #sol-item(29, "C", dense: true, pad: 0.0pt)[
-    Without method, the answer describes a person instead of analysing a text.
+  #sol-item(29, "A", dense: true, pad: 0.0pt)[
+    She answers Emilia's question by saying that she did it herself, which is her final act of loyalty.
   ]
 
-  #sol-item(30, "B", dense: true, pad: 0.0pt)[
-    Organising by character makes the map reusable; scene lists become summaries.
+  #sol-item(30, "A", dense: true, pad: 0.0pt)[
+    Her confession is the play's release of the truth, and it costs her her life.
+  ]
+
+  #sol-item(31, "C", dense: true, pad: 0.0pt)[
+    His silence is what makes him the play's coldest figure: the explanation is withheld to the end.
+  ]
+
+  #sol-item(32, "C", dense: true, pad: 0.0pt)[
+    The speech is a self-portrait, and the exam asks whether it is honest or a last piece of theatre.
+  ]
+
+  #sol-item(33, "A", dense: true, pad: 0.0pt)[
+    The play's final order restores a man whom Iago destroyed in the play's first act of malice.
+  ]
+
+  #sol-item(34, "A", dense: true, pad: 0.0pt)[
+    Gratiano says the match was mortal to him, which closes the play's account of the father who was refused.
+  ]
+
+  #sol-item(35, "A", dense: true, pad: 0.0pt)[
+    The theme arrives as an emotion, a technique and a system: Iago works jealousy, Othello suffers it, and the state is wrecked by it.
+  ]
+
+  #sol-item(36, "C", dense: true, pad: 0.0pt)[
+    The ram and ewe, the goats and monkeys, and the beast with two backs all work on the same nerve.
+  ]
+
+  #sol-item(37, "D", dense: true, pad: 0.0pt)[
+    When Othello calls Iago honest, the theatre knows the truth, and the gap is the play's engine.
+  ]
+
+  #sol-item(38, "D", dense: true, pad: 0.0pt)[
+    Iago's soliloquies are the play's only reliable account of his intentions, which is why they are examined.
+  ]
+
+  #sol-item(39, "B", dense: true, pad: 0.0pt)[
+    A jealous temper, a manipulative ensign and a small island: the play asks which of the three is to blame.
+  ]
+
+  #sol-item(40, "D", dense: true, pad: 0.0pt)[
+    The black ram, the thick lips and the father's horror do the work before Othello speaks a line.
   ]
 
 ]

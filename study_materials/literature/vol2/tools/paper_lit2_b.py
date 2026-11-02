@@ -1,272 +1,261 @@
-"""Paper 2 — prose. Forty questions, section by section."""
+"""Paper 2 — forty questions, section by section."""
 
-PROSE = """The station clock had stopped at 4:15 some years earlier, and the town had agreed to keep the time it gave. Trains arrived when they arrived; people said “just before the stopped clock” and meant an hour they could not name.
 
-Ifeoma sold bread on the platform. She was eleven, or twelve, and she had learned to read the timetable without being able to read, because the shape of a train's arrival was in the shoulders of the men who waited for it. When their shoulders came up, she stood. When they fell, she sold nothing and went home.
+def q(stem, a, b, c, d, k, sol):
+    return (stem, [a, b, c, d], k, sol)
 
-The woman who bought from her every Thursday never asked her name. She asked for two loaves, paid with a note, and waited for change that Ifeoma counted twice because the first count was for the woman and the second was for herself. This was the arrangement, and it had held for two years, which is a long time for an arrangement that has never been described aloud.
 
-The evening the station closed, the woman came anyway. There was no train. She bought two loaves, and this time she asked Ifeoma what she would do now. Ifeoma said she would wait, and the woman looked at the stopped clock and did not correct her."""
+OTHELLO = """DESDEMONA: My mother had a maid called Barbary.
+She was in love, and he she loved proved mad
+And did forsake her. She had a song of willow,
+An old thing 'twas, but it expressed her fortune,
+And she died singing it. That song tonight
+Will not go from my mind.
 
-SECTION_A = [
-    (
-        "The stopped clock is important because it",
-        ["dates the story precisely", "shows a community that has accepted an inaccurate authority", "proves the station is old", "belongs to Ifeoma"],
-        1,
-        "The town has agreed to live by a time that no longer works, which is the passage's quiet political observation.",
-    ),
-    (
-        "The narrative voice is",
-        ["first person, Ifeoma's", "third person, with access to observation and judgement", "second person", "a letter writer"],
-        1,
-        "The narrator reports and comments — “which is a long time” — without entering any character's mind directly.",
-    ),
-    (
-        "“She had learned to read the timetable without being able to read” is an example of",
-        ["a paradox resolved by the next clause, which names a different kind of reading", "hyperbole", "a simile", "a pun"],
-        0,
-        "The clause resolves the apparent contradiction: she reads bodies rather than letters.",
-    ),
-    (
-        "The men's shoulders are used to",
-        ["show the weather", "make the arrival of trains legible through a bodily signal", "indicate class", "mark the passage of years"],
-        1,
-        "The detail turns an abstract timetable into something Ifeoma can interpret, which characterises her intelligence.",
-    ),
-    (
-        "The woman's failure to ask Ifeoma's name suggests",
-        ["hostility", "a transaction that has been allowed to replace a relationship", "that she is a stranger", "that Ifeoma has no name"],
-        1,
-        "The passage calls it “the arrangement”, and the phrase's coldness is the point.",
-    ),
-    (
-        "The final sentence — “the woman looked at the stopped clock and did not correct her” — is effective because",
-        ["it explains the story's meaning", "it lets the woman's silence carry both kindness and complicity", "it introduces a new character", "it resolves the plot"],
-        1,
-        "The refusal to correct is at once merciful and evasive, and the passage does not decide for us.",
-    ),
-    (
-        "The passage's method is chiefly",
-        ["direct statement of theme", "selection of detail that implies a judgement", "extended dialogue", "stream of consciousness"],
-        1,
-        "We are given loaves, notes, shoulders and a clock, and the judgement is left to emerge from the arrangement.",
-    ),
-    (
-        "The best title for the passage would be",
-        ["“The Railway Children”", "“Just Before the Stopped Clock”", "“Bread and Notes”", "“Ifeoma's School”"],
-        1,
-        "The phrase is the community's own way of telling time, and it names the passage's central irony.",
-    ),
-]
+EMILIA: Shall I go fetch your night-gown?
 
-SECTION_B = [
-    (
-        "Bigger's killing of Mary is best described as",
-        ["premeditated murder", "a panic-stricken act while trying to keep her quiet", "an accident in the car", "a political assassination"],
-        1,
-        "He smothers her in the bedroom while trying to prevent discovery, which is why the novel's moral accounting is complicated.",
-    ),
-    (
-        "The ransom note matters because it",
-        ["proves Bigger's guilt", "invents a kidnapping that the public is ready to believe", "is written by Jan", "is found by Bessie"],
-        1,
-        "The note manufactures a story, and the novel is interested in who gets to write one.",
-    ),
-    (
-        "Bessie's death differs from Mary's because",
-        ["it is accidental", "it is deliberate, and Bigger knows what he is doing", "it happens offstage", "it is never discovered"],
-        1,
-        "The difference is the novel's refusal to let sociology excuse everything.",
-    ),
-    (
-        "The furnace is a powerful image because it",
-        ["is mentioned once", "is the household's system for consuming what it cannot acknowledge", "belongs to Bigger's family", "represents warmth"],
-        1,
-        "The house's heating becomes the house's method of disposal, which is the novel's structural irony.",
-    ),
-    (
-        "Free indirect discourse in the novel allows Wright to",
-        ["report only facts", "give Bigger's experience and an external judgement at once", "avoid describing violence", "write in the first person"],
-        1,
-        "The technique is the reason the novel can be both sympathetic and condemning without a moralising narrator.",
-    ),
-    (
-        "The relief agency is significant because it",
-        ["is generous", "is the route by which Bigger reaches the Dalton house", "belongs to Jan", "refuses to help him"],
-        1,
-        "The institution that is supposed to help him is part of the machine that destroys him.",
-    ),
-    (
-        "Max's defence is accurate and ineffective because",
-        ["the jury is not listening", "the court can convict the man without being able to hear the argument", "Max is a poor lawyer", "Bigger refuses to speak"],
-        1,
-        "The novel separates explanation from understanding, and the law has no place for the former.",
-    ),
-    (
-        "The novel's treatment of the press suggests that",
-        ["newspapers report objectively", "public narrative precedes and shapes the trial", "journalists are sympathetic", "the press is irrelevant"],
-        1,
-        "Bigger is described before he is tried, which is the novel's claim about publicity.",
-    ),
-    (
-        "Bigger's recognition at the end is",
-        ["a legal victory", "personal, and won at the cost of his life", "a religious conversion", "a return to his family"],
-        1,
-        "He knows he is alive and he is going to die, and the novel refuses to soften either half.",
-    ),
-    (
-        "The strongest claim about the novel's structure is that",
-        ["it has three parts because the author liked threes", "each book places Bigger in a space built for someone else", "the books correspond to seasons", "the third book is an afterthought"],
-        1,
-        "Kitchenette, street and cell are three scales of the same exclusion.",
-    ),
-]
+DESDEMONA: No, unpin me here.
+This Lodovico is a proper man.
 
-SECTION_C = [
-    (
-        "Fofo's age in the novel is",
-        ["ten", "fourteen", "sixteen", "eighteen"],
-        1,
-        "She is fourteen, and the novel insists on the mixture of child and adult that street life has made of her.",
-    ),
-    (
-        "MUTE is best described as",
-        ["a newspaper", "an NGO that documents social issues", "a school", "a government ministry"],
-        1,
-        "Dina's organisation is the institution through which the investigation becomes possible.",
-    ),
-    (
-        "Kabria's family functions in the novel as",
-        ["comic relief only", "a measuring instrument for what Fofo has lost", "the villains", "a rival NGO"],
-        1,
-        "The household's ordinary safety is the standard against which Fofo's life is measured.",
-    ),
-    (
-        "Kpakpo's role in Baby T's fate is",
-        ["to protect her", "to arrange her sale into prostitution", "to report the crime", "to adopt her"],
-        1,
-        "He arranges it with Madam Abijan and Maami Broni, and Maa Tsuru takes the money.",
-    ),
-    (
-        "Onko's respectability is important because it",
-        ["makes him likeable", "shows how abuse is sheltered by ordinary standing", "proves his innocence", "explains his poverty"],
-        1,
-        "The novel's point is that the abuser is a neighbour with a reputation.",
-    ),
-    (
-        "Poison's power comes from",
-        ["wealth", "control of the only economy that will employ the children", "political office", "family connections"],
-        1,
-        "The street's economy is a market, and Poison owns the market.",
-    ),
-    (
-        "The novel's ending is deliberately modest because",
-        ["the author ran out of time", "one child is saved where a system cannot be", "the police solve the case", "Fofo returns to her mother"],
-        1,
-        "The modesty is the argument: the novel has shown the size of the problem.",
-    ),
-    (
-        "The title's second meaning is",
-        ["the anonymity of the narrator", "the condition of every child with no record and no one obliged to look", "a mask worn by Poison", "the city's weather"],
-        1,
-        "The first meaning is Baby T; the second is the system that produced her.",
-    ),
-    (
-        "The novel's structure is best described as",
-        ["a romance", "an investigation that assembles a life after its death", "a courtroom drama", "a family saga"],
-        1,
-        "The plot is a search, and the search is also the theme.",
-    ),
-]
+EMILIA: A very handsome man.
 
-SECTION_D = [
-    (
-        "Yaremi's husband Ajumobi is",
-        ["a fisherman", "a hunter", "a teacher", "a carpenter"],
-        1,
-        "His hunting is part of what the village remembers and what Yaremi loses.",
-    ),
-    (
-        "The cap-picking ceremony is",
-        ["a harvest festival", "the rite at which a widow chooses a new husband", "a naming ceremony", "a funeral rite"],
-        1,
-        "The three caps represent three suitors, and Yaremi refuses all three.",
-    ),
-    (
-        "Alani's visit is painful because",
-        ["he stays too long", "he brings bread and leaves the same day with promises he does not keep", "he argues with the elders", "he takes Woye away"],
-        1,
-        "The visit makes his absence visible, which is worse than his not coming.",
-    ),
-    (
-        "Uncle Deyo is important because he",
-        ["accuses Yaremi", "represents continuity with her husband's memory", "marries her", "owns the farm"],
-        1,
-        "He repairs her hut and advises Alani, and he is the one elder who behaves as a friend.",
-    ),
-    (
-        "The village's punishment is",
-        ["a fine of goats", "ostracism and the confiscation of property", "a public beating", "a second ceremony"],
-        1,
-        "The sentence turns a refusal into an administrative act, which is the novel's argument about custom.",
-    ),
-    (
-        "The widows Dedewe, Fayoyin and Radeke are important because they",
-        ["gossip about Yaremi", "show her the future that awaits a widow who complies", "help her resist", "belong to another village"],
-        1,
-        "They are the novel's evidence that Yaremi's fate is a pattern rather than an accident.",
-    ),
-    (
-        "Yaremi's refusal to leave Kufi is best read as",
-        ["stubbornness", "an assertion of ownership over her house and her name", "fear of travel", "a religious vow"],
-        1,
-        "She refuses to be moved by a procedure that has already written her out.",
-    ),
-    (
-        "The novel's title refers to",
-        ["the village at night", "the double loneliness of loss and of being spoken about", "Yaremi's farm", "the absence of her children"],
-        1,
-        "Both lonelinesses are present at the end, and the second is the novel's discovery.",
-    ),
-]
+DESDEMONA: He speaks well.
 
-SECTION_E = [
-    (
-        "A comparison of *Lonely Days* and *Faceless* is strongest when it",
-        ["describes both plots in turn", "tests one claim about community pressure on both texts", "ranks the two novels", "names the authors"],
-        1,
-        "A comparison is one claim tested twice and resolved, not two descriptions standing side by side.",
-    ),
-    (
-        "Which sentence about *Native Son* and *Harvest of Corruption* makes a comparative claim?",
-        ["Both are about crime.", "Both show a system producing a criminal, but where the play punishes the system's agents, the novel punishes its product.", "The novel is longer than the play.", "Both were written in the twentieth century."],
-        1,
-        "The sentence has a shared ground and a difference that argues about where blame lands.",
-    ),
-    (
-        "The most reliable evidence in a prose answer is",
-        ["a summary of the chapter", "six to ten exact words embedded in your own sentence", "the narrator's biography", "the number of pages"],
-        1,
-        "Short, exact, embedded quotation is the evidence a mark scheme can reward.",
-    ),
-    (
-        "A question asking how a novelist “makes us sympathise” is answered by",
-        ["saying the character is sympathetic", "naming the technique and the effect it produces", "summarising the plot", "quoting the title"],
-        1,
-        "The stem asks for method, and method plus effect is the answer.",
-    ),
-    (
-        "If a passage's meaning is unclear on a first reading, the best exam strategy is",
-        ["to answer from the options' wording and the passage's tone", "to skip the block", "to guess at random", "to reread for five minutes"],
-        1,
-        "The options often reveal which distinctions matter, and tone is available even when detail is not.",
-    ),
-]
+EMILIA: I know a lady in Venice would have walked barefoot to Palestine for a touch of his nether lip.
+
+DESDEMONA: (singing) The poor soul sat sighing by a sycamore tree,
+Sing all a green willow;
+Her hand on her bosom, her head on her knee,
+Sing willow, willow, willow."""
+
+DRAMA = """(A small shop at the edge of a motor park. A counter, a stool, and a wall of tinned milk. MALLAM SALISU, sixty, sits behind the counter. HALIMA, seventeen, stands with a plastic bag.)
+
+SALISU: Put it on the counter.
+HALIMA: I bought it.
+SALISU: Put it on the counter, and then we will talk about where you bought it.
+HALIMA: (does not move) You have already decided.
+SALISU: I counted the milk twice this morning. There were twelve. There are eleven.
+HALIMA: Then count again.
+SALISU: (quietly) I am not a foolish man, Halima.
+HALIMA: No. You are a tired one.
+(A pause. He looks at the bag, then at her shoes.)
+SALISU: Your mother's shoes.
+HALIMA: She gave them to me.
+SALISU: She gave them to you when she could walk in them.
+(HALIMA puts the bag on the counter. She does not open it.)
+SALISU: Open it.
+HALIMA: No.
+SALISU: (rising) Halima.
+HALIMA: If I open it, you will be right, and then you will have to do something. If I do not open it, we can both be wrong until closing time.
+(He sits down slowly. Somewhere a bus horn sounds.)"""
 
 PAPER_2 = [
-    ("passage", "Section A — Unseen Prose", PROSE, SECTION_A),
-    ("plain", "Section B — *Native Son*", "", SECTION_B),
-    ("plain", "Section C — *Faceless*", "", SECTION_C),
-    ("plain", "Section D — *Lonely Days*", "", SECTION_D),
-    ("plain", "Section E — Comparison and Method", "", SECTION_E),
+    ("script", "Section A — Shakespeare: Othello, Act 4, Scene 3", OTHELLO, [
+        q("Barbary's story is relevant because it is about a woman",
+          "who married a soldier", "who was forsaken by the man she loved",
+          "who left Venice", "who worked for Desdemona's mother", 1,
+          "The parallel is Desdemona's own fear, sung in the third person."),
+
+        q("The willow song is traditionally associated with",
+          "marriage", "forsaken love",
+          "soldiers returning home", "the feast of Christmas", 1,
+          "The refrain gives the scene its title and its omen."),
+
+        q("Desdemona says the song will not go from her mind because",
+          "she has forgotten the words", "it expresses her own fear of being forsaken",
+          "Emilia keeps singing it", "Othello has asked for it", 1,
+          "The song is the play's way of letting her say what she cannot say directly."),
+
+        q("Emilia's remark about the lady who would walk barefoot to Palestine functions as",
+          "a threat", "a moment of ordinary talk before the murder",
+          "an accusation", "a prayer", 1,
+          "The comedy is domestic and trivial, and that is what makes the scene unbearable in retrospect."),
+
+        q("The dramatic irony of the scene lies in the fact that",
+          "Desdemona is preparing for bed while Othello is preparing to kill her",
+          "Emilia knows about the handkerchief", "Lodovico is listening",
+          "Cassio is in the room", 0,
+          "The audience has heard Othello's decision, and the ordinary business of undressing becomes terrible."),
+
+        q("Desdemona's attitude to Othello in this scene is",
+          "fearful and resentful", "loyal and still affectionate",
+          "indifferent", "openly rebellious", 1,
+          "She obeys his instruction to go to bed, and defends him to Emilia in the lines that follow."),
+
+        q("Emilia's role in the scene is to",
+          "accuse Desdemona", "provide the ordinary female world against which the tragedy is measured",
+          "fetch Othello", "sing the song alone", 1,
+          "She is the practical, worldly voice, and her loyalty will cost her her life."),
+    ]),
+
+    ("script", "Section B — Unseen Drama", DRAMA, [
+        q("The conflict in the extract is over",
+          "the price of tinned milk", "whether Halima will open the bag",
+          "who owns the shop", "whether the bus will come", 1,
+          "The bag is the object on which the whole scene turns."),
+
+        q("Salisu's evidence against Halima is",
+          "a witness's statement", "the difference between his morning count and the present count",
+          "a receipt", "her confession", 1,
+          "Twelve became eleven, and the arithmetic is his whole case."),
+
+        q("When Halima says You are a tired one, she is",
+          "insulting his age", "turning the accusation back on him with sympathy",
+          "admitting the theft", "asking for help", 1,
+          "The line disarms him by describing him rather than defending herself."),
+
+        q("The detail of the mother's shoes is significant because it",
+          "shows that Halima is poor", "reminds Salisu of a person he knows and a time when she could walk",
+          "proves that Halima stole them", "explains the price of the milk", 1,
+          "It introduces the family history that the argument is really about."),
+
+        q("The turning point of the extract is",
+          "the bus horn", "Halima putting the bag on the counter without opening it",
+          "Salisu sitting down at the start", "Emilia's entrance", 1,
+          "The gesture concedes the object and refuses the proof, which is the scene's whole strategy."),
+
+        q("Halima's last speech is best described as",
+          "a confession", "a piece of logic that offers both of them a way out",
+          "a threat of violence", "a plea for mercy", 1,
+          "She reframes the choice as one about what Salisu is willing to know."),
+
+        q("The stage directions in the extract do most work in",
+          "describing the weather", "marking the pauses and movements that carry the pressure",
+          "naming the characters", "telling the actors where to stand only", 1,
+          "The pauses, the look at the shoes, and the slow sitting down are the scene's emotional plot."),
+    ]),
+
+    ("plain", "Section C — Othello", "", [
+        q("Iago's plot depends on",
+          "Othello's love of money", "Othello's trust in him and his own ability to seem honest",
+          "Cassio's ambition", "Desdemona's disloyalty", 1,
+          "Everyone in the play calls him honest, and the repetition is the measure of the deception."),
+
+        q("The handkerchief was given to Othello's mother by",
+          "a Venetian senator", "an Egyptian charmer",
+          "a Turkish soldier", "Brabantio", 1,
+          "The charm and its history are what make a piece of cloth into evidence."),
+
+        q("Cassio's rank at the start of the play is",
+          "lieutenant", "ensign", "governor of Cyprus", "general", 0,
+          "The promotion Iago wanted is the play's first grievance and its first cause."),
+
+        q("Emilia's confession matters because it",
+          "saves Desdemona", "reveals that she gave the handkerchief to Iago",
+          "proves Cassio's guilt", "clears Othello", 1,
+          "The truth arrives one scene too late, which is the pattern of the play."),
+
+        q("At the end of the play, Othello's successor in Cyprus is",
+          "Cassio", "Iago", "Lodovico", "Montano", 0,
+          "The man Iago ruined is restored, and the restoration is the play's only justice."),
+
+        q("Brabantio's death is reported as caused by",
+          "a duel", "grief at his daughter's marriage",
+          "poison", "the Turkish war", 1,
+          "The father who was refused dies of the refusal, and the report closes that strand."),
+    ]),
+
+    ("plain", "Section D — Lonely Days and Native Son", "", [
+        q("In Lonely Days, the widow who is made to confess to sins she did not commit is",
+          "Radeke", "Dedewe", "Fayoyin", "Yaremi", 1,
+          "Dedewe's confession shows suspicion converted into ritual."),
+
+        q("Yaremi's refusal at the cap-picking ceremony is powerful because it is",
+          "private", "public", "silent", "reversed", 1,
+          "The elders and suitors are present, so the refusal is a political act."),
+
+        q("The novel's entrance verse is significant because it",
+          "summarises the chapters", "states the theme of widowhood before the story begins",
+          "lists the characters", "names the village", 1,
+          "It is the author's thesis in his own voice, and it frames everything that follows."),
+
+        q("Woye's departure affects Yaremi by",
+          "giving her more money", "removing her daily company",
+          "bringing Alani home", "ending the rites", 1,
+          "The loneliness of the title deepens when the child goes to school."),
+
+        q("In Lonely Days, the elders' threat to Yaremi is to",
+          "take her property and her place in the village", "send her to Ibadan",
+          "try her in a court", "shave her head again", 0,
+          "The threat is the community's final sanction and the reason the ending is brave."),
+
+        q("In Native Son, Bigger's job with the Daltons begins",
+          "through a friend at the pool hall", "through the relief agency",
+          "through a newspaper advertisement", "through Jan Erlone", 1,
+          "The relief office is both the family's support and the route into the house."),
+
+        q("Bigger's killing of Mary is caused by",
+          "a plan to rob the house", "the fear of being discovered in her room",
+          "a quarrel about Jan", "an order from Bessie", 1,
+          "Mrs Dalton's approach at the door turns silence into death."),
+
+        q("The press in Native Son treats Bigger as",
+          "a victim", "a monster and a symbol",
+          "a minor offender", "a hero", 1,
+          "The headlines build a public figure who has little to do with the boy in the cell."),
+
+        q("Max's defence of Bigger argues that the court must consider",
+          "the evidence of the handkerchief", "the conditions that produced the crime",
+          "Bigger's confession", "the wishes of the Dalton family", 1,
+          "The speech is the novel's essay on environment and responsibility."),
+
+        q("Bigger's final claim to Max is that",
+          "he is innocent", "what he killed for, he is",
+          "he wants to see his mother", "he will escape", 1,
+          "The paradox is the novel's last word on identity, and it is not a resolution."),
+    ]),
+
+    ("plain", "Section E — Faceless and Harvest of Corruption", "", [
+        q("In Faceless, the clue that identifies a left-handed attacker is",
+          "a footprint", "a handprint on the right cheek",
+          "a torn shirt", "a telephone record", 1,
+          "A left hand lands on the right cheek, and the detail is the novel's one piece of proof."),
+
+        q("Maami Broni's telephone call to the radio station is significant because it",
+          "confesses the crime", "makes the death a public story and then a public forgetting",
+          "clears Onko", "identifies Fofo", 1,
+          "The novel is as interested in publicity as in justice."),
+
+        q("The novel's ending is best described as",
+          "a complete resolution", "partial rescue with an unresolved remainder",
+          "a comic ending", "a trial scene", 1,
+          "Fofo is taken in, and Odarley is not, and the novel insists on the difference."),
+
+        q("In Harvest of Corruption, Aloho's vulnerability is increased by",
+          "her wealth", "her gratitude to the people who help her",
+          "her family's power", "her refusal to travel", 1,
+          "Gratitude stops her asking questions, which is how the network recruits."),
+
+        q("The play's title refers to",
+          "a farming ceremony", "the consequences that corruption eventually produces",
+          "the Minister's estate", "a court judgement", 1,
+          "The final trial is the harvest, and each sentence is proportionate to the part played."),
+
+        q("Ogeyi and Inspector Inaku matter because they",
+          "profit from the case", "are the only forces in the play that cannot be bought",
+          "defend the Minister", "replace Aloho", 1,
+          "Their persistence is what makes the courtroom ending possible."),
+    ]),
+
+    ("plain", "Section F — Context and Terms", "", [
+        q("A tragic flaw is",
+          "a weakness in the writing", "a quality in the hero that contributes to his downfall",
+          "the villain's plan", "a mistake in the staging", 1,
+          "Othello's capacity for jealousy is the usual example, though the play spreads responsibility further."),
+
+        q("An aside is",
+          "a speech to the audience that other characters do not hear", "a long speech by one character alone",
+          "a scene between two minor characters", "the closing lines of an act", 1,
+          "Iago's asides let the theatre into the plot while the stage remains ignorant."),
+
+        q("Comic relief in a tragedy is",
+          "a joke that ruins the mood", "a lighter scene that heightens the tragic effect by contrast",
+          "the clown's punishment", "a change of genre", 1,
+          "The clown in Othello and the willow-scene talk both work this way."),
+
+        q("Blank verse is",
+          "rhymed couplets", "unrhymed iambic pentameter",
+          "free verse", "prose dialogue", 1,
+          "Othello's formal speech is in blank verse, and his collapse into prose is part of the tragedy."),
+    ]),
 ]

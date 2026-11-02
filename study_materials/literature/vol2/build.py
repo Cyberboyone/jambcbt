@@ -11,29 +11,29 @@ from pathlib import Path
 HERE = Path(__file__).resolve().parent
 INCLUDES = [
     "frontmatter.typ",
-    "ch01_paper.typ",
-    "ch02_bank.typ",
-    "ch03_character.typ",
-    "ch04_theme.typ",
-    "ch05_othello.typ",
+    "ch01_method.typ",
+    "ch02_harvest.typ",
+    "ch03_othello.typ",
+    "ch04_faceless.typ",
+    "ch05_lonely.typ",
     "ch06_native.typ",
-    "ch07_dossiers.typ",
-    "ch08_comparison.typ",
     "paper1.typ",
     "paper2.typ",
     "rapid_fire.typ",
     "bank120.typ",
     "answer_keys.typ",
+    "appendix_characters.typ",
+    "appendix_themes.typ",
     "appendix_quotes.typ",
-    "appendix_glossary.typ",
+    "appendix_timelines.typ",
     "appendix_models.typ",
-    "appendix_tables.typ",
     "appendix_plan.typ",
     "appendix_traps.typ",
     "appendix_playbook.typ",
 ]
 
-PDF_NAME = "JAMB_Literature_Volume2_Drama_and_Prose.pdf"
+PDF_NAME = "JAMB_Literature_Volume2_The_Drama_and_the_Prose.pdf"
+
 
 
 def main() -> int:
@@ -58,6 +58,9 @@ def main() -> int:
             print(f"  (skipping missing {name})")
     driver.write_text("\n".join(body) + "\n", encoding="utf-8")
 
+    # The Contents page is a generated table whose page numbers must be baked
+    # in, so compile once, read the outline, rewrite `_toc.typ`, and compile
+    # again until the numbers stop moving.
     import sys as _sys
 
     _sys.path.insert(0, str(HERE / "tools"))

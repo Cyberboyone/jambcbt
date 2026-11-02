@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 260" width="760" height="260">
+  <defs>
+    <marker id="ag" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#008751"/>
+    </marker>
+    <marker id="an" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#0E1F40"/>
+    </marker>
+    <marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#D97706"/>
+    </marker>
+    <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#DC2626"/>
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="760" height="260" fill="#FFFFFF"/>
+<text x="380" y="24" font-family="DejaVu Sans" font-size="12.5" fill="#0E1F40" text-anchor="middle" font-weight="bold">Four widows, four ways of surviving</text>
+<rect x="46" y="56" width="668" height="36" rx="7" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="1.1"/>
+<rect x="46" y="56" width="5" height="36" rx="2.5" fill="#DC2626"/>
+<text x="66" y="79" font-family="DejaVu Sans" font-size="9.2" fill="#DC2626" text-anchor="start" font-weight="bold">RADEKE</text>
+<text x="180" y="79" font-family="DejaVu Sans" font-size="8.8" fill="#334155" text-anchor="start" font-weight="normal">sang the widow's song of innocence; the village called her a liar</text>
+<rect x="46" y="100" width="668" height="36" rx="7" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="1.1"/>
+<rect x="46" y="100" width="5" height="36" rx="2.5" fill="#D97706"/>
+<text x="66" y="123" font-family="DejaVu Sans" font-size="9.2" fill="#D97706" text-anchor="start" font-weight="bold">FAYOYIN</text>
+<text x="180" y="123" font-family="DejaVu Sans" font-size="8.8" fill="#334155" text-anchor="start" font-weight="normal">made to lick the libation to purge a theft she denied</text>
+<rect x="46" y="144" width="668" height="36" rx="7" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="1.1"/>
+<rect x="46" y="144" width="5" height="36" rx="2.5" fill="#7C3AED"/>
+<text x="66" y="167" font-family="DejaVu Sans" font-size="9.2" fill="#7C3AED" text-anchor="start" font-weight="bold">DEDEWE</text>
+<text x="180" y="167" font-family="DejaVu Sans" font-size="8.8" fill="#334155" text-anchor="start" font-weight="normal">forced to confess sins she had not committed</text>
+<rect x="46" y="188" width="668" height="36" rx="7" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="1.1"/>
+<rect x="46" y="188" width="5" height="36" rx="2.5" fill="#008751"/>
+<text x="66" y="211" font-family="DejaVu Sans" font-size="9.2" fill="#008751" text-anchor="start" font-weight="bold">YAREMI</text>
+<text x="180" y="211" font-family="DejaVu Sans" font-size="8.8" fill="#334155" text-anchor="start" font-weight="normal">refused the cap, and paid for the refusal with her home</text>
+<text x="380" y="244" font-family="DejaVu Sans" font-size="8.8" fill="#64748B" text-anchor="middle" font-weight="normal">The other three accept the terms and find husbands; Yaremi refuses them and finds herself alone.</text>
+</svg>

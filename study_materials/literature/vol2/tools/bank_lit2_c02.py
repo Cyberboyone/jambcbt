@@ -1,184 +1,192 @@
-"""Drill bank — Literature in English Volume 2, chapter 2 (30 items)."""
+"""Drill bank — Literature in English Volume 2, chapter 2 (40 items)."""
+
+
+def q(stem, a, b, c, d, k, sol):
+    return (stem, [a, b, c, d], k, sol)
+
 
 DRILL_2 = [
-    (
-        "A bank row earns its place when it records",
-        ["the page numbers of each scene", "what the unit does and what changes in it", "the names of the characters present", "the act and scene numbers"],
-        1,
-        "Function and change are the two things a set-text question asks about; page numbers and cast lists are available in the text itself.",
-    ),
-    (
-        "The five-word compression of a scene is useful because",
-        ["it shortens revision", "a scene you cannot compress is a scene you have not understood", "examiners prefer short answers", "it is easy to memorise"],
-        1,
-        "The compression is a test of understanding rather than a technique for saving space.",
-    ),
-    (
-        "A drama bank is written per scene because",
-        ["scenes are shorter than acts", "a scene is the unit a playwright builds and a question anchors to", "acts are not numbered", "scenes have more characters"],
-        1,
-        "The unit of the bank should match the unit of the question, and set-text stems anchor to scenes rather than to whole acts.",
-    ),
-    (
-        "A prose bank is written per chapter, with 4a and 4b where",
-        ["the chapter is long", "a chapter moves from a public scene to a private one", "two narrators appear", "the chapter has a title"],
-        1,
-        "When a chapter changes register or space, it is doing two jobs and needs two rows.",
-    ),
-    (
-        "The column a bank row must not leave empty is",
-        ["who", "the turn", "the quotation", "the unit"],
-        1,
-        "Without the turn the row is an event, and an event cannot answer a function or effect question.",
-    ),
-    (
-        "The cast grid's most useful column is",
-        ["the character's age", "the function — what the text loses without them", "their first appearance", "their relationship to the hero"],
-        1,
-        "The function is the one column that produces an argument rather than a fact.",
-    ),
-    (
-        "A want in a cast grid should be written as",
-        ["an adjective", "a verb phrase naming what the character is trying to get", "a quotation", "a chapter reference"],
-        1,
-        "Adjectives cannot be evidenced; a want can be traced through the text.",
-    ),
-    (
-        "The deletion test asks",
-        ["whether a character could be cut without loss", "what the text can no longer do without the character", "whether the character speaks in the first act", "how many scenes the character appears in"],
-        1,
-        "The test is about the text's capability, not about the character's page count.",
-    ),
-    (
-        "The ten marked passages should include",
-        ["ten speeches by the protagonist", "one from the opening, one from each turn, one long speech, one quiet scene and the last page", "the ten longest passages", "the passages the teacher read aloud"],
-        1,
-        "Range is the point: each slot answers a different family of questions.",
-    ),
-    (
-        "A passage you enjoyed but cannot connect to a theme is",
-        ["the best choice, because you will remember it", "a weak choice, because it cannot carry a question", "essential for the last page", "better than a long speech"],
-        1,
-        "Enjoyment is not a criterion; the slot must earn its place by the questions it can answer.",
-    ),
-    (
-        "Reviewing a bank means",
-        ["reading it from top to bottom", "covering the right-hand columns and reciting from the units", "copying it out again", "reading the text alongside it"],
-        1,
-        "The left-hand column is the prompt and the right-hand columns are the answers, so review is a covering exercise.",
-    ),
-    (
-        "The fifteen-minute review should end with",
-        ["rereading every row", "rereading only the rows marked as half-known or unknown", "a new bank row", "a timed essay"],
-        1,
-        "The ticks are already known; time spent on them is time not spent on the gaps.",
-    ),
-    (
-        "A row of forty words is a problem because",
-        ["it takes too long to write", "it is a paragraph in disguise and cannot be recited", "it uses too much paper", "it is difficult to read"],
-        1,
-        "The bank is a retrieval structure; a row that cannot be recited cannot be retrieved.",
-    ),
-    (
-        "A bank built in the last fortnight is",
-        ["the best use of the last fortnight", "a rereading with extra steps", "more accurate than an early bank", "the only kind that works"],
-        1,
-        "The bank is built during the first reading, and its value is that it makes later reading cheap.",
-    ),
-    (
-        "The pencil column for what a chapter refuses to say answers questions beginning",
-        ["“What happens when …”", "“How does the writer make us feel …”", "“Who is …”", "“Where is …”"],
-        1,
-        "Withholding is how prose produces suspense and sympathy, so the column answers the effect questions.",
-    ),
-    (
-        "A bank that records only events is",
-        ["a summary with headings", "a complete preparation", "a cast grid", "a quotation bank"],
-        1,
-        "Without function and change, the four columns have collapsed into one.",
-    ),
-    (
-        "The best moment to write the first row of a bank is",
-        ["after finishing the text", "during the first reading, at the end of the first scene or chapter", "the week before the exam", "after the first mock paper"],
-        1,
-        "Rows written while the unit is fresh cost a fraction of the time and are far more accurate.",
-    ),
-    (
-        "If a row's quotation is uncertain, the correct action is",
-        ["write it approximately", "describe the moment and mark the row for checking", "leave the row blank", "invent a plausible line"],
-        1,
-        "An approximate quotation is worse than a described moment, and the mark reminds you to check it.",
-    ),
-    (
-        "A cast grid is most useful when the wants are",
-        ["copied from a study guide", "phrased in your own sentences", "quoted from the text", "written as single adjectives"],
-        1,
-        "A want you have phrased is a want you can argue about, which is what the exam requires.",
-    ),
-    (
-        "Two characters with the same function in a text usually indicate",
-        ["a mistake by the author", "that the text needs one of them to fail where the other succeeds", "that they are related", "that the text is a comedy"],
-        1,
-        "Repeated functions are almost always distributed: one version succeeds, one fails, and the pairing argues.",
-    ),
-    (
-        "The most useful thing to record about a stage direction is",
-        ["its position on the page", "what it makes visible that the dialogue does not say", "whether it is in brackets", "the actor it names"],
-        1,
-        "Stage directions carry information the characters cannot speak, which makes them evidence of a special kind.",
-    ),
-    (
-        "A novel's chapter title is worth recording because",
-        ["it is part of the examination", "it is the author's own summary of the chapter's work", "it always names a character", "it indicates the setting"],
-        1,
-        "A title is the author's compression of the unit, which is exactly what the bank's first column needs.",
-    ),
-    (
-        "A bank with twelve rows for a five-act play is",
-        ["too detailed", "adequate only if the rows cover the turns", "better than a bank of thirty rows", "useless"],
-        1,
-        "Coverage of the turns matters more than coverage of every scene; twelve well-chosen rows can carry a play.",
-    ),
-    (
-        "The bank and the essay plan differ because",
-        ["the bank is longer", "the bank records the text's design while a plan records your argument", "the plan is written first", "the bank is only for poetry"],
-        1,
-        "One is retrieval of the text; the other is the shape of an answer about it.",
-    ),
-    (
-        "If you cannot say what a scene costs, the most likely reason is that",
-        ["you have not read it", "you have not identified what changed", "the scene is unimportant", "the scene has no quotation"],
-        1,
-        "Cost follows change: find the change and the cost becomes visible.",
-    ),
-    (
-        "The cast grid should be organised",
-        ["alphabetically", "by importance to the central want", "by order of appearance", "by the number of lines"],
-        1,
-        "Ordering by the central want makes the functions visible and shows which characters carry the argument.",
-    ),
-    (
-        "A chapter row for a novel should record what the chapter withholds because",
-        ["it is required in the syllabus", "withholding produces the effects that questions ask about", "it is easier than recording events", "chapters always withhold something"],
-        1,
-        "The withheld information is often the source of suspense, sympathy and surprise — the effects the paper tests.",
-    ),
-    (
-        "The bank is finished when",
-        ["every page has a row", "every turn has a row that can be recited in one breath", "the text has been read twice", "the quotations are all memorised"],
-        1,
-        "The test is recitability and coverage of the turns, not completeness of pagination.",
-    ),
-    (
-        "A candidate whose bank has four rows a week before the exam is",
-        ["badly prepared", "well prepared, because the bank shrinks as the ticks grow", "over-prepared", "unusual"],
-        1,
-        "The shrinking bank is the sign that the review has worked: only the uncertain rows remain.",
-    ),
-    (
-        "The bank's ultimate purpose is to",
-        ["replace reading the text", "make selection possible under exam pressure", "provide quotations for an essay", "shorten the syllabus"],
-        1,
-        "Selection is the skill the set-text block tests, and the bank is the instrument that makes selection fast.",
-    ),
+    q("At the beginning of Harvest of Corruption, Aloho's central problem is",
+      "a broken marriage", "unemployment after graduation",
+      "a court case she has lost", "her brother's illness", 1,
+      "She has finished her studies and cannot find work, which is the door through which the play's corruption enters."),
+
+    q("Aloho is introduced to Chief Ade-Amaka by",
+      "Ogeyi", "Ochuole", "Madam Hoha", "Inspector Inaku", 1,
+      "Ochuole is the recruiter, and the introduction is the play's first transaction."),
+
+    q("Ochuole's position in the ministry is",
+      "Minister of External Relations", "Chief Administrative Officer",
+      "Commissioner of Police", "clerical assistant", 1,
+      "Her office is the instrument of the recruitment, which is why she is sentenced with the rest."),
+
+    q("Chief Haladu Ade-Amaka is the Minister of",
+      "Education", "External Relations", "Justice", "Finance", 1,
+      "The ministry matters because it controls travel and postings abroad, which is how Aloho is moved."),
+
+    q("The hotel at which Aloho is received is",
+      "the Akpara Hotel", "the Jabu Continental", "the Hotel Hoha", "the Jacassa Palms", 0,
+      "The Akpara is owned by Madam Hoha, and it is the venue of the play's central transaction."),
+
+    q("The post Aloho is given is",
+      "private secretary", "protocol officer",
+      "customs officer", "accounts clerk", 1,
+      "The title is a cover: it gives her the appearance of official travel while making her a courier."),
+
+    q("On her journey abroad, Aloho is used to carry",
+      "government documents", "cocaine",
+      "foreign currency", "a diplomatic pouch", 1,
+      "She does not know what she is carrying, which is why her arrest is the play's turning point."),
+
+    q("Aloho is arrested by",
+      "the police in Jabu", "customs officers at the airport",
+      "Inspector Inaku", "officers of the ministry", 1,
+      "The arrest happens on arrival, and it converts her from beneficiary to accused."),
+
+    q("The case against Aloho is struck out",
+      "after a full trial", "for want of evidence",
+      "on the Minister's appeal", "because she confesses", 1,
+      "The phrase is the play's bitterest irony: the evidence has been removed, not found wanting."),
+
+    q("The judge who strikes out the case is",
+      "Justice Odili", "Justice Ade-Amaka", "Justice Yakubu", "Justice Okpotu", 0,
+      "Odili is later sentenced, which is the play's answer to the struck-out case."),
+
+    q("The officer whose intervention secures the striking out of the case is",
+      "the Commissioner of Police", "ACP Yakubu", "Inspector Inaku", "Mr Ayo", 0,
+      "The Commissioner is compromised, and his sentence at the end is the play's judgment on the police."),
+
+    q("Aloho's friend, who warns her and later reports the matter, is",
+      "Ochuole", "Ogeyi", "Madam Hoha", "Radeke", 1,
+      "Ogeyi is the voice of reason in the first half and the witness in the second."),
+
+    q("Aloho's brother is",
+      "Mr Ayo", "Doctor Okpotu", "Inspector Inaku", "Chief Ade-Amaka", 1,
+      "Okpotu is a doctor, and his presence makes Aloho's decline a family matter rather than a statistic."),
+
+    q("Ogeyi takes her report to",
+      "the Commissioner of Police", "ACP Yakubu",
+      "the Minister of External Relations", "the Editor of the Chronicle", 1,
+      "Yakubu receives the complaint and sets the investigation in motion."),
+
+    q("The officer who conducts the investigation is",
+      "Inspector Inaku", "ACP Yakubu", "Justice Odili", "Mr Ayo", 0,
+      "Inaku is the investigating officer, and his work produces the evidence the earlier case lacked."),
+
+    q("Mr Ayo is significant because he is",
+      "the Minister's driver", "a clerical assistant who supplies the vouchers",
+      "Aloho's lawyer", "the hotel manager", 1,
+      "His vouchers document the movement of public money, which is what makes the case provable."),
+
+    q("The sum established through the vouchers is",
+      "12 million naira", "120 million naira", "1.2 billion naira", "12 billion naira", 2,
+      "The figure is what turns the play's general talk of corruption into a specific charge."),
+
+    q("Chief Ade-Amaka is sentenced to",
+      "ten years", "twenty years", "twenty-five years and a refund", "life imprisonment", 2,
+      "He is the principal beneficiary, and his sentence is the longest in the play."),
+
+    q("Justice Odili is sentenced to",
+      "five years", "ten years", "twenty years", "twenty-five years", 2,
+      "Twice the sentence given to Ochuole, which registers the play's view of a judge who sells a case."),
+
+    q("The Commissioner of Police receives",
+      "five years", "ten years", "twenty years", "a discharge", 2,
+      "The Commissioner and the judge are sentenced alike, which is the point: the law and its guardians were both bought."),
+
+    q("Ochuole is sentenced to",
+      "five years", "ten years", "twenty years", "twenty-five years", 1,
+      "Her ten years and Madam Hoha's ten years pair the recruiter with the woman who provided the venue."),
+
+    q("Madam Hoha is sentenced to ten years and",
+      "fined", "has her hotel sealed", "is deported", "is released on bail", 1,
+      "The sealing of the hotel is a sentence on the place as well as the person."),
+
+    q("Mr Ayo's sentence is",
+      "five years", "ten years", "twenty years", "a caution", 0,
+      "The smallest sentence in the play goes to the man who kept the records."),
+
+    q("Aloho dies",
+      "in prison", "in childbirth",
+      "by suicide", "in a road accident", 1,
+      "She refuses an abortion, carries the child, and dies giving birth, which is the play's final image of cost."),
+
+    q("Aloho refuses",
+      "to name the Minister", "to have an abortion",
+      "to leave the country", "to accept bail", 1,
+      "The refusal is her one act of autonomy after the arrest, and the play treats it as heroic."),
+
+    q("The play's title suggests that corruption",
+      "is punished abroad", "eventually produces a harvest of consequences",
+      "is a foreign import", "belongs only to politicians", 1,
+      "The ending is the harvest: every participant reaps a sentence in proportion to the part played."),
+
+    q("Aloho's vulnerability is compounded by",
+      "her wealth", "her poverty and her gratitude to her helpers",
+      "her family's political connections", "her lack of education", 1,
+      "Gratitude stops her asking questions, and poverty makes refusal expensive, which is why the trap works."),
+
+    q("Ogeyi's function in the play is to",
+      "profit from the plot", "supply the moral perspective and trigger the investigation",
+      "defend the Minister", "replace Aloho as a courier", 1,
+      "She is the character who says what the audience is thinking and then acts on it."),
+
+    q("The irony of Aloho's appointment is that a protocol officer",
+      "is never given a desk", "is used as a courier of contraband",
+      "earns less than a clerk", "reports to the police", 1,
+      "The office that should protect her is the instrument of her use."),
+
+    q("Madam Hoha's role is to",
+      "prosecute the case", "provide the hotel where the arrangement is made",
+      "warn Aloho of the danger", "keep the ministry's accounts", 1,
+      "She supplies the place and the privacy, and the sealing of the hotel is the play's judgment on that service."),
+
+    q("Doctor Okpotu's presence in the play ensures that Aloho's death is",
+      "a matter of public record only", "felt as a family loss",
+      "treated as a crime scene", "kept secret", 1,
+      "A brother who is a doctor can do nothing for her, which is the play's point about professional competence without power."),
+
+    q("The treatment of Aloho's case before Justice Odili shows that the law",
+      "is slow but certain", "can be bought",
+      "protects the poor", "is controlled by foreign courts", 1,
+      "The case is struck out for want of evidence while the evidence exists, which is the definition of a purchased outcome."),
+
+    q("The play is best described as",
+      "a comedy of manners", "a satire on public corruption",
+      "a historical tragedy", "a domestic farce", 1,
+      "It holds up the ministries, the courts and the police for judgment, which is what satire does."),
+
+    q("Stage directions in Harvest of Corruption are used mainly to",
+      "describe the writer's intentions", "place the action and manage entrances and exits",
+      "provide the actors' salaries", "summarise the plot", 1,
+      "As in any play, the directions carry what dialogue cannot: who is in the room, and where the room is."),
+
+    q("Aloho's greatest mistake, in the play's own terms, is",
+      "trusting a schoolmate's introduction without asking what it costs",
+      "refusing the job", "reporting the Minister",
+      "leaving her brother's house", 0,
+      "The play shows how ordinary social trust is the mechanism through which the network recruits."),
+
+    q("The character who is punished least is",
+      "the Minister", "the judge", "the clerical assistant", "the hotel owner", 2,
+      "Five years goes to the man whose vouchers made the case provable, which is the play's comment on who is expendable."),
+
+    q("The play's treatment of Aloho's body is significant because",
+      "it is never described", "it becomes the site where the men's transactions are paid for",
+      "it is protected by the court", "it is the subject of the trial", 1,
+      "She is used as a courier, then as a witness, then as a mother, and the cost is borne physically."),
+
+    q("Which sequence is correct?",
+      "Arrest, appointment, trial, death", "Appointment, arrest, struck-out case, death",
+      "Trial, appointment, arrest, death", "Appointment, trial, arrest, struck-out case", 1,
+      "The appointment creates the journey, the arrest follows it, the case is struck out, and she dies after her release."),
+
+    q("The play finally suggests that corruption is defeated by",
+      "a single honest minister", "the persistence of an ordinary friend and an investigating officer",
+      "foreign intervention", "an election", 1,
+      "Ogeyi's report and Inaku's work are the only forces in the play that are not for sale."),
+    q("Aloho's qualification at the start of the play is",
+      "a teaching certificate", "a university degree",
+      "a nursing certificate", "no formal education", 1,
+      "She is a graduate, and the waste of an educated woman's unemployment is what makes the trap plausible."),
 ]

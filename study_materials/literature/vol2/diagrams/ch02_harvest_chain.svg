@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 340" width="760" height="340">
+  <defs>
+    <marker id="ag" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#008751"/>
+    </marker>
+    <marker id="an" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#0E1F40"/>
+    </marker>
+    <marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#D97706"/>
+    </marker>
+    <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#DC2626"/>
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="760" height="340" fill="#FFFFFF"/>
+<text x="380" y="24" font-family="DejaVu Sans" font-size="12.5" fill="#0E1F40" text-anchor="middle" font-weight="bold">Harvest of Corruption: the chain from a degree to a grave</text>
+<rect x="40" y="56" width="300" height="36" rx="7" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="1.4"/>
+<rect x="40" y="56" width="5" height="36" rx="2.5" fill="#2563EB"/>
+<text x="56" y="72" font-family="DejaVu Sans" font-size="9.4" fill="#0E1F40" text-anchor="start" font-weight="bold">No job after service</text>
+<text x="56" y="86" font-family="DejaVu Sans" font-size="8.2" fill="#334155" text-anchor="start" font-weight="normal">Aloho has a degree and no income</text>
+<line x1="345" y1="74" x2="380" y2="74" stroke="#CBD5E1" stroke-width="1.3" marker-end="url(#ag)"/>
+<rect x="40" y="102" width="300" height="36" rx="7" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="1.4"/>
+<rect x="40" y="102" width="5" height="36" rx="2.5" fill="#D97706"/>
+<text x="56" y="118" font-family="DejaVu Sans" font-size="9.4" fill="#0E1F40" text-anchor="start" font-weight="bold">Ochuole's offer</text>
+<text x="56" y="132" font-family="DejaVu Sans" font-size="8.2" fill="#334155" text-anchor="start" font-weight="normal">a schoolmate with a reputation</text>
+<line x1="345" y1="120" x2="380" y2="120" stroke="#CBD5E1" stroke-width="1.3" marker-end="url(#ag)"/>
+<rect x="40" y="148" width="300" height="36" rx="7" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="1.4"/>
+<rect x="40" y="148" width="5" height="36" rx="2.5" fill="#7C3AED"/>
+<text x="56" y="164" font-family="DejaVu Sans" font-size="9.4" fill="#0E1F40" text-anchor="start" font-weight="bold">The Ministry post</text>
+<text x="56" y="178" font-family="DejaVu Sans" font-size="8.2" fill="#334155" text-anchor="start" font-weight="normal">protocol officer to Chief</text>
+<line x1="345" y1="166" x2="380" y2="166" stroke="#CBD5E1" stroke-width="1.3" marker-end="url(#ag)"/>
+<rect x="40" y="194" width="300" height="36" rx="7" fill="#FFFFFF" stroke="#DC2626" stroke-width="1.4"/>
+<rect x="40" y="194" width="5" height="36" rx="2.5" fill="#DC2626"/>
+<text x="56" y="210" font-family="DejaVu Sans" font-size="9.4" fill="#0E1F40" text-anchor="start" font-weight="bold">The US trip</text>
+<text x="56" y="224" font-family="DejaVu Sans" font-size="8.2" fill="#334155" text-anchor="start" font-weight="normal">cocaine in the luggage</text>
+<line x1="345" y1="212" x2="380" y2="212" stroke="#CBD5E1" stroke-width="1.3" marker-end="url(#ag)"/>
+<rect x="40" y="240" width="300" height="36" rx="7" fill="#FFFFFF" stroke="#DC2626" stroke-width="1.4"/>
+<rect x="40" y="240" width="5" height="36" rx="2.5" fill="#DC2626"/>
+<text x="56" y="256" font-family="DejaVu Sans" font-size="9.4" fill="#0E1F40" text-anchor="start" font-weight="bold">Arrest and acquittal</text>
+<text x="56" y="270" font-family="DejaVu Sans" font-size="8.2" fill="#334155" text-anchor="start" font-weight="normal">the case thrown out for money</text>
+<line x1="345" y1="258" x2="380" y2="258" stroke="#CBD5E1" stroke-width="1.3" marker-end="url(#ag)"/>
+<rect x="40" y="286" width="300" height="36" rx="7" fill="#FFFFFF" stroke="#0E1F40" stroke-width="1.4"/>
+<rect x="40" y="286" width="5" height="36" rx="2.5" fill="#0E1F40"/>
+<text x="56" y="302" font-family="DejaVu Sans" font-size="9.4" fill="#0E1F40" text-anchor="start" font-weight="bold">Pregnancy and death</text>
+<text x="56" y="316" font-family="DejaVu Sans" font-size="8.2" fill="#334155" text-anchor="start" font-weight="normal">she dies in childbirth</text>
+<line x1="345" y1="304" x2="380" y2="304" stroke="#CBD5E1" stroke-width="1.3" marker-end="url(#ag)"/>
+<rect x="392" y="62" width="328" height="80" rx="8" fill="#ECFDF5" stroke="#2563EB" stroke-width="1.2"/>
+<text x="406" y="82" font-family="DejaVu Sans" font-size="9.2" fill="#2563EB" text-anchor="start" font-weight="bold">THE CAUSE</text>
+<text x="406" y="100" font-family="DejaVu Sans" font-size="8.6" fill="#334155" text-anchor="start" font-weight="normal">unemployment makes an offer</text>
+<text x="406" y="113" font-family="DejaVu Sans" font-size="8.6" fill="#334155" text-anchor="start" font-weight="normal">look like a rescue</text>
+<rect x="392" y="152" width="328" height="80" rx="8" fill="#ECFDF5" stroke="#D97706" stroke-width="1.2"/>
+<text x="406" y="172" font-family="DejaVu Sans" font-size="9.2" fill="#D97706" text-anchor="start" font-weight="bold">THE INSTRUMENT</text>
+<text x="406" y="190" font-family="DejaVu Sans" font-size="8.6" fill="#334155" text-anchor="start" font-weight="normal">Chief's office is a criminal</text>
+<text x="406" y="203" font-family="DejaVu Sans" font-size="8.6" fill="#334155" text-anchor="start" font-weight="normal">enterprise with a title</text>
+<rect x="392" y="242" width="328" height="80" rx="8" fill="#ECFDF5" stroke="#DC2626" stroke-width="1.2"/>
+<text x="406" y="262" font-family="DejaVu Sans" font-size="9.2" fill="#DC2626" text-anchor="start" font-weight="bold">THE PRICE</text>
+<text x="406" y="280" font-family="DejaVu Sans" font-size="8.6" fill="#334155" text-anchor="start" font-weight="normal">the state protects the guilty</text>
+<text x="406" y="293" font-family="DejaVu Sans" font-size="8.6" fill="#334155" text-anchor="start" font-weight="normal">and destroys the innocent</text>
+</svg>

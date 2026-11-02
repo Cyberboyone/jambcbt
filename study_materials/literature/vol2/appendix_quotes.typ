@@ -1,10 +1,10 @@
 #import "template.typ": *
 
-#current-chapter.update("Appendix D: The Quotation Bank")
+#current-chapter.update("Appendix F: The Quotation Bank")
 
 #pagebreak()
 
-#hide[#heading(level: 1, outlined: true)[Appendix D: The Quotation Bank]]
+#hide[#heading(level: 1, outlined: true)[Appendix F: The Quotation Bank]]
 
 #block(
   width: 100%,
@@ -13,164 +13,93 @@
   radius: 10pt,
   inset: 18pt,
 )[
-  #text(font: "DejaVu Sans", size: 8.8pt, weight: "bold", fill: rgb("#A7F3D0"))[APPENDIX D]
+  #text(font: "DejaVu Sans", size: 8.8pt, weight: "bold", fill: rgb("#A7F3D0"))[APPENDIX F]
   #v(6pt)
-  #text(font: "DejaVu Sans", size: 20pt, weight: "bold", fill: white)[The Quotation Bank: 40 Targets]
+  #text(font: "DejaVu Sans", size: 20pt, weight: "bold", fill: white)[The Quotation Bank]
   #v(4pt)
   #text(font: "DejaVu Sans", size: 10.5pt, fill: rgb("#CBD5E1"))[
-    Forty targets, twelve from *Othello*, ten from *Native Son*, and six from each of
-    the three African texts. Where a line is printed it is short and exact. Where the
-    entry gives a moment and a speaker instead, copy the exact words into your own copy:
-    an accurate description of a moment is worth more than an invented line, and the
-    copying is itself the revision.
+    Sixteen exact quotations from *Othello*, three from *Native Son*, and a third
+    section for the texts where an exact quotation is not required: the phrase, the
+    scene and the fact that will carry an answer instead.
   ]
 ]
 
 #v(5pt)
 
-== D.1 Twelve from *Othello*
+== F.1 Othello — Sixteen Exact Quotations
 
-#[
-  #set text(size: 8.4pt)
 #table(
-  columns: (0.4fr, 1.0fr, 1.65fr, 1.6fr),
-  inset: (x: 5pt, y: 4.0pt),
-  align: (left + horizon, left + horizon, left + horizon, left + horizon),
-  stroke: (x, y) => if y == 0 { 1pt + jamb-navy } else { (bottom: 0.35pt + jamb-border) },
+  columns: (1.65fr, 1.05fr, 2.2fr),
+  inset: (x: 4.6pt, y: 3.9pt),
+  align: (left + horizon, left + horizon, left + horizon),
+  stroke: 0.5pt + jamb-border,
   fill: (x, y) => if y == 0 { jamb-navy } else if calc.odd(y) { white } else { jamb-light },
   table.header(
-    text(font: "DejaVu Sans", size: 7.8pt, weight: "bold", fill: white)[No.],
-    text(font: "DejaVu Sans", size: 7.8pt, weight: "bold", fill: white)[Where],
-    text(font: "DejaVu Sans", size: 7.8pt, weight: "bold", fill: white)[Line],
-    text(font: "DejaVu Sans", size: 7.8pt, weight: "bold", fill: white)[Answers],
+    text(font: "DejaVu Sans", size: 7.5pt, weight: "bold", fill: white)[Quotation],
+    text(font: "DejaVu Sans", size: 7.5pt, weight: "bold", fill: white)[Speaker and place],
+    text(font: "DejaVu Sans", size: 7.5pt, weight: "bold", fill: white)[What it proves],
   ),
-  [1], [1.1, Iago to Roderigo], [“I am not what I am.”], [method, appearance, irony],
-  [2], [1.3, Othello], [“She loved me for the dangers I had passed,”], [love, narrative, evidence],
-  [3], [1.3, Desdemona], [“I saw Othello's visage in his mind,”], [love, inwardness, race],
-  [4], [2.3, Cassio], [“Reputation, reputation, reputation!”], [honour, foil, recovery],
-  [5], [3.3, Iago], [“O, beware, my lord, of jealousy,”], [warning as weapon, method],
-  [6], [3.3, Othello], [“Chaos is come again.”], [the acceptance of Iago's premise],
-  [7], [3.3, Othello], [“Farewell the tranquil mind! farewell content!”], [the collapse of a style],
-  [8], [3.3, Iago], [“Trifles light as air,”], [evidence, manufacturing proof],
-  [9], [4.1, Othello], [“The pity of it, Iago! O, the pity of it,”], [the last resistance],
-  [10], [5.2, Othello], [“Put out the light, and then put out the light.”], [repetition, murder as housekeeping],
-  [11], [5.2, Desdemona], [“Nobody; I myself. Farewell.”], [love, protection, gender],
-  [12], [5.2, Iago], [“Demand me nothing.”], [the refusal of motive],
+  [“I am not what I am.”], [Iago, Act 1 scene 1], [the play's thesis about appearance, spoken by the man who profits from it],
+  [“An old black ram / Is tupping your white ewe.”], [Iago to Brabantio, Act 1 scene 1], [that racial disgust is the first weapon used, before any fact is established],
+  [“I hate the Moor.”], [Iago, Act 1 scene 3], [the motive stated as a bare fact, which makes the later reasons sound like additions],
+  [“Reputation, reputation, reputation!”], [Cassio, Act 2 scene 3], [that a name is property to the man who has one, and a joke to the man who does not],
+  [“O, beware, my lord, of jealousy; / It is the green-eyed monster.”], [Iago, Act 3 scene 3], [the warning that is also the instruction, and the play's central metaphor],
+  [“Farewell the tranquil mind! farewell content!”], [Othello, Act 3 scene 3], [the moment the soldier's identity gives way to the husband's fear],
+  [“I am your own for ever.”], [Iago, Act 3 scene 3], [the false oath that seals the temptation, spoken by the man who owns nothing],
+  [“The handkerchief!”], [Othello, Act 3 scene 4], [that a piece of cloth has become the whole case],
+  [“Sing willow, willow, willow.”], [Desdemona, Act 4 scene 3], [forsaken love, sung by a woman who does not yet know she has been forsaken],
+  [“Put out the light, and then put out the light.”], [Othello, Act 5 scene 2], [the distinction between a lamp that can be relit and a life that cannot],
+  [“She was too fond of her most filthy bargain.”], [Emilia, Act 5 scene 2], [the plain speech that breaks the tragedy's rhetoric and names the marriage],
+  [“Demand me nothing. What you know, you know.”], [Iago, Act 5 scene 2], [the refusal to explain, which is the last cruelty of the character],
+  [“Speak of me as I am; nothing extenuate.”], [Othello, Act 5 scene 2], [the self-portrait that the audience is asked to accept or refuse],
+  [“One that loved not wisely but too well.”], [Othello, Act 5 scene 2], [the line the paper quotes most, and the line most often misread as an excuse],
+  [“I kiss'd thee ere I kill'd thee.”], [Othello, Act 5 scene 2], [the union of tenderness and murder that the play has been building],
+  [“The object poisons sight; / Let it be hid.”], [Lodovico, Act 5 scene 2], [Venice's response: concealment rather than understanding],
 )
 
-]
+== F.2 Native Son — Three Exact Quotations
 
-#concept-box("How to use a line")[
-  Never quote more than ten words, never end a sentence on a quotation, and never quote
-  without saying what the words *do*. A line learned as a decoration is a line that will
-  be dropped into the wrong answer; a line learned with its three possible uses — as above,
-  in the right-hand column — is a line that will find its own question.
-]
-
-== D.2 Ten from *Native Son*
-
-#[
-  #set text(size: 8.4pt)
 #table(
-  columns: (0.4fr, 1.0fr, 2.25fr, 1.0fr),
-  inset: (x: 5pt, y: 4.0pt),
-  align: (left + horizon, left + horizon, left + horizon, left + horizon),
-  stroke: (x, y) => if y == 0 { 1pt + jamb-navy } else { (bottom: 0.35pt + jamb-border) },
+  columns: (1.95fr, 3.0fr),
+  inset: (x: 4.8pt, y: 4.0pt),
+  align: (left + horizon, left + horizon),
+  stroke: 0.5pt + jamb-border,
   fill: (x, y) => if y == 0 { jamb-navy } else if calc.odd(y) { white } else { jamb-light },
   table.header(
-    text(font: "DejaVu Sans", size: 7.8pt, weight: "bold", fill: white)[No.],
-    text(font: "DejaVu Sans", size: 7.8pt, weight: "bold", fill: white)[Where],
-    text(font: "DejaVu Sans", size: 7.8pt, weight: "bold", fill: white)[The moment],
-    text(font: "DejaVu Sans", size: 7.8pt, weight: "bold", fill: white)[Use for],
+    text(font: "DejaVu Sans", size: 7.7pt, weight: "bold", fill: white)[Quotation],
+    text(font: "DejaVu Sans", size: 7.7pt, weight: "bold", fill: white)[What it proves, and where to use it],
   ),
-  [13], [Book One, opening], [the rat killed in the kitchenette before anyone has spoken], [fear, space, condition],
-  [14], [Book One, the Dalton house], [Bigger's first sight of the furnace and the basement], [the house as a system],
-  [15], [Book One, the bedroom], [the killing of Mary, and the prose stepping back to record it], [violence, judgement],
-  [16], [Book Two, the furnace], [the body carried down and cut to fit], [the house consuming what it cannot admit],
-  [17], [Book Two, the newspapers], [the press describing Bigger before he has spoken], [narrative, race, publicity],
-  [18], [Book Two, the airshaft], [Bessie's body disposed of in the building's infrastructure], [choice, guilt],
-  [19], [Book Three, the trial], [Max's long explanation of Bigger's life, and the court's inability to hear it], [justice, explanation],
-  [20], [Book Three, the cell], [Bigger's last conversation with Max], [recognition, ending],
-  [21], [Book Three, the last pages], [“I didn't know I was really alive in this world until I felt things hard enough to kill for 'em.”], [the novel's final claim],
-  [22], [Book Three, the cell], [Bigger's refusal to be spoken for any longer], [voice, selfhood],
+  [“Fear”, “Flight”, “Fate”], [the three book titles, and the whole structure of the novel in three words],
+  [“I didn't want to kill!”], [Bigger to Max: the difference between intent and result, which is the novel's moral centre],
+  [“But what I killed for, I am.”], [Bigger's last claim: identity produced by the crime, and the paradox the novel ends on],
 )
 
-]
+== F.3 When You Cannot Quote Exactly
 
-== D.3 Six from *Harvest of Corruption*
+A set-text question rarely requires a quotation. It requires *evidence*, and evidence can
+be a phrase, a scene or a fact. The table below gives the sentence to use when the exact
+words will not come.
 
-#[
-  #set text(size: 8.4pt)
 #table(
-  columns: (0.4fr, 1.0fr, 2.25fr, 1.0fr),
-  inset: (x: 5pt, y: 4.0pt),
-  align: (left + horizon, left + horizon, left + horizon, left + horizon),
-  stroke: (x, y) => if y == 0 { 1pt + jamb-navy } else { (bottom: 0.35pt + jamb-border) },
+  columns: (1.05fr, 1.5fr, 2.55fr),
+  inset: (x: 4.6pt, y: 3.9pt),
+  align: (left + horizon, left + horizon, left + horizon),
+  stroke: 0.5pt + jamb-border,
   fill: (x, y) => if y == 0 { jamb-navy } else if calc.odd(y) { white } else { jamb-light },
   table.header(
-    text(font: "DejaVu Sans", size: 7.8pt, weight: "bold", fill: white)[No.],
-    text(font: "DejaVu Sans", size: 7.8pt, weight: "bold", fill: white)[Where],
-    text(font: "DejaVu Sans", size: 7.8pt, weight: "bold", fill: white)[The moment],
-    text(font: "DejaVu Sans", size: 7.8pt, weight: "bold", fill: white)[Use for],
+    text(font: "DejaVu Sans", size: 7.5pt, weight: "bold", fill: white)[Text],
+    text(font: "DejaVu Sans", size: 7.5pt, weight: "bold", fill: white)[Cite this],
+    text(font: "DejaVu Sans", size: 7.5pt, weight: "bold", fill: white)[The sentence that carries it],
   ),
-  [23], [the Ministry, early], [Ochuole offers Aloho a post she has not applied for], [recruitment, false help],
-  [24], [the Akpara Hotel], [the package handed over as a “protocol” duty], [the pipeline, innocence used],
-  [25], [the airport], [Aloho arrested with drugs in her luggage], [consent, deception, the law],
-  [26], [after the release], [the pregnancy discovered, and the Minister's indifference], [the harvest beginning],
-  [27], [the investigation], [ACP Yakubu refusing his Commissioner's instruction], [institutional courage],
-  [28], [the sentencing], [each offender receiving a sentence that matches the offence], [the title, justice, closure],
+  [*Harvest of Corruption*], [the protocol officer title; “for want of evidence”; the graded sentences], [The appointment makes her a courier, and the acquittal, not the arrest, is the play's turn.],
+  [*Faceless*], [the kayayoo label; the handprint on the right cheek; the Rasta kiosk], [The city has a category for the body before it has a name for the girl.],
+  [*Lonely Days*], [the widow's road; the cap-picking; the shaved head], [The rites distribute pain unequally, and the cap is the moment the distribution is refused.],
+  [*Native Son*], [the rat; the furnace; the newsreel; the two deaths], [Mary is killed by panic and Bessie by calculation, and the novel is built on the difference.],
+  [*Othello*], [the handkerchief; the temptation scene; the willow scene], [Iago manufactures the proof out of a pause and a piece of cloth, and the play shows the manufacture.],
 )
 
-]
-
-== D.4 Six from *Faceless*
-
-#[
-  #set text(size: 8.4pt)
-#table(
-  columns: (0.4fr, 1.0fr, 2.25fr, 1.0fr),
-  inset: (x: 5pt, y: 4.0pt),
-  align: (left + horizon, left + horizon, left + horizon, left + horizon),
-  stroke: (x, y) => if y == 0 { 1pt + jamb-navy } else { (bottom: 0.35pt + jamb-border) },
-  fill: (x, y) => if y == 0 { jamb-navy } else if calc.odd(y) { white } else { jamb-light },
-  table.header(
-    text(font: "DejaVu Sans", size: 7.8pt, weight: "bold", fill: white)[No.],
-    text(font: "DejaVu Sans", size: 7.8pt, weight: "bold", fill: white)[Where],
-    text(font: "DejaVu Sans", size: 7.8pt, weight: "bold", fill: white)[The moment],
-    text(font: "DejaVu Sans", size: 7.8pt, weight: "bold", fill: white)[Use for],
-  ),
-  [29], [the market, opening], [the crowd around the place where Baby T's body was left], [the city's curiosity, the anonymity],
-  [30], [the theft], [Fofo caught with Kabria's purse and rescued from the beating], [the hinge of the plot, mercy],
-  [31], [Fofo's account], [the sale of Baby T, arranged by Kpakpo], [traffic in children, family],
-  [32], [Maa Tsuru's room], [the mother's helplessness and her taking of the money], [poverty, complicity],
-  [33], [Poison's territory], [the street lord's control of the children's economy], [power without office],
-  [34], [the ending], [Fofo given a school uniform and a room], [the modest promise, the title answered],
-)
-
-]
-
-== D.5 Six from *Lonely Days*
-
-#[
-  #set text(size: 8.4pt)
-#table(
-  columns: (0.4fr, 1.0fr, 2.25fr, 1.0fr),
-  inset: (x: 5pt, y: 4.0pt),
-  align: (left + horizon, left + horizon, left + horizon, left + horizon),
-  stroke: (x, y) => if y == 0 { 1pt + jamb-navy } else { (bottom: 0.35pt + jamb-border) },
-  fill: (x, y) => if y == 0 { jamb-navy } else if calc.odd(y) { white } else { jamb-light },
-  table.header(
-    text(font: "DejaVu Sans", size: 7.8pt, weight: "bold", fill: white)[No.],
-    text(font: "DejaVu Sans", size: 7.8pt, weight: "bold", fill: white)[Where],
-    text(font: "DejaVu Sans", size: 7.8pt, weight: "bold", fill: white)[The moment],
-    text(font: "DejaVu Sans", size: 7.8pt, weight: "bold", fill: white)[Use for],
-  ),
-  [35], [Chapter 1], [the night of Ajumobi's death and the falling star], [grief, memory, portent],
-  [36], [early], [the relatives' accusation that Yaremi caused the death], [custom, scapegoating],
-  [37], [the cap-picking], [the three caps presented and all three refused], [choice, resistance],
-  [38], [Segi's visit], [Woye taken to Olode for school], [the loss of company, kindness as cost],
-  [39], [Alani's visit], [the bread and corned beef, and the departure the same day], [betrayal, the city],
-  [40], [the ending], [the elders' sentence and Yaremi's refusal to move], [ostracism, ownership, the last stand],
-)
-
+#shortcut-box("The three-second quotation test")[
+  + If you can say the *speaker, the scene and what it does*, you do not need the exact words.
+  + If you can say the words but not the scene, you are reciting and not answering.
+  + If the option offers a quotation you do not recognise, check the *place* first: a real line in the wrong scene is a classic distractor.
 ]

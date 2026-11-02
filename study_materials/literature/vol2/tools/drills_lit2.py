@@ -30,7 +30,7 @@ def _load(mod, attr):
 
 BANK = {
     ch: _load(f"bank_lit2_c{ch:02d}", f"DRILL_{ch}")
-    for ch in range(1, 9)
+    for ch in range(1, 7)
 }
 
 
@@ -39,26 +39,21 @@ OUT = HERE.parent
 # chapter: (title, last section number used in the chapter, so the drill
 #           continues the numbering of that chapter)
 SHORT = {
-    1: "The Set-Text Paper",
-    2: "The Bank",
-    3: "Character",
-    4: "Theme",
-    5: "Othello",
+    1: "How a Set Text Is Tested",
+    2: "Harvest of Corruption",
+    3: "Othello",
+    4: "Faceless",
+    5: "Lonely Days",
     6: "Native Son",
-    7: "The African Texts",
-    8: "Comparison",
 }
 
-
 CHAPTERS = {
-    1: ("How the Paper Examines a Set Text", 6),
-    2: ("The Bank: Building Your Own", 6),
-    3: ("Character: Maps, Functions, Contrasts", 6),
-    4: ("Theme: The Ledger", 6),
-    5: ("Othello: A Worked Model", 6),
-    6: ("Native Son: A Worked Model", 6),
-    7: ("The Three African Texts: Dossiers", 6),
-    8: ("Comparison and the Exam Hall", 6),
+    1: ("How a Set Text Is Tested", 7),
+    2: ("Harvest of Corruption", 7),
+    3: ("Othello", 7),
+    4: ("Faceless", 7),
+    5: ("Lonely Days", 8),
+    6: ("Native Son", 8),
 }
 
 LETTERS = "ABCD"
@@ -131,7 +126,7 @@ def mcq(num, stem, opts):
 def render_chapter(ch):
     title, last_section = CHAPTERS[ch]
     qs = BANK[ch]
-    items = balance(qs, seed=2000 + ch * 41)
+    items = balance(qs, seed=1000 + ch * 37)
     n = len(items)
     keys = [k for _s, _o, k, _sol in items]
 
@@ -142,7 +137,6 @@ def render_chapter(ch):
         "",
         "#block(",
         "  width: 100%,",
-        "  breakable: false,",
         "  fill: jamb-navy,",
         "  stroke: 1.5pt + jamb-bright,",
         "  radius: 10pt,",
@@ -153,7 +147,7 @@ def render_chapter(ch):
         f'  #text(font: "DejaVu Sans", size: 17pt, weight: "bold", fill: white)[Chapter {ch} Practice Set]',
         "  #v(3pt)",
         '  #text(font: "DejaVu Sans", size: 9.8pt, fill: rgb("#CBD5E1"))[',
-        f"    {n} exam-standard questions on {title.lower()}. Attempt every question before",
+        f"    {n} exam-standard questions on {title}. Attempt every question before",
         "    turning to the key, then read the solution for every question — including the ones",
         "    you answered correctly.",
         "  ]",
