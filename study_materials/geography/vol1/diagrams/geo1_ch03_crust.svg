@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 406" width="760" height="406">
+  <defs>
+    <marker id="ag" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#008751"/>
+    </marker>
+    <marker id="an" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#0E1F40"/>
+    </marker>
+    <marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#D97706"/>
+    </marker>
+    <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#DC2626"/>
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="760" height="406" fill="#FFFFFF"/>
+<text x="380.0" y="24" font-family="DejaVu Sans" font-size="13" fill="#0E1F40" text-anchor="middle" font-weight="bold">Inside the earth, and the cycle that recycles the crust</text>
+<circle cx="200" cy="250" r="150" fill="#A7F3D0" stroke="#0E1F40" stroke-width="0.9" opacity="0.95"/>
+<circle cx="200" cy="250" r="118" fill="#FEF3C7" stroke="#0E1F40" stroke-width="0.9" opacity="0.95"/>
+<circle cx="200" cy="250" r="70" fill="#FDE68A" stroke="#0E1F40" stroke-width="0.9" opacity="0.95"/>
+<circle cx="200" cy="250" r="34" fill="#FCA5A5" stroke="#0E1F40" stroke-width="0.9" opacity="0.95"/>
+<path d="M 50 250 A 150 150 0 0 1 350 250 Z" fill="none"/>
+<text x="200" y="84" font-family="DejaVu Sans" font-size="9.2" fill="#0E1F40" text-anchor="middle" font-weight="bold">the earth's interior</text>
+<text x="200" y="112" font-family="DejaVu Sans" font-size="8.8" fill="#0E1F40" text-anchor="middle" font-weight="bold">crust</text>
+<text x="200" y="128" font-family="DejaVu Sans" font-size="8.8" fill="#0E1F40" text-anchor="middle" font-weight="bold">mantle</text>
+<text x="200" y="184" font-family="DejaVu Sans" font-size="8.8" fill="#0E1F40" text-anchor="middle" font-weight="bold">outer core</text>
+<text x="200" y="256" font-family="DejaVu Sans" font-size="8.8" fill="#DC2626" text-anchor="middle" font-weight="bold">inner core</text>
+<text x="200" y="430" font-family="DejaVu Sans" font-size="8.2" fill="#64748B" text-anchor="middle" font-weight="normal">Crust: thin, solid, broken into plates. Mantle: slow, hot, moving.</text>
+<text x="550" y="56" font-family="DejaVu Sans" font-size="10.4" fill="#0E1F40" text-anchor="middle" font-weight="bold">The rock cycle</text>
+<rect x="380" y="76" width="150" height="62" rx="7" fill="#FFFFFF" stroke="#008751" stroke-width="1.4"/>
+<rect x="380" y="76" width="150" height="5" rx="2.5" fill="#008751"/>
+<text x="455" y="102" font-family="DejaVu Sans" font-size="9.2" fill="#008751" text-anchor="middle" font-weight="bold">IGNEOUS</text>
+<text x="455" y="118" font-family="DejaVu Sans" font-size="8.2" fill="#64748B" text-anchor="middle" font-weight="normal">cooled magma</text>
+<rect x="505" y="168" width="150" height="62" rx="7" fill="#FFFFFF" stroke="#2563EB" stroke-width="1.4"/>
+<rect x="505" y="168" width="150" height="5" rx="2.5" fill="#2563EB"/>
+<text x="580" y="194" font-family="DejaVu Sans" font-size="9.2" fill="#2563EB" text-anchor="middle" font-weight="bold">SEDIMENTARY</text>
+<text x="580" y="210" font-family="DejaVu Sans" font-size="8.2" fill="#64748B" text-anchor="middle" font-weight="normal">deposited and pressed</text>
+<rect x="380" y="260" width="150" height="62" rx="7" fill="#FFFFFF" stroke="#7C3AED" stroke-width="1.4"/>
+<rect x="380" y="260" width="150" height="5" rx="2.5" fill="#7C3AED"/>
+<text x="455" y="286" font-family="DejaVu Sans" font-size="9.2" fill="#7C3AED" text-anchor="middle" font-weight="bold">METAMORPHIC</text>
+<text x="455" y="302" font-family="DejaVu Sans" font-size="8.2" fill="#64748B" text-anchor="middle" font-weight="normal">heat and pressure</text>
+<line x1="462" y1="140" x2="512" y2="166" stroke="#008751" stroke-width="1.8" marker-end="url(#ag)"/>
+<text x="536" y="152" font-family="DejaVu Sans" font-size="7.4" fill="#334155" text-anchor="start" font-weight="normal">erosion</text>
+<line x1="540" y1="232" x2="500" y2="258" stroke="#2563EB" stroke-width="1.8" marker-end="url(#ag)"/>
+<text x="548" y="250" font-family="DejaVu Sans" font-size="7.4" fill="#334155" text-anchor="start" font-weight="normal">heat</text>
+<text x="548" y="262" font-family="DejaVu Sans" font-size="7.4" fill="#334155" text-anchor="start" font-weight="normal">pressure</text>
+<line x1="372" y1="258" x2="372" y2="140" stroke="#7C3AED" stroke-width="1.8" marker-end="url(#ag)"/>
+<text x="364" y="204" font-family="DejaVu Sans" font-size="7.4" fill="#334155" text-anchor="end" font-weight="normal">melt</text>
+<rect x="380" y="340" width="350" height="54" rx="7" fill="#ECFDF5" stroke="#008751" stroke-width="1.2"/>
+<text x="392" y="357" font-family="DejaVu Sans" font-size="8.6" fill="#334155" text-anchor="start" font-weight="normal">Evidence for plates: matching coastlines, fossils,</text>
+<text x="392" y="369" font-family="DejaVu Sans" font-size="8.6" fill="#334155" text-anchor="start" font-weight="normal">matching rock ages, and the earthquake belts.</text>
+<text x="392" y="383" font-family="DejaVu Sans" font-size="8.6" fill="#008751" text-anchor="start" font-weight="bold">The theory is continental drift; the mechanism is convection.</text>
+</svg>

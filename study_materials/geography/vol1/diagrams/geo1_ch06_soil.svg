@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 360" width="760" height="360">
+  <defs>
+    <marker id="ag" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#008751"/>
+    </marker>
+    <marker id="an" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#0E1F40"/>
+    </marker>
+    <marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#D97706"/>
+    </marker>
+    <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#DC2626"/>
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="760" height="360" fill="#FFFFFF"/>
+<text x="380.0" y="24" font-family="DejaVu Sans" font-size="13" fill="#0E1F40" text-anchor="middle" font-weight="bold">Breaking the rock, then building the soil</text>
+<text x="190" y="52" font-family="DejaVu Sans" font-size="9.6" fill="#0E1F40" text-anchor="middle" font-weight="bold">WEATHERING: rock broken in place</text>
+<rect x="20" y="64" width="110" height="116" rx="6" fill="#FFFFFF" stroke="#008751" stroke-width="1.2"/>
+<text x="75" y="84" font-family="DejaVu Sans" font-size="8.4" fill="#008751" text-anchor="middle" font-weight="bold">PHYSICAL</text>
+<text x="75" y="104" font-family="DejaVu Sans" font-size="7.8" fill="#334155" text-anchor="middle" font-weight="normal">freeze–thaw</text>
+<text x="75" y="120" font-family="DejaVu Sans" font-size="7.8" fill="#334155" text-anchor="middle" font-weight="normal">heating and cooling</text>
+<text x="75" y="136" font-family="DejaVu Sans" font-size="7.8" fill="#334155" text-anchor="middle" font-weight="normal">salt and roots</text>
+<rect x="140" y="64" width="110" height="116" rx="6" fill="#FFFFFF" stroke="#2563EB" stroke-width="1.2"/>
+<text x="195" y="84" font-family="DejaVu Sans" font-size="8.4" fill="#2563EB" text-anchor="middle" font-weight="bold">CHEMICAL</text>
+<text x="195" y="104" font-family="DejaVu Sans" font-size="7.8" fill="#334155" text-anchor="middle" font-weight="normal">solution</text>
+<text x="195" y="120" font-family="DejaVu Sans" font-size="7.8" fill="#334155" text-anchor="middle" font-weight="normal">oxidation</text>
+<text x="195" y="136" font-family="DejaVu Sans" font-size="7.8" fill="#334155" text-anchor="middle" font-weight="normal">hydrolysis</text>
+<rect x="260" y="64" width="110" height="116" rx="6" fill="#FFFFFF" stroke="#D97706" stroke-width="1.2"/>
+<text x="315" y="84" font-family="DejaVu Sans" font-size="8.4" fill="#D97706" text-anchor="middle" font-weight="bold">BIOLOGICAL</text>
+<text x="315" y="104" font-family="DejaVu Sans" font-size="7.8" fill="#334155" text-anchor="middle" font-weight="normal">roots</text>
+<text x="315" y="120" font-family="DejaVu Sans" font-size="7.8" fill="#334155" text-anchor="middle" font-weight="normal">burrowing animals</text>
+<text x="315" y="136" font-family="DejaVu Sans" font-size="7.8" fill="#334155" text-anchor="middle" font-weight="normal">organic acids</text>
+<text x="190" y="196" font-family="DejaVu Sans" font-size="8.2" fill="#64748B" text-anchor="middle" font-weight="normal" font-style="italic">Weathering is not erosion: nothing has moved yet.</text>
+<text x="540" y="52" font-family="DejaVu Sans" font-size="9.6" fill="#0E1F40" text-anchor="middle" font-weight="bold">A soil profile, top to bottom</text>
+<rect x="410" y="64" width="200" height="30" rx="2" fill="#92400E" stroke="#0E1F40" stroke-width="0.7"/>
+<text x="510" y="83.0" font-family="DejaVu Sans" font-size="8.2" fill="white" text-anchor="middle" font-weight="bold">O — litter</text>
+<rect x="410" y="98" width="200" height="44" rx="2" fill="#78350F" stroke="#0E1F40" stroke-width="0.7"/>
+<text x="510" y="124.0" font-family="DejaVu Sans" font-size="8.2" fill="white" text-anchor="middle" font-weight="bold">A — humus, dark, roots</text>
+<rect x="410" y="146" width="200" height="52" rx="2" fill="#B45309" stroke="#0E1F40" stroke-width="0.7"/>
+<text x="510" y="176.0" font-family="DejaVu Sans" font-size="8.2" fill="white" text-anchor="middle" font-weight="bold">B — subsoil, clay and iron</text>
+<rect x="410" y="202" width="200" height="40" rx="2" fill="#D6D3D1" stroke="#0E1F40" stroke-width="0.7"/>
+<text x="510" y="226.0" font-family="DejaVu Sans" font-size="8.2" fill="#0E1F40" text-anchor="middle" font-weight="bold">C — weathered rock</text>
+<rect x="410" y="246" width="200" height="34" rx="2" fill="#A8A29E" stroke="#0E1F40" stroke-width="0.7"/>
+<text x="510" y="267.0" font-family="DejaVu Sans" font-size="8.2" fill="#0E1F40" text-anchor="middle" font-weight="bold">R — solid rock</text>
+<text x="510" y="296" font-family="DejaVu Sans" font-size="7.8" fill="#64748B" text-anchor="middle" font-weight="normal" font-style="italic">depth increases downwards</text>
+<rect x="20" y="286" width="720" height="60" rx="7" fill="#ECFDF5" stroke="#008751" stroke-width="1.2"/>
+<text x="380" y="306" font-family="DejaVu Sans" font-size="9.4" fill="#008751" text-anchor="middle" font-weight="bold">Soil = mineral particles + humus + air + water + organisms.</text>
+<text x="380" y="322" font-family="DejaVu Sans" font-size="8.4" fill="#334155" text-anchor="middle" font-weight="normal">Texture names the mineral mix — sand, silt, clay — and texture decides drainage and fertility.</text>
+<text x="380" y="336" font-family="DejaVu Sans" font-size="8.4" fill="#334155" text-anchor="middle" font-weight="normal">A soil that holds water but lets air in is the one farmers call fertile.</text>
+</svg>

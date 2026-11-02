@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 388" width="760" height="388">
+  <defs>
+    <marker id="ag" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#008751"/>
+    </marker>
+    <marker id="an" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#0E1F40"/>
+    </marker>
+    <marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#D97706"/>
+    </marker>
+    <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#DC2626"/>
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="760" height="388" fill="#FFFFFF"/>
+<text x="380.0" y="24" font-family="DejaVu Sans" font-size="13" fill="#0E1F40" text-anchor="middle" font-weight="bold">The globe the examiner draws: latitude first, then time</text>
+<circle cx="210" cy="210" r="140" fill="#DBEAFE" stroke="#2563EB" stroke-width="1.6"/>
+<line x1="70.0" y1="210.0" x2="350.0" y2="210.0" stroke="#0E1F40" stroke-width="1.6"/>
+<line x1="81.61158958608263" y1="154.17513035046554" x2="338.38841041391737" y2="154.17513035046554" stroke="#D97706" stroke-width="1.0" stroke-dasharray="4 3"/>
+<line x1="81.61158958608263" y1="265.8248696495345" x2="338.38841041391737" y2="265.8248696495345" stroke="#D97706" stroke-width="1.0" stroke-dasharray="4 3"/>
+<line x1="154.17513035046554" y1="81.61158958608263" x2="265.82486964953443" y2="81.61158958608263" stroke="#64748B" stroke-width="1.0" stroke-dasharray="4 3"/>
+<line x1="154.17513035046554" y1="338.38841041391737" x2="265.82486964953443" y2="338.38841041391737" stroke="#64748B" stroke-width="1.0" stroke-dasharray="4 3"/>
+<ellipse cx="210" cy="210" rx="121.2435565298214" ry="140" fill="none" stroke="#CBD5E1" stroke-width="0.9"/>
+<ellipse cx="210" cy="210" rx="70.0" ry="140" fill="none" stroke="#CBD5E1" stroke-width="0.9"/>
+<ellipse cx="210" cy="210" rx="70.0" ry="140" fill="none" stroke="#CBD5E1" stroke-width="0.9"/>
+<ellipse cx="210" cy="210" rx="121.24355652982138" ry="140" fill="none" stroke="#CBD5E1" stroke-width="0.9"/>
+<line x1="210" y1="58" x2="210" y2="362" stroke="#0E1F40" stroke-width="2" stroke-dasharray="6 4"/>
+<text x="210" y="50" font-family="DejaVu Sans" font-size="8.6" fill="#0E1F40" text-anchor="middle" font-weight="normal">axis</text>
+<text x="210" y="214" font-family="DejaVu Sans" font-size="9" fill="#0E1F40" text-anchor="middle" font-weight="bold">0°</text>
+<text x="222" y="204" font-family="DejaVu Sans" font-size="9" fill="#0E1F40" text-anchor="start" font-weight="bold">N</text>
+<text x="316" y="150.17513035046554" font-family="DejaVu Sans" font-size="8.2" fill="#D97706" text-anchor="start" font-weight="normal">23½°N</text>
+<text x="316" y="275.8248696495345" font-family="DejaVu Sans" font-size="8.2" fill="#D97706" text-anchor="start" font-weight="normal">23½°S</text>
+<text x="400" y="62" font-family="DejaVu Sans" font-size="10.4" fill="#0E1F40" text-anchor="start" font-weight="bold">Two motions, two sets of consequences</text>
+<rect x="400" y="76" width="330" height="116" rx="7" fill="#FFFFFF" stroke="#008751" stroke-width="1.4"/>
+<rect x="400" y="76" width="330" height="5" rx="2.5" fill="#008751"/>
+<text x="412" y="100" font-family="DejaVu Sans" font-size="9.6" fill="#008751" text-anchor="start" font-weight="bold">ROTATION</text>
+<text x="412" y="115" font-family="DejaVu Sans" font-size="8.4" fill="#64748B" text-anchor="start" font-weight="normal">24 hours, west to east</text>
+<text x="418" y="134" font-family="DejaVu Sans" font-size="8.6" fill="#0E1F40" text-anchor="start" font-weight="normal">• day and night</text>
+<text x="418" y="148" font-family="DejaVu Sans" font-size="8.6" fill="#0E1F40" text-anchor="start" font-weight="normal">• apparent movement of the sun</text>
+<text x="418" y="162" font-family="DejaVu Sans" font-size="8.6" fill="#0E1F40" text-anchor="start" font-weight="normal">• 15° of longitude = 1 hour</text>
+<text x="418" y="176" font-family="DejaVu Sans" font-size="8.6" fill="#0E1F40" text-anchor="start" font-weight="normal">• deflection of winds and currents</text>
+<rect x="400" y="206" width="330" height="116" rx="7" fill="#FFFFFF" stroke="#2563EB" stroke-width="1.4"/>
+<rect x="400" y="206" width="330" height="5" rx="2.5" fill="#2563EB"/>
+<text x="412" y="230" font-family="DejaVu Sans" font-size="9.6" fill="#2563EB" text-anchor="start" font-weight="bold">REVOLUTION</text>
+<text x="412" y="245" font-family="DejaVu Sans" font-size="8.4" fill="#64748B" text-anchor="start" font-weight="normal">365¼ days, tilted axis</text>
+<text x="418" y="264" font-family="DejaVu Sans" font-size="8.6" fill="#0E1F40" text-anchor="start" font-weight="normal">• the seasons</text>
+<text x="418" y="278" font-family="DejaVu Sans" font-size="8.6" fill="#0E1F40" text-anchor="start" font-weight="normal">• varying day length</text>
+<text x="418" y="292" font-family="DejaVu Sans" font-size="8.6" fill="#0E1F40" text-anchor="start" font-weight="normal">• the overhead sun between the tropics</text>
+<text x="418" y="306" font-family="DejaVu Sans" font-size="8.6" fill="#0E1F40" text-anchor="start" font-weight="normal">• the 23½° tilt does the work</text>
+<rect x="400" y="342" width="330" height="34" rx="6" fill="#FEF3C7" stroke="#D97706" stroke-width="1.1"/>
+<text x="565" y="357" font-family="DejaVu Sans" font-size="8.9" fill="#D97706" text-anchor="middle" font-weight="bold">Longitude gives the time; latitude gives the climate.</text>
+<text x="565" y="369" font-family="DejaVu Sans" font-size="8.2" fill="#334155" text-anchor="middle" font-weight="normal">Two numbers fix a place; each answers a different question.</text>
+</svg>

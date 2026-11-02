@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 440" width="760" height="440">
+  <defs>
+    <marker id="ag" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#008751"/>
+    </marker>
+    <marker id="an" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#0E1F40"/>
+    </marker>
+    <marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#D97706"/>
+    </marker>
+    <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#DC2626"/>
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="760" height="440" fill="#FFFFFF"/>
+<text x="380.0" y="24" font-family="DejaVu Sans" font-size="13" fill="#0E1F40" text-anchor="middle" font-weight="bold">One river, three courses, three kinds of work</text>
+<polyline points="40.0,228.0 45.7,225.9 51.4,223.7 57.1,221.6 62.9,219.5 68.6,217.4 74.3,215.4 80.0,213.3 85.7,211.3 91.4,209.2 97.1,207.2 102.9,205.2 108.6,203.2 114.3,201.2 120.0,199.3 125.7,197.3 131.4,195.4 137.1,193.4 142.9,191.5 148.6,189.6 154.3,187.7 160.0,185.8 165.7,184.0 171.4,182.1 177.1,180.3 182.9,178.5 188.6,176.6 194.3,174.9 200.0,173.1 205.7,171.3 211.4,169.5 217.1,167.8 222.9,166.1 228.6,164.4 234.3,162.7 240.0,161.0 245.7,159.3 251.4,157.6 257.1,156.0 262.9,154.4 268.6,152.8 274.3,151.2 280.0,149.6 285.7,148.0 291.4,146.4 297.1,144.9 302.9,143.4 308.6,141.8 314.3,140.3 320.0,138.9 325.7,137.4 331.4,135.9 337.1,134.5 342.9,133.1 348.6,131.7 354.3,130.3 360.0,128.9 365.7,127.5 371.4,126.2 377.1,124.8 382.9,123.5 388.6,122.2 394.3,120.9 400.0,119.6 405.7,118.4 411.4,117.1 417.1,115.9 422.9,114.7 428.6,113.5 434.3,112.3 440.0,111.2 445.7,110.0 451.4,108.9 457.1,107.8 462.9,106.7 468.6,105.6 474.3,104.6 480.0,103.5 485.7,102.5 491.4,101.5 497.1,100.5 502.9,99.5 508.6,98.6 514.3,97.7 520.0,96.7 525.7,95.8 531.4,94.9 537.1,94.1 542.9,93.2 548.6,92.4 554.3,91.6 560.0,90.8 565.7,90.0 571.4,89.3 577.1,88.6 582.9,87.9 588.6,87.2 594.3,86.5 600.0,85.9 605.7,85.2 611.4,84.6 617.1,84.0 622.9,83.5 628.6,83.0 634.3,82.4 640.0,81.9 645.7,81.5 651.4,81.0 657.1,80.6 662.9,80.2 668.6,79.9 674.3,79.5 680.0,79.2 685.7,78.9 691.4,78.7 697.1,78.5 702.9,78.3 708.6,78.1 714.3,78.0 720.0,78.0" fill="none" stroke="#2563EB" stroke-width="3"/>
+<circle cx="40.0" cy="228.0" r="4" fill="#2563EB"/>
+<circle cx="380.0" cy="123.5" r="4" fill="#2563EB"/>
+<circle cx="720.0" cy="78.0" r="4" fill="#2563EB"/>
+<rect x="15" y="268" width="230" height="104" rx="7" fill="#F8FAFC" stroke="#CBD5E1" stroke-width="1.1"/>
+<text x="130" y="288" font-family="DejaVu Sans" font-size="8.8" fill="#008751" text-anchor="middle" font-weight="bold">UPPER COURSE</text>
+<text x="130" y="302" font-family="DejaVu Sans" font-size="7.8" fill="#64748B" text-anchor="middle" font-weight="normal">steep, fast, vertical erosion</text>
+<text x="130" y="320" font-family="DejaVu Sans" font-size="8.0" fill="#334155" text-anchor="middle" font-weight="normal">V-shaped valley</text>
+<text x="130" y="333" font-family="DejaVu Sans" font-size="8.0" fill="#334155" text-anchor="middle" font-weight="normal">rapids and waterfalls</text>
+<text x="130" y="346" font-family="DejaVu Sans" font-size="8.0" fill="#334155" text-anchor="middle" font-weight="normal">interlocking spurs</text>
+<rect x="265" y="268" width="230" height="104" rx="7" fill="#F8FAFC" stroke="#CBD5E1" stroke-width="1.1"/>
+<text x="380" y="288" font-family="DejaVu Sans" font-size="8.8" fill="#008751" text-anchor="middle" font-weight="bold">MIDDLE COURSE</text>
+<text x="380" y="302" font-family="DejaVu Sans" font-size="7.8" fill="#64748B" text-anchor="middle" font-weight="normal">gradient falls, lateral erosion</text>
+<text x="380" y="320" font-family="DejaVu Sans" font-size="8.0" fill="#334155" text-anchor="middle" font-weight="normal">meanders</text>
+<text x="380" y="333" font-family="DejaVu Sans" font-size="8.0" fill="#334155" text-anchor="middle" font-weight="normal">ox-bow lakes</text>
+<text x="380" y="346" font-family="DejaVu Sans" font-size="8.0" fill="#334155" text-anchor="middle" font-weight="normal">bluffs and slip-off slopes</text>
+<rect x="515" y="268" width="230" height="104" rx="7" fill="#F8FAFC" stroke="#CBD5E1" stroke-width="1.1"/>
+<text x="630" y="288" font-family="DejaVu Sans" font-size="8.8" fill="#008751" text-anchor="middle" font-weight="bold">LOWER COURSE</text>
+<text x="630" y="302" font-family="DejaVu Sans" font-size="7.8" fill="#64748B" text-anchor="middle" font-weight="normal">almost flat, deposition</text>
+<text x="630" y="320" font-family="DejaVu Sans" font-size="8.0" fill="#334155" text-anchor="middle" font-weight="normal">flood plain</text>
+<text x="630" y="333" font-family="DejaVu Sans" font-size="8.0" fill="#334155" text-anchor="middle" font-weight="normal">levees</text>
+<text x="630" y="346" font-family="DejaVu Sans" font-size="8.0" fill="#334155" text-anchor="middle" font-weight="normal">delta or estuary</text>
+<text x="560" y="66" font-family="DejaVu Sans" font-size="8.4" fill="#64748B" text-anchor="middle" font-weight="normal" font-style="italic">energy falls as the gradient falls</text>
+<rect x="10" y="386" width="740" height="44" rx="7" fill="#ECFDF5" stroke="#008751" stroke-width="1.2"/>
+<text x="380" y="404" font-family="DejaVu Sans" font-size="9" fill="#008751" text-anchor="middle" font-weight="bold">Erosion dominates the upper course, transport the middle, deposition the lower.</text>
+<text x="380" y="418" font-family="DejaVu Sans" font-size="8.3" fill="#334155" text-anchor="middle" font-weight="normal">A landform names the process and the position: waterfall = upper, levee = lower.</text>
+</svg>
