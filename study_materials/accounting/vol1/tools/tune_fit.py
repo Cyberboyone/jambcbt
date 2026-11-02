@@ -24,18 +24,20 @@ from pathlib import Path
 HERE = Path(__file__).resolve().parent
 OUT = HERE.parent
 
-PDF = OUT / "JAMB_Economics_Volume1_The_Market.pdf"
+PDF = OUT / "JAMB_Financial_Accounting_Volume1_The_Books.pdf"
 
 # key -> (anchor heading whose drill/paper owns the run, heading that ends it)
 RUNS = {
-    "drill_ch01": ("Chapter 1 Practice Drill — 40 Questions", "Chapter 2: Demand and Utility"),
-    "drill_ch02": ("Chapter 2 Practice Drill — 40 Questions", "Chapter 3: Supply and Equilibrium"),
-    "drill_ch03": ("Chapter 3 Practice Drill — 40 Questions", "Chapter 4: Elasticity"),
-    "drill_ch04": ("Chapter 4 Practice Drill — 40 Questions", "Chapter 5: Production and Cost"),
-    "drill_ch05": ("Chapter 5 Practice Drill — 40 Questions", "Chapter 6: Market Structures"),
-    "drill_ch06": ("Chapter 6 Practice Drill — 40 Questions", "Full Paper 1: The Market Under Pressure"),
-    "paper1": ("Full Paper 1: The Market Under Pressure", "Full Paper 2: Curves, Costs and the National Accounts"),
-    "paper2": ("Full Paper 2: Curves, Costs and the National Accounts", "Appendix A: 60 Rapid-Fire Recall Pairs"),
+    "drill_ch01": ("Chapter 1 Practice Drill — 40 Questions", "Chapter 2: The Accounting Equation"),
+    "drill_ch02": ("Chapter 2 Practice Drill — 40 Questions", "Chapter 3: Documents, Journals"),
+    "drill_ch03": ("Chapter 3 Practice Drill — 40 Questions", "Chapter 4: Control Accounts"),
+    "drill_ch04": ("Chapter 4 Practice Drill — 40 Questions", "Chapter 5: Final Accounts"),
+    "drill_ch05": ("Chapter 5 Practice Drill — 40 Questions", "Chapter 6: Correction of Errors"),
+    "drill_ch06": ("Chapter 6 Practice Drill — 40 Questions", "Chapter 7: Partnership Accounts"),
+    "drill_ch07": ("Chapter 7 Practice Drill — 40 Questions", "Chapter 8: Company Accounts"),
+    "drill_ch08": ("Chapter 8 Practice Drill — 40 Questions", "Full Paper 1: The Books Under Pressure"),
+    "paper1": ("Full Paper 1: The Books Under Pressure", "Full Paper 2: Adjustments, Appropriations"),
+    "paper2": ("Full Paper 2: Adjustments, Appropriations", "Appendix A: 60 Rapid-Fire Recall Pairs"),
     "bank120": ("Appendix B: The 120-Question Master Bank", "Appendix C: Consolidated Answer Keys"),
 }
 
@@ -59,7 +61,7 @@ def toc():
 
 
 def rebuild() -> None:
-    for script in ("drills_eco1.py", "papers_eco1.py"):
+    for script in ("drills_acc1.py", "papers_acc1.py"):
         subprocess.run([sys.executable, str(HERE / script)], check=True, stdout=subprocess.DEVNULL)
     subprocess.run([sys.executable, str(OUT / "build.py")], check=True, stdout=subprocess.DEVNULL)
 

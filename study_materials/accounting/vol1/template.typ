@@ -624,8 +624,8 @@
         below: 0pt,
       )[
         #grid(
-          columns: (1fr, auto),
-          column-gutter: 5pt,
+          columns: (1fr, 17pt),
+          column-gutter: 4pt,
           align: (left + top, right + top),
           text(
             font: "DejaVu Sans",
