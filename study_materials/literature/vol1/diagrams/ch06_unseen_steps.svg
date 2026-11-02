@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 320" width="760" height="320">
+  <defs>
+    <marker id="ag" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#008751"/>
+    </marker>
+    <marker id="an" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#0E1F40"/>
+    </marker>
+    <marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#D97706"/>
+    </marker>
+    <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#DC2626"/>
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="760" height="320" fill="#F8FAFC"/>
+<rect x="0" y="0" width="760" height="320" rx="10" fill="#F8FAFC" stroke="#CBD5E1" stroke-width="1.2"/>
+<text x="380.0" y="26" font-family="DejaVu Sans" font-size="13" fill="#0E1F40" text-anchor="middle" font-weight="bold">The Unseen Extract: Four Moves in Four Minutes</text>
+<text x="380.0" y="44" font-family="DejaVu Sans" font-size="9.2" fill="#64748B" text-anchor="middle" font-weight="normal">You are not being asked whether you like it; you are being asked what it is doing</text>
+<rect x="26" y="66" width="170" height="168" rx="8" fill="#FFFFFF" stroke="#008751" stroke-width="1.5"/>
+<rect x="26" y="66" width="170" height="6" rx="3" fill="#008751"/>
+<circle cx="50" cy="96" r="12" fill="#008751"/>
+<text x="50" y="100" font-family="DejaVu Sans" font-size="10.5" fill="#FFFFFF" text-anchor="middle" font-weight="bold">1</text>
+<text x="111" y="100" font-family="DejaVu Sans" font-size="8.6" fill="#008751" text-anchor="middle" font-weight="bold">PLACE IT</text>
+<text x="111" y="122" font-family="DejaVu Sans" font-size="8.2" fill="#334155" text-anchor="middle" font-weight="normal">Genre, speaker, situation — in</text>
+<text x="111" y="133" font-family="DejaVu Sans" font-size="8.2" fill="#334155" text-anchor="middle" font-weight="normal">one line each.</text>
+<line x1="200" y1="150" x2="206" y2="150" stroke="#64748B" stroke-width="1.4" marker-end="url(#ag)"/>
+<rect x="208" y="66" width="170" height="168" rx="8" fill="#FFFFFF" stroke="#2563EB" stroke-width="1.5"/>
+<rect x="208" y="66" width="170" height="6" rx="3" fill="#2563EB"/>
+<circle cx="232" cy="96" r="12" fill="#2563EB"/>
+<text x="232" y="100" font-family="DejaVu Sans" font-size="10.5" fill="#FFFFFF" text-anchor="middle" font-weight="bold">2</text>
+<text x="293" y="100" font-family="DejaVu Sans" font-size="8.6" fill="#2563EB" text-anchor="middle" font-weight="bold">FOLLOW THE TURN</text>
+<text x="293" y="122" font-family="DejaVu Sans" font-size="8.2" fill="#334155" text-anchor="middle" font-weight="normal">Where does the extract change</text>
+<text x="293" y="133" font-family="DejaVu Sans" font-size="8.2" fill="#334155" text-anchor="middle" font-weight="normal">direction? That hinge is the</text>
+<text x="293" y="144" font-family="DejaVu Sans" font-size="8.2" fill="#334155" text-anchor="middle" font-weight="normal">answer to half the questions.</text>
+<line x1="382" y1="150" x2="388" y2="150" stroke="#64748B" stroke-width="1.4" marker-end="url(#ag)"/>
+<rect x="390" y="66" width="170" height="168" rx="8" fill="#FFFFFF" stroke="#D97706" stroke-width="1.5"/>
+<rect x="390" y="66" width="170" height="6" rx="3" fill="#D97706"/>
+<circle cx="414" cy="96" r="12" fill="#D97706"/>
+<text x="414" y="100" font-family="DejaVu Sans" font-size="10.5" fill="#FFFFFF" text-anchor="middle" font-weight="bold">3</text>
+<text x="475" y="100" font-family="DejaVu Sans" font-size="8.6" fill="#D97706" text-anchor="middle" font-weight="bold">NAME TWO DEVICES</text>
+<text x="475" y="122" font-family="DejaVu Sans" font-size="8.2" fill="#334155" text-anchor="middle" font-weight="normal">Choose the two that carry the</text>
+<text x="475" y="133" font-family="DejaVu Sans" font-size="8.2" fill="#334155" text-anchor="middle" font-weight="normal">tone, not the two you can spell.</text>
+<line x1="564" y1="150" x2="570" y2="150" stroke="#64748B" stroke-width="1.4" marker-end="url(#ag)"/>
+<rect x="572" y="66" width="170" height="168" rx="8" fill="#FFFFFF" stroke="#7C3AED" stroke-width="1.5"/>
+<rect x="572" y="66" width="170" height="6" rx="3" fill="#7C3AED"/>
+<circle cx="596" cy="96" r="12" fill="#7C3AED"/>
+<text x="596" y="100" font-family="DejaVu Sans" font-size="10.5" fill="#FFFFFF" text-anchor="middle" font-weight="bold">4</text>
+<text x="657" y="100" font-family="DejaVu Sans" font-size="8.6" fill="#7C3AED" text-anchor="middle" font-weight="bold">SAY THE EFFECT</text>
+<text x="657" y="122" font-family="DejaVu Sans" font-size="8.2" fill="#334155" text-anchor="middle" font-weight="normal">Finish every answer with what it</text>
+<text x="657" y="133" font-family="DejaVu Sans" font-size="8.2" fill="#334155" text-anchor="middle" font-weight="normal">does to the reader.</text>
+<text x="380.0" y="262" font-family="DejaVu Sans" font-size="8.6" fill="#334155" text-anchor="middle" font-weight="normal">The four moves are the same four for a poem, a speech from a play and a paragraph of a novel —</text>
+<text x="380.0" y="278" font-family="DejaVu Sans" font-size="8.6" fill="#334155" text-anchor="middle" font-weight="normal">which is why the unseen section rewards practice more than reading.</text>
+<text x="380.0" y="308" font-family="DejaVu Sans" font-size="8.6" fill="#008751" text-anchor="middle" font-weight="bold">Never answer “it creates suspense” without saying how. Tone without evidence is a guess.</text>
+</svg>

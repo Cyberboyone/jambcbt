@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 300" width="760" height="300">
+  <defs>
+    <marker id="ag" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#008751"/>
+    </marker>
+    <marker id="an" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#0E1F40"/>
+    </marker>
+    <marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#D97706"/>
+    </marker>
+    <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#DC2626"/>
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="760" height="300" fill="#F8FAFC"/>
+<rect x="0" y="0" width="760" height="300" rx="10" fill="#F8FAFC" stroke="#CBD5E1" stroke-width="1.2"/>
+<text x="380.0" y="26" font-family="DejaVu Sans" font-size="13" fill="#0E1F40" text-anchor="middle" font-weight="bold">The Five Feet</text>
+<text x="380.0" y="44" font-family="DejaVu Sans" font-size="9.2" fill="#64748B" text-anchor="middle" font-weight="normal">A foot is a pattern of stressed (—) and unstressed (˘) syllables</text>
+<rect x="24" y="68" width="712" height="34" rx="6" fill="#FFFFFF" stroke="#008751" stroke-width="1.2"/>
+<text x="44" y="89" font-family="DejaVu Sans" font-size="9.6" fill="#008751" text-anchor="start" font-weight="bold">iamb</text>
+<text x="180" y="91" font-family="DejaVu Sans" font-size="13" fill="#0E1F40" text-anchor="start" font-weight="normal">˘ —</text>
+<text x="270" y="89" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="start" font-weight="normal">a-BOVE</text>
+<text x="420" y="89" font-family="DejaVu Sans" font-size="8.4" fill="#64748B" text-anchor="start" font-weight="normal">the heartbeat of English verse</text>
+<rect x="24" y="110" width="712" height="34" rx="6" fill="#FFFFFF" stroke="#2563EB" stroke-width="1.2"/>
+<text x="44" y="131" font-family="DejaVu Sans" font-size="9.6" fill="#2563EB" text-anchor="start" font-weight="bold">trochee</text>
+<text x="180" y="133" font-family="DejaVu Sans" font-size="13" fill="#0E1F40" text-anchor="start" font-weight="normal">— ˘</text>
+<text x="270" y="131" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="start" font-weight="normal">DOU-ble</text>
+<text x="420" y="131" font-family="DejaVu Sans" font-size="8.4" fill="#64748B" text-anchor="start" font-weight="normal">falls away; used for chant and grief</text>
+<rect x="24" y="152" width="712" height="34" rx="6" fill="#FFFFFF" stroke="#D97706" stroke-width="1.2"/>
+<text x="44" y="173" font-family="DejaVu Sans" font-size="9.6" fill="#D97706" text-anchor="start" font-weight="bold">anapaest</text>
+<text x="180" y="175" font-family="DejaVu Sans" font-size="13" fill="#0E1F40" text-anchor="start" font-weight="normal">˘ ˘ —</text>
+<text x="270" y="173" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="start" font-weight="normal">in-ter-VENE</text>
+<text x="420" y="173" font-family="DejaVu Sans" font-size="8.4" fill="#64748B" text-anchor="start" font-weight="normal">hurries; used for motion</text>
+<rect x="24" y="194" width="712" height="34" rx="6" fill="#FFFFFF" stroke="#7C3AED" stroke-width="1.2"/>
+<text x="44" y="215" font-family="DejaVu Sans" font-size="9.6" fill="#7C3AED" text-anchor="start" font-weight="bold">dactyl</text>
+<text x="180" y="217" font-family="DejaVu Sans" font-size="13" fill="#0E1F40" text-anchor="start" font-weight="normal">— ˘ ˘</text>
+<text x="270" y="215" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="start" font-weight="normal">MER-ri-ly</text>
+<text x="420" y="215" font-family="DejaVu Sans" font-size="8.4" fill="#64748B" text-anchor="start" font-weight="normal">trips; used for dance</text>
+<rect x="24" y="236" width="712" height="34" rx="6" fill="#FFFFFF" stroke="#DC2626" stroke-width="1.2"/>
+<text x="44" y="257" font-family="DejaVu Sans" font-size="9.6" fill="#DC2626" text-anchor="start" font-weight="bold">spondee</text>
+<text x="180" y="259" font-family="DejaVu Sans" font-size="13" fill="#0E1F40" text-anchor="start" font-weight="normal">— —</text>
+<text x="270" y="257" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="start" font-weight="normal">HEART-BREAK</text>
+<text x="420" y="257" font-family="DejaVu Sans" font-size="8.4" fill="#64748B" text-anchor="start" font-weight="normal">heavy; rare, and always deliberate</text>
+<text x="380.0" y="284" font-family="DejaVu Sans" font-size="8.6" fill="#64748B" text-anchor="middle" font-weight="normal">Count the feet per line for the metre: five iambs is iambic pentameter, the default of English poetry.</text>
+</svg>

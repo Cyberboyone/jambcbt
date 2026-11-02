@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 330" width="760" height="330">
+  <defs>
+    <marker id="ag" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#008751"/>
+    </marker>
+    <marker id="an" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#0E1F40"/>
+    </marker>
+    <marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#D97706"/>
+    </marker>
+    <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#DC2626"/>
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="760" height="330" fill="#FFFFFF"/>
+<rect x="0" y="0" width="760" height="330" rx="10" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="1.2"/>
+<text x="380.0" y="26" font-family="DejaVu Sans" font-size="13" fill="#0E1F40" text-anchor="middle" font-weight="bold">Reading a Poem in Six Steps</text>
+<text x="380.0" y="44" font-family="DejaVu Sans" font-size="9.2" fill="#64748B" text-anchor="middle" font-weight="normal">The order matters: each step answers a question the next one assumes</text>
+<rect x="28" y="66" width="224" height="104" rx="8" fill="#FFFFFF" stroke="#008751" stroke-width="1.4"/>
+<circle cx="54" cy="94" r="13" fill="#008751"/>
+<text x="54" y="98" font-family="DejaVu Sans" font-size="11" fill="#FFFFFF" text-anchor="middle" font-weight="bold">1</text>
+<text x="76" y="92" font-family="DejaVu Sans" font-size="9.8" fill="#008751" text-anchor="start" font-weight="bold">Say it aloud</text>
+<text x="76" y="108" font-family="DejaVu Sans" font-size="8.2" fill="#334155" text-anchor="start" font-weight="normal">Sound first. Where does it slow, stop, ring?</text>
+<rect x="272" y="66" width="224" height="104" rx="8" fill="#FFFFFF" stroke="#2563EB" stroke-width="1.4"/>
+<circle cx="298" cy="94" r="13" fill="#2563EB"/>
+<text x="298" y="98" font-family="DejaVu Sans" font-size="11" fill="#FFFFFF" text-anchor="middle" font-weight="bold">2</text>
+<text x="320" y="92" font-family="DejaVu Sans" font-size="9.8" fill="#2563EB" text-anchor="start" font-weight="bold">Who speaks?</text>
+<text x="320" y="108" font-family="DejaVu Sans" font-size="8.2" fill="#334155" text-anchor="start" font-weight="normal">The persona — not necessarily the poet.</text>
+<rect x="516" y="66" width="224" height="104" rx="8" fill="#FFFFFF" stroke="#D97706" stroke-width="1.4"/>
+<circle cx="542" cy="94" r="13" fill="#D97706"/>
+<text x="542" y="98" font-family="DejaVu Sans" font-size="11" fill="#FFFFFF" text-anchor="middle" font-weight="bold">3</text>
+<text x="564" y="92" font-family="DejaVu Sans" font-size="9.8" fill="#D97706" text-anchor="start" font-weight="bold">What is the scene?</text>
+<text x="564" y="108" font-family="DejaVu Sans" font-size="8.2" fill="#334155" text-anchor="start" font-weight="normal">The literal situation in one sentence.</text>
+<rect x="28" y="184" width="224" height="104" rx="8" fill="#FFFFFF" stroke="#7C3AED" stroke-width="1.4"/>
+<circle cx="54" cy="212" r="13" fill="#7C3AED"/>
+<text x="54" y="216" font-family="DejaVu Sans" font-size="11" fill="#FFFFFF" text-anchor="middle" font-weight="bold">4</text>
+<text x="76" y="210" font-family="DejaVu Sans" font-size="9.8" fill="#7C3AED" text-anchor="start" font-weight="bold">What is the argument?</text>
+<text x="76" y="226" font-family="DejaVu Sans" font-size="8.2" fill="#334155" text-anchor="start" font-weight="normal">The movement from line to line: turn,</text>
+<text x="76" y="237" font-family="DejaVu Sans" font-size="8.2" fill="#334155" text-anchor="start" font-weight="normal">concession, conclusion.</text>
+<rect x="272" y="184" width="224" height="104" rx="8" fill="#FFFFFF" stroke="#DC2626" stroke-width="1.4"/>
+<circle cx="298" cy="212" r="13" fill="#DC2626"/>
+<text x="298" y="216" font-family="DejaVu Sans" font-size="11" fill="#FFFFFF" text-anchor="middle" font-weight="bold">5</text>
+<text x="320" y="210" font-family="DejaVu Sans" font-size="9.8" fill="#DC2626" text-anchor="start" font-weight="bold">Name the devices</text>
+<text x="320" y="226" font-family="DejaVu Sans" font-size="8.2" fill="#334155" text-anchor="start" font-weight="normal">Only those that do work; a list is not an</text>
+<text x="320" y="237" font-family="DejaVu Sans" font-size="8.2" fill="#334155" text-anchor="start" font-weight="normal">answer.</text>
+<rect x="516" y="184" width="224" height="104" rx="8" fill="#FFFFFF" stroke="#008751" stroke-width="1.4"/>
+<circle cx="542" cy="212" r="13" fill="#008751"/>
+<text x="542" y="216" font-family="DejaVu Sans" font-size="11" fill="#FFFFFF" text-anchor="middle" font-weight="bold">6</text>
+<text x="564" y="210" font-family="DejaVu Sans" font-size="9.8" fill="#008751" text-anchor="start" font-weight="bold">Say what it is for</text>
+<text x="564" y="226" font-family="DejaVu Sans" font-size="8.2" fill="#334155" text-anchor="start" font-weight="normal">Tone and theme, in one sentence you could</text>
+<text x="564" y="237" font-family="DejaVu Sans" font-size="8.2" fill="#334155" text-anchor="start" font-weight="normal">defend.</text>
+<text x="380.0" y="300" font-family="DejaVu Sans" font-size="8.8" fill="#64748B" text-anchor="middle" font-weight="normal">A poem is not a riddle with a hidden answer; it is a performance you are asked to describe.</text>
+<text x="380.0" y="316" font-family="DejaVu Sans" font-size="8.8" fill="#008751" text-anchor="middle" font-weight="bold">Steps 1 to 3 are comprehension. Steps 4 to 6 are the marks.</text>
+</svg>

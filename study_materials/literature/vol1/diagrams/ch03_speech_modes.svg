@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 320" width="760" height="320">
+  <defs>
+    <marker id="ag" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#008751"/>
+    </marker>
+    <marker id="an" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#0E1F40"/>
+    </marker>
+    <marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#D97706"/>
+    </marker>
+    <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#DC2626"/>
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="760" height="320" fill="#F8FAFC"/>
+<rect x="0" y="0" width="760" height="320" rx="10" fill="#F8FAFC" stroke="#CBD5E1" stroke-width="1.2"/>
+<text x="380.0" y="26" font-family="DejaVu Sans" font-size="13" fill="#0E1F40" text-anchor="middle" font-weight="bold">Soliloquy, Aside, Monologue — Who Hears It?</text>
+<text x="380.0" y="44" font-family="DejaVu Sans" font-size="9.2" fill="#64748B" text-anchor="middle" font-weight="normal">Three ways of speaking on a stage, separated by the audience the words are for.</text>
+<rect x="80" y="78" width="600" height="66" rx="8" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="1.3"/>
+<text x="380" y="100" font-family="DejaVu Sans" font-size="8.4" fill="#64748B" text-anchor="middle" font-weight="bold">THE STAGE</text>
+<rect x="120" y="110" width="90" height="24" rx="5" fill="#ECFDF5" stroke="#008751" stroke-width="1.2"/>
+<text x="165" y="126" font-family="DejaVu Sans" font-size="8.6" fill="#008751" text-anchor="middle" font-weight="normal">speaker</text>
+<rect x="300" y="110" width="90" height="24" rx="5" fill="#ECFDF5" stroke="#008751" stroke-width="1.2"/>
+<text x="345" y="126" font-family="DejaVu Sans" font-size="8.6" fill="#008751" text-anchor="middle" font-weight="normal">others</text>
+<rect x="560" y="110" width="90" height="24" rx="5" fill="#ECFDF5" stroke="#008751" stroke-width="1.2"/>
+<text x="605" y="126" font-family="DejaVu Sans" font-size="8.6" fill="#008751" text-anchor="middle" font-weight="normal">audience</text>
+<rect x="80" y="166" width="600" height="40" rx="6" fill="#FFFFFF" stroke="#008751" stroke-width="1.3"/>
+<text x="96" y="182" font-family="DejaVu Sans" font-size="9.2" fill="#008751" text-anchor="start" font-weight="bold">SOLILOQUY</text>
+<text x="96" y="196" font-family="DejaVu Sans" font-size="8.0" fill="#64748B" text-anchor="start" font-weight="normal">alone on stage, thinking aloud</text>
+<text x="430" y="184" font-family="DejaVu Sans" font-size="8.2" fill="#334155" text-anchor="start" font-weight="normal">the audience only</text>
+<text x="430" y="197" font-family="DejaVu Sans" font-size="7.6" fill="#64748B" text-anchor="start" font-weight="normal">Macbeth's “Tomorrow, and tomorrow”</text>
+<rect x="80" y="214" width="600" height="40" rx="6" fill="#FFFFFF" stroke="#D97706" stroke-width="1.3"/>
+<text x="96" y="230" font-family="DejaVu Sans" font-size="9.2" fill="#D97706" text-anchor="start" font-weight="bold">ASIDE</text>
+<text x="96" y="244" font-family="DejaVu Sans" font-size="8.0" fill="#64748B" text-anchor="start" font-weight="normal">a short remark, others present, unheard by them</text>
+<text x="430" y="232" font-family="DejaVu Sans" font-size="8.2" fill="#334155" text-anchor="start" font-weight="normal">the audience, over the other characters' heads</text>
+<text x="430" y="245" font-family="DejaVu Sans" font-size="7.6" fill="#64748B" text-anchor="start" font-weight="normal">“He speaks plain cannon” — and no one reacts</text>
+<rect x="80" y="262" width="600" height="40" rx="6" fill="#FFFFFF" stroke="#2563EB" stroke-width="1.3"/>
+<text x="96" y="278" font-family="DejaVu Sans" font-size="9.2" fill="#2563EB" text-anchor="start" font-weight="bold">MONOLOGUE</text>
+<text x="96" y="292" font-family="DejaVu Sans" font-size="8.0" fill="#64748B" text-anchor="start" font-weight="normal">one voice sustained, others may be present</text>
+<text x="430" y="280" font-family="DejaVu Sans" font-size="8.2" fill="#334155" text-anchor="start" font-weight="normal">whoever is on stage</text>
+<text x="430" y="293" font-family="DejaVu Sans" font-size="7.6" fill="#64748B" text-anchor="start" font-weight="normal">a long speech that the others can hear</text>
+<text x="380.0" y="308" font-family="DejaVu Sans" font-size="8.8" fill="#64748B" text-anchor="middle" font-weight="normal">If another character could answer, it is not a soliloquy; if they cannot hear it, it is an aside.</text>
+</svg>

@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 330" width="760" height="330">
+  <defs>
+    <marker id="ag" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#008751"/>
+    </marker>
+    <marker id="an" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#0E1F40"/>
+    </marker>
+    <marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#D97706"/>
+    </marker>
+    <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#DC2626"/>
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="760" height="330" fill="#FFFFFF"/>
+<rect x="0" y="0" width="760" height="330" rx="10" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="1.2"/>
+<text x="380.0" y="26" font-family="DejaVu Sans" font-size="13" fill="#0E1F40" text-anchor="middle" font-weight="bold">The Three Genres — and the Question Each One Answers</text>
+<text x="380.0" y="44" font-family="DejaVu Sans" font-size="9.4" fill="#64748B" text-anchor="middle" font-weight="normal">A genre is not a topic; it is the way the words arrive</text>
+<rect x="22" y="62" width="232" height="196" rx="8" fill="#FFFFFF" stroke="#2563EB" stroke-width="1.5"/>
+<rect x="22" y="62" width="232" height="6" rx="3" fill="#2563EB"/>
+<text x="138" y="90" font-family="DejaVu Sans" font-size="13" fill="#2563EB" text-anchor="middle" font-weight="bold">DRAMA</text>
+<text x="138" y="108" font-family="DejaVu Sans" font-size="9.2" fill="#64748B" text-anchor="middle" font-weight="normal">told in action</text>
+<circle cx="40" cy="132" r="2.6" fill="#2563EB"/>
+<text x="50" y="136" font-family="DejaVu Sans" font-size="9.3" fill="#334155" text-anchor="start" font-weight="normal">characters speak and act</text>
+<circle cx="40" cy="154" r="2.6" fill="#2563EB"/>
+<text x="50" y="158" font-family="DejaVu Sans" font-size="9.3" fill="#334155" text-anchor="start" font-weight="normal">a plot on a stage</text>
+<circle cx="40" cy="176" r="2.6" fill="#2563EB"/>
+<text x="50" y="180" font-family="DejaVu Sans" font-size="9.3" fill="#334155" text-anchor="start" font-weight="normal">before an audience</text>
+<line x1="36" y1="206" x2="240" y2="206" stroke="#CBD5E1" stroke-width="1.0"/>
+<text x="138" y="224" font-family="DejaVu Sans" font-size="8.2" fill="#64748B" text-anchor="middle" font-weight="normal">the question it sets</text>
+<text x="138" y="240" font-family="DejaVu Sans" font-size="8.8" fill="#334155" text-anchor="middle" font-weight="normal">Who wants what, and who stops them?</text>
+<rect x="264" y="62" width="232" height="196" rx="8" fill="#FFFFFF" stroke="#D97706" stroke-width="1.5"/>
+<rect x="264" y="62" width="232" height="6" rx="3" fill="#D97706"/>
+<text x="380" y="90" font-family="DejaVu Sans" font-size="13" fill="#D97706" text-anchor="middle" font-weight="bold">PROSE</text>
+<text x="380" y="108" font-family="DejaVu Sans" font-size="9.2" fill="#64748B" text-anchor="middle" font-weight="normal">told in narration</text>
+<circle cx="282" cy="132" r="2.6" fill="#D97706"/>
+<text x="292" y="136" font-family="DejaVu Sans" font-size="9.3" fill="#334155" text-anchor="start" font-weight="normal">a narrator reports</text>
+<circle cx="282" cy="154" r="2.6" fill="#D97706"/>
+<text x="292" y="158" font-family="DejaVu Sans" font-size="9.3" fill="#334155" text-anchor="start" font-weight="normal">time can stretch or fold</text>
+<circle cx="282" cy="176" r="2.6" fill="#D97706"/>
+<text x="292" y="180" font-family="DejaVu Sans" font-size="9.3" fill="#334155" text-anchor="start" font-weight="normal">read at your own pace</text>
+<line x1="278" y1="206" x2="482" y2="206" stroke="#CBD5E1" stroke-width="1.0"/>
+<text x="380" y="224" font-family="DejaVu Sans" font-size="8.2" fill="#64748B" text-anchor="middle" font-weight="normal">the question it sets</text>
+<text x="380" y="240" font-family="DejaVu Sans" font-size="8.8" fill="#334155" text-anchor="middle" font-weight="normal">Whose voice tells it, and what does it hide?</text>
+<rect x="506" y="62" width="232" height="196" rx="8" fill="#FFFFFF" stroke="#7C3AED" stroke-width="1.5"/>
+<rect x="506" y="62" width="232" height="6" rx="3" fill="#7C3AED"/>
+<text x="622" y="90" font-family="DejaVu Sans" font-size="13" fill="#7C3AED" text-anchor="middle" font-weight="bold">POETRY</text>
+<text x="622" y="108" font-family="DejaVu Sans" font-size="9.2" fill="#64748B" text-anchor="middle" font-weight="normal">told in compression</text>
+<circle cx="524" cy="132" r="2.6" fill="#7C3AED"/>
+<text x="534" y="136" font-family="DejaVu Sans" font-size="9.3" fill="#334155" text-anchor="start" font-weight="normal">few words, much weight</text>
+<circle cx="524" cy="154" r="2.6" fill="#7C3AED"/>
+<text x="534" y="158" font-family="DejaVu Sans" font-size="9.3" fill="#334155" text-anchor="start" font-weight="normal">sound is part of meaning</text>
+<circle cx="524" cy="176" r="2.6" fill="#7C3AED"/>
+<text x="534" y="180" font-family="DejaVu Sans" font-size="9.3" fill="#334155" text-anchor="start" font-weight="normal">the line is the unit</text>
+<line x1="520" y1="206" x2="724" y2="206" stroke="#CBD5E1" stroke-width="1.0"/>
+<text x="622" y="224" font-family="DejaVu Sans" font-size="8.2" fill="#64748B" text-anchor="middle" font-weight="normal">the question it sets</text>
+<text x="622" y="240" font-family="DejaVu Sans" font-size="8.8" fill="#334155" text-anchor="middle" font-weight="normal">What is said twice — once in words, once in</text>
+<text x="622" y="252" font-family="DejaVu Sans" font-size="8.8" fill="#334155" text-anchor="middle" font-weight="normal">sound?</text>
+<text x="380.0" y="316" font-family="DejaVu Sans" font-size="8.8" fill="#64748B" text-anchor="middle" font-weight="normal">Every paper question begins by placing the extract: name the genre first, then answer.</text>
+</svg>

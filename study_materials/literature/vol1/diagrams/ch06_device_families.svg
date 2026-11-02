@@ -1,0 +1,84 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 360" width="760" height="360">
+  <defs>
+    <marker id="ag" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#008751"/>
+    </marker>
+    <marker id="an" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#0E1F40"/>
+    </marker>
+    <marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#D97706"/>
+    </marker>
+    <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#DC2626"/>
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="760" height="360" fill="#FFFFFF"/>
+<rect x="0" y="0" width="760" height="360" rx="10" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="1.2"/>
+<text x="380.0" y="26" font-family="DejaVu Sans" font-size="13" fill="#0E1F40" text-anchor="middle" font-weight="bold">Five Families of Device</text>
+<text x="380.0" y="44" font-family="DejaVu Sans" font-size="9.2" fill="#64748B" text-anchor="middle" font-weight="normal">Almost every device in the paper belongs to one of these — name the family before you name the device</text>
+<rect x="20" y="62" width="138" height="254" rx="8" fill="#FFFFFF" stroke="#2563EB" stroke-width="1.4"/>
+<rect x="20" y="62" width="138" height="6" rx="3" fill="#2563EB"/>
+<text x="89" y="86" font-family="DejaVu Sans" font-size="9.0" fill="#2563EB" text-anchor="middle" font-weight="bold">COMPARISON</text>
+<text x="89" y="100.0" font-family="DejaVu Sans" font-size="7.4" fill="#64748B" text-anchor="middle" font-weight="normal">one thing is said to be another</text>
+<rect x="30" y="132" width="118" height="24" rx="4" fill="#F8FAFC" stroke="#CBD5E1" stroke-width="0.9"/>
+<text x="89" y="148" font-family="DejaVu Sans" font-size="7.8" fill="#334155" text-anchor="middle" font-weight="normal">simile</text>
+<rect x="30" y="162" width="118" height="24" rx="4" fill="#F8FAFC" stroke="#CBD5E1" stroke-width="0.9"/>
+<text x="89" y="178" font-family="DejaVu Sans" font-size="7.8" fill="#334155" text-anchor="middle" font-weight="normal">metaphor</text>
+<rect x="30" y="192" width="118" height="24" rx="4" fill="#F8FAFC" stroke="#CBD5E1" stroke-width="0.9"/>
+<text x="89" y="208" font-family="DejaVu Sans" font-size="7.8" fill="#334155" text-anchor="middle" font-weight="normal">personification</text>
+<rect x="30" y="222" width="118" height="24" rx="4" fill="#F8FAFC" stroke="#CBD5E1" stroke-width="0.9"/>
+<text x="89" y="238" font-family="DejaVu Sans" font-size="7.8" fill="#334155" text-anchor="middle" font-weight="normal">analogy</text>
+<rect x="166" y="62" width="138" height="254" rx="8" fill="#FFFFFF" stroke="#008751" stroke-width="1.4"/>
+<rect x="166" y="62" width="138" height="6" rx="3" fill="#008751"/>
+<text x="235" y="86" font-family="DejaVu Sans" font-size="9.0" fill="#008751" text-anchor="middle" font-weight="bold">SOUND</text>
+<text x="235" y="100.0" font-family="DejaVu Sans" font-size="7.4" fill="#64748B" text-anchor="middle" font-weight="normal">the ear carries meaning</text>
+<rect x="176" y="132" width="118" height="24" rx="4" fill="#F8FAFC" stroke="#CBD5E1" stroke-width="0.9"/>
+<text x="235" y="148" font-family="DejaVu Sans" font-size="7.8" fill="#334155" text-anchor="middle" font-weight="normal">alliteration</text>
+<rect x="176" y="162" width="118" height="24" rx="4" fill="#F8FAFC" stroke="#CBD5E1" stroke-width="0.9"/>
+<text x="235" y="178" font-family="DejaVu Sans" font-size="7.8" fill="#334155" text-anchor="middle" font-weight="normal">assonance</text>
+<rect x="176" y="192" width="118" height="24" rx="4" fill="#F8FAFC" stroke="#CBD5E1" stroke-width="0.9"/>
+<text x="235" y="208" font-family="DejaVu Sans" font-size="7.8" fill="#334155" text-anchor="middle" font-weight="normal">onomatopoeia</text>
+<rect x="176" y="222" width="118" height="24" rx="4" fill="#F8FAFC" stroke="#CBD5E1" stroke-width="0.9"/>
+<text x="235" y="238" font-family="DejaVu Sans" font-size="7.8" fill="#334155" text-anchor="middle" font-weight="normal">rhyme</text>
+<rect x="312" y="62" width="138" height="254" rx="8" fill="#FFFFFF" stroke="#DC2626" stroke-width="1.4"/>
+<rect x="312" y="62" width="138" height="6" rx="3" fill="#DC2626"/>
+<text x="381" y="86" font-family="DejaVu Sans" font-size="9.0" fill="#DC2626" text-anchor="middle" font-weight="bold">INVERSION</text>
+<text x="381" y="100.0" font-family="DejaVu Sans" font-size="7.4" fill="#64748B" text-anchor="middle" font-weight="normal">the words do not mean what</text>
+<text x="381" y="109.6" font-family="DejaVu Sans" font-size="7.4" fill="#64748B" text-anchor="middle" font-weight="normal">they say</text>
+<rect x="322" y="132" width="118" height="24" rx="4" fill="#F8FAFC" stroke="#CBD5E1" stroke-width="0.9"/>
+<text x="381" y="148" font-family="DejaVu Sans" font-size="7.8" fill="#334155" text-anchor="middle" font-weight="normal">verbal irony</text>
+<rect x="322" y="162" width="118" height="24" rx="4" fill="#F8FAFC" stroke="#CBD5E1" stroke-width="0.9"/>
+<text x="381" y="178" font-family="DejaVu Sans" font-size="7.8" fill="#334155" text-anchor="middle" font-weight="normal">sarcasm</text>
+<rect x="322" y="192" width="118" height="24" rx="4" fill="#F8FAFC" stroke="#CBD5E1" stroke-width="0.9"/>
+<text x="381" y="208" font-family="DejaVu Sans" font-size="7.8" fill="#334155" text-anchor="middle" font-weight="normal">hyperbole</text>
+<rect x="322" y="222" width="118" height="24" rx="4" fill="#F8FAFC" stroke="#CBD5E1" stroke-width="0.9"/>
+<text x="381" y="238" font-family="DejaVu Sans" font-size="7.8" fill="#334155" text-anchor="middle" font-weight="normal">litotes</text>
+<rect x="458" y="62" width="138" height="254" rx="8" fill="#FFFFFF" stroke="#D97706" stroke-width="1.4"/>
+<rect x="458" y="62" width="138" height="6" rx="3" fill="#D97706"/>
+<text x="527" y="86" font-family="DejaVu Sans" font-size="9.0" fill="#D97706" text-anchor="middle" font-weight="bold">SUBSTITUTION</text>
+<text x="527" y="100.0" font-family="DejaVu Sans" font-size="7.4" fill="#64748B" text-anchor="middle" font-weight="normal">a part, a neighbour or a softer</text>
+<text x="527" y="109.6" font-family="DejaVu Sans" font-size="7.4" fill="#64748B" text-anchor="middle" font-weight="normal">word stands in</text>
+<rect x="468" y="132" width="118" height="24" rx="4" fill="#F8FAFC" stroke="#CBD5E1" stroke-width="0.9"/>
+<text x="527" y="148" font-family="DejaVu Sans" font-size="7.8" fill="#334155" text-anchor="middle" font-weight="normal">metonymy</text>
+<rect x="468" y="162" width="118" height="24" rx="4" fill="#F8FAFC" stroke="#CBD5E1" stroke-width="0.9"/>
+<text x="527" y="178" font-family="DejaVu Sans" font-size="7.8" fill="#334155" text-anchor="middle" font-weight="normal">synecdoche</text>
+<rect x="468" y="192" width="118" height="24" rx="4" fill="#F8FAFC" stroke="#CBD5E1" stroke-width="0.9"/>
+<text x="527" y="208" font-family="DejaVu Sans" font-size="7.8" fill="#334155" text-anchor="middle" font-weight="normal">euphemism</text>
+<rect x="468" y="222" width="118" height="24" rx="4" fill="#F8FAFC" stroke="#CBD5E1" stroke-width="0.9"/>
+<text x="527" y="238" font-family="DejaVu Sans" font-size="7.8" fill="#334155" text-anchor="middle" font-weight="normal">periphrasis</text>
+<rect x="604" y="62" width="138" height="254" rx="8" fill="#FFFFFF" stroke="#7C3AED" stroke-width="1.4"/>
+<rect x="604" y="62" width="138" height="6" rx="3" fill="#7C3AED"/>
+<text x="673" y="86" font-family="DejaVu Sans" font-size="9.0" fill="#7C3AED" text-anchor="middle" font-weight="bold">REFERENCE</text>
+<text x="673" y="100.0" font-family="DejaVu Sans" font-size="7.4" fill="#64748B" text-anchor="middle" font-weight="normal">the text points outside itself</text>
+<rect x="614" y="132" width="118" height="24" rx="4" fill="#F8FAFC" stroke="#CBD5E1" stroke-width="0.9"/>
+<text x="673" y="148" font-family="DejaVu Sans" font-size="7.8" fill="#334155" text-anchor="middle" font-weight="normal">allusion</text>
+<rect x="614" y="162" width="118" height="24" rx="4" fill="#F8FAFC" stroke="#CBD5E1" stroke-width="0.9"/>
+<text x="673" y="178" font-family="DejaVu Sans" font-size="7.8" fill="#334155" text-anchor="middle" font-weight="normal">symbol</text>
+<rect x="614" y="192" width="118" height="24" rx="4" fill="#F8FAFC" stroke="#CBD5E1" stroke-width="0.9"/>
+<text x="673" y="208" font-family="DejaVu Sans" font-size="7.8" fill="#334155" text-anchor="middle" font-weight="normal">allegory</text>
+<rect x="614" y="222" width="118" height="24" rx="4" fill="#F8FAFC" stroke="#CBD5E1" stroke-width="0.9"/>
+<text x="673" y="238" font-family="DejaVu Sans" font-size="7.8" fill="#334155" text-anchor="middle" font-weight="normal">motif</text>
+<text x="380.0" y="334" font-family="DejaVu Sans" font-size="8.4" fill="#64748B" text-anchor="middle" font-weight="normal">A question rarely asks “name the device”. It asks what the device does — and the family is the answer's first half.</text>
+<text x="380.0" y="348" font-family="DejaVu Sans" font-size="8.4" fill="#008751" text-anchor="middle" font-weight="bold">“It is a metaphor” earns one mark. “It is a metaphor, and it makes the abstract fear into a physical weight” earns all of them.</text>
+</svg>

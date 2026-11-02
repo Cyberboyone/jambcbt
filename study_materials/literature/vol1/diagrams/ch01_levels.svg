@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 320" width="760" height="320">
+  <defs>
+    <marker id="ag" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#008751"/>
+    </marker>
+    <marker id="an" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#0E1F40"/>
+    </marker>
+    <marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#D97706"/>
+    </marker>
+    <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#DC2626"/>
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="760" height="320" fill="#F8FAFC"/>
+<rect x="0" y="0" width="760" height="320" rx="10" fill="#F8FAFC" stroke="#CBD5E1" stroke-width="1.2"/>
+<text x="380.0" y="26" font-family="DejaVu Sans" font-size="13" fill="#0E1F40" text-anchor="middle" font-weight="bold">Four Levels of Reading — the Ladder a Mark Scheme Climbs</text>
+<text x="380.0" y="44" font-family="DejaVu Sans" font-size="9.2" fill="#64748B" text-anchor="middle" font-weight="normal">Most candidates stop at level 2. The marks for levels 3 and 4 are the ones left on the table.</text>
+<rect x="34" y="222" width="164" height="52" rx="7" fill="#FFFFFF" stroke="#008751" stroke-width="1.5"/>
+<rect x="34" y="222" width="164" height="5" rx="2.5" fill="#008751"/>
+<text x="116" y="246" font-family="DejaVu Sans" font-size="9.6" fill="#008751" text-anchor="middle" font-weight="bold">1 · LITERAL</text>
+<text x="116" y="262" font-family="DejaVu Sans" font-size="8.4" fill="#64748B" text-anchor="middle" font-weight="normal">what happens</text>
+<rect x="212" y="182" width="164" height="92" rx="7" fill="#FFFFFF" stroke="#2563EB" stroke-width="1.5"/>
+<rect x="212" y="182" width="164" height="5" rx="2.5" fill="#2563EB"/>
+<text x="294" y="206" font-family="DejaVu Sans" font-size="9.6" fill="#2563EB" text-anchor="middle" font-weight="bold">2 · FIGURATIVE</text>
+<text x="294" y="222" font-family="DejaVu Sans" font-size="8.4" fill="#64748B" text-anchor="middle" font-weight="normal">what it suggests</text>
+<rect x="390" y="142" width="164" height="132" rx="7" fill="#FFFFFF" stroke="#D97706" stroke-width="1.5"/>
+<rect x="390" y="142" width="164" height="5" rx="2.5" fill="#D97706"/>
+<text x="472" y="166" font-family="DejaVu Sans" font-size="9.6" fill="#D97706" text-anchor="middle" font-weight="bold">3 · STRUCTURAL</text>
+<text x="472" y="182" font-family="DejaVu Sans" font-size="8.4" fill="#64748B" text-anchor="middle" font-weight="normal">how it is built</text>
+<rect x="568" y="102" width="164" height="172" rx="7" fill="#FFFFFF" stroke="#DC2626" stroke-width="1.5"/>
+<rect x="568" y="102" width="164" height="5" rx="2.5" fill="#DC2626"/>
+<text x="650" y="126" font-family="DejaVu Sans" font-size="9.6" fill="#DC2626" text-anchor="middle" font-weight="bold">4 · EVALUATIVE</text>
+<text x="650" y="142" font-family="DejaVu Sans" font-size="8.4" fill="#64748B" text-anchor="middle" font-weight="normal">how well it works</text>
+<text x="650" y="160" font-family="DejaVu Sans" font-size="8.2" fill="#334155" text-anchor="middle" font-weight="normal">Effect on the reader; the writer's</text>
+<text x="650" y="171" font-family="DejaVu Sans" font-size="8.2" fill="#334155" text-anchor="middle" font-weight="normal">choice.</text>
+<line x1="20" y1="282" x2="740" y2="282" stroke="#64748B" stroke-width="1.6" marker-end="url(#ag)"/>
+<text x="380.0" y="300" font-family="DejaVu Sans" font-size="8.4" fill="#64748B" text-anchor="middle" font-weight="normal">the answer climbs as the question climbs</text>
+</svg>

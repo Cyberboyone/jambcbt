@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 350" width="760" height="350">
+  <defs>
+    <marker id="ag" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#008751"/>
+    </marker>
+    <marker id="an" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#0E1F40"/>
+    </marker>
+    <marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#D97706"/>
+    </marker>
+    <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#DC2626"/>
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="760" height="350" fill="#FFFFFF"/>
+<rect x="0" y="0" width="760" height="350" rx="10" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="1.2"/>
+<text x="380.0" y="26" font-family="DejaVu Sans" font-size="13" fill="#0E1F40" text-anchor="middle" font-weight="bold">Three Ironies — and the One Word That Separates Them</text>
+<text x="380.0" y="44" font-family="DejaVu Sans" font-size="9.2" fill="#64748B" text-anchor="middle" font-weight="normal">All three are a gap between what is said and what is true. The gap is in a different place each time.</text>
+<rect x="22" y="60" width="232" height="250" rx="8" fill="#FFFFFF" stroke="#2563EB" stroke-width="1.5"/>
+<rect x="22" y="60" width="232" height="6" rx="3" fill="#2563EB"/>
+<text x="138" y="86" font-family="DejaVu Sans" font-size="12" fill="#2563EB" text-anchor="middle" font-weight="bold">VERBAL</text>
+<text x="138" y="104" font-family="DejaVu Sans" font-size="8.4" fill="#64748B" text-anchor="middle" font-weight="normal">between the words and the meaning</text>
+<line x1="36" y1="132" x2="240" y2="132" stroke="#CBD5E1" stroke-width="1.0"/>
+<text x="138" y="150" font-family="DejaVu Sans" font-size="8.6" fill="#334155" text-anchor="middle" font-weight="normal">A character says the opposite of what is</text>
+<text x="138" y="162" font-family="DejaVu Sans" font-size="8.6" fill="#334155" text-anchor="middle" font-weight="normal">meant, and the listener (or the reader) is</text>
+<text x="138" y="174" font-family="DejaVu Sans" font-size="8.6" fill="#334155" text-anchor="middle" font-weight="normal">meant to hear it.</text>
+<line x1="36" y1="232" x2="240" y2="232" stroke="#CBD5E1" stroke-width="1.0"/>
+<text x="138" y="248" font-family="DejaVu Sans" font-size="7.8" fill="#64748B" text-anchor="middle" font-weight="normal">for example</text>
+<text x="138" y="262" font-family="DejaVu Sans" font-size="8.4" fill="#2563EB" text-anchor="middle" font-weight="bold">“Fine weather,” says the traveller, in the</text>
+<text x="138" y="273" font-family="DejaVu Sans" font-size="8.4" fill="#2563EB" text-anchor="middle" font-weight="bold">storm.</text>
+<rect x="264" y="60" width="232" height="250" rx="8" fill="#FFFFFF" stroke="#DC2626" stroke-width="1.5"/>
+<rect x="264" y="60" width="232" height="6" rx="3" fill="#DC2626"/>
+<text x="380" y="86" font-family="DejaVu Sans" font-size="12" fill="#DC2626" text-anchor="middle" font-weight="bold">DRAMATIC</text>
+<text x="380" y="104" font-family="DejaVu Sans" font-size="8.4" fill="#64748B" text-anchor="middle" font-weight="normal">between the character's knowledge and ours</text>
+<line x1="278" y1="132" x2="482" y2="132" stroke="#CBD5E1" stroke-width="1.0"/>
+<text x="380" y="150" font-family="DejaVu Sans" font-size="8.6" fill="#334155" text-anchor="middle" font-weight="normal">The audience knows what the character does</text>
+<text x="380" y="162" font-family="DejaVu Sans" font-size="8.6" fill="#334155" text-anchor="middle" font-weight="normal">not. The character's confidence is the joke, or</text>
+<text x="380" y="174" font-family="DejaVu Sans" font-size="8.6" fill="#334155" text-anchor="middle" font-weight="normal">the horror.</text>
+<line x1="278" y1="232" x2="482" y2="232" stroke="#CBD5E1" stroke-width="1.0"/>
+<text x="380" y="248" font-family="DejaVu Sans" font-size="7.8" fill="#64748B" text-anchor="middle" font-weight="normal">for example</text>
+<text x="380" y="262" font-family="DejaVu Sans" font-size="8.4" fill="#DC2626" text-anchor="middle" font-weight="bold">Othello trusts a man the audience already</text>
+<text x="380" y="273" font-family="DejaVu Sans" font-size="8.4" fill="#DC2626" text-anchor="middle" font-weight="bold">knows is lying.</text>
+<rect x="506" y="60" width="232" height="250" rx="8" fill="#FFFFFF" stroke="#D97706" stroke-width="1.5"/>
+<rect x="506" y="60" width="232" height="6" rx="3" fill="#D97706"/>
+<text x="622" y="86" font-family="DejaVu Sans" font-size="12" fill="#D97706" text-anchor="middle" font-weight="bold">SITUATIONAL</text>
+<text x="622" y="104" font-family="DejaVu Sans" font-size="8.4" fill="#64748B" text-anchor="middle" font-weight="normal">between the expectation and the event</text>
+<line x1="520" y1="132" x2="724" y2="132" stroke="#CBD5E1" stroke-width="1.0"/>
+<text x="622" y="150" font-family="DejaVu Sans" font-size="8.6" fill="#334155" text-anchor="middle" font-weight="normal">The outcome is the reverse of what the</text>
+<text x="622" y="162" font-family="DejaVu Sans" font-size="8.6" fill="#334155" text-anchor="middle" font-weight="normal">situation promised — and no one has said</text>
+<text x="622" y="174" font-family="DejaVu Sans" font-size="8.6" fill="#334155" text-anchor="middle" font-weight="normal">anything ironic at all.</text>
+<line x1="520" y1="232" x2="724" y2="232" stroke="#CBD5E1" stroke-width="1.0"/>
+<text x="622" y="248" font-family="DejaVu Sans" font-size="7.8" fill="#64748B" text-anchor="middle" font-weight="normal">for example</text>
+<text x="622" y="262" font-family="DejaVu Sans" font-size="8.4" fill="#D97706" text-anchor="middle" font-weight="bold">A fire station burns down.</text>
+<text x="380.0" y="338" font-family="DejaVu Sans" font-size="8.8" fill="#64748B" text-anchor="middle" font-weight="normal">Ask where the gap is: in a mouth, in a head, or in the world.</text>
+</svg>
