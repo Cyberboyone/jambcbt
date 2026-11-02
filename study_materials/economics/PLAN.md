@@ -86,12 +86,12 @@ drills and papers, then the PDF.
 
 ```bash
 cd study_materials/economics/vol1
-/home/user/.venv/bin/python diagrams_gen/generate_diagrams.py   # regenerates all 31 SVGs
-/home/user/.venv/bin/python tools/check_figs.py                 # canvas-bounds check
-/home/user/.venv/bin/python tools/drills_eco1.py                # writes drill_ch01–06.typ
-/home/user/.venv/bin/python tools/papers_eco1.py                # writes paper1–2, bank120, answer_keys
-/home/user/.venv/bin/python build.py                            # writes the PDF, baking the contents
-/home/user/.venv/bin/python tools/tune_fit.py --rounds 1        # tunes _fit.json, then rebuilds
+/home/user/jambcbt/.venv/bin/python diagrams_gen/generate_diagrams.py   # regenerates all 31 SVGs
+/home/user/jambcbt/.venv/bin/python tools/check_figs.py                 # canvas-bounds check
+/home/user/jambcbt/.venv/bin/python tools/drills_eco1.py                # writes drill_ch01–06.typ
+/home/user/jambcbt/.venv/bin/python tools/papers_eco1.py                # writes paper1–2, bank120, answer_keys
+/home/user/jambcbt/.venv/bin/python build.py                            # writes the PDF, baking the contents
+/home/user/jambcbt/.venv/bin/python tools/tune_fit.py --rounds 1        # tunes _fit.json, then rebuilds
 ```
 
 Volume 2 is built by the same six commands in `study_materials/economics/vol2/`, with
@@ -114,3 +114,17 @@ Three house-style points matter more in this volume than in the science ones.
 
 The PDF is gitignored, as with the other volumes; the sources, the generators and the
 build script are committed so any volume can be rebuilt from scratch.
+
+## The delivered files
+
+Both volumes are in the shared Drive folder (parent `1ahhTHtl4ZBOUkklkZ7UqKEQdvc5dHp0G`),
+alongside the English, Physics, Chemistry, Biology and Mathematics volumes.
+
+| Vol. | File in `vol1/` and `vol2/` | Pages | Size | MD5 | Drive file id |
+|---|---|---|---|---|---|
+| 1 | `JAMB_Economics_Volume1_The_Market.pdf` | 183 | 4.20 MB | `4f9cdb48c4a40330dafb0f766ae2da35` | `14x5VUXsemf00VVybg_i2H0eaDfKAplGG` |
+| 2 | `JAMB_Economics_Volume2_The_National_Economy.pdf` | 179 | 4.14 MB | `5818bda25654cad296fbde69b960e103` | `15TLcJ8E87HwqsPKMAsG3hb6ZlR5T8TGy` |
+
+The MD5 is of the file as built in the repository; a rebuild from the same sources
+reproduces the same page count and byte size, though not always the same hash,
+because Typst stamps creation metadata into the PDF.
