@@ -10,20 +10,20 @@ W, H = 760, 300
 
 
 def cover_banner() -> None:
-    """Cover strip: the three branches of commerce and the aids that serve them."""
-    b = [t(380, 26, "FIVE POEMS, AND FOUR PAPERS TO PROVE THEM", size=13, weight="bold")]
-    cols = [("AFRICAN", "Vanity · Ambush", GREEN),
-            ("ENGLISH", "Crossing the Bar", BLUE),
-            ("NARRATIVE", "The Proud King", PURPLE),
-            ("PAPERS", "4 × 60 questions", AMBER)]
+    """Cover strip: the four parts of the commerce course, and what each one holds."""
+    b = [t(380, 24, "COMMERCE — UNITS, TRADE, THE AIDS TO TRADE AND THE LAW", size=13, weight="bold")]
+    cols = [("BUSINESS UNITS", "sole trader to public", GREEN),
+            ("TRADE", "home and foreign", BLUE),
+            ("THE AIDS", "bank, insurer, carrier", PURPLE),
+            ("FINANCE & LAW", "shares, tax, the consumer", AMBER)]
     cw = 176
     for i, (head, body, col) in enumerate(cols):
         x = 12 + i * (cw + 8)
-        b += [rect(x, 46, cw, 62, "#FFFFFF", col, 8, 1.5),
-              f'<rect x="{x}" y="46" width="{cw}" height="5" rx="2.5" fill="{col}"/>',
-              t(x + cw / 2, 74, head, size=10.5, weight="bold", fill=col),
-              t(x + cw / 2, 92, body, size=9.2, fill=SLATE)]
-    b += [t(380, 130, "sixteen diagrams · seven recaps · 640 solved questions", size=9.2, fill=MUTED)]
+        b += [rect(x, 44, cw, 62, "#FFFFFF", col, 8, 1.5),
+              f'<rect x="{x}" y="44" width="{cw}" height="5" rx="2.5" fill="{col}"/>',
+              t(x + cw / 2, 72, head, size=10.5, weight="bold", fill=col),
+              t(x + cw / 2, 90, body, size=9.2, fill=SLATE)]
+    b += [t(380, 126, "seventeen diagrams · eight recaps · 520 solved questions", size=9.2, fill=MUTED)]
     write_svg("cover_banner", svg(W, 150, "\n".join(b), bg=GREEN_LIGHT))
 
 

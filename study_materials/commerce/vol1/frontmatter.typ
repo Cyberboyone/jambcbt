@@ -96,7 +96,32 @@
     )
 
     #v(9mm)
+    #grid(
+      columns: (1fr, 1fr, 1fr, 1fr, 1fr),
+      column-gutter: 6pt,
+      [
+        #text(font: "DejaVu Sans", size: 19pt, weight: "bold", fill: rgb("#34D399"))[8] \
+        #text(font: "DejaVu Sans", size: 7.6pt, fill: rgb("#94A3B8"))[chapters]
+      ],
+      [
+        #text(font: "DejaVu Sans", size: 19pt, weight: "bold", fill: rgb("#34D399"))[17] \
+        #text(font: "DejaVu Sans", size: 7.6pt, fill: rgb("#94A3B8"))[diagrams]
+      ],
+      [
+        #text(font: "DejaVu Sans", size: 19pt, weight: "bold", fill: rgb("#34D399"))[32] \
+        #text(font: "DejaVu Sans", size: 7.6pt, fill: rgb("#94A3B8"))[worked examples]
+      ],
+      [
+        #text(font: "DejaVu Sans", size: 19pt, weight: "bold", fill: rgb("#34D399"))[520] \
+        #text(font: "DejaVu Sans", size: 7.6pt, fill: rgb("#94A3B8"))[solved questions]
+      ],
+      [
+        #text(font: "DejaVu Sans", size: 19pt, weight: "bold", fill: rgb("#34D399"))[2] \
+        #text(font: "DejaVu Sans", size: 7.6pt, fill: rgb("#94A3B8"))[timed papers]
+      ],
+    )
 
+    #v(8mm)
     #line(length: 100%, stroke: 0.8pt + rgb("#334155"))
     #v(3mm)
     #grid(

@@ -14,22 +14,22 @@
     </marker>
   </defs>
   <rect x="0" y="0" width="760" height="150" fill="#ECFDF5"/>
-<text x="380" y="26" font-family="DejaVu Sans" font-size="13" fill="#0E1F40" text-anchor="middle" font-weight="bold">FIVE POEMS, AND FOUR PAPERS TO PROVE THEM</text>
-<rect x="12" y="46" width="176" height="62" rx="8" fill="#FFFFFF" stroke="#008751" stroke-width="1.5"/>
-<rect x="12" y="46" width="176" height="5" rx="2.5" fill="#008751"/>
-<text x="100.0" y="74" font-family="DejaVu Sans" font-size="10.5" fill="#008751" text-anchor="middle" font-weight="bold">AFRICAN</text>
-<text x="100.0" y="92" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="middle" font-weight="normal">Vanity · Ambush</text>
-<rect x="196" y="46" width="176" height="62" rx="8" fill="#FFFFFF" stroke="#2563EB" stroke-width="1.5"/>
-<rect x="196" y="46" width="176" height="5" rx="2.5" fill="#2563EB"/>
-<text x="284.0" y="74" font-family="DejaVu Sans" font-size="10.5" fill="#2563EB" text-anchor="middle" font-weight="bold">ENGLISH</text>
-<text x="284.0" y="92" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="middle" font-weight="normal">Crossing the Bar</text>
-<rect x="380" y="46" width="176" height="62" rx="8" fill="#FFFFFF" stroke="#7C3AED" stroke-width="1.5"/>
-<rect x="380" y="46" width="176" height="5" rx="2.5" fill="#7C3AED"/>
-<text x="468.0" y="74" font-family="DejaVu Sans" font-size="10.5" fill="#7C3AED" text-anchor="middle" font-weight="bold">NARRATIVE</text>
-<text x="468.0" y="92" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="middle" font-weight="normal">The Proud King</text>
-<rect x="564" y="46" width="176" height="62" rx="8" fill="#FFFFFF" stroke="#D97706" stroke-width="1.5"/>
-<rect x="564" y="46" width="176" height="5" rx="2.5" fill="#D97706"/>
-<text x="652.0" y="74" font-family="DejaVu Sans" font-size="10.5" fill="#D97706" text-anchor="middle" font-weight="bold">PAPERS</text>
-<text x="652.0" y="92" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="middle" font-weight="normal">4 × 60 questions</text>
-<text x="380" y="130" font-family="DejaVu Sans" font-size="9.2" fill="#64748B" text-anchor="middle" font-weight="normal">sixteen diagrams · seven recaps · 640 solved questions</text>
+<text x="380" y="24" font-family="DejaVu Sans" font-size="13" fill="#0E1F40" text-anchor="middle" font-weight="bold">COMMERCE — UNITS, TRADE, THE AIDS TO TRADE AND THE LAW</text>
+<rect x="12" y="44" width="176" height="62" rx="8" fill="#FFFFFF" stroke="#008751" stroke-width="1.5"/>
+<rect x="12" y="44" width="176" height="5" rx="2.5" fill="#008751"/>
+<text x="100.0" y="72" font-family="DejaVu Sans" font-size="10.5" fill="#008751" text-anchor="middle" font-weight="bold">BUSINESS UNITS</text>
+<text x="100.0" y="90" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="middle" font-weight="normal">sole trader to public</text>
+<rect x="196" y="44" width="176" height="62" rx="8" fill="#FFFFFF" stroke="#2563EB" stroke-width="1.5"/>
+<rect x="196" y="44" width="176" height="5" rx="2.5" fill="#2563EB"/>
+<text x="284.0" y="72" font-family="DejaVu Sans" font-size="10.5" fill="#2563EB" text-anchor="middle" font-weight="bold">TRADE</text>
+<text x="284.0" y="90" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="middle" font-weight="normal">home and foreign</text>
+<rect x="380" y="44" width="176" height="62" rx="8" fill="#FFFFFF" stroke="#7C3AED" stroke-width="1.5"/>
+<rect x="380" y="44" width="176" height="5" rx="2.5" fill="#7C3AED"/>
+<text x="468.0" y="72" font-family="DejaVu Sans" font-size="10.5" fill="#7C3AED" text-anchor="middle" font-weight="bold">THE AIDS</text>
+<text x="468.0" y="90" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="middle" font-weight="normal">bank, insurer, carrier</text>
+<rect x="564" y="44" width="176" height="62" rx="8" fill="#FFFFFF" stroke="#D97706" stroke-width="1.5"/>
+<rect x="564" y="44" width="176" height="5" rx="2.5" fill="#D97706"/>
+<text x="652.0" y="72" font-family="DejaVu Sans" font-size="10.5" fill="#D97706" text-anchor="middle" font-weight="bold">FINANCE &amp; LAW</text>
+<text x="652.0" y="90" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="middle" font-weight="normal">shares, tax, the consumer</text>
+<text x="380" y="126" font-family="DejaVu Sans" font-size="9.2" fill="#64748B" text-anchor="middle" font-weight="normal">seventeen diagrams · eight recaps · 520 solved questions</text>
 </svg>
