@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 296" width="680" height="296">
+  <defs>
+    <marker id="ag" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#008751"/>
+    </marker>
+    <marker id="an" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#0E1F40"/>
+    </marker>
+    <marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#D97706"/>
+    </marker>
+    <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#DC2626"/>
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="680" height="296" fill="#FFFFFF"/>
+<text x="340" y="20" font-family="DejaVu Sans" font-size="9.9" fill="#0E1F40" text-anchor="middle" font-weight="bold">COMPARATIVE ADVANTAGE: COMPARE OPPORTUNITY COST, NOT OUTPUT</text>
+<rect x="18" y="38" width="300" height="150" rx="7" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="1.1"/>
+<rect x="18" y="38" width="300" height="26" rx="6" fill="#F8FAFC" stroke="#CBD5E1" stroke-width="1.0"/>
+<text x="34" y="55" font-family="DejaVu Sans" font-size="7.6" fill="#0E1F40" text-anchor="start" font-weight="bold">hours of labour</text>
+<text x="176" y="55" font-family="DejaVu Sans" font-size="7.6" fill="#0E1F40" text-anchor="middle" font-weight="bold">1 bag of rice</text>
+<text x="272" y="55" font-family="DejaVu Sans" font-size="7.6" fill="#0E1F40" text-anchor="middle" font-weight="bold">1 bale of cloth</text>
+<line x1="28" y1="100" x2="308" y2="100" stroke="#E2E8F0" stroke-width="0.7"/>
+<text x="34" y="88" font-family="DejaVu Sans" font-size="8.4" fill="#334155" text-anchor="start" font-weight="bold">Nigeria</text>
+<text x="176" y="88" font-family="DejaVu Sans" font-size="8.4" fill="#334155" text-anchor="middle" font-weight="normal">2</text>
+<text x="272" y="88" font-family="DejaVu Sans" font-size="8.4" fill="#334155" text-anchor="middle" font-weight="normal">4</text>
+<line x1="28" y1="134" x2="308" y2="134" stroke="#E2E8F0" stroke-width="0.7"/>
+<text x="34" y="122" font-family="DejaVu Sans" font-size="8.4" fill="#334155" text-anchor="start" font-weight="bold">Ghana</text>
+<text x="176" y="122" font-family="DejaVu Sans" font-size="8.4" fill="#334155" text-anchor="middle" font-weight="normal">3</text>
+<text x="272" y="122" font-family="DejaVu Sans" font-size="8.4" fill="#334155" text-anchor="middle" font-weight="normal">3</text>
+<text x="168" y="174" font-family="DejaVu Sans" font-size="7.2" fill="#64748B" text-anchor="middle" font-weight="normal">both countries, both goods, in hours</text>
+<rect x="336" y="38" width="326" height="150" rx="7" fill="#FFFFFF" stroke="#008751" stroke-width="1.3"/>
+<text x="499" y="58" font-family="DejaVu Sans" font-size="8.4" fill="#008751" text-anchor="middle" font-weight="bold">WHO GIVES UP LESS?</text>
+<text x="352" y="80" font-family="DejaVu Sans" font-size="7.7" fill="#334155" text-anchor="start" font-weight="normal">1 bag of rice costs Nigeria 2 h = ½ bale of cloth</text>
+<text x="352" y="98" font-family="DejaVu Sans" font-size="7.7" fill="#334155" text-anchor="start" font-weight="normal">1 bag of rice costs Ghana 3 h = 1 bale of cloth</text>
+<text x="352" y="124" font-family="DejaVu Sans" font-size="7.9" fill="#008751" text-anchor="start" font-weight="bold">Nigeria has the comparative advantage in rice.</text>
+<text x="352" y="146" font-family="DejaVu Sans" font-size="7.6" fill="#334155" text-anchor="start" font-weight="normal">Ghana needs 1 hour of cloth time to save 1 hour of rice</text>
+<text x="352" y="160" font-family="DejaVu Sans" font-size="7.6" fill="#334155" text-anchor="start" font-weight="normal">time; Nigeria needs 2. So cloth is Ghana's comparative</text>
+<text x="352" y="174" font-family="DejaVu Sans" font-size="7.6" fill="#334155" text-anchor="start" font-weight="normal">advantage, rice is Nigeria's, and both gain from trade.</text>
+<rect x="18" y="200" width="644" height="36" rx="6" fill="#F8FAFC" stroke="#CBD5E1" stroke-width="1.0"/>
+<text x="340" y="217" font-family="DejaVu Sans" font-size="8.0" fill="#0E1F40" text-anchor="middle" font-weight="bold">Absolute advantage compares productivity; comparative advantage compares opportunity cost.</text>
+<text x="340" y="231" font-family="DejaVu Sans" font-size="7.7" fill="#334155" text-anchor="middle" font-weight="normal">A country can be worse at everything and still gain from trade — provided it is least bad at something.</text>
+<text x="340" y="258" font-family="DejaVu Sans" font-size="7.9" fill="#64748B" text-anchor="middle" font-weight="normal">Write the opportunity cost of ONE unit of each good in terms of the other before you look at the options.</text>
+<text x="340" y="276" font-family="DejaVu Sans" font-size="7.9" fill="#64748B" text-anchor="middle" font-weight="normal">The examiner's favourite trap is to give you absolute advantage and ask about comparative advantage.</text>
+</svg>

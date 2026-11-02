@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 278" width="680" height="278">
+  <defs>
+    <marker id="ag" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#008751"/>
+    </marker>
+    <marker id="an" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#0E1F40"/>
+    </marker>
+    <marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#D97706"/>
+    </marker>
+    <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#DC2626"/>
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="680" height="278" fill="#FFFFFF"/>
+<text x="340" y="20" font-family="DejaVu Sans" font-size="10.4" fill="#0E1F40" text-anchor="middle" font-weight="bold">THE CENTRAL BANK'S FOUR LEVERS</text>
+<rect x="18" y="44" width="314" height="78" rx="7" fill="#FFFFFF" stroke="#008751" stroke-width="1.4"/>
+<rect x="18" y="44" width="314" height="5" rx="2.5" fill="#008751" stroke="#008751" stroke-width="1.0"/>
+<text x="32" y="70" font-family="DejaVu Sans" font-size="8.0" fill="#008751" text-anchor="start" font-weight="bold">OPEN MARKET OPERATIONS</text>
+<text x="32" y="90" font-family="DejaVu Sans" font-size="7.9" fill="#334155" text-anchor="start" font-weight="normal">sell bills to drain liquidity, buy them to</text>
+<text x="32" y="103" font-family="DejaVu Sans" font-size="7.9" fill="#334155" text-anchor="start" font-weight="normal">release it</text>
+<rect x="348" y="44" width="314" height="78" rx="7" fill="#FFFFFF" stroke="#2563EB" stroke-width="1.4"/>
+<rect x="348" y="44" width="314" height="5" rx="2.5" fill="#2563EB" stroke="#2563EB" stroke-width="1.0"/>
+<text x="362" y="70" font-family="DejaVu Sans" font-size="8.0" fill="#2563EB" text-anchor="start" font-weight="bold">RESERVE REQUIREMENTS</text>
+<text x="362" y="90" font-family="DejaVu Sans" font-size="7.9" fill="#334155" text-anchor="start" font-weight="normal">raise the ratio to shrink the credit</text>
+<text x="362" y="103" font-family="DejaVu Sans" font-size="7.9" fill="#334155" text-anchor="start" font-weight="normal">multiplier</text>
+<rect x="18" y="132" width="314" height="78" rx="7" fill="#FFFFFF" stroke="#D97706" stroke-width="1.4"/>
+<rect x="18" y="132" width="314" height="5" rx="2.5" fill="#D97706" stroke="#D97706" stroke-width="1.0"/>
+<text x="32" y="158" font-family="DejaVu Sans" font-size="8.0" fill="#D97706" text-anchor="start" font-weight="bold">POLICY RATE</text>
+<text x="32" y="178" font-family="DejaVu Sans" font-size="7.9" fill="#334155" text-anchor="start" font-weight="normal">the MPR sets the floor for every other</text>
+<text x="32" y="191" font-family="DejaVu Sans" font-size="7.9" fill="#334155" text-anchor="start" font-weight="normal">interest rate</text>
+<rect x="348" y="132" width="314" height="78" rx="7" fill="#FFFFFF" stroke="#7C3AED" stroke-width="1.4"/>
+<rect x="348" y="132" width="314" height="5" rx="2.5" fill="#7C3AED" stroke="#7C3AED" stroke-width="1.0"/>
+<text x="362" y="158" font-family="DejaVu Sans" font-size="8.0" fill="#7C3AED" text-anchor="start" font-weight="bold">MORAL SUASION &amp; SELECTIVE CREDIT</text>
+<text x="362" y="178" font-family="DejaVu Sans" font-size="7.9" fill="#334155" text-anchor="start" font-weight="normal">persuasion, and caps on lending to chosen</text>
+<text x="362" y="191" font-family="DejaVu Sans" font-size="7.9" fill="#334155" text-anchor="start" font-weight="normal">sectors</text>
+<rect x="18" y="226" width="644" height="42" rx="7" fill="#F8FAFC" stroke="#CBD5E1" stroke-width="1.1"/>
+<text x="340" y="244" font-family="DejaVu Sans" font-size="7.8" fill="#DC2626" text-anchor="middle" font-weight="bold">TO FIGHT INFLATION: sell bills, raise the reserve ratio, raise the MPR — dearer credit, less spending.</text>
+<text x="340" y="260" font-family="DejaVu Sans" font-size="7.8" fill="#008751" text-anchor="middle" font-weight="bold">TO FIGHT UNEMPLOYMENT: the same levers in reverse — cheaper credit, more spending.</text>
+</svg>

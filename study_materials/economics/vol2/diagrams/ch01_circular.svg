@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 340" width="700" height="340">
+  <defs>
+    <marker id="ag" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#008751"/>
+    </marker>
+    <marker id="an" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#0E1F40"/>
+    </marker>
+    <marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#D97706"/>
+    </marker>
+    <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#DC2626"/>
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="700" height="340" fill="#FFFFFF"/>
+<text x="350" y="20" font-family="DejaVu Sans" font-size="9.4" fill="#0E1F40" text-anchor="middle" font-weight="bold">THE CIRCULAR FLOW: TWO BOXES, FOUR FLOWS, THREE LEAKS AND THREE INJECTIONS</text>
+<rect x="18" y="34" width="664" height="46" rx="7" fill="#ECFDF5" stroke="#008751" stroke-width="1.2"/>
+<text x="60" y="62" font-family="DejaVu Sans" font-size="8.2" fill="#008751" text-anchor="start" font-weight="bold">INJECTIONS</text>
+<rect x="168" y="44" width="148" height="26" rx="5" fill="#FFFFFF" stroke="#008751" stroke-width="1.0"/>
+<text x="242" y="61" font-family="DejaVu Sans" font-size="7.8" fill="#334155" text-anchor="middle" font-weight="normal">investment (I)</text>
+<rect x="330" y="44" width="148" height="26" rx="5" fill="#FFFFFF" stroke="#008751" stroke-width="1.0"/>
+<text x="404" y="61" font-family="DejaVu Sans" font-size="7.8" fill="#334155" text-anchor="middle" font-weight="normal">government spending (G)</text>
+<rect x="492" y="44" width="148" height="26" rx="5" fill="#FFFFFF" stroke="#008751" stroke-width="1.0"/>
+<text x="566" y="61" font-family="DejaVu Sans" font-size="7.8" fill="#334155" text-anchor="middle" font-weight="normal">exports (X)</text>
+<rect x="30" y="128" width="168" height="80" rx="8" fill="#FFFFFF" stroke="#008751" stroke-width="1.6"/>
+<rect x="30" y="128" width="168" height="6" rx="3" fill="#008751" stroke="#008751" stroke-width="1.0"/>
+<text x="114" y="158" font-family="DejaVu Sans" font-size="10.0" fill="#008751" text-anchor="middle" font-weight="bold">HOUSEHOLDS</text>
+<text x="114" y="178" font-family="DejaVu Sans" font-size="8.2" fill="#334155" text-anchor="middle" font-weight="normal">own the factors</text>
+<text x="114" y="194" font-family="DejaVu Sans" font-size="8.2" fill="#334155" text-anchor="middle" font-weight="normal">buy the output</text>
+<rect x="502" y="128" width="168" height="80" rx="8" fill="#FFFFFF" stroke="#2563EB" stroke-width="1.6"/>
+<rect x="502" y="128" width="168" height="6" rx="3" fill="#2563EB" stroke="#2563EB" stroke-width="1.0"/>
+<text x="586" y="158" font-family="DejaVu Sans" font-size="10.0" fill="#2563EB" text-anchor="middle" font-weight="bold">FIRMS</text>
+<text x="586" y="178" font-family="DejaVu Sans" font-size="8.2" fill="#334155" text-anchor="middle" font-weight="normal">hire the factors</text>
+<text x="586" y="194" font-family="DejaVu Sans" font-size="8.2" fill="#334155" text-anchor="middle" font-weight="normal">produce the output</text>
+<line x1="202" y1="120" x2="489.15" y2="120.0" stroke="#334155" stroke-width="1.5"/><polygon points="500.0,120.0 489.1,124.1 489.1,115.9" fill="#334155"/>
+<text x="350" y="110" font-family="DejaVu Sans" font-size="7.8" fill="#334155" text-anchor="middle" font-weight="normal">factor services: land · labour · capital · enterprise</text>
+<line x1="500" y1="148" x2="212.85" y2="148.0" stroke="#008751" stroke-width="1.5"/><polygon points="202.0,148.0 212.8,143.9 212.8,152.1" fill="#008751"/>
+<text x="350" y="166" font-family="DejaVu Sans" font-size="7.8" fill="#008751" text-anchor="middle" font-weight="normal">factor incomes: rent · wages · interest · profit</text>
+<line x1="202" y1="208" x2="489.15" y2="208.0" stroke="#D97706" stroke-width="1.5"/><polygon points="500.0,208.0 489.1,212.1 489.1,203.9" fill="#D97706"/>
+<text x="350" y="200" font-family="DejaVu Sans" font-size="7.8" fill="#D97706" text-anchor="middle" font-weight="normal">consumer spending on goods and services</text>
+<line x1="500" y1="236" x2="212.85" y2="236.0" stroke="#334155" stroke-width="1.5"/><polygon points="202.0,236.0 212.8,231.9 212.8,240.1" fill="#334155"/>
+<text x="350" y="254" font-family="DejaVu Sans" font-size="7.8" fill="#334155" text-anchor="middle" font-weight="normal">goods and services delivered</text>
+<rect x="18" y="264" width="664" height="46" rx="7" fill="#FEE2E2" stroke="#DC2626" stroke-width="1.2"/>
+<text x="60" y="292" font-family="DejaVu Sans" font-size="8.2" fill="#DC2626" text-anchor="start" font-weight="bold">WITHDRAWALS</text>
+<rect x="168" y="274" width="148" height="26" rx="5" fill="#FFFFFF" stroke="#DC2626" stroke-width="1.0"/>
+<text x="242" y="291" font-family="DejaVu Sans" font-size="7.8" fill="#334155" text-anchor="middle" font-weight="normal">saving (S)</text>
+<rect x="330" y="274" width="148" height="26" rx="5" fill="#FFFFFF" stroke="#DC2626" stroke-width="1.0"/>
+<text x="404" y="291" font-family="DejaVu Sans" font-size="7.8" fill="#334155" text-anchor="middle" font-weight="normal">taxes (T)</text>
+<rect x="492" y="274" width="148" height="26" rx="5" fill="#FFFFFF" stroke="#DC2626" stroke-width="1.0"/>
+<text x="566" y="291" font-family="DejaVu Sans" font-size="7.8" fill="#334155" text-anchor="middle" font-weight="normal">imports (M)</text>
+<text x="350" y="330" font-family="DejaVu Sans" font-size="7.8" fill="#64748B" text-anchor="middle" font-weight="normal">When injections exceed withdrawals the flow grows and national income rises; when withdrawals exceed injections it falls.</text>
+</svg>

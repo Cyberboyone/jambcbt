@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 300" width="680" height="300">
+  <defs>
+    <marker id="ag" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#008751"/>
+    </marker>
+    <marker id="an" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#0E1F40"/>
+    </marker>
+    <marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#D97706"/>
+    </marker>
+    <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#DC2626"/>
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="680" height="300" fill="#FFFFFF"/>
+<text x="340" y="20" font-family="DejaVu Sans" font-size="10.0" fill="#0E1F40" text-anchor="middle" font-weight="bold">WHO DOES WHAT: THE INSTITUTIONS THE PAPER NAMES</text>
+<rect x="18" y="40" width="314" height="70" rx="7" fill="#FFFFFF" stroke="#008751" stroke-width="1.4"/>
+<rect x="18" y="40" width="5" height="70" rx="2.5" fill="#008751" stroke="#008751" stroke-width="1.0"/>
+<text x="36" y="64" font-family="DejaVu Sans" font-size="10.4" fill="#008751" text-anchor="start" font-weight="bold">CBN</text>
+<text x="96" y="64" font-family="DejaVu Sans" font-size="7.6" fill="#0E1F40" text-anchor="start" font-weight="normal">Central Bank of Nigeria</text>
+<text x="36" y="84" font-family="DejaVu Sans" font-size="7.6" fill="#334155" text-anchor="start" font-weight="normal">issues the naira, holds reserves, sets the MPR</text>
+<rect x="348" y="40" width="314" height="70" rx="7" fill="#FFFFFF" stroke="#2563EB" stroke-width="1.4"/>
+<rect x="348" y="40" width="5" height="70" rx="2.5" fill="#2563EB" stroke="#2563EB" stroke-width="1.0"/>
+<text x="366" y="64" font-family="DejaVu Sans" font-size="10.4" fill="#2563EB" text-anchor="start" font-weight="bold">NBS</text>
+<text x="426" y="64" font-family="DejaVu Sans" font-size="7.6" fill="#0E1F40" text-anchor="start" font-weight="normal">National Bureau of Statistics</text>
+<text x="366" y="84" font-family="DejaVu Sans" font-size="7.6" fill="#334155" text-anchor="start" font-weight="normal">publishes GDP, inflation and unemployment figures</text>
+<rect x="18" y="122" width="314" height="70" rx="7" fill="#FFFFFF" stroke="#D97706" stroke-width="1.4"/>
+<rect x="18" y="122" width="5" height="70" rx="2.5" fill="#D97706" stroke="#D97706" stroke-width="1.0"/>
+<text x="36" y="146" font-family="DejaVu Sans" font-size="10.4" fill="#D97706" text-anchor="start" font-weight="bold">FIRS</text>
+<text x="96" y="146" font-family="DejaVu Sans" font-size="7.6" fill="#0E1F40" text-anchor="start" font-weight="normal">Federal Inland Revenue Service</text>
+<text x="36" y="166" font-family="DejaVu Sans" font-size="7.6" fill="#334155" text-anchor="start" font-weight="normal">collects company tax, VAT and the federal share</text>
+<rect x="348" y="122" width="314" height="70" rx="7" fill="#FFFFFF" stroke="#7C3AED" stroke-width="1.4"/>
+<rect x="348" y="122" width="5" height="70" rx="2.5" fill="#7C3AED" stroke="#7C3AED" stroke-width="1.0"/>
+<text x="366" y="146" font-family="DejaVu Sans" font-size="10.4" fill="#7C3AED" text-anchor="start" font-weight="bold">SEC</text>
+<text x="426" y="146" font-family="DejaVu Sans" font-size="7.6" fill="#0E1F40" text-anchor="start" font-weight="normal">Securities and Exchange Commission</text>
+<text x="366" y="166" font-family="DejaVu Sans" font-size="7.6" fill="#334155" text-anchor="start" font-weight="normal">regulates the capital market and the exchange</text>
+<rect x="18" y="204" width="314" height="70" rx="7" fill="#FFFFFF" stroke="#DC2626" stroke-width="1.4"/>
+<rect x="18" y="204" width="5" height="70" rx="2.5" fill="#DC2626" stroke="#DC2626" stroke-width="1.0"/>
+<text x="36" y="228" font-family="DejaVu Sans" font-size="10.4" fill="#DC2626" text-anchor="start" font-weight="bold">NDIC</text>
+<text x="96" y="228" font-family="DejaVu Sans" font-size="7.6" fill="#0E1F40" text-anchor="start" font-weight="normal">Nigeria Deposit Insurance Corporation</text>
+<text x="36" y="248" font-family="DejaVu Sans" font-size="7.6" fill="#334155" text-anchor="start" font-weight="normal">insures deposits, so a bank failure is survivable</text>
+<rect x="348" y="204" width="314" height="70" rx="7" fill="#FFFFFF" stroke="#334155" stroke-width="1.4"/>
+<rect x="348" y="204" width="5" height="70" rx="2.5" fill="#334155" stroke="#334155" stroke-width="1.0"/>
+<text x="366" y="228" font-family="DejaVu Sans" font-size="10.4" fill="#334155" text-anchor="start" font-weight="bold">FCC</text>
+<text x="426" y="228" font-family="DejaVu Sans" font-size="7.6" fill="#0E1F40" text-anchor="start" font-weight="normal">Fiscal Responsibility Commission</text>
+<text x="366" y="248" font-family="DejaVu Sans" font-size="7.6" fill="#334155" text-anchor="start" font-weight="normal">watches the federal budget and the debt rule</text>
+<text x="340" y="292" font-family="DejaVu Sans" font-size="7.9" fill="#64748B" text-anchor="middle" font-weight="normal">One abbreviation per institution is enough for the paper — but it must be the right one.</text>
+</svg>

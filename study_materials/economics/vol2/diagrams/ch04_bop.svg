@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 300" width="680" height="300">
+  <defs>
+    <marker id="ag" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#008751"/>
+    </marker>
+    <marker id="an" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#0E1F40"/>
+    </marker>
+    <marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#D97706"/>
+    </marker>
+    <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#DC2626"/>
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="680" height="300" fill="#FFFFFF"/>
+<text x="340" y="20" font-family="DejaVu Sans" font-size="10.4" fill="#0E1F40" text-anchor="middle" font-weight="bold">THE BALANCE OF PAYMENTS IN TWO ACCOUNTS</text>
+<rect x="18" y="40" width="318" height="196" rx="8" fill="#FFFFFF" stroke="#008751" stroke-width="1.4"/>
+<rect x="18" y="40" width="318" height="26" rx="5" fill="#008751" stroke="#008751" stroke-width="1.0"/>
+<text x="177" y="58" font-family="DejaVu Sans" font-size="9.2" fill="#FFFFFF" text-anchor="middle" font-weight="bold">CURRENT ACCOUNT</text>
+<text x="34" y="84" font-family="DejaVu Sans" font-size="8.0" fill="#008751" text-anchor="start" font-weight="bold">visible trade</text>
+<text x="34" y="98" font-family="DejaVu Sans" font-size="7.6" fill="#334155" text-anchor="start" font-weight="normal">goods: exports − imports</text>
+<text x="34" y="122" font-family="DejaVu Sans" font-size="8.0" fill="#008751" text-anchor="start" font-weight="bold">invisible trade</text>
+<text x="34" y="136" font-family="DejaVu Sans" font-size="7.6" fill="#334155" text-anchor="start" font-weight="normal">services: shipping, tourism, insurance</text>
+<text x="34" y="160" font-family="DejaVu Sans" font-size="8.0" fill="#008751" text-anchor="start" font-weight="bold">income</text>
+<text x="34" y="174" font-family="DejaVu Sans" font-size="7.6" fill="#334155" text-anchor="start" font-weight="normal">interest, profit and dividends crossing the border</text>
+<text x="34" y="198" font-family="DejaVu Sans" font-size="8.0" fill="#008751" text-anchor="start" font-weight="bold">transfers</text>
+<text x="34" y="212" font-family="DejaVu Sans" font-size="7.6" fill="#334155" text-anchor="start" font-weight="normal">remittances, grants, aid</text>
+<rect x="346" y="40" width="316" height="196" rx="8" fill="#FFFFFF" stroke="#2563EB" stroke-width="1.4"/>
+<rect x="346" y="40" width="316" height="26" rx="5" fill="#2563EB" stroke="#2563EB" stroke-width="1.0"/>
+<text x="504" y="58" font-family="DejaVu Sans" font-size="8.6" fill="#FFFFFF" text-anchor="middle" font-weight="bold">CAPITAL (FINANCIAL) ACCOUNT</text>
+<text x="362" y="84" font-family="DejaVu Sans" font-size="8.0" fill="#2563EB" text-anchor="start" font-weight="bold">direct investment</text>
+<text x="362" y="98" font-family="DejaVu Sans" font-size="7.6" fill="#334155" text-anchor="start" font-weight="normal">a firm builds a factory in another country</text>
+<text x="362" y="122" font-family="DejaVu Sans" font-size="8.0" fill="#2563EB" text-anchor="start" font-weight="bold">portfolio investment</text>
+<text x="362" y="136" font-family="DejaVu Sans" font-size="7.6" fill="#334155" text-anchor="start" font-weight="normal">shares, bonds, treasury bills</text>
+<text x="362" y="160" font-family="DejaVu Sans" font-size="8.0" fill="#2563EB" text-anchor="start" font-weight="bold">loans and credit</text>
+<text x="362" y="174" font-family="DejaVu Sans" font-size="7.6" fill="#334155" text-anchor="start" font-weight="normal">IMF, World Bank, commercial banks</text>
+<text x="362" y="198" font-family="DejaVu Sans" font-size="8.0" fill="#2563EB" text-anchor="start" font-weight="bold">reserves</text>
+<text x="362" y="212" font-family="DejaVu Sans" font-size="7.6" fill="#334155" text-anchor="start" font-weight="normal">the CBN's holdings of foreign exchange</text>
+<rect x="18" y="248" width="644" height="40" rx="6" fill="#F8FAFC" stroke="#CBD5E1" stroke-width="1.0"/>
+<text x="340" y="264" font-family="DejaVu Sans" font-size="7.9" fill="#0E1F40" text-anchor="middle" font-weight="bold">The two accounts must balance: a current-account deficit is financed by a capital-account surplus.</text>
+<text x="340" y="280" font-family="DejaVu Sans" font-size="7.7" fill="#334155" text-anchor="middle" font-weight="normal">Which is why a country that cannot export must borrow, sell assets, or draw down reserves.</text>
+</svg>

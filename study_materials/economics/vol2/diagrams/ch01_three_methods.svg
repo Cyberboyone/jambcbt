@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 250" width="680" height="250">
+  <defs>
+    <marker id="ag" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#008751"/>
+    </marker>
+    <marker id="an" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#0E1F40"/>
+    </marker>
+    <marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#D97706"/>
+    </marker>
+    <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#DC2626"/>
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="680" height="250" fill="#FFFFFF"/>
+<text x="340" y="20" font-family="DejaVu Sans" font-size="10.6" fill="#0E1F40" text-anchor="middle" font-weight="bold">THREE ROUTES TO THE SAME NUMBER</text>
+<rect x="24" y="44" width="200" height="92" rx="7" fill="#FFFFFF" stroke="#008751" stroke-width="1.4"/>
+<rect x="24" y="44" width="200" height="5" rx="2.5" fill="#008751" stroke="#008751" stroke-width="1.0"/>
+<text x="124" y="70" font-family="DejaVu Sans" font-size="9.4" fill="#008751" text-anchor="middle" font-weight="bold">OUTPUT</text>
+<text x="124" y="92" font-family="DejaVu Sans" font-size="8.0" fill="#334155" text-anchor="middle" font-weight="normal">the value added by every</text>
+<text x="124" y="108" font-family="DejaVu Sans" font-size="8.0" fill="#334155" text-anchor="middle" font-weight="normal">firm, summed by sector</text>
+<line x1="124" y1="140" x2="124.0" y2="157.15" stroke="#008751" stroke-width="1.6"/><polygon points="124.0,168.0 119.9,157.2 128.1,157.2" fill="#008751"/>
+<rect x="240" y="44" width="200" height="92" rx="7" fill="#FFFFFF" stroke="#2563EB" stroke-width="1.4"/>
+<rect x="240" y="44" width="200" height="5" rx="2.5" fill="#2563EB" stroke="#2563EB" stroke-width="1.0"/>
+<text x="340" y="70" font-family="DejaVu Sans" font-size="9.4" fill="#2563EB" text-anchor="middle" font-weight="bold">INCOME</text>
+<text x="340" y="92" font-family="DejaVu Sans" font-size="8.0" fill="#334155" text-anchor="middle" font-weight="normal">rent + wages + interest</text>
+<text x="340" y="108" font-family="DejaVu Sans" font-size="8.0" fill="#334155" text-anchor="middle" font-weight="normal">+ profit, all summed</text>
+<line x1="340" y1="140" x2="340.0" y2="157.15" stroke="#2563EB" stroke-width="1.6"/><polygon points="340.0,168.0 335.9,157.2 344.1,157.2" fill="#2563EB"/>
+<rect x="456" y="44" width="200" height="92" rx="7" fill="#FFFFFF" stroke="#D97706" stroke-width="1.4"/>
+<rect x="456" y="44" width="200" height="5" rx="2.5" fill="#D97706" stroke="#D97706" stroke-width="1.0"/>
+<text x="556" y="70" font-family="DejaVu Sans" font-size="9.4" fill="#D97706" text-anchor="middle" font-weight="bold">EXPENDITURE</text>
+<text x="556" y="92" font-family="DejaVu Sans" font-size="8.0" fill="#334155" text-anchor="middle" font-weight="normal">C + I + G + (X − M)</text>
+<text x="556" y="108" font-family="DejaVu Sans" font-size="8.0" fill="#334155" text-anchor="middle" font-weight="normal">spent by final users</text>
+<line x1="556" y1="140" x2="556.0" y2="157.15" stroke="#D97706" stroke-width="1.6"/><polygon points="556.0,168.0 551.9,157.2 560.1,157.2" fill="#D97706"/>
+<rect x="150" y="172" width="380" height="44" rx="8" fill="#ECFDF5" stroke="#008751" stroke-width="1.5"/>
+<text x="340" y="191" font-family="DejaVu Sans" font-size="10.0" fill="#008751" text-anchor="middle" font-weight="bold">GROSS DOMESTIC PRODUCT</text>
+<text x="340" y="208" font-family="DejaVu Sans" font-size="7.9" fill="#334155" text-anchor="middle" font-weight="normal">the three totals must agree — the identity is the check</text>
+<text x="340" y="236" font-family="DejaVu Sans" font-size="8.0" fill="#64748B" text-anchor="middle" font-weight="normal">Nigeria publishes all three; the paper usually quotes the expenditure form.</text>
+</svg>

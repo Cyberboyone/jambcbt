@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 250" width="680" height="250">
+  <defs>
+    <marker id="ag" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#008751"/>
+    </marker>
+    <marker id="an" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#0E1F40"/>
+    </marker>
+    <marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#D97706"/>
+    </marker>
+    <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#DC2626"/>
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="680" height="250" fill="#FFFFFF"/>
+<text x="340" y="20" font-family="DejaVu Sans" font-size="10.2" fill="#0E1F40" text-anchor="middle" font-weight="bold">FIVE NUMBERS, AND WHAT EACH ONE MEASURES</text>
+<rect x="18" y="38" width="644" height="176" rx="7" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="1.1"/>
+<text x="34" y="58" font-family="DejaVu Sans" font-size="7.7" fill="#0E1F40" text-anchor="start" font-weight="bold">the statistic</text>
+<text x="300" y="58" font-family="DejaVu Sans" font-size="7.7" fill="#0E1F40" text-anchor="start" font-weight="bold">what it actually measures</text>
+<text x="556" y="58" font-family="DejaVu Sans" font-size="7.7" fill="#0E1F40" text-anchor="start" font-weight="bold">it is about</text>
+<line x1="28" y1="93" x2="652" y2="93" stroke="#E2E8F0" stroke-width="0.7"/>
+<text x="34" y="84" font-family="DejaVu Sans" font-size="8.0" fill="#334155" text-anchor="start" font-weight="bold">GDP growth</text>
+<text x="300" y="84" font-family="DejaVu Sans" font-size="7.8" fill="#334155" text-anchor="start" font-weight="normal">the year-on-year change in real GDP</text>
+<text x="556" y="84" font-family="DejaVu Sans" font-size="7.8" fill="#008751" text-anchor="start" font-weight="normal">output</text>
+<line x1="28" y1="119" x2="652" y2="119" stroke="#E2E8F0" stroke-width="0.7"/>
+<text x="34" y="110" font-family="DejaVu Sans" font-size="8.0" fill="#334155" text-anchor="start" font-weight="bold">Headline inflation</text>
+<text x="300" y="110" font-family="DejaVu Sans" font-size="7.8" fill="#334155" text-anchor="start" font-weight="normal">the change in the CPI over twelve months</text>
+<text x="556" y="110" font-family="DejaVu Sans" font-size="7.8" fill="#008751" text-anchor="start" font-weight="normal">prices</text>
+<line x1="28" y1="145" x2="652" y2="145" stroke="#E2E8F0" stroke-width="0.7"/>
+<text x="34" y="136" font-family="DejaVu Sans" font-size="8.0" fill="#334155" text-anchor="start" font-weight="bold">MPR</text>
+<text x="300" y="136" font-family="DejaVu Sans" font-size="7.8" fill="#334155" text-anchor="start" font-weight="normal">the policy rate the CBN sets</text>
+<text x="556" y="136" font-family="DejaVu Sans" font-size="7.8" fill="#008751" text-anchor="start" font-weight="normal">the cost of credit</text>
+<line x1="28" y1="171" x2="652" y2="171" stroke="#E2E8F0" stroke-width="0.7"/>
+<text x="34" y="162" font-family="DejaVu Sans" font-size="8.0" fill="#334155" text-anchor="start" font-weight="bold">Unemployment rate</text>
+<text x="300" y="162" font-family="DejaVu Sans" font-size="7.8" fill="#334155" text-anchor="start" font-weight="normal">the share of the labour force without work and seeking it</text>
+<text x="556" y="162" font-family="DejaVu Sans" font-size="7.8" fill="#008751" text-anchor="start" font-weight="normal">jobs</text>
+<line x1="28" y1="197" x2="652" y2="197" stroke="#E2E8F0" stroke-width="0.7"/>
+<text x="34" y="188" font-family="DejaVu Sans" font-size="8.0" fill="#334155" text-anchor="start" font-weight="bold">External reserves</text>
+<text x="300" y="188" font-family="DejaVu Sans" font-size="7.8" fill="#334155" text-anchor="start" font-weight="normal">foreign exchange held by the CBN</text>
+<text x="556" y="188" font-family="DejaVu Sans" font-size="7.8" fill="#008751" text-anchor="start" font-weight="normal">the ability to pay for imports</text>
+<text x="340" y="230" font-family="DejaVu Sans" font-size="7.9" fill="#64748B" text-anchor="middle" font-weight="normal">The paper does not expect the current figure; it expects you to know what the figure would mean.</text>
+<text x="340" y="246" font-family="DejaVu Sans" font-size="7.9" fill="#64748B" text-anchor="middle" font-weight="normal">Quote a number only if you are sure of it — a wrong figure costs the mark a description would have won.</text>
+</svg>

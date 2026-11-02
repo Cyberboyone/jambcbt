@@ -16,7 +16,7 @@ Two volumes, one per half.
 | Vol. | Title | Coverage | Status |
 |---|---|---|---|
 | 1 | The Market — Scarcity, Demand and Price | scarcity and choice, opportunity cost and the PPC, the factors of production, demand and utility, supply and equilibrium, price controls, elasticity, production and cost, the four market structures | **delivered — 183 pp** |
-| 2 | The National Economy | national income, money and banking, inflation and deflation, public finance and taxation, international trade and the balance of payments, development, population and unemployment | planned |
+| 2 | The National Economy — Output, Money, Trade and Development | national income, money and banking, inflation and deflation, public finance and taxation, international trade and the balance of payments, development, population and unemployment, and the Nigerian economy in figures | **delivered — 179 pp** |
 
 ## Volume 1 — The Market
 
@@ -42,20 +42,41 @@ Appendix H (six-week plan, late-start compression, progress tracker, ten-day cou
 Appendix I (twelve model calculations with checks); Appendix J (33 traps plus a
 ten-question trap self-test); Appendix K (the exam-day playbook).
 
-## Volume 2 — The National Economy (planned)
+## Volume 2 — The National Economy
 
-| Ch | Title | Sketch |
-|----|-------|--------|
-| 1 | National Income | GDP and GNP, the three approaches, the circular flow, real versus nominal, per capita income, the multiplier |
-| 2 | Money and Banking | the functions of money, commercial banks and credit creation, the central bank, monetary policy instruments, inflation and deflation |
-| 3 | Public Finance and Taxation | the budget, fiscal policy, direct and indirect taxes, incidence, public debt and debt service |
-| 4 | International Trade and the Balance of Payments | comparative advantage, tariffs and quotas, devaluation, the current and capital accounts, ECOWAS and AfCFTA |
-| 5 | Development, Population and Unemployment | growth versus development, the HDI, population structure, the labour market, the types of unemployment |
-| 6 | The Nigerian Economy in Figures | the institutions (CBN, NBS, FIRS, SEC), the data the paper quotes, and the two full papers |
+| Ch | Title | Sections | Status |
+|----|-------|----------|--------|
+| 1 | National Income | what national income measures; the three methods of measurement; the circular flow; real, nominal and per capita; the multiplier; two-minute set; drill | **done** |
+| 2 | Money and Banking | what money is and what it does; commercial banks and the creation of credit; the central bank; inflation and deflation; two-minute set; drill | **done** |
+| 3 | Public Finance and Taxation | the budget and its three positions; fiscal policy; direct and indirect taxes; incidence and the Laffer curve; the public debt; two-minute set; drill | **done** |
+| 4 | International Trade and the Balance of Payments | why countries trade; comparative advantage; protection — tariffs, quotas and the rest; devaluation and the J-curve; the balance of payments; two-minute set; drill | **done** |
+| 5 | Development, Population and Unemployment | growth and development; population structure; employment and unemployment; two-minute set; drill | **done** |
+| 6 | The Nigerian Economy in Figures | the institutions; the structure of the economy; the statistics and how to discuss them; two-minute set; drill | **done** |
 
-Volume 2 reuses the same template, the same drill generator and the same appendices,
-with its own diagram set (circular flow, money multiplier, Phillips curve, Laffer
-curve, tariff diagram, BOP accounts, population pyramid, HDI scatter).
+Back matter: two 40-question CBT mocks (Paper 1 *Output, Money and the Budget*, Paper 2
+*Trade, Development and the Data*) with answer sheets, marking bands, section
+diagnostics and score logs; Appendix A (60 rapid-fire pairs in three tables plus the
+seven-day plan); Appendix B (the 120-question master bank, 20 per chapter); Appendix C
+(consolidated keys, the letter-count audit, the marking-slip diagnosis and the key
+index); Appendix D (the data file — seven tables, the four national-account
+adjustments, the instruments, the taxes, the two accounts, the development indicators
+and the five question shapes); Appendix E (the graph file — every figure with the trap
+it exposes); Appendix F (the formula sheet, six families with a worked substitution
+beside each); Appendix G (glossary of ~150 terms); Appendix H (six-week plan,
+late-start compression, progress tracker, ten-day countdown); Appendix I (the
+institutions file — who publishes what, and the pairings the examiner offers as traps);
+Appendix J (twelve model calculations plus how the paper combines two formulas);
+Appendix K (30 traps and the exam-day playbook).
+
+Volume 2 reuses the same template, the same drill generator and the same back-matter
+machinery as Volume 1, with its own 35-figure diagram set (circular flow, three
+methods, GDP against GNP, real against nominal, the multiplier, the functions of
+money, credit creation, the credit multiplier, the central bank, demand-pull and
+cost-push, the Phillips curve, the budget, direct and indirect taxes, the Laffer
+curve, tax incidence, comparative advantage, a tariff, devaluation, the balance of
+payments, growth against development, the population pyramid, the demographic
+transition, the four kinds of unemployment, the PPC shifting, the Nigerian
+institutions, the weights of the paper and the data table, plus six recap cards).
 
 ## Build notes
 
@@ -73,6 +94,12 @@ cd study_materials/economics/vol1
 /home/user/.venv/bin/python tools/tune_fit.py --rounds 1        # tunes _fit.json, then rebuilds
 ```
 
+Volume 2 is built by the same six commands in `study_materials/economics/vol2/`, with
+`drills_eco2.py` and `papers_eco2.py` in place of the Volume 1 pair. Its question pool
+is 440 items, disjoint by construction: 240 drill items (40 per chapter), 80 paper
+items (40 per paper) and 120 bank items (20 per chapter), each with a note on every
+option.
+
 Three house-style points matter more in this volume than in the science ones.
 
 1. **Every option is explained.** The drill and paper solutions name why the right
@@ -81,9 +108,9 @@ Three house-style points matter more in this volume than in the science ones.
 2. **Every calculation is shown twice.** A worked example ends in a *Check* line that
    reaches the same answer by a second route — substitution, a shortcut, or the
    direction of the change.
-3. **The curves are drawn, not described.** Thirty-one SVG diagrams are generated from
-   script, checked for canvas bounds, and each carries a caption that says what the
-   examiner asks about it.
+3. **The curves are drawn, not described.** Thirty-one SVG diagrams in Volume 1 and
+   thirty-five in Volume 2 are generated from script, checked for canvas bounds, and
+   each carries a caption that says what the examiner asks about it.
 
 The PDF is gitignored, as with the other volumes; the sources, the generators and the
 build script are committed so any volume can be rebuilt from scratch.

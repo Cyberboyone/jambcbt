@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 264" width="680" height="264">
+  <defs>
+    <marker id="ag" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#008751"/>
+    </marker>
+    <marker id="an" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#0E1F40"/>
+    </marker>
+    <marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#D97706"/>
+    </marker>
+    <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#DC2626"/>
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="680" height="264" fill="#FFFFFF"/>
+<text x="340" y="20" font-family="DejaVu Sans" font-size="10.2" fill="#0E1F40" text-anchor="middle" font-weight="bold">GROWTH IS A NUMBER; DEVELOPMENT IS A CONDITION</text>
+<rect x="18" y="40" width="300" height="168" rx="8" fill="#FFFFFF" stroke="#008751" stroke-width="1.4"/>
+<rect x="18" y="40" width="300" height="26" rx="5" fill="#008751" stroke="#008751" stroke-width="1.0"/>
+<text x="168" y="58" font-family="DejaVu Sans" font-size="9.4" fill="#FFFFFF" text-anchor="middle" font-weight="bold">GROWTH</text>
+<text x="34" y="88" font-family="DejaVu Sans" font-size="7.9" fill="#008751" text-anchor="start" font-weight="bold">one measure</text>
+<text x="34" y="101" font-family="DejaVu Sans" font-size="7.7" fill="#334155" text-anchor="start" font-weight="normal">the rise in real GDP</text>
+<text x="34" y="118" font-family="DejaVu Sans" font-size="7.9" fill="#008751" text-anchor="start" font-weight="bold">one question</text>
+<text x="34" y="131" font-family="DejaVu Sans" font-size="7.7" fill="#334155" text-anchor="start" font-weight="normal">is output larger than last year?</text>
+<text x="34" y="148" font-family="DejaVu Sans" font-size="7.9" fill="#008751" text-anchor="start" font-weight="bold">can be measured</text>
+<text x="34" y="161" font-family="DejaVu Sans" font-size="7.7" fill="#334155" text-anchor="start" font-weight="normal">in naira, at constant prices</text>
+<text x="34" y="178" font-family="DejaVu Sans" font-size="7.9" fill="#008751" text-anchor="start" font-weight="bold">says nothing about</text>
+<text x="34" y="191" font-family="DejaVu Sans" font-size="7.7" fill="#334155" text-anchor="start" font-weight="normal">who received it</text>
+<rect x="336" y="40" width="326" height="168" rx="8" fill="#FFFFFF" stroke="#2563EB" stroke-width="1.4"/>
+<rect x="336" y="40" width="326" height="26" rx="5" fill="#2563EB" stroke="#2563EB" stroke-width="1.0"/>
+<text x="499" y="58" font-family="DejaVu Sans" font-size="9.4" fill="#FFFFFF" text-anchor="middle" font-weight="bold">DEVELOPMENT</text>
+<text x="352" y="88" font-family="DejaVu Sans" font-size="7.9" fill="#2563EB" text-anchor="start" font-weight="bold">several measures</text>
+<text x="352" y="101" font-family="DejaVu Sans" font-size="7.7" fill="#334155" text-anchor="start" font-weight="normal">income, health, schooling, inequality</text>
+<text x="352" y="118" font-family="DejaVu Sans" font-size="7.9" fill="#2563EB" text-anchor="start" font-weight="bold">one question</text>
+<text x="352" y="131" font-family="DejaVu Sans" font-size="7.7" fill="#334155" text-anchor="start" font-weight="normal">are people's lives better, and for whom?</text>
+<text x="352" y="148" font-family="DejaVu Sans" font-size="7.9" fill="#2563EB" text-anchor="start" font-weight="bold">includes growth</text>
+<text x="352" y="161" font-family="DejaVu Sans" font-size="7.7" fill="#334155" text-anchor="start" font-weight="normal">but is not implied by it</text>
+<text x="352" y="178" font-family="DejaVu Sans" font-size="7.9" fill="#2563EB" text-anchor="start" font-weight="bold">the HDI</text>
+<text x="352" y="191" font-family="DejaVu Sans" font-size="7.7" fill="#334155" text-anchor="start" font-weight="normal">income + life expectancy + schooling</text>
+<text x="340" y="226" font-family="DejaVu Sans" font-size="7.9" fill="#64748B" text-anchor="middle" font-weight="normal">A country can grow without developing — if the output goes to a few, or costs the many their health.</text>
+<text x="340" y="244" font-family="DejaVu Sans" font-size="7.9" fill="#64748B" text-anchor="middle" font-weight="normal">It can also develop without much growth, briefly — but not for long, and not for everybody.</text>
+</svg>

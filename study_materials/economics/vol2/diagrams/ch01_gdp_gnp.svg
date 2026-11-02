@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 660 210" width="660" height="210">
+  <defs>
+    <marker id="ag" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#008751"/>
+    </marker>
+    <marker id="an" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#0E1F40"/>
+    </marker>
+    <marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#D97706"/>
+    </marker>
+    <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#DC2626"/>
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="660" height="210" fill="#FFFFFF"/>
+<text x="330" y="20" font-family="DejaVu Sans" font-size="10.4" fill="#0E1F40" text-anchor="middle" font-weight="bold">FROM DOMESTIC PRODUCT TO NATIONAL PRODUCT</text>
+<rect x="18" y="60" width="150" height="64" rx="7" fill="#FFFFFF" stroke="#008751" stroke-width="1.4"/>
+<text x="93" y="86" font-family="DejaVu Sans" font-size="13.0" fill="#008751" text-anchor="middle" font-weight="bold">GDP</text>
+<text x="93" y="106" font-family="DejaVu Sans" font-size="7.8" fill="#334155" text-anchor="middle" font-weight="normal">what is made here</text>
+<rect x="186" y="60" width="176" height="64" rx="7" fill="#FFFFFF" stroke="#2563EB" stroke-width="1.4"/>
+<text x="274" y="82" font-family="DejaVu Sans" font-size="8.2" fill="#334155" text-anchor="middle" font-weight="normal">+ income earned abroad</text>
+<text x="274" y="100" font-family="DejaVu Sans" font-size="8.2" fill="#334155" text-anchor="middle" font-weight="normal">− income sent home</text>
+<text x="274" y="116" font-family="DejaVu Sans" font-size="7.8" fill="#2563EB" text-anchor="middle" font-weight="bold">= net factor income</text>
+<rect x="380" y="60" width="150" height="64" rx="7" fill="#FFFFFF" stroke="#D97706" stroke-width="1.4"/>
+<text x="455" y="86" font-family="DejaVu Sans" font-size="13.0" fill="#D97706" text-anchor="middle" font-weight="bold">GNP</text>
+<text x="455" y="106" font-family="DejaVu Sans" font-size="7.8" fill="#334155" text-anchor="middle" font-weight="normal">what is earned here</text>
+<rect x="548" y="60" width="96" height="64" rx="7" fill="#FFFFFF" stroke="#7C3AED" stroke-width="1.4"/>
+<text x="596" y="82" font-family="DejaVu Sans" font-size="7.8" fill="#334155" text-anchor="middle" font-weight="normal">÷ population</text>
+<text x="596" y="100" font-family="DejaVu Sans" font-size="7.8" fill="#7C3AED" text-anchor="middle" font-weight="bold">= per capita</text>
+<line x1="170" y1="92" x2="174.7" y2="92.0" stroke="#334155" stroke-width="1.4"/><polygon points="184.0,92.0 174.7,95.5 174.7,88.5" fill="#334155"/>
+<line x1="364" y1="92" x2="368.7" y2="92.0" stroke="#334155" stroke-width="1.4"/><polygon points="378.0,92.0 368.7,95.5 368.7,88.5" fill="#334155"/>
+<line x1="532" y1="92" x2="536.7" y2="92.0" stroke="#334155" stroke-width="1.4"/><polygon points="546.0,92.0 536.7,95.5 536.7,88.5" fill="#334155"/>
+<text x="330" y="152" font-family="DejaVu Sans" font-size="9.2" fill="#0E1F40" text-anchor="middle" font-weight="bold">GNP = GDP + net factor income from abroad</text>
+<text x="330" y="172" font-family="DejaVu Sans" font-size="8.2" fill="#334155" text-anchor="middle" font-weight="normal">A country with many foreign firms on its soil has GDP above GNP:</text>
+<text x="330" y="188" font-family="DejaVu Sans" font-size="8.2" fill="#334155" text-anchor="middle" font-weight="normal">the output is made here, but the profit leaves with the owner.</text>
+</svg>

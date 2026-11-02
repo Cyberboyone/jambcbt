@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 470 253" width="470" height="253">
+  <defs>
+    <marker id="ag" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#008751"/>
+    </marker>
+    <marker id="an" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#0E1F40"/>
+    </marker>
+    <marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#D97706"/>
+    </marker>
+    <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#DC2626"/>
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="470" height="253" fill="#FFFFFF"/>
+<text x="235.0" y="21" font-family="DejaVu Sans" font-size="11.8" fill="#0E1F40" text-anchor="middle" font-weight="bold">Chapter 4 in One Breath</text>
+<rect x="12" y="33" width="446" height="35.6" rx="6" fill="#FFFFFF" stroke="#008751" stroke-width="1.1"/>
+<text x="24" y="48" font-family="DejaVu Sans" font-size="10.6" fill="#008751" text-anchor="start" font-weight="bold">Comparative advantage</text>
+<text x="24" y="60.6" font-family="DejaVu Sans" font-size="9.6" fill="#334155" text-anchor="start" font-weight="normal">compare opportunity cost, not output: specialise where the sacrifice is least.</text>
+<rect x="12" y="73.6" width="446" height="48.2" rx="6" fill="#FFFFFF" stroke="#008751" stroke-width="1.1"/>
+<text x="24" y="88.6" font-family="DejaVu Sans" font-size="10.6" fill="#008751" text-anchor="start" font-weight="bold">Tariff</text>
+<text x="24" y="101.19999999999999" font-family="DejaVu Sans" font-size="9.6" fill="#334155" text-anchor="start" font-weight="normal">a tax on imports: price up, quantity imported down, consumers lose more than the</text>
+<text x="24" y="113.8" font-family="DejaVu Sans" font-size="9.6" fill="#334155" text-anchor="start" font-weight="normal">revenue.</text>
+<rect x="12" y="126.8" width="446" height="35.6" rx="6" fill="#FFFFFF" stroke="#008751" stroke-width="1.1"/>
+<text x="24" y="141.8" font-family="DejaVu Sans" font-size="10.6" fill="#008751" text-anchor="start" font-weight="bold">Quota</text>
+<text x="24" y="154.4" font-family="DejaVu Sans" font-size="9.6" fill="#334155" text-anchor="start" font-weight="normal">a physical limit on imports; the gain goes to whoever holds the licence.</text>
+<rect x="12" y="167.4" width="446" height="35.6" rx="6" fill="#FFFFFF" stroke="#008751" stroke-width="1.1"/>
+<text x="24" y="182.4" font-family="DejaVu Sans" font-size="10.6" fill="#008751" text-anchor="start" font-weight="bold">Devaluation</text>
+<text x="24" y="195.0" font-family="DejaVu Sans" font-size="9.6" fill="#334155" text-anchor="start" font-weight="normal">cheaper exports and dearer imports — with a J-curve before the balance improves.</text>
+<rect x="12" y="208.0" width="446" height="35.6" rx="6" fill="#FFFFFF" stroke="#008751" stroke-width="1.1"/>
+<text x="24" y="223.0" font-family="DejaVu Sans" font-size="10.6" fill="#008751" text-anchor="start" font-weight="bold">Balance of payments</text>
+<text x="24" y="235.6" font-family="DejaVu Sans" font-size="9.6" fill="#334155" text-anchor="start" font-weight="normal">current plus capital account; the deficit is financed, never wished away.</text>
+</svg>
