@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Render every Volume 3 diagram into ../diagrams."""
+"""Render every Volume 4 diagram into ../diagrams."""
 
 from __future__ import annotations
 
@@ -10,7 +10,14 @@ from pathlib import Path
 HERE = Path(__file__).resolve().parent
 sys.path.insert(0, str(HERE))
 
-MODULES = ["figs_phys3_a", "figs_phys3_b", "figs_phys3_c"]
+MODULES = [
+    "figs_phys4_a",
+    "figs_phys4_b",
+    "figs_phys4_c",
+    "figs_phys4_d",
+    "figs_phys4_e",
+    "figs_phys4_f",
+]
 
 
 def main() -> int:

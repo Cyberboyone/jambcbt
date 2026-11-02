@@ -317,3 +317,14 @@ The chapters are the teaching; the back half of the book is the practice and the
 #v(4pt)
 
 #text(size: 9.6pt)[A note on order. Do not read the book from the first page to the last and then start the drills: the drills are the reading. Work a chapter, sit its drill the same week, and let the solutions send you back to the one section you skimmed. The mock papers exist to mix the chapters, because the examination mixes them — a chapter you can do in isolation but not under a mixed paper is not yet finished.]
+
+#v(6pt)
+
+#concept-box("Six questions to ask of every calculation")[
+  + *What is asked for, and in what unit?* Charge, current, energy, power, resistance and cost all have different units, and three of the four options in a numerical question usually belong to the other three.
+  + *What is given, in SI?* Convert a milliamp, a microfarad, a centimetre or a minute before substituting. A conversion error and a physics error look identical in the working.
+  + *Which equation connects the given to the wanted?* If none does directly, name the quantity you can find first — the intermediate that turns one step into two.
+  + *Is the answer the right order of magnitude?* A household current is a few amperes, a visible photon a few eV, a fission event about 200 MeV. An answer a thousand times away is a power of ten.
+  + *Does the sign or direction make sense?* Lenz's law opposes, an electron carries a negative charge, and a step-down transformer steps the current up. Direction questions are answered by the last line, not the arithmetic.
+  + *Could the question be done without the numbers?* If two options differ only in a power of ten or a direction, the examiner is testing the check, not the calculator.
+]

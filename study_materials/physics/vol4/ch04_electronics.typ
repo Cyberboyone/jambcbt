@@ -166,6 +166,30 @@ Digital electronics reduces every decision to two states: high or low, 1 or 0, o
   + *NOT* — the output is the opposite of the input, with one input only. Symbol: a triangle with a small circle at the output.
 ]
 
+#table(
+  columns: (0.9fr, 1.25fr, 1.25fr, 1.25fr, 1.1fr),
+  inset: (x: 5pt, y: 3.6pt),
+  align: (left + horizon, center + horizon, center + horizon, center + horizon, left + horizon),
+  stroke: 0.5pt + jamb-border,
+  fill: (x, y) => if y == 0 { jamb-navy } else if calc.odd(y) { white } else { jamb-light },
+  table.header(
+    text(font: "DejaVu Sans", size: 8.0pt, weight: "bold", fill: white)[Gate],
+    text(font: "DejaVu Sans", size: 8.0pt, weight: "bold", fill: white)[The rule in words],
+    text(font: "DejaVu Sans", size: 8.0pt, weight: "bold", fill: white)[Output when A = 1, B = 0],
+    text(font: "DejaVu Sans", size: 8.0pt, weight: "bold", fill: white)[Output when A = 1, B = 1],
+    text(font: "DejaVu Sans", size: 8.0pt, weight: "bold", fill: white)[Its symbol],
+  ),
+  [*AND*], [1 only if both are 1], [0], [1], [a D-shape],
+  [*OR*], [1 if either is 1], [1], [1], [a curved shield],
+  [*NOT*], [the opposite of the input], [—], [—], [a triangle with a circle],
+  [*NAND*], [NOT of AND], [1], [0], [a D-shape with a circle],
+  [*NOR*], [NOT of OR], [0], [0], [a shield with a circle],
+)
+
+#v(4pt)
+
+#text(size: 9.2pt)[Two columns of the table do most of the work in the hall. *NAND* and *NOR* are the *only* gates that give 0 for the two-ones row, so a question that supplies 1 and 1 and offers a 0 has already named two of the five. And *XOR*, which the paper sometimes offers, gives 1 when the inputs *differ* and 0 when they agree — the gate to identify by its two-ones row of 0 and its one-zero row of 1.]
+
 #diagram-fig("diagrams/ch04_logic.svg",
   "The three gates, their symbols and their truth tables. The little circle on the NOT gate is the whole of its behaviour: it inverts. NAND and NOR are these gates with the circle added, and any circuit can be built from NAND gates alone.", width: 100%)
 

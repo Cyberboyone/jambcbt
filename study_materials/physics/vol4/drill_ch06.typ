@@ -346,164 +346,164 @@
 
   #block(breakable: false)[
   === Complete Solutions
-  #sol-item(1, "C", dense: true, pad: 29.18pt)[
+  #sol-item(1, "C", dense: true, pad: 37.97pt)[
     Protons and neutrons are the nucleons; the electrons occupy the space around the nucleus. The proton number fixes the element.
   ]
 
-  #sol-item(2, "D", dense: true, pad: 29.18pt)[
+  #sol-item(2, "D", dense: true, pad: 37.97pt)[
     The atomic number, or proton number, fixes the element. The mass number is the number of nucleons, protons plus neutrons.
   ]
   ]
 
-  #sol-item(3, "B", dense: true, pad: 29.18pt)[
+  #sol-item(3, "B", dense: true, pad: 37.97pt)[
     Isotopes share the proton number but differ in the number of neutrons, so they have different mass numbers but identical chemistry.
   ]
 
-  #sol-item(4, "B", dense: true, pad: 29.18pt)[
+  #sol-item(4, "B", dense: true, pad: 37.97pt)[
     An alpha particle is two protons and two neutrons bound together — a helium nucleus with charge +2e and mass number 4.
   ]
 
-  #sol-item(5, "D", dense: true, pad: 29.18pt)[
+  #sol-item(5, "D", dense: true, pad: 37.97pt)[
     A beta particle is a fast electron created when a neutron in the nucleus turns into a proton. Its mass number is 0 and its charge is −1.
   ]
 
-  #sol-item(6, "A", dense: true, pad: 29.18pt)[
+  #sol-item(6, "A", dense: true, pad: 37.97pt)[
     A gamma ray is a photon of very high frequency emitted when a nucleus drops from an excited state to a lower one. It has no charge and no mass.
   ]
 
-  #sol-item(7, "A", dense: true, pad: 29.18pt)[
+  #sol-item(7, "A", dense: true, pad: 37.97pt)[
     Gamma rays penetrate several centimetres of lead; beta particles are stopped by a few millimetres of aluminium, and alpha particles by a sheet of paper.
   ]
 
-  #sol-item(8, "D", dense: true, pad: 29.18pt)[
+  #sol-item(8, "D", dense: true, pad: 37.97pt)[
     A beta particle is light and carries a single charge, so it is deflected far more than the heavy, doubly charged alpha particle. Gamma rays are undeflected.
   ]
 
-  #sol-item(9, "A", dense: true, pad: 29.18pt)[
+  #sol-item(9, "A", dense: true, pad: 37.97pt)[
     An alpha particle carries off two protons and two neutrons, so the mass number falls by 4 and the atomic number by 2.
   ]
 
-  #sol-item(10, "A", dense: true, pad: 29.18pt)[
+  #sol-item(10, "A", dense: true, pad: 37.97pt)[
     A neutron turns into a proton, so the proton number rises by one while the mass number stays the same.
   ]
 
-  #sol-item(11, "A", dense: true, pad: 29.18pt)[
+  #sol-item(11, "A", dense: true, pad: 37.97pt)[
     Alpha decay removes 4 from the mass number and 2 from the atomic number: $attach(upright("Th"), tl: 234, bl: 90)$.
   ]
 
-  #sol-item(12, "C", dense: true, pad: 29.18pt)[
+  #sol-item(12, "C", dense: true, pad: 37.97pt)[
     Beta decay raises the atomic number by 1 and leaves the mass number unchanged, so carbon-14 becomes nitrogen-14.
   ]
 
-  #sol-item(13, "C", dense: true, pad: 29.18pt)[
+  #sol-item(13, "C", dense: true, pad: 37.97pt)[
     After one half-life half the nuclei remain, after two a quarter, and so on. Nothing about the sample's chemistry, temperature or pressure changes the rate.
   ]
 
-  #sol-item(14, "B", dense: true, pad: 29.18pt)[
+  #sol-item(14, "B", dense: true, pad: 37.97pt)[
     15 days is three half-lives, so the number falls by $2^3 = 8$: $8.0 times 10^20 \/ 8 = 1.0 times 10^20$.
   ]
 
-  #sol-item(15, "A", dense: true, pad: 29.18pt)[
+  #sol-item(15, "A", dense: true, pad: 37.97pt)[
     A fall by a factor of 8 means three half-lives, so each is $30\/3 = 10$ minutes.
   ]
 
-  #sol-item(16, "D", dense: true, pad: 29.18pt)[
+  #sol-item(16, "D", dense: true, pad: 37.97pt)[
     Each nucleus has a fixed probability of decaying per unit time, but no individual decay can be predicted — which is why large samples follow the half-life law so precisely.
   ]
 
-  #sol-item(17, "C", dense: true, pad: 29.18pt)[
+  #sol-item(17, "C", dense: true, pad: 37.97pt)[
     Half-life is a property of the nucleus alone. Heating, cooling, compressing or chemically combining a nuclide changes its decay rate not at all.
   ]
 
-  #sol-item(18, "B", dense: true, pad: 29.18pt)[
+  #sol-item(18, "B", dense: true, pad: 37.97pt)[
     Mass number $226 - 4 = 222$ and atomic number $88 - 2 = 86$, which is radon.
   ]
 
-  #sol-item(19, "D", dense: true, pad: 29.18pt)[
+  #sol-item(19, "D", dense: true, pad: 37.97pt)[
     Beta decay leaves the mass number alone and raises the atomic number by one: protactinium-234.
   ]
 
-  #sol-item(20, "A", dense: true, pad: 29.18pt)[
+  #sol-item(20, "A", dense: true, pad: 37.97pt)[
     A gamma ray is pure energy, so the nucleus stays the same element and the same isotope — it is only left in a lower energy state.
   ]
 
-  #sol-item(21, "C", dense: true, pad: 29.18pt)[
+  #sol-item(21, "C", dense: true, pad: 37.97pt)[
     The missing mass has been converted into binding energy according to $E = m c^2$, which is why a nucleus weighs less than its parts.
   ]
 
-  #sol-item(22, "C", dense: true, pad: 29.18pt)[
+  #sol-item(22, "C", dense: true, pad: 37.97pt)[
     Einstein's relation converts the mass difference into energy; $c^2$ is so large that a tiny mass defect gives a huge energy.
   ]
 
-  #sol-item(23, "A", dense: true, pad: 29.18pt)[
+  #sol-item(23, "A", dense: true, pad: 37.97pt)[
     It is exactly the energy equivalent of the mass defect, and it is what makes a heavy nucleus release energy when it splits.
   ]
 
-  #sol-item(24, "B", dense: true, pad: 29.18pt)[
+  #sol-item(24, "B", dense: true, pad: 37.97pt)[
     Uranium-235 absorbing a neutron and splitting is the standard example; the reaction releases energy and two or three more neutrons.
   ]
 
-  #sol-item(25, "C", dense: true, pad: 29.18pt)[
+  #sol-item(25, "C", dense: true, pad: 37.97pt)[
     Fusion is the reaction that powers the Sun: hydrogen nuclei combine to form helium, releasing energy because the helium nucleus is more tightly bound.
   ]
 
-  #sol-item(26, "B", dense: true, pad: 29.18pt)[
+  #sol-item(26, "B", dense: true, pad: 37.97pt)[
     If each fission leads on average to exactly one more, the reaction is steady; above one it grows, below one it dies out.
   ]
 
-  #sol-item(27, "B", dense: true, pad: 29.18pt)[
+  #sol-item(27, "B", dense: true, pad: 37.97pt)[
     Rods of boron or cadmium absorb neutrons, so lowering them into the core reduces the number available and slows the reaction.
   ]
 
-  #sol-item(28, "C", dense: true, pad: 29.18pt)[
+  #sol-item(28, "C", dense: true, pad: 37.97pt)[
     Slow neutrons are far more likely to be captured by uranium-235, so a moderator of graphite or water improves the efficiency of the chain reaction.
   ]
 
-  #sol-item(29, "B", dense: true, pad: 29.18pt)[
+  #sol-item(29, "B", dense: true, pad: 37.97pt)[
     Background is the natural and medical exposure that exists everywhere. Radon gas from rocks is usually the largest single contributor.
   ]
 
-  #sol-item(30, "D", dense: true, pad: 29.18pt)[
+  #sol-item(30, "D", dense: true, pad: 37.97pt)[
     An alpha particle is heavy and doubly charged, so it loses its energy in a few centimetres of air or a single sheet of paper — which also makes it the most dangerous if inhaled.
   ]
 
-  #sol-item(31, "A", dense: true, pad: 29.18pt)[
+  #sol-item(31, "A", dense: true, pad: 37.97pt)[
     The detector counts background as well as the source, so the source's true count rate is the measured rate minus the background rate.
   ]
 
-  #sol-item(32, "B", dense: true, pad: 29.18pt)[
+  #sol-item(32, "B", dense: true, pad: 37.97pt)[
     One hour is three half-lives, so the fraction remaining is $(1\/2)^3 = 1\/8$.
   ]
 
-  #sol-item(33, "A", dense: true, pad: 29.18pt)[
+  #sol-item(33, "A", dense: true, pad: 37.97pt)[
     One becquerel is one decay per second. The count rate from a detector is usually quoted in counts per minute.
   ]
 
-  #sol-item(34, "C", dense: true, pad: 29.18pt)[
+  #sol-item(34, "C", dense: true, pad: 37.97pt)[
     The alpha carries away a charge of +2e, so the nucleus loses 2e of positive charge and its atomic number falls by two.
   ]
 
-  #sol-item(35, "B", dense: true, pad: 29.18pt)[
+  #sol-item(35, "B", dense: true, pad: 37.97pt)[
     A neutron is neutral, which is why a beam of neutrons is not deflected by electric or magnetic fields and why neutrons can penetrate matter so deeply.
   ]
 
-  #sol-item(36, "B", dense: true, pad: 29.18pt)[
+  #sol-item(36, "B", dense: true, pad: 37.97pt)[
     The atomic number gives 92 protons and the mass number gives 235 nucleons, so there are $235 - 92 = 143$ neutrons.
   ]
 
-  #sol-item(37, "D", dense: true, pad: 29.18pt)[
+  #sol-item(37, "D", dense: true, pad: 37.97pt)[
     While an organism is alive its carbon-14 is replenished; after death it decays with a half-life of about 5730 years, so the remaining fraction dates the sample.
   ]
 
-  #sol-item(38, "A", dense: true, pad: 29.18pt)[
+  #sol-item(38, "A", dense: true, pad: 37.97pt)[
     Chemical reactions rearrange electrons and move a mass of the order of $10^(-9)$ of the total; nuclear reactions move of the order of $10^(-3)$, so a million times more energy per atom.
   ]
 
-  #sol-item(39, "A", dense: true, pad: 29.18pt)[
+  #sol-item(39, "A", dense: true, pad: 37.97pt)[
     Alpha particles are positive and beta particles negative, so they are deflected in opposite directions. Gamma rays are undeflected.
   ]
 
-  #sol-item(40, "B", dense: true, pad: 29.18pt)[
+  #sol-item(40, "B", dense: true, pad: 37.97pt)[
     Half-life is a fraction, not a number: each sample loses half of whatever it starts with.
   ]
 

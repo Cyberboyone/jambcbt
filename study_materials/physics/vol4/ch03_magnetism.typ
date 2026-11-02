@@ -106,10 +106,41 @@ Push a bar magnet into a coil and the galvanometer needle jumps; hold the magnet
   + *Zero e.m.f.* — a magnet held still, or a coil moving parallel to a uniform field without cutting any lines.
 ]
 
+*Lenz's law.* The induced current always flows in the direction that *opposes* the change producing it. Push a north pole towards a coil and the near face of the coil becomes a north pole, repelling the magnet; pull it away and the near face becomes a south pole, holding it back. The consequence is that you always have to do work to generate electricity — which is why a bicycle dynamo feels harder to turn when its lamp is on.
+
+
+#text(size: 9.2pt)[Four rules, four different questions. A question that offers “Fleming's left-hand rule” as the answer to a generator stem is testing which of the four the situation needs, not whether you know a mnemonic.]
+
+#v(3pt)
+
+#table(
+  columns: (1.45fr, 2.1fr, 1.8fr),
+  inset: (x: 5pt, y: 3.6pt),
+  align: (left + horizon, left + horizon, left + horizon),
+  stroke: 0.5pt + jamb-border,
+  fill: (x, y) => if y == 0 { jamb-navy } else if calc.odd(y) { white } else { jamb-light },
+  table.header(
+    text(font: "DejaVu Sans", size: 8.0pt, weight: "bold", fill: white)[The rule],
+    text(font: "DejaVu Sans", size: 8.0pt, weight: "bold", fill: white)[What it answers],
+    text(font: "DejaVu Sans", size: 8.0pt, weight: "bold", fill: white)[Where the paper uses it],
+  ),
+  [*Fleming's left-hand rule*],
+  [a current in a field *experiences* a force],
+  [motors, loudspeakers, galvanometers],
+  [*Fleming's right-hand rule*],
+  [a conductor *cutting* flux has an e.m.f. induced],
+  [generators, dynamos],
+  [*Lenz's law*],
+  [the induced current *opposes* the change],
+  [the direction of any induced current],
+  [*Right-hand grip rule*],
+  [the field *around* a current],
+  [solenoids, electromagnets, relays],
+)
+
+#v(4pt)
 #diagram-fig("diagrams/ch03_induction.svg",
   "Faraday's experiment and the two laws that describe it. An e.m.f. appears only while the flux is changing, and the direction of the induced current is always such as to oppose the change — push the magnet in and the coil behaves like a magnet with its like pole facing you.", width: 100%)
-
-*Lenz's law.* The induced current always flows in the direction that *opposes* the change producing it. Push a north pole towards a coil and the near face of the coil becomes a north pole, repelling the magnet; pull it away and the near face becomes a south pole, holding it back. The consequence is that you always have to do work to generate electricity — which is why a bicycle dynamo feels harder to turn when its lamp is on.
 
 #worked-example(
   2,

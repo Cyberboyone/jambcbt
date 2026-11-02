@@ -87,3 +87,18 @@
   [transistor], [a three-terminal semiconductor device in which a small base current controls a large collector current],
   [work function], [the minimum energy needed to remove an electron from the surface of a metal],
 )
+
+
+#v(8pt)
+
+#concept-box("Five definitions written the way a mark scheme wants them")[
+  + *Electric field strength* is the force per unit positive charge at a point in the field, measured in N C⁻¹ and equal to $V\/d$ in a uniform field.
+  + *Resistance* is the ratio of the potential difference across a component to the current through it, $R = V\/I$, measured in ohms, and it is constant only for an ohmic conductor at constant temperature.
+  + *Electromotive force* is the energy converted from other forms into electrical energy per unit charge driven round the circuit — not a force, and not the same as the potential difference across the terminals when current flows.
+  + *The work function* is the minimum energy needed to remove an electron from the surface of a metal, and it is the quantity that sets the threshold frequency in the photoelectric effect.
+  + *Half-life* is the time for half the nuclei in a sample to decay — a property of the isotope, independent of how much of it there is, of temperature and of pressure.
+]
+
+#v(4pt)
+
+#text(font: "DejaVu Sans", size: 8.6pt, fill: jamb-muted)[The pattern in all five: the class of quantity, the equation that fixes it, and the one thing it is *not*. A definition that stops after the class is a description; a definition that adds the contrast is worth the mark.]

@@ -256,7 +256,7 @@
 #let concept-box(title, body) = {
   v(4pt, weak: true)
   block(
-    breakable: false,
+    breakable: true,
     width: 100%,
     above: 6pt,
     below: 10pt,
@@ -279,7 +279,7 @@
 #let formula-box(title, body) = {
   v(4pt, weak: true)
   block(
-    breakable: false,
+    breakable: true,
     width: 100%,
     above: 6pt,
     below: 10pt,
@@ -302,7 +302,7 @@
 #let trap-box(title, body) = {
   v(4pt, weak: true)
   block(
-    breakable: false,
+    breakable: true,
     width: 100%,
     above: 6pt,
     below: 10pt,
@@ -325,7 +325,7 @@
 #let shortcut-box(title, body) = {
   v(4pt, weak: true)
   block(
-    breakable: false,
+    breakable: true,
     width: 100%,
     above: 6pt,
     below: 10pt,

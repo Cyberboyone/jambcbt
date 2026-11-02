@@ -58,10 +58,34 @@ An atom cannot hold an arbitrary amount of energy. Its electrons occupy *discret
   The jumps to $n = 2$ give the visible Balmer series; jumps to $n = 1$ give the ultraviolet Lyman series. The larger the drop, the greater the frequency and the shorter the wavelength.
 ]
 
+*Emission and absorption.* A hot gas *emits* bright lines at the frequencies it can produce. The same gas, cool and in front of a hot continuous source, *absorbs* those same frequencies and leaves dark lines in the continuous spectrum. The two patterns are exact complements, and either one identifies the element — which is how the helium in the Sun was found before it was found on Earth.
+
+
+#text(size: 9.2pt)[Every line in D.1's spectrum belongs to one series, and the series is named by the level the electron falls *to* — never the level it falls from. The four Balmer lines are the ones a school spectroscope resolves, and the red one at 656 nm is the line every question quotes.]
+
+#v(3pt)
+
+#table(
+  columns: (0.85fr, 0.75fr, 0.8fr, 1.5fr, 2.1fr),
+  inset: (x: 5pt, y: 3.6pt),
+  align: (left + horizon, left + horizon, left + horizon, left + horizon, left + horizon),
+  stroke: 0.5pt + jamb-border,
+  fill: (x, y) => if y == 0 { jamb-navy } else if calc.odd(y) { white } else { jamb-light },
+  table.header(
+    text(font: "DejaVu Sans", size: 8.0pt, weight: "bold", fill: white)[Series],
+    text(font: "DejaVu Sans", size: 8.0pt, weight: "bold", fill: white)[Jump],
+    text(font: "DejaVu Sans", size: 8.0pt, weight: "bold", fill: white)[Region],
+    text(font: "DejaVu Sans", size: 8.0pt, weight: "bold", fill: white)[First wavelength],
+    text(font: "DejaVu Sans", size: 8.0pt, weight: "bold", fill: white)[What to remember],
+  ),
+  [*Lyman*], [['to $n = 1$']], [['ultraviolet']], [['121.5 nm']], [['the ionisation series; only the first line is quoted']],
+  [*Balmer*], [['to $n = 2$']], [['visible']], [['656 nm (red), 486, 434, 410']], [['the four lines a school spectroscope resolves']],
+  [*Paschen*], [['to $n = 3$']], [['infrared']], [['1875 nm']], [['appears when the gas is hotter']],
+)
+
+#v(4pt)
 #diagram-fig("diagrams/ch05_levels.svg",
   "Energy levels and the spectrum they produce. Each downward jump emits a photon of one exact energy, so the spectrum is a set of sharp lines rather than a continuous band — and the pattern of lines is a fingerprint of the element.", width: 100%)
-
-*Emission and absorption.* A hot gas *emits* bright lines at the frequencies it can produce. The same gas, cool and in front of a hot continuous source, *absorbs* those same frequencies and leaves dark lines in the continuous spectrum. The two patterns are exact complements, and either one identifies the element — which is how the helium in the Sun was found before it was found on Earth.
 
 #worked-example(
   1,
@@ -118,6 +142,42 @@ None of those facts can be explained by a wave. A wave of sufficient intensity s
   At the threshold, $h f_0 = W$. The equation also gives the *stopping potential*: the reverse p.d. $V_s$ just able to stop the fastest electrons satisfies $e V_s = 1\/2 m v^2$.
 ]
 
+#table(
+  columns: (1.9fr, 1.15fr, 0.55fr, 0.6fr, 1.4fr),
+  inset: (x: 5pt, y: 3.6pt),
+  align: (left + horizon, left + horizon, left + horizon, left + horizon, left + horizon, left + horizon),
+  stroke: 0.5pt + jamb-border,
+  fill: (x, y) => if y == 0 { jamb-navy } else if calc.odd(y) { white } else { jamb-light },
+  table.header(
+    text(font: "DejaVu Sans", size: 8.0pt, weight: "bold", fill: white)[The graph],
+    text(font: "DejaVu Sans", size: 8.0pt, weight: "bold", fill: white)[Its shape],
+    text(font: "DejaVu Sans", size: 8.0pt, weight: "bold", fill: white)[Gradient],
+    text(font: "DejaVu Sans", size: 8.0pt, weight: "bold", fill: white)[Intercept],
+    text(font: "DejaVu Sans", size: 8.0pt, weight: "bold", fill: white)[What it gives],
+  ),
+  [*Stopping potential against frequency*],
+  [a straight line],
+  [$h\/e$],
+  [$-phi\/e$],
+  [$f_0 = phi\/h$],
+  [*Maximum kinetic energy against frequency*],
+  [a straight line],
+  [$h$],
+  [$-phi$],
+  [the threshold frequency],
+  [*Photocurrent against intensity*],
+  [a straight line through zero],
+  [—],
+  [—],
+  [each photon releases one electron],
+  [*Photocurrent against p.d.*],
+  [a plateau],
+  [—],
+  [—],
+  [saturation, then a stopping p.d.],
+)
+
+#v(4pt)
 #diagram-fig("diagrams/ch05_photoelectric.svg",
   "Two graphs that settle the argument. Brighter light gives a larger current but the same stopping potential, so intensity does not change the energy of the electrons. Maximum kinetic energy against frequency is a straight line that begins at the threshold frequency, and its gradient is Planck's constant.", width: 100%)
 
@@ -197,6 +257,28 @@ Light behaves as a wave in interference and diffraction, and as a particle in th
   ],
   tier: "JAMB CHALLENGE",
 )
+
+#table(
+  columns: (1.15fr, 1.5fr, 1.6fr, 1.35fr),
+  inset: 4.2pt,
+  align: (left + horizon, left + horizon, left + horizon, left + horizon),
+  stroke: 0.5pt + jamb-border,
+  fill: (x, y) => if y == 0 { jamb-navy } else if calc.odd(y) { white } else { jamb-light },
+  table.header(
+    text(font: "DejaVu Sans", size: 8.0pt, weight: "bold", fill: white)[Experiment],
+    text(font: "DejaVu Sans", size: 8.0pt, weight: "bold", fill: white)[What it shows],
+    text(font: "DejaVu Sans", size: 8.0pt, weight: "bold", fill: white)[The quantity extracted],
+    text(font: "DejaVu Sans", size: 8.0pt, weight: "bold", fill: white)[The equation],
+  ),
+  [*Photoelectric effect*], [light arrives in packets], [threshold frequency, work function], [$h f = phi + K_(max)$],
+  [*Line spectra*], [atoms have discrete levels], [the energy of each jump], [$h f = E_2 - E_1$],
+  [*Electron diffraction*], [particles behave as waves], [the de Broglie wavelength], [$lambda = h\/p$],
+  [*X-ray production*], [a decelerated electron gives a photon], [the short-wavelength limit], [$e V = h c\/lambda_(min)$],
+)
+
+#v(4pt)
+
+#text(size: 9.2pt)[The four experiments are one idea seen four ways: energy and momentum are exchanged in packets of fixed size, and the packet's size is set by $h$. A question that asks which experiment proves which is asking you to match a *measurement* to a *model*, and the column above is the whole of the matching.]
 
 #diagram-fig("diagrams/recap_ch05.svg",
   "Chapter 5 recap card: atomic physics.", width: 100%)

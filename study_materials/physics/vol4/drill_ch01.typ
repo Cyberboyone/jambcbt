@@ -346,164 +346,164 @@
 
   #block(breakable: false)[
   === Complete Solutions
-  #sol-item(1, "C", dense: true, pad: 17.93pt)[
+  #sol-item(1, "C", dense: true, pad: 28.35pt)[
     $n = q/e = 3.2 times 10^(-19) \/ 1.6 times 10^(-19) = 2$ electrons. Charge is quantised, so every charge is a whole multiple of e.
   ]
 
-  #sol-item(2, "D", dense: true, pad: 17.93pt)[
+  #sol-item(2, "D", dense: true, pad: 28.35pt)[
     The prefix micro means $10^(-6)$, so 5.0 µC is $5.0 times 10^(-6)$ C. Leaving a charge in microcoulombs inside Coulomb's law makes the answer $10^12$ times too large.
   ]
   ]
 
-  #sol-item(3, "C", dense: true, pad: 17.93pt)[
+  #sol-item(3, "C", dense: true, pad: 28.35pt)[
     The force is inversely proportional to the square of the separation, and halving the separation multiplies the force by $2^2 = 4$.
   ]
 
-  #sol-item(4, "C", dense: true, pad: 17.93pt)[
+  #sol-item(4, "C", dense: true, pad: 28.35pt)[
     $F = 9.0 times 10^9 times 2.0 times 10^(-6) times 8.0 times 10^(-6) \/ (0.30)^2 = 1.6$ N. Both charges are positive, so the force is repulsive.
   ]
 
-  #sol-item(5, "C", dense: true, pad: 17.93pt)[
+  #sol-item(5, "C", dense: true, pad: 28.35pt)[
     $F = 9.0 times 10^9 times 4.0 times 10^(-6) times 6.0 times 10^(-6) \/ 0.09 = 2.4$ N, and unlike charges attract.
   ]
 
-  #sol-item(6, "D", dense: true, pad: 17.93pt)[
+  #sol-item(6, "D", dense: true, pad: 28.35pt)[
     Rubbing transfers electrons from one body to the other. The body that gains electrons becomes negative, and the other keeps an equal positive charge.
   ]
 
-  #sol-item(7, "A", dense: true, pad: 17.93pt)[
+  #sol-item(7, "A", dense: true, pad: 28.35pt)[
     A charged body polarises a neutral one and attracts it, so attraction alone does not prove the paper is charged. Repulsion, by contrast, proves that both bodies carry the same charge.
   ]
 
-  #sol-item(8, "A", dense: true, pad: 17.93pt)[
+  #sol-item(8, "A", dense: true, pad: 28.35pt)[
     Like charges repel, so the leaf rises further when the rod carries the same charge. A rod of the opposite charge would make the leaf fall.
   ]
 
-  #sol-item(9, "A", dense: true, pad: 17.93pt)[
+  #sol-item(9, "A", dense: true, pad: 28.35pt)[
     The conductor is a thick copper strip from the highest point to the ground, so the charge of a strike — and some of the charge in the cloud — is carried harmlessly to earth.
   ]
 
-  #sol-item(10, "D", dense: true, pad: 17.93pt)[
+  #sol-item(10, "D", dense: true, pad: 28.35pt)[
     $E = F\/q$ for a positive test charge. Dividing by a *positive* charge is what gives the field its direction, away from positive charge and towards negative.
   ]
 
-  #sol-item(11, "B", dense: true, pad: 17.93pt)[
+  #sol-item(11, "B", dense: true, pad: 28.35pt)[
     $E = k Q\/r^2 = 9.0 times 10^9 times 4.0 times 10^(-6) \/ 0.09 = 4.0 times 10^5$ N C⁻¹, directed away from the charge.
   ]
 
-  #sol-item(12, "C", dense: true, pad: 17.93pt)[
+  #sol-item(12, "C", dense: true, pad: 28.35pt)[
     $E = F\/q$ gives newtons per coulomb; $E = V\/d$ gives volts per metre. The two are the same unit, which is a useful check.
   ]
 
-  #sol-item(13, "C", dense: true, pad: 17.93pt)[
+  #sol-item(13, "C", dense: true, pad: 28.35pt)[
     $E = V\/d = 120 \/ (4.0 times 10^(-3)) = 3.0 times 10^4$ V m⁻¹. The separation must be converted to metres before dividing.
   ]
 
-  #sol-item(14, "A", dense: true, pad: 17.93pt)[
+  #sol-item(14, "A", dense: true, pad: 28.35pt)[
     $F = e E = 1.6 times 10^(-19) times 5.0 times 10^4 = 8.0 times 10^(-15)$ N. A negative charge feels a force opposite to the field, so it is pulled towards the positive plate.
   ]
 
-  #sol-item(15, "B", dense: true, pad: 17.93pt)[
+  #sol-item(15, "B", dense: true, pad: 28.35pt)[
     $W = q V = 5.0 times 12 = 60$ J. A potential difference of 12 V means 12 J for every coulomb moved.
   ]
 
-  #sol-item(16, "C", dense: true, pad: 17.93pt)[
+  #sol-item(16, "C", dense: true, pad: 28.35pt)[
     $C = Q\/V$. Capacitance is a property of the construction — the area, the separation and the dielectric — not of how much charge happens to be on it.
   ]
 
-  #sol-item(17, "C", dense: true, pad: 17.93pt)[
+  #sol-item(17, "C", dense: true, pad: 28.35pt)[
     $C = Q\/V = 60 times 10^(-6) \/ 12 = 5.0 times 10^(-6)$ F $= 5.0$ µF.
   ]
 
-  #sol-item(18, "D", dense: true, pad: 17.93pt)[
+  #sol-item(18, "D", dense: true, pad: 28.35pt)[
     $W = 1\/2 C V^2 = 0.5 times 470 times 10^(-6) times 144 = 0.034$ J. Using $C V^2$ instead of half of it gives twice the right answer.
   ]
 
-  #sol-item(19, "D", dense: true, pad: 17.93pt)[
+  #sol-item(19, "D", dense: true, pad: 28.35pt)[
     $1\/C = 3 times (1\/3.0) = 1.0$ µF⁻¹, so $C = 1.0$ µF. A series combination is always smaller than the smallest capacitor in it.
   ]
 
-  #sol-item(20, "A", dense: true, pad: 17.93pt)[
+  #sol-item(20, "A", dense: true, pad: 28.35pt)[
     In parallel the capacitances simply add: $2.0 + 3.0 = 5.0$ µF, because each is connected across the same p.d.
   ]
 
-  #sol-item(21, "C", dense: true, pad: 17.93pt)[
+  #sol-item(21, "C", dense: true, pad: 28.35pt)[
     With the battery connected the p.d. is fixed, so $Q = C V$ rises in proportion to $C$, and $C$ rises by the factor $epsilon_r = 2.5$.
   ]
 
-  #sol-item(22, "B", dense: true, pad: 17.93pt)[
+  #sol-item(22, "B", dense: true, pad: 28.35pt)[
     $C = epsilon_0 epsilon_r A \/ d$: halving $d$ doubles $C$. Changing the p.d. changes the charge but not the capacitance.
   ]
 
-  #sol-item(23, "A", dense: true, pad: 17.93pt)[
+  #sol-item(23, "A", dense: true, pad: 28.35pt)[
     Once charged, the two plates hold fixed charges and no further current flows, so a capacitor blocks d.c. An alternating supply keeps recharging it, so a.c. does pass.
   ]
 
-  #sol-item(24, "A", dense: true, pad: 17.93pt)[
+  #sol-item(24, "A", dense: true, pad: 28.35pt)[
     Induction separates charge inside the conductor, but the sphere is isolated, so its net charge stays zero until it is earthed.
   ]
 
-  #sol-item(25, "D", dense: true, pad: 17.93pt)[
+  #sol-item(25, "D", dense: true, pad: 28.35pt)[
     Electrons are pushed to the far side and run to earth, so the sphere loses electrons and is left positive. This is charging by induction.
   ]
 
-  #sol-item(26, "A", dense: true, pad: 17.93pt)[
+  #sol-item(26, "A", dense: true, pad: 28.35pt)[
     A uniform field is drawn as parallel, equally spaced lines, and in a uniform field $E = V\/d$ can be used directly.
   ]
 
-  #sol-item(27, "C", dense: true, pad: 17.93pt)[
+  #sol-item(27, "C", dense: true, pad: 28.35pt)[
     By convention field lines leave positive charge and end on negative charge, or run to infinity when there is nothing else in the field.
   ]
 
-  #sol-item(28, "B", dense: true, pad: 17.93pt)[
+  #sol-item(28, "B", dense: true, pad: 28.35pt)[
     $F = q_1 q_2 \/(4 pi epsilon_0 epsilon_r r^2)$, so the force is divided by $epsilon_r = 4$. The force is largest in a vacuum.
   ]
 
-  #sol-item(29, "D", dense: true, pad: 17.93pt)[
+  #sol-item(29, "D", dense: true, pad: 28.35pt)[
     $F prop q_1 q_2$, so doubling both charges multiplies the force by $2 times 2 = 4$: $0.90 times 4 = 3.6$ N.
   ]
 
-  #sol-item(30, "D", dense: true, pad: 17.93pt)[
+  #sol-item(30, "D", dense: true, pad: 28.35pt)[
     $W = q V = 2.0 times 10^(-6) times 500 = 1.0 times 10^(-3)$ J.
   ]
 
-  #sol-item(31, "A", dense: true, pad: 17.93pt)[
+  #sol-item(31, "A", dense: true, pad: 28.35pt)[
     A conductor in equilibrium has no field inside it, which is why a car is a relatively safe place in a thunderstorm.
   ]
 
-  #sol-item(32, "A", dense: true, pad: 17.93pt)[
+  #sol-item(32, "A", dense: true, pad: 28.35pt)[
     $Q = C V = 2.0 times 10^(-6) times 100 = 2.0 times 10^(-4)$ C.
   ]
 
-  #sol-item(33, "C", dense: true, pad: 17.93pt)[
+  #sol-item(33, "C", dense: true, pad: 28.35pt)[
     In series there is only one path, so the same charge flows onto both plates. The p.d.s then divide in inverse proportion to the capacitances.
   ]
 
-  #sol-item(34, "B", dense: true, pad: 17.93pt)[
+  #sol-item(34, "B", dense: true, pad: 28.35pt)[
     The droplets are charged and the object is earthed or oppositely charged, so the paint is attracted to it and wraps round the back as well as the front.
   ]
 
-  #sol-item(35, "B", dense: true, pad: 17.93pt)[
+  #sol-item(35, "B", dense: true, pad: 28.35pt)[
     Rubbing *transfers* charge; it never creates it. Conservation and quantisation are both properties the examiner expects you to state.
   ]
 
-  #sol-item(36, "B", dense: true, pad: 17.93pt)[
+  #sol-item(36, "B", dense: true, pad: 28.35pt)[
     $I = Q\/t = 1.0$ A. The coulomb is defined so that one coulomb per second is one ampere.
   ]
 
-  #sol-item(37, "D", dense: true, pad: 17.93pt)[
+  #sol-item(37, "D", dense: true, pad: 28.35pt)[
     $C = epsilon_0 epsilon_r A \/ d$ contains only the geometry and the material. The p.d. sets the charge, not the capacitance.
   ]
 
-  #sol-item(38, "B", dense: true, pad: 17.93pt)[
+  #sol-item(38, "B", dense: true, pad: 28.35pt)[
     $n = 4.8 times 10^(-19) \/ 1.6 times 10^(-19) = 3$. A charge that is not a whole multiple of e cannot occur on an isolated body.
   ]
 
-  #sol-item(39, "D", dense: true, pad: 17.93pt)[
+  #sol-item(39, "D", dense: true, pad: 28.35pt)[
     $W = 1\/2 C V^2$, so $C = 2W\/V^2 = 2 times 0.50 \/ 10^4 = 1.0 times 10^(-4)$ F.
   ]
 
-  #sol-item(40, "D", dense: true, pad: 17.93pt)[
+  #sol-item(40, "D", dense: true, pad: 28.35pt)[
     The field is defined by the force on a *positive* test charge, which is why an electron — being negative — is pushed the opposite way.
   ]
 
