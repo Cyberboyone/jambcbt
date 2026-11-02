@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 442" width="760" height="442">
+  <defs>
+    <marker id="ag" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#008751"/>
+    </marker>
+    <marker id="an" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#0E1F40"/>
+    </marker>
+    <marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#D97706"/>
+    </marker>
+    <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#DC2626"/>
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="760" height="442" fill="#FFFFFF"/>
+<text x="380" y="22" font-family="DejaVu Sans" font-size="12.0" fill="#0E1F40" text-anchor="middle" font-weight="bold">A change in the partnership: what is revalued, what is bought, and who bears the goodwill</text>
+<rect x="10" y="42" width="240" height="176" rx="8" fill="#FFFFFF" stroke="#008751" stroke-width="1.5"/>
+<rect x="10" y="42" width="240" height="6" rx="3" fill="#008751"/>
+<text x="130" y="68" font-family="DejaVu Sans" font-size="10.2" fill="#008751" text-anchor="middle" font-weight="bold">ADMISSION</text>
+<text x="130" y="92" font-family="DejaVu Sans" font-size="8.4" fill="#0E1F40" text-anchor="middle" font-weight="normal">a new partner buys a share</text>
+<text x="130" y="124" font-family="DejaVu Sans" font-size="8.4" fill="#0E1F40" text-anchor="middle" font-weight="normal">assets are revalued; the gain goes to the old partners</text>
+<text x="130" y="156" font-family="DejaVu Sans" font-size="8.4" fill="#0E1F40" text-anchor="middle" font-weight="normal">goodwill is raised or brought in cash</text>
+<text x="130" y="188" font-family="DejaVu Sans" font-size="8.4" fill="#0E1F40" text-anchor="middle" font-weight="normal">the new partner's capital is recorded</text>
+<rect x="260" y="42" width="240" height="176" rx="8" fill="#FFFFFF" stroke="#2563EB" stroke-width="1.5"/>
+<rect x="260" y="42" width="240" height="6" rx="3" fill="#2563EB"/>
+<text x="380" y="68" font-family="DejaVu Sans" font-size="10.2" fill="#2563EB" text-anchor="middle" font-weight="bold">RETIREMENT</text>
+<text x="380" y="92" font-family="DejaVu Sans" font-size="8.4" fill="#0E1F40" text-anchor="middle" font-weight="normal">the retiring partner is paid his capital and current balance</text>
+<text x="380" y="124" font-family="DejaVu Sans" font-size="8.4" fill="#0E1F40" text-anchor="middle" font-weight="normal">assets are revalued before he goes</text>
+<text x="380" y="156" font-family="DejaVu Sans" font-size="8.4" fill="#0E1F40" text-anchor="middle" font-weight="normal">goodwill is credited to him, or bought by the rest</text>
+<text x="380" y="188" font-family="DejaVu Sans" font-size="8.4" fill="#0E1F40" text-anchor="middle" font-weight="normal">the remaining partners share the new ratio</text>
+<rect x="510" y="42" width="240" height="176" rx="8" fill="#FFFFFF" stroke="#7C3AED" stroke-width="1.5"/>
+<rect x="510" y="42" width="240" height="6" rx="3" fill="#7C3AED"/>
+<text x="630" y="68" font-family="DejaVu Sans" font-size="10.2" fill="#7C3AED" text-anchor="middle" font-weight="bold">DISSOLUTION</text>
+<text x="630" y="92" font-family="DejaVu Sans" font-size="8.4" fill="#0E1F40" text-anchor="middle" font-weight="normal">every asset is sold, every liability paid</text>
+<text x="630" y="124" font-family="DejaVu Sans" font-size="8.4" fill="#0E1F40" text-anchor="middle" font-weight="normal">the realisation account collects the proceeds</text>
+<text x="630" y="156" font-family="DejaVu Sans" font-size="8.4" fill="#0E1F40" text-anchor="middle" font-weight="normal">outside creditors rank before partners' loans</text>
+<text x="630" y="188" font-family="DejaVu Sans" font-size="8.4" fill="#0E1F40" text-anchor="middle" font-weight="normal">what is left is shared in the profit ratio</text>
+<text x="380" y="240" font-family="DejaVu Sans" font-size="9.6" fill="#0E1F40" text-anchor="middle" font-weight="bold">THE REVALUATION ACCOUNT, BEFORE ANYBODY MOVES</text>
+<rect x="110" y="254" width="250" height="92" rx="7" fill="#FFFFFF" stroke="#008751" stroke-width="1.3"/>
+<text x="235" y="274" font-family="DejaVu Sans" font-size="9.0" fill="#008751" text-anchor="middle" font-weight="bold">Dr — the losses</text>
+<text x="235" y="292" font-family="DejaVu Sans" font-size="8.4" fill="#0E1F40" text-anchor="middle" font-weight="normal">asset written down, e.g. stock 8,000 → 7,000</text>
+<text x="235" y="308" font-family="DejaVu Sans" font-size="8.4" fill="#0E1F40" text-anchor="middle" font-weight="normal">a liability discovered</text>
+<text x="235" y="326" font-family="DejaVu Sans" font-size="8.4" fill="#0E1F40" text-anchor="middle" font-weight="normal">the net loss is shared by the old partners</text>
+<rect x="400" y="254" width="250" height="92" rx="7" fill="#FFFFFF" stroke="#D97706" stroke-width="1.3"/>
+<text x="525" y="274" font-family="DejaVu Sans" font-size="9.0" fill="#D97706" text-anchor="middle" font-weight="bold">Cr — the gains</text>
+<text x="525" y="292" font-family="DejaVu Sans" font-size="8.4" fill="#0E1F40" text-anchor="middle" font-weight="normal">building written up, e.g. 20,000 → 26,000</text>
+<text x="525" y="308" font-family="DejaVu Sans" font-size="8.4" fill="#0E1F40" text-anchor="middle" font-weight="normal">a provision no longer needed</text>
+<text x="525" y="326" font-family="DejaVu Sans" font-size="8.4" fill="#0E1F40" text-anchor="middle" font-weight="normal">the net gain is shared by the old partners</text>
+<text x="380" y="362" font-family="DejaVu Sans" font-size="8.7" fill="#64748B" text-anchor="middle" font-weight="normal">the balance on the account is divided among the partners in the old ratio, and it is closed before the new partner is admitted</text>
+<rect x="10" y="376" width="740" height="54" rx="8" fill="#FEF2F2" stroke="#DC2626" stroke-width="1.3"/>
+<text x="380" y="398" font-family="DejaVu Sans" font-size="9.2" fill="#DC2626" text-anchor="middle" font-weight="bold">GOODWILL IS NEVER A FREE GIFT TO THE NEW PARTNER</text>
+<text x="380" y="418" font-family="DejaVu Sans" font-size="8.5" fill="#0E1F40" text-anchor="middle" font-weight="normal">he pays for the share of reputation he is buying, either into the firm or to the old partners' capital accounts</text>
+</svg>

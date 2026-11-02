@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 408" width="760" height="408">
+  <defs>
+    <marker id="ag" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#008751"/>
+    </marker>
+    <marker id="an" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#0E1F40"/>
+    </marker>
+    <marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#D97706"/>
+    </marker>
+    <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#DC2626"/>
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="760" height="408" fill="#FFFFFF"/>
+<text x="380" y="22" font-family="DejaVu Sans" font-size="12.4" fill="#0E1F40" text-anchor="middle" font-weight="bold">The manufacturing account: how cost climbs from material to finished goods</text>
+<rect x="10" y="40" width="740" height="70" rx="8" fill="#FFFFFF" stroke="#008751" stroke-width="1.4"/>
+<rect x="10" y="40" width="740" height="5" rx="2.5" fill="#008751"/>
+<text x="380" y="64" font-family="DejaVu Sans" font-size="10.2" fill="#008751" text-anchor="middle" font-weight="bold">PRIME COST = direct materials + direct labour + direct expenses</text>
+<text x="380" y="84" font-family="DejaVu Sans" font-size="9.0" fill="#0E1F40" text-anchor="middle" font-weight="normal">the three costs that go into the product itself, and can be traced to it</text>
+<text x="380" y="100" font-family="DejaVu Sans" font-size="9.4" fill="#0E1F40" text-anchor="middle" font-weight="bold">PRODUCTION COST = prime cost + factory overhead + work in progress adjustment</text>
+<rect x="10" y="122" width="240" height="92" rx="7" fill="#FFFFFF" stroke="#008751" stroke-width="1.4"/>
+<rect x="10" y="122" width="240" height="5" rx="2.5" fill="#008751"/>
+<text x="130" y="146" font-family="DejaVu Sans" font-size="9.6" fill="#008751" text-anchor="middle" font-weight="bold">DIRECT MATERIALS</text>
+<text x="130" y="166" font-family="DejaVu Sans" font-size="8.8" fill="#0E1F40" text-anchor="middle" font-weight="normal">opening stock + purchases</text>
+<text x="130" y="180" font-family="DejaVu Sans" font-size="8.8" fill="#0E1F40" text-anchor="middle" font-weight="normal">+ carriage inwards</text>
+<text x="130" y="194" font-family="DejaVu Sans" font-size="8.8" fill="#0E1F40" text-anchor="middle" font-weight="normal">− closing stock</text>
+<rect x="260" y="122" width="240" height="92" rx="7" fill="#FFFFFF" stroke="#2563EB" stroke-width="1.4"/>
+<rect x="260" y="122" width="240" height="5" rx="2.5" fill="#2563EB"/>
+<text x="380" y="146" font-family="DejaVu Sans" font-size="9.6" fill="#2563EB" text-anchor="middle" font-weight="bold">DIRECT LABOUR</text>
+<text x="380" y="166" font-family="DejaVu Sans" font-size="8.8" fill="#0E1F40" text-anchor="middle" font-weight="normal">the wages of the hands</text>
+<text x="380" y="180" font-family="DejaVu Sans" font-size="8.8" fill="#0E1F40" text-anchor="middle" font-weight="normal">that make the product</text>
+<text x="380" y="194" font-family="DejaVu Sans" font-size="8.8" fill="#0E1F40" text-anchor="middle" font-weight="normal">(not the supervisor)</text>
+<rect x="510" y="122" width="240" height="92" rx="7" fill="#FFFFFF" stroke="#D97706" stroke-width="1.4"/>
+<rect x="510" y="122" width="240" height="5" rx="2.5" fill="#D97706"/>
+<text x="630" y="146" font-family="DejaVu Sans" font-size="9.6" fill="#D97706" text-anchor="middle" font-weight="bold">DIRECT EXPENSES</text>
+<text x="630" y="166" font-family="DejaVu Sans" font-size="8.8" fill="#0E1F40" text-anchor="middle" font-weight="normal">royalty, hire of a special</text>
+<text x="630" y="180" font-family="DejaVu Sans" font-size="8.8" fill="#0E1F40" text-anchor="middle" font-weight="normal">machine, subcontracted</text>
+<text x="630" y="194" font-family="DejaVu Sans" font-size="8.8" fill="#0E1F40" text-anchor="middle" font-weight="normal">work on the product</text>
+<line x1="10" y1="226" x2="750" y2="226" stroke="#CBD5E1" stroke-width="1.0" stroke-dasharray="3 3"/>
+<rect x="10" y="240" width="360" height="96" rx="7" fill="#FFFFFF" stroke="#0E1F40" stroke-width="1.4"/>
+<rect x="10" y="240" width="360" height="5" rx="2.5" fill="#0E1F40"/>
+<text x="190" y="264" font-family="DejaVu Sans" font-size="9.6" fill="#0E1F40" text-anchor="middle" font-weight="bold">FACTORY OVERHEAD</text>
+<text x="190" y="284" font-family="DejaVu Sans" font-size="8.8" fill="#0E1F40" text-anchor="middle" font-weight="normal">rent, rates, depreciation and insurance of the factory</text>
+<text x="190" y="300" font-family="DejaVu Sans" font-size="8.8" fill="#0E1F40" text-anchor="middle" font-weight="normal">factory manager, storekeeper, foreman, factory power</text>
+<text x="190" y="316" font-family="DejaVu Sans" font-size="8.8" fill="#0E1F40" text-anchor="middle" font-weight="normal">indirect material: oil, nails, cleaning cloth</text>
+<rect x="390" y="240" width="360" height="96" rx="7" fill="#FFFFFF" stroke="#D97706" stroke-width="1.4"/>
+<rect x="390" y="240" width="360" height="5" rx="2.5" fill="#D97706"/>
+<text x="570" y="264" font-family="DejaVu Sans" font-size="9.6" fill="#D97706" text-anchor="middle" font-weight="bold">WORK IN PROGRESS</text>
+<text x="570" y="284" font-family="DejaVu Sans" font-size="8.8" fill="#0E1F40" text-anchor="middle" font-weight="normal">add the opening figure, deduct the closing figure</text>
+<text x="570" y="300" font-family="DejaVu Sans" font-size="8.8" fill="#0E1F40" text-anchor="middle" font-weight="normal">the goods half-made at the year end are not yet cost</text>
+<text x="570" y="316" font-family="DejaVu Sans" font-size="8.8" fill="#0E1F40" text-anchor="middle" font-weight="normal">of the finished output, so they are carried forward</text>
+<rect x="10" y="350" width="740" height="46" rx="8" fill="#ECFDF5" stroke="#008751" stroke-width="1.4"/>
+<text x="380" y="370" font-family="DejaVu Sans" font-size="9.2" fill="#008751" text-anchor="middle" font-weight="bold">COST OF PRODUCTION  →  add opening finished goods  →  deduct closing finished goods  →  COST OF GOODS SOLD</text>
+<text x="380" y="387" font-family="DejaVu Sans" font-size="8.8" fill="#0E1F40" text-anchor="middle" font-weight="normal">the trading account of a manufacturer therefore begins with the cost of goods sold, not with purchases</text>
+</svg>

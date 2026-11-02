@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 462" width="760" height="462">
+  <defs>
+    <marker id="ag" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#008751"/>
+    </marker>
+    <marker id="an" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#0E1F40"/>
+    </marker>
+    <marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#D97706"/>
+    </marker>
+    <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#DC2626"/>
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="760" height="462" fill="#FFFFFF"/>
+<text x="380" y="22" font-family="DejaVu Sans" font-size="12.2" fill="#0E1F40" text-anchor="middle" font-weight="bold">The master budget: one plan, four schedules, and a cash budget that can stop it</text>
+<rect x="210" y="40" width="340" height="44" rx="8" fill="#ECFDF5" stroke="#008751" stroke-width="1.5"/>
+<text x="380" y="60" font-family="DejaVu Sans" font-size="10.0" fill="#008751" text-anchor="middle" font-weight="bold">SALES BUDGET</text>
+<text x="380" y="76" font-family="DejaVu Sans" font-size="8.6" fill="#0E1F40" text-anchor="middle" font-weight="normal">the plan every other budget is built on</text>
+<line x1="380" y1="84" x2="137.96" y2="107.24" stroke="#2563EB" stroke-width="1.3" stroke-dasharray="3 2"/>
+<polygon points="130.00,108.00 137.64,103.85 138.29,110.62" fill="#2563EB"/>
+<rect x="20" y="110" width="220" height="82" rx="7" fill="#FFFFFF" stroke="#2563EB" stroke-width="1.3"/>
+<rect x="20" y="110" width="220" height="5" rx="2.5" fill="#2563EB"/>
+<text x="130" y="132" font-family="DejaVu Sans" font-size="9.2" fill="#2563EB" text-anchor="middle" font-weight="bold">PRODUCTION BUDGET</text>
+<text x="130" y="150" font-family="DejaVu Sans" font-size="8.4" fill="#0E1F40" text-anchor="middle" font-weight="normal">units to make</text>
+<text x="130" y="163" font-family="DejaVu Sans" font-size="8.4" fill="#0E1F40" text-anchor="middle" font-weight="normal">= sales + closing stock</text>
+<text x="130" y="176" font-family="DejaVu Sans" font-size="8.4" fill="#0E1F40" text-anchor="middle" font-weight="normal">− opening stock</text>
+<line x1="380" y1="84" x2="377.99" y2="100.06" stroke="#7C3AED" stroke-width="1.3" stroke-dasharray="3 2"/>
+<polygon points="377.00,108.00 374.62,99.64 381.37,100.48" fill="#7C3AED"/>
+<rect x="267" y="110" width="220" height="82" rx="7" fill="#FFFFFF" stroke="#7C3AED" stroke-width="1.3"/>
+<rect x="267" y="110" width="220" height="5" rx="2.5" fill="#7C3AED"/>
+<text x="377" y="132" font-family="DejaVu Sans" font-size="9.2" fill="#7C3AED" text-anchor="middle" font-weight="bold">MATERIALS BUDGET</text>
+<text x="377" y="150" font-family="DejaVu Sans" font-size="8.4" fill="#0E1F40" text-anchor="middle" font-weight="normal">usage + closing</text>
+<text x="377" y="163" font-family="DejaVu Sans" font-size="8.4" fill="#0E1F40" text-anchor="middle" font-weight="normal">stock − opening</text>
+<text x="377" y="176" font-family="DejaVu Sans" font-size="8.4" fill="#0E1F40" text-anchor="middle" font-weight="normal">stock, in units and ₦</text>
+<line x1="380" y1="84" x2="616.04" y2="107.22" stroke="#D97706" stroke-width="1.3" stroke-dasharray="3 2"/>
+<polygon points="624.00,108.00 615.71,110.60 616.37,103.83" fill="#D97706"/>
+<rect x="514" y="110" width="220" height="82" rx="7" fill="#FFFFFF" stroke="#D97706" stroke-width="1.3"/>
+<rect x="514" y="110" width="220" height="5" rx="2.5" fill="#D97706"/>
+<text x="624" y="132" font-family="DejaVu Sans" font-size="9.2" fill="#D97706" text-anchor="middle" font-weight="bold">LABOUR BUDGET</text>
+<text x="624" y="150" font-family="DejaVu Sans" font-size="8.4" fill="#0E1F40" text-anchor="middle" font-weight="normal">hours × rate,</text>
+<text x="624" y="163" font-family="DejaVu Sans" font-size="8.4" fill="#0E1F40" text-anchor="middle" font-weight="normal">by department</text>
+<text x="624" y="176" font-family="DejaVu Sans" font-size="8.4" fill="#0E1F40" text-anchor="middle" font-weight="normal">and by month</text>
+<rect x="20" y="202" width="720" height="50" rx="8" fill="#FFFFFF" stroke="#0E1F40" stroke-width="1.4"/>
+<rect x="20" y="202" width="720" height="5" rx="2.5" fill="#0E1F40"/>
+<text x="380" y="226" font-family="DejaVu Sans" font-size="9.2" fill="#0E1F40" text-anchor="middle" font-weight="bold">OVERHEAD BUDGET  +  the three above  =  the budgeted cost of production and the budgeted profit</text>
+<text x="380" y="243" font-family="DejaVu Sans" font-size="8.7" fill="#0E1F40" text-anchor="middle" font-weight="normal">and beside them all, the cash budget — because a profitable plan can still run out of money in March</text>
+<rect x="10" y="266" width="740" height="128" rx="8" fill="#FFFFFF" stroke="#008751" stroke-width="1.4"/>
+<rect x="10" y="266" width="740" height="5" rx="2.5" fill="#008751"/>
+<text x="380" y="288" font-family="DejaVu Sans" font-size="9.6" fill="#008751" text-anchor="middle" font-weight="bold">THE CASH BUDGET, IN THREE SECTIONS</text>
+<text x="132" y="312" font-family="DejaVu Sans" font-size="9.0" fill="#008751" text-anchor="middle" font-weight="bold">RECEIPTS</text>
+<text x="132" y="330" font-family="DejaVu Sans" font-size="8.4" fill="#0E1F40" text-anchor="middle" font-weight="normal">cash sales</text>
+<text x="132" y="346" font-family="DejaVu Sans" font-size="8.4" fill="#0E1F40" text-anchor="middle" font-weight="normal">debtors, by the month they pay</text>
+<text x="132" y="362" font-family="DejaVu Sans" font-size="8.4" fill="#0E1F40" text-anchor="middle" font-weight="normal">loans, asset sales</text>
+<text x="244" y="346" font-family="DejaVu Sans" font-size="10" fill="#CBD5E1" text-anchor="middle" font-weight="normal">→</text>
+<text x="378" y="312" font-family="DejaVu Sans" font-size="9.0" fill="#DC2626" text-anchor="middle" font-weight="bold">PAYMENTS</text>
+<text x="378" y="330" font-family="DejaVu Sans" font-size="8.4" fill="#0E1F40" text-anchor="middle" font-weight="normal">creditors, by the month they are paid</text>
+<text x="378" y="346" font-family="DejaVu Sans" font-size="8.4" fill="#0E1F40" text-anchor="middle" font-weight="normal">wages, rent, rates</text>
+<text x="378" y="362" font-family="DejaVu Sans" font-size="8.4" fill="#0E1F40" text-anchor="middle" font-weight="normal">tax, dividends, capital spending</text>
+<text x="490" y="346" font-family="DejaVu Sans" font-size="10" fill="#CBD5E1" text-anchor="middle" font-weight="normal">→</text>
+<text x="624" y="312" font-family="DejaVu Sans" font-size="9.0" fill="#2563EB" text-anchor="middle" font-weight="bold">BALANCE</text>
+<text x="624" y="330" font-family="DejaVu Sans" font-size="8.4" fill="#0E1F40" text-anchor="middle" font-weight="normal">opening balance + receipts − payments</text>
+<text x="624" y="346" font-family="DejaVu Sans" font-size="8.4" fill="#0E1F40" text-anchor="middle" font-weight="normal">= closing balance</text>
+<text x="624" y="362" font-family="DejaVu Sans" font-size="8.4" fill="#0E1F40" text-anchor="middle" font-weight="normal">a negative closing balance is a decision, not a surprise</text>
+<rect x="10" y="404" width="740" height="46" rx="8" fill="#FFF7ED" stroke="#D97706" stroke-width="1.3"/>
+<text x="380" y="425" font-family="DejaVu Sans" font-size="9.2" fill="#D97706" text-anchor="middle" font-weight="bold">A CASH BUDGET IS NOT A PROFIT BUDGET</text>
+<text x="380" y="442" font-family="DejaVu Sans" font-size="8.5" fill="#0E1F40" text-anchor="middle" font-weight="normal">credit sales are profit the month they are made and cash the month they are paid; depreciation is a cost with no cash at all</text>
+</svg>

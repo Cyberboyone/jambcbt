@@ -1,0 +1,698 @@
+#!/usr/bin/env python3
+"""Render the two timed papers, the 120-question bank and the consolidated keys.
+
+The key letters come from the same deterministic shuffle used to print the
+options, so a grid can never drift out of step with the questions.
+"""
+
+from __future__ import annotations
+
+import json
+import sys
+from pathlib import Path
+
+HERE = Path(__file__).resolve().parent
+sys.path.insert(0, str(HERE))
+OUT = HERE.parent
+
+from drills_acc2 import balance, mcq, _clean  # noqa: E402
+from mock1_data import PAPER_1  # noqa: E402
+from mock2_data import PAPER_2  # noqa: E402
+from bank_acc2_data import BANK as MASTER  # noqa: E402
+from bank_acc2_c01 import DRILL_1  # noqa: E402
+from bank_acc2_c02 import DRILL_2  # noqa: E402
+from bank_acc2_c03 import DRILL_3  # noqa: E402
+from bank_acc2_c04 import DRILL_4  # noqa: E402
+from bank_acc2_c05 import DRILL_5  # noqa: E402
+from bank_acc2_c06 import DRILL_6  # noqa: E402
+from bank_acc2_c07 import DRILL_7  # noqa: E402
+from bank_acc2_c08 import DRILL_8  # noqa: E402
+
+DRILLS = {1: DRILL_1, 2: DRILL_2, 3: DRILL_3, 4: DRILL_4,
+          5: DRILL_5, 6: DRILL_6, 7: DRILL_7, 8: DRILL_8}
+
+TITLES = {
+    1: "Manufacturing Accounts",
+    2: "Materials, Labour and Overheads",
+    3: "Job, Batch and Process Costing",
+    4: "Marginal Costing and Break-Even",
+    5: "Budgeting and Budgetary Control",
+    6: "Incomplete Records",
+    7: "Partnership Changes",
+    8: "Public Sector and Computerised Accounting",
+}
+
+# (title, first question index, last index + 1, where to reread)
+SECTIONS_1 = [
+    ("Manufacturing and the Elements of Cost", 0, 8, "Chapters 1 and 2, sections 1.2 to 1.5 and 2.1"),
+    ("Job, Batch and Process Costing", 8, 14, "Chapter 3, sections 3.2 to 3.5"),
+    ("Marginal Costing and Break-Even", 14, 21, "Chapter 4, sections 4.2 to 4.5"),
+    ("Budgeting and Budgetary Control", 21, 28, "Chapter 5, sections 5.2 to 5.5"),
+    ("Incomplete Records", 28, 33, "Chapter 6, sections 6.2 to 6.4"),
+    ("Partnership Changes", 33, 37, "Chapter 7, sections 7.2 to 7.5"),
+    ("Public Sector and Computerised Accounting", 37, 40, "Chapter 8, sections 8.2 to 8.4"),
+]
+
+SECTIONS_2 = [
+    ("Manufacturing and the Elements of Cost", 0, 7, "Chapters 1 and 2, sections 1.2 to 1.5 and 2.4"),
+    ("Job, Batch and Process Costing", 7, 13, "Chapter 3, sections 3.3 to 3.5"),
+    ("Marginal Costing and Break-Even", 13, 19, "Chapter 4, sections 4.2 to 4.4"),
+    ("Budgeting and Budgetary Control", 19, 26, "Chapter 5, sections 5.2 to 5.5"),
+    ("Incomplete Records", 26, 32, "Chapter 6, sections 6.2 to 6.4"),
+    ("Partnership Changes", 32, 36, "Chapter 7, sections 7.3 to 7.5"),
+    ("Public Sector and Computerised Accounting", 36, 40, "Chapter 8, the whole chapter"),
+]
+
+BANK_COUNTS = {ch: 15 for ch in range(1, 9)}
+
+
+def _pad(stem: str) -> float:
+    path = OUT / "_fit.json"
+    if path.exists():
+        return float(json.loads(path.read_text()).get(stem, 0))
+    return 0.0
+
+
+def key_grid(keys, indent="  "):
+    lines = ["#answer-key-grid(("]
+    for s in range(0, len(keys), 10):
+        lines.append(indent + ", ".join(f'"{k}"' for k in keys[s:s + 10]) + ",")
+    lines.append("))")
+    return lines
+
+
+def eyebrow(num: int, title: str, blurb: str) -> list[str]:
+    return [
+        "",
+        f'#current-chapter.update("Full Paper {num}")',
+        "",
+        "#pagebreak(weak: true)",
+        "",
+        f'#hide[#heading(level: 1, outlined: true)[Full Paper {num}: {title}]]',
+        "",
+        "#block(",
+        "  width: 100%,",
+        "  fill: jamb-navy,",
+        "  stroke: 1.5pt + jamb-bright,",
+        "  radius: 10pt,",
+        "  inset: 18pt,",
+        ")[",
+        f'  #text(font: "DejaVu Sans", size: 8.8pt, weight: "bold", fill: rgb("#A7F3D0"))[PAPER {num} OF 2]',
+        "  #v(6pt)",
+        f'  #text(font: "DejaVu Sans", size: 20pt, weight: "bold", fill: white)[Full Paper {num}]',
+        "  #v(4pt)",
+        '  #text(font: "DejaVu Sans", size: 10.5pt, fill: rgb("#CBD5E1"))[',
+        f"    {blurb}",
+        "  ]",
+        "]",
+        "",
+        "#v(5pt)",
+        "",
+        "+ Attempt *all 40* questions in *30 minutes*. One mark each; there is no negative marking, so leave no box empty.",
+        "",
+        "+ Work in three passes: the questions you know on sight, the ones that need a calculation, then the guesses you were unsure of.",
+        "",
+        "+ Record your answers in the answer sheet after the last question, so that a second attempt is not coloured by the first.",
+        "",
+        "#v(2pt)",
+        "",
+        '#text(font: "DejaVu Sans", size: 8.6pt, fill: jamb-muted)[The paper follows the Volume 2 syllabus in order — manufacturing and the elements of cost, job, batch and process costing, marginal costing, budgeting, incomplete records, partnership changes, then public-sector and computerised accounting — because the real paper does, and the calculation blocks in the middle are where a candidate who has rehearsed only the definitions runs out of time.]',
+        "",
+        "#v(6pt)",
+        "",
+    ]
+
+
+def render_paper(num: int, data, title: str, blurb: str, sections) -> None:
+    items = balance(data, seed=7000 + num * 61)
+    n = len(items)
+    keys = [k for _s, _o, k, _sol in items]
+    intro = f"paper{num}"
+
+    lines = ['#import "template.typ": *', ""]
+    lines += eyebrow(num, title, blurb)
+
+    for idx, (s_title, start, end, _where) in enumerate(sections):
+        lines += [
+            f"== Section {chr(65 + idx)} — {s_title} (Questions {start + 1}–{end})",
+            "",
+        ]
+        for i in range(start, end):
+            stem, opts, _k, _sol = items[i]
+            lines.append(mcq(i + 1, stem, opts))
+            lines.append("")
+
+    # ---- answer sheet ------------------------------------------------------
+    sheet = [
+        "#v(6pt)",
+        "",
+        "== Answer Sheet",
+        "",
+        '#text(size: 8.8pt)[Write the letter you chose in the box under each question number. If you change an answer, cross the old letter out and write the new one beside it — a crossed-out letter is easier to audit than an erased one.]',
+        "",
+        "#v(3pt)",
+        "",
+        "#block(width: 100%, fill: white, stroke: 0.8pt + jamb-border, radius: 8pt, inset: 8pt)[",
+        "  #set text(size: 8.2pt)",
+        "  #table(",
+        "    columns: (1fr,) * 10,",
+        "    inset: (x: 3pt, y: 2.5pt),",
+        "    align: center + horizon,",
+        "    stroke: 0.4pt + jamb-border,",
+    ]
+    for start in range(1, 41, 10):
+        nums = ", ".join(f"[#align(center)[*{i}*]]" for i in range(start, start + 10))
+        blanks = ", ".join("[#v(11pt)]" for _ in range(10))
+        sheet += [f"    {nums},", f"    {blanks},"]
+    sheet += [
+        "  )",
+        "]",
+        "",
+        "#v(6pt)",
+        "",
+        "== Rough Work",
+        "",
+        '#text(size: 8.6pt)[Thirty seconds of written arithmetic beats two minutes of mental arithmetic. Use the lines for the control-account total, the provision or the balance of the cash book that you cannot hold in your head, and leave the rest of the page for the questions you intend to revisit.]',
+        "",
+        "#v(4pt)",
+        "#line(length: 100%, stroke: 0.4pt + jamb-border)",
+        "#v(13pt)",
+        "#line(length: 100%, stroke: 0.4pt + jamb-border)",
+        "#v(13pt)",
+        "#line(length: 100%, stroke: 0.4pt + jamb-border)",
+        "#v(13pt)",
+        "#line(length: 100%, stroke: 0.4pt + jamb-border)",
+        "#v(13pt)",
+        "",
+    ]
+
+    lines += [
+        "== How This Paper Is Marked",
+        "",
+        "#block(breakable: false, width: 100%, fill: jamb-mint, stroke: 0.9pt + jamb-green, radius: 8pt, inset: 11pt)[",
+        '  #text(font: "DejaVu Sans", size: 9.2pt, weight: "bold", fill: jamb-green)[MARK YOURSELF]',
+        "  #v(4pt)",
+        "  #table(",
+        "    columns: (1.0fr, 2.6fr),",
+        "    inset: 4pt,",
+        "    align: (left + horizon, left + horizon),",
+        "    stroke: none,",
+        "    [*35–40*], [Secure. The paper is under control; now work on speed rather than accuracy.],",
+        "    [*30–34*], [Strong. Reread the solutions to the questions you missed and name the chapter of each.],",
+        "    [*24–29*], [Developing. The gap is topic knowledge, not exam technique. Rework the two weakest chapters before the next paper.],",
+        "    [*0–23*], [Work the chapters again, then retake this paper cold a week later.],",
+        "  )",
+        "]",
+        "",
+        "#v(4pt)",
+        "",
+        '#text(font: "DejaVu Sans", size: 8.4pt, fill: jamb-muted)[A score is a diagnosis, not a verdict. What matters is the block that lost the marks: look down the score bands, then find the sections in which the misses cluster.]',
+        "",
+        "#v(5pt)",
+        "",
+        "== Where the Missed Marks Came From",
+        "",
+        "#table(",
+        "  columns: (1.75fr, 0.65fr, 2.4fr),",
+        "  inset: (x: 5pt, y: 4pt),",
+        "  align: (left + horizon, center + horizon, left + horizon),",
+        "  stroke: 0.5pt + jamb-border,",
+        "  fill: (x, y) => if y == 0 { jamb-navy } else if calc.odd(y) { white } else { jamb-light },",
+        "  table.header(",
+        '    text(font: "DejaVu Sans", size: 8.0pt, weight: "bold", fill: white)[Section],',
+        '    text(font: "DejaVu Sans", size: 8.0pt, weight: "bold", fill: white)[Marks],',
+        '    text(font: "DejaVu Sans", size: 8.0pt, weight: "bold", fill: white)[If you missed more than a third, reread],',
+        "  ),",
+    ]
+    for idx, (s_title, start, end, where) in enumerate(sections):
+        short = s_title
+        if len(short) > 34:
+            short = short.replace("Manufacturing and the Elements of Cost", "Manufacturing and cost elements")
+            short = short.replace("Job, Batch and Process Costing", "Job, batch and process")
+            short = short.replace("Marginal Costing and Break-Even", "Marginal costing")
+            short = short.replace("Budgeting and Budgetary Control", "Budgeting")
+            short = short.replace("Incomplete Records", "Incomplete records")
+            short = short.replace("Partnership Changes", "Partnership changes")
+            short = short.replace("Public Sector and Computerised Accounting", "Public sector and computers")
+        lines.append(f"  [{chr(65 + idx)} — {short}], [{end - start}], [{where}],")
+    lines += [
+        ")",
+        "",
+        '#text(font: "DejaVu Sans", size: 8.4pt, fill: jamb-muted)[A section of three marks cannot be judged on one miss, and a section of ten cannot be judged on three. Repair the block that lost the most marks per question asked, not the one that lost the most marks.]',
+        "",
+        "#v(6pt)",
+        "",
+        "== Score Log",
+        "",
+        "#table(",
+        "  columns: (0.9fr, 0.9fr, 0.7fr, 0.7fr, 0.7fr, 0.7fr, 0.7fr, 1.6fr),",
+        "  inset: (x: 5pt, y: 4pt),",
+        "  align: (center + horizon, center + horizon, center + horizon, center + horizon, center + horizon, center + horizon, center + horizon, left + horizon),",
+        "  stroke: 0.5pt + jamb-border,",
+        "  fill: (x, y) => if y == 0 { jamb-navy } else if calc.odd(y) { white } else { jamb-light },",
+        "  table.header(",
+        '    text(font: "DejaVu Sans", size: 7.8pt, weight: "bold", fill: white)[Attempt],',
+        '    text(font: "DejaVu Sans", size: 7.8pt, weight: "bold", fill: white)[Date],',
+        '    text(font: "DejaVu Sans", size: 7.8pt, weight: "bold", fill: white)[A],',
+        '    text(font: "DejaVu Sans", size: 7.8pt, weight: "bold", fill: white)[B],',
+        '    text(font: "DejaVu Sans", size: 7.8pt, weight: "bold", fill: white)[C],',
+        '    text(font: "DejaVu Sans", size: 7.8pt, weight: "bold", fill: white)[D],',
+        '    text(font: "DejaVu Sans", size: 7.8pt, weight: "bold", fill: white)[E],',
+        '    text(font: "DejaVu Sans", size: 7.8pt, weight: "bold", fill: white)[Total],',
+        "  ),",
+        "  [First sitting], [#v(9pt)], [], [], [], [], [], [],",
+        "  [Second sitting], [#v(9pt)], [], [], [], [], [], [],",
+        "  [Third sitting], [#v(9pt)], [], [], [], [], [], [],",
+        ")",
+        "",
+        "#v(4pt)",
+        "",
+        '#text(size: 9.2pt)[Three sittings are enough to see a trend, and a trend is what the log is for. Fill the first line the day you mark this paper, and the second a week later with the same paper cold: the difference between the two totals is the amount the marking taught you. A third sitting a fortnight before the examination should be the best of the three, and if it is not, the chapters named in the solutions are still the ones to reread.]',
+        "",
+    ]
+
+    lines += sheet
+
+    # ---- key --------------------------------------------------------------
+    lines += [
+        "#pagebreak(weak: true)",
+        "",
+        f'#current-chapter.update("Full Paper {num} — Key")',
+        "",
+        "=== Answer Key",
+        "",
+    ]
+    lines += key_grid(keys)
+    lines.append("")
+
+    pad = _pad(intro)
+    lines += [
+        "#[",
+        "  #set text(size: 9.0pt)",
+        "  #set par(leading: 0.63em, spacing: 0.68em)",
+        "",
+        "  #block(breakable: false)[",
+        "  === Complete Solutions",
+        "",
+    ]
+    for i, (_stem, _opts, k, sol) in enumerate(items, 1):
+        lines.append(f'  #sol-item({i}, "{k}", dense: true, pad: {pad}pt)[')
+        lines.append(f"    {_clean(sol)}")
+        lines.append("  ]")
+        if i == 2:
+            lines.append("  ]")
+        lines.append("")
+    lines.append("]")
+    lines.append("")
+
+    path = OUT / f"paper{num}.typ"
+    path.write_text("\n".join(lines) + "\n", encoding="utf-8")
+    print(f"wrote {path.name}: {n} questions")
+
+
+def render_bank() -> None:
+    """120 questions, in chapter blocks of fifteen, then key and solutions."""
+    chapters = list(range(1, 9))
+    items = []
+    for ch in chapters:
+        items += balance(MASTER[ch], seed=9000 + ch * 47)
+    n = len(items)
+    keys = [k for _s, _o, k, _sol in items]
+
+    lines = ['#import "template.typ": *', ""]
+    lines += [
+        "",
+        '#current-chapter.update("Appendix B: The 120-Question Master Bank")',
+        "",
+        "#pagebreak(weak: true)",
+        "",
+        '#hide[#heading(level: 1, outlined: true)[Appendix B: The 120-Question Master Bank]]',
+        "",
+        "#block(",
+        "  width: 100%,",
+        "  fill: jamb-navy,",
+        "  stroke: 1.5pt + jamb-bright,",
+        "  radius: 10pt,",
+        "  inset: 18pt,",
+        ")[",
+        '  #text(font: "DejaVu Sans", size: 8.8pt, weight: "bold", fill: rgb("#A7F3D0"))[APPENDIX B]',
+        "  #v(6pt)",
+        '  #text(font: "DejaVu Sans", size: 20pt, weight: "bold", fill: white)[The 120-Question Master Bank]',
+        "  #v(4pt)",
+        '  #text(font: "DejaVu Sans", size: 10.5pt, fill: rgb("#CBD5E1"))[',
+        "    One hundred and twenty questions that appear in neither paper and in none of the",
+        "    chapter drills, in eight blocks of fifteen — one block per chapter. Use a block as a",
+        "    weekly test, or the whole bank as the last week's revision.",
+        "  ]",
+        "]",
+        "",
+        "#v(5pt)",
+        "",
+        "+ One hundred and twenty questions in *80 minutes*, if you sit the whole bank at once.",
+        "",
+        "+ Work in blocks of fifteen and mark each block before starting the next: a block tells you which chapter to reread tonight.",
+        "",
+        "+ The key and a full solution for every question follow the last item.",
+        "",
+        "#v(6pt)",
+        "",
+    ]
+
+    for idx, ch in enumerate(chapters):
+        start = idx * 15 + 1
+        lines += [f"== B.{ch} {TITLES[ch]} (Questions {start}–{start + 14})", ""]
+        for i in range(idx * 15, idx * 15 + 15):
+            stem, opts, _k, _sol = items[i]
+            lines.append(mcq(i + 1, stem, opts))
+            lines.append("")
+
+    lines += [
+        "#v(6pt)",
+        "",
+        "== Answer Sheet",
+        "",
+        '#text(size: 8.8pt)[Mark each block of fifteen before you start the next. The box under each number holds the letter you chose.]',
+        "",
+        "#v(3pt)",
+        "",
+        "#block(width: 100%, fill: white, stroke: 0.8pt + jamb-border, radius: 8pt, inset: 8pt)[",
+        "  #set text(size: 8.0pt)",
+        "  #grid(",
+        "    columns: (1fr,) * 10,",
+        "    row-gutter: 4pt,",
+        "    column-gutter: 3pt,",
+    ]
+    for start in range(1, 121, 10):
+        nums = ", ".join(f"[#align(center)[*{i}*]]" for i in range(start, start + 10))
+        blanks = ", ".join("[#align(center)[#v(8pt)]]" for _ in range(10))
+        lines += [f"    {nums},", f"    {blanks},"]
+    lines += [
+        "  )",
+        "]",
+        "",
+        "#v(4pt)",
+        "",
+        "#block(breakable: false, width: 100%, fill: jamb-mint, stroke: 0.9pt + jamb-green, radius: 8pt, inset: 11pt)[",
+        '  #text(font: "DejaVu Sans", size: 9.2pt, weight: "bold", fill: jamb-green)[MARK EACH BLOCK OF FIFTEEN]',
+        "  #v(4pt)",
+        "  #table(",
+        "    columns: (1.0fr, 2.6fr),",
+        "    inset: 4pt,",
+        "    align: (left + horizon, left + horizon),",
+        "    stroke: none,",
+        "    [*13–15*], [Secure. Move to the next block and return to this one in a fortnight.],",
+        "    [*10–12*], [Developing. Reread the chapter section named in the solutions of the misses.],",
+        "    [*0–9*], [Revise the chapter before attempting the next block: the bank is a test, not a lesson.],",
+        "  )",
+        "]",
+        "",
+        "#pagebreak(weak: true)",
+        "",
+        "== Block Log",
+        "",
+        "#v(2pt)",
+        "",
+        '#text(size: 8.8pt)[Eight blocks, eight dates. Fill the score in pencil the day you mark the block and the verdict the day after you have reread the chapter the misses named. A block attempted twice should show the second score in the same row, not a new one.]',
+        "",
+        "#v(3pt)",
+        "",
+        "#table(",
+        "  columns: (0.55fr, 1.55fr, 0.75fr, 0.6fr, 0.6fr, 0.85fr),",
+        "  inset: (x: 5pt, y: 4.2pt),",
+        "  align: (center + horizon, left + horizon, center + horizon, center + horizon, center + horizon, left + horizon),",
+        "  stroke: 0.5pt + jamb-border,",
+        "  fill: (x, y) => if y == 0 { jamb-navy } else if calc.odd(y) { white } else { jamb-light },",
+        "  table.header(",
+        '    text(font: "DejaVu Sans", size: 7.8pt, weight: "bold", fill: white)[Block],',
+        '    text(font: "DejaVu Sans", size: 7.8pt, weight: "bold", fill: white)[Chapter],',
+        '    text(font: "DejaVu Sans", size: 7.8pt, weight: "bold", fill: white)[Date],',
+        '    text(font: "DejaVu Sans", size: 7.8pt, weight: "bold", fill: white)[First],',
+        '    text(font: "DejaVu Sans", size: 7.8pt, weight: "bold", fill: white)[Retake],',
+        '    text(font: "DejaVu Sans", size: 7.8pt, weight: "bold", fill: white)[Verdict],',
+        "  ),",
+    ]
+
+    for ch in chapters:
+        lines.append(f"  [*B.{ch}*], [{TITLES[ch]}], [#v(9pt)], [], [], [],")
+
+    lines += [
+        ")",
+        "",
+        "#v(4pt)",
+        "",
+        '#text(size: 8.8pt)[A block scored twice, with a fortnight between the sittings, distinguishes a memory problem from a method problem: a retake that jumps by four marks was memory, and a retake that does not move was method.]',
+        "",
+        "#v(6pt)",
+        "",
+        '#concept-box("What to do with a block below ten")[',
+        '  + *Name the section, not the chapter.* The solutions give the section; the chapter is too big a target for an evening.',
+        '  + *Rework the four items you nearly got.* A near miss is a half-learned rule, and half-learned rules are what the paper is designed to catch.',
+        '  + *Retest the block cold, on paper, a fortnight later.* Reading the solutions again is not a retest: the answers are on the page.',
+        '  + *Never re-sit the whole bank to repair one block.* The other seven blocks are already earning marks; spend the hour where it is missing.',
+        "]",
+        "",
+        "#v(4pt)",
+        "",
+        '#shortcut-box("The arithmetic of a block")[',
+        "  Fifteen items, thirteen or better to move on. That is a margin of two, which sounds generous until you notice that a fifteen-item block drawn from one chapter is the *easiest* fifteen items on that chapter a candidate will ever see. Two misses here are six or seven misses in the examination.",
+        "]",
+        "",
+    ]
+
+    lines += [
+        "#pagebreak(weak: true)",
+        "",
+        '#current-chapter.update("Appendix B: The 120-Question Master Bank — Key")',
+        "",
+        "== Answer Key",
+        "",
+    ]
+    lines += key_grid(keys)
+    lines.append("")
+
+    # The shape of each block: fifteen answers, and the letter that dominates it.
+    lines += [
+        "#v(2pt)",
+        "",
+        "== The Shape of the Bank's Eight Blocks",
+        "",
+        '#text(size: 8.8pt)[Count the letters your own block produced before you count the correct ones. A block whose letters are wildly out of step with the row below has slipped a question, not lost a mark.]',
+        "",
+        "#v(3pt)",
+        "",
+        "#table(",
+        "  columns: (1.9fr, 0.45fr, 0.45fr, 0.45fr, 0.45fr, 0.75fr),",
+        "  inset: (x: 5pt, y: 3.8pt),",
+        "  align: (left + horizon, center + horizon, center + horizon, center + horizon, center + horizon, center + horizon),",
+        "  stroke: 0.5pt + jamb-border,",
+        "  fill: (x, y) => if y == 0 { jamb-navy } else if calc.odd(y) { white } else { jamb-light },",
+        "  table.header(",
+        '    text(font: "DejaVu Sans", size: 7.7pt, weight: "bold", fill: white)[Block],',
+        '    text(font: "DejaVu Sans", size: 7.7pt, weight: "bold", fill: white)[A],',
+        '    text(font: "DejaVu Sans", size: 7.7pt, weight: "bold", fill: white)[B],',
+        '    text(font: "DejaVu Sans", size: 7.7pt, weight: "bold", fill: white)[C],',
+        '    text(font: "DejaVu Sans", size: 7.7pt, weight: "bold", fill: white)[D],',
+        '    text(font: "DejaVu Sans", size: 7.7pt, weight: "bold", fill: white)[Thin on],',
+        "  ),",
+    ]
+    for idx, ch in enumerate(chapters):
+        block = keys[idx * 15:(idx + 1) * 15]
+        counts = [block.count(L) for L in "ABCD"]
+        thin = "ABCD"[counts.index(min(counts))]
+        cells = ", ".join(f"[{c}]" for c in counts)
+        lines.append(f"  [*B.{ch}* {TITLES[ch]}], {cells}, [{thin}],")
+    lines += [
+        ")",
+        "",
+        "#v(3pt)",
+        "",
+        '#text(size: 8.4pt)[The column headed *Thin on* is the letter the block uses least. In a fifteen-item block no letter should be absent altogether; if yours is, the slip happened in the transcription, and ten minutes spent recounting the sheet is worth more than ten minutes of revision.]',
+        "",
+    ]
+
+    pad = _pad("bank120")
+    lines += [
+        "#[",
+        "  #set text(size: 9.0pt)",
+        "  #set par(leading: 0.63em, spacing: 0.68em)",
+        "",
+        "  #block(breakable: false)[",
+        "  == Complete Solutions",
+        "",
+    ]
+    for i, (_stem, _opts, k, sol) in enumerate(items, 1):
+        lines.append(f'  #sol-item({i}, "{k}", dense: true, pad: {pad}pt)[')
+        lines.append(f"    {_clean(sol)}")
+        lines.append("  ]")
+        if i == 2:
+            lines.append("  ]")
+        lines.append("")
+    lines.append("]")
+    lines.append("")
+
+    path = OUT / "bank120.typ"
+    path.write_text("\n".join(lines) + "\n", encoding="utf-8")
+    print(f"wrote bank120.typ: {n} questions")
+
+
+def render_keys() -> None:
+    """Every key in the volume, in the order the chapters and papers use them."""
+    paper1 = balance(PAPER_1, seed=7000 + 61)
+    paper2 = balance(PAPER_2, seed=7000 + 122)
+    bank = []
+    for ch in range(1, 9):
+        bank += balance(MASTER[ch], seed=9000 + ch * 47)
+    drills = {ch: balance(DRILLS[ch], seed=1000 + ch * 37) for ch in range(1, 9)}
+
+    lines = ['#import "template.typ": *', ""]
+    lines += [
+        "",
+        '#current-chapter.update("Appendix C: Consolidated Answer Keys")',
+        "",
+        "#pagebreak(weak: true)",
+        "",
+        '#hide[#heading(level: 1, outlined: true)[Appendix C: Consolidated Answer Keys]]',
+        "",
+        "#block(",
+        "  width: 100%,",
+        "  fill: jamb-navy,",
+        "  stroke: 1.5pt + jamb-bright,",
+        "  radius: 10pt,",
+        "  inset: 18pt,",
+        ")[",
+        '  #text(font: "DejaVu Sans", size: 8.8pt, weight: "bold", fill: rgb("#A7F3D0"))[APPENDIX C]',
+        "  #v(6pt)",
+        '  #text(font: "DejaVu Sans", size: 20pt, weight: "bold", fill: white)[Consolidated Answer Keys]',
+        "  #v(4pt)",
+        '  #text(font: "DejaVu Sans", size: 10.5pt, fill: rgb("#CBD5E1"))[',
+        "    Every key in the volume in one place: the two papers, the master bank and the eight",
+        "    chapter drills. If you photocopy one page of this book, photocopy these pages.",
+        "  ]",
+        "]",
+        "",
+        "#v(5pt)",
+        "",
+    ]
+
+    blocks = [
+        ("C.1 Full Paper 1", [k for _s, _o, k, _sol in paper1]),
+        ("C.2 Full Paper 2", [k for _s, _o, k, _sol in paper2]),
+        ("C.3 The 120-Question Master Bank", [k for _s, _o, k, _sol in bank]),
+    ]
+    for ch in range(1, 9):
+        blocks.append(
+            (f"C.{3 + ch} Chapter {ch} Practice Drill — {TITLES[ch]}",
+             [k for _s, _o, k, _sol in drills[ch]])
+        )
+
+    for i, (title, keys) in enumerate(blocks):
+        if i in (3, 6):
+            lines += ["#pagebreak(weak: true)", ""]
+        lines += [f"== {title}", ""]
+        lines += key_grid(keys)
+        lines.append("")
+
+    lines += [
+        "#v(5pt)",
+        "",
+        "== C.12 The Shape of Every Key",
+        "",
+        '#text(size: 9pt)[Every key in this volume was balanced by the same shuffle, so no letter runs away with the paper. Count the letters on your answer sheet and compare: a sheet whose letters are wildly out of proportion to the column below is usually a sheet that has slipped one question out of step.]',
+        "",
+        "#v(3pt)",
+        "",
+        "#block(width: 100%, fill: white, stroke: 0.8pt + jamb-border, radius: 7pt, inset: 9pt)[",
+        "  #set text(size: 8.4pt)",
+        "  #table(",
+        "    columns: (2.3fr, 0.6fr, 0.6fr, 0.6fr, 0.6fr, 0.9fr),",
+        "    inset: (x: 5pt, y: 4pt),",
+        "    align: (left + horizon, center + horizon, center + horizon, center + horizon, center + horizon, center + horizon),",
+        "    stroke: 0.5pt + jamb-border,",
+        "    fill: (x, y) => if y == 0 { jamb-navy } else if calc.odd(y) { white } else { jamb-light },",
+        "    table.header(",
+        '      text(font: "DejaVu Sans", size: 7.8pt, weight: "bold", fill: white)[Key],',
+        '      text(font: "DejaVu Sans", size: 7.8pt, weight: "bold", fill: white)[A],',
+        '      text(font: "DejaVu Sans", size: 7.8pt, weight: "bold", fill: white)[B],',
+        '      text(font: "DejaVu Sans", size: 7.8pt, weight: "bold", fill: white)[C],',
+        '      text(font: "DejaVu Sans", size: 7.8pt, weight: "bold", fill: white)[D],',
+        '      text(font: "DejaVu Sans", size: 7.8pt, weight: "bold", fill: white)[Items],',
+        "    ),",
+    ]
+    for i, (title, keys) in enumerate(blocks):
+        counts = [keys.count(L) for L in "ABCD"]
+        label = title.split(" — ")[0]
+        lines.append(
+            "    [" + label + "], [" + "], [".join(str(c) for c in counts) + f"], [{len(keys)}],"
+        )
+    lines += [
+        "  )",
+        "]",
+        "",
+    ]
+
+    lines += [
+        "#v(4pt)",
+        "",
+        '#concept-box("How to use a key you have already seen")[',
+        "  + *Do not read the key first.* A key read before the attempt teaches nothing, because recognition is not recall.",
+        "  + *Count the letters.* If your sheet has twelve Bs and two Ds, you have probably mis-marked rather than mis-answered.",
+        "  + *Group the misses by chapter, not by question.* Three misses in the control accounts is one gap, not three accidents.",
+        "]",
+        "",
+        "#v(6pt)",
+        "",
+        "== C.13 When the Count Looks Wrong",
+        "",
+        '#text(size: 9.4pt)[A marking check is not a formality. Most of the marks lost after the paper has been marked are lost to a sheet that slipped one question out of step, and the symptom is always visible in the letter counts.]',
+        "",
+        "#v(4pt)",
+        "",
+        "#table(",
+        "  columns: (1.55fr, 1.75fr, 1.75fr),",
+        "  inset: (x: 5pt, y: 4.2pt),",
+        "  align: (left + horizon, left + horizon, left + horizon),",
+        "  stroke: 0.5pt + jamb-border,",
+        "  fill: (x, y) => if y == 0 { jamb-navy } else if calc.odd(y) { white } else { jamb-light },",
+        "  table.header(",
+        '    text(font: "DejaVu Sans", size: 8.0pt, weight: "bold", fill: white)[Symptom],',
+        '    text(font: "DejaVu Sans", size: 8.0pt, weight: "bold", fill: white)[What it usually means],',
+        '    text(font: "DejaVu Sans", size: 8.0pt, weight: "bold", fill: white)[What to do],',
+        "  ),",
+        "  [One letter is missing entirely], [A run of answers was written in the wrong column], [Lay the key beside the sheet and compare question by question from the point where the letters stop matching],",
+        "  [Twelve or more of one letter], [Two questions were answered in one box, or one was answered twice], [Recount the numbering at 10, 20, 30 and 40],",
+        "  [The total is 39 or 41], [A box was left empty, or two boxes hold the same answer], [Count the filled boxes before counting the correct ones],",
+        "  [Everything matches until question 20], [The sheet slipped one place after a page turn], [Shift the second half up or down by one and recount],",
+        "  [More than eight wrong in one block], [A topic gap, not a marking slip], [Reread the chapter named in that block, then re-sit the paper],",
+        ")",
+        "",
+        "",
+    ]
+
+    path = OUT / "answer_keys.typ"
+    path.write_text("\n".join(lines) + "\n", encoding="utf-8")
+    print("wrote answer_keys.typ")
+
+
+def main() -> int:
+    render_paper(
+        1, PAPER_1, "Cost, Contribution and the Factory Gate",
+        "Forty questions in thirty minutes, in the order and proportions of a real UTME "
+        "Accounting paper: manufacturing and the elements of cost, the three costing methods, "
+        "marginal costing, budgeting, incomplete records, partnership changes, and the "
+        "public-sector and computerised items.",
+        SECTIONS_1,
+    )
+    render_paper(
+        2, PAPER_2, "Budgets, Balances and the Missing Ledger",
+        "A second forty questions with no stem repeated from Paper 1 and none repeated from "
+        "the drills: the same proportions, a heavier calculation load, and the manufacturing "
+        "and costing blocks reworded so that a second sitting tests different ground.",
+        SECTIONS_2,
+    )
+    render_bank()
+    render_keys()
+    return 0
+
+
+if __name__ == "__main__":
+    raise SystemExit(main())

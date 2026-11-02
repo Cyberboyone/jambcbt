@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 422" width="760" height="422">
+  <defs>
+    <marker id="ag" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#008751"/>
+    </marker>
+    <marker id="an" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#0E1F40"/>
+    </marker>
+    <marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#D97706"/>
+    </marker>
+    <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#DC2626"/>
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="760" height="422" fill="#FFFFFF"/>
+<text x="380" y="22" font-family="DejaVu Sans" font-size="12.4" fill="#0E1F40" text-anchor="middle" font-weight="bold">Three costing methods, and the one question that chooses between them</text>
+<text x="380" y="44" font-family="DejaVu Sans" font-size="9.4" fill="#64748B" text-anchor="middle" font-weight="normal">Is the product made to order, made in groups, or made continuously through a process?</text>
+<rect x="10" y="62" width="240" height="158" rx="8" fill="#FFFFFF" stroke="#008751" stroke-width="1.5"/>
+<rect x="10" y="62" width="240" height="6" rx="3" fill="#008751"/>
+<text x="130" y="88" font-family="DejaVu Sans" font-size="10.2" fill="#008751" text-anchor="middle" font-weight="bold">JOB COSTING</text>
+<text x="130" y="112" font-family="DejaVu Sans" font-size="8.8" fill="#0E1F40" text-anchor="middle" font-weight="normal">one job, one cost card</text>
+<text x="130" y="138" font-family="DejaVu Sans" font-size="8.8" fill="#0E1F40" text-anchor="middle" font-weight="normal">the customer's order is the unit</text>
+<text x="130" y="164" font-family="DejaVu Sans" font-size="8.8" fill="#0E1F40" text-anchor="middle" font-weight="normal">printing, building, repairs</text>
+<text x="130" y="190" font-family="DejaVu Sans" font-size="8.8" fill="#0E1F40" text-anchor="middle" font-weight="normal">cost per job = all costs on the card</text>
+<rect x="260" y="62" width="240" height="158" rx="8" fill="#FFFFFF" stroke="#2563EB" stroke-width="1.5"/>
+<rect x="260" y="62" width="240" height="6" rx="3" fill="#2563EB"/>
+<text x="380" y="88" font-family="DejaVu Sans" font-size="10.2" fill="#2563EB" text-anchor="middle" font-weight="bold">BATCH COSTING</text>
+<text x="380" y="112" font-family="DejaVu Sans" font-size="8.8" fill="#0E1F40" text-anchor="middle" font-weight="normal">a group of identical units</text>
+<text x="380" y="138" font-family="DejaVu Sans" font-size="8.8" fill="#0E1F40" text-anchor="middle" font-weight="normal">cost per batch ÷ units in batch</text>
+<text x="380" y="164" font-family="DejaVu Sans" font-size="8.8" fill="#0E1F40" text-anchor="middle" font-weight="normal">bakery, paint, furniture runs</text>
+<text x="380" y="190" font-family="DejaVu Sans" font-size="8.8" fill="#0E1F40" text-anchor="middle" font-weight="normal">the batch is the cost centre</text>
+<rect x="510" y="62" width="240" height="158" rx="8" fill="#FFFFFF" stroke="#7C3AED" stroke-width="1.5"/>
+<rect x="510" y="62" width="240" height="6" rx="3" fill="#7C3AED"/>
+<text x="630" y="88" font-family="DejaVu Sans" font-size="10.2" fill="#7C3AED" text-anchor="middle" font-weight="bold">PROCESS COSTING</text>
+<text x="630" y="112" font-family="DejaVu Sans" font-size="8.8" fill="#0E1F40" text-anchor="middle" font-weight="normal">continuous production</text>
+<text x="630" y="138" font-family="DejaVu Sans" font-size="8.8" fill="#0E1F40" text-anchor="middle" font-weight="normal">cost per process, then per unit</text>
+<text x="630" y="164" font-family="DejaVu Sans" font-size="8.8" fill="#0E1F40" text-anchor="middle" font-weight="normal">oil, cement, sugar, chemicals</text>
+<text x="630" y="190" font-family="DejaVu Sans" font-size="8.8" fill="#0E1F40" text-anchor="middle" font-weight="normal">normal loss and scrap reduce the units</text>
+<text x="380" y="246" font-family="DejaVu Sans" font-size="9.8" fill="#0E1F40" text-anchor="middle" font-weight="bold">THE PROCESS ACCOUNT, AND NORMAL LOSS</text>
+<rect x="24" y="262" width="186" height="76" rx="7" fill="#FFFFFF" stroke="#008751" stroke-width="1.3"/>
+<text x="117" y="284" font-family="DejaVu Sans" font-size="9.2" fill="#008751" text-anchor="middle" font-weight="bold">INPUT</text>
+<text x="117" y="302" font-family="DejaVu Sans" font-size="9.0" fill="#0E1F40" text-anchor="middle" font-weight="normal">1,000 units</text>
+<text x="117" y="318" font-family="DejaVu Sans" font-size="9.0" fill="#0E1F40" text-anchor="middle" font-weight="normal">cost ₦5,000</text>
+<line x1="214" y1="300" x2="260.00" y2="300.00" stroke="#0E1F40" stroke-width="1.8"/>
+<polygon points="268.00,300.00 260.00,303.40 260.00,296.60" fill="#0E1F40"/>
+<rect x="272" y="262" width="216" height="76" rx="7" fill="#FFFFFF" stroke="#7C3AED" stroke-width="1.3"/>
+<text x="380" y="284" font-family="DejaVu Sans" font-size="9.2" fill="#7C3AED" text-anchor="middle" font-weight="bold">PROCESS ACCOUNT</text>
+<text x="380" y="302" font-family="DejaVu Sans" font-size="8.8" fill="#0E1F40" text-anchor="middle" font-weight="normal">normal loss 10% = 100 units</text>
+<text x="380" y="318" font-family="DejaVu Sans" font-size="8.8" fill="#0E1F40" text-anchor="middle" font-weight="normal">scrap value ₦200</text>
+<line x1="492" y1="300" x2="538.00" y2="300.00" stroke="#0E1F40" stroke-width="1.8"/>
+<polygon points="546.00,300.00 538.00,303.40 538.00,296.60" fill="#0E1F40"/>
+<rect x="550" y="262" width="186" height="76" rx="7" fill="#FFFFFF" stroke="#D97706" stroke-width="1.3"/>
+<text x="643" y="284" font-family="DejaVu Sans" font-size="9.2" fill="#D97706" text-anchor="middle" font-weight="bold">OUTPUT</text>
+<text x="643" y="302" font-family="DejaVu Sans" font-size="9.0" fill="#0E1F40" text-anchor="middle" font-weight="normal">900 units</text>
+<text x="643" y="318" font-family="DejaVu Sans" font-size="8.8" fill="#0E1F40" text-anchor="middle" font-weight="normal">cost per unit = 4,800 ÷ 900</text>
+<rect x="10" y="350" width="740" height="62" rx="8" fill="#ECFDF5" stroke="#008751" stroke-width="1.4"/>
+<text x="380" y="371" font-family="DejaVu Sans" font-size="9.4" fill="#008751" text-anchor="middle" font-weight="bold">cost per unit = (total process cost − scrap value of normal loss) ÷ expected output</text>
+<text x="380" y="392" font-family="DejaVu Sans" font-size="8.7" fill="#0E1F40" text-anchor="middle" font-weight="normal">an abnormal loss is written off to the profit and loss account; an abnormal gain is credited to it — the process account never hides either.</text>
+</svg>

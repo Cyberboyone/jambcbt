@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 416" width="760" height="416">
+  <defs>
+    <marker id="ag" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#008751"/>
+    </marker>
+    <marker id="an" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#0E1F40"/>
+    </marker>
+    <marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#D97706"/>
+    </marker>
+    <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#DC2626"/>
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="760" height="416" fill="#FFFFFF"/>
+<text x="380" y="22" font-family="DejaVu Sans" font-size="12.4" fill="#0E1F40" text-anchor="middle" font-weight="bold">The three elements of cost, and the records that keep them honest</text>
+<rect x="10" y="40" width="240" height="214" rx="8" fill="#FFFFFF" stroke="#008751" stroke-width="1.5"/>
+<rect x="10" y="40" width="240" height="6" rx="3" fill="#008751"/>
+<text x="130" y="66" font-family="DejaVu Sans" font-size="10.4" fill="#008751" text-anchor="middle" font-weight="bold">MATERIALS</text>
+<text x="32" y="92" font-family="DejaVu Sans" font-size="8.4" fill="#008751" text-anchor="start" font-weight="bold">1</text>
+<text x="44" y="92" font-family="DejaVu Sans" font-size="8.9" fill="#0E1F40" text-anchor="start" font-weight="normal">purchase requisition</text>
+<text x="32" y="118" font-family="DejaVu Sans" font-size="8.4" fill="#008751" text-anchor="start" font-weight="bold">2</text>
+<text x="44" y="118" font-family="DejaVu Sans" font-size="8.9" fill="#0E1F40" text-anchor="start" font-weight="normal">purchase order</text>
+<text x="32" y="144" font-family="DejaVu Sans" font-size="8.4" fill="#008751" text-anchor="start" font-weight="bold">3</text>
+<text x="44" y="144" font-family="DejaVu Sans" font-size="8.9" fill="#0E1F40" text-anchor="start" font-weight="normal">goods received note</text>
+<text x="32" y="170" font-family="DejaVu Sans" font-size="8.4" fill="#008751" text-anchor="start" font-weight="bold">4</text>
+<text x="44" y="170" font-family="DejaVu Sans" font-size="8.9" fill="#0E1F40" text-anchor="start" font-weight="normal">stores requisition</text>
+<text x="32" y="196" font-family="DejaVu Sans" font-size="8.4" fill="#008751" text-anchor="start" font-weight="bold">5</text>
+<text x="44" y="196" font-family="DejaVu Sans" font-size="8.9" fill="#0E1F40" text-anchor="start" font-weight="normal">bin card and stores ledger</text>
+<text x="32" y="222" font-family="DejaVu Sans" font-size="8.4" fill="#008751" text-anchor="start" font-weight="bold">6</text>
+<text x="44" y="222" font-family="DejaVu Sans" font-size="8.9" fill="#0E1F40" text-anchor="start" font-weight="normal">FIFO, LIFO or weighted average</text>
+<rect x="260" y="40" width="240" height="214" rx="8" fill="#FFFFFF" stroke="#2563EB" stroke-width="1.5"/>
+<rect x="260" y="40" width="240" height="6" rx="3" fill="#2563EB"/>
+<text x="380" y="66" font-family="DejaVu Sans" font-size="10.4" fill="#2563EB" text-anchor="middle" font-weight="bold">LABOUR</text>
+<text x="282" y="92" font-family="DejaVu Sans" font-size="8.4" fill="#2563EB" text-anchor="start" font-weight="bold">1</text>
+<text x="294" y="92" font-family="DejaVu Sans" font-size="8.9" fill="#0E1F40" text-anchor="start" font-weight="normal">clock card</text>
+<text x="282" y="118" font-family="DejaVu Sans" font-size="8.4" fill="#2563EB" text-anchor="start" font-weight="bold">2</text>
+<text x="294" y="118" font-family="DejaVu Sans" font-size="8.9" fill="#0E1F40" text-anchor="start" font-weight="normal">time book</text>
+<text x="282" y="144" font-family="DejaVu Sans" font-size="8.4" fill="#2563EB" text-anchor="start" font-weight="bold">3</text>
+<text x="294" y="144" font-family="DejaVu Sans" font-size="8.9" fill="#0E1F40" text-anchor="start" font-weight="normal">job card</text>
+<text x="282" y="170" font-family="DejaVu Sans" font-size="8.4" fill="#2563EB" text-anchor="start" font-weight="bold">4</text>
+<text x="294" y="170" font-family="DejaVu Sans" font-size="8.9" fill="#0E1F40" text-anchor="start" font-weight="normal">piece-work ticket</text>
+<text x="282" y="196" font-family="DejaVu Sans" font-size="8.4" fill="#2563EB" text-anchor="start" font-weight="bold">5</text>
+<text x="294" y="196" font-family="DejaVu Sans" font-size="8.9" fill="#0E1F40" text-anchor="start" font-weight="normal">payroll and payslip</text>
+<text x="282" y="222" font-family="DejaVu Sans" font-size="8.4" fill="#2563EB" text-anchor="start" font-weight="bold">6</text>
+<text x="294" y="222" font-family="DejaVu Sans" font-size="8.9" fill="#0E1F40" text-anchor="start" font-weight="normal">idle time, overtime, bonus</text>
+<rect x="510" y="40" width="240" height="214" rx="8" fill="#FFFFFF" stroke="#7C3AED" stroke-width="1.5"/>
+<rect x="510" y="40" width="240" height="6" rx="3" fill="#7C3AED"/>
+<text x="630" y="66" font-family="DejaVu Sans" font-size="10.4" fill="#7C3AED" text-anchor="middle" font-weight="bold">OVERHEADS</text>
+<text x="532" y="92" font-family="DejaVu Sans" font-size="8.4" fill="#7C3AED" text-anchor="start" font-weight="bold">1</text>
+<text x="544" y="92" font-family="DejaVu Sans" font-size="8.9" fill="#0E1F40" text-anchor="start" font-weight="normal">rent, rates, insurance</text>
+<text x="532" y="118" font-family="DejaVu Sans" font-size="8.4" fill="#7C3AED" text-anchor="start" font-weight="bold">2</text>
+<text x="544" y="118" font-family="DejaVu Sans" font-size="8.9" fill="#0E1F40" text-anchor="start" font-weight="normal">depreciation of plant</text>
+<text x="532" y="144" font-family="DejaVu Sans" font-size="8.4" fill="#7C3AED" text-anchor="start" font-weight="bold">3</text>
+<text x="544" y="144" font-family="DejaVu Sans" font-size="8.9" fill="#0E1F40" text-anchor="start" font-weight="normal">supervision and stores</text>
+<text x="532" y="170" font-family="DejaVu Sans" font-size="8.4" fill="#7C3AED" text-anchor="start" font-weight="bold">4</text>
+<text x="544" y="170" font-family="DejaVu Sans" font-size="8.9" fill="#0E1F40" text-anchor="start" font-weight="normal">apportioned to departments</text>
+<text x="532" y="196" font-family="DejaVu Sans" font-size="8.4" fill="#7C3AED" text-anchor="start" font-weight="bold">5</text>
+<text x="544" y="196" font-family="DejaVu Sans" font-size="8.9" fill="#0E1F40" text-anchor="start" font-weight="normal">reapportioned to cost centres</text>
+<text x="532" y="222" font-family="DejaVu Sans" font-size="8.4" fill="#7C3AED" text-anchor="start" font-weight="bold">6</text>
+<text x="544" y="222" font-family="DejaVu Sans" font-size="8.9" fill="#0E1F40" text-anchor="start" font-weight="normal">absorbed by a rate</text>
+<rect x="10" y="266" width="740" height="74" rx="8" fill="#FFFFFF" stroke="#0E1F40" stroke-width="1.4"/>
+<rect x="10" y="266" width="740" height="5" rx="2.5" fill="#0E1F40"/>
+<text x="380" y="290" font-family="DejaVu Sans" font-size="9.8" fill="#0E1F40" text-anchor="middle" font-weight="bold">THE ABSORPTION RATE</text>
+<text x="380" y="310" font-family="DejaVu Sans" font-size="9.0" fill="#0E1F40" text-anchor="middle" font-weight="normal">overhead absorption rate = budgeted overhead ÷ budgeted basis (labour hours, machine hours, or direct wages)</text>
+<text x="380" y="328" font-family="DejaVu Sans" font-size="8.9" fill="#0E1F40" text-anchor="middle" font-weight="normal">applied overhead = the rate × the actual hours worked, and the difference from the actual spend is over- or under-absorption</text>
+<rect x="10" y="352" width="740" height="54" rx="8" fill="#ECFDF5" stroke="#008751" stroke-width="1.4"/>
+<text x="380" y="373" font-family="DejaVu Sans" font-size="9.4" fill="#008751" text-anchor="middle" font-weight="bold">STOCK IS COUNTED, NOT ASSUMED</text>
+<text x="380" y="392" font-family="DejaVu Sans" font-size="8.9" fill="#0E1F40" text-anchor="middle" font-weight="normal">perpetual records show what should be there; a physical count shows what is. The gap is the stock loss, and it is written off.</text>
+</svg>
