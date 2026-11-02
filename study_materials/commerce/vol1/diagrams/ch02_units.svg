@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 292" width="760" height="292">
+  <defs>
+    <marker id="ag" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#008751"/>
+    </marker>
+    <marker id="an" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#0E1F40"/>
+    </marker>
+    <marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#D97706"/>
+    </marker>
+    <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#DC2626"/>
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="760" height="292" fill="#FFFFFF"/>
+<text x="380" y="22" font-family="DejaVu Sans" font-size="12.4" fill="#0E1F40" text-anchor="middle" font-weight="bold">Sole trader · partnership · cooperative</text>
+<text x="220" y="48" font-family="DejaVu Sans" font-size="9.6" fill="#0E1F40" text-anchor="start" font-weight="bold">SOLE TRADER</text>
+<text x="400" y="48" font-family="DejaVu Sans" font-size="9.6" fill="#0E1F40" text-anchor="start" font-weight="bold">PARTNERSHIP</text>
+<text x="580" y="48" font-family="DejaVu Sans" font-size="9.6" fill="#0E1F40" text-anchor="start" font-weight="bold">COOPERATIVE</text>
+<rect x="12" y="54" width="736" height="34" rx="4" fill="#ECFDF5" stroke="none" stroke-width="0"/>
+<text x="40" y="66" font-family="DejaVu Sans" font-size="9.2" fill="#008751" text-anchor="start" font-weight="bold">Owners</text>
+<text x="220" y="66" font-family="DejaVu Sans" font-size="9.0" fill="#334155" text-anchor="start" font-weight="normal">one person</text>
+<text x="400" y="66" font-family="DejaVu Sans" font-size="9.0" fill="#334155" text-anchor="start" font-weight="normal">2–20 partners</text>
+<text x="580" y="66" font-family="DejaVu Sans" font-size="9.0" fill="#334155" text-anchor="start" font-weight="normal">members (min. 10)</text>
+<text x="40" y="100" font-family="DejaVu Sans" font-size="9.2" fill="#008751" text-anchor="start" font-weight="bold">Liability</text>
+<text x="220" y="100" font-family="DejaVu Sans" font-size="9.0" fill="#334155" text-anchor="start" font-weight="normal">unlimited</text>
+<text x="400" y="100" font-family="DejaVu Sans" font-size="9.0" fill="#334155" text-anchor="start" font-weight="normal">unlimited, joint and several</text>
+<text x="580" y="100" font-family="DejaVu Sans" font-size="9.0" fill="#334155" text-anchor="start" font-weight="normal">limited to share capital</text>
+<rect x="12" y="122" width="736" height="34" rx="4" fill="#ECFDF5" stroke="none" stroke-width="0"/>
+<text x="40" y="134" font-family="DejaVu Sans" font-size="9.2" fill="#008751" text-anchor="start" font-weight="bold">Capital</text>
+<text x="220" y="134" font-family="DejaVu Sans" font-size="9.0" fill="#334155" text-anchor="start" font-weight="normal">owner's savings and loans</text>
+<text x="400" y="134" font-family="DejaVu Sans" font-size="9.0" fill="#334155" text-anchor="start" font-weight="normal">partners' contributions</text>
+<text x="580" y="134" font-family="DejaVu Sans" font-size="9.0" fill="#334155" text-anchor="start" font-weight="normal">members' subscriptions</text>
+<text x="40" y="168" font-family="DejaVu Sans" font-size="9.2" fill="#008751" text-anchor="start" font-weight="bold">Control</text>
+<text x="220" y="168" font-family="DejaVu Sans" font-size="9.0" fill="#334155" text-anchor="start" font-weight="normal">the owner alone</text>
+<text x="400" y="168" font-family="DejaVu Sans" font-size="9.0" fill="#334155" text-anchor="start" font-weight="normal">by agreement in the deed</text>
+<text x="580" y="168" font-family="DejaVu Sans" font-size="9.0" fill="#334155" text-anchor="start" font-weight="normal">one member, one vote</text>
+<rect x="12" y="190" width="736" height="34" rx="4" fill="#ECFDF5" stroke="none" stroke-width="0"/>
+<text x="40" y="202" font-family="DejaVu Sans" font-size="9.2" fill="#008751" text-anchor="start" font-weight="bold">Profit</text>
+<text x="220" y="202" font-family="DejaVu Sans" font-size="9.0" fill="#334155" text-anchor="start" font-weight="normal">all to the owner</text>
+<text x="400" y="202" font-family="DejaVu Sans" font-size="9.0" fill="#334155" text-anchor="start" font-weight="normal">shared in the agreed ratio</text>
+<text x="580" y="202" font-family="DejaVu Sans" font-size="9.0" fill="#334155" text-anchor="start" font-weight="normal">shared as dividend/patronage</text>
+<text x="40" y="236" font-family="DejaVu Sans" font-size="9.2" fill="#008751" text-anchor="start" font-weight="bold">Motive</text>
+<text x="220" y="236" font-family="DejaVu Sans" font-size="9.0" fill="#334155" text-anchor="start" font-weight="normal">profit</text>
+<text x="400" y="236" font-family="DejaVu Sans" font-size="9.0" fill="#334155" text-anchor="start" font-weight="normal">profit</text>
+<text x="580" y="236" font-family="DejaVu Sans" font-size="9.0" fill="#334155" text-anchor="start" font-weight="normal">service to members</text>
+<text x="380" y="278" font-family="DejaVu Sans" font-size="9.0" fill="#64748B" text-anchor="middle" font-weight="normal">The examiner's favourite line: a cooperative is owned by its members and run for their service, not for outside profit.</text>
+</svg>

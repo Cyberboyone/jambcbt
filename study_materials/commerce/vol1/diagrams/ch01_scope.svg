@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 262" width="760" height="262">
+  <defs>
+    <marker id="ag" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#008751"/>
+    </marker>
+    <marker id="an" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#0E1F40"/>
+    </marker>
+    <marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#D97706"/>
+    </marker>
+    <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#DC2626"/>
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="760" height="262" fill="#FFFFFF"/>
+<text x="380" y="24" font-family="DejaVu Sans" font-size="12.6" fill="#0E1F40" text-anchor="middle" font-weight="bold">From wants to the shop counter</text>
+<rect x="12" y="44" width="168" height="60" rx="8" fill="#FFFFFF" stroke="#008751" stroke-width="1.5"/>
+<rect x="12" y="44" width="168" height="5" rx="2.5" fill="#008751"/>
+<text x="96.0" y="70" font-family="DejaVu Sans" font-size="10.4" fill="#008751" text-anchor="middle" font-weight="bold">WANTS</text>
+<text x="96.0" y="88" font-family="DejaVu Sans" font-size="9.0" fill="#0E1F40" text-anchor="middle" font-weight="normal">unlimited</text>
+<line x1="181" y1="74" x2="187" y2="74" stroke="#64748B" stroke-width="1.4" marker-end="url(#ag)"/>
+<rect x="188" y="44" width="168" height="60" rx="8" fill="#FFFFFF" stroke="#2563EB" stroke-width="1.5"/>
+<rect x="188" y="44" width="168" height="5" rx="2.5" fill="#2563EB"/>
+<text x="272.0" y="70" font-family="DejaVu Sans" font-size="10.4" fill="#2563EB" text-anchor="middle" font-weight="bold">PRODUCTION</text>
+<text x="272.0" y="88" font-family="DejaVu Sans" font-size="9.0" fill="#0E1F40" text-anchor="middle" font-weight="normal">primary · secondary</text>
+<line x1="357" y1="74" x2="363" y2="74" stroke="#64748B" stroke-width="1.4" marker-end="url(#ag)"/>
+<rect x="364" y="44" width="168" height="60" rx="8" fill="#FFFFFF" stroke="#7C3AED" stroke-width="1.5"/>
+<rect x="364" y="44" width="168" height="5" rx="2.5" fill="#7C3AED"/>
+<text x="448.0" y="70" font-family="DejaVu Sans" font-size="10.4" fill="#7C3AED" text-anchor="middle" font-weight="bold">TRADE</text>
+<text x="448.0" y="88" font-family="DejaVu Sans" font-size="9.0" fill="#0E1F40" text-anchor="middle" font-weight="normal">buying and selling</text>
+<line x1="533" y1="74" x2="539" y2="74" stroke="#64748B" stroke-width="1.4" marker-end="url(#ag)"/>
+<rect x="540" y="44" width="168" height="60" rx="8" fill="#FFFFFF" stroke="#D97706" stroke-width="1.5"/>
+<rect x="540" y="44" width="168" height="5" rx="2.5" fill="#D97706"/>
+<text x="624.0" y="70" font-family="DejaVu Sans" font-size="10.4" fill="#D97706" text-anchor="middle" font-weight="bold">AIDS TO TRADE</text>
+<text x="624.0" y="88" font-family="DejaVu Sans" font-size="9.0" fill="#0E1F40" text-anchor="middle" font-weight="normal">banking · transport · insurance</text>
+<rect x="12" y="124" width="352" height="96" rx="8" fill="#FFFFFF" stroke="#008751" stroke-width="1.4"/>
+<rect x="12" y="124" width="352" height="5" rx="2.5" fill="#008751"/>
+<text x="188" y="148" font-family="DejaVu Sans" font-size="10.2" fill="#008751" text-anchor="middle" font-weight="bold">COMMERCE = TRADE + AIDS TO TRADE</text>
+<text x="188" y="172" font-family="DejaVu Sans" font-size="9.4" fill="#0E1F40" text-anchor="middle" font-weight="normal">TRADE: home trade (wholesale, retail)</text>
+<text x="188" y="190" font-family="DejaVu Sans" font-size="9.4" fill="#0E1F40" text-anchor="middle" font-weight="normal">and foreign trade (import, export, entrepot)</text>
+<text x="188" y="208" font-family="DejaVu Sans" font-size="9.4" fill="#0E1F40" text-anchor="middle" font-weight="normal">AIDS: banking, insurance, transport,</text>
+<text x="188" y="224" font-family="DejaVu Sans" font-size="9.4" fill="#0E1F40" text-anchor="middle" font-weight="normal">communication, advertising, warehousing</text>
+<rect x="380" y="124" width="368" height="96" rx="8" fill="#FFFFFF" stroke="#2563EB" stroke-width="1.4"/>
+<rect x="380" y="124" width="368" height="5" rx="2.5" fill="#2563EB"/>
+<text x="564" y="148" font-family="DejaVu Sans" font-size="10.2" fill="#2563EB" text-anchor="middle" font-weight="bold">THE CHAIN OF DISTRIBUTION</text>
+<text x="564" y="172" font-family="DejaVu Sans" font-size="9.4" fill="#0E1F40" text-anchor="middle" font-weight="normal">producer → wholesaler → retailer → consumer</text>
+<text x="564" y="192" font-family="DejaVu Sans" font-size="9.4" fill="#0E1F40" text-anchor="middle" font-weight="normal">each link removes a *discrepancy*:</text>
+<text x="564" y="210" font-family="DejaVu Sans" font-size="9.4" fill="#0E1F40" text-anchor="middle" font-weight="normal">place, time, quantity, assortment, ownership</text>
+<text x="564" y="228" font-family="DejaVu Sans" font-size="9.4" fill="#0E1F40" text-anchor="middle" font-weight="normal">and information</text>
+<text x="380" y="246" font-family="DejaVu Sans" font-size="9.0" fill="#64748B" text-anchor="middle" font-weight="normal">Commerce is the study of how goods move from the point of production to the point of consumption — and of everything that has to exist before they can.</text>
+</svg>

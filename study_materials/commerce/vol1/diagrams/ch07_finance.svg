@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 336" width="760" height="336">
+  <defs>
+    <marker id="ag" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#008751"/>
+    </marker>
+    <marker id="an" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#0E1F40"/>
+    </marker>
+    <marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#D97706"/>
+    </marker>
+    <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#DC2626"/>
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="760" height="336" fill="#FFFFFF"/>
+<text x="380" y="22" font-family="DejaVu Sans" font-size="12.4" fill="#0E1F40" text-anchor="middle" font-weight="bold">Sources of finance, by how long you need the money</text>
+<rect x="10" y="44" width="742" height="62" rx="8" fill="#FFFFFF" stroke="#008751" stroke-width="1.4"/>
+<rect x="10" y="44" width="5" height="62" rx="2.5" fill="#008751"/>
+<text x="26" y="66" font-family="DejaVu Sans" font-size="10.0" fill="#008751" text-anchor="start" font-weight="bold">SHORT TERM</text>
+<text x="120" y="66" font-family="DejaVu Sans" font-size="8.8" fill="#64748B" text-anchor="start" font-weight="normal">under one year</text>
+<text x="26" y="88" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="start" font-weight="normal">trade credit · bank overdraft · factoring · bills of exchange</text>
+<rect x="10" y="114" width="742" height="62" rx="8" fill="#FFFFFF" stroke="#2563EB" stroke-width="1.4"/>
+<rect x="10" y="114" width="5" height="62" rx="2.5" fill="#2563EB"/>
+<text x="26" y="136" font-family="DejaVu Sans" font-size="10.0" fill="#2563EB" text-anchor="start" font-weight="bold">MEDIUM TERM</text>
+<text x="120" y="136" font-family="DejaVu Sans" font-size="8.8" fill="#64748B" text-anchor="start" font-weight="normal">one to five years</text>
+<text x="26" y="158" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="start" font-weight="normal">bank loan · hire purchase · leasing · retained profit</text>
+<rect x="10" y="184" width="742" height="62" rx="8" fill="#FFFFFF" stroke="#7C3AED" stroke-width="1.4"/>
+<rect x="10" y="184" width="5" height="62" rx="2.5" fill="#7C3AED"/>
+<text x="26" y="206" font-family="DejaVu Sans" font-size="10.0" fill="#7C3AED" text-anchor="start" font-weight="bold">LONG TERM</text>
+<text x="120" y="206" font-family="DejaVu Sans" font-size="8.8" fill="#64748B" text-anchor="start" font-weight="normal">over five years</text>
+<text x="26" y="228" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="start" font-weight="normal">share capital · debentures · mortgage · venture capital</text>
+<rect x="10" y="254" width="742" height="66" rx="8" fill="#ECFDF5" stroke="#008751" stroke-width="1.2"/>
+<text x="380" y="278" font-family="DejaVu Sans" font-size="9.6" fill="#008751" text-anchor="middle" font-weight="bold">THE TEST THE PAPER USES</text>
+<text x="380" y="298" font-family="DejaVu Sans" font-size="9.0" fill="#0E1F40" text-anchor="middle" font-weight="normal">A debenture is a loan and carries a fixed rate; a share is ownership and carries a dividend that may be nothing at all.</text>
+</svg>

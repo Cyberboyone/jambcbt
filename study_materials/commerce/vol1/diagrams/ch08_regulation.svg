@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 270" width="760" height="270">
+  <defs>
+    <marker id="ag" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#008751"/>
+    </marker>
+    <marker id="an" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#0E1F40"/>
+    </marker>
+    <marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#D97706"/>
+    </marker>
+    <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#DC2626"/>
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="760" height="270" fill="#FFFFFF"/>
+<text x="380" y="22" font-family="DejaVu Sans" font-size="12.4" fill="#0E1F40" text-anchor="middle" font-weight="bold">How government touches business</text>
+<rect x="8" y="40" width="182" height="76" rx="8" fill="#FFFFFF" stroke="#008751" stroke-width="1.4"/>
+<rect x="8" y="40" width="182" height="5" rx="2.5" fill="#008751"/>
+<text x="99.0" y="64" font-family="DejaVu Sans" font-size="9.8" fill="#008751" text-anchor="middle" font-weight="bold">REGULATION</text>
+<text x="99.0" y="84" font-family="DejaVu Sans" font-size="8.6" fill="#334155" text-anchor="middle" font-weight="normal">licences, standards,</text>
+<text x="99.0" y="97" font-family="DejaVu Sans" font-size="8.6" fill="#334155" text-anchor="middle" font-weight="normal">price control</text>
+<rect x="196" y="40" width="182" height="76" rx="8" fill="#FFFFFF" stroke="#2563EB" stroke-width="1.4"/>
+<rect x="196" y="40" width="182" height="5" rx="2.5" fill="#2563EB"/>
+<text x="287.0" y="64" font-family="DejaVu Sans" font-size="9.8" fill="#2563EB" text-anchor="middle" font-weight="bold">TAXATION</text>
+<text x="287.0" y="84" font-family="DejaVu Sans" font-size="8.6" fill="#334155" text-anchor="middle" font-weight="normal">company tax, VAT,</text>
+<text x="287.0" y="97" font-family="DejaVu Sans" font-size="8.6" fill="#334155" text-anchor="middle" font-weight="normal">customs duty</text>
+<rect x="384" y="40" width="182" height="76" rx="8" fill="#FFFFFF" stroke="#7C3AED" stroke-width="1.4"/>
+<rect x="384" y="40" width="182" height="5" rx="2.5" fill="#7C3AED"/>
+<text x="475.0" y="64" font-family="DejaVu Sans" font-size="9.8" fill="#7C3AED" text-anchor="middle" font-weight="bold">PROVISION</text>
+<text x="475.0" y="84" font-family="DejaVu Sans" font-size="8.6" fill="#334155" text-anchor="middle" font-weight="normal">public corporations</text>
+<text x="475.0" y="97" font-family="DejaVu Sans" font-size="8.6" fill="#334155" text-anchor="middle" font-weight="normal">and utilities</text>
+<rect x="572" y="40" width="182" height="76" rx="8" fill="#FFFFFF" stroke="#D97706" stroke-width="1.4"/>
+<rect x="572" y="40" width="182" height="5" rx="2.5" fill="#D97706"/>
+<text x="663.0" y="64" font-family="DejaVu Sans" font-size="9.8" fill="#D97706" text-anchor="middle" font-weight="bold">PROTECTION</text>
+<text x="663.0" y="84" font-family="DejaVu Sans" font-size="8.6" fill="#334155" text-anchor="middle" font-weight="normal">tariffs, quotas,</text>
+<text x="663.0" y="97" font-family="DejaVu Sans" font-size="8.6" fill="#334155" text-anchor="middle" font-weight="normal">consumer agencies</text>
+<text x="380" y="142" font-family="DejaVu Sans" font-size="9.4" fill="#0E1F40" text-anchor="middle" font-weight="bold">AND THE AGENCIES THE QUESTIONS NAME</text>
+<rect x="10" y="158" width="242" height="32" rx="6" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="1.1"/>
+<text x="22" y="179" font-family="DejaVu Sans" font-size="9.6" fill="#008751" text-anchor="start" font-weight="bold">SON</text>
+<text x="84" y="179" font-family="DejaVu Sans" font-size="8.6" fill="#334155" text-anchor="start" font-weight="normal">standards</text>
+<rect x="260" y="158" width="242" height="32" rx="6" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="1.1"/>
+<text x="272" y="179" font-family="DejaVu Sans" font-size="9.6" fill="#008751" text-anchor="start" font-weight="bold">NAFDAC</text>
+<text x="334" y="179" font-family="DejaVu Sans" font-size="8.6" fill="#334155" text-anchor="start" font-weight="normal">food and drugs</text>
+<rect x="510" y="158" width="242" height="32" rx="6" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="1.1"/>
+<text x="522" y="179" font-family="DejaVu Sans" font-size="9.6" fill="#008751" text-anchor="start" font-weight="bold">CAC</text>
+<text x="584" y="179" font-family="DejaVu Sans" font-size="8.6" fill="#334155" text-anchor="start" font-weight="normal">companies</text>
+<rect x="10" y="198" width="242" height="32" rx="6" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="1.1"/>
+<text x="22" y="219" font-family="DejaVu Sans" font-size="9.6" fill="#008751" text-anchor="start" font-weight="bold">FCCPC</text>
+<text x="84" y="219" font-family="DejaVu Sans" font-size="8.6" fill="#334155" text-anchor="start" font-weight="normal">competition and consumer</text>
+<rect x="260" y="198" width="242" height="32" rx="6" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="1.1"/>
+<text x="272" y="219" font-family="DejaVu Sans" font-size="9.6" fill="#008751" text-anchor="start" font-weight="bold">CBN</text>
+<text x="334" y="219" font-family="DejaVu Sans" font-size="8.6" fill="#334155" text-anchor="start" font-weight="normal">money and banks</text>
+<rect x="510" y="198" width="242" height="32" rx="6" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="1.1"/>
+<text x="522" y="219" font-family="DejaVu Sans" font-size="9.6" fill="#008751" text-anchor="start" font-weight="bold">NIPC</text>
+<text x="584" y="219" font-family="DejaVu Sans" font-size="8.6" fill="#334155" text-anchor="start" font-weight="normal">promotion of investment</text>
+<text x="380" y="256" font-family="DejaVu Sans" font-size="9.0" fill="#64748B" text-anchor="middle" font-weight="normal">Every one of these is an *instrument* of policy as well as an institution: the question usually asks which instrument a given action belongs to.</text>
+</svg>

@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 300" width="760" height="300">
+  <defs>
+    <marker id="ag" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#008751"/>
+    </marker>
+    <marker id="an" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#0E1F40"/>
+    </marker>
+    <marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#D97706"/>
+    </marker>
+    <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#DC2626"/>
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="760" height="300" fill="#FFFFFF"/>
+<text x="380" y="22" font-family="DejaVu Sans" font-size="12.4" fill="#0E1F40" text-anchor="middle" font-weight="bold">Channels of distribution</text>
+<rect x="10" y="40" width="742" height="52" rx="7" fill="#FFFFFF" stroke="#008751" stroke-width="1.3"/>
+<rect x="10" y="40" width="5" height="52" rx="2.5" fill="#008751"/>
+<text x="24" y="62" font-family="DejaVu Sans" font-size="10.0" fill="#008751" text-anchor="start" font-weight="bold">Producer → Consumer</text>
+<text x="24" y="80" font-family="DejaVu Sans" font-size="8.8" fill="#334155" text-anchor="start" font-weight="normal">direct: no middleman, lowest price, widest producer risk</text>
+<rect x="10" y="100" width="742" height="52" rx="7" fill="#FFFFFF" stroke="#2563EB" stroke-width="1.3"/>
+<rect x="10" y="100" width="5" height="52" rx="2.5" fill="#2563EB"/>
+<text x="24" y="122" font-family="DejaVu Sans" font-size="10.0" fill="#2563EB" text-anchor="start" font-weight="bold">Producer → Retailer → Consumer</text>
+<text x="24" y="140" font-family="DejaVu Sans" font-size="8.8" fill="#334155" text-anchor="start" font-weight="normal">one link: large retailers buy direct</text>
+<rect x="10" y="160" width="742" height="52" rx="7" fill="#FFFFFF" stroke="#7C3AED" stroke-width="1.3"/>
+<rect x="10" y="160" width="5" height="52" rx="2.5" fill="#7C3AED"/>
+<text x="24" y="182" font-family="DejaVu Sans" font-size="10.0" fill="#7C3AED" text-anchor="start" font-weight="bold">Producer → Wholesaler → Retailer → Consumer</text>
+<text x="24" y="200" font-family="DejaVu Sans" font-size="8.8" fill="#334155" text-anchor="start" font-weight="normal">the classic chain: small producers, small shops</text>
+<rect x="10" y="220" width="742" height="52" rx="7" fill="#FFFFFF" stroke="#D97706" stroke-width="1.3"/>
+<rect x="10" y="220" width="5" height="52" rx="2.5" fill="#D97706"/>
+<text x="24" y="242" font-family="DejaVu Sans" font-size="10.0" fill="#D97706" text-anchor="start" font-weight="bold">Producer → Agent → Wholesaler → Retailer → Consumer</text>
+<text x="24" y="260" font-family="DejaVu Sans" font-size="8.8" fill="#334155" text-anchor="start" font-weight="normal">agents for imports and agricultural produce</text>
+<text x="380" y="286" font-family="DejaVu Sans" font-size="9.0" fill="#64748B" text-anchor="middle" font-weight="normal">Every link you remove saves a margin, and every link you remove also moves a function — storage, credit, breaking bulk — back onto someone else.</text>
+</svg>
