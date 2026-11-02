@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 272" width="760" height="272">
+  <defs>
+    <marker id="ag" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#008751"/>
+    </marker>
+    <marker id="an" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#0E1F40"/>
+    </marker>
+    <marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#D97706"/>
+    </marker>
+    <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#DC2626"/>
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="760" height="272" fill="#FFFFFF"/>
+<text x="380" y="22" font-family="DejaVu Sans" font-size="12.4" fill="#0E1F40" text-anchor="middle" font-weight="bold">Why money exists: four failures of barter, four functions of money</text>
+<rect x="8" y="40" width="470" height="44" rx="7" fill="#FFFFFF" stroke="#DC2626" stroke-width="1.2"/>
+<text x="18" y="57" font-family="DejaVu Sans" font-size="9.2" fill="#DC2626" text-anchor="start" font-weight="bold">DOUBLE COINCIDENCE OF WANTS</text>
+<text x="18" y="73" font-family="DejaVu Sans" font-size="8.4" fill="#334155" text-anchor="start" font-weight="normal">you must want what I have, at the moment I want what you have</text>
+<line x1="486" y1="62" x2="528" y2="62" stroke="#008751" stroke-width="1.8" marker-end="url(#ag)"/>
+<rect x="536" y="40" width="216" height="44" rx="7" fill="#FFFFFF" stroke="#008751" stroke-width="1.2"/>
+<text x="644" y="60" font-family="DejaVu Sans" font-size="9.0" fill="#008751" text-anchor="middle" font-weight="bold">MEDIUM OF EXCHANGE</text>
+<text x="644" y="74" font-family="DejaVu Sans" font-size="8.2" fill="#64748B" text-anchor="middle" font-weight="normal">a function of money</text>
+<rect x="8" y="92" width="470" height="44" rx="7" fill="#FFFFFF" stroke="#DC2626" stroke-width="1.2"/>
+<text x="18" y="109" font-family="DejaVu Sans" font-size="9.2" fill="#DC2626" text-anchor="start" font-weight="bold">NO COMMON MEASURE</text>
+<text x="18" y="125" font-family="DejaVu Sans" font-size="8.4" fill="#334155" text-anchor="start" font-weight="normal">a goat is not half a bicycle, and no one can say what it is</text>
+<line x1="486" y1="114" x2="528" y2="114" stroke="#008751" stroke-width="1.8" marker-end="url(#ag)"/>
+<rect x="536" y="92" width="216" height="44" rx="7" fill="#FFFFFF" stroke="#008751" stroke-width="1.2"/>
+<text x="644" y="112" font-family="DejaVu Sans" font-size="9.0" fill="#008751" text-anchor="middle" font-weight="bold">MEASURE OF VALUE</text>
+<text x="644" y="126" font-family="DejaVu Sans" font-size="8.2" fill="#64748B" text-anchor="middle" font-weight="normal">a function of money</text>
+<rect x="8" y="144" width="470" height="44" rx="7" fill="#FFFFFF" stroke="#DC2626" stroke-width="1.2"/>
+<text x="18" y="161" font-family="DejaVu Sans" font-size="9.2" fill="#DC2626" text-anchor="start" font-weight="bold">NO STORE OF VALUE</text>
+<text x="18" y="177" font-family="DejaVu Sans" font-size="8.4" fill="#334155" text-anchor="start" font-weight="normal">yams rot and cattle stray, so saving is impossible</text>
+<line x1="486" y1="166" x2="528" y2="166" stroke="#008751" stroke-width="1.8" marker-end="url(#ag)"/>
+<rect x="536" y="144" width="216" height="44" rx="7" fill="#FFFFFF" stroke="#008751" stroke-width="1.2"/>
+<text x="644" y="164" font-family="DejaVu Sans" font-size="9.0" fill="#008751" text-anchor="middle" font-weight="bold">STORE OF VALUE</text>
+<text x="644" y="178" font-family="DejaVu Sans" font-size="8.2" fill="#64748B" text-anchor="middle" font-weight="normal">a function of money</text>
+<rect x="8" y="196" width="470" height="44" rx="7" fill="#FFFFFF" stroke="#DC2626" stroke-width="1.2"/>
+<text x="18" y="213" font-family="DejaVu Sans" font-size="9.2" fill="#DC2626" text-anchor="start" font-weight="bold">NO STANDARD OF DEFERRED PAYMENT</text>
+<text x="18" y="229" font-family="DejaVu Sans" font-size="8.4" fill="#334155" text-anchor="start" font-weight="normal">a debt cannot be written down for a future date</text>
+<line x1="486" y1="218" x2="528" y2="218" stroke="#008751" stroke-width="1.8" marker-end="url(#ag)"/>
+<rect x="536" y="196" width="216" height="44" rx="7" fill="#FFFFFF" stroke="#008751" stroke-width="1.2"/>
+<text x="644" y="216" font-family="DejaVu Sans" font-size="9.0" fill="#008751" text-anchor="middle" font-weight="bold">STANDARD OF DEFERRED PAYMENT</text>
+<text x="644" y="230" font-family="DejaVu Sans" font-size="8.2" fill="#64748B" text-anchor="middle" font-weight="normal">a function of money</text>
+<text x="380" y="258" font-family="DejaVu Sans" font-size="9.0" fill="#64748B" text-anchor="middle" font-weight="normal">Add the fifth function the paper sometimes asks for: money as a unit of account for comparing prices across a market.</text>
+</svg>

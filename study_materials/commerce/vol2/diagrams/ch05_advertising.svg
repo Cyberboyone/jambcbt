@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 282" width="760" height="282">
+  <defs>
+    <marker id="ag" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#008751"/>
+    </marker>
+    <marker id="an" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#0E1F40"/>
+    </marker>
+    <marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#D97706"/>
+    </marker>
+    <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#DC2626"/>
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="760" height="282" fill="#FFFFFF"/>
+<text x="380" y="22" font-family="DejaVu Sans" font-size="12.2" fill="#0E1F40" text-anchor="middle" font-weight="bold">Advertising works in four moves: attention, interest, desire, action</text>
+<rect x="10" y="40" width="172" height="66" rx="8" fill="#FFFFFF" stroke="#008751" stroke-width="1.5"/>
+<rect x="10" y="40" width="172" height="5" rx="2.5" fill="#008751"/>
+<text x="96.0" y="66" font-family="DejaVu Sans" font-size="10.0" fill="#008751" text-anchor="middle" font-weight="bold">ATTENTION</text>
+<text x="96.0" y="84" font-family="DejaVu Sans" font-size="8.4" fill="#334155" text-anchor="middle" font-weight="normal">the medium that reaches</text>
+<text x="96.0" y="98" font-family="DejaVu Sans" font-size="7.6" fill="#64748B" text-anchor="middle" font-weight="normal">stage 1</text>
+<line x1="183" y1="73" x2="189" y2="73" stroke="#64748B" stroke-width="1.4" marker-end="url(#ag)"/>
+<rect x="190" y="40" width="172" height="66" rx="8" fill="#FFFFFF" stroke="#2563EB" stroke-width="1.5"/>
+<rect x="190" y="40" width="172" height="5" rx="2.5" fill="#2563EB"/>
+<text x="276.0" y="66" font-family="DejaVu Sans" font-size="10.0" fill="#2563EB" text-anchor="middle" font-weight="bold">INTEREST</text>
+<text x="276.0" y="84" font-family="DejaVu Sans" font-size="8.4" fill="#334155" text-anchor="middle" font-weight="normal">the claim that is relevant</text>
+<text x="276.0" y="98" font-family="DejaVu Sans" font-size="7.6" fill="#64748B" text-anchor="middle" font-weight="normal">stage 2</text>
+<line x1="363" y1="73" x2="369" y2="73" stroke="#64748B" stroke-width="1.4" marker-end="url(#ag)"/>
+<rect x="370" y="40" width="172" height="66" rx="8" fill="#FFFFFF" stroke="#7C3AED" stroke-width="1.5"/>
+<rect x="370" y="40" width="172" height="5" rx="2.5" fill="#7C3AED"/>
+<text x="456.0" y="66" font-family="DejaVu Sans" font-size="10.0" fill="#7C3AED" text-anchor="middle" font-weight="bold">DESIRE</text>
+<text x="456.0" y="84" font-family="DejaVu Sans" font-size="8.4" fill="#334155" text-anchor="middle" font-weight="normal">the benefit that is wanted</text>
+<text x="456.0" y="98" font-family="DejaVu Sans" font-size="7.6" fill="#64748B" text-anchor="middle" font-weight="normal">stage 3</text>
+<line x1="543" y1="73" x2="549" y2="73" stroke="#64748B" stroke-width="1.4" marker-end="url(#ag)"/>
+<rect x="550" y="40" width="172" height="66" rx="8" fill="#FFFFFF" stroke="#D97706" stroke-width="1.5"/>
+<rect x="550" y="40" width="172" height="5" rx="2.5" fill="#D97706"/>
+<text x="636.0" y="66" font-family="DejaVu Sans" font-size="10.0" fill="#D97706" text-anchor="middle" font-weight="bold">ACTION</text>
+<text x="636.0" y="84" font-family="DejaVu Sans" font-size="8.4" fill="#334155" text-anchor="middle" font-weight="normal">the offer that is easy to take</text>
+<text x="636.0" y="98" font-family="DejaVu Sans" font-size="7.6" fill="#64748B" text-anchor="middle" font-weight="normal">stage 4</text>
+<text x="380" y="128" font-family="DejaVu Sans" font-size="8.8" fill="#0E1F40" text-anchor="middle" font-weight="bold">THE MEDIA, AND WHAT EACH ONE IS GOOD AT</text>
+<rect x="10" y="140" width="240" height="44" rx="6" fill="#FFFFFF" stroke="#008751" stroke-width="1.1"/>
+<text x="22" y="157" font-family="DejaVu Sans" font-size="8.8" fill="#008751" text-anchor="start" font-weight="bold">NEWSPAPER</text>
+<text x="22" y="172" font-family="DejaVu Sans" font-size="8.0" fill="#334155" text-anchor="start" font-weight="normal">detail, and a reader who is looking</text>
+<rect x="260" y="140" width="240" height="44" rx="6" fill="#FFFFFF" stroke="#008751" stroke-width="1.1"/>
+<text x="272" y="157" font-family="DejaVu Sans" font-size="8.8" fill="#008751" text-anchor="start" font-weight="bold">TELEVISION</text>
+<text x="272" y="172" font-family="DejaVu Sans" font-size="8.0" fill="#334155" text-anchor="start" font-weight="normal">sight, sound and reach</text>
+<rect x="510" y="140" width="240" height="44" rx="6" fill="#FFFFFF" stroke="#008751" stroke-width="1.1"/>
+<text x="522" y="157" font-family="DejaVu Sans" font-size="8.8" fill="#008751" text-anchor="start" font-weight="bold">RADIO</text>
+<text x="522" y="172" font-family="DejaVu Sans" font-size="8.0" fill="#334155" text-anchor="start" font-weight="normal">the local market, and the non-reader</text>
+<rect x="10" y="192" width="240" height="44" rx="6" fill="#FFFFFF" stroke="#008751" stroke-width="1.1"/>
+<text x="22" y="209" font-family="DejaVu Sans" font-size="8.8" fill="#008751" text-anchor="start" font-weight="bold">POSTER</text>
+<text x="22" y="224" font-family="DejaVu Sans" font-size="8.0" fill="#334155" text-anchor="start" font-weight="normal">the passer-by, in one line</text>
+<rect x="260" y="192" width="240" height="44" rx="6" fill="#FFFFFF" stroke="#008751" stroke-width="1.1"/>
+<text x="272" y="209" font-family="DejaVu Sans" font-size="8.8" fill="#008751" text-anchor="start" font-weight="bold">INTERNET</text>
+<text x="272" y="224" font-family="DejaVu Sans" font-size="8.0" fill="#334155" text-anchor="start" font-weight="normal">the buyer who searches, and the count of who clicked</text>
+<rect x="510" y="192" width="240" height="44" rx="6" fill="#FFFFFF" stroke="#008751" stroke-width="1.1"/>
+<text x="522" y="209" font-family="DejaVu Sans" font-size="8.8" fill="#008751" text-anchor="start" font-weight="bold">DIRECT MAIL</text>
+<text x="522" y="224" font-family="DejaVu Sans" font-size="8.0" fill="#334155" text-anchor="start" font-weight="normal">the named customer</text>
+<text x="380" y="268" font-family="DejaVu Sans" font-size="8.8" fill="#64748B" text-anchor="middle" font-weight="normal">Advertising informs and persuades; sales promotion adds a reason to act now. A paper that asks which is which is testing the difference between the two.</text>
+</svg>

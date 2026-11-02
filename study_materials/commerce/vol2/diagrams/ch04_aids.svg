@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 282" width="760" height="282">
+  <defs>
+    <marker id="ag" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#008751"/>
+    </marker>
+    <marker id="an" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#0E1F40"/>
+    </marker>
+    <marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#D97706"/>
+    </marker>
+    <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#DC2626"/>
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="760" height="282" fill="#FFFFFF"/>
+<text x="380" y="22" font-family="DejaVu Sans" font-size="12.2" fill="#0E1F40" text-anchor="middle" font-weight="bold">Moving goods and holding them: the two aids that buy time and place</text>
+<text x="190" y="44" font-family="DejaVu Sans" font-size="8.8" fill="#008751" text-anchor="middle" font-weight="bold">THE MODE AND ITS CARGO</text>
+<rect x="8" y="54" width="364" height="34" rx="6" fill="#FFFFFF" stroke="#008751" stroke-width="1.1"/>
+<text x="18" y="68" font-family="DejaVu Sans" font-size="8.8" fill="#008751" text-anchor="start" font-weight="bold">ROAD</text>
+<text x="18" y="82" font-family="DejaVu Sans" font-size="8.0" fill="#334155" text-anchor="start" font-weight="normal">door to door; the short haul and the last mile</text>
+<rect x="8" y="94" width="364" height="34" rx="6" fill="#FFFFFF" stroke="#2563EB" stroke-width="1.1"/>
+<text x="18" y="108" font-family="DejaVu Sans" font-size="8.8" fill="#2563EB" text-anchor="start" font-weight="bold">RAIL</text>
+<text x="18" y="122" font-family="DejaVu Sans" font-size="8.0" fill="#334155" text-anchor="start" font-weight="normal">bulk over land, cheaply, in quantity</text>
+<rect x="8" y="134" width="364" height="34" rx="6" fill="#FFFFFF" stroke="#7C3AED" stroke-width="1.1"/>
+<text x="18" y="148" font-family="DejaVu Sans" font-size="8.8" fill="#7C3AED" text-anchor="start" font-weight="bold">WATER</text>
+<text x="18" y="162" font-family="DejaVu Sans" font-size="8.0" fill="#334155" text-anchor="start" font-weight="normal">the heaviest cargo, the lowest cost per tonne</text>
+<rect x="8" y="174" width="364" height="34" rx="6" fill="#FFFFFF" stroke="#DC2626" stroke-width="1.1"/>
+<text x="18" y="188" font-family="DejaVu Sans" font-size="8.8" fill="#DC2626" text-anchor="start" font-weight="bold">AIR</text>
+<text x="18" y="202" font-family="DejaVu Sans" font-size="8.0" fill="#334155" text-anchor="start" font-weight="normal">speed and perishables; the dearest per kilo</text>
+<rect x="8" y="214" width="364" height="34" rx="6" fill="#FFFFFF" stroke="#D97706" stroke-width="1.1"/>
+<text x="18" y="228" font-family="DejaVu Sans" font-size="8.8" fill="#D97706" text-anchor="start" font-weight="bold">PIPELINE</text>
+<text x="18" y="242" font-family="DejaVu Sans" font-size="8.0" fill="#334155" text-anchor="start" font-weight="normal">liquids and gas, continuously</text>
+<text x="570" y="44" font-family="DejaVu Sans" font-size="8.8" fill="#7C3AED" text-anchor="middle" font-weight="bold">THE WAREHOUSE AND ITS JOB</text>
+<rect x="388" y="54" width="364" height="34" rx="6" fill="#FFFFFF" stroke="#7C3AED" stroke-width="1.1"/>
+<text x="398" y="68" font-family="DejaVu Sans" font-size="8.8" fill="#7C3AED" text-anchor="start" font-weight="bold">BONDED</text>
+<text x="398" y="82" font-family="DejaVu Sans" font-size="8.0" fill="#334155" text-anchor="start" font-weight="normal">duty is unpaid until the goods leave</text>
+<rect x="388" y="94" width="364" height="34" rx="6" fill="#FFFFFF" stroke="#7C3AED" stroke-width="1.1"/>
+<text x="398" y="108" font-family="DejaVu Sans" font-size="8.8" fill="#7C3AED" text-anchor="start" font-weight="bold">COLD</text>
+<text x="398" y="122" font-family="DejaVu Sans" font-size="8.0" fill="#334155" text-anchor="start" font-weight="normal">perishables, held at temperature</text>
+<rect x="388" y="134" width="364" height="34" rx="6" fill="#FFFFFF" stroke="#7C3AED" stroke-width="1.1"/>
+<text x="398" y="148" font-family="DejaVu Sans" font-size="8.8" fill="#7C3AED" text-anchor="start" font-weight="bold">CASH AND CARRY</text>
+<text x="398" y="162" font-family="DejaVu Sans" font-size="8.0" fill="#334155" text-anchor="start" font-weight="normal">wholesale self-service</text>
+<rect x="388" y="174" width="364" height="34" rx="6" fill="#FFFFFF" stroke="#7C3AED" stroke-width="1.1"/>
+<text x="398" y="188" font-family="DejaVu Sans" font-size="8.8" fill="#7C3AED" text-anchor="start" font-weight="bold">PRIVATE</text>
+<text x="398" y="202" font-family="DejaVu Sans" font-size="8.0" fill="#334155" text-anchor="start" font-weight="normal">one firm's own stock</text>
+<rect x="388" y="214" width="364" height="34" rx="6" fill="#FFFFFF" stroke="#7C3AED" stroke-width="1.1"/>
+<text x="398" y="228" font-family="DejaVu Sans" font-size="8.8" fill="#7C3AED" text-anchor="start" font-weight="bold">PUBLIC</text>
+<text x="398" y="242" font-family="DejaVu Sans" font-size="8.0" fill="#334155" text-anchor="start" font-weight="normal">any trader may rent space</text>
+<text x="380" y="268" font-family="DejaVu Sans" font-size="9.0" fill="#64748B" text-anchor="middle" font-weight="normal">Warehousing creates time utility; transport creates place utility. Neither creates the good — production did that.</text>
+</svg>

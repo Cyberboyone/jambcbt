@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 300" width="760" height="300">
+  <defs>
+    <marker id="ag" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#008751"/>
+    </marker>
+    <marker id="an" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#0E1F40"/>
+    </marker>
+    <marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#D97706"/>
+    </marker>
+    <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#DC2626"/>
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="760" height="300" fill="#FFFFFF"/>
+<text x="380" y="22" font-family="DejaVu Sans" font-size="12.4" fill="#0E1F40" text-anchor="middle" font-weight="bold">The banking system: four tiers, four jobs</text>
+<rect x="145.0" y="42" width="470" height="48" rx="8" fill="#FFFFFF" stroke="#008751" stroke-width="1.5"/>
+<rect x="145.0" y="42" width="470" height="5" rx="2.5" fill="#008751"/>
+<text x="380" y="63" font-family="DejaVu Sans" font-size="9.8" fill="#008751" text-anchor="middle" font-weight="bold">CENTRAL BANK</text>
+<text x="380" y="79" font-family="DejaVu Sans" font-size="8.3" fill="#334155" text-anchor="middle" font-weight="normal">issues the currency, banker to government and to the banks, lender of last resort</text>
+<rect x="180.0" y="98" width="400" height="48" rx="8" fill="#FFFFFF" stroke="#2563EB" stroke-width="1.5"/>
+<rect x="180.0" y="98" width="400" height="5" rx="2.5" fill="#2563EB"/>
+<text x="380" y="119" font-family="DejaVu Sans" font-size="9.8" fill="#2563EB" text-anchor="middle" font-weight="bold">MERCHANT / DEVELOPMENT BANKS</text>
+<text x="380" y="135" font-family="DejaVu Sans" font-size="8.3" fill="#334155" text-anchor="middle" font-weight="normal">wholesale and long-term finance for industry and agriculture</text>
+<rect x="215.0" y="154" width="330" height="48" rx="8" fill="#FFFFFF" stroke="#7C3AED" stroke-width="1.5"/>
+<rect x="215.0" y="154" width="330" height="5" rx="2.5" fill="#7C3AED"/>
+<text x="380" y="175" font-family="DejaVu Sans" font-size="9.8" fill="#7C3AED" text-anchor="middle" font-weight="bold">COMMERCIAL BANKS</text>
+<text x="380" y="191" font-family="DejaVu Sans" font-size="8.3" fill="#334155" text-anchor="middle" font-weight="normal">current, savings and fixed accounts; loans, overdrafts, transfers</text>
+<rect x="250.0" y="210" width="260" height="48" rx="8" fill="#FFFFFF" stroke="#D97706" stroke-width="1.5"/>
+<rect x="250.0" y="210" width="260" height="5" rx="2.5" fill="#D97706"/>
+<text x="380" y="231" font-family="DejaVu Sans" font-size="9.8" fill="#D97706" text-anchor="middle" font-weight="bold">MICROFINANCE AND OTHER BANKS</text>
+<text x="380" y="247" font-family="DejaVu Sans" font-size="8.3" fill="#334155" text-anchor="middle" font-weight="normal">small loans to traders and artisans, often without security</text>
+<text x="380" y="288" font-family="DejaVu Sans" font-size="9.0" fill="#64748B" text-anchor="middle" font-weight="normal">Money flows down as credit and up as deposits; the central bank controls the flow, not the direction.</text>
+</svg>

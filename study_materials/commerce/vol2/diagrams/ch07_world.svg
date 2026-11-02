@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 266" width="760" height="266">
+  <defs>
+    <marker id="ag" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#008751"/>
+    </marker>
+    <marker id="an" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#0E1F40"/>
+    </marker>
+    <marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#D97706"/>
+    </marker>
+    <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#DC2626"/>
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="760" height="266" fill="#FFFFFF"/>
+<text x="380" y="22" font-family="DejaVu Sans" font-size="12.4" fill="#0E1F40" text-anchor="middle" font-weight="bold">The organisations a Commerce paper expects you to place</text>
+<text x="190" y="46" font-family="DejaVu Sans" font-size="9.0" fill="#2563EB" text-anchor="middle" font-weight="bold">GLOBAL</text>
+<text x="570" y="46" font-family="DejaVu Sans" font-size="9.0" fill="#7C3AED" text-anchor="middle" font-weight="bold">REGIONAL AND COMMODITY</text>
+<rect x="8" y="58" width="364" height="38" rx="6" fill="#FFFFFF" stroke="#2563EB" stroke-width="1.1"/>
+<text x="18" y="74" font-family="DejaVu Sans" font-size="8.8" fill="#2563EB" text-anchor="start" font-weight="bold">IMF</text>
+<text x="18" y="88" font-family="DejaVu Sans" font-size="8.0" fill="#334155" text-anchor="start" font-weight="normal">short-term balance-of-payments support</text>
+<rect x="8" y="104" width="364" height="38" rx="6" fill="#FFFFFF" stroke="#2563EB" stroke-width="1.1"/>
+<text x="18" y="120" font-family="DejaVu Sans" font-size="8.8" fill="#2563EB" text-anchor="start" font-weight="bold">WORLD BANK</text>
+<text x="18" y="134" font-family="DejaVu Sans" font-size="8.0" fill="#334155" text-anchor="start" font-weight="normal">long-term development loans</text>
+<rect x="8" y="150" width="364" height="38" rx="6" fill="#FFFFFF" stroke="#2563EB" stroke-width="1.1"/>
+<text x="18" y="166" font-family="DejaVu Sans" font-size="8.8" fill="#2563EB" text-anchor="start" font-weight="bold">WTO</text>
+<text x="18" y="180" font-family="DejaVu Sans" font-size="8.0" fill="#334155" text-anchor="start" font-weight="normal">the rules of trade between nations</text>
+<rect x="8" y="196" width="364" height="38" rx="6" fill="#FFFFFF" stroke="#2563EB" stroke-width="1.1"/>
+<text x="18" y="212" font-family="DejaVu Sans" font-size="8.8" fill="#2563EB" text-anchor="start" font-weight="bold">UNCTAD</text>
+<text x="18" y="226" font-family="DejaVu Sans" font-size="8.0" fill="#334155" text-anchor="start" font-weight="normal">trade and development, for the poorer nations</text>
+<rect x="388" y="58" width="364" height="38" rx="6" fill="#FFFFFF" stroke="#7C3AED" stroke-width="1.1"/>
+<text x="398" y="74" font-family="DejaVu Sans" font-size="8.8" fill="#7C3AED" text-anchor="start" font-weight="bold">ECOWAS</text>
+<text x="398" y="88" font-family="DejaVu Sans" font-size="8.0" fill="#334155" text-anchor="start" font-weight="normal">West African free trade and a common passport</text>
+<rect x="388" y="104" width="364" height="38" rx="6" fill="#FFFFFF" stroke="#7C3AED" stroke-width="1.1"/>
+<text x="398" y="120" font-family="DejaVu Sans" font-size="8.8" fill="#7C3AED" text-anchor="start" font-weight="bold">AFRICAN UNION</text>
+<text x="398" y="134" font-family="DejaVu Sans" font-size="8.0" fill="#334155" text-anchor="start" font-weight="normal">continental political and economic union</text>
+<rect x="388" y="150" width="364" height="38" rx="6" fill="#FFFFFF" stroke="#7C3AED" stroke-width="1.1"/>
+<text x="398" y="166" font-family="DejaVu Sans" font-size="8.8" fill="#7C3AED" text-anchor="start" font-weight="bold">AfCFTA</text>
+<text x="398" y="180" font-family="DejaVu Sans" font-size="8.0" fill="#334155" text-anchor="start" font-weight="normal">one African market for goods and services</text>
+<rect x="388" y="196" width="364" height="38" rx="6" fill="#FFFFFF" stroke="#7C3AED" stroke-width="1.1"/>
+<text x="398" y="212" font-family="DejaVu Sans" font-size="8.8" fill="#7C3AED" text-anchor="start" font-weight="bold">OPEC</text>
+<text x="398" y="226" font-family="DejaVu Sans" font-size="8.0" fill="#334155" text-anchor="start" font-weight="normal">co-ordination of oil output and price</text>
+<text x="380" y="252" font-family="DejaVu Sans" font-size="9.0" fill="#64748B" text-anchor="middle" font-weight="normal">The IMF stabilises a balance of payments; the World Bank builds. Confusing the two is the commonest error in this section.</text>
+</svg>
