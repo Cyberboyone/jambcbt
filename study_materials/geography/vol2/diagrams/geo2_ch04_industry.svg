@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 268" width="760" height="268">
+  <defs>
+    <marker id="ag" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#008751"/>
+    </marker>
+    <marker id="an" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#0E1F40"/>
+    </marker>
+    <marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#D97706"/>
+    </marker>
+    <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#DC2626"/>
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="760" height="268" fill="#ECFDF5"/>
+<text x="380" y="22" font-family="DejaVu Sans" font-size="12.6" fill="#0E1F40" text-anchor="middle" font-weight="bold">What pulls a factory to a place, and the four sectors of work</text>
+<rect x="12" y="34" width="380" height="224" rx="8" fill="#FFFFFF" stroke="#008751" stroke-width="1.4"/>
+<text x="202" y="54" font-family="DejaVu Sans" font-size="9.6" fill="#008751" text-anchor="middle" font-weight="bold">LOCATION FACTORS</text>
+<rect x="150" y="132" width="104" height="36" rx="5" fill="#008751" stroke="#008751" stroke-width="1.2"/>
+<text x="202" y="154" font-family="DejaVu Sans" font-size="9.4" fill="#FFFFFF" text-anchor="middle" font-weight="bold">the factory</text>
+<line x1="202" y1="150" x2="202" y2="78" stroke="#64748B" stroke-width="1.1" marker-end="url(#an)"/>
+<rect x="158" y="66" width="88" height="24" rx="4" fill="#ECFDF5" stroke="#008751" stroke-width="0.9"/>
+<text x="202" y="81" font-family="DejaVu Sans" font-size="7.8" fill="#0E1F40" text-anchor="middle" font-weight="normal">raw material</text>
+<line x1="202" y1="150" x2="342" y2="120" stroke="#64748B" stroke-width="1.1" marker-end="url(#an)"/>
+<rect x="298" y="108" width="88" height="24" rx="4" fill="#ECFDF5" stroke="#008751" stroke-width="0.9"/>
+<text x="342" y="123" font-family="DejaVu Sans" font-size="7.8" fill="#0E1F40" text-anchor="middle" font-weight="normal">power</text>
+<line x1="202" y1="150" x2="330" y2="196" stroke="#64748B" stroke-width="1.1" marker-end="url(#an)"/>
+<rect x="286" y="184" width="88" height="24" rx="4" fill="#ECFDF5" stroke="#008751" stroke-width="0.9"/>
+<text x="330" y="199" font-family="DejaVu Sans" font-size="7.8" fill="#0E1F40" text-anchor="middle" font-weight="normal">market</text>
+<line x1="202" y1="150" x2="74" y2="196" stroke="#64748B" stroke-width="1.1" marker-end="url(#an)"/>
+<rect x="30" y="184" width="88" height="24" rx="4" fill="#ECFDF5" stroke="#008751" stroke-width="0.9"/>
+<text x="74" y="199" font-family="DejaVu Sans" font-size="7.8" fill="#0E1F40" text-anchor="middle" font-weight="normal">labour</text>
+<line x1="202" y1="150" x2="62" y2="120" stroke="#64748B" stroke-width="1.1" marker-end="url(#an)"/>
+<rect x="18" y="108" width="88" height="24" rx="4" fill="#ECFDF5" stroke="#008751" stroke-width="0.9"/>
+<text x="62" y="123" font-family="DejaVu Sans" font-size="7.8" fill="#0E1F40" text-anchor="middle" font-weight="normal">transport</text>
+<text x="202" y="246" font-family="DejaVu Sans" font-size="8" fill="#64748B" text-anchor="middle" font-weight="normal">the heaviest factor decides the site</text>
+<rect x="404" y="34" width="344" height="224" rx="8" fill="#FFFFFF" stroke="#2563EB" stroke-width="1.4"/>
+<text x="576" y="54" font-family="DejaVu Sans" font-size="9.6" fill="#2563EB" text-anchor="middle" font-weight="bold">FOUR SECTORS</text>
+<rect x="420" y="74" width="312" height="36" rx="5" fill="#DBEAFE" stroke="#CBD5E1" stroke-width="1.0"/>
+<text x="432" y="89" font-family="DejaVu Sans" font-size="9" fill="#0E1F40" text-anchor="start" font-weight="bold">primary</text>
+<text x="432" y="103" font-family="DejaVu Sans" font-size="8" fill="#334155" text-anchor="start" font-weight="normal">farm, mine, forest</text>
+<rect x="420" y="118" width="312" height="36" rx="5" fill="#BFDBFE" stroke="#CBD5E1" stroke-width="1.0"/>
+<text x="432" y="133" font-family="DejaVu Sans" font-size="9" fill="#0E1F40" text-anchor="start" font-weight="bold">secondary</text>
+<text x="432" y="147" font-family="DejaVu Sans" font-size="8" fill="#334155" text-anchor="start" font-weight="normal">factory, refinery, craft</text>
+<rect x="420" y="162" width="312" height="36" rx="5" fill="#93C5FD" stroke="#CBD5E1" stroke-width="1.0"/>
+<text x="432" y="177" font-family="DejaVu Sans" font-size="9" fill="#0E1F40" text-anchor="start" font-weight="bold">tertiary</text>
+<text x="432" y="191" font-family="DejaVu Sans" font-size="8" fill="#334155" text-anchor="start" font-weight="normal">shop, bank, school, bus</text>
+<rect x="420" y="206" width="312" height="36" rx="5" fill="#60A5FA" stroke="#CBD5E1" stroke-width="1.0"/>
+<text x="432" y="221" font-family="DejaVu Sans" font-size="9" fill="#0E1F40" text-anchor="start" font-weight="bold">quaternary</text>
+<text x="432" y="235" font-family="DejaVu Sans" font-size="8" fill="#334155" text-anchor="start" font-weight="normal">research, design, software</text>
+</svg>

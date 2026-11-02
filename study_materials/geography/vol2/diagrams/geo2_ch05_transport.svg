@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 258" width="760" height="258">
+  <defs>
+    <marker id="ag" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#008751"/>
+    </marker>
+    <marker id="an" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#0E1F40"/>
+    </marker>
+    <marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#D97706"/>
+    </marker>
+    <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#DC2626"/>
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="760" height="258" fill="#ECFDF5"/>
+<text x="380" y="22" font-family="DejaVu Sans" font-size="12.6" fill="#0E1F40" text-anchor="middle" font-weight="bold">The five modes weighed, and the two sides of a trade account</text>
+<rect x="12" y="34" width="430" height="214" rx="8" fill="#FFFFFF" stroke="#008751" stroke-width="1.4"/>
+<text x="227" y="54" font-family="DejaVu Sans" font-size="9.6" fill="#008751" text-anchor="middle" font-weight="bold">CHOOSING A MODE</text>
+<text x="34" y="82" font-family="DejaVu Sans" font-size="8.6" fill="#0E1F40" text-anchor="start" font-weight="bold">road</text>
+<rect x="96" y="72" width="202.4" height="14" rx="3" fill="#A7F3D0" stroke="#008751" stroke-width="0.8"/>
+<text x="306.4" y="82" font-family="DejaVu Sans" font-size="7.6" fill="#334155" text-anchor="start" font-weight="normal">door to door, flexible, costly per tonne</text>
+<text x="34" y="116" font-family="DejaVu Sans" font-size="8.6" fill="#0E1F40" text-anchor="start" font-weight="bold">rail</text>
+<rect x="96" y="106" width="162.8" height="14" rx="3" fill="#A7F3D0" stroke="#008751" stroke-width="0.8"/>
+<text x="266.8" y="116" font-family="DejaVu Sans" font-size="7.6" fill="#334155" text-anchor="start" font-weight="normal">bulk, long haul, fixed route</text>
+<text x="34" y="150" font-family="DejaVu Sans" font-size="8.6" fill="#0E1F40" text-anchor="start" font-weight="bold">water</text>
+<rect x="96" y="140" width="132.0" height="14" rx="3" fill="#A7F3D0" stroke="#008751" stroke-width="0.8"/>
+<text x="236.0" y="150" font-family="DejaVu Sans" font-size="7.6" fill="#334155" text-anchor="start" font-weight="normal">cheapest per tonne, slowest</text>
+<text x="34" y="184" font-family="DejaVu Sans" font-size="8.6" fill="#0E1F40" text-anchor="start" font-weight="bold">air</text>
+<rect x="96" y="174" width="88.0" height="14" rx="3" fill="#A7F3D0" stroke="#008751" stroke-width="0.8"/>
+<text x="192.0" y="184" font-family="DejaVu Sans" font-size="7.6" fill="#334155" text-anchor="start" font-weight="normal">fastest, dearest, light goods</text>
+<text x="34" y="218" font-family="DejaVu Sans" font-size="8.6" fill="#0E1F40" text-anchor="start" font-weight="bold">pipeline</text>
+<rect x="96" y="208" width="52.800000000000004" height="14" rx="3" fill="#A7F3D0" stroke="#008751" stroke-width="0.8"/>
+<text x="156.8" y="218" font-family="DejaVu Sans" font-size="7.6" fill="#334155" text-anchor="start" font-weight="normal">liquids and gas, continuous</text>
+<text x="227" y="240" font-family="DejaVu Sans" font-size="7.8" fill="#64748B" text-anchor="middle" font-weight="normal">bar length = relative share of Nigeria's freight</text>
+<rect x="454" y="34" width="294" height="214" rx="8" fill="#FFFFFF" stroke="#2563EB" stroke-width="1.4"/>
+<text x="601" y="54" font-family="DejaVu Sans" font-size="9.6" fill="#2563EB" text-anchor="middle" font-weight="bold">TRADE BALANCE</text>
+<text x="601" y="84" font-family="DejaVu Sans" font-size="8.6" fill="#0E1F40" text-anchor="middle" font-weight="bold">visible trade</text>
+<text x="601" y="100" font-family="DejaVu Sans" font-size="8" fill="#334155" text-anchor="middle" font-weight="normal">goods in and out</text>
+<text x="601" y="126" font-family="DejaVu Sans" font-size="8.6" fill="#0E1F40" text-anchor="middle" font-weight="bold">invisible trade</text>
+<text x="601" y="142" font-family="DejaVu Sans" font-size="8" fill="#334155" text-anchor="middle" font-weight="normal">services, freight, tourism</text>
+<rect x="480" y="160" width="240" height="34" rx="5" fill="#ECFDF5" stroke="#008751" stroke-width="1.0"/>
+<text x="600" y="174" font-family="DejaVu Sans" font-size="9" fill="#0E1F40" text-anchor="middle" font-weight="bold">exports − imports</text>
+<text x="600" y="188" font-family="DejaVu Sans" font-size="8" fill="#334155" text-anchor="middle" font-weight="normal">= balance of trade</text>
+<text x="601" y="216" font-family="DejaVu Sans" font-size="8" fill="#64748B" text-anchor="middle" font-weight="normal">surplus: +     deficit: −</text>
+<text x="601" y="232" font-family="DejaVu Sans" font-size="7.8" fill="#64748B" text-anchor="middle" font-weight="normal">add invisibles → balance of payments</text>
+</svg>

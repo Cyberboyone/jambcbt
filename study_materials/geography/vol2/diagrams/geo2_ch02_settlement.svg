@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 258" width="760" height="258">
+  <defs>
+    <marker id="ag" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#008751"/>
+    </marker>
+    <marker id="an" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#0E1F40"/>
+    </marker>
+    <marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#D97706"/>
+    </marker>
+    <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#DC2626"/>
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="760" height="258" fill="#ECFDF5"/>
+<text x="380" y="22" font-family="DejaVu Sans" font-size="12.6" fill="#0E1F40" text-anchor="middle" font-weight="bold">Why a site is chosen, how a town grows, and how towns rank</text>
+<rect x="12" y="34" width="236" height="214" rx="8" fill="#FFFFFF" stroke="#008751" stroke-width="1.4"/>
+<text x="130" y="54" font-family="DejaVu Sans" font-size="9.6" fill="#008751" text-anchor="middle" font-weight="bold">SITE FACTORS</text>
+<rect x="26" y="64" width="208" height="26" rx="5" fill="#ECFDF5" stroke="#CBD5E1" stroke-width="0.9"/>
+<text x="34" y="81" font-family="DejaVu Sans" font-size="8.2" fill="#334155" text-anchor="start" font-weight="normal">water — a spring, a bend, a confluence</text>
+<rect x="26" y="96" width="208" height="26" rx="5" fill="#ECFDF5" stroke="#CBD5E1" stroke-width="0.9"/>
+<text x="34" y="113" font-family="DejaVu Sans" font-size="8.2" fill="#334155" text-anchor="start" font-weight="normal">defence — a hill top, an island, a marsh</text>
+<rect x="26" y="128" width="208" height="26" rx="5" fill="#ECFDF5" stroke="#CBD5E1" stroke-width="0.9"/>
+<text x="34" y="145" font-family="DejaVu Sans" font-size="8.2" fill="#334155" text-anchor="start" font-weight="normal">building land — dry, flat, above flood</text>
+<rect x="26" y="160" width="208" height="26" rx="5" fill="#ECFDF5" stroke="#CBD5E1" stroke-width="0.9"/>
+<text x="34" y="177" font-family="DejaVu Sans" font-size="8.2" fill="#334155" text-anchor="start" font-weight="normal">routes — a bridge, a pass, a crossroad</text>
+<rect x="26" y="192" width="208" height="26" rx="5" fill="#ECFDF5" stroke="#CBD5E1" stroke-width="0.9"/>
+<text x="34" y="209" font-family="DejaVu Sans" font-size="8.2" fill="#334155" text-anchor="start" font-weight="normal">resources — a mine, a market, a port</text>
+<rect x="254" y="34" width="250" height="214" rx="8" fill="#FFFFFF" stroke="#2563EB" stroke-width="1.4"/>
+<text x="379" y="54" font-family="DejaVu Sans" font-size="9.6" fill="#2563EB" text-anchor="middle" font-weight="bold">THE RINGS OF A CITY</text>
+<circle cx="379" cy="150" r="74" fill="#EFF6FF" stroke="#2563EB" stroke-width="1.1" opacity="0.9"/>
+<circle cx="379" cy="150" r="56" fill="#DBEAFE" stroke="#2563EB" stroke-width="1.1" opacity="0.9"/>
+<circle cx="379" cy="150" r="38" fill="#BFDBFE" stroke="#2563EB" stroke-width="1.1" opacity="0.9"/>
+<circle cx="379" cy="150" r="20" fill="#93C5FD" stroke="#2563EB" stroke-width="1.1" opacity="0.9"/>
+<text x="379" y="153" font-family="DejaVu Sans" font-size="8" fill="#0E1F40" text-anchor="middle" font-weight="bold">CBD</text>
+<text x="379" y="122" font-family="DejaVu Sans" font-size="7.6" fill="#334155" text-anchor="middle" font-weight="normal">inner city</text>
+<text x="379" y="104" font-family="DejaVu Sans" font-size="7.6" fill="#334155" text-anchor="middle" font-weight="normal">suburbs</text>
+<text x="379" y="86" font-family="DejaVu Sans" font-size="7.6" fill="#334155" text-anchor="middle" font-weight="normal">commuter belt</text>
+<rect x="510" y="34" width="238" height="214" rx="8" fill="#FFFFFF" stroke="#7C3AED" stroke-width="1.4"/>
+<text x="629" y="54" font-family="DejaVu Sans" font-size="9.6" fill="#7C3AED" text-anchor="middle" font-weight="bold">THE HIERARCHY</text>
+<rect x="524.0" y="76" width="210" height="26" rx="4" fill="#EDE9FE" stroke="#7C3AED" stroke-width="1.0"/>
+<text x="629" y="93" font-family="DejaVu Sans" font-size="8.4" fill="#0E1F40" text-anchor="middle" font-weight="bold">conurbation</text>
+<rect x="549.0" y="106" width="160" height="26" rx="4" fill="#EDE9FE" stroke="#7C3AED" stroke-width="1.0"/>
+<text x="629" y="123" font-family="DejaVu Sans" font-size="8.4" fill="#0E1F40" text-anchor="middle" font-weight="bold">city</text>
+<rect x="571.0" y="136" width="116" height="26" rx="4" fill="#EDE9FE" stroke="#7C3AED" stroke-width="1.0"/>
+<text x="629" y="153" font-family="DejaVu Sans" font-size="8.4" fill="#0E1F40" text-anchor="middle" font-weight="bold">town</text>
+<rect x="591.0" y="166" width="76" height="26" rx="4" fill="#EDE9FE" stroke="#7C3AED" stroke-width="1.0"/>
+<text x="629" y="183" font-family="DejaVu Sans" font-size="8.4" fill="#0E1F40" text-anchor="middle" font-weight="bold">village</text>
+<rect x="609.0" y="196" width="40" height="26" rx="4" fill="#EDE9FE" stroke="#7C3AED" stroke-width="1.0"/>
+<text x="629" y="213" font-family="DejaVu Sans" font-size="8.4" fill="#0E1F40" text-anchor="middle" font-weight="bold">hamlet</text>
+<text x="629" y="232" font-family="DejaVu Sans" font-size="7.8" fill="#64748B" text-anchor="middle" font-weight="normal">fewer, larger, more services</text>
+</svg>

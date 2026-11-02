@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 150" width="760" height="150">
+  <defs>
+    <marker id="ag" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#008751"/>
+    </marker>
+    <marker id="an" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#0E1F40"/>
+    </marker>
+    <marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#D97706"/>
+    </marker>
+    <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#DC2626"/>
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="760" height="150" fill="#ECFDF5"/>
+<text x="380" y="24" font-family="DejaVu Sans" font-size="13" fill="#0E1F40" text-anchor="middle" font-weight="bold">GEOGRAPHY VOLUME 2 — PEOPLE, PLACES AND THE NIGERIAN SPACE</text>
+<rect x="12" y="44" width="176" height="62" rx="8" fill="#FFFFFF" stroke="#008751" stroke-width="1.5"/>
+<rect x="12" y="44" width="176" height="5" rx="2.5" fill="#008751"/>
+<text x="100.0" y="72" font-family="DejaVu Sans" font-size="10.5" fill="#008751" text-anchor="middle" font-weight="bold">POPULATION</text>
+<text x="100.0" y="90" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="middle" font-weight="normal">growth · structure · movement</text>
+<rect x="196" y="44" width="176" height="62" rx="8" fill="#FFFFFF" stroke="#2563EB" stroke-width="1.5"/>
+<rect x="196" y="44" width="176" height="5" rx="2.5" fill="#2563EB"/>
+<text x="284.0" y="72" font-family="DejaVu Sans" font-size="10.5" fill="#2563EB" text-anchor="middle" font-weight="bold">SETTLEMENT</text>
+<text x="284.0" y="90" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="middle" font-weight="normal">village · town · city</text>
+<rect x="380" y="44" width="176" height="62" rx="8" fill="#FFFFFF" stroke="#7C3AED" stroke-width="1.5"/>
+<rect x="380" y="44" width="176" height="5" rx="2.5" fill="#7C3AED"/>
+<text x="468.0" y="72" font-family="DejaVu Sans" font-size="10.5" fill="#7C3AED" text-anchor="middle" font-weight="bold">THE ECONOMY</text>
+<text x="468.0" y="90" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="middle" font-weight="normal">farm · mine · factory</text>
+<rect x="564" y="44" width="176" height="62" rx="8" fill="#FFFFFF" stroke="#D97706" stroke-width="1.5"/>
+<rect x="564" y="44" width="176" height="5" rx="2.5" fill="#D97706"/>
+<text x="652.0" y="72" font-family="DejaVu Sans" font-size="10.5" fill="#D97706" text-anchor="middle" font-weight="bold">REGIONS</text>
+<text x="652.0" y="90" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="middle" font-weight="normal">Nigeria · West Africa · world</text>
+<text x="380" y="126" font-family="DejaVu Sans" font-size="9.2" fill="#64748B" text-anchor="middle" font-weight="normal">eight chapters · thirty-two worked examples · 520 practice questions</text>
+</svg>

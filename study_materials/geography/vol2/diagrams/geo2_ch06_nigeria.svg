@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 326" width="760" height="326">
+  <defs>
+    <marker id="ag" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#008751"/>
+    </marker>
+    <marker id="an" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#0E1F40"/>
+    </marker>
+    <marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#D97706"/>
+    </marker>
+    <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#DC2626"/>
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="760" height="326" fill="#ECFDF5"/>
+<text x="380" y="22" font-family="DejaVu Sans" font-size="12.6" fill="#0E1F40" text-anchor="middle" font-weight="bold">The six zones, their capitals and what each one is known for</text>
+<rect x="12" y="36" width="358" height="64" rx="7" fill="#FFFFFF" stroke="#008751" stroke-width="1.3"/>
+<rect x="12" y="36" width="5" height="64" rx="2.5" fill="#008751"/>
+<text x="28" y="56" font-family="DejaVu Sans" font-size="9" fill="#008751" text-anchor="start" font-weight="bold">NORTH-WEST</text>
+<text x="28" y="72" font-family="DejaVu Sans" font-size="7.8" fill="#334155" text-anchor="start" font-weight="normal">Sokoto · Kano · Kaduna</text>
+<text x="28" y="88" font-family="DejaVu Sans" font-size="7.8" fill="#64748B" text-anchor="start" font-weight="normal">groundnut, cotton, hides</text>
+<rect x="390" y="36" width="358" height="64" rx="7" fill="#FFFFFF" stroke="#2563EB" stroke-width="1.3"/>
+<rect x="390" y="36" width="5" height="64" rx="2.5" fill="#2563EB"/>
+<text x="406" y="56" font-family="DejaVu Sans" font-size="9" fill="#2563EB" text-anchor="start" font-weight="bold">NORTH-EAST</text>
+<text x="406" y="72" font-family="DejaVu Sans" font-size="7.8" fill="#334155" text-anchor="start" font-weight="normal">Maiduguri · Yola</text>
+<text x="406" y="88" font-family="DejaVu Sans" font-size="7.8" fill="#64748B" text-anchor="start" font-weight="normal">cattle, gum arabic, fish</text>
+<rect x="201" y="108" width="358" height="64" rx="7" fill="#FFFFFF" stroke="#7C3AED" stroke-width="1.3"/>
+<rect x="201" y="108" width="5" height="64" rx="2.5" fill="#7C3AED"/>
+<text x="217" y="128" font-family="DejaVu Sans" font-size="9" fill="#7C3AED" text-anchor="start" font-weight="bold">NORTH-CENTRAL</text>
+<text x="217" y="144" font-family="DejaVu Sans" font-size="7.8" fill="#334155" text-anchor="start" font-weight="normal">Jos · Abuja · Lokoja</text>
+<text x="217" y="160" font-family="DejaVu Sans" font-size="7.8" fill="#64748B" text-anchor="start" font-weight="normal">tin, yam, the confluence</text>
+<rect x="12" y="180" width="358" height="64" rx="7" fill="#FFFFFF" stroke="#D97706" stroke-width="1.3"/>
+<rect x="12" y="180" width="5" height="64" rx="2.5" fill="#D97706"/>
+<text x="28" y="200" font-family="DejaVu Sans" font-size="9" fill="#D97706" text-anchor="start" font-weight="bold">SOUTH-WEST</text>
+<text x="28" y="216" font-family="DejaVu Sans" font-size="7.8" fill="#334155" text-anchor="start" font-weight="normal">Ibadan · Lagos · Akure</text>
+<text x="28" y="232" font-family="DejaVu Sans" font-size="7.8" fill="#64748B" text-anchor="start" font-weight="normal">cocoa, oil palm, ports</text>
+<rect x="390" y="180" width="358" height="64" rx="7" fill="#FFFFFF" stroke="#DC2626" stroke-width="1.3"/>
+<rect x="390" y="180" width="5" height="64" rx="2.5" fill="#DC2626"/>
+<text x="406" y="200" font-family="DejaVu Sans" font-size="9" fill="#DC2626" text-anchor="start" font-weight="bold">SOUTH-EAST</text>
+<text x="406" y="216" font-family="DejaVu Sans" font-size="7.8" fill="#334155" text-anchor="start" font-weight="normal">Enugu · Onitsha · Aba</text>
+<text x="406" y="232" font-family="DejaVu Sans" font-size="7.8" fill="#64748B" text-anchor="start" font-weight="normal">coal, palm produce, trade</text>
+<rect x="201" y="252" width="358" height="64" rx="7" fill="#FFFFFF" stroke="#008751" stroke-width="1.3"/>
+<rect x="201" y="252" width="5" height="64" rx="2.5" fill="#008751"/>
+<text x="217" y="272" font-family="DejaVu Sans" font-size="9" fill="#008751" text-anchor="start" font-weight="bold">SOUTH-SOUTH</text>
+<text x="217" y="288" font-family="DejaVu Sans" font-size="7.8" fill="#334155" text-anchor="start" font-weight="normal">Port Harcourt · Benin</text>
+<text x="217" y="304" font-family="DejaVu Sans" font-size="7.8" fill="#64748B" text-anchor="start" font-weight="normal">oil, gas, timber, fish</text>
+</svg>
