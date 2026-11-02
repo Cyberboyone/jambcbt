@@ -17,7 +17,7 @@ the power**, and **where does the constitution say it stops**.
 
 | Vol. | Title | Coverage | Status |
 |---|---|---|---|
-| 1 | The State, the Constitution and the Organs of Government | the study of government, types of government and ideologies, constitutions and the Nigerian constitutional chain, federalism, the three organs, parties, pressure groups and elections, citizenship and rights, public administration, and Nigeria in the world | **delivered — 186 pp** |
+| 1 | The State, the Constitution and the Organs of Government | the study of government, types of government and ideologies, constitutions and the Nigerian constitutional chain, federalism, the three organs, parties, pressure groups and elections, citizenship and rights, public administration, and Nigeria in the world | **delivered — 183 pp** |
 
 The six chapters follow the four parts of the JAMB syllabus in order: Part I
 (elements of government) in Chapters 1 and 3–5, Part II (political development in
@@ -83,7 +83,7 @@ the build script are committed so any volume can be rebuilt from scratch.
 
 | Volume | Pages | Build | Contents |
 |---|---|---|---|
-| 1 — The State, the Constitution and the Organs of Government | 186 | 4.1 MB, 0 warnings | six chapters, 2 papers, appendices A–K, Contents baked at p. 9 |
+| 1 — The State, the Constitution and the Organs of Government | 183 | 4.4 MB, 0 warnings | six chapters, 2 papers, appendices A–K, Contents baked on one page at p. 9 |
 
 The volume was rebuilt until three things were true at once: **0 Typst warnings**,
 **no skipped includes** (the build silently drops a missing file, so the skip list is
@@ -91,8 +91,10 @@ printed at the end of every run), and **no page more than a third empty**. The e
 space at the foot of a page is a layout fact, not a text one: Typst will not split an
 unbreakable box, so a box that does not fit jumps to the next page and leaves the gap
 behind. The fix is either to move the box or to fill the page, which is why the
-appendix tails carry the last of their teaching — D.8, F.6, J.6, B.6 — rather than a
-blank half-page.
+appendix tails carry the last of their teaching — D.8–D.9, F.6, G.13, H.4, J.6, B.6 —
+rather than a blank half-page. The Contents is a single page of 149 rows in two
+hand-split columns: Typst fills a whole column before starting the next, so the list
+is halved by hand to keep the two columns level.
 
 The drill answer runs are tuned by `_fit.json` (read by `tools/drills_gov1.py`); the
 pads there are per chapter because the six drills end at different depths.

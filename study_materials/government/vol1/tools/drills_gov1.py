@@ -30,12 +30,12 @@ BANK = {1: DRILL_1, 2: DRILL_2, 3: DRILL_3, 4: DRILL_4, 5: DRILL_5, 6: DRILL_6}
 # chapter: (title, last section number used in the chapter, so the drill
 #           continues the numbering of that chapter)
 CHAPTERS = {
-    1: ("the state and the forms of government", 7),
-    2: ("constitutions and constitutional development", 7),
-    3: ("the organs of government", 7),
-    4: ("parties, pressure groups and elections", 6),
-    5: ("citizenship, rights and public administration", 7),
-    6: ("foreign policy and international organisations", 5),
+    1: ("the state and the forms of government", 7, "The Study of Government"),
+    2: ("constitutions and constitutional development", 7, "Constitutional Development"),
+    3: ("the organs of government", 7, "The Organs of Government"),
+    4: ("parties, pressure groups and elections", 6, "Parties, Groups and Elections"),
+    5: ("citizenship, rights and public administration", 7, "Citizenship and Rights"),
+    6: ("foreign policy and international organisations", 5, "Nigeria in the World"),
 }
 
 LETTERS = "ABCD"
@@ -106,7 +106,7 @@ def mcq(num, stem, opts):
 
 
 def render_chapter(ch):
-    title, last_section = CHAPTERS[ch]
+    title, last_section, running = CHAPTERS[ch]
     qs = BANK[ch]
     items = balance(qs, seed=1000 + ch * 37)
     n = len(items)
@@ -115,7 +115,7 @@ def render_chapter(ch):
     lines = ['#import "template.typ": *', ""]
     lines += [
         "",
-        f'#current-chapter.update("Chapter {ch}: {title} — Drills")',
+        f'#current-chapter.update("Chapter {ch}: {running} — Drills")',
         "",
         "#block(",
         "  width: 100%,",
@@ -162,7 +162,7 @@ def render_chapter(ch):
         "",
     ]
     lines += [
-        f'#current-chapter.update("Chapter {ch}: {title} — Drills")',
+        f'#current-chapter.update("Chapter {ch}: {running} — Drills")',
         "",
         "=== Answer Key and Score Bands",
         "",

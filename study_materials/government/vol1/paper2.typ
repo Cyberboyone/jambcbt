@@ -487,164 +487,164 @@
   #block(breakable: false)[
   === Complete Solutions
 
-  #sol-item(1, "C", dense: true, pad: 7.66pt)[
+  #sol-item(1, "C", dense: true, pad: 8.0pt)[
     Winning power through elections defines the party. Influencing policy is the pressure group's aim, and welfare and regulation are other bodies' work.
   ]
 
-  #sol-item(2, "D", dense: true, pad: 7.66pt)[
+  #sol-item(2, "D", dense: true, pad: 8.0pt)[
     Recruitment is one of the party's six functions. Elections, adjudication and currency belong to INEC, the courts and the central bank.
   ]
   ]
 
-  #sol-item(3, "B", dense: true, pad: 7.66pt)[
+  #sol-item(3, "B", dense: true, pad: 8.0pt)[
     A mass party. A cadre party is small and elite-led, a coalition is an alliance, and a pressure group does not contest power.
   ]
 
-  #sol-item(4, "C", dense: true, pad: 7.66pt)[
+  #sol-item(4, "C", dense: true, pad: 8.0pt)[
     Two-party, whether or not smaller parties exist. The test is which parties can win and alternate.
   ]
 
-  #sol-item(5, "C", dense: true, pad: 7.66pt)[
+  #sol-item(5, "C", dense: true, pad: 8.0pt)[
     A clear alternation is its merit. Proportionality, small-party leverage and coalitions belong to the multi-party form.
   ]
 
-  #sol-item(6, "C", dense: true, pad: 7.66pt)[
+  #sol-item(6, "C", dense: true, pad: 8.0pt)[
     The aim, not the method, is the difference: influence without office. Pressure groups certainly have members, lobby and meet.
   ]
 
-  #sol-item(7, "B", dense: true, pad: 7.66pt)[
+  #sol-item(7, "B", dense: true, pad: 8.0pt)[
     A sectional group protecting its members' interests. A promotional group promotes a cause, and the NLC neither contests elections nor provides a statutory service.
   ]
 
-  #sol-item(8, "C", dense: true, pad: 7.66pt)[
+  #sol-item(8, "C", dense: true, pad: 8.0pt)[
     Demonstration, petition, strike and lobbying are its methods. Nominating candidates is a party's, and the other two are state functions.
   ]
 
-  #sol-item(9, "B", dense: true, pad: 7.66pt)[
+  #sol-item(9, "B", dense: true, pad: 8.0pt)[
     Choosing officeholders by vote. Registration, law-making and appropriation are separate processes.
   ]
 
-  #sol-item(10, "B", dense: true, pad: 7.66pt)[
+  #sol-item(10, "B", dense: true, pad: 8.0pt)[
     The franchise. Candidacy is the right to stand, a mandate is a claim from victory, and a plebiscite is a direct vote on a question.
   ]
 
-  #sol-item(11, "A", dense: true, pad: 7.66pt)[
+  #sol-item(11, "A", dense: true, pad: 8.0pt)[
     Universal adult suffrage at eighteen with registration. Property, literacy and tax qualifications were features of the colonial franchise.
   ]
 
-  #sol-item(12, "A", dense: true, pad: 7.66pt)[
+  #sol-item(12, "A", dense: true, pad: 8.0pt)[
     First past the post — a plurality is enough. The second ballot requires a run-off, and proportional representation allocates seats by vote share.
   ]
 
-  #sol-item(13, "A", dense: true, pad: 7.66pt)[
+  #sol-item(13, "A", dense: true, pad: 8.0pt)[
     Proportionality is its purpose. It tends to produce coalitions rather than strong single-party majorities, and its counting is more complex.
   ]
 
-  #sol-item(14, "C", dense: true, pad: 7.66pt)[
+  #sol-item(14, "C", dense: true, pad: 8.0pt)[
     The Independent National Electoral Commission, which also registers parties and voters and announces results.
   ]
 
-  #sol-item(15, "A", dense: true, pad: 7.66pt)[
+  #sol-item(15, "A", dense: true, pad: 8.0pt)[
     Gerrymandering — manipulating constituency boundaries — is malpractice. The other three are features of a fair election.
   ]
 
-  #sol-item(16, "D", dense: true, pad: 7.66pt)[
+  #sol-item(16, "D", dense: true, pad: 8.0pt)[
     Independence and secrecy are the conditions; the other options remove the choice or the count's integrity.
   ]
 
-  #sol-item(17, "D", dense: true, pad: 7.66pt)[
+  #sol-item(17, "D", dense: true, pad: 8.0pt)[
     It is the climate of opinion among adults. A government's policy, a census and an editorial are separate things.
   ]
 
-  #sol-item(18, "B", dense: true, pad: 7.66pt)[
+  #sol-item(18, "B", dense: true, pad: 8.0pt)[
     Their scrutiny and information function is their claim to the name. They exercise no legislative, taxing or electoral power.
   ]
 
-  #sol-item(19, "A", dense: true, pad: 7.66pt)[
+  #sol-item(19, "A", dense: true, pad: 8.0pt)[
     The mandate is the claimed authorisation of its programme. Legality, property and immunity are different matters.
   ]
 
-  #sol-item(20, "D", dense: true, pad: 7.66pt)[
+  #sol-item(20, "D", dense: true, pad: 8.0pt)[
     Section 25 ties birth to a parent or grandparent of an indigenous community. Passport, property and residence are not the test.
   ]
 
-  #sol-item(21, "A", dense: true, pad: 7.66pt)[
+  #sol-item(21, "A", dense: true, pad: 8.0pt)[
     Registration under section 26. Naturalisation is for a resident of fifteen years who is not married to a citizen.
   ]
 
-  #sol-item(22, "C", dense: true, pad: 7.66pt)[
+  #sol-item(22, "C", dense: true, pad: 8.0pt)[
     Fifteen years, with good character, a language of the community and local acceptance.
   ]
 
-  #sol-item(23, "B", dense: true, pad: 7.66pt)[
+  #sol-item(23, "B", dense: true, pad: 8.0pt)[
     Dual citizenship is permitted without restriction as to sex or residence.
   ]
 
-  #sol-item(24, "C", dense: true, pad: 7.66pt)[
+  #sol-item(24, "C", dense: true, pad: 8.0pt)[
     Fair hearing is section 36, in Chapter IV. Employment, shelter and education are Chapter II objectives, which the courts will not enforce directly.
   ]
 
-  #sol-item(25, "C", dense: true, pad: 7.66pt)[
+  #sol-item(25, "C", dense: true, pad: 8.0pt)[
     Section 46 gives the High Court jurisdiction to enforce Chapter IV rights.
   ]
 
-  #sol-item(26, "B", dense: true, pad: 7.66pt)[
+  #sol-item(26, "B", dense: true, pad: 8.0pt)[
     It is the ombudsman: it investigates administrative injustice and recommends remedies.
   ]
 
-  #sol-item(27, "D", dense: true, pad: 7.66pt)[
+  #sol-item(27, "D", dense: true, pad: 8.0pt)[
     Permanence means continuity across governments, not immortality of officials, who do retire.
   ]
 
-  #sol-item(28, "B", dense: true, pad: 7.66pt)[
+  #sol-item(28, "B", dense: true, pad: 8.0pt)[
     The power of the purse and committee scrutiny are the legislative controls. Appointments are executive, and the courts are a separate control.
   ]
 
-  #sol-item(29, "A", dense: true, pad: 7.66pt)[
+  #sol-item(29, "A", dense: true, pad: 8.0pt)[
     A public corporation. A ministry has no separate personality, and a council and a cooperative are different institutions.
   ]
 
-  #sol-item(30, "C", dense: true, pad: 7.66pt)[
+  #sol-item(30, "C", dense: true, pad: 8.0pt)[
     Interference and losses are the problems, and they are the case for privatisation.
   ]
 
-  #sol-item(31, "B", dense: true, pad: 7.66pt)[
+  #sol-item(31, "B", dense: true, pad: 8.0pt)[
     Section 7 guarantees a system of democratically elected local government councils.
   ]
 
-  #sol-item(32, "A", dense: true, pad: 7.66pt)[
+  #sol-item(32, "A", dense: true, pad: 8.0pt)[
     774. The 1976 reform created a uniform system of 301, and the number has grown with state creation.
   ]
 
-  #sol-item(33, "A", dense: true, pad: 7.66pt)[
+  #sol-item(33, "A", dense: true, pad: 8.0pt)[
     Market tolls are local revenue for a local service. The other three are federal functions.
   ]
 
-  #sol-item(34, "D", dense: true, pad: 7.66pt)[
+  #sol-item(34, "D", dense: true, pad: 8.0pt)[
     The statutory allocation is the main source, along with rates, tolls and a share of state revenue.
   ]
 
-  #sol-item(35, "C", dense: true, pad: 7.66pt)[
+  #sol-item(35, "C", dense: true, pad: 8.0pt)[
     The whole of a state's external action for its national interest. The ministry is an instrument, and membership and treaties are means.
   ]
 
-  #sol-item(36, "B", dense: true, pad: 7.66pt)[
+  #sol-item(36, "B", dense: true, pad: 8.0pt)[
     The doctrine states priorities: the continent comes first, and Nigeria acts globally largely through Africa.
   ]
 
-  #sol-item(37, "C", dense: true, pad: 7.66pt)[
+  #sol-item(37, "C", dense: true, pad: 8.0pt)[
     The West African neighbourhood, where Nigeria's immediate security and trade interests lie.
   ]
 
-  #sol-item(38, "D", dense: true, pad: 7.66pt)[
+  #sol-item(38, "D", dense: true, pad: 8.0pt)[
     The Treaty of Lagos, signed on 28 May 1975; the 1993 revised treaty strengthened the Community.
   ]
 
-  #sol-item(39, "D", dense: true, pad: 7.66pt)[
+  #sol-item(39, "D", dense: true, pad: 8.0pt)[
     Article 24 of the Charter gives the Security Council that responsibility, with the power to impose sanctions and authorise force.
   ]
 
-  #sol-item(40, "D", dense: true, pad: 7.66pt)[
+  #sol-item(40, "D", dense: true, pad: 8.0pt)[
     Five — China, France, Russia, the United Kingdom and the United States. The Council has fifteen members in all.
   ]
 

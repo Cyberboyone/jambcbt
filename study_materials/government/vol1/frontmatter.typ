@@ -511,11 +511,16 @@ Every question in the paper asks you to do one of five things, and the verb tell
 // page without telling a reader anything the appendix headings do not.
 #let rows = toc-rows.filter(r => r.at(0) == 1 or (
   r.at(1).len() > 3
-  and r.at(1).at(0) in "0123456789"
+  and (r.at(1).at(0) in "0123456789" or r.at(1).at(0) in "ABCDEFGHIJK")
   and r.at(1).at(1) == "."
-  and not r.at(1).contains("Practice Drill")
+  and not r.at(1).contains("in the Exam Hall")
   and not r.at(1).contains("Complete Solutions")
   and not r.at(1).contains("Answer Key")
+  and not r.at(1).starts-with("Section ")
+  and not r.at(1).contains("Score Log")
+  and not r.at(1).contains("Rough Work")
+  and not r.at(1).contains("How This Paper Is Marked")
+  and not r.at(1).contains("Where the Missed Marks")
 ))
 
-#toc-two-column(rows, cols: 2, compact: true)
+#toc-two-column(rows, cols: 2, compact: true, dense: true)

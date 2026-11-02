@@ -939,7 +939,7 @@
 #v(3pt)
 
 #table(
-  columns: (2.2fr, 0.55fr, 0.7fr, 0.7fr, 0.75fr, 1.0fr),
+  columns: (2.45fr, 0.5fr, 0.62fr, 0.62fr, 0.7fr, 0.95fr),
   inset: (x: 5pt, y: 4.2pt),
   align: (left + horizon, center + horizon, center + horizon, center + horizon, center + horizon, center + horizon),
   stroke: 0.5pt + jamb-border,
@@ -953,10 +953,10 @@
     text(font: "DejaVu Sans", size: 8.0pt, weight: "bold", fill: white)[Retest on],
   ),
   [Ch 1 — the state and its forms], [20], [#v(9pt)], [#v(9pt)], [#v(9pt)], [#v(9pt)],
-  [Ch 2 — the constitutional chain], [20], [#v(9pt)], [#v(9pt)], [#v(9pt)], [#v(9pt)],
-  [Ch 3 — the organs and their checks], [20], [#v(9pt)], [#v(9pt)], [#v(9pt)], [#v(9pt)],
-  [Ch 4 — parties, groups and elections], [20], [#v(9pt)], [#v(9pt)], [#v(9pt)], [#v(9pt)],
-  [Ch 5 — citizens, rights and administration], [20], [#v(9pt)], [#v(9pt)], [#v(9pt)], [#v(9pt)],
+  [Ch 2 — the constitution], [20], [#v(9pt)], [#v(9pt)], [#v(9pt)], [#v(9pt)],
+  [Ch 3 — the organs], [20], [#v(9pt)], [#v(9pt)], [#v(9pt)], [#v(9pt)],
+  [Ch 4 — parties and elections], [20], [#v(9pt)], [#v(9pt)], [#v(9pt)], [#v(9pt)],
+  [Ch 5 — citizens and rights], [20], [#v(9pt)], [#v(9pt)], [#v(9pt)], [#v(9pt)],
   [Ch 6 — Nigeria in the world], [20], [#v(9pt)], [#v(9pt)], [#v(9pt)], [#v(9pt)],
   [*The bank*], [*120*], [#v(9pt)], [#v(9pt)], [—], [—],
 )
@@ -991,484 +991,484 @@
   #block(breakable: false)[
   == Complete Solutions
 
-  #sol-item(1, "A", dense: true, pad: 5.47pt)[
+  #sol-item(1, "A", dense: true, pad: 6.0pt)[
     Chemistry is not part of the subject. Institutions, power and the citizen's relationship with the state are its core.
   ]
 
-  #sol-item(2, "B", dense: true, pad: 5.47pt)[
+  #sol-item(2, "B", dense: true, pad: 6.0pt)[
     It teaches what the citizen may claim and what the state may demand. Employment, law-making and adjudication are not its promises.
   ]
   ]
 
-  #sol-item(3, "B", dense: true, pad: 5.47pt)[
+  #sol-item(3, "B", dense: true, pad: 6.0pt)[
     The government is the temporary machinery; the state is the permanent legal and territorial unit. The state owns the territory, and governments can be removed.
   ]
 
-  #sol-item(4, "C", dense: true, pad: 5.47pt)[
+  #sol-item(4, "C", dense: true, pad: 6.0pt)[
     Power is concentrated at the centre, which may devolve some of it by statute. Sharing power between levels is federalism, and even a unitary state has a constitution.
   ]
 
-  #sol-item(5, "D", dense: true, pad: 5.47pt)[
+  #sol-item(5, "D", dense: true, pad: 6.0pt)[
     A loose union in which the centre acts on the states rather than on their citizens. It is the opposite of a unitary system and looser than a federation.
   ]
 
-  #sol-item(6, "B", dense: true, pad: 5.47pt)[
+  #sol-item(6, "B", dense: true, pad: 6.0pt)[
     Peaceful change through the ballot is democracy's central merit, along with accountability and the protection of rights. Economic equality is not guaranteed, elections are its method, and concentrated power is its opposite.
   ]
 
-  #sol-item(7, "C", dense: true, pad: 5.47pt)[
+  #sol-item(7, "C", dense: true, pad: 6.0pt)[
     Plutocracy — rule by wealth. Aristocracy is rule by a supposed best, theocracy by religious authority, and bureaucracy by officials.
   ]
 
-  #sol-item(8, "A", dense: true, pad: 5.47pt)[
+  #sol-item(8, "A", dense: true, pad: 6.0pt)[
     Suppression and control are the marks. Free elections, an independent judiciary and enforceable rights are the marks of constitutional government.
   ]
 
-  #sol-item(9, "D", dense: true, pad: 5.47pt)[
+  #sol-item(9, "D", dense: true, pad: 6.0pt)[
     Legal sovereignty is the final law-making authority. Political sovereignty is the capacity to command, external sovereignty is independence, and popular support is legitimacy.
   ]
 
-  #sol-item(10, "D", dense: true, pad: 5.47pt)[
+  #sol-item(10, "D", dense: true, pad: 6.0pt)[
     It commands obedience (political sovereignty) but lacks electoral legitimacy. Force can produce obedience; it cannot produce the acceptance that legitimacy means.
   ]
 
-  #sol-item(11, "B", dense: true, pad: 5.47pt)[
+  #sol-item(11, "B", dense: true, pad: 6.0pt)[
     A mandate is the claim to have been authorised by the voters. Legality, military support and recognition are different sources of authority.
   ]
 
-  #sol-item(12, "B", dense: true, pad: 5.47pt)[
+  #sol-item(12, "B", dense: true, pad: 6.0pt)[
     Socialism in practice nationalises the commanding heights and tolerates small business. Capitalism leaves ownership private, and feudalism and fascism are not about that division.
   ]
 
-  #sol-item(13, "D", dense: true, pad: 5.47pt)[
+  #sol-item(13, "D", dense: true, pad: 6.0pt)[
     It keeps private ownership and adds state provision of health, education and income support. It is not a separate ownership system, and it is not a command economy.
   ]
 
-  #sol-item(14, "C", dense: true, pad: 5.47pt)[
+  #sol-item(14, "C", dense: true, pad: 6.0pt)[
     Inequality and market failure are the standard criticisms. Capitalism encourages initiative and the profit motive, and it rests on private property.
   ]
 
-  #sol-item(15, "C", dense: true, pad: 5.47pt)[
+  #sol-item(15, "C", dense: true, pad: 6.0pt)[
     A government bound by its own rules illustrates constitutionalism. Suspension, amendment at will and defiance of courts are its opposites.
   ]
 
-  #sol-item(16, "C", dense: true, pad: 5.47pt)[
+  #sol-item(16, "C", dense: true, pad: 6.0pt)[
     The ordinary courts are the forum the rule of law names. Executive settlement, military tribunals and inquiries are the alternatives it excludes.
   ]
 
-  #sol-item(17, "A", dense: true, pad: 5.47pt)[
+  #sol-item(17, "A", dense: true, pad: 6.0pt)[
     Judicial review of an Act is the courts' check on the legislature. Confirmation and a no-confidence vote are legislative checks, and a veto is an executive one.
   ]
 
-  #sol-item(18, "A", dense: true, pad: 5.47pt)[
+  #sol-item(18, "A", dense: true, pad: 6.0pt)[
     Codification in one document is the difference. Rigidity, unamendability and executive enforcement are not implied.
   ]
 
-  #sol-item(19, "C", dense: true, pad: 5.47pt)[
+  #sol-item(19, "C", dense: true, pad: 6.0pt)[
     Uncertainty is the cost of a constitution scattered across statutes, conventions and cases. Difficulty of amendment and rigidity belong to the written and rigid form.
   ]
 
-  #sol-item(20, "A", dense: true, pad: 5.47pt)[
+  #sol-item(20, "A", dense: true, pad: 6.0pt)[
     Territory is an element, so its total loss destroys the state. Governments and constitutions can change while the state remains.
   ]
 
-  #sol-item(21, "C", dense: true, pad: 5.47pt)[
+  #sol-item(21, "C", dense: true, pad: 6.0pt)[
     No constitution guarantees employment; Chapter II of Nigeria's sets it as an objective, not a guarantee. The other three are its functions.
   ]
 
-  #sol-item(22, "A", dense: true, pad: 5.47pt)[
+  #sol-item(22, "A", dense: true, pad: 6.0pt)[
     Section 9 requires a two-thirds majority of each House and the approval of two-thirds of the state Houses of Assembly, and of all the states for the most sensitive provisions.
   ]
 
-  #sol-item(23, "D", dense: true, pad: 5.47pt)[
+  #sol-item(23, "D", dense: true, pad: 6.0pt)[
     The Clifford Constitution of 1922 established the office of Governor-General, who replaced the Governor of the colony and protectorate.
   ]
 
-  #sol-item(24, "A", dense: true, pad: 5.47pt)[
+  #sol-item(24, "A", dense: true, pad: 6.0pt)[
     Three regions, with the Cameroons attached to the Eastern Region. The Mid-West was created in 1963, and the twelve states in 1967.
   ]
 
-  #sol-item(25, "D", dense: true, pad: 5.47pt)[
+  #sol-item(25, "D", dense: true, pad: 6.0pt)[
     Macpherson, 1951, brought Nigerians into the executive as ministers with portfolios. The elective principle is 1922, and the FCT is 1976.
   ]
 
-  #sol-item(26, "D", dense: true, pad: 5.47pt)[
+  #sol-item(26, "D", dense: true, pad: 6.0pt)[
     It established the federation of the three regions plus the Federal Territory of Lagos, with a federal Prime Minister and regional premiers.
   ]
 
-  #sol-item(27, "B", dense: true, pad: 5.47pt)[
+  #sol-item(27, "B", dense: true, pad: 6.0pt)[
     1963, when the Republican Constitution replaced the Queen with a Nigerian President as head of state.
   ]
 
-  #sol-item(28, "A", dense: true, pad: 5.47pt)[
+  #sol-item(28, "A", dense: true, pad: 6.0pt)[
     The presidential system: an executive President elected by the people, a bicameral National Assembly and a separation of powers.
   ]
 
-  #sol-item(29, "D", dense: true, pad: 5.47pt)[
+  #sol-item(29, "D", dense: true, pad: 6.0pt)[
     It is federal, with thirty-six states and the Federal Capital Territory, a bicameral National Assembly and a presidential executive.
   ]
 
-  #sol-item(30, "A", dense: true, pad: 5.47pt)[
+  #sol-item(30, "A", dense: true, pad: 6.0pt)[
     Only the National Assembly may legislate on exclusive matters. The concurrent list is shared, the residual is the states', and local government bye-laws are delegated legislation.
   ]
 
-  #sol-item(31, "A", dense: true, pad: 5.47pt)[
+  #sol-item(31, "A", dense: true, pad: 6.0pt)[
     Public health is shared between the federation and the states. Citizenship and defence are exclusive, and chieftaincy is residual.
   ]
 
-  #sol-item(32, "A", dense: true, pad: 5.47pt)[
+  #sol-item(32, "A", dense: true, pad: 6.0pt)[
     Chieftaincy is not on the exclusive or concurrent list, so it is residual and belongs to the state.
   ]
 
-  #sol-item(33, "C", dense: true, pad: 5.47pt)[
+  #sol-item(33, "C", dense: true, pad: 6.0pt)[
     It resolves a conflict on the concurrent list in favour of the federal law, to the extent of the inconsistency.
   ]
 
-  #sol-item(34, "B", dense: true, pad: 5.47pt)[
+  #sol-item(34, "B", dense: true, pad: 6.0pt)[
     Size and diversity, with the fear of domination, are the reasons. Federalism disperses rather than concentrates power, and it did not abolish the regions in 1954.
   ]
 
-  #sol-item(35, "B", dense: true, pad: 5.47pt)[
+  #sol-item(35, "B", dense: true, pad: 6.0pt)[
     It advises on and monitors the revenue-sharing formula. Tax collection is the FIRS's, elections belong to INEC, and judicial appointments to the Judicial Service Commission.
   ]
 
-  #sol-item(36, "B", dense: true, pad: 5.47pt)[
+  #sol-item(36, "B", dense: true, pad: 6.0pt)[
     It returns a share of mineral revenue to the states from which it was derived, recognising the environmental and social cost of extraction.
   ]
 
-  #sol-item(37, "A", dense: true, pad: 5.47pt)[
+  #sol-item(37, "A", dense: true, pad: 6.0pt)[
     Gowon, in 1967. Murtala created nineteen in 1976, Babangida twenty-one in 1987 and thirty in 1991, and Abacha took the number to thirty-six in 1996.
   ]
 
-  #sol-item(38, "C", dense: true, pad: 5.47pt)[
+  #sol-item(38, "C", dense: true, pad: 6.0pt)[
     Ouster clauses removed judicial review, which is what made military rule a dictatorship in law as well as in fact. Decrees were issued, not passed by a legislature.
   ]
 
-  #sol-item(39, "D", dense: true, pad: 5.47pt)[
+  #sol-item(39, "D", dense: true, pad: 6.0pt)[
     Section 14(3) requires that appointments reflect the diversity of the federation, and the Federal Character Commission polices it.
   ]
 
-  #sol-item(40, "D", dense: true, pad: 5.47pt)[
+  #sol-item(40, "D", dense: true, pad: 6.0pt)[
     Section 1 makes it supreme and voids inconsistent law to the extent of the inconsistency. It is amendable, and it is enforced by the courts rather than the army.
   ]
 
-  #sol-item(41, "A", dense: true, pad: 5.47pt)[
+  #sol-item(41, "A", dense: true, pad: 6.0pt)[
     Interpretation is judicial. The legislature makes law, the executive executes it, and the civil service administers under the executive.
   ]
 
-  #sol-item(42, "D", dense: true, pad: 5.47pt)[
+  #sol-item(42, "D", dense: true, pad: 6.0pt)[
     Montesquieu, in The Spirit of the Laws (1748). Locke wrote on government and Hobbes on sovereignty, but the three-fold division is Montesquieu's.
   ]
 
-  #sol-item(43, "B", dense: true, pad: 5.47pt)[
+  #sol-item(43, "B", dense: true, pad: 6.0pt)[
     Unicameral. Nigeria's states have a single House of Assembly, while the federation has two chambers.
   ]
 
-  #sol-item(44, "B", dense: true, pad: 5.47pt)[
+  #sol-item(44, "B", dense: true, pad: 6.0pt)[
     Economy and speed are its merits. A second look, state representation and delay are merits of the bicameral form.
   ]
 
-  #sol-item(45, "D", dense: true, pad: 5.47pt)[
+  #sol-item(45, "D", dense: true, pad: 6.0pt)[
     The members elect their Speaker from among themselves, as the Senate elects its President — a rule that protects the chamber's independence.
   ]
 
-  #sol-item(46, "A", dense: true, pad: 5.47pt)[
+  #sol-item(46, "A", dense: true, pad: 6.0pt)[
     Assent. Amendment is a power the legislature exercises, appropriation is the budget, and ratification applies to treaties.
   ]
 
-  #sol-item(47, "C", dense: true, pad: 5.47pt)[
+  #sol-item(47, "C", dense: true, pad: 6.0pt)[
     A two-thirds majority of each House overrides the veto, which is the legislative check on the executive check.
   ]
 
-  #sol-item(48, "A", dense: true, pad: 5.47pt)[
+  #sol-item(48, "A", dense: true, pad: 6.0pt)[
     The executive prepares and presents the budget; the legislature approves it. Law-making, interpretation and election petitions belong to other organs.
   ]
 
-  #sol-item(49, "D", dense: true, pad: 5.47pt)[
+  #sol-item(49, "D", dense: true, pad: 6.0pt)[
     It ends the government or forces a dissolution and an election — the defining check that the legislature holds in a parliamentary system.
   ]
 
-  #sol-item(50, "C", dense: true, pad: 5.47pt)[
+  #sol-item(50, "C", dense: true, pad: 6.0pt)[
     Ministers are appointed from outside the legislature, and the President is elected separately. The other options describe parliamentary practice.
   ]
 
-  #sol-item(51, "C", dense: true, pad: 5.47pt)[
+  #sol-item(51, "C", dense: true, pad: 6.0pt)[
     Review tests validity against the Constitution. Hearing appeals is appellate jurisdiction, appointment is for the Judicial Service Commission, and advice is not adjudication.
   ]
 
-  #sol-item(52, "C", dense: true, pad: 5.47pt)[
+  #sol-item(52, "C", dense: true, pad: 6.0pt)[
     Twenty-one other justices, making twenty-two in all. Seven is the quorum for a sitting.
   ]
 
-  #sol-item(53, "D", dense: true, pad: 5.47pt)[
+  #sol-item(53, "D", dense: true, pad: 6.0pt)[
     It hears appeals from the High Courts and from election tribunals, including presidential election petitions, and from the lower courts as provided by law.
   ]
 
-  #sol-item(54, "C", dense: true, pad: 5.47pt)[
+  #sol-item(54, "C", dense: true, pad: 6.0pt)[
     The President cannot dismiss a judge at will; removal requires an address supported by two-thirds of the Senate. The other three are the safeguards.
   ]
 
-  #sol-item(55, "A", dense: true, pad: 5.47pt)[
+  #sol-item(55, "A", dense: true, pad: 6.0pt)[
     A court may declare a regulation ultra vires. Publication, legislative scrutiny and annulment are the other controls; armies and elections have no role in it.
   ]
 
-  #sol-item(56, "D", dense: true, pad: 5.47pt)[
+  #sol-item(56, "D", dense: true, pad: 6.0pt)[
     Time, expertise, flexibility and emergency are the reasons. It is a practical necessity of modern government, not a statement about wisdom or a constitutional requirement.
   ]
 
-  #sol-item(57, "A", dense: true, pad: 5.47pt)[
+  #sol-item(57, "A", dense: true, pad: 6.0pt)[
     The House of Representatives elects a Speaker; the Senate elects a President. The Chief Justice presides over the Supreme Court.
   ]
 
-  #sol-item(58, "C", dense: true, pad: 5.47pt)[
+  #sol-item(58, "C", dense: true, pad: 6.0pt)[
     The President appoints and the Senate confirms. The President may also dismiss a minister, which is the executive's control over its own team.
   ]
 
-  #sol-item(59, "A", dense: true, pad: 5.47pt)[
+  #sol-item(59, "A", dense: true, pad: 6.0pt)[
     Committees, questions, motions and investigations are the tools of oversight. The army, the courts and the civil service are not instruments of legislative oversight.
   ]
 
-  #sol-item(60, "A", dense: true, pad: 5.47pt)[
+  #sol-item(60, "A", dense: true, pad: 6.0pt)[
     It separates the accusing function from the adjudicating function, which is the logic of separation of powers applied inside the criminal process.
   ]
 
-  #sol-item(61, "A", dense: true, pad: 5.47pt)[
+  #sol-item(61, "A", dense: true, pad: 6.0pt)[
     Rallies, manifestos and campaigns explain issues to the electorate. Tax collection, elections and appointments are other bodies' work.
   ]
 
-  #sol-item(62, "D", dense: true, pad: 5.47pt)[
+  #sol-item(62, "D", dense: true, pad: 6.0pt)[
     A legal ban on other parties defines the one-party system. A dominant-party system permits competition and produces a predictable winner.
   ]
 
-  #sol-item(63, "B", dense: true, pad: 5.47pt)[
+  #sol-item(63, "B", dense: true, pad: 6.0pt)[
     Coalition instability is the standard charge. No choice, prohibition of opposition and one-party power belong to the one-party form.
   ]
 
-  #sol-item(64, "B", dense: true, pad: 5.47pt)[
+  #sol-item(64, "B", dense: true, pad: 6.0pt)[
     A promotional or cause group, such as a human-rights organisation. A sectional group protects its members' interests, and a trade union is the classic sectional case.
   ]
 
-  #sol-item(65, "D", dense: true, pad: 5.47pt)[
+  #sol-item(65, "D", dense: true, pad: 6.0pt)[
     A strike is a pressure group's weapon. Contesting elections, nominating candidates and forming a government are the party's functions.
   ]
 
-  #sol-item(66, "C", dense: true, pad: 5.47pt)[
+  #sol-item(66, "C", dense: true, pad: 6.0pt)[
     First past the post, with the additional requirement of a quarter of the votes in two-thirds of the states to ensure national spread.
   ]
 
-  #sol-item(67, "B", dense: true, pad: 5.47pt)[
+  #sol-item(67, "B", dense: true, pad: 6.0pt)[
     Proportionality is the principle. The highest vote in a constituency is first past the post.
   ]
 
-  #sol-item(68, "B", dense: true, pad: 5.47pt)[
+  #sol-item(68, "B", dense: true, pad: 6.0pt)[
     Secrecy protects the voter from intimidation and retaliation, which is what makes the vote free. It does not necessarily make counting faster or cheaper.
   ]
 
-  #sol-item(69, "D", dense: true, pad: 5.47pt)[
+  #sol-item(69, "D", dense: true, pad: 6.0pt)[
     INEC registers parties, registers voters, conducts elections and announces results.
   ]
 
-  #sol-item(70, "C", dense: true, pad: 5.47pt)[
+  #sol-item(70, "C", dense: true, pad: 6.0pt)[
     It adjudicates challenges to a result, which is what makes the count enforceable. It does not conduct the election or register anyone.
   ]
 
-  #sol-item(71, "C", dense: true, pad: 5.47pt)[
+  #sol-item(71, "C", dense: true, pad: 6.0pt)[
     It is malpractice: it corrupts the choice the ballot is meant to record, along with rigging, intimidation and ballot stuffing.
   ]
 
-  #sol-item(72, "D", dense: true, pad: 5.47pt)[
+  #sol-item(72, "D", dense: true, pad: 6.0pt)[
     Clear majorities and stable government are its merits, at the cost of wasted votes and under-representation of minorities.
   ]
 
-  #sol-item(73, "C", dense: true, pad: 5.47pt)[
+  #sol-item(73, "C", dense: true, pad: 6.0pt)[
     A poll samples the population and infers the whole. Judgments, reshuffles and examinations measure other things entirely.
   ]
 
-  #sol-item(74, "B", dense: true, pad: 5.47pt)[
+  #sol-item(74, "B", dense: true, pad: 6.0pt)[
     They watch the three estates and inform the public. They make no laws, run no elections and collect no taxes.
   ]
 
-  #sol-item(75, "D", dense: true, pad: 5.47pt)[
+  #sol-item(75, "D", dense: true, pad: 6.0pt)[
     The ambition to govern is the difference. Members, a constitution and dues are common to both.
   ]
 
-  #sol-item(76, "D", dense: true, pad: 5.47pt)[
+  #sol-item(76, "D", dense: true, pad: 6.0pt)[
     A legal opposition and an independent commission are the two institutions that make an election real. The other options remove the choice.
   ]
 
-  #sol-item(77, "C", dense: true, pad: 5.47pt)[
+  #sol-item(77, "C", dense: true, pad: 6.0pt)[
     It is a brake held by the legislature against the executive — a check. Separation of powers is the underlying division of functions.
   ]
 
-  #sol-item(78, "B", dense: true, pad: 5.47pt)[
+  #sol-item(78, "B", dense: true, pad: 6.0pt)[
     A credible alternative government is the merit claimed. Proportional seats, coalitions and small-party leverage belong to multi-party systems.
   ]
 
-  #sol-item(79, "B", dense: true, pad: 5.47pt)[
+  #sol-item(79, "B", dense: true, pad: 6.0pt)[
     The colonial franchise was restricted by property and, for the earliest period, by sex. Universal adult suffrage arrived with the 1979 Constitution.
   ]
 
-  #sol-item(80, "A", dense: true, pad: 5.47pt)[
+  #sol-item(80, "A", dense: true, pad: 6.0pt)[
     Lobbying and committee evidence are insider methods that act on policy directly. Contesting elections and forming governments are the party's route.
   ]
 
-  #sol-item(81, "C", dense: true, pad: 5.47pt)[
+  #sol-item(81, "C", dense: true, pad: 6.0pt)[
     Section 26 covers a woman married to a citizen and a person of full age born outside Nigeria whose grandparent is a citizen. Long residence without marriage is the naturalisation route.
   ]
 
-  #sol-item(82, "D", dense: true, pad: 5.47pt)[
+  #sol-item(82, "D", dense: true, pad: 6.0pt)[
     Fifteen years' residence, good character, a language of the community and local acceptance. Property, party membership and public service are not statutory conditions.
   ]
 
-  #sol-item(83, "C", dense: true, pad: 5.47pt)[
+  #sol-item(83, "C", dense: true, pad: 6.0pt)[
     It is permitted, without distinction of sex or birthplace, though a naturalised citizen may be asked to renounce a former citizenship.
   ]
 
-  #sol-item(84, "B", dense: true, pad: 5.47pt)[
+  #sol-item(84, "B", dense: true, pad: 6.0pt)[
     Paying lawful taxes is a duty. Military service, voting and union membership are rights or optional acts, not duties.
   ]
 
-  #sol-item(85, "B", dense: true, pad: 5.47pt)[
+  #sol-item(85, "B", dense: true, pad: 6.0pt)[
     The limitation clauses in sections 39, 41 and 45 name defence, public safety, public order, morality and public health. The other grounds would be arbitrary.
   ]
 
-  #sol-item(86, "A", dense: true, pad: 5.47pt)[
+  #sol-item(86, "A", dense: true, pad: 6.0pt)[
     Chapter II sets out the objectives of state policy. Rights are in Chapter IV, the legislature in Chapter V, and amendment in section 9.
   ]
 
-  #sol-item(87, "D", dense: true, pad: 5.47pt)[
+  #sol-item(87, "D", dense: true, pad: 6.0pt)[
     Section 40 protects assembly and association, including trade unions and parties. Property, fair hearing and life are sections 43, 36 and 33.
   ]
 
-  #sol-item(88, "A", dense: true, pad: 5.47pt)[
+  #sol-item(88, "A", dense: true, pad: 6.0pt)[
     The Public Complaints Commission is the ombudsman. It investigates and recommends, and it cannot make binding orders.
   ]
 
-  #sol-item(89, "C", dense: true, pad: 5.47pt)[
+  #sol-item(89, "C", dense: true, pad: 6.0pt)[
     Appropriation, questions and committees are the legislative instruments. Appointment of permanent secretaries is executive, and the courts are a separate control.
   ]
 
-  #sol-item(90, "D", dense: true, pad: 5.47pt)[
+  #sol-item(90, "D", dense: true, pad: 6.0pt)[
     Continuity and memory are its merits, alongside expertise and impartiality. It does not change with the government, it is appointed, and policy is the minister's.
   ]
 
-  #sol-item(91, "A", dense: true, pad: 5.47pt)[
+  #sol-item(91, "A", dense: true, pad: 6.0pt)[
     Impartiality: the service serves whichever government is in power, and public partisanship destroys the confidence that makes that possible.
   ]
 
-  #sol-item(92, "B", dense: true, pad: 5.47pt)[
+  #sol-item(92, "B", dense: true, pad: 6.0pt)[
     Interference and losses are the standard criticisms, and privatisation was the policy answer. Profit-making is not their purpose, and they do have legal personality.
   ]
 
-  #sol-item(93, "A", dense: true, pad: 5.47pt)[
+  #sol-item(93, "A", dense: true, pad: 6.0pt)[
     The statutory allocation is the main source, together with rates, tolls and a share of state revenue. Company tax, import duty and VAT are federal.
   ]
 
-  #sol-item(94, "D", dense: true, pad: 5.47pt)[
+  #sol-item(94, "D", dense: true, pad: 6.0pt)[
     Section 7 requires a democratically elected council, so the chairman and councillors are elected. Caretaker committees are a departure from the constitutional requirement.
   ]
 
-  #sol-item(95, "B", dense: true, pad: 5.47pt)[
+  #sol-item(95, "B", dense: true, pad: 6.0pt)[
     Markets and motor parks are classic local functions. Passports, defence and federal elections are federal.
   ]
 
-  #sol-item(96, "A", dense: true, pad: 5.47pt)[
+  #sol-item(96, "A", dense: true, pad: 6.0pt)[
     It polices the federal character principle in appointments. Revenue is the RMAFC's, elections INEC's, and audits the Auditor-General's.
   ]
 
-  #sol-item(97, "B", dense: true, pad: 5.47pt)[
+  #sol-item(97, "B", dense: true, pad: 6.0pt)[
     Defamation, incitement, official secrets and sedition are lawful limits. The others are separate rights or electoral rules.
   ]
 
-  #sol-item(98, "C", dense: true, pad: 5.47pt)[
+  #sol-item(98, "C", dense: true, pad: 6.0pt)[
     The report goes to the National Assembly, which examines it through the Public Accounts Committee.
   ]
 
-  #sol-item(99, "C", dense: true, pad: 5.47pt)[
+  #sol-item(99, "C", dense: true, pad: 6.0pt)[
     Fraud in obtaining the certificate is a ground for withdrawal. Travel, religion and party membership are protected by rights.
   ]
 
-  #sol-item(100, "B", dense: true, pad: 5.47pt)[
+  #sol-item(100, "B", dense: true, pad: 6.0pt)[
     Policy is the minister's; implementation and advice are the official's. The minister, not the official, answers in the House — the pair to anonymity.
   ]
 
-  #sol-item(101, "B", dense: true, pad: 5.47pt)[
+  #sol-item(101, "B", dense: true, pad: 6.0pt)[
     Security, prosperity and influence are the standard triad. Culture and religion may be instruments, and the others are not the national interest.
   ]
 
-  #sol-item(102, "C", dense: true, pad: 5.47pt)[
+  #sol-item(102, "C", dense: true, pad: 6.0pt)[
     The Technical Aid Corps is aid in action. The census, local government and examinations are domestic institutions.
   ]
 
-  #sol-item(103, "B", dense: true, pad: 5.47pt)[
+  #sol-item(103, "B", dense: true, pad: 6.0pt)[
     The second circle, after Nigeria and West Africa and before the world. The first circle is the West African neighbourhood.
   ]
 
-  #sol-item(104, "D", dense: true, pad: 5.47pt)[
+  #sol-item(104, "D", dense: true, pad: 6.0pt)[
     The Africa centre-piece, alongside non-alignment and respect for sovereignty. Nigeria has intervened in conflicts and aligned with no bloc.
   ]
 
-  #sol-item(105, "C", dense: true, pad: 5.47pt)[
+  #sol-item(105, "C", dense: true, pad: 6.0pt)[
     ECOWAS. The AU succeeded the OAU in 2002, the Commonwealth is much older, and the UN was founded in 1945.
   ]
 
-  #sol-item(106, "D", dense: true, pad: 5.47pt)[
+  #sol-item(106, "D", dense: true, pad: 6.0pt)[
     The Authority of Heads of State is the supreme policy organ. The Court interprets the treaty, and the UN and Commonwealth are outside ECOWAS.
   ]
 
-  #sol-item(107, "C", dense: true, pad: 5.47pt)[
+  #sol-item(107, "C", dense: true, pad: 6.0pt)[
     Liberia (1990) and Sierra Leone (1997), where ECOMOG restored order and Nigeria bore most of the cost.
   ]
 
-  #sol-item(108, "D", dense: true, pad: 5.47pt)[
+  #sol-item(108, "D", dense: true, pad: 6.0pt)[
     Addis Ababa, which was also the seat of the OAU.
   ]
 
-  #sol-item(109, "D", dense: true, pad: 5.47pt)[
+  #sol-item(109, "D", dense: true, pad: 6.0pt)[
     The Security Council may impose sanctions and authorise force. The General Assembly recommends, and the Secretariat administers.
   ]
 
-  #sol-item(110, "A", dense: true, pad: 5.47pt)[
+  #sol-item(110, "A", dense: true, pad: 6.0pt)[
     The five permanent members may veto any substantive resolution, which is why the Council's action depends on their agreement.
   ]
 
-  #sol-item(111, "A", dense: true, pad: 5.47pt)[
+  #sol-item(111, "A", dense: true, pad: 6.0pt)[
     WHO is a specialised agency, coordinated through ECOSOC. ECOWAS and the AU are regional organisations and OPEC is a commodity cartel.
   ]
 
-  #sol-item(112, "D", dense: true, pad: 5.47pt)[
+  #sol-item(112, "D", dense: true, pad: 6.0pt)[
     Most members were formerly British; Mozambique and Rwanda joined without that history, which is why the criterion is now simply acceptance by the members.
   ]
 
-  #sol-item(113, "B", dense: true, pad: 5.47pt)[
+  #sol-item(113, "B", dense: true, pad: 6.0pt)[
     The executions under the Abacha government triggered the suspension, which lasted until 1999.
   ]
 
-  #sol-item(114, "A", dense: true, pad: 5.47pt)[
+  #sol-item(114, "A", dense: true, pad: 6.0pt)[
     Production quotas are the cartel's instrument. Interest rates, peacekeeping and currency are other organisations' business.
   ]
 
-  #sol-item(115, "A", dense: true, pad: 5.47pt)[
+  #sol-item(115, "A", dense: true, pad: 6.0pt)[
     Diplomacy and the multilateral forum are the realistic instruments. Force is costly and unlikely, and the other options are irrelevant to the objective.
   ]
 
-  #sol-item(116, "D", dense: true, pad: 5.47pt)[
+  #sol-item(116, "D", dense: true, pad: 6.0pt)[
     Nigeria avoided formal alignment with either superpower while trading with both, which is the meaning of non-alignment.
   ]
 
-  #sol-item(117, "C", dense: true, pad: 5.47pt)[
+  #sol-item(117, "C", dense: true, pad: 6.0pt)[
     A permanent mission represents the state at the UN, negotiates, votes and reports — the diplomacy instrument in its multilateral form.
   ]
 
-  #sol-item(118, "D", dense: true, pad: 5.47pt)[
+  #sol-item(118, "D", dense: true, pad: 6.0pt)[
     ECOWAS is one of the eight AU-recognised regional economic communities. The Commonwealth is a voluntary association, OPEC a commodity organisation, and the World Bank a development institution.
   ]
 
-  #sol-item(119, "B", dense: true, pad: 5.47pt)[
+  #sol-item(119, "B", dense: true, pad: 6.0pt)[
     Subsidising fuel at home while holding to an export quota is the tension, since cheap domestic fuel encourages consumption and reduces exportable volume. The other memberships impose no such conflict.
   ]
 
-  #sol-item(120, "C", dense: true, pad: 5.47pt)[
+  #sol-item(120, "C", dense: true, pad: 6.0pt)[
     The AU is continental and recognises ECOWAS as one of its regional economic communities, which is why a West African crisis is handled by ECOWAS first and by the AU second.
   ]
 

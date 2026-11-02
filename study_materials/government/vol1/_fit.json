@@ -1,8 +1,11 @@
 {
-  "drill_ch01": 12.0,
-  "drill_ch02": 0.0,
+  "drill_ch01": 0.0,
+  "drill_ch02": 13.0,
   "drill_ch03": 0.0,
-  "drill_ch04": 11.0,
+  "drill_ch04": 10.0,
   "drill_ch05": 0.0,
-  "drill_ch06": 4.0
+  "drill_ch06": 10.0,
+  "bank120": 6,
+  "paper1": 8,
+  "paper2": 8
 }

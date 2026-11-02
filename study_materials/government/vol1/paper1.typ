@@ -480,164 +480,164 @@
   #block(breakable: false)[
   === Complete Solutions
 
-  #sol-item(1, "A", dense: true, pad: 8.75pt)[
+  #sol-item(1, "A", dense: true, pad: 8.0pt)[
     Government is the machinery through which the state is ruled. Representation abroad is one of its activities, and taxation is one of its powers.
   ]
 
-  #sol-item(2, "B", dense: true, pad: 8.75pt)[
+  #sol-item(2, "B", dense: true, pad: 8.0pt)[
     Population, territory, sovereignty and government are the elements. A written constitution is not one — Britain has no codified constitution and is a state.
   ]
   ]
 
-  #sol-item(3, "A", dense: true, pad: 8.75pt)[
+  #sol-item(3, "A", dense: true, pad: 8.0pt)[
     Sovereignty is the fourth element. Recognition is evidence, not an element.
   ]
 
-  #sol-item(4, "B", dense: true, pad: 8.75pt)[
+  #sol-item(4, "B", dense: true, pad: 8.0pt)[
     A nation. A society is a wider web of relationships, and a state is the legal and territorial unit.
   ]
 
-  #sol-item(5, "D", dense: true, pad: 8.75pt)[
+  #sol-item(5, "D", dense: true, pad: 8.0pt)[
     Oligarchy is rule by a few, a form of government. Sovereignty is an element, federalism a territorial arrangement, and legitimacy a quality of authority.
   ]
 
-  #sol-item(6, "C", dense: true, pad: 8.75pt)[
+  #sol-item(6, "C", dense: true, pad: 8.0pt)[
     The mode of choosing the head is the test. Sovereignty of the people, written constitutions and decentralisation are compatible with either form.
   ]
 
-  #sol-item(7, "B", dense: true, pad: 8.75pt)[
+  #sol-item(7, "B", dense: true, pad: 8.0pt)[
     Socialism. Capitalism leaves ownership private, welfarism keeps private ownership with welfare, and feudalism is a land-based order.
   ]
 
-  #sol-item(8, "A", dense: true, pad: 8.75pt)[
+  #sol-item(8, "A", dense: true, pad: 8.0pt)[
     Fascism. Communism places class and collective ownership at the centre, and the other two begin from individual rights or private ownership.
   ]
 
-  #sol-item(9, "D", dense: true, pad: 8.75pt)[
+  #sol-item(9, "D", dense: true, pad: 8.0pt)[
     Constitutionalism — the practice of governing within the rules. Sovereignty is supreme authority, federalism divides power, and no such word as electoralism is used.
   ]
 
-  #sol-item(10, "D", dense: true, pad: 8.75pt)[
+  #sol-item(10, "D", dense: true, pad: 8.0pt)[
     Subordination of the courts to the executive is the negation of the rule of law. The other three are Dicey's limbs.
   ]
 
-  #sol-item(11, "D", dense: true, pad: 8.75pt)[
+  #sol-item(11, "D", dense: true, pad: 8.0pt)[
     Montesquieu, in The Spirit of the Laws. The others wrote on politics, but the three-fold division of functions is his.
   ]
 
-  #sol-item(12, "A", dense: true, pad: 8.75pt)[
+  #sol-item(12, "A", dense: true, pad: 8.0pt)[
     Confirmation is a legislative brake on executive appointment — a check. Separation of powers is the underlying division, and judicial review is a court's function.
   ]
 
-  #sol-item(13, "D", dense: true, pad: 8.75pt)[
+  #sol-item(13, "D", dense: true, pad: 8.0pt)[
     Supreme internal authority plus external independence. Law-making and command of the army are powers a sovereign exercises.
   ]
 
-  #sol-item(14, "A", dense: true, pad: 8.75pt)[
+  #sol-item(14, "A", dense: true, pad: 8.0pt)[
     Section 14(2): sovereignty belongs to the people of Nigeria, from whom government derives its authority.
   ]
 
-  #sol-item(15, "C", dense: true, pad: 8.75pt)[
+  #sol-item(15, "C", dense: true, pad: 8.0pt)[
     Legitimacy is that acceptance. Sovereignty is authority, a mandate is a claim from an election, and federal character is a principle of appointment.
   ]
 
-  #sol-item(16, "A", dense: true, pad: 8.75pt)[
+  #sol-item(16, "A", dense: true, pad: 8.0pt)[
     Clifford, 1922. Richards created the regions, Macpherson brought in ministers, and Lyttleton made the country federal.
   ]
 
-  #sol-item(17, "A", dense: true, pad: 8.75pt)[
+  #sol-item(17, "A", dense: true, pad: 8.0pt)[
     Richards, 1946: North, West and East, with the Cameroons attached to the East.
   ]
 
-  #sol-item(18, "A", dense: true, pad: 8.75pt)[
+  #sol-item(18, "A", dense: true, pad: 8.0pt)[
     Lyttleton, 1954, with the three regions and the Federal Territory of Lagos.
   ]
 
-  #sol-item(19, "D", dense: true, pad: 8.75pt)[
+  #sol-item(19, "D", dense: true, pad: 8.0pt)[
     The 1963 Republican Constitution replaced the Queen with a Nigerian President as head of state.
   ]
 
-  #sol-item(20, "C", dense: true, pad: 8.75pt)[
+  #sol-item(20, "C", dense: true, pad: 8.0pt)[
     The 1979 Constitution created the executive presidency; the 1963 President was ceremonial and chosen by the legislature.
   ]
 
-  #sol-item(21, "D", dense: true, pad: 8.75pt)[
+  #sol-item(21, "D", dense: true, pad: 8.0pt)[
     1999. The 1989 Constitution was never implemented, and the 1993 election that would have begun a transition was annulled.
   ]
 
-  #sol-item(22, "C", dense: true, pad: 8.75pt)[
+  #sol-item(22, "C", dense: true, pad: 8.0pt)[
     Thirty-six states plus the Federal Capital Territory, and 774 local government areas.
   ]
 
-  #sol-item(23, "B", dense: true, pad: 8.75pt)[
+  #sol-item(23, "B", dense: true, pad: 8.0pt)[
     Rigid. The test is the amending procedure; written and federal are different questions.
   ]
 
-  #sol-item(24, "C", dense: true, pad: 8.75pt)[
+  #sol-item(24, "C", dense: true, pad: 8.0pt)[
     Section 9: two-thirds of each House plus two-thirds of the state Houses of Assembly, and all the states for the most sensitive provisions.
   ]
 
-  #sol-item(25, "C", dense: true, pad: 8.75pt)[
+  #sol-item(25, "C", dense: true, pad: 8.0pt)[
     Currency is exclusive to the federation. Education and health are concurrent, and chieftaincy is residual.
   ]
 
-  #sol-item(26, "D", dense: true, pad: 8.75pt)[
+  #sol-item(26, "D", dense: true, pad: 8.0pt)[
     Markets and motor parks are residual, left to the states. The other three are exclusive.
   ]
 
-  #sol-item(27, "D", dense: true, pad: 8.75pt)[
+  #sol-item(27, "D", dense: true, pad: 8.0pt)[
     Covering the field: the federal law prevails to the extent of the inconsistency.
   ]
 
-  #sol-item(28, "C", dense: true, pad: 8.75pt)[
+  #sol-item(28, "C", dense: true, pad: 8.0pt)[
     The Revenue Mobilisation, Allocation and Fiscal Commission. FIRS collects, the CBN manages money, and the FCC polices appointments.
   ]
 
-  #sol-item(29, "B", dense: true, pad: 8.75pt)[
+  #sol-item(29, "B", dense: true, pad: 8.0pt)[
     It created a uniform system of councils and is the date the paper attaches to local government reform. The FCT was created in the same year but by a separate decision.
   ]
 
-  #sol-item(30, "A", dense: true, pad: 8.75pt)[
+  #sol-item(30, "A", dense: true, pad: 8.0pt)[
     Section 4. Executive power is section 5 and judicial power section 6.
   ]
 
-  #sol-item(31, "D", dense: true, pad: 8.75pt)[
+  #sol-item(31, "D", dense: true, pad: 8.0pt)[
     Three senators for each of the 36 states plus one for the FCT gives 109. 360 is the House, 469 the two chambers together, and 774 the number of councils.
   ]
 
-  #sol-item(32, "B", dense: true, pad: 8.75pt)[
+  #sol-item(32, "B", dense: true, pad: 8.0pt)[
     Law-making. Execution is the executive's, interpretation the judiciary's, and command of the army the President's.
   ]
 
-  #sol-item(33, "B", dense: true, pad: 8.75pt)[
+  #sol-item(33, "B", dense: true, pad: 8.0pt)[
     Bicameral. Nigeria's National Assembly is the case; the states have unicameral Houses of Assembly.
   ]
 
-  #sol-item(34, "D", dense: true, pad: 8.75pt)[
+  #sol-item(34, "D", dense: true, pad: 8.0pt)[
     Two-thirds of each House overrides the veto — the legislature's check on the executive's check.
   ]
 
-  #sol-item(35, "A", dense: true, pad: 8.75pt)[
+  #sol-item(35, "A", dense: true, pad: 8.0pt)[
     Ministers are members of the legislature and the government falls with a vote of no confidence.
   ]
 
-  #sol-item(36, "B", dense: true, pad: 8.75pt)[
+  #sol-item(36, "B", dense: true, pad: 8.0pt)[
     It tests validity against the Constitution. Hearing appeals is appellate jurisdiction, and appointment is for the Judicial Service Commission.
   ]
 
-  #sol-item(37, "B", dense: true, pad: 8.75pt)[
+  #sol-item(37, "B", dense: true, pad: 8.0pt)[
     The Supreme Court, from which no appeal lies in Nigerian law.
   ]
 
-  #sol-item(38, "A", dense: true, pad: 8.75pt)[
+  #sol-item(38, "A", dense: true, pad: 8.0pt)[
     Security of tenure, together with salaries charged to the Consolidated Revenue Fund, is the guarantee of independence.
   ]
 
-  #sol-item(39, "C", dense: true, pad: 8.75pt)[
+  #sol-item(39, "C", dense: true, pad: 8.0pt)[
     It is made under a power conferred by an Act. Judicial precedent and direct legislation by the people are different sources of law.
   ]
 
-  #sol-item(40, "A", dense: true, pad: 8.75pt)[
+  #sol-item(40, "A", dense: true, pad: 8.0pt)[
     Ultra vires, and the courts will declare it void — the principal judicial control on delegated legislation.
   ]
 

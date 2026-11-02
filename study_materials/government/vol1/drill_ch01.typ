@@ -1,7 +1,7 @@
 #import "template.typ": *
 
 
-#current-chapter.update("Chapter 1: the state and the forms of government — Drills")
+#current-chapter.update("Chapter 1: The Study of Government — Drills")
 
 #block(
   width: 100%,
@@ -315,7 +315,7 @@
 
 #v(6pt)
 
-#current-chapter.update("Chapter 1: the state and the forms of government — Drills")
+#current-chapter.update("Chapter 1: The Study of Government — Drills")
 
 === Answer Key and Score Bands
 
@@ -346,164 +346,164 @@
 
   #block(breakable: false)[
   === Complete Solutions
-  #sol-item(1, "C", dense: true, pad: 12.0pt)[
+  #sol-item(1, "C", dense: true, pad: 0.0pt)[
     The institution through which a state is ruled. The group in office is only one sense of the word, territory is an element of the state rather than government, and the electorate is the source of authority, not the machinery.
   ]
 
-  #sol-item(2, "B", dense: true, pad: 12.0pt)[
+  #sol-item(2, "B", dense: true, pad: 0.0pt)[
     Sovereignty is one of the four elements. A constitution and an army are parts of the machinery of government, and a flag is a symbol of the state rather than a condition of it.
   ]
   ]
 
-  #sol-item(3, "B", dense: true, pad: 12.0pt)[
+  #sol-item(3, "B", dense: true, pad: 0.0pt)[
     Sovereignty completes the four. Recognition by other states is evidence that the elements exist, and a constitution is part of the machinery of government.
   ]
 
-  #sol-item(4, "A", dense: true, pad: 12.0pt)[
+  #sol-item(4, "A", dense: true, pad: 0.0pt)[
     A nation is a people bound by history, culture or language. Territory, sovereignty and recognition are marks of the state, which may contain many nations.
   ]
 
-  #sol-item(5, "B", dense: true, pad: 12.0pt)[
+  #sol-item(5, "B", dense: true, pad: 0.0pt)[
     A state of many nations: over two hundred and fifty ethnic groups live within one sovereign state. A nation-state is the opposite case, where one nation roughly fills the state.
   ]
 
-  #sol-item(6, "C", dense: true, pad: 12.0pt)[
+  #sol-item(6, "C", dense: true, pad: 0.0pt)[
     Society is the whole web of relationships — families, markets, churches, unions — and it existed before the state and extends beyond it. Territory and sovereignty belong to the state.
   ]
 
-  #sol-item(7, "C", dense: true, pad: 12.0pt)[
+  #sol-item(7, "C", dense: true, pad: 0.0pt)[
     The state persists through changes of government. The constitution, the ruling party and the officeholders can all change while the state remains the same legal and territorial unit.
   ]
 
-  #sol-item(8, "D", dense: true, pad: 12.0pt)[
+  #sol-item(8, "D", dense: true, pad: 0.0pt)[
     Sovereignty is supreme internal authority plus external independence. Law-making and taxation are powers a sovereign authority may exercise, not sovereignty itself.
   ]
 
-  #sol-item(9, "C", dense: true, pad: 12.0pt)[
+  #sol-item(9, "C", dense: true, pad: 0.0pt)[
     Sovereignty is indivisible; what a federation divides is the exercise of governmental powers between levels. The option that says sovereignty is shared is the standard trap.
   ]
 
-  #sol-item(10, "B", dense: true, pad: 12.0pt)[
+  #sol-item(10, "B", dense: true, pad: 0.0pt)[
     Popular sovereignty. Section 14 of the 1999 Constitution states that sovereignty belongs to the people, from whom government derives its authority.
   ]
 
-  #sol-item(11, "C", dense: true, pad: 12.0pt)[
+  #sol-item(11, "C", dense: true, pad: 0.0pt)[
     Legitimacy is the acceptance by the governed that a government has the right to rule. A rigged election can produce a legal government that nobody accepts.
   ]
 
-  #sol-item(12, "C", dense: true, pad: 12.0pt)[
+  #sol-item(12, "C", dense: true, pad: 0.0pt)[
     A mandate is the claim that the voters endorsed the programme on which the government fought the election. Legality is a different question, and an oath and a budget are instruments rather than sources of authority.
   ]
 
-  #sol-item(13, "A", dense: true, pad: 12.0pt)[
+  #sol-item(13, "A", dense: true, pad: 0.0pt)[
     Free and fair elections are the defining feature, along with majority rule, minority rights and the rule of law. Hereditary rule, military rule and one-party rule are each its opposite.
   ]
 
-  #sol-item(14, "B", dense: true, pad: 12.0pt)[
+  #sol-item(14, "B", dense: true, pad: 0.0pt)[
     A constitutional monarchy. In an absolute monarchy the monarch governs; in a republic there is no monarch at all.
   ]
 
-  #sol-item(15, "A", dense: true, pad: 12.0pt)[
+  #sol-item(15, "A", dense: true, pad: 0.0pt)[
     Oligarchy is rule by the few — the wealthy, the military or a clan. Aristocracy is its “rule by the best” version, and theocracy is rule by religious authority.
   ]
 
-  #sol-item(16, "D", dense: true, pad: 12.0pt)[
+  #sol-item(16, "D", dense: true, pad: 0.0pt)[
     A dictatorship is unrestrained power in one person or party. An elected assembly, a constitutional monarch and a judiciary are all limits of one kind or another.
   ]
 
-  #sol-item(17, "C", dense: true, pad: 12.0pt)[
+  #sol-item(17, "C", dense: true, pad: 0.0pt)[
     A republic is defined by how the head of state is chosen, not by how free the country is. A republic can be democratic or dictatorial, and a monarchy can be either.
   ]
 
-  #sol-item(18, "D", dense: true, pad: 12.0pt)[
+  #sol-item(18, "D", dense: true, pad: 0.0pt)[
     Theocracy. Aristocracy is rule by a supposed elite, plutocracy by the wealthy, and bureaucracy by officials.
   ]
 
-  #sol-item(19, "B", dense: true, pad: 12.0pt)[
+  #sol-item(19, "B", dense: true, pad: 0.0pt)[
     Private ownership and the profit motive define capitalism. Public ownership describes socialism, common ownership describes communism, and land as the source of status describes feudalism.
   ]
 
-  #sol-item(20, "B", dense: true, pad: 12.0pt)[
+  #sol-item(20, "B", dense: true, pad: 0.0pt)[
     Socialism socialises the key means of production but leaves room for small private business and does not claim to have abolished class. Communism is the Marxist end-point in which private property and class disappear.
   ]
 
-  #sol-item(21, "D", dense: true, pad: 12.0pt)[
+  #sol-item(21, "D", dense: true, pad: 0.0pt)[
     Feudalism. Land is held by a lord in return for service and worked by a tied peasantry, and the economy is agricultural rather than industrial.
   ]
 
-  #sol-item(22, "A", dense: true, pad: 12.0pt)[
+  #sol-item(22, "A", dense: true, pad: 0.0pt)[
     Fascism exalts the nation and the state above the individual, under one leader and one party. It is totalitarian in politics even where it leaves private property intact.
   ]
 
-  #sol-item(23, "A", dense: true, pad: 12.0pt)[
+  #sol-item(23, "A", dense: true, pad: 0.0pt)[
     Welfarism — capitalism with a safety net. The dividing line between it and socialism is who owns the major means of production, not who pays for health care.
   ]
 
-  #sol-item(24, "B", dense: true, pad: 12.0pt)[
+  #sol-item(24, "B", dense: true, pad: 0.0pt)[
     A mixed economy: private firms own most production, the state owns oil and infrastructure and regulates the rest, and the Constitution protects private property while setting social objectives.
   ]
 
-  #sol-item(25, "A", dense: true, pad: 12.0pt)[
+  #sol-item(25, "A", dense: true, pad: 0.0pt)[
     The supremacy of the executive over the courts is the negation of the rule of law. The other three are Dicey's three limbs.
   ]
 
-  #sol-item(26, "B", dense: true, pad: 12.0pt)[
+  #sol-item(26, "B", dense: true, pad: 0.0pt)[
     That is the first limb of the rule of law. Separation of powers concerns the division of functions, sovereignty concerns supreme authority, and federalism concerns the division of power between levels.
   ]
 
-  #sol-item(27, "D", dense: true, pad: 12.0pt)[
+  #sol-item(27, "D", dense: true, pad: 0.0pt)[
     Montesquieu, in The Spirit of the Laws. Dicey is associated with the rule of law, Hobbes with absolute sovereignty and Rousseau with the general will.
   ]
 
-  #sol-item(28, "D", dense: true, pad: 12.0pt)[
+  #sol-item(28, "D", dense: true, pad: 0.0pt)[
     The doctrine exists to prevent tyranny by keeping the three functions in different hands. It may slow government down, which is the price it pays for safety.
   ]
 
-  #sol-item(29, "C", dense: true, pad: 12.0pt)[
+  #sol-item(29, "C", dense: true, pad: 0.0pt)[
     The body of fundamental rules, written or unwritten, creating the organs of government and limiting their powers. A statute, a manifesto and a treaty are none of these things.
   ]
 
-  #sol-item(30, "B", dense: true, pad: 12.0pt)[
+  #sol-item(30, "B", dense: true, pad: 0.0pt)[
     Constitutionalism is the practice of being bound by the rules. A state can have a constitution without constitutionalism — Nigeria under military rule is the standard example.
   ]
 
-  #sol-item(31, "C", dense: true, pad: 12.0pt)[
+  #sol-item(31, "C", dense: true, pad: 0.0pt)[
     Written. Whether it is easy or hard to amend is a separate question, which is why written does not imply rigid.
   ]
 
-  #sol-item(32, "C", dense: true, pad: 12.0pt)[
+  #sol-item(32, "C", dense: true, pad: 0.0pt)[
     Unwritten and flexible: it is found in statutes, conventions and cases, and Parliament can change it by ordinary legislation.
   ]
 
-  #sol-item(33, "A", dense: true, pad: 12.0pt)[
+  #sol-item(33, "A", dense: true, pad: 0.0pt)[
     Rigid. The test is the amending procedure, not whether the rules are written down.
   ]
 
-  #sol-item(34, "A", dense: true, pad: 12.0pt)[
+  #sol-item(34, "A", dense: true, pad: 0.0pt)[
     A rigid constitution entrenches rights and institutions against a passing majority. Its disadvantage is that it also entrenches mistakes.
   ]
 
-  #sol-item(35, "C", dense: true, pad: 12.0pt)[
+  #sol-item(35, "C", dense: true, pad: 0.0pt)[
     The four standard answers are power, order, the citizen and change. Party history, economics and foreign law are each a part of the subject rather than its purpose.
   ]
 
-  #sol-item(36, "B", dense: true, pad: 12.0pt)[
+  #sol-item(36, "B", dense: true, pad: 0.0pt)[
     A nation-state, such as Japan or Iceland. Nigeria is the opposite case: one state, many nations.
   ]
 
-  #sol-item(37, "A", dense: true, pad: 12.0pt)[
+  #sol-item(37, "A", dense: true, pad: 0.0pt)[
     External sovereignty is independence: no other state may command the state. Treaties, tariffs and embassies are powers it exercises, not the sovereignty itself.
   ]
 
-  #sol-item(38, "C", dense: true, pad: 12.0pt)[
+  #sol-item(38, "C", dense: true, pad: 0.0pt)[
     Mass rejection of its authority is the test of legitimacy. Losing a vote, a reshuffle and a court defeat are ordinary events in a legitimate system.
   ]
 
-  #sol-item(39, "A", dense: true, pad: 12.0pt)[
+  #sol-item(39, "A", dense: true, pad: 0.0pt)[
     It may claim a mandate from the election result, however thin the popular vote. Sovereignty belongs to the people, judicial review belongs to the courts, and federal character is a principle of appointment.
   ]
 
-  #sol-item(40, "D", dense: true, pad: 12.0pt)[
+  #sol-item(40, "D", dense: true, pad: 0.0pt)[
     Sovereignty is an element of the state, not a form of government. Democracy, oligarchy and monarchy each answer the question of who rules.
   ]
 

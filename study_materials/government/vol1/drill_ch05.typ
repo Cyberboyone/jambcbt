@@ -1,7 +1,7 @@
 #import "template.typ": *
 
 
-#current-chapter.update("Chapter 5: citizenship, rights and public administration — Drills")
+#current-chapter.update("Chapter 5: Citizenship and Rights — Drills")
 
 #block(
   width: 100%,
@@ -315,7 +315,7 @@
 
 #v(6pt)
 
-#current-chapter.update("Chapter 5: citizenship, rights and public administration — Drills")
+#current-chapter.update("Chapter 5: Citizenship and Rights — Drills")
 
 === Answer Key and Score Bands
 

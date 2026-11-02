@@ -134,3 +134,33 @@
   + *One application to Nigeria.* A section, a number or a named institution — the mark that separates a definition from an answer.
   + *One limitation or contrast.* What the thing is not, or where it fails. It is the sentence most candidates leave out and the one examiners reward.
 ]
+
+#v(8pt)
+
+== G.13 Where the Marks Sit in a Ten-Mark Answer
+
+#text(size: 9.2pt)[The four parts of the shape are not equal in value. An examiner marking a ten-mark question awards, roughly, two for the definition, four for the numbered parts, three for the Nigerian application and one for the contrast. A candidate who writes a beautiful definition and stops has two marks, whatever the length.]
+
+#v(3pt)
+
+#table(
+  columns: (1.1fr, 0.6fr, 2.0fr, 1.85fr),
+  inset: (x: 5pt, y: 3.6pt),
+  align: (left + horizon, center + horizon, left + horizon, left + horizon),
+  stroke: 0.5pt + jamb-border,
+  fill: (x, y) => if y == 0 { jamb-navy } else if calc.odd(y) { white } else { jamb-light },
+  table.header(
+    text(font: "DejaVu Sans", size: 8.0pt, weight: "bold", fill: white)[Part],
+    text(font: "DejaVu Sans", size: 8.0pt, weight: "bold", fill: white)[Marks],
+    text(font: "DejaVu Sans", size: 8.0pt, weight: "bold", fill: white)[What earns them],
+    text(font: "DejaVu Sans", size: 8.0pt, weight: "bold", fill: white)[What loses them],
+  ),
+  [*Definition*], [*2*], [genus and difference in one sentence], [an example offered as a definition],
+  [*The parts*], [*4*], [three to six numbered items, one line each], [a paragraph that lists in prose],
+  [*Application*], [*3*], [a section, a number or a named institution], [“in Nigeria today” with no detail],
+  [*Contrast*], [*1*], [what the thing is not, or where it fails], [the sentence left out under time pressure],
+)
+
+#v(4pt)
+
+#text(font: "DejaVu Sans", size: 8.6pt, fill: jamb-muted)[Read your last practice answer against this table before you read the model. Most answers lose the contrast mark and half the application marks, which is four of the ten — the difference between a pass and a good pass.]

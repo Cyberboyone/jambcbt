@@ -1,7 +1,7 @@
 #import "template.typ": *
 
 
-#current-chapter.update("Chapter 6: foreign policy and international organisations — Drills")
+#current-chapter.update("Chapter 6: Nigeria in the World — Drills")
 
 #block(
   width: 100%,
@@ -315,7 +315,7 @@
 
 #v(6pt)
 
-#current-chapter.update("Chapter 6: foreign policy and international organisations — Drills")
+#current-chapter.update("Chapter 6: Nigeria in the World — Drills")
 
 === Answer Key and Score Bands
 
@@ -346,164 +346,164 @@
 
   #block(breakable: false)[
   === Complete Solutions
-  #sol-item(1, "D", dense: true, pad: 4.0pt)[
+  #sol-item(1, "D", dense: true, pad: 10.0pt)[
     Foreign policy is the whole of a state's external action in pursuit of national interest. Diplomacy is one instrument, membership one setting, and treaties one product.
   ]
 
-  #sol-item(2, "B", dense: true, pad: 4.0pt)[
+  #sol-item(2, "B", dense: true, pad: 10.0pt)[
     National interest and economic strength are primary determinants, along with history, geography, public opinion and the international system. Flags, civil-service size and party counts do not determine foreign policy.
   ]
   ]
 
-  #sol-item(3, "D", dense: true, pad: 4.0pt)[
+  #sol-item(3, "D", dense: true, pad: 10.0pt)[
     The doctrine is about priorities. Geography and AU membership are facts, and Nigeria has extensive relations with the West.
   ]
 
-  #sol-item(4, "B", dense: true, pad: 4.0pt)[
+  #sol-item(4, "B", dense: true, pad: 10.0pt)[
     Nigeria first, then the West African neighbourhood, then the continent, then the world — the inner ring taking precedence when the rings conflict.
   ]
 
-  #sol-item(5, "A", dense: true, pad: 4.0pt)[
+  #sol-item(5, "A", dense: true, pad: 10.0pt)[
     ECOWAS is the West African neighbourhood, the first circle outside Nigeria itself. The AU is the continental ring, and the UN and the Commonwealth are wider.
   ]
 
-  #sol-item(6, "A", dense: true, pad: 4.0pt)[
+  #sol-item(6, "A", dense: true, pad: 10.0pt)[
     Nigeria was a founding member at Lagos in 1975, together with Togo and thirteen others, and has been its largest economy and a principal financier since.
   ]
 
-  #sol-item(7, "C", dense: true, pad: 4.0pt)[
+  #sol-item(7, "C", dense: true, pad: 10.0pt)[
     Abuja. The Community was founded in Lagos, and the secretariat became a Commission and moved to Abuja.
   ]
 
-  #sol-item(8, "C", dense: true, pad: 4.0pt)[
+  #sol-item(8, "C", dense: true, pad: 10.0pt)[
     1975, by the Treaty of Lagos. 1963 is the OAU, 2002 the African Union, and 1960 Nigerian independence.
   ]
 
-  #sol-item(9, "D", dense: true, pad: 4.0pt)[
+  #sol-item(9, "D", dense: true, pad: 10.0pt)[
     Fifteen, after Mauritania withdrew in 2000. Mali, Burkina Faso and Niger announced withdrawal in 2024, which is the current constitutional question the paper may test.
   ]
 
-  #sol-item(10, "D", dense: true, pad: 4.0pt)[
+  #sol-item(10, "D", dense: true, pad: 10.0pt)[
     ECOMOG, the ECOWAS Monitoring Group, which intervened in Liberia in 1990 and Sierra Leone in 1997 with Nigeria as its principal contributor.
   ]
 
-  #sol-item(11, "C", dense: true, pad: 4.0pt)[
+  #sol-item(11, "C", dense: true, pad: 10.0pt)[
     African unity and independence, national security, development, peace and the protection of Nigerians abroad are the objectives. Colonisation, abolition of the UN and a bloc against Africa are not.
   ]
 
-  #sol-item(12, "A", dense: true, pad: 4.0pt)[
+  #sol-item(12, "A", dense: true, pad: 10.0pt)[
     1963, in Addis Ababa, by thirty-two states. It was replaced by the African Union in 2002.
   ]
 
-  #sol-item(13, "B", dense: true, pad: 4.0pt)[
+  #sol-item(13, "B", dense: true, pad: 10.0pt)[
     It replaced the OAU in 2002, with a new emphasis on peace and security, democracy and continental integration.
   ]
 
-  #sol-item(14, "C", dense: true, pad: 4.0pt)[
+  #sol-item(14, "C", dense: true, pad: 10.0pt)[
     Addis Ababa, the Ethiopian capital, which was also the home of the OAU.
   ]
 
-  #sol-item(15, "C", dense: true, pad: 4.0pt)[
+  #sol-item(15, "C", dense: true, pad: 10.0pt)[
     Fifty-five, comprising all African states including the Sahrawi Arab Democratic Republic. 193 is the United Nations; 54 is the number of signatories to the AfCFTA.
   ]
 
-  #sol-item(16, "B", dense: true, pad: 4.0pt)[
+  #sol-item(16, "B", dense: true, pad: 10.0pt)[
     1945, when the Charter was signed at San Francisco and came into force on 24 October. 1919 is the League of Nations, which the UN replaced.
   ]
 
-  #sol-item(17, "D", dense: true, pad: 4.0pt)[
+  #sol-item(17, "D", dense: true, pad: 10.0pt)[
     Article 24 of the Charter gives the Security Council the primary responsibility, with power to impose sanctions and authorise force. The General Assembly debates and recommends.
   ]
 
-  #sol-item(18, "C", dense: true, pad: 4.0pt)[
+  #sol-item(18, "C", dense: true, pad: 10.0pt)[
     Five — China, France, Russia, the United Kingdom and the United States — each with a veto. The Council has fifteen members in all, ten of them elected for two years.
   ]
 
-  #sol-item(19, "C", dense: true, pad: 4.0pt)[
+  #sol-item(19, "C", dense: true, pad: 10.0pt)[
     China, France, Russia, the United Kingdom and the United States, the victors of 1945, each holding a veto.
   ]
 
-  #sol-item(20, "B", dense: true, pad: 4.0pt)[
+  #sol-item(20, "B", dense: true, pad: 10.0pt)[
     The Secretary-General, appointed by the General Assembly on the Security Council's recommendation.
   ]
 
-  #sol-item(21, "D", dense: true, pad: 4.0pt)[
+  #sol-item(21, "D", dense: true, pad: 10.0pt)[
     The Hague, in the Peace Palace, with fifteen judges elected by the General Assembly and the Security Council.
   ]
 
-  #sol-item(22, "A", dense: true, pad: 4.0pt)[
+  #sol-item(22, "A", dense: true, pad: 10.0pt)[
     Fifteen, elected for nine-year terms. Nine is the quorum, which is the option written to catch a careless candidate.
   ]
 
-  #sol-item(23, "B", dense: true, pad: 4.0pt)[
+  #sol-item(23, "B", dense: true, pad: 10.0pt)[
     ECOSOC, with fifty-four members, coordinates the WHO, UNESCO, ILO, UNICEF and the rest.
   ]
 
-  #sol-item(24, "D", dense: true, pad: 4.0pt)[
+  #sol-item(24, "D", dense: true, pad: 10.0pt)[
     Its work finished in 1994 with Palau, the last trust territory, and it suspended operations. It was not abolished, because amending the Charter is difficult.
   ]
 
-  #sol-item(25, "B", dense: true, pad: 4.0pt)[
+  #sol-item(25, "B", dense: true, pad: 10.0pt)[
     A voluntary association of fifty-six states, most of them formerly British, which cooperates and may suspend members but cannot bind them.
   ]
 
-  #sol-item(26, "A", dense: true, pad: 4.0pt)[
+  #sol-item(26, "A", dense: true, pad: 10.0pt)[
     1995, after the execution of Ken Saro-Wiwa and eight others under the Abacha government. Nigeria was readmitted in 1999.
   ]
 
-  #sol-item(27, "A", dense: true, pad: 4.0pt)[
+  #sol-item(27, "A", dense: true, pad: 10.0pt)[
     Baghdad, by five countries: Iran, Iraq, Kuwait, Saudi Arabia and Venezuela. Nigeria joined in 1971.
   ]
 
-  #sol-item(28, "A", dense: true, pad: 4.0pt)[
+  #sol-item(28, "A", dense: true, pad: 10.0pt)[
     1971, eleven years after the organisation was founded. 1960 is Nigerian independence, 1975 is ECOWAS, and 1986 is the year of the second oil shock and the structural adjustment debate.
   ]
 
-  #sol-item(29, "C", dense: true, pad: 4.0pt)[
+  #sol-item(29, "C", dense: true, pad: 10.0pt)[
     Production quotas, agreed by the conference of oil ministers, are the cartel's instrument. OPEC has no military or monetary power.
   ]
 
-  #sol-item(30, "B", dense: true, pad: 4.0pt)[
+  #sol-item(30, "B", dense: true, pad: 10.0pt)[
     It sends doctors, engineers and teachers as technical assistance, which is the aid instrument of foreign policy in action.
   ]
 
-  #sol-item(31, "D", dense: true, pad: 4.0pt)[
+  #sol-item(31, "D", dense: true, pad: 10.0pt)[
     The African Continental Free Trade Area, signed at Kigali in 2018 with trading under the agreement beginning in 2021 and the secretariat in Accra, Ghana.
   ]
 
-  #sol-item(32, "C", dense: true, pad: 4.0pt)[
+  #sol-item(32, "C", dense: true, pad: 10.0pt)[
     It is the military instrument in the service of the first circle — regional peace and security — with Nigeria supplying most of the troops and the money.
   ]
 
-  #sol-item(33, "D", dense: true, pad: 4.0pt)[
+  #sol-item(33, "D", dense: true, pad: 10.0pt)[
     Diplomacy, aid, trade, force, sanctions and public diplomacy are the instruments. The census, examinations and local government are domestic institutions.
   ]
 
-  #sol-item(34, "B", dense: true, pad: 4.0pt)[
+  #sol-item(34, "B", dense: true, pad: 10.0pt)[
     Middle powers multiply their voice through organisations, mediation and law, because coercion is unavailable and expensive. Isolation and expulsion are last resorts, not strategies.
   ]
 
-  #sol-item(35, "B", dense: true, pad: 4.0pt)[
+  #sol-item(35, "B", dense: true, pad: 10.0pt)[
     Article 24 of the Charter confers the responsibility, together with the powers needed to discharge it, including sanctions and the authorisation of force.
   ]
 
-  #sol-item(36, "D", dense: true, pad: 4.0pt)[
+  #sol-item(36, "D", dense: true, pad: 10.0pt)[
     The AU's Peace and Security Council, backed by the African Standby Force. The Security Council is the UN's, the Trusteeship Council is a UN organ, and ECOMOG is ECOWAS's.
   ]
 
-  #sol-item(37, "B", dense: true, pad: 4.0pt)[
+  #sol-item(37, "B", dense: true, pad: 10.0pt)[
     Murtala's government was the most radical of the military era: recognition of Angola's MPLA, support for liberation movements in southern Africa, and the “Africa has come of age” speech at the OAU.
   ]
 
-  #sol-item(38, "A", dense: true, pad: 4.0pt)[
+  #sol-item(38, "A", dense: true, pad: 10.0pt)[
     Cameroon is Central African, not West African, and belongs to the Economic Community of Central African States. Ghana, Senegal and Côte d'Ivoire are all ECOWAS members.
   ]
 
-  #sol-item(39, "B", dense: true, pad: 4.0pt)[
+  #sol-item(39, "B", dense: true, pad: 10.0pt)[
     It is a voluntary association whose decisions are recommendations; it can suspend a member but not legislate for it. It has fifty-six members against the UN's 193, and neither a Security Council nor an army.
   ]
 
-  #sol-item(40, "A", dense: true, pad: 4.0pt)[
+  #sol-item(40, "A", dense: true, pad: 10.0pt)[
     The neighbourhood is the first circle: borders, trade, security and the regional body are the immediate interests, and the visit is the diplomacy that serves them.
   ]
 

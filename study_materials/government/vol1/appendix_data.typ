@@ -232,3 +232,31 @@
   + *67–76–87–91–96*: the states, in fives and tens — 12, 19, 21, 30, 36.
   + *75–02*: ECOWAS at Lagos, the AU at Addis Ababa — the two organisations that carry Nigeria's first two circles.
 ]
+
+#v(8pt)
+
+== D.9 The Three Date Questions
+
+#text(size: 9.2pt)[Every date in this appendix is asked in one of three ways. Naming the form of the question before you answer is worth more than memorising a fourth timeline, because the wrong options are drawn from the two forms you are not answering.]
+
+#v(3pt)
+
+#table(
+  columns: (1.15fr, 2.15fr, 1.85fr),
+  inset: (x: 5pt, y: 3.6pt),
+  align: (left + horizon, left + horizon, left + horizon),
+  stroke: 0.5pt + jamb-border,
+  fill: (x, y) => if y == 0 { jamb-navy } else if calc.odd(y) { white } else { jamb-light },
+  table.header(
+    text(font: "DejaVu Sans", size: 8.0pt, weight: "bold", fill: white)[The question],
+    text(font: "DejaVu Sans", size: 8.0pt, weight: "bold", fill: white)[The example],
+    text(font: "DejaVu Sans", size: 8.0pt, weight: "bold", fill: white)[The trap it sets],
+  ),
+  [*Year to event*], [“The Richards Constitution was introduced in…”], [the year before it (1922) and the year after (1951)],
+  [*Event to year*], [“The first twelve states were created during the administration of…”], [nineteen states (1976) confused with twelve (1967)],
+  [*Order*], [“Arrange in order: Richards, Macpherson, Lyttleton, Clifford.”], [the order of the names in the textbook, which is chronological and so looks safe],
+)
+
+#v(4pt)
+
+#text(font: "DejaVu Sans", size: 8.6pt, fill: jamb-muted)[For an order question, do not read the options first. Write the four events on the margin in the order you know them, then find the option that matches your line — the margin is faster than the list of four permuted options, and it cannot be led astray by an option that is almost right.]

@@ -205,9 +205,6 @@ instrument fits which situation.
   + *ECOSOC:* 54 members, coordinating the specialised agencies — WHO, UNESCO, UNICEF, ILO and the rest.
 ]
 
-#diagram-fig("diagrams/gov_ch06_ecowas.svg",
-  "ECOWAS. The Authority of Heads of State sits above the Council of Ministers, the Commission and the Court of Justice.", width: 100%)
-
 #table(
   columns: (1.15fr, 1.35fr, 1.55fr, 1.85fr),
   inset: 4.2pt,
@@ -227,6 +224,9 @@ instrument fits which situation.
   [*OPEC*], [1960, Baghdad], [12 members], [joined 1971; the largest African producer; quota decisions],
   [*AfCFTA*], [2018, Kigali; trade began 2021], [54 signatories], [a leading promoter; the secretariat is in Accra],
 )
+
+#diagram-fig("diagrams/gov_ch06_ecowas.svg",
+  "ECOWAS. The Authority of Heads of State sits above the Council of Ministers, the Commission and the Court of Justice.", width: 100%)
 
 #trap-box("The three confusions the paper counts on")[
   *The OAU and the AU are not the same body.* The OAU was founded in 1963 and replaced by the

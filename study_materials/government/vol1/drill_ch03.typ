@@ -1,7 +1,7 @@
 #import "template.typ": *
 
 
-#current-chapter.update("Chapter 3: the organs of government — Drills")
+#current-chapter.update("Chapter 3: The Organs of Government — Drills")
 
 #block(
   width: 100%,
@@ -315,7 +315,7 @@
 
 #v(6pt)
 
-#current-chapter.update("Chapter 3: the organs of government — Drills")
+#current-chapter.update("Chapter 3: The Organs of Government — Drills")
 
 === Answer Key and Score Bands
 

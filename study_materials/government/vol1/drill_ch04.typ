@@ -1,7 +1,7 @@
 #import "template.typ": *
 
 
-#current-chapter.update("Chapter 4: parties, pressure groups and elections — Drills")
+#current-chapter.update("Chapter 4: Parties, Groups and Elections — Drills")
 
 #block(
   width: 100%,
@@ -315,7 +315,7 @@
 
 #v(6pt)
 
-#current-chapter.update("Chapter 4: parties, pressure groups and elections — Drills")
+#current-chapter.update("Chapter 4: Parties, Groups and Elections — Drills")
 
 === Answer Key and Score Bands
 
@@ -346,164 +346,164 @@
 
   #block(breakable: false)[
   === Complete Solutions
-  #sol-item(1, "D", dense: true, pad: 11.0pt)[
+  #sol-item(1, "D", dense: true, pad: 10.0pt)[
     Contesting elections to win power is what makes an association a party. Influencing policy without seeking office is the pressure group's work, and conducting elections is INEC's.
   ]
 
-  #sol-item(2, "B", dense: true, pad: 11.0pt)[
+  #sol-item(2, "B", dense: true, pad: 10.0pt)[
     Aggregating interests is the first of the party's functions. The census is a statistical exercise, election petitions are judicial, and currency is the central bank's.
   ]
   ]
 
-  #sol-item(3, "D", dense: true, pad: 11.0pt)[
+  #sol-item(3, "D", dense: true, pad: 10.0pt)[
     Recruitment — choosing who will stand and who will lead. Aggregation is combining demands into a programme, and education is explaining issues to the electorate.
   ]
 
-  #sol-item(4, "B", dense: true, pad: 11.0pt)[
+  #sol-item(4, "B", dense: true, pad: 10.0pt)[
     A cadre party. A mass party has a large membership, branches and a written programme; a coalition is a temporary alliance of parties.
   ]
 
-  #sol-item(5, "A", dense: true, pad: 11.0pt)[
+  #sol-item(5, "A", dense: true, pad: 10.0pt)[
     Large membership, branches and a programme are the marks of a mass party. Reliance on one leader and the absence of a manifesto belong to the cadre form.
   ]
 
-  #sol-item(6, "B", dense: true, pad: 11.0pt)[
+  #sol-item(6, "B", dense: true, pad: 10.0pt)[
     A clear choice and a clear majority are the merits claimed for two-party systems. Small-group representation and coalitions are features of multi-party systems.
   ]
 
-  #sol-item(7, "D", dense: true, pad: 11.0pt)[
+  #sol-item(7, "D", dense: true, pad: 10.0pt)[
     No choice and no opposition: power without an alternative is the definition of the system's defect. Instability and coalitions are the vices of the multi-party form.
   ]
 
-  #sol-item(8, "A", dense: true, pad: 11.0pt)[
+  #sol-item(8, "A", dense: true, pad: 10.0pt)[
     Dominant-party: competition is legal and real, but the result is predictable. A one-party system would make the competition illegal.
   ]
 
-  #sol-item(9, "D", dense: true, pad: 11.0pt)[
+  #sol-item(9, "D", dense: true, pad: 10.0pt)[
     Many parties are registered and contest, and one (the PDP until 2015, the APC since) has dominated. The 2015 alternation shows that the dominance is not absolute.
   ]
 
-  #sol-item(10, "A", dense: true, pad: 11.0pt)[
+  #sol-item(10, "A", dense: true, pad: 10.0pt)[
     The test is ambition: influence without office. A pressure group is intensely political, can influence legislation, and does not need INEC registration as a party.
   ]
 
-  #sol-item(11, "C", dense: true, pad: 11.0pt)[
+  #sol-item(11, "C", dense: true, pad: 10.0pt)[
     A sectional group: it exists to protect the interests of its members, the workers. A promotional group promotes a cause that its members need not benefit from.
   ]
 
-  #sol-item(12, "B", dense: true, pad: 11.0pt)[
+  #sol-item(12, "B", dense: true, pad: 10.0pt)[
     Lobbying, petitions, strikes and demonstrations are its methods. Nominating candidates is a party's, conducting a census is a statistician's, and declaring a law void is the court's.
   ]
 
-  #sol-item(13, "C", dense: true, pad: 11.0pt)[
+  #sol-item(13, "C", dense: true, pad: 10.0pt)[
     The process of choosing officeholders by the vote of the eligible population. A debate is part of a campaign, registration precedes it, and a legislative vote is a different act.
   ]
 
-  #sol-item(14, "C", dense: true, pad: 11.0pt)[
+  #sol-item(14, "C", dense: true, pad: 10.0pt)[
     The franchise is the right to vote. The right to stand is candidacy, the body is INEC, and the method of counting belongs to the electoral system.
   ]
 
-  #sol-item(15, "D", dense: true, pad: 11.0pt)[
+  #sol-item(15, "D", dense: true, pad: 10.0pt)[
     Section 77 and the Electoral Act give the vote to citizens of eighteen who are registered. Property, tax and literacy qualifications belonged to the colonial franchise.
   ]
 
-  #sol-item(16, "A", dense: true, pad: 11.0pt)[
+  #sol-item(16, "A", dense: true, pad: 10.0pt)[
     1979, with the presidential Constitution. The 1922 franchise was restricted by sex and property, and the intervening constitutions widened it step by step.
   ]
 
-  #sol-item(17, "A", dense: true, pad: 11.0pt)[
+  #sol-item(17, "A", dense: true, pad: 10.0pt)[
     First past the post: a plurality is enough. The second ballot requires a run-off without a majority, and proportional representation allocates seats by share of the vote.
   ]
 
-  #sol-item(18, "B", dense: true, pad: 11.0pt)[
+  #sol-item(18, "B", dense: true, pad: 10.0pt)[
     Proportionality is its purpose — fairness to small parties. Its costs are coalitions, weaker constituency links and complexity.
   ]
 
-  #sol-item(19, "B", dense: true, pad: 11.0pt)[
+  #sol-item(19, "B", dense: true, pad: 10.0pt)[
     First past the post in single-member constituencies. Nigeria also uses it for the presidency, with the added requirement of a spread of votes across the states.
   ]
 
-  #sol-item(20, "C", dense: true, pad: 11.0pt)[
+  #sol-item(20, "C", dense: true, pad: 10.0pt)[
     The Independent National Electoral Commission, established by the Constitution. It also registers parties and voters and announces results.
   ]
 
-  #sol-item(21, "A", dense: true, pad: 11.0pt)[
+  #sol-item(21, "A", dense: true, pad: 10.0pt)[
     Money that cannot be withheld and tenure that cannot be ended at will are the guarantees. Executive budget control and legislative subordination would be the opposite.
   ]
 
-  #sol-item(22, "A", dense: true, pad: 11.0pt)[
+  #sol-item(22, "A", dense: true, pad: 10.0pt)[
     Snatching and stuffing are the classic malpractice. Secrecy, a public count and a current register are the marks of a free election.
   ]
 
-  #sol-item(23, "C", dense: true, pad: 11.0pt)[
+  #sol-item(23, "C", dense: true, pad: 10.0pt)[
     Manipulating boundaries to favour a party. Vote-buying, intimidation and stuffing are separate malpractice with their own names.
   ]
 
-  #sol-item(24, "B", dense: true, pad: 11.0pt)[
+  #sol-item(24, "B", dense: true, pad: 10.0pt)[
     Independence, a current register, secrecy and an open count are the conditions. One-party ballots, military announcements and media control are the opposites.
   ]
 
-  #sol-item(25, "B", dense: true, pad: 11.0pt)[
+  #sol-item(25, "B", dense: true, pad: 10.0pt)[
     The climate of opinion among adults on a public question. A government's view, an election result and an editorial are each evidence of it rather than the thing itself.
   ]
 
-  #sol-item(26, "D", dense: true, pad: 11.0pt)[
+  #sol-item(26, "D", dense: true, pad: 10.0pt)[
     The media inform, educate and provide a platform for debate. The bank, the court and the statistical board perform other functions.
   ]
 
-  #sol-item(27, "C", dense: true, pad: 11.0pt)[
+  #sol-item(27, "C", dense: true, pad: 10.0pt)[
     Election petitions belong to tribunals and courts. Informing, educating and providing a platform are the media's own functions.
   ]
 
-  #sol-item(28, "A", dense: true, pad: 11.0pt)[
+  #sol-item(28, "A", dense: true, pad: 10.0pt)[
     The opposition criticises, proposes alternatives and holds the government to account. Forming the government is the majority party's work, and elections and appointments belong to other bodies.
   ]
 
-  #sol-item(29, "A", dense: true, pad: 11.0pt)[
+  #sol-item(29, "A", dense: true, pad: 10.0pt)[
     Coalition dependence is the standard charge: a partner's withdrawal can bring the government down. Multi-party systems do not prevent voting or forbid majorities.
   ]
 
-  #sol-item(30, "B", dense: true, pad: 11.0pt)[
+  #sol-item(30, "B", dense: true, pad: 10.0pt)[
     The manifesto is the programme on which it seeks a mandate. The party constitution governs its internal organisation, and membership and finance are different records.
   ]
 
-  #sol-item(31, "A", dense: true, pad: 11.0pt)[
+  #sol-item(31, "A", dense: true, pad: 10.0pt)[
     Elections are periodic; interests are continuous. Pressure groups channel demands into policy between elections, which is the function the paper wants.
   ]
 
-  #sol-item(32, "D", dense: true, pad: 11.0pt)[
+  #sol-item(32, "D", dense: true, pad: 10.0pt)[
     It is a preferential form of proportional representation, used in Ireland and Malta. The second ballot and first past the post are majority and plurality systems.
   ]
 
-  #sol-item(33, "C", dense: true, pad: 11.0pt)[
+  #sol-item(33, "C", dense: true, pad: 10.0pt)[
     It forces a candidate to build support across the country rather than in one region, which is the federal logic of the rule.
   ]
 
-  #sol-item(34, "A", dense: true, pad: 11.0pt)[
+  #sol-item(34, "A", dense: true, pad: 10.0pt)[
     Conducting elections is the electoral commission's function. Parties contest elections; they do not administer them.
   ]
 
-  #sol-item(35, "B", dense: true, pad: 11.0pt)[
+  #sol-item(35, "B", dense: true, pad: 10.0pt)[
     A poll infers the whole from a sample. Its accuracy depends on the sample being random and large enough, and a published poll can itself shift opinion.
   ]
 
-  #sol-item(36, "D", dense: true, pad: 11.0pt)[
+  #sol-item(36, "D", dense: true, pad: 10.0pt)[
     The claim that the electorate endorsed the programme. Legality is a separate question, and an oath and a dissolution power are instruments of office.
   ]
 
-  #sol-item(37, "C", dense: true, pad: 11.0pt)[
+  #sol-item(37, "C", dense: true, pad: 10.0pt)[
     Excluding opposition agents from the count removes the guarantee that the result is real. A modest turnout, local announcement and a biometric register are all compatible with a fair election.
   ]
 
-  #sol-item(38, "C", dense: true, pad: 11.0pt)[
+  #sol-item(38, "C", dense: true, pad: 10.0pt)[
     A council makes bye-laws only because a law gives it the power — which is why a bye-law is delegated legislation and is void if it exceeds the power.
   ]
 
-  #sol-item(39, "A", dense: true, pad: 11.0pt)[
+  #sol-item(39, "A", dense: true, pad: 10.0pt)[
     Strikes, demonstrations, petitions and lobbying are all legitimate methods. Nominating candidates and contesting elections are what make an organisation a party rather than a group.
   ]
 
-  #sol-item(40, "B", dense: true, pad: 11.0pt)[
+  #sol-item(40, "B", dense: true, pad: 10.0pt)[
     A mixed member system, used in Germany and New Zealand: constituency members are elected directly and list members top up each party's share so that the result is proportional.
   ]
 

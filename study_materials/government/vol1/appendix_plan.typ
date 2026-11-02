@@ -113,3 +113,22 @@
   reading and 40 minutes of drill a day, and it covers the eighty per cent of the paper that
   is definitions, dates, institutions and the four confusions the examiner recycles.
 ]
+
+#v(8pt)
+
+== H.4 The Morning of the Paper
+
+The last four hours are not for learning; they are for arriving with the four things the paper always asks for already in your mouth.
+
+#v(3pt)
+
+#concept-box("Four things to be able to say before you sit down")[
+  + *The four elements of the state:* population, territory, sovereignty, government — and the constitution is not one of them.
+  + *The chain:* Clifford 1922, Richards 1946, Macpherson 1951, Lyttleton 1954, independence 1960, republic 1963.
+  + *The lists:* exclusive to the federal government, concurrent shared, residual to the states — and federal character in section 14.
+  + *The organs:* 109 and 360, the President and the ministers, the Supreme Court at the top of the courts.
+]
+
+#v(4pt)
+
+#text(size: 9.0pt)[Then read every stem twice and underline the word that decides it: *not*, *first*, *mainly*, *except*. The paper rarely hides a fact; it hides a qualifier. If a question refuses to yield in forty-five seconds, mark it, choose the option that names the organ or the year you are sure of, and move.]

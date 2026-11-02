@@ -39,10 +39,10 @@ TITLES = {
 
 BANK_BLOCKS = [
     ("Ch 1 — the state and its forms", 20),
-    ("Ch 2 — the constitutional chain", 20),
-    ("Ch 3 — the organs and their checks", 20),
-    ("Ch 4 — parties, groups and elections", 20),
-    ("Ch 5 — citizens, rights and administration", 20),
+    ("Ch 2 — the constitution", 20),
+    ("Ch 3 — the organs", 20),
+    ("Ch 4 — parties and elections", 20),
+    ("Ch 5 — citizens and rights", 20),
     ("Ch 6 — Nigeria in the world", 20),
 ]
 
@@ -285,7 +285,7 @@ def render_paper(num: int, data, title: str, blurb: str) -> None:
     lines.append("))")
     lines.append("")
 
-    pad = _pad(intro)
+    pad = _pad(f"paper{num}")
     lines += [
         "#[",
         "  #set text(size: 9.0pt)",
@@ -403,7 +403,7 @@ def render_bank() -> None:
         "#v(3pt)",
         "",
         "#table(",
-        "  columns: (2.2fr, 0.55fr, 0.7fr, 0.7fr, 0.75fr, 1.0fr),",
+        "  columns: (2.45fr, 0.5fr, 0.62fr, 0.62fr, 0.7fr, 0.95fr),",
         "  inset: (x: 5pt, y: 4.2pt),",
         "  align: (left + horizon, center + horizon, center + horizon, center + horizon, center + horizon, center + horizon),",
         "  stroke: 0.5pt + jamb-border,",
