@@ -119,7 +119,7 @@ asks what happens next can be answered from the sequence alone.
   [*Jovinian*], [the proud king; boasts that he is a god while he lives, loses his identity, begs, repents and is restored], [1–12],
   [*The angel*], [the figure in white with wings who takes the king's place, rules better than he did, and returns the kingdom], [4–11],
   [*The queen*], [Jovinian's wife, who denies him at the palace; her denial is the poem's cruellest because it is the most intimate], [8],
-  [*Duke Peters*], [a noble who had served the king and takes him for a madman at his own gate], [7],
+  [*Duke Peters*], [a noble who had served the king, fails to recognise him and jails him], [7],
   [*The ranger*], [keeper of the forest; his household is the first to refuse the king shelter], [5–6],
   [*The porter*], [the lowest servant, who mocks the king at the ranger's gate; the first denial in the poem], [5],
   [*The old priest*], [the one who recognises Jovinian, and only after the cry; recognition is moral, not visual], [11],
