@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 350" width="760" height="350">
+  <defs>
+    <marker id="ag" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#008751"/>
+    </marker>
+    <marker id="an" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#0E1F40"/>
+    </marker>
+    <marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#D97706"/>
+    </marker>
+    <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#DC2626"/>
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="760" height="350" fill="#FFFFFF"/>
+<text x="380" y="22" font-family="DejaVu Sans" font-size="12.4" fill="#0E1F40" text-anchor="middle" font-weight="bold">From the document to the trial balance</text>
+<rect x="10" y="44" width="180" height="82" rx="8" fill="#FFFFFF" stroke="#008751" stroke-width="1.5"/>
+<rect x="10" y="44" width="180" height="5" rx="2.5" fill="#008751"/>
+<text x="100" y="70" font-family="DejaVu Sans" font-size="9.4" fill="#008751" text-anchor="middle" font-weight="bold">SOURCE</text>
+<text x="100" y="84" font-family="DejaVu Sans" font-size="9.4" fill="#008751" text-anchor="middle" font-weight="bold">DOCUMENTS</text>
+<text x="100" y="100" font-family="DejaVu Sans" font-size="8.6" fill="#0E1F40" text-anchor="middle" font-weight="normal">invoice, receipt,</text>
+<text x="100" y="113" font-family="DejaVu Sans" font-size="8.6" fill="#0E1F40" text-anchor="middle" font-weight="normal">cheque stub, debit note</text>
+<line x1="192" y1="85" x2="210" y2="85" stroke="#334155" stroke-width="1.6" marker-end="url(#ag)"/>
+<rect x="197" y="44" width="180" height="82" rx="8" fill="#FFFFFF" stroke="#2563EB" stroke-width="1.5"/>
+<rect x="197" y="44" width="180" height="5" rx="2.5" fill="#2563EB"/>
+<text x="287" y="70" font-family="DejaVu Sans" font-size="9.4" fill="#2563EB" text-anchor="middle" font-weight="bold">BOOKS OF</text>
+<text x="287" y="84" font-family="DejaVu Sans" font-size="9.4" fill="#2563EB" text-anchor="middle" font-weight="bold">ORIGINAL ENTRY</text>
+<text x="287" y="100" font-family="DejaVu Sans" font-size="8.6" fill="#0E1F40" text-anchor="middle" font-weight="normal">sales, purchases, returns,</text>
+<text x="287" y="113" font-family="DejaVu Sans" font-size="8.6" fill="#0E1F40" text-anchor="middle" font-weight="normal">cash books, journal</text>
+<line x1="379" y1="85" x2="397" y2="85" stroke="#334155" stroke-width="1.6" marker-end="url(#ag)"/>
+<rect x="384" y="44" width="180" height="82" rx="8" fill="#FFFFFF" stroke="#7C3AED" stroke-width="1.5"/>
+<rect x="384" y="44" width="180" height="5" rx="2.5" fill="#7C3AED"/>
+<text x="474" y="70" font-family="DejaVu Sans" font-size="9.4" fill="#7C3AED" text-anchor="middle" font-weight="bold">LEDGER</text>
+<text x="474" y="100" font-family="DejaVu Sans" font-size="8.6" fill="#0E1F40" text-anchor="middle" font-weight="normal">each account on its</text>
+<text x="474" y="113" font-family="DejaVu Sans" font-size="8.6" fill="#0E1F40" text-anchor="middle" font-weight="normal">own T-page</text>
+<line x1="566" y1="85" x2="584" y2="85" stroke="#334155" stroke-width="1.6" marker-end="url(#ag)"/>
+<rect x="571" y="44" width="180" height="82" rx="8" fill="#FFFFFF" stroke="#D97706" stroke-width="1.5"/>
+<rect x="571" y="44" width="180" height="5" rx="2.5" fill="#D97706"/>
+<text x="661" y="70" font-family="DejaVu Sans" font-size="9.4" fill="#D97706" text-anchor="middle" font-weight="bold">TRIAL</text>
+<text x="661" y="84" font-family="DejaVu Sans" font-size="9.4" fill="#D97706" text-anchor="middle" font-weight="bold">BALANCE</text>
+<text x="661" y="100" font-family="DejaVu Sans" font-size="8.6" fill="#0E1F40" text-anchor="middle" font-weight="normal">every balance, debits</text>
+<text x="661" y="113" font-family="DejaVu Sans" font-size="8.6" fill="#0E1F40" text-anchor="middle" font-weight="normal">against credits</text>
+<text x="380" y="152" font-family="DejaVu Sans" font-size="9.6" fill="#0E1F40" text-anchor="middle" font-weight="bold">THE FIVE JOURNALS, AND WHAT EACH ONE RECORDS</text>
+<rect x="10" y="164" width="250" height="24" rx="4" fill="#FFFFFF" stroke="#008751" stroke-width="1.0"/>
+<text x="135" y="180" font-family="DejaVu Sans" font-size="8.8" fill="#008751" text-anchor="middle" font-weight="bold">SALES DAY BOOK</text>
+<text x="268" y="180" font-family="DejaVu Sans" font-size="8.8" fill="#0E1F40" text-anchor="start" font-weight="normal">credit sales</text>
+<rect x="10" y="194" width="250" height="24" rx="4" fill="#FFFFFF" stroke="#008751" stroke-width="1.0"/>
+<text x="135" y="210" font-family="DejaVu Sans" font-size="8.8" fill="#008751" text-anchor="middle" font-weight="bold">PURCHASES DAY BOOK</text>
+<text x="268" y="210" font-family="DejaVu Sans" font-size="8.8" fill="#0E1F40" text-anchor="start" font-weight="normal">credit purchases</text>
+<rect x="10" y="224" width="250" height="24" rx="4" fill="#FFFFFF" stroke="#008751" stroke-width="1.0"/>
+<text x="135" y="240" font-family="DejaVu Sans" font-size="8.8" fill="#008751" text-anchor="middle" font-weight="bold">RETURNS INWARDS</text>
+<text x="268" y="240" font-family="DejaVu Sans" font-size="8.8" fill="#0E1F40" text-anchor="start" font-weight="normal">goods the customer sends back</text>
+<rect x="10" y="254" width="250" height="24" rx="4" fill="#FFFFFF" stroke="#008751" stroke-width="1.0"/>
+<text x="135" y="270" font-family="DejaVu Sans" font-size="8.8" fill="#008751" text-anchor="middle" font-weight="bold">RETURNS OUTWARDS</text>
+<text x="268" y="270" font-family="DejaVu Sans" font-size="8.8" fill="#0E1F40" text-anchor="start" font-weight="normal">goods we send back</text>
+<rect x="10" y="284" width="250" height="24" rx="4" fill="#FFFFFF" stroke="#008751" stroke-width="1.0"/>
+<text x="135" y="300" font-family="DejaVu Sans" font-size="8.8" fill="#008751" text-anchor="middle" font-weight="bold">GENERAL JOURNAL</text>
+<text x="268" y="300" font-family="DejaVu Sans" font-size="8.8" fill="#0E1F40" text-anchor="start" font-weight="normal">everything else</text>
+<rect x="420" y="164" width="330" height="146" rx="8" fill="#ECFDF5" stroke="#008751" stroke-width="1.3"/>
+<text x="585" y="186" font-family="DejaVu Sans" font-size="9.2" fill="#008751" text-anchor="middle" font-weight="bold">THE TRIAL BALANCE DOES NOT PROVE</text>
+<text x="585" y="206" font-family="DejaVu Sans" font-size="8.8" fill="#334155" text-anchor="middle" font-weight="normal">that no error was made —</text>
+<text x="585" y="221" font-family="DejaVu Sans" font-size="8.8" fill="#334155" text-anchor="middle" font-weight="normal">only that the debits equal the credits.</text>
+<text x="585" y="236" font-family="DejaVu Sans" font-size="8.8" fill="#334155" text-anchor="middle" font-weight="normal">An error of omission, of principle,</text>
+<text x="585" y="251" font-family="DejaVu Sans" font-size="8.8" fill="#334155" text-anchor="middle" font-weight="normal">of original entry or of commission</text>
+<text x="585" y="266" font-family="DejaVu Sans" font-size="8.8" fill="#334155" text-anchor="middle" font-weight="normal">leaves it perfectly in balance.</text>
+<text x="380" y="336" font-family="DejaVu Sans" font-size="9.0" fill="#64748B" text-anchor="middle" font-weight="normal">A document is evidence; a journal is a record; a ledger is an account; a trial balance is a check.</text>
+</svg>

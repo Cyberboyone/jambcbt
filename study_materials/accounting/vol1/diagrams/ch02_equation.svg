@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 404" width="760" height="404">
+  <defs>
+    <marker id="ag" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#008751"/>
+    </marker>
+    <marker id="an" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#0E1F40"/>
+    </marker>
+    <marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#D97706"/>
+    </marker>
+    <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#DC2626"/>
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="760" height="404" fill="#FFFFFF"/>
+<text x="380" y="22" font-family="DejaVu Sans" font-size="12.4" fill="#0E1F40" text-anchor="middle" font-weight="bold">One equation, two sides, and the rules that follow</text>
+<rect x="10" y="40" width="740" height="64" rx="8" fill="#ECFDF5" stroke="#008751" stroke-width="1.4"/>
+<text x="380" y="68" font-family="DejaVu Sans" font-size="15.0" fill="#008751" text-anchor="middle" font-weight="bold">ASSETS  =  LIABILITIES  +  CAPITAL</text>
+<text x="380" y="90" font-family="DejaVu Sans" font-size="9.2" fill="#0E1F40" text-anchor="middle" font-weight="normal">what the business owns  =  what it owes to outsiders  +  what it owes to its owner</text>
+<rect x="10" y="116" width="740" height="58" rx="8" fill="#FFFFFF" stroke="#0E1F40" stroke-width="1.3"/>
+<text x="380" y="140" font-family="DejaVu Sans" font-size="10.4" fill="#0E1F40" text-anchor="middle" font-weight="bold">EXPANDED:  ASSETS  =  LIABILITIES  +  CAPITAL  +  PROFIT  −  DRAWINGS</text>
+<text x="380" y="160" font-family="DejaVu Sans" font-size="9.0" fill="#64748B" text-anchor="middle" font-weight="normal">and profit itself is income less expenses</text>
+<rect x="10" y="190" width="150" height="28" rx="5" fill="#FFFFFF" stroke="#008751" stroke-width="1.2"/>
+<text x="85" y="208" font-family="DejaVu Sans" font-size="9.2" fill="#008751" text-anchor="middle" font-weight="bold">ASSETS</text>
+<rect x="166" y="190" width="275" height="28" rx="5" fill="#ECFDF5" stroke="#CBD5E1" stroke-width="1.0"/>
+<text x="303" y="208" font-family="DejaVu Sans" font-size="8.9" fill="#0E1F40" text-anchor="middle" font-weight="normal">debit to increase</text>
+<rect x="447" y="190" width="303" height="28" rx="5" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="1.0"/>
+<text x="598" y="208" font-family="DejaVu Sans" font-size="8.9" fill="#0E1F40" text-anchor="middle" font-weight="normal">credit to decrease</text>
+<rect x="10" y="224" width="150" height="28" rx="5" fill="#FFFFFF" stroke="#2563EB" stroke-width="1.2"/>
+<text x="85" y="242" font-family="DejaVu Sans" font-size="9.2" fill="#2563EB" text-anchor="middle" font-weight="bold">LIABILITIES</text>
+<rect x="166" y="224" width="275" height="28" rx="5" fill="#ECFDF5" stroke="#CBD5E1" stroke-width="1.0"/>
+<text x="303" y="242" font-family="DejaVu Sans" font-size="8.9" fill="#0E1F40" text-anchor="middle" font-weight="normal">credit to increase</text>
+<rect x="447" y="224" width="303" height="28" rx="5" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="1.0"/>
+<text x="598" y="242" font-family="DejaVu Sans" font-size="8.9" fill="#0E1F40" text-anchor="middle" font-weight="normal">debit to decrease</text>
+<rect x="10" y="258" width="150" height="28" rx="5" fill="#FFFFFF" stroke="#7C3AED" stroke-width="1.2"/>
+<text x="85" y="276" font-family="DejaVu Sans" font-size="9.2" fill="#7C3AED" text-anchor="middle" font-weight="bold">CAPITAL</text>
+<rect x="166" y="258" width="275" height="28" rx="5" fill="#ECFDF5" stroke="#CBD5E1" stroke-width="1.0"/>
+<text x="303" y="276" font-family="DejaVu Sans" font-size="8.9" fill="#0E1F40" text-anchor="middle" font-weight="normal">credit to increase</text>
+<rect x="447" y="258" width="303" height="28" rx="5" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="1.0"/>
+<text x="598" y="276" font-family="DejaVu Sans" font-size="8.9" fill="#0E1F40" text-anchor="middle" font-weight="normal">debit to decrease</text>
+<rect x="10" y="292" width="150" height="28" rx="5" fill="#FFFFFF" stroke="#D97706" stroke-width="1.2"/>
+<text x="85" y="310" font-family="DejaVu Sans" font-size="9.2" fill="#D97706" text-anchor="middle" font-weight="bold">INCOME</text>
+<rect x="166" y="292" width="275" height="28" rx="5" fill="#ECFDF5" stroke="#CBD5E1" stroke-width="1.0"/>
+<text x="303" y="310" font-family="DejaVu Sans" font-size="8.9" fill="#0E1F40" text-anchor="middle" font-weight="normal">credit to increase</text>
+<rect x="447" y="292" width="303" height="28" rx="5" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="1.0"/>
+<text x="598" y="310" font-family="DejaVu Sans" font-size="8.9" fill="#0E1F40" text-anchor="middle" font-weight="normal">debit to decrease</text>
+<rect x="10" y="326" width="150" height="28" rx="5" fill="#FFFFFF" stroke="#DC2626" stroke-width="1.2"/>
+<text x="85" y="344" font-family="DejaVu Sans" font-size="9.2" fill="#DC2626" text-anchor="middle" font-weight="bold">EXPENSES</text>
+<rect x="166" y="326" width="275" height="28" rx="5" fill="#ECFDF5" stroke="#CBD5E1" stroke-width="1.0"/>
+<text x="303" y="344" font-family="DejaVu Sans" font-size="8.9" fill="#0E1F40" text-anchor="middle" font-weight="normal">debit to increase</text>
+<rect x="447" y="326" width="303" height="28" rx="5" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="1.0"/>
+<text x="598" y="344" font-family="DejaVu Sans" font-size="8.9" fill="#0E1F40" text-anchor="middle" font-weight="normal">credit to decrease</text>
+<text x="380" y="372" font-family="DejaVu Sans" font-size="9.4" fill="#0E1F40" text-anchor="middle" font-weight="bold">DEAD CLIC: Debits increase Expenses, Assets and Drawings; Credits increase Liabilities, Income and Capital.</text>
+<text x="380" y="390" font-family="DejaVu Sans" font-size="9.0" fill="#64748B" text-anchor="middle" font-weight="normal">Every transaction touches at least two accounts, and the debits must equal the credits — always, without exception.</text>
+</svg>

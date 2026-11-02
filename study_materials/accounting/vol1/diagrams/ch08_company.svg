@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 404" width="760" height="404">
+  <defs>
+    <marker id="ag" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#008751"/>
+    </marker>
+    <marker id="an" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#0E1F40"/>
+    </marker>
+    <marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#D97706"/>
+    </marker>
+    <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#DC2626"/>
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="760" height="404" fill="#FFFFFF"/>
+<text x="380" y="22" font-family="DejaVu Sans" font-size="12.4" fill="#0E1F40" text-anchor="middle" font-weight="bold">A company's capital, and what happens to its profit</text>
+<rect x="10" y="40" width="360" height="128" rx="8" fill="#FFFFFF" stroke="#008751" stroke-width="1.4"/>
+<rect x="10" y="40" width="360" height="5" rx="2.5" fill="#008751"/>
+<text x="190" y="64" font-family="DejaVu Sans" font-size="9.8" fill="#008751" text-anchor="middle" font-weight="bold">SHARE CAPITAL (owners)</text>
+<text x="28" y="88" font-family="DejaVu Sans" font-size="8.8" fill="#0E1F40" text-anchor="start" font-weight="normal">ordinary shares — variable dividend, a vote</text>
+<text x="28" y="108" font-family="DejaVu Sans" font-size="8.8" fill="#0E1F40" text-anchor="start" font-weight="normal">preference shares — fixed dividend, usually no vote</text>
+<text x="28" y="128" font-family="DejaVu Sans" font-size="8.8" fill="#0E1F40" text-anchor="start" font-weight="normal">share premium — the excess over nominal value</text>
+<text x="28" y="148" font-family="DejaVu Sans" font-size="8.8" fill="#0E1F40" text-anchor="start" font-weight="normal">reserves — retained profit kept in the business</text>
+<rect x="390" y="40" width="360" height="128" rx="8" fill="#FFFFFF" stroke="#D97706" stroke-width="1.4"/>
+<rect x="390" y="40" width="360" height="5" rx="2.5" fill="#D97706"/>
+<text x="570" y="64" font-family="DejaVu Sans" font-size="9.8" fill="#D97706" text-anchor="middle" font-weight="bold">LOAN CAPITAL (creditors)</text>
+<text x="408" y="88" font-family="DejaVu Sans" font-size="8.8" fill="#0E1F40" text-anchor="start" font-weight="normal">debentures — fixed interest, paid before any dividend</text>
+<text x="408" y="108" font-family="DejaVu Sans" font-size="8.8" fill="#0E1F40" text-anchor="start" font-weight="normal">secured or unsecured, redeemable or perpetual</text>
+<text x="408" y="128" font-family="DejaVu Sans" font-size="8.8" fill="#0E1F40" text-anchor="start" font-weight="normal">the holder has no vote and no share of profit</text>
+<text x="408" y="148" font-family="DejaVu Sans" font-size="8.8" fill="#0E1F40" text-anchor="start" font-weight="normal">interest is a charge on profit, not an appropriation</text>
+<rect x="10" y="186" width="740" height="96" rx="8" fill="#FFFFFF" stroke="#7C3AED" stroke-width="1.3"/>
+<text x="380" y="210" font-family="DejaVu Sans" font-size="9.8" fill="#7C3AED" text-anchor="middle" font-weight="bold">THE APPROPRIATION ACCOUNT OF A COMPANY</text>
+<text x="380" y="232" font-family="DejaVu Sans" font-size="9.0" fill="#0E1F40" text-anchor="middle" font-weight="normal">profit before tax  −  tax  =  profit after tax</text>
+<text x="380" y="250" font-family="DejaVu Sans" font-size="9.0" fill="#0E1F40" text-anchor="middle" font-weight="normal">− transfer to reserves  −  preference dividend  −  ordinary dividend  =  retained for the year</text>
+<text x="380" y="270" font-family="DejaVu Sans" font-size="8.6" fill="#64748B" text-anchor="middle" font-weight="normal">a dividend may only be paid out of distributable profit: never out of capital</text>
+<text x="380" y="314" font-family="DejaVu Sans" font-size="9.4" fill="#0E1F40" text-anchor="middle" font-weight="bold">THE TWO STATEMENTS THE PAPER ASKS FOR</text>
+<text x="190" y="338" font-family="DejaVu Sans" font-size="9.0" fill="#008751" text-anchor="middle" font-weight="bold">Statement of financial position</text>
+<text x="570" y="338" font-family="DejaVu Sans" font-size="9.0" fill="#2563EB" text-anchor="middle" font-weight="bold">Statement of profit or loss</text>
+<text x="190" y="356" font-family="DejaVu Sans" font-size="8.6" fill="#0E1F40" text-anchor="middle" font-weight="normal">assets, and the capital and liabilities that financed them</text>
+<text x="570" y="356" font-family="DejaVu Sans" font-size="8.6" fill="#0E1F40" text-anchor="middle" font-weight="normal">income less expenses, and the appropriation that follows</text>
+<text x="380" y="392" font-family="DejaVu Sans" font-size="9.0" fill="#64748B" text-anchor="middle" font-weight="normal">A share is ownership; a debenture is a loan. Every company question begins by asking which of the two it is looking at.</text>
+</svg>

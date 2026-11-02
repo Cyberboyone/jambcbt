@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 362" width="760" height="362">
+  <defs>
+    <marker id="ag" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#008751"/>
+    </marker>
+    <marker id="an" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#0E1F40"/>
+    </marker>
+    <marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#D97706"/>
+    </marker>
+    <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#DC2626"/>
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="760" height="362" fill="#FFFFFF"/>
+<text x="380" y="22" font-family="DejaVu Sans" font-size="12.4" fill="#0E1F40" text-anchor="middle" font-weight="bold">Two controls that catch what the trial balance cannot</text>
+<rect x="10" y="40" width="366" height="62" rx="8" fill="#FFFFFF" stroke="#2563EB" stroke-width="1.4"/>
+<rect x="10" y="40" width="366" height="5" rx="2.5" fill="#2563EB"/>
+<text x="193" y="64" font-family="DejaVu Sans" font-size="10.2" fill="#2563EB" text-anchor="middle" font-weight="bold">CONTROL ACCOUNT</text>
+<text x="193" y="84" font-family="DejaVu Sans" font-size="8.8" fill="#0E1F40" text-anchor="middle" font-weight="normal">one account that should equal the sum of the personal ledgers</text>
+<rect x="384" y="40" width="366" height="62" rx="8" fill="#FFFFFF" stroke="#7C3AED" stroke-width="1.4"/>
+<rect x="384" y="40" width="366" height="5" rx="2.5" fill="#7C3AED"/>
+<text x="567" y="64" font-family="DejaVu Sans" font-size="10.2" fill="#7C3AED" text-anchor="middle" font-weight="bold">BANK RECONCILIATION</text>
+<text x="567" y="84" font-family="DejaVu Sans" font-size="8.8" fill="#0E1F40" text-anchor="middle" font-weight="normal">the cash book and the bank statement, made to agree</text>
+<text x="193" y="130" font-family="DejaVu Sans" font-size="9.2" fill="#2563EB" text-anchor="middle" font-weight="bold">WHY THEY DISAGREE</text>
+<text x="14" y="148" font-family="DejaVu Sans" font-size="9.0" fill="#2563EB" text-anchor="start" font-weight="normal">•</text>
+<text x="28" y="148" font-family="DejaVu Sans" font-size="8.7" fill="#0E1F40" text-anchor="start" font-weight="normal">cash book only: unpresented cheques</text>
+<text x="14" y="165" font-family="DejaVu Sans" font-size="9.0" fill="#2563EB" text-anchor="start" font-weight="normal">•</text>
+<text x="28" y="165" font-family="DejaVu Sans" font-size="8.7" fill="#0E1F40" text-anchor="start" font-weight="normal">cash book only: lodgements not yet credited</text>
+<text x="14" y="182" font-family="DejaVu Sans" font-size="9.0" fill="#2563EB" text-anchor="start" font-weight="normal">•</text>
+<text x="28" y="182" font-family="DejaVu Sans" font-size="8.7" fill="#0E1F40" text-anchor="start" font-weight="normal">bank statement only: bank charges, interest</text>
+<text x="14" y="199" font-family="DejaVu Sans" font-size="9.0" fill="#2563EB" text-anchor="start" font-weight="normal">•</text>
+<text x="28" y="199" font-family="DejaVu Sans" font-size="8.7" fill="#0E1F40" text-anchor="start" font-weight="normal">bank statement only: standing orders, direct debits</text>
+<text x="14" y="216" font-family="DejaVu Sans" font-size="9.0" fill="#2563EB" text-anchor="start" font-weight="normal">•</text>
+<text x="28" y="216" font-family="DejaVu Sans" font-size="8.7" fill="#0E1F40" text-anchor="start" font-weight="normal">either: a cheque dishonoured</text>
+<text x="14" y="233" font-family="DejaVu Sans" font-size="9.0" fill="#2563EB" text-anchor="start" font-weight="normal">•</text>
+<text x="28" y="233" font-family="DejaVu Sans" font-size="8.7" fill="#0E1F40" text-anchor="start" font-weight="normal">either: an error by the bank or by us</text>
+<text x="567" y="130" font-family="DejaVu Sans" font-size="9.2" fill="#7C3AED" text-anchor="middle" font-weight="bold">THE RECONCILIATION, IN ONE LINE</text>
+<rect x="394" y="142" width="346" height="92" rx="7" fill="#ECFDF5" stroke="#7C3AED" stroke-width="1.2"/>
+<text x="567" y="166" font-family="DejaVu Sans" font-size="8.9" fill="#0E1F40" text-anchor="middle" font-weight="normal">balance per bank statement</text>
+<text x="567" y="184" font-family="DejaVu Sans" font-size="8.9" fill="#0E1F40" text-anchor="middle" font-weight="normal">+ lodgements not yet credited  − unpresented cheques</text>
+<text x="567" y="202" font-family="DejaVu Sans" font-size="8.9" fill="#0E1F40" text-anchor="middle" font-weight="bold">= balance per cash book (adjusted)</text>
+<text x="567" y="222" font-family="DejaVu Sans" font-size="8.4" fill="#64748B" text-anchor="middle" font-weight="normal">and the adjusted cash book must then be posted</text>
+<rect x="10" y="268" width="740" height="54" rx="7" fill="#FFFFFF" stroke="#DC2626" stroke-width="1.3"/>
+<text x="380" y="292" font-family="DejaVu Sans" font-size="9.4" fill="#DC2626" text-anchor="middle" font-weight="bold">A CONTROL ACCOUNT THAT DOES NOT AGREE IS A FINDING, NOT A FAILURE</text>
+<text x="380" y="310" font-family="DejaVu Sans" font-size="8.6" fill="#0E1F40" text-anchor="middle" font-weight="normal">the difference tells you that a posting is missing, doubled, on the wrong side, or in the wrong ledger — and it tells you where to look</text>
+<text x="380" y="348" font-family="DejaVu Sans" font-size="9.0" fill="#64748B" text-anchor="middle" font-weight="normal">Reconcile monthly, and never force a balance: a plugged figure hides the error that will be found by the auditor.</text>
+</svg>
