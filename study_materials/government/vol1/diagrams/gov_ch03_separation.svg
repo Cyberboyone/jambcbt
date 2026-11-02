@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 330" width="760" height="330">
+  <defs>
+    <marker id="ag" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#008751"/>
+    </marker>
+    <marker id="an" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#0E1F40"/>
+    </marker>
+    <marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#D97706"/>
+    </marker>
+    <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#DC2626"/>
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="760" height="330" fill="#FFFFFF"/>
+<text x="380" y="28" font-family="DejaVu Sans" font-size="13.0" fill="#0E1F40" text-anchor="middle" font-weight="bold">Separation of powers — and the checks that travel between the organs</text>
+<rect x="30" y="62" width="180" height="106" rx="9" fill="#FFFFFF" stroke="#008751" stroke-width="1.8"/>
+<rect x="30" y="62" width="180" height="6" rx="3" fill="#008751" stroke="#008751" stroke-width="1.0"/>
+<text x="120" y="88" font-family="DejaVu Sans" font-size="9.8" fill="#008751" text-anchor="middle" font-weight="bold">LEGISLATURE</text>
+<text x="120" y="108" font-family="DejaVu Sans" font-size="8.6" fill="#334155" text-anchor="middle" font-weight="normal">Makes law</text>
+<text x="120" y="124" font-family="DejaVu Sans" font-size="8.6" fill="#334155" text-anchor="middle" font-weight="normal">Appropriates</text>
+<text x="120" y="140" font-family="DejaVu Sans" font-size="8.6" fill="#334155" text-anchor="middle" font-weight="normal">Confirms</text>
+<rect x="290" y="62" width="180" height="106" rx="9" fill="#FFFFFF" stroke="#2563EB" stroke-width="1.8"/>
+<rect x="290" y="62" width="180" height="6" rx="3" fill="#2563EB" stroke="#2563EB" stroke-width="1.0"/>
+<text x="380" y="88" font-family="DejaVu Sans" font-size="9.8" fill="#2563EB" text-anchor="middle" font-weight="bold">EXECUTIVE</text>
+<text x="380" y="108" font-family="DejaVu Sans" font-size="8.6" fill="#334155" text-anchor="middle" font-weight="normal">Executes law</text>
+<text x="380" y="124" font-family="DejaVu Sans" font-size="8.6" fill="#334155" text-anchor="middle" font-weight="normal">Spends</text>
+<text x="380" y="140" font-family="DejaVu Sans" font-size="8.6" fill="#334155" text-anchor="middle" font-weight="normal">Appoints</text>
+<rect x="550" y="62" width="180" height="106" rx="9" fill="#FFFFFF" stroke="#7C3AED" stroke-width="1.8"/>
+<rect x="550" y="62" width="180" height="6" rx="3" fill="#7C3AED" stroke="#7C3AED" stroke-width="1.0"/>
+<text x="640" y="88" font-family="DejaVu Sans" font-size="9.8" fill="#7C3AED" text-anchor="middle" font-weight="bold">JUDICIARY</text>
+<text x="640" y="108" font-family="DejaVu Sans" font-size="8.6" fill="#334155" text-anchor="middle" font-weight="normal">Interprets law</text>
+<text x="640" y="124" font-family="DejaVu Sans" font-size="8.6" fill="#334155" text-anchor="middle" font-weight="normal">Reviews</text>
+<text x="640" y="140" font-family="DejaVu Sans" font-size="8.6" fill="#334155" text-anchor="middle" font-weight="normal">Adjudicates</text>
+<line x1="212" y1="88" x2="275.6" y2="88.0" stroke="#D97706" stroke-width="1.7"/><polygon points="288.0,88.0 275.6,92.6 275.6,83.4" fill="#D97706"/>
+<text x="250" y="80" font-family="DejaVu Sans" font-size="8.2" fill="#D97706" text-anchor="middle" font-weight="bold">confirms</text>
+<line x1="288" y1="140" x2="224.4" y2="140.0" stroke="#D97706" stroke-width="1.7"/><polygon points="212.0,140.0 224.4,135.4 224.4,144.6" fill="#D97706"/>
+<text x="250" y="156" font-family="DejaVu Sans" font-size="8.2" fill="#D97706" text-anchor="middle" font-weight="bold">veto</text>
+<line x1="472" y1="88" x2="535.6" y2="88.0" stroke="#D97706" stroke-width="1.7"/><polygon points="548.0,88.0 535.6,92.6 535.6,83.4" fill="#D97706"/>
+<text x="510" y="80" font-family="DejaVu Sans" font-size="8.2" fill="#D97706" text-anchor="middle" font-weight="bold">appoints</text>
+<line x1="548" y1="140" x2="484.4" y2="140.0" stroke="#D97706" stroke-width="1.7"/><polygon points="472.0,140.0 484.4,135.4 484.4,144.6" fill="#D97706"/>
+<text x="510" y="156" font-family="DejaVu Sans" font-size="8.2" fill="#D97706" text-anchor="middle" font-weight="bold">voids acts</text>
+<path d="M 640 168 L 640 214 L 120 214 L 120 176" fill="none" stroke="#D97706" stroke-width="1.7"/>
+<polygon points="120,170 114,180 126,180" fill="#D97706"/>
+<text x="380" y="208" font-family="DejaVu Sans" font-size="8.6" fill="#D97706" text-anchor="middle" font-weight="bold">judicial review — an Act or an executive act that breaches the Constitution is void</text>
+<rect x="30" y="238" width="700" height="38" rx="7" fill="#ECFDF5" stroke="#008751" stroke-width="1.2"/>
+<text x="380" y="256" font-family="DejaVu Sans" font-size="9.2" fill="#0E1F40" text-anchor="middle" font-weight="bold">Separation of powers divides the work. Checks and balances give each organ a brake on the others.</text>
+<text x="380" y="270" font-family="DejaVu Sans" font-size="8.4" fill="#334155" text-anchor="middle" font-weight="normal">No organ may exercise the power of another — Montesquieu. The President's veto can be overridden by a two-thirds vote.</text>
+<text x="380" y="300" font-family="DejaVu Sans" font-size="8.4" fill="#64748B" text-anchor="middle" font-weight="normal">Sections 4, 5 and 6 of the 1999 Constitution vest the three powers in the three organs.</text>
+</svg>

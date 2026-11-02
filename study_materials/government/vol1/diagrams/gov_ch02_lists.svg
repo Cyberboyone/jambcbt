@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 340" width="760" height="340">
+  <defs>
+    <marker id="ag" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#008751"/>
+    </marker>
+    <marker id="an" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#0E1F40"/>
+    </marker>
+    <marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#D97706"/>
+    </marker>
+    <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#DC2626"/>
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="760" height="340" fill="#FFFFFF"/>
+<text x="380" y="28" font-family="DejaVu Sans" font-size="13.2" fill="#0E1F40" text-anchor="middle" font-weight="bold">The three legislative lists under a federal constitution</text>
+<rect x="40" y="50" width="216" height="246" rx="9" fill="#FFFFFF" stroke="#008751" stroke-width="1.6"/>
+<rect x="40" y="50" width="216" height="42" rx="8" fill="#008751" stroke="#008751" stroke-width="1.0"/>
+<text x="148" y="70" font-family="DejaVu Sans" font-size="10" fill="#FFFFFF" text-anchor="middle" font-weight="bold">EXCLUSIVE LIST</text>
+<text x="148" y="84" font-family="DejaVu Sans" font-size="8.4" fill="#FFFFFF" text-anchor="middle" font-weight="normal">Federal only</text>
+<text x="52" y="112" font-family="DejaVu Sans" font-size="9" fill="#008751" text-anchor="start" font-weight="normal">•</text>
+<text x="64" y="112" font-family="DejaVu Sans" font-size="8.6" fill="#334155" text-anchor="start" font-weight="normal">Defence and the armed forces</text>
+<text x="52" y="136" font-family="DejaVu Sans" font-size="9" fill="#008751" text-anchor="start" font-weight="normal">•</text>
+<text x="64" y="136" font-family="DejaVu Sans" font-size="8.6" fill="#334155" text-anchor="start" font-weight="normal">Foreign affairs</text>
+<text x="52" y="160" font-family="DejaVu Sans" font-size="9" fill="#008751" text-anchor="start" font-weight="normal">•</text>
+<text x="64" y="160" font-family="DejaVu Sans" font-size="8.6" fill="#334155" text-anchor="start" font-weight="normal">Currency and coinage</text>
+<text x="52" y="184" font-family="DejaVu Sans" font-size="9" fill="#008751" text-anchor="start" font-weight="normal">•</text>
+<text x="64" y="184" font-family="DejaVu Sans" font-size="8.6" fill="#334155" text-anchor="start" font-weight="normal">Citizenship</text>
+<text x="52" y="208" font-family="DejaVu Sans" font-size="9" fill="#008751" text-anchor="start" font-weight="normal">•</text>
+<text x="64" y="208" font-family="DejaVu Sans" font-size="8.6" fill="#334155" text-anchor="start" font-weight="normal">Police (federal)</text>
+<text x="52" y="232" font-family="DejaVu Sans" font-size="9" fill="#008751" text-anchor="start" font-weight="normal">•</text>
+<text x="64" y="232" font-family="DejaVu Sans" font-size="8.6" fill="#334155" text-anchor="start" font-weight="normal">Customs and excise</text>
+<text x="52" y="256" font-family="DejaVu Sans" font-size="9" fill="#008751" text-anchor="start" font-weight="normal">•</text>
+<text x="64" y="256" font-family="DejaVu Sans" font-size="8.6" fill="#334155" text-anchor="start" font-weight="normal">Mines and minerals</text>
+<rect x="280" y="50" width="216" height="246" rx="9" fill="#FFFFFF" stroke="#2563EB" stroke-width="1.6"/>
+<rect x="280" y="50" width="216" height="42" rx="8" fill="#2563EB" stroke="#2563EB" stroke-width="1.0"/>
+<text x="388" y="70" font-family="DejaVu Sans" font-size="10" fill="#FFFFFF" text-anchor="middle" font-weight="bold">CONCURRENT LIST</text>
+<text x="388" y="84" font-family="DejaVu Sans" font-size="8.4" fill="#FFFFFF" text-anchor="middle" font-weight="normal">Federal and state</text>
+<text x="292" y="112" font-family="DejaVu Sans" font-size="9" fill="#2563EB" text-anchor="start" font-weight="normal">•</text>
+<text x="304" y="112" font-family="DejaVu Sans" font-size="8.6" fill="#334155" text-anchor="start" font-weight="normal">Education</text>
+<text x="292" y="136" font-family="DejaVu Sans" font-size="9" fill="#2563EB" text-anchor="start" font-weight="normal">•</text>
+<text x="304" y="136" font-family="DejaVu Sans" font-size="8.6" fill="#334155" text-anchor="start" font-weight="normal">Health</text>
+<text x="292" y="160" font-family="DejaVu Sans" font-size="9" fill="#2563EB" text-anchor="start" font-weight="normal">•</text>
+<text x="304" y="160" font-family="DejaVu Sans" font-size="8.6" fill="#334155" text-anchor="start" font-weight="normal">Agriculture</text>
+<text x="292" y="184" font-family="DejaVu Sans" font-size="9" fill="#2563EB" text-anchor="start" font-weight="normal">•</text>
+<text x="304" y="184" font-family="DejaVu Sans" font-size="8.6" fill="#334155" text-anchor="start" font-weight="normal">Electricity</text>
+<text x="292" y="208" font-family="DejaVu Sans" font-size="9" fill="#2563EB" text-anchor="start" font-weight="normal">•</text>
+<text x="304" y="208" font-family="DejaVu Sans" font-size="8.6" fill="#334155" text-anchor="start" font-weight="normal">Water supply</text>
+<text x="292" y="232" font-family="DejaVu Sans" font-size="9" fill="#2563EB" text-anchor="start" font-weight="normal">•</text>
+<text x="304" y="232" font-family="DejaVu Sans" font-size="8.6" fill="#334155" text-anchor="start" font-weight="normal">Statistics</text>
+<text x="292" y="256" font-family="DejaVu Sans" font-size="9" fill="#2563EB" text-anchor="start" font-weight="normal">•</text>
+<text x="304" y="256" font-family="DejaVu Sans" font-size="8.6" fill="#334155" text-anchor="start" font-weight="normal">Industrial development</text>
+<rect x="520" y="50" width="216" height="246" rx="9" fill="#FFFFFF" stroke="#D97706" stroke-width="1.6"/>
+<rect x="520" y="50" width="216" height="42" rx="8" fill="#D97706" stroke="#D97706" stroke-width="1.0"/>
+<text x="628" y="70" font-family="DejaVu Sans" font-size="10" fill="#FFFFFF" text-anchor="middle" font-weight="bold">RESIDUAL LIST</text>
+<text x="628" y="84" font-family="DejaVu Sans" font-size="8.4" fill="#FFFFFF" text-anchor="middle" font-weight="normal">State only</text>
+<text x="532" y="112" font-family="DejaVu Sans" font-size="9" fill="#D97706" text-anchor="start" font-weight="normal">•</text>
+<text x="544" y="112" font-family="DejaVu Sans" font-size="8.6" fill="#334155" text-anchor="start" font-weight="normal">Local government</text>
+<text x="532" y="136" font-family="DejaVu Sans" font-size="9" fill="#D97706" text-anchor="start" font-weight="normal">•</text>
+<text x="544" y="136" font-family="DejaVu Sans" font-size="8.6" fill="#334155" text-anchor="start" font-weight="normal">Chieftaincy</text>
+<text x="532" y="160" font-family="DejaVu Sans" font-size="9" fill="#D97706" text-anchor="start" font-weight="normal">•</text>
+<text x="544" y="160" font-family="DejaVu Sans" font-size="8.6" fill="#334155" text-anchor="start" font-weight="normal">Markets and motor parks</text>
+<text x="532" y="184" font-family="DejaVu Sans" font-size="9" fill="#D97706" text-anchor="start" font-weight="normal">•</text>
+<text x="544" y="184" font-family="DejaVu Sans" font-size="8.6" fill="#334155" text-anchor="start" font-weight="normal">Traditional courts</text>
+<text x="532" y="208" font-family="DejaVu Sans" font-size="9" fill="#D97706" text-anchor="start" font-weight="normal">•</text>
+<text x="544" y="208" font-family="DejaVu Sans" font-size="8.6" fill="#334155" text-anchor="start" font-weight="normal">State lands</text>
+<text x="532" y="232" font-family="DejaVu Sans" font-size="9" fill="#D97706" text-anchor="start" font-weight="normal">•</text>
+<text x="544" y="232" font-family="DejaVu Sans" font-size="8.6" fill="#334155" text-anchor="start" font-weight="normal">Local roads</text>
+<text x="532" y="256" font-family="DejaVu Sans" font-size="9" fill="#D97706" text-anchor="start" font-weight="normal">•</text>
+<text x="544" y="256" font-family="DejaVu Sans" font-size="8.6" fill="#334155" text-anchor="start" font-weight="normal">Burial and inheritance</text>
+<rect x="40" y="306" width="696" height="26" rx="6" fill="#F8FAFC" stroke="#CBD5E1" stroke-width="1.0"/>
+<text x="388" y="323" font-family="DejaVu Sans" font-size="8.8" fill="#0E1F40" text-anchor="middle" font-weight="normal">Where a federal and a state law conflict on the concurrent list, the federal law prevails — the doctrine of covering the field.</text>
+</svg>

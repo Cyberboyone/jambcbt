@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 340" width="760" height="340">
+  <defs>
+    <marker id="ag" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#008751"/>
+    </marker>
+    <marker id="an" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#0E1F40"/>
+    </marker>
+    <marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#D97706"/>
+    </marker>
+    <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#DC2626"/>
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="760" height="340" fill="#FFFFFF"/>
+<text x="380" y="28" font-family="DejaVu Sans" font-size="13.2" fill="#0E1F40" text-anchor="middle" font-weight="bold">Two ways to turn votes into seats</text>
+<rect x="40" y="50" width="320" height="190" rx="9" fill="#FFFFFF" stroke="#008751" stroke-width="1.6"/>
+<rect x="40" y="50" width="320" height="34" rx="8" fill="#008751" stroke="#008751" stroke-width="1.0"/>
+<text x="200" y="72" font-family="DejaVu Sans" font-size="10" fill="#FFFFFF" text-anchor="middle" font-weight="bold">FIRST PAST THE POST</text>
+<text x="56" y="106" font-family="DejaVu Sans" font-size="9" fill="#008751" text-anchor="start" font-weight="normal">•</text>
+<text x="68" y="106" font-family="DejaVu Sans" font-size="8.7" fill="#334155" text-anchor="start" font-weight="normal">One member per constituency</text>
+<text x="56" y="138" font-family="DejaVu Sans" font-size="9" fill="#008751" text-anchor="start" font-weight="normal">•</text>
+<text x="68" y="138" font-family="DejaVu Sans" font-size="8.7" fill="#334155" text-anchor="start" font-weight="normal">Winner needs only a plurality</text>
+<text x="56" y="170" font-family="DejaVu Sans" font-size="9" fill="#008751" text-anchor="start" font-weight="normal">•</text>
+<text x="68" y="170" font-family="DejaVu Sans" font-size="8.7" fill="#334155" text-anchor="start" font-weight="normal">Simple, fast, clear majority</text>
+<text x="56" y="202" font-family="DejaVu Sans" font-size="9" fill="#008751" text-anchor="start" font-weight="normal">•</text>
+<text x="68" y="202" font-family="DejaVu Sans" font-size="8.7" fill="#334155" text-anchor="start" font-weight="normal">Wastes votes; ignores minorities</text>
+<rect x="400" y="50" width="320" height="190" rx="9" fill="#FFFFFF" stroke="#2563EB" stroke-width="1.6"/>
+<rect x="400" y="50" width="320" height="34" rx="8" fill="#2563EB" stroke="#2563EB" stroke-width="1.0"/>
+<text x="560" y="72" font-family="DejaVu Sans" font-size="10" fill="#FFFFFF" text-anchor="middle" font-weight="bold">PROPORTIONAL REPRESENTATION</text>
+<text x="416" y="106" font-family="DejaVu Sans" font-size="9" fill="#2563EB" text-anchor="start" font-weight="normal">•</text>
+<text x="428" y="106" font-family="DejaVu Sans" font-size="8.7" fill="#334155" text-anchor="start" font-weight="normal">Seats shared in proportion to votes</text>
+<text x="416" y="138" font-family="DejaVu Sans" font-size="9" fill="#2563EB" text-anchor="start" font-weight="normal">•</text>
+<text x="428" y="138" font-family="DejaVu Sans" font-size="8.7" fill="#334155" text-anchor="start" font-weight="normal">Party lists or single transferable vote</text>
+<text x="416" y="170" font-family="DejaVu Sans" font-size="9" fill="#2563EB" text-anchor="start" font-weight="normal">•</text>
+<text x="428" y="170" font-family="DejaVu Sans" font-size="8.7" fill="#334155" text-anchor="start" font-weight="normal">Fair to small parties</text>
+<text x="416" y="202" font-family="DejaVu Sans" font-size="9" fill="#2563EB" text-anchor="start" font-weight="normal">•</text>
+<text x="428" y="202" font-family="DejaVu Sans" font-size="8.7" fill="#334155" text-anchor="start" font-weight="normal">Coalitions; weaker constituency link</text>
+<rect x="40" y="254" width="680" height="60" rx="8" fill="#F8FAFC" stroke="#CBD5E1" stroke-width="1.2"/>
+<text x="380" y="274" font-family="DejaVu Sans" font-size="9.4" fill="#0E1F40" text-anchor="middle" font-weight="bold">Same votes, different result: 40% A, 35% B, 25% C.</text>
+<text x="380" y="292" font-family="DejaVu Sans" font-size="8.8" fill="#334155" text-anchor="middle" font-weight="normal">FPTP: A wins every seat where it leads.  PR: A gets 40% of the seats, B 35%, C 25%.</text>
+<text x="380" y="307" font-family="DejaVu Sans" font-size="8.6" fill="#64748B" text-anchor="middle" font-weight="normal">Nigeria uses FPTP for the National Assembly, the state houses and the presidency.</text>
+</svg>

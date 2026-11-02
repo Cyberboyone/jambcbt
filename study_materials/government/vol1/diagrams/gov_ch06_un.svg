@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 330" width="760" height="330">
+  <defs>
+    <marker id="ag" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#008751"/>
+    </marker>
+    <marker id="an" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#0E1F40"/>
+    </marker>
+    <marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#D97706"/>
+    </marker>
+    <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#DC2626"/>
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="760" height="330" fill="#FFFFFF"/>
+<text x="380" y="28" font-family="DejaVu Sans" font-size="13.2" fill="#0E1F40" text-anchor="middle" font-weight="bold">The six principal organs of the United Nations</text>
+<rect x="40" y="52" width="320" height="84" rx="8" fill="#FFFFFF" stroke="#008751" stroke-width="1.5"/>
+<rect x="40" y="52" width="6" height="84" rx="3" fill="#008751" stroke="#008751" stroke-width="1.0"/>
+<text x="60" y="76" font-family="DejaVu Sans" font-size="9.4" fill="#008751" text-anchor="start" font-weight="bold">GENERAL ASSEMBLY</text>
+<text x="60" y="97" font-family="DejaVu Sans" font-size="8.2" fill="#334155" text-anchor="start" font-weight="normal">All 193 members;</text>
+<text x="60" y="109" font-family="DejaVu Sans" font-size="8.2" fill="#334155" text-anchor="start" font-weight="normal">one vote each</text>
+<rect x="400" y="52" width="320" height="84" rx="8" fill="#FFFFFF" stroke="#2563EB" stroke-width="1.5"/>
+<rect x="400" y="52" width="6" height="84" rx="3" fill="#2563EB" stroke="#2563EB" stroke-width="1.0"/>
+<text x="420" y="76" font-family="DejaVu Sans" font-size="9.4" fill="#2563EB" text-anchor="start" font-weight="bold">SECURITY COUNCIL</text>
+<text x="420" y="97" font-family="DejaVu Sans" font-size="8.2" fill="#334155" text-anchor="start" font-weight="normal">15 members; 5 permanent</text>
+<text x="420" y="109" font-family="DejaVu Sans" font-size="8.2" fill="#334155" text-anchor="start" font-weight="normal">with the veto</text>
+<rect x="40" y="148" width="320" height="84" rx="8" fill="#FFFFFF" stroke="#7C3AED" stroke-width="1.5"/>
+<rect x="40" y="148" width="6" height="84" rx="3" fill="#7C3AED" stroke="#7C3AED" stroke-width="1.0"/>
+<text x="60" y="172" font-family="DejaVu Sans" font-size="9.4" fill="#7C3AED" text-anchor="start" font-weight="bold">ECONOMIC AND SOCIAL</text>
+<text x="60" y="185" font-family="DejaVu Sans" font-size="9.4" fill="#7C3AED" text-anchor="start" font-weight="bold">COUNCIL (ECOSOC)</text>
+<text x="60" y="206" font-family="DejaVu Sans" font-size="8.2" fill="#334155" text-anchor="start" font-weight="normal">54 members;</text>
+<text x="60" y="218" font-family="DejaVu Sans" font-size="8.2" fill="#334155" text-anchor="start" font-weight="normal">coordinates agencies</text>
+<rect x="400" y="148" width="320" height="84" rx="8" fill="#FFFFFF" stroke="#D97706" stroke-width="1.5"/>
+<rect x="400" y="148" width="6" height="84" rx="3" fill="#D97706" stroke="#D97706" stroke-width="1.0"/>
+<text x="420" y="172" font-family="DejaVu Sans" font-size="9.4" fill="#D97706" text-anchor="start" font-weight="bold">TRUSTEESHIP COUNCIL</text>
+<text x="420" y="193" font-family="DejaVu Sans" font-size="8.2" fill="#334155" text-anchor="start" font-weight="normal">Suspended 1994;</text>
+<text x="420" y="205" font-family="DejaVu Sans" font-size="8.2" fill="#334155" text-anchor="start" font-weight="normal">colonies completed</text>
+<rect x="40" y="244" width="320" height="84" rx="8" fill="#FFFFFF" stroke="#00A859" stroke-width="1.5"/>
+<rect x="40" y="244" width="6" height="84" rx="3" fill="#00A859" stroke="#00A859" stroke-width="1.0"/>
+<text x="60" y="268" font-family="DejaVu Sans" font-size="9.4" fill="#00A859" text-anchor="start" font-weight="bold">INTERNATIONAL COURT</text>
+<text x="60" y="281" font-family="DejaVu Sans" font-size="9.4" fill="#00A859" text-anchor="start" font-weight="bold">OF JUSTICE</text>
+<text x="60" y="302" font-family="DejaVu Sans" font-size="8.2" fill="#334155" text-anchor="start" font-weight="normal">15 judges; hears</text>
+<text x="60" y="314" font-family="DejaVu Sans" font-size="8.2" fill="#334155" text-anchor="start" font-weight="normal">state disputes</text>
+<rect x="400" y="244" width="320" height="84" rx="8" fill="#FFFFFF" stroke="#DC2626" stroke-width="1.5"/>
+<rect x="400" y="244" width="6" height="84" rx="3" fill="#DC2626" stroke="#DC2626" stroke-width="1.0"/>
+<text x="420" y="268" font-family="DejaVu Sans" font-size="9.4" fill="#DC2626" text-anchor="start" font-weight="bold">SECRETARIAT</text>
+<text x="420" y="289" font-family="DejaVu Sans" font-size="8.2" fill="#334155" text-anchor="start" font-weight="normal">The Secretary-General</text>
+<text x="420" y="301" font-family="DejaVu Sans" font-size="8.2" fill="#334155" text-anchor="start" font-weight="normal">and the staff</text>
+</svg>

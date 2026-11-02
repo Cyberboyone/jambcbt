@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 330" width="760" height="330">
+  <defs>
+    <marker id="ag" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#008751"/>
+    </marker>
+    <marker id="an" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#0E1F40"/>
+    </marker>
+    <marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#D97706"/>
+    </marker>
+    <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#DC2626"/>
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="760" height="330" fill="#FFFFFF"/>
+<text x="380" y="28" font-family="DejaVu Sans" font-size="13.2" fill="#0E1F40" text-anchor="middle" font-weight="bold">The six functions a political party performs</text>
+<rect x="40" y="52" width="216" height="112" rx="8" fill="#FFFFFF" stroke="#008751" stroke-width="1.5"/>
+<rect x="40" y="52" width="216" height="5" rx="2.5" fill="#008751" stroke="#008751" stroke-width="1.0"/>
+<text x="148" y="80" font-family="DejaVu Sans" font-size="10" fill="#008751" text-anchor="middle" font-weight="bold">1. AGGREGATE</text>
+<text x="148" y="104" font-family="DejaVu Sans" font-size="8.8" fill="#334155" text-anchor="middle" font-weight="normal">Collects interests</text>
+<text x="148" y="119" font-family="DejaVu Sans" font-size="8.8" fill="#334155" text-anchor="middle" font-weight="normal">into one programme</text>
+<rect x="276" y="52" width="216" height="112" rx="8" fill="#FFFFFF" stroke="#2563EB" stroke-width="1.5"/>
+<rect x="276" y="52" width="216" height="5" rx="2.5" fill="#2563EB" stroke="#2563EB" stroke-width="1.0"/>
+<text x="384" y="80" font-family="DejaVu Sans" font-size="10" fill="#2563EB" text-anchor="middle" font-weight="bold">2. RECRUIT</text>
+<text x="384" y="104" font-family="DejaVu Sans" font-size="8.8" fill="#334155" text-anchor="middle" font-weight="normal">Selects and trains</text>
+<text x="384" y="119" font-family="DejaVu Sans" font-size="8.8" fill="#334155" text-anchor="middle" font-weight="normal">candidates and leaders</text>
+<rect x="512" y="52" width="216" height="112" rx="8" fill="#FFFFFF" stroke="#7C3AED" stroke-width="1.5"/>
+<rect x="512" y="52" width="216" height="5" rx="2.5" fill="#7C3AED" stroke="#7C3AED" stroke-width="1.0"/>
+<text x="620" y="80" font-family="DejaVu Sans" font-size="10" fill="#7C3AED" text-anchor="middle" font-weight="bold">3. CONTEST</text>
+<text x="620" y="104" font-family="DejaVu Sans" font-size="8.8" fill="#334155" text-anchor="middle" font-weight="normal">Fights elections</text>
+<text x="620" y="119" font-family="DejaVu Sans" font-size="8.8" fill="#334155" text-anchor="middle" font-weight="normal">and forms government</text>
+<rect x="40" y="182" width="216" height="112" rx="8" fill="#FFFFFF" stroke="#D97706" stroke-width="1.5"/>
+<rect x="40" y="182" width="216" height="5" rx="2.5" fill="#D97706" stroke="#D97706" stroke-width="1.0"/>
+<text x="148" y="210" font-family="DejaVu Sans" font-size="10" fill="#D97706" text-anchor="middle" font-weight="bold">4. EDUCATE</text>
+<text x="148" y="234" font-family="DejaVu Sans" font-size="8.8" fill="#334155" text-anchor="middle" font-weight="normal">Explains issues</text>
+<text x="148" y="249" font-family="DejaVu Sans" font-size="8.8" fill="#334155" text-anchor="middle" font-weight="normal">to the electorate</text>
+<rect x="276" y="182" width="216" height="112" rx="8" fill="#FFFFFF" stroke="#00A859" stroke-width="1.5"/>
+<rect x="276" y="182" width="216" height="5" rx="2.5" fill="#00A859" stroke="#00A859" stroke-width="1.0"/>
+<text x="384" y="210" font-family="DejaVu Sans" font-size="10" fill="#00A859" text-anchor="middle" font-weight="bold">5. ORGANISE</text>
+<text x="384" y="234" font-family="DejaVu Sans" font-size="8.8" fill="#334155" text-anchor="middle" font-weight="normal">Links government</text>
+<text x="384" y="249" font-family="DejaVu Sans" font-size="8.8" fill="#334155" text-anchor="middle" font-weight="normal">to the governed</text>
+<rect x="512" y="182" width="216" height="112" rx="8" fill="#FFFFFF" stroke="#DC2626" stroke-width="1.5"/>
+<rect x="512" y="182" width="216" height="5" rx="2.5" fill="#DC2626" stroke="#DC2626" stroke-width="1.0"/>
+<text x="620" y="210" font-family="DejaVu Sans" font-size="10" fill="#DC2626" text-anchor="middle" font-weight="bold">6. STABILISE</text>
+<text x="620" y="234" font-family="DejaVu Sans" font-size="8.8" fill="#334155" text-anchor="middle" font-weight="normal">Absorbs dissent</text>
+<text x="620" y="249" font-family="DejaVu Sans" font-size="8.8" fill="#334155" text-anchor="middle" font-weight="normal">within the system</text>
+<rect x="40" y="314" width="696" height="0" rx="0" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0"/>
+</svg>

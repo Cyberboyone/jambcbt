@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 300" width="760" height="300">
+  <defs>
+    <marker id="ag" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#008751"/>
+    </marker>
+    <marker id="an" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#0E1F40"/>
+    </marker>
+    <marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#D97706"/>
+    </marker>
+    <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#DC2626"/>
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="760" height="300" fill="#FFFFFF"/>
+<text x="380" y="28" font-family="DejaVu Sans" font-size="13.5" fill="#0E1F40" text-anchor="middle" font-weight="bold">Political ideologies on the left–right spectrum</text>
+<rect x="50" y="96" width="660" height="6" rx="3" fill="#E2E8F0" stroke="#E2E8F0" stroke-width="0"/>
+<text x="50" y="88" font-family="DejaVu Sans" font-size="9" fill="#64748B" text-anchor="start" font-weight="normal">LEFT — equality, collective ownership</text>
+<text x="710" y="88" font-family="DejaVu Sans" font-size="9" fill="#64748B" text-anchor="end" font-weight="normal">RIGHT — liberty, private ownership</text>
+<circle cx="96" cy="99" r="8" fill="#DC2626"/>
+<text x="96" y="74" font-family="DejaVu Sans" font-size="9.2" fill="#DC2626" text-anchor="middle" font-weight="bold">COMMUNISM</text>
+<line x1="96" y1="107" x2="96" y2="128" stroke="#DC2626" stroke-width="1.4"/>
+<rect x="34" y="128" width="124" height="70" rx="7" fill="#FFFFFF" stroke="#DC2626" stroke-width="1.4"/>
+<text x="96" y="152" font-family="DejaVu Sans" font-size="8.7" fill="#334155" text-anchor="middle" font-weight="normal">Classless society,</text>
+<text x="96" y="167" font-family="DejaVu Sans" font-size="8.7" fill="#334155" text-anchor="middle" font-weight="normal">state owns all</text>
+<circle cx="226" cy="99" r="8" fill="#7C3AED"/>
+<text x="226" y="74" font-family="DejaVu Sans" font-size="9.2" fill="#7C3AED" text-anchor="middle" font-weight="bold">SOCIALISM</text>
+<line x1="226" y1="107" x2="226" y2="128" stroke="#7C3AED" stroke-width="1.4"/>
+<rect x="164" y="128" width="124" height="70" rx="7" fill="#FFFFFF" stroke="#7C3AED" stroke-width="1.4"/>
+<text x="226" y="152" font-family="DejaVu Sans" font-size="8.7" fill="#334155" text-anchor="middle" font-weight="normal">State owns key</text>
+<text x="226" y="167" font-family="DejaVu Sans" font-size="8.7" fill="#334155" text-anchor="middle" font-weight="normal">sectors</text>
+<circle cx="358" cy="99" r="8" fill="#008751"/>
+<text x="358" y="74" font-family="DejaVu Sans" font-size="9.2" fill="#008751" text-anchor="middle" font-weight="bold">WELFARISM</text>
+<line x1="358" y1="107" x2="358" y2="128" stroke="#008751" stroke-width="1.4"/>
+<rect x="296" y="128" width="124" height="70" rx="7" fill="#FFFFFF" stroke="#008751" stroke-width="1.4"/>
+<text x="358" y="152" font-family="DejaVu Sans" font-size="8.7" fill="#334155" text-anchor="middle" font-weight="normal">Market plus</text>
+<text x="358" y="167" font-family="DejaVu Sans" font-size="8.7" fill="#334155" text-anchor="middle" font-weight="normal">welfare state</text>
+<circle cx="492" cy="99" r="8" fill="#2563EB"/>
+<text x="492" y="74" font-family="DejaVu Sans" font-size="9.2" fill="#2563EB" text-anchor="middle" font-weight="bold">CAPITALISM</text>
+<line x1="492" y1="107" x2="492" y2="128" stroke="#2563EB" stroke-width="1.4"/>
+<rect x="430" y="128" width="124" height="70" rx="7" fill="#FFFFFF" stroke="#2563EB" stroke-width="1.4"/>
+<text x="492" y="152" font-family="DejaVu Sans" font-size="8.7" fill="#334155" text-anchor="middle" font-weight="normal">Private ownership,</text>
+<text x="492" y="167" font-family="DejaVu Sans" font-size="8.7" fill="#334155" text-anchor="middle" font-weight="normal">free market</text>
+<circle cx="636" cy="99" r="8" fill="#D97706"/>
+<text x="636" y="74" font-family="DejaVu Sans" font-size="9.2" fill="#D97706" text-anchor="middle" font-weight="bold">FASCISM</text>
+<line x1="636" y1="107" x2="636" y2="128" stroke="#D97706" stroke-width="1.4"/>
+<rect x="574" y="128" width="124" height="70" rx="7" fill="#FFFFFF" stroke="#D97706" stroke-width="1.4"/>
+<text x="636" y="152" font-family="DejaVu Sans" font-size="8.7" fill="#334155" text-anchor="middle" font-weight="normal">State above</text>
+<text x="636" y="167" font-family="DejaVu Sans" font-size="8.7" fill="#334155" text-anchor="middle" font-weight="normal">the individual</text>
+<rect x="50" y="216" width="660" height="62" rx="8" fill="#F8FAFC" stroke="#CBD5E1" stroke-width="1.2"/>
+<text x="380" y="238" font-family="DejaVu Sans" font-size="9.6" fill="#0E1F40" text-anchor="middle" font-weight="bold">Nigeria's 1999 Constitution is a mixed economy: private property in Chapter IV, state regulation in Chapter II.</text>
+<text x="380" y="258" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="middle" font-weight="normal">In the exam, “capitalism” means private ownership and the profit motive; “socialism” means public ownership and planning.</text>
+</svg>

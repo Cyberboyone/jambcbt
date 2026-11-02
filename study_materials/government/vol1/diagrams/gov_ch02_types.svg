@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 330" width="760" height="330">
+  <defs>
+    <marker id="ag" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#008751"/>
+    </marker>
+    <marker id="an" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#0E1F40"/>
+    </marker>
+    <marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#D97706"/>
+    </marker>
+    <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#DC2626"/>
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="760" height="330" fill="#FFFFFF"/>
+<text x="380" y="28" font-family="DejaVu Sans" font-size="13.2" fill="#0E1F40" text-anchor="middle" font-weight="bold">Two tests, four kinds: how a constitution is written, and how easily it changes</text>
+<text x="380" y="66" font-family="DejaVu Sans" font-size="10.4" fill="#0E1F40" text-anchor="middle" font-weight="bold">WRITTEN or UNWRITTEN — is it in one document?</text>
+<rect x="60" y="84" width="300" height="92" rx="8" fill="#FFFFFF" stroke="#008751" stroke-width="1.6"/>
+<rect x="60" y="84" width="300" height="5" rx="2.5" fill="#008751" stroke="#008751" stroke-width="1.0"/>
+<text x="210" y="108" font-family="DejaVu Sans" font-size="10.4" fill="#008751" text-anchor="middle" font-weight="bold">WRITTEN</text>
+<text x="210" y="128" font-family="DejaVu Sans" font-size="8.8" fill="#334155" text-anchor="middle" font-weight="normal">One document, dated</text>
+<text x="210" y="142" font-family="DejaVu Sans" font-size="8.8" fill="#334155" text-anchor="middle" font-weight="normal">and codified.</text>
+<text x="210" y="156" font-family="DejaVu Sans" font-size="8.8" fill="#334155" text-anchor="middle" font-weight="normal">Nigeria, USA, Ghana</text>
+<rect x="400" y="84" width="300" height="92" rx="8" fill="#FFFFFF" stroke="#2563EB" stroke-width="1.6"/>
+<rect x="400" y="84" width="300" height="5" rx="2.5" fill="#2563EB" stroke="#2563EB" stroke-width="1.0"/>
+<text x="550" y="108" font-family="DejaVu Sans" font-size="10.4" fill="#2563EB" text-anchor="middle" font-weight="bold">UNWRITTEN</text>
+<text x="550" y="128" font-family="DejaVu Sans" font-size="8.8" fill="#334155" text-anchor="middle" font-weight="normal">Scattered in statutes,</text>
+<text x="550" y="142" font-family="DejaVu Sans" font-size="8.8" fill="#334155" text-anchor="middle" font-weight="normal">conventions and cases.</text>
+<text x="550" y="156" font-family="DejaVu Sans" font-size="8.8" fill="#334155" text-anchor="middle" font-weight="normal">United Kingdom, Israel</text>
+<text x="380" y="202" font-family="DejaVu Sans" font-size="10.4" fill="#0E1F40" text-anchor="middle" font-weight="bold">RIGID or FLEXIBLE — how hard is it to amend?</text>
+<rect x="60" y="216" width="300" height="92" rx="8" fill="#FFFFFF" stroke="#D97706" stroke-width="1.6"/>
+<rect x="60" y="216" width="300" height="5" rx="2.5" fill="#D97706" stroke="#D97706" stroke-width="1.0"/>
+<text x="210" y="240" font-family="DejaVu Sans" font-size="10.4" fill="#D97706" text-anchor="middle" font-weight="bold">RIGID</text>
+<text x="210" y="260" font-family="DejaVu Sans" font-size="8.8" fill="#334155" text-anchor="middle" font-weight="normal">Special majority or</text>
+<text x="210" y="274" font-family="DejaVu Sans" font-size="8.8" fill="#334155" text-anchor="middle" font-weight="normal">referendum. Nigeria's</text>
+<text x="210" y="288" font-family="DejaVu Sans" font-size="8.8" fill="#334155" text-anchor="middle" font-weight="normal">section 9 procedure</text>
+<rect x="400" y="216" width="300" height="92" rx="8" fill="#FFFFFF" stroke="#7C3AED" stroke-width="1.6"/>
+<rect x="400" y="216" width="300" height="5" rx="2.5" fill="#7C3AED" stroke="#7C3AED" stroke-width="1.0"/>
+<text x="550" y="240" font-family="DejaVu Sans" font-size="10.4" fill="#7C3AED" text-anchor="middle" font-weight="bold">FLEXIBLE</text>
+<text x="550" y="260" font-family="DejaVu Sans" font-size="8.8" fill="#334155" text-anchor="middle" font-weight="normal">Ordinary legislation</text>
+<text x="550" y="274" font-family="DejaVu Sans" font-size="8.8" fill="#334155" text-anchor="middle" font-weight="normal">changes it. Britain's</text>
+<text x="550" y="288" font-family="DejaVu Sans" font-size="8.8" fill="#334155" text-anchor="middle" font-weight="normal">constitution</text>
+</svg>

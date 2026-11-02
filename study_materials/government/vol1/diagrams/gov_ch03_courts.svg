@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 350" width="760" height="350">
+  <defs>
+    <marker id="ag" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#008751"/>
+    </marker>
+    <marker id="an" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#0E1F40"/>
+    </marker>
+    <marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#D97706"/>
+    </marker>
+    <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#DC2626"/>
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="760" height="350" fill="#FFFFFF"/>
+<text x="380" y="28" font-family="DejaVu Sans" font-size="13.2" fill="#0E1F40" text-anchor="middle" font-weight="bold">The hierarchy of courts in Nigeria — and where appeals stop</text>
+<rect x="280.0" y="44" width="200" height="52" rx="7" fill="#FFFFFF" stroke="#008751" stroke-width="1.5"/>
+<rect x="280.0" y="44" width="200" height="4" rx="2" fill="#008751" stroke="#008751" stroke-width="1.0"/>
+<text x="380" y="66" font-family="DejaVu Sans" font-size="9.4" fill="#008751" text-anchor="middle" font-weight="bold">SUPREME COURT</text>
+<text x="380" y="83" font-family="DejaVu Sans" font-size="8.2" fill="#334155" text-anchor="middle" font-weight="normal">Final appeal; interprets the Constitution</text>
+<rect x="170.0" y="108" width="420" height="52" rx="7" fill="#FFFFFF" stroke="#2563EB" stroke-width="1.5"/>
+<rect x="170.0" y="108" width="420" height="4" rx="2" fill="#2563EB" stroke="#2563EB" stroke-width="1.0"/>
+<text x="380" y="130" font-family="DejaVu Sans" font-size="9.4" fill="#2563EB" text-anchor="middle" font-weight="bold">COURT OF APPEAL</text>
+<text x="380" y="147" font-family="DejaVu Sans" font-size="8.2" fill="#334155" text-anchor="middle" font-weight="normal">Appeals from the High Courts; presidential election petitions</text>
+<rect x="80.0" y="172" width="600" height="52" rx="7" fill="#FFFFFF" stroke="#7C3AED" stroke-width="1.5"/>
+<rect x="80.0" y="172" width="600" height="4" rx="2" fill="#7C3AED" stroke="#7C3AED" stroke-width="1.0"/>
+<text x="380" y="194" font-family="DejaVu Sans" font-size="8.4" fill="#7C3AED" text-anchor="middle" font-weight="bold">FEDERAL HIGH COURT  •  STATE HIGH COURTS  •  FCT HIGH COURT</text>
+<text x="380" y="211" font-family="DejaVu Sans" font-size="8.2" fill="#334155" text-anchor="middle" font-weight="normal">Original jurisdiction; appeals to the Court of Appeal</text>
+<rect x="30.0" y="236" width="700" height="52" rx="7" fill="#FFFFFF" stroke="#D97706" stroke-width="1.5"/>
+<rect x="30.0" y="236" width="700" height="4" rx="2" fill="#D97706" stroke="#D97706" stroke-width="1.0"/>
+<text x="380" y="258" font-family="DejaVu Sans" font-size="8.4" fill="#D97706" text-anchor="middle" font-weight="bold">MAGISTRATE  •  DISTRICT  •  CUSTOMARY  •  SHARIA COURTS</text>
+<text x="380" y="275" font-family="DejaVu Sans" font-size="8.2" fill="#334155" text-anchor="middle" font-weight="normal">Lower courts; limited jurisdiction; appeals upward</text>
+<line x1="380" y1="96" x2="380.0" y2="95.6" stroke="#334155" stroke-width="1.4"/><polygon points="380.0,108.0 375.4,95.6 384.6,95.6" fill="#334155"/>
+<line x1="380" y1="160" x2="380.0" y2="159.6" stroke="#334155" stroke-width="1.4"/><polygon points="380.0,172.0 375.4,159.6 384.6,159.6" fill="#334155"/>
+<line x1="380" y1="224" x2="380.0" y2="223.6" stroke="#334155" stroke-width="1.4"/><polygon points="380.0,236.0 375.4,223.6 384.6,223.6" fill="#334155"/>
+<rect x="60" y="300" width="640" height="38" rx="7" fill="#ECFDF5" stroke="#008751" stroke-width="1.2"/>
+<text x="380" y="318" font-family="DejaVu Sans" font-size="8.8" fill="#0E1F40" text-anchor="middle" font-weight="bold">Judicial independence: security of tenure, salaries charged to the Consolidated Revenue Fund, and appointments insulated from the executive.</text>
+<text x="380" y="333" font-family="DejaVu Sans" font-size="8.4" fill="#334155" text-anchor="middle" font-weight="normal">Section 6 of the 1999 Constitution vests judicial power in the courts.</text>
+</svg>

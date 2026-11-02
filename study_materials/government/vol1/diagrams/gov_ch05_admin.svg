@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 340" width="760" height="340">
+  <defs>
+    <marker id="ag" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#008751"/>
+    </marker>
+    <marker id="an" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#0E1F40"/>
+    </marker>
+    <marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#D97706"/>
+    </marker>
+    <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#DC2626"/>
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="760" height="340" fill="#FFFFFF"/>
+<text x="380" y="28" font-family="DejaVu Sans" font-size="13.2" fill="#0E1F40" text-anchor="middle" font-weight="bold">The civil service is controlled from six directions</text>
+<rect x="290" y="130" width="180" height="70" rx="10" fill="#0E1F40" stroke="#0E1F40" stroke-width="1.5"/>
+<text x="380" y="160" font-family="DejaVu Sans" font-size="10.4" fill="#FFFFFF" text-anchor="middle" font-weight="bold">THE CIVIL SERVICE</text>
+<text x="380" y="178" font-family="DejaVu Sans" font-size="7.8" fill="#A7F3D0" text-anchor="middle" font-weight="normal">permanent • anonymous • impartial</text>
+<rect x="30" y="52" width="190" height="56" rx="7" fill="#FFFFFF" stroke="#008751" stroke-width="1.3"/>
+<text x="125.0" y="72" font-family="DejaVu Sans" font-size="8.6" fill="#008751" text-anchor="middle" font-weight="bold">LEGISLATURE</text>
+<text x="125.0" y="90" font-family="DejaVu Sans" font-size="7.6" fill="#334155" text-anchor="middle" font-weight="normal">Appropriates; questions; committees</text>
+<rect x="560" y="52" width="190" height="56" rx="7" fill="#FFFFFF" stroke="#2563EB" stroke-width="1.3"/>
+<text x="655.0" y="72" font-family="DejaVu Sans" font-size="8.6" fill="#2563EB" text-anchor="middle" font-weight="bold">EXECUTIVE</text>
+<text x="655.0" y="90" font-family="DejaVu Sans" font-size="7.6" fill="#334155" text-anchor="middle" font-weight="normal">Appoints; directs policy</text>
+<rect x="30" y="240" width="190" height="56" rx="7" fill="#FFFFFF" stroke="#7C3AED" stroke-width="1.3"/>
+<text x="125.0" y="260" font-family="DejaVu Sans" font-size="8.6" fill="#7C3AED" text-anchor="middle" font-weight="bold">JUDICIARY</text>
+<text x="125.0" y="278" font-family="DejaVu Sans" font-size="7.6" fill="#334155" text-anchor="middle" font-weight="normal">Reviews administrative acts</text>
+<rect x="560" y="240" width="190" height="56" rx="7" fill="#FFFFFF" stroke="#D97706" stroke-width="1.3"/>
+<text x="655.0" y="260" font-family="DejaVu Sans" font-size="8.6" fill="#D97706" text-anchor="middle" font-weight="bold">OMBUDSMAN</text>
+<text x="655.0" y="278" font-family="DejaVu Sans" font-size="7.6" fill="#334155" text-anchor="middle" font-weight="normal">Investigates injustice</text>
+<rect x="270" y="262" width="220" height="56" rx="7" fill="#FFFFFF" stroke="#00A859" stroke-width="1.3"/>
+<text x="380.0" y="282" font-family="DejaVu Sans" font-size="8.6" fill="#00A859" text-anchor="middle" font-weight="bold">AUDITOR-GENERAL</text>
+<text x="380.0" y="300" font-family="DejaVu Sans" font-size="7.6" fill="#334155" text-anchor="middle" font-weight="normal">Audits public accounts</text>
+<rect x="250" y="44" width="190" height="56" rx="7" fill="#FFFFFF" stroke="#DC2626" stroke-width="1.3"/>
+<text x="345.0" y="64" font-family="DejaVu Sans" font-size="8.6" fill="#DC2626" text-anchor="middle" font-weight="bold">CODE OF CONDUCT</text>
+<text x="345.0" y="82" font-family="DejaVu Sans" font-size="7.6" fill="#334155" text-anchor="middle" font-weight="normal">Declares assets; bars conflict</text>
+<line x1="220" y1="80" x2="289.8415241855639" y2="128.88906692989474" stroke="#008751" stroke-width="1.4"/><polygon points="300.0,136.0 287.2,132.7 292.5,125.1" fill="#008751"/>
+<line x1="560" y1="80" x2="472.76621496234327" y2="129.84787716437526" stroke="#2563EB" stroke-width="1.4"/><polygon points="462.0,136.0 470.5,125.8 475.1,133.9" fill="#2563EB"/>
+<line x1="220" y1="268" x2="290.78315258653515" y2="204.29516267211838" stroke="#7C3AED" stroke-width="1.4"/><polygon points="300.0,196.0 293.9,207.7 287.7,200.8" fill="#7C3AED"/>
+<line x1="560" y1="268" x2="471.9929344798477" y2="203.3417477811126" stroke="#D97706" stroke-width="1.4"/><polygon points="462.0,196.0 474.7,199.6 469.2,207.1" fill="#D97706"/>
+<line x1="380" y1="262" x2="380.0" y2="214.4" stroke="#00A859" stroke-width="1.4"/><polygon points="380.0,202.0 384.6,214.4 375.4,214.4" fill="#00A859"/>
+<line x1="380" y1="100" x2="380.0" y2="115.6" stroke="#DC2626" stroke-width="1.4"/><polygon points="380.0,128.0 375.4,115.6 384.6,115.6" fill="#DC2626"/>
+</svg>

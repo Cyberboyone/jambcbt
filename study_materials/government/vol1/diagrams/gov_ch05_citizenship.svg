@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 330" width="760" height="330">
+  <defs>
+    <marker id="ag" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#008751"/>
+    </marker>
+    <marker id="an" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#0E1F40"/>
+    </marker>
+    <marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#D97706"/>
+    </marker>
+    <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#DC2626"/>
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="760" height="330" fill="#FFFFFF"/>
+<text x="380" y="28" font-family="DejaVu Sans" font-size="13.2" fill="#0E1F40" text-anchor="middle" font-weight="bold">How a person becomes a citizen — section 25 of the 1999 Constitution</text>
+<rect x="300" y="130" width="160" height="64" rx="10" fill="#0E1F40" stroke="#0E1F40" stroke-width="1.5"/>
+<text x="380" y="158" font-family="DejaVu Sans" font-size="12" fill="#FFFFFF" text-anchor="middle" font-weight="bold">CITIZEN</text>
+<text x="380" y="176" font-family="DejaVu Sans" font-size="8.4" fill="#A7F3D0" text-anchor="middle" font-weight="normal">by one of five routes</text>
+<rect x="0" y="44" width="192" height="74" rx="7" fill="#FFFFFF" stroke="#008751" stroke-width="1.4"/>
+<text x="96" y="61" font-family="DejaVu Sans" font-size="9" fill="#008751" text-anchor="middle" font-weight="bold">BY BIRTH</text>
+<text x="96" y="76" font-family="DejaVu Sans" font-size="7.8" fill="#334155" text-anchor="middle" font-weight="normal">Born in Nigeria</text>
+<text x="96" y="88" font-family="DejaVu Sans" font-size="7.8" fill="#334155" text-anchor="middle" font-weight="normal">(or abroad) to Nigerian</text>
+<text x="96" y="100" font-family="DejaVu Sans" font-size="7.8" fill="#334155" text-anchor="middle" font-weight="normal">parents or grandparents</text>
+<line x1="96" y1="118" x2="368.02149153947323" y2="190.79448365140834" stroke="#008751" stroke-width="1.5"/><polygon points="380.0,194.0 366.8,195.3 369.2,186.3" fill="#008751"/>
+<rect x="284" y="44" width="192" height="74" rx="7" fill="#FFFFFF" stroke="#2563EB" stroke-width="1.4"/>
+<text x="380" y="61" font-family="DejaVu Sans" font-size="9" fill="#2563EB" text-anchor="middle" font-weight="bold">BY DESCENT</text>
+<text x="380" y="76" font-family="DejaVu Sans" font-size="7.8" fill="#334155" text-anchor="middle" font-weight="normal">Born outside Nigeria</text>
+<text x="380" y="88" font-family="DejaVu Sans" font-size="7.8" fill="#334155" text-anchor="middle" font-weight="normal">to a Nigerian parent</text>
+<line x1="380" y1="118" x2="380.0" y2="181.6" stroke="#2563EB" stroke-width="1.5"/><polygon points="380.0,194.0 375.4,181.6 384.6,181.6" fill="#2563EB"/>
+<rect x="544" y="44" width="192" height="74" rx="7" fill="#FFFFFF" stroke="#7C3AED" stroke-width="1.4"/>
+<text x="640" y="61" font-family="DejaVu Sans" font-size="9" fill="#7C3AED" text-anchor="middle" font-weight="bold">BY REGISTRATION</text>
+<text x="640" y="76" font-family="DejaVu Sans" font-size="7.8" fill="#334155" text-anchor="middle" font-weight="normal">Woman married to a</text>
+<text x="640" y="88" font-family="DejaVu Sans" font-size="7.8" fill="#334155" text-anchor="middle" font-weight="normal">Nigerian; person of</text>
+<text x="640" y="100" font-family="DejaVu Sans" font-size="7.8" fill="#334155" text-anchor="middle" font-weight="normal">Nigerian descent</text>
+<line x1="640" y1="118" x2="391.9019471263756" y2="190.52096930152098" stroke="#7C3AED" stroke-width="1.5"/><polygon points="380.0,194.0 390.6,186.1 393.2,195.0" fill="#7C3AED"/>
+<rect x="84" y="236" width="192" height="74" rx="7" fill="#FFFFFF" stroke="#D97706" stroke-width="1.4"/>
+<text x="180" y="253" font-family="DejaVu Sans" font-size="9" fill="#D97706" text-anchor="middle" font-weight="bold">BY NATURALISATION</text>
+<text x="180" y="268" font-family="DejaVu Sans" font-size="7.8" fill="#334155" text-anchor="middle" font-weight="normal">Resident for 15 years;</text>
+<text x="180" y="280" font-family="DejaVu Sans" font-size="7.8" fill="#334155" text-anchor="middle" font-weight="normal">good character;</text>
+<text x="180" y="292" font-family="DejaVu Sans" font-size="7.8" fill="#334155" text-anchor="middle" font-weight="normal">acceptable to the community</text>
+<line x1="180" y1="236" x2="369.0436960403785" y2="135.8068410985994" stroke="#D97706" stroke-width="1.5"/><polygon points="380.0,130.0 371.2,139.9 366.9,131.7" fill="#D97706"/>
+<rect x="424" y="236" width="192" height="74" rx="7" fill="#FFFFFF" stroke="#DC2626" stroke-width="1.4"/>
+<text x="520" y="253" font-family="DejaVu Sans" font-size="9" fill="#DC2626" text-anchor="middle" font-weight="bold">BY HONORARY AWARD</text>
+<text x="520" y="268" font-family="DejaVu Sans" font-size="7.8" fill="#334155" text-anchor="middle" font-weight="normal">Conferred by the</text>
+<text x="520" y="280" font-family="DejaVu Sans" font-size="7.8" fill="#334155" text-anchor="middle" font-weight="normal">President for exceptional</text>
+<text x="520" y="292" font-family="DejaVu Sans" font-size="7.8" fill="#334155" text-anchor="middle" font-weight="normal">service</text>
+<line x1="520" y1="236" x2="389.8860021902035" y2="137.48511594401123" stroke="#DC2626" stroke-width="1.5"/><polygon points="380.0,130.0 392.7,133.8 387.1,141.2" fill="#DC2626"/>
+</svg>
