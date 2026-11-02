@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 300" width="760" height="300">
+  <defs>
+    <marker id="ag" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#008751"/>
+    </marker>
+    <marker id="an" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#0E1F40"/>
+    </marker>
+    <marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#D97706"/>
+    </marker>
+    <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#DC2626"/>
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="760" height="300" fill="#FFFFFF"/>
+<rect x="0" y="0" width="760" height="300" rx="8" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="1.3"/>
+<text x="380.0" y="26" font-family="DejaVu Sans" font-size="13" fill="#0E1F40" text-anchor="middle" font-weight="bold">The Bank: Four Columns You Fill Yourself</text>
+<text x="380.0" y="45" font-family="DejaVu Sans" font-size="9.2" fill="#64748B" text-anchor="middle" font-weight="normal">Reading a text is not the same as preparing it. The bank is the difference.</text>
+<rect x="20" y="66" width="170" height="196" rx="8" fill="#FFFFFF" stroke="#2563EB" stroke-width="1.5"/>
+<rect x="20" y="66" width="170" height="6" rx="3" fill="#2563EB"/>
+<text x="105" y="92" font-family="DejaVu Sans" font-size="10.4" fill="#2563EB" text-anchor="middle" font-weight="bold">SCENE / CHAPTER</text>
+<text x="105" y="118" font-family="DejaVu Sans" font-size="8.4" fill="#64748B" text-anchor="middle" font-weight="normal">what happens, in five words</text>
+<text x="105" y="146" font-family="DejaVu Sans" font-size="8.8" fill="#334155" text-anchor="middle" font-weight="normal">Act 3 scene 3 — the</text>
+<text x="105" y="162" font-family="DejaVu Sans" font-size="8.8" fill="#334155" text-anchor="middle" font-weight="normal">handkerchief is lost</text>
+<text x="105" y="178" font-family="DejaVu Sans" font-size="8.8" fill="#334155" text-anchor="middle" font-weight="normal">one line per unit</text>
+<rect x="205" y="66" width="170" height="196" rx="8" fill="#FFFFFF" stroke="#D97706" stroke-width="1.5"/>
+<rect x="205" y="66" width="170" height="6" rx="3" fill="#D97706"/>
+<text x="290" y="92" font-family="DejaVu Sans" font-size="10.4" fill="#D97706" text-anchor="middle" font-weight="bold">WHO</text>
+<text x="290" y="118" font-family="DejaVu Sans" font-size="8.4" fill="#64748B" text-anchor="middle" font-weight="normal">who is present, who wants what</text>
+<text x="290" y="146" font-family="DejaVu Sans" font-size="8.8" fill="#334155" text-anchor="middle" font-weight="normal">Iago, Othello,</text>
+<text x="290" y="162" font-family="DejaVu Sans" font-size="8.8" fill="#334155" text-anchor="middle" font-weight="normal">Desdemona offstage</text>
+<text x="290" y="178" font-family="DejaVu Sans" font-size="8.8" fill="#334155" text-anchor="middle" font-weight="normal">names, not descriptions</text>
+<rect x="390" y="66" width="170" height="196" rx="8" fill="#FFFFFF" stroke="#008751" stroke-width="1.5"/>
+<rect x="390" y="66" width="170" height="6" rx="3" fill="#008751"/>
+<text x="475" y="92" font-family="DejaVu Sans" font-size="10.4" fill="#008751" text-anchor="middle" font-weight="bold">TURN</text>
+<text x="475" y="118" font-family="DejaVu Sans" font-size="8.4" fill="#64748B" text-anchor="middle" font-weight="normal">what changes by the end</text>
+<text x="475" y="146" font-family="DejaVu Sans" font-size="8.8" fill="#334155" text-anchor="middle" font-weight="normal">trust becomes</text>
+<text x="475" y="162" font-family="DejaVu Sans" font-size="8.8" fill="#334155" text-anchor="middle" font-weight="normal">suspicion</text>
+<text x="475" y="178" font-family="DejaVu Sans" font-size="8.8" fill="#334155" text-anchor="middle" font-weight="normal">the hinge of the unit</text>
+<rect x="575" y="66" width="170" height="196" rx="8" fill="#FFFFFF" stroke="#7C3AED" stroke-width="1.5"/>
+<rect x="575" y="66" width="170" height="6" rx="3" fill="#7C3AED"/>
+<text x="660" y="92" font-family="DejaVu Sans" font-size="10.4" fill="#7C3AED" text-anchor="middle" font-weight="bold">QUOTE</text>
+<text x="660" y="118" font-family="DejaVu Sans" font-size="8.4" fill="#64748B" text-anchor="middle" font-weight="normal">six to ten words, exact</text>
+<text x="660" y="146" font-family="DejaVu Sans" font-size="8.8" fill="#334155" text-anchor="middle" font-weight="normal">“the green-eyed</text>
+<text x="660" y="162" font-family="DejaVu Sans" font-size="8.8" fill="#334155" text-anchor="middle" font-weight="normal">monster”</text>
+<text x="660" y="178" font-family="DejaVu Sans" font-size="8.8" fill="#334155" text-anchor="middle" font-weight="normal">one per unit, no more</text>
+<text x="380.0" y="286" font-family="DejaVu Sans" font-size="8.8" fill="#64748B" text-anchor="middle" font-weight="normal">One row per scene or chapter, built as you read. By the last week the bank is the only revision document you need.</text>
+</svg>

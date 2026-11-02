@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 150" width="760" height="150">
+  <defs>
+    <marker id="ag" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#008751"/>
+    </marker>
+    <marker id="an" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#0E1F40"/>
+    </marker>
+    <marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#D97706"/>
+    </marker>
+    <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#DC2626"/>
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="760" height="150" fill="#ECFDF5"/>
+<rect x="0" y="0" width="760" height="150" rx="10" fill="#ECFDF5" stroke="#008751" stroke-width="1.4"/>
+<text x="26" y="50" font-family="DejaVu Sans" font-size="17" fill="#0E1F40" text-anchor="start" font-weight="bold">WHO IS SPEAKING,</text>
+<text x="26" y="76" font-family="DejaVu Sans" font-size="17" fill="#008751" text-anchor="start" font-weight="bold">AND WHAT IS THE WRITER DOING?</text>
+<text x="26" y="106" font-family="DejaVu Sans" font-size="9.8" fill="#64748B" text-anchor="start" font-weight="normal">Five set texts, one method: the evidence, the pattern, the effect</text>
+<text x="554" y="60" font-family="DejaVu Sans" font-size="8.6" fill="#64748B" text-anchor="end" font-weight="normal">two plays</text>
+<rect x="566" y="38" width="160" height="34" rx="6" fill="#FFFFFF" stroke="#2563EB" stroke-width="1.4"/>
+<text x="646" y="60" font-family="DejaVu Sans" font-size="10.6" fill="#2563EB" text-anchor="middle" font-weight="bold">DRAMA</text>
+<text x="554" y="108" font-family="DejaVu Sans" font-size="8.6" fill="#64748B" text-anchor="end" font-weight="normal">three novels</text>
+<rect x="566" y="86" width="160" height="34" rx="6" fill="#FFFFFF" stroke="#D97706" stroke-width="1.4"/>
+<text x="646" y="108" font-family="DejaVu Sans" font-size="10.6" fill="#D97706" text-anchor="middle" font-weight="bold">PROSE</text>
+</svg>

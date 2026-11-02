@@ -1,0 +1,248 @@
+"""Master bank, part 2 — blocks 5–8 (40 items)."""
+
+BANK_2 = [
+    # ── Block 5: Othello, plot and structure ────────────────────────────
+    (
+        "Othello is sent to Cyprus because",
+        ["the Duke wants him out of Venice", "the Turkish fleet threatens the island", "Desdemona asks to travel", "Brabantio demands it"],
+        1,
+        "The military emergency is genuine, and it takes the marriage out of the city's legal structures.",
+    ),
+    (
+        "The Turkish fleet is destroyed by",
+        ["Othello's tactics", "a storm", "Iago's sabotage", "Cassio's squadron"],
+        1,
+        "The enemy is removed by weather, which leaves the play with no external enemy and an internal one.",
+    ),
+    (
+        "Iago's first act in the play is to",
+        ["warn Othello", "wake Brabantio with the news of the elopement", "promote Cassio", "marry Emilia"],
+        1,
+        "The play begins with a public alarm that turns a marriage into an offence.",
+    ),
+    (
+        "Roderigo's role in the plot is to",
+        ["provide money and a dupe for Iago", "defend Desdemona", "report Iago to the Duke", "carry letters to Venice"],
+        0,
+        "He funds the scheme, follows Iago's instructions and is finally killed by him.",
+    ),
+    (
+        "The handkerchief is important because",
+        ["it is valuable", "its meaning is supplied by whoever holds it and whoever interprets it", "it belongs to Emilia", "it proves Desdemona's guilt"],
+        1,
+        "The object is empty of meaning until someone assigns one, which is Iago's method in miniature.",
+    ),
+    (
+        "The public brawl in Cyprus begins with",
+        ["a quarrel over a woman", "Cassio's drunkenness and Roderigo's provocation", "an attack by the Turks", "an argument about pay"],
+        1,
+        "The scene is engineered, and it removes Cassio from his rank.",
+    ),
+    (
+        "Othello's first speech in the play is",
+        ["an order to his officers", "an account of his life and courtship", "a threat to Brabantio", "a prayer"],
+        1,
+        "He answers the charge of witchcraft with narrative, and the narrative wins.",
+    ),
+    (
+        "The eavesdropping scene works because Cassio speaks about",
+        ["Desdemona", "Bianca", "Emilia", "Cassio's own promotion"],
+        1,
+        "Othello hears a conversation about Bianca and hears it as a conversation about Desdemona.",
+    ),
+    (
+        "Lodovico's arrival matters because it",
+        ["brings news of the war", "brings Venice's view of the marriage to Cyprus", "arrests Iago", "takes Desdemona home"],
+        1,
+        "The visitor restores the public world, and Othello strikes his wife in front of him.",
+    ),
+    (
+        "The play ends with",
+        ["Iago's execution", "Cassio in command and Iago under arrest", "Othello exiled", "Desdemona avenged by the state"],
+        1,
+        "The state repairs its instruments and leaves Iago alive to refuse explanation.",
+    ),
+    # ── Block 6: Othello, language and judgement ────────────────────────
+    (
+        "Othello's style after the temptation scene is characterised by",
+        ["long, balanced sentences", "exclamation, repetition and broken syntax", "rhymed couplets", "prose"],
+        1,
+        "The collapse is the play's most visible evidence of the change in him.",
+    ),
+    (
+        "The word most often applied to Iago by other characters is",
+        ["cruel", "honest", "cunning", "ambitious"],
+        1,
+        "The repetition of “honest” is the play's bitterest irony, because honesty is exactly what he does not supply.",
+    ),
+    (
+        "Iago speaks mostly in",
+        ["verse", "prose", "rhyme", "song"],
+        1,
+        "His prose marks his separation from the aristocratic, versified world he manipulates.",
+    ),
+    (
+        "Desdemona's speech is characterised by",
+        ["elaborate imagery", "plainness and directness", "bombast", "puns"],
+        1,
+        "Her plainness is the play's quietest claim: clear speech that is not accepted as evidence.",
+    ),
+    (
+        "“Put out the light, and then put out the light” works by",
+        ["repeating a phrase so that murder sounds like housekeeping", "using a simile", "addressing a servant", "quoting scripture"],
+        0,
+        "The same words do two jobs — the lamp and the woman — and the second job is disguised as the first.",
+    ),
+    (
+        "The willow song is associated with",
+        ["Desdemona's mother's maid", "Emilia's childhood", "Bianca's trade", "Emilia"],
+        0,
+        "The song's story of a woman betrayed is inherited, which is what makes it a prophecy.",
+    ),
+    (
+        "Othello's final speech is best read as",
+        ["a confession", "a performance of the self he wanted to be", "a prayer", "a threat"],
+        1,
+        "The speech returns to the storyteller of Act 1, which is why it can be seen as both dignity and evasion.",
+    ),
+    (
+        "Iago's “Demand me nothing” leaves the play with",
+        ["a clear motive", "an unexplained motive, which is why motive-hunting is a weak strategy", "a confession", "a trial"],
+        1,
+        "He refuses to explain, and the refusal is the most eloquent thing he says.",
+    ),
+    (
+        "The play's treatment of race is best described as",
+        ["a private prejudice of one character", "a public necessity that the state cannot accept", "irrelevant to the plot", "a legal category"],
+        1,
+        "Venice needs the Moor and cannot assimilate him, and both halves are visible throughout.",
+    ),
+    (
+        "A judgement answer about Othello's responsibility must",
+        ["decide whether he is good or bad", "weigh Iago's engineering against Othello's willingness to accept it", "summarise the last scene", "quote the last line only"],
+        1,
+        "The proportion between external cause and internal willingness is what “how far” asks for.",
+    ),
+    # ── Block 7: Native Son, plot and structure ─────────────────────────
+    (
+        "Bigger's family lives in",
+        ["a two-room apartment", "a one-room kitchenette", "a house in the suburbs", "a rented shop"],
+        1,
+        "The kitchenette is too small for the family, and its size is the novel's first argument.",
+    ),
+    (
+        "The Dalton family business is",
+        ["a newspaper", "real estate on the South Side", "a factory", "a law firm"],
+        1,
+        "Their income comes from renting to the families of the men they employ.",
+    ),
+    (
+        "Bigger's job title is",
+        ["chauffeur", "janitor", "clerk", "guard"],
+        0,
+        "The job is driving, which gives him access to Mary and to the space between the two worlds.",
+    ),
+    (
+        "Jan Erlone is",
+        ["a policeman", "Mary's boyfriend, associated with the Communist Party", "the family lawyer", "Bigger's friend"],
+        1,
+        "Jan's politics make him want a friendship that Bigger cannot afford to accept.",
+    ),
+    (
+        "After the killing, Bigger's first practical problem is",
+        ["escaping the city", "disposing of the body in the furnace", "confessing", "finding his mother"],
+        1,
+        "The furnace requires him to dismember the body, and the house becomes the instrument of concealment.",
+    ),
+    (
+        "Bigger writes the ransom note because",
+        ["he wants money", "he needs the disappearance to look like a kidnapping", "Jan tells him to", "Bessie asks him to"],
+        1,
+        "The invented kidnapping is a story, and the public's appetite for it is the novel's target.",
+    ),
+    (
+        "Bigger's capture follows",
+        ["a trial", "a chase across the rooftops", "a confession to his mother", "a newspaper interview"],
+        1,
+        "The hunt is public and theatrical, and the press is part of it.",
+    ),
+    (
+        "Buckley is",
+        ["the defence lawyer", "the state's attorney", "a journalist", "a policeman"],
+        1,
+        "He interrogates and prosecutes, and Max defends.",
+    ),
+    (
+        "Bigger's mother responds to the crisis with",
+        ["political argument", "religious appeal and prayer", "silence", "anger at the Daltons"],
+        1,
+        "Her faith is genuine and unavailable to Bigger, which is the source of the novel's tension with it.",
+    ),
+    (
+        "The novel's last scene takes place",
+        ["in the courtroom", "in Bigger's cell with Max", "on the rooftop", "at the Dalton house"],
+        1,
+        "The cell is the smallest space in the novel, and it is where Bigger finally speaks.",
+    ),
+    # ── Block 8: Native Son, style and judgement ────────────────────────
+    (
+        "The novel's third-person narration is notable for",
+        ["remaining wholly outside Bigger", "entering Bigger's idiom and withdrawing at moments of violence", "addressing the reader", "using the present tense"],
+        1,
+        "The double movement gives sympathy and judgement at once.",
+    ),
+    (
+        "Free indirect discourse allows the novel to",
+        ["report only what is said aloud", "give a character's experience without a first-person narrator", "avoid description", "use dialogue only"],
+        1,
+        "The character's idiom enters the narration while the third person keeps an external standpoint.",
+    ),
+    (
+        "The rat in the opening is",
+        ["a comic detail", "an image of the family's condition inside the kitchenette", "a pet", "a symbol of the Daltons"],
+        1,
+        "The rat is trapped in the same space and killed for being there.",
+    ),
+    (
+        "Snow in the novel is often read as",
+        ["warmth", "a blankness that covers the city's divisions", "a sign of hope", "a religious symbol"],
+        1,
+        "The weather makes the streets uniform while the city remains divided.",
+    ),
+    (
+        "The novel's treatment of violence suggests that",
+        ["violence is natural to Bigger", "violence is what a life with no other mark-making finds available", "violence is always planned", "violence is never the character's choice"],
+        1,
+        "The novel explains the violence without excusing the choices that produce it.",
+    ),
+    (
+        "The strongest claim about Bigger is that he is",
+        ["a monster", "a hero", "a person produced and then punished by the same machine", "an innocent"],
+        2,
+        "The formulation holds production and punishment together, which is the novel's argument.",
+    ),
+    (
+        "The Daltons' kindness is presented as",
+        ["a solution", "part of the system that profits from Bigger's family", "irrelevant", "a mask worn only by Mary"],
+        1,
+        "Charity and rent come from the same house, and the novel refuses to let one cancel the other.",
+    ),
+    (
+        "Max's speech fails to save Bigger because",
+        ["it is inaccurate", "the court can convict the man without being able to hear the argument", "Bigger interrupts", "Jan withdraws"],
+        1,
+        "The novel separates explanation from understanding.",
+    ),
+    (
+        "The ending's recognition is",
+        ["legal hope", "personal recognition without legal hope", "an acquittal", "a reprieve"],
+        1,
+        "The novel separates recognition from hope, and that separation is the ending's argument.",
+    ),
+    (
+        "Which is the best first sentence for an answer on Bigger's guilt?",
+        ["Bigger is guilty, so the novel is a crime story.", "The novel accepts Bigger's guilt and refuses to let it be the whole account of him.", "Bigger is innocent because society made him.", "The novel is about Chicago."],
+        1,
+        "The sentence accepts the fact and opens the argument, which is what “how far” rewards.",
+    ),
+]

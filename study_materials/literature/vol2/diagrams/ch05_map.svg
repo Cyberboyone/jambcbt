@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 340" width="760" height="340">
+  <defs>
+    <marker id="ag" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#008751"/>
+    </marker>
+    <marker id="an" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#0E1F40"/>
+    </marker>
+    <marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#D97706"/>
+    </marker>
+    <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#DC2626"/>
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="760" height="340" fill="#F8FAFC"/>
+<rect x="0" y="0" width="760" height="340" rx="10" fill="#F8FAFC" stroke="#CBD5E1" stroke-width="1.2"/>
+<text x="380.0" y="26" font-family="DejaVu Sans" font-size="13" fill="#0E1F40" text-anchor="middle" font-weight="bold">Othello: Two Cities and One Web</text>
+<text x="380.0" y="45" font-family="DejaVu Sans" font-size="9.2" fill="#64748B" text-anchor="middle" font-weight="normal">Venice is law and reputation; Cyprus is a garrison with no law but the general's</text>
+<rect x="20" y="62" width="330" height="250" rx="8" fill="#FFFFFF" stroke="#2563EB" stroke-width="1.5"/>
+<text x="185" y="86" font-family="DejaVu Sans" font-size="12" fill="#2563EB" text-anchor="middle" font-weight="bold">VENICE</text>
+<text x="185" y="104" font-family="DejaVu Sans" font-size="8.6" fill="#64748B" text-anchor="middle" font-weight="normal">the city that sentences by name</text>
+<text x="34" y="130" font-family="DejaVu Sans" font-size="8.6" fill="#334155" text-anchor="start" font-weight="normal">• Brabantio: the father who owns a daughter</text>
+<text x="34" y="164" font-family="DejaVu Sans" font-size="8.6" fill="#334155" text-anchor="start" font-weight="normal">• the Duke: the law that prefers a story</text>
+<text x="34" y="198" font-family="DejaVu Sans" font-size="8.6" fill="#334155" text-anchor="start" font-weight="normal">• the Senate: a room where a Moor is useful</text>
+<text x="34" y="232" font-family="DejaVu Sans" font-size="8.6" fill="#334155" text-anchor="start" font-weight="normal">• Desdemona: the daughter who chooses</text>
+<rect x="410" y="62" width="330" height="250" rx="8" fill="#FFFFFF" stroke="#D97706" stroke-width="1.5"/>
+<text x="575" y="86" font-family="DejaVu Sans" font-size="12" fill="#D97706" text-anchor="middle" font-weight="bold">CYPRUS</text>
+<text x="575" y="104" font-family="DejaVu Sans" font-size="8.6" fill="#64748B" text-anchor="middle" font-weight="normal">the garrison where reputation cannot be checked</text>
+<text x="424" y="130" font-family="DejaVu Sans" font-size="8.6" fill="#334155" text-anchor="start" font-weight="normal">• the storm scatters the fleet</text>
+<text x="424" y="164" font-family="DejaVu Sans" font-size="8.6" fill="#334155" text-anchor="start" font-weight="normal">• the watch, the brawl, the demotion</text>
+<text x="424" y="198" font-family="DejaVu Sans" font-size="8.6" fill="#334155" text-anchor="start" font-weight="normal">• the handkerchief, the eavesdropping</text>
+<text x="424" y="232" font-family="DejaVu Sans" font-size="8.6" fill="#334155" text-anchor="start" font-weight="normal">• the bed, the sword, the truth too late</text>
+<line x1="352" y1="186" x2="408" y2="186" stroke="#008751" stroke-width="2.0" marker-end="url(#ag)"/>
+<text x="380.0" y="328" font-family="DejaVu Sans" font-size="8.6" fill="#64748B" text-anchor="middle" font-weight="normal">Everything that Venice restrains, Cyprus releases: the play's argument is carried by the move.</text>
+</svg>

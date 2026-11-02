@@ -19,7 +19,7 @@ full papers.
 | Vol. | Title | Coverage | Status |
 |---|---|---|---|
 | 1 | The Principles | the three genres and the levels of reading; drama — types, plot, technique; prose — point of view, characterisation, setting, structure, types; poetry — the line, metre, rhyme and sound, image and symbol, types; devices; unseen appreciation; two mocks; four practice banks | **delivered — 179 pp** |
-| 2 | The Drama and the Prose | *Harvest of Corruption* (Ogbeche) and *Othello* scene by scene; *Faceless* (Darko), *Lonely Days* (Adebowale) and *Native Son* (Wright) chapter by chapter; character, theme and quotation banks for each | planned |
+| 2 | The Drama and the Prose | the set-text method; the bank; character and theme; *Othello* and *Native Son* modelled in full; dossiers for *Harvest of Corruption*, *Faceless* and *Lonely Days*; comparison and the exam hall | **delivered — 165 pp** |
 | 3 | The Poems and the Mock Papers | the five prescribed poems line by line (*Vanity*, *Ambush*, *The Anvil and the Hammer*, *Crossing the Bar*, *The Proud King*), a quotation bank, and four full 60-question papers | planned |
 
 The 2026 prescribed texts, as set by the syllabus: drama — *Harvest of Corruption*
@@ -53,6 +53,46 @@ score log and the last fortnight); Appendix J (three unseen extracts, fifteen qu
 and the reasoning); Appendix K (thirty-six traps in the paper's own words); Appendix L
 (the exam-day playbook).
 
+## Volume 2 — chapter table
+
+| Ch | Title | Sections | Start | Status |
+|----|-------|----------|-------|--------|
+| 1 | How the Paper Examines a Set Text | what changes when a text is prescribed; the four shapes of question; what a mark scheme rewards; the quotation policy; the four errors; two-minute set; drill | 11 | **done** |
+| 2 | The Bank: Building Your Own | why a bank, not a summary; the scene row; the chapter row; the cast grid and the ten passages; reviewing the bank; two-minute set; drill | 23 | **done** |
+| 3 | Character: Maps, Functions, Contrasts | the five-question map; the six functions; contrasts and what a pairing claims; arcs; answering “how is X presented”; two-minute set; drill | 35 | **done** |
+| 4 | Theme: The Ledger | topic against claim; the four-column ledger; the five ledgers the texts share; counter-evidence; the four-sentence paragraph; two-minute set; drill | 48 | **done** |
+| 5 | *Othello*: A Worked Model | the five acts and what each changes; Iago's three moves; the collapse of a style; the five themes; the ending as judgement; two-minute set; drill | 60 | **done** |
+| 6 | *Native Son*: A Worked Model | Fear, Flight and Fate; the machine of the city; the double voice; five themes; the ending; two-minute set; drill | 73 | **done** |
+| 7 | The Three African Texts: Dossiers | world, spine, cast, moments and claims for *Harvest of Corruption*, *Faceless* and *Lonely Days*; the three texts on one page; two-minute set; drill | 86 | **done** |
+| 8 | Comparison and the Exam Hall | the shared grid; the three comparative stems; the one-text protocol; forty minutes; the last five minutes; two-minute set; drill | 98 | **done** |
+
+Back matter: two 40-question papers (an unseen drama extract with a block on each
+prescribed play; an unseen prose passage with a block on each prescribed novel), each with
+a key and a note on every question; Appendix A (60 rapid-fire pairs); Appendix B (the
+120-question master bank in twelve blocks of ten); Appendix C (every key in the volume —
+440 answers across eleven keys); Appendix D (forty quotation targets, twelve of them from
+*Othello*); Appendix E (a glossary of criticism, 48 terms); Appendix F (eight essay plans);
+Appendix G (five texts on one page); Appendix H (ten-week plan and score log);
+Appendix I (twenty traps, plus a five-line audit); Appendix J (the exam-day playbook and
+the last seven days).
+
+The front matter states four counts, and all four are true of the built PDF: **twenty
+diagrams**, **eight chapter recaps**, **twenty-four worked examples** (three per chapter)
+and **440 practice questions** (240 drills + 80 mock + 120 bank), plus 60 rapid-fire pairs.
+The “Qs” column in *The Eight Chapters at a Glance* matches the UTME weight printed on
+each chapter opener (6/5/6/5/9/8/8/5).
+
+Vol 2 build: `python diagrams_gen/generate_diagrams.py` → `python tools/check_figs.py` →
+`python tools/drills_lit2.py` → `python tools/papers_lit2.py` → `python build.py`.
+`drills_lit2.py` renders the eight 30-question drills from `tools/bank_lit2_c01…c08.py`;
+`papers_lit2.py` renders both papers, the 120-question bank from `tools/bank_lit2_data.py`
+and the consolidated keys, using the same balancing rules as Volume 1 (seeds
+`2000 + ch * 41` for the drills, `crc32(filename)` for the papers, `4711` for the bank).
+
+Final Vol 2 figures: **165 pp**, **3.69 MB**, **0 Typst warnings**, `_toc.typ` **138 rows**
+matching the PDF outline exactly. Chapter anchors: 11, 23, 35, 48, 60, 73, 86, 98; papers
+110 and 118; appendices 126, 128, 146, 151, 153, 155, 158, 159, 161, 163.
+
 ## Build notes
 
 `python diagrams_gen/generate_diagrams.py` → `python tools/check_figs.py` →
@@ -80,8 +120,9 @@ and the bank are balanced the same way, so the key cannot be guessed from its sh
 
 ## Where the next volume starts
 
-Volume 2 opens with the two plays, because the drama questions are the most frequent and
-the most mechanical: a scene-by-scene commentary, a character map, a theme ledger and a
-quotation bank per play, each followed by a 40-question drill of the same shape used
-here. The prose texts follow in the same pattern. Volume 3 then takes the poems and adds
-four full papers at 60 questions, which is the length at which speed becomes a skill.
+Volume 3 takes the five prescribed poems — *Vanity*, *Ambush*, *The Anvil and the Hammer*,
+*Crossing the Bar* and *The Proud King* — line by line, with a quotation slip for each,
+a glossary of the verse terms the poems actually use, and four full papers at the length
+at which speed becomes a skill. It inherits the whole apparatus of this volume unchanged:
+the same template, the same four-pass build, the same three tools, and the same rule that
+every claim in the front matter is counted against the finished PDF.
