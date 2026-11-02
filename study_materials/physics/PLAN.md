@@ -14,7 +14,7 @@ numbers are baked in at build time.
 | 1 | Mechanics & Properties of Matter | measurement, vectors, kinematics, Newton's laws, momentum, work and energy, machines, circular motion, gravitation, SHM, elasticity, fluids | **delivered — 151 pp** |
 | 2 | Waves, Sound and Light | waves and superposition, sound, reflection and refraction, mirrors and lenses, optical instruments, the eye, colour and photometry | **delivered — 154 pp** |
 | 3 | Heat and Thermodynamics | temperature and thermometers, expansion, heat transfer, calorimetry, change of state, gas laws, thermodynamics, vapours and humidity | **delivered — 168 pp** |
-| 4 | Electricity, Magnetism and Modern Physics | electrostatics, capacitors, current electricity, magnetism, electromagnetic induction, AC, electronics, atomic and nuclear physics | **delivered — 172 pp** |
+| 4 | Electricity, Magnetism and Modern Physics | electrostatics, capacitors, current electricity, magnetism, electromagnetic induction, AC, electronics, atomic and nuclear physics | **delivered — 173 pp** |
 
 ## Volume 1 — Mechanics & Properties of Matter
 
