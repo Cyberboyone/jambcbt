@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 358" width="760" height="358">
+  <defs>
+    <marker id="ag" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#008751"/>
+    </marker>
+    <marker id="an" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#0E1F40"/>
+    </marker>
+    <marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#D97706"/>
+    </marker>
+    <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#DC2626"/>
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="760" height="358" fill="#FFFFFF"/>
+<rect x="0" y="0" width="760" height="358" rx="10" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="1.2"/>
+<text x="380.0" y="28" font-family="DejaVu Sans" font-size="13.5" fill="#0E1F40" text-anchor="middle" font-weight="bold">The parties that negotiated independence</text>
+<text x="380.0" y="46" font-family="DejaVu Sans" font-size="9.8" fill="#64748B" text-anchor="middle" font-weight="normal">Four organisations, four bases, and the bargain of 1959 that produced a coalition</text>
+<rect x="18" y="66" width="170" height="150" rx="9" fill="#FFFFFF" stroke="#008751" stroke-width="1.6"/>
+<rect x="18" y="66" width="170" height="6" rx="3" fill="#008751" stroke="#008751" stroke-width="1.0"/>
+<text x="103" y="94" font-family="DejaVu Sans" font-size="14" fill="#008751" text-anchor="middle" font-weight="bold">NCNC</text>
+<text x="103" y="112" font-family="DejaVu Sans" font-size="9" fill="#64748B" text-anchor="middle" font-weight="normal">founded 1944</text>
+<text x="103" y="134" font-family="DejaVu Sans" font-size="9.2" fill="#0E1F40" text-anchor="middle" font-weight="bold">Dr Nnamdi Azikiwe</text>
+<text x="103" y="156" font-family="DejaVu Sans" font-size="9.0" fill="#334155" text-anchor="middle" font-weight="normal">National; the Igbo east</text>
+<text x="103" y="171" font-family="DejaVu Sans" font-size="9.0" fill="#334155" text-anchor="middle" font-weight="normal">and the towns</text>
+<text x="103" y="206" font-family="DejaVu Sans" font-size="8.4" fill="#008751" text-anchor="middle" font-weight="normal" font-style="italic">regional</text>
+<rect x="204" y="66" width="170" height="150" rx="9" fill="#FFFFFF" stroke="#2563EB" stroke-width="1.6"/>
+<rect x="204" y="66" width="170" height="6" rx="3" fill="#2563EB" stroke="#2563EB" stroke-width="1.0"/>
+<text x="289" y="94" font-family="DejaVu Sans" font-size="14" fill="#2563EB" text-anchor="middle" font-weight="bold">AG</text>
+<text x="289" y="112" font-family="DejaVu Sans" font-size="9" fill="#64748B" text-anchor="middle" font-weight="normal">founded 1951</text>
+<text x="289" y="134" font-family="DejaVu Sans" font-size="9.2" fill="#0E1F40" text-anchor="middle" font-weight="bold">Chief Obafemi Awolowo</text>
+<text x="289" y="156" font-family="DejaVu Sans" font-size="9.0" fill="#334155" text-anchor="middle" font-weight="normal">The Yoruba west;</text>
+<text x="289" y="171" font-family="DejaVu Sans" font-size="9.0" fill="#334155" text-anchor="middle" font-weight="normal">free education</text>
+<text x="289" y="206" font-family="DejaVu Sans" font-size="8.4" fill="#2563EB" text-anchor="middle" font-weight="normal" font-style="italic">regional</text>
+<rect x="390" y="66" width="170" height="150" rx="9" fill="#FFFFFF" stroke="#D97706" stroke-width="1.6"/>
+<rect x="390" y="66" width="170" height="6" rx="3" fill="#D97706" stroke="#D97706" stroke-width="1.0"/>
+<text x="475" y="94" font-family="DejaVu Sans" font-size="14" fill="#D97706" text-anchor="middle" font-weight="bold">NPC</text>
+<text x="475" y="112" font-family="DejaVu Sans" font-size="9" fill="#64748B" text-anchor="middle" font-weight="normal">founded 1951</text>
+<text x="475" y="134" font-family="DejaVu Sans" font-size="9.2" fill="#0E1F40" text-anchor="middle" font-weight="bold">Sir Ahmadu Bello</text>
+<text x="475" y="156" font-family="DejaVu Sans" font-size="9.0" fill="#334155" text-anchor="middle" font-weight="normal">The Hausa–Fulani north;</text>
+<text x="475" y="171" font-family="DejaVu Sans" font-size="9.0" fill="#334155" text-anchor="middle" font-weight="normal">traditional authority</text>
+<text x="475" y="206" font-family="DejaVu Sans" font-size="8.4" fill="#D97706" text-anchor="middle" font-weight="normal" font-style="italic">regional</text>
+<rect x="576" y="66" width="170" height="150" rx="9" fill="#FFFFFF" stroke="#7C3AED" stroke-width="1.6"/>
+<rect x="576" y="66" width="170" height="6" rx="3" fill="#7C3AED" stroke="#7C3AED" stroke-width="1.0"/>
+<text x="661" y="94" font-family="DejaVu Sans" font-size="14" fill="#7C3AED" text-anchor="middle" font-weight="bold">NEPU</text>
+<text x="661" y="112" font-family="DejaVu Sans" font-size="9" fill="#64748B" text-anchor="middle" font-weight="normal">founded 1950</text>
+<text x="661" y="134" font-family="DejaVu Sans" font-size="9.2" fill="#0E1F40" text-anchor="middle" font-weight="bold">Malam Aminu Kano</text>
+<text x="661" y="156" font-family="DejaVu Sans" font-size="9.0" fill="#334155" text-anchor="middle" font-weight="normal">The northern talakawa;</text>
+<text x="661" y="171" font-family="DejaVu Sans" font-size="9.0" fill="#334155" text-anchor="middle" font-weight="normal">radical, small</text>
+<text x="661" y="206" font-family="DejaVu Sans" font-size="8.4" fill="#7C3AED" text-anchor="middle" font-weight="normal" font-style="italic">regional</text>
+<line x1="380" y1="220" x2="380.0" y2="231.6" stroke="#008751" stroke-width="1.9"/><polygon points="380.0,244.0 375.4,231.6 384.6,231.6" fill="#008751"/>
+<rect x="18" y="250" width="724" height="96" rx="9" fill="#ECFDF5" stroke="#008751" stroke-width="1.5"/>
+<text x="380" y="274" font-family="DejaVu Sans" font-size="10.4" fill="#008751" text-anchor="middle" font-weight="bold">The 1959 bargain</text>
+<text x="380" y="296" font-family="DejaVu Sans" font-size="9.1" fill="#334155" text-anchor="middle" font-weight="normal">No party won a majority of the 312 seats: the NPC had the north, the NCNC and the AG split the south.</text>
+<text x="380" y="310" font-family="DejaVu Sans" font-size="9.1" fill="#334155" text-anchor="middle" font-weight="normal">The NPC and the NCNC formed a coalition, with Balewa as Prime Minister and the AG in opposition.</text>
+<text x="380" y="324" font-family="DejaVu Sans" font-size="9.1" fill="#334155" text-anchor="middle" font-weight="normal">Independence on 1 October 1960 therefore began with a government of two regions and an opposition of the third —</text>
+<text x="380" y="338" font-family="DejaVu Sans" font-size="9.1" fill="#334155" text-anchor="middle" font-weight="normal">a fact that shaped the census, the revenue quarrel and, in the end, the collapse of the First Republic.</text>
+</svg>

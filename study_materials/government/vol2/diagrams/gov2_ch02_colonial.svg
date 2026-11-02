@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 388" width="760" height="388">
+  <defs>
+    <marker id="ag" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#008751"/>
+    </marker>
+    <marker id="an" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#0E1F40"/>
+    </marker>
+    <marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#D97706"/>
+    </marker>
+    <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#DC2626"/>
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="760" height="388" fill="#FFFFFF"/>
+<rect x="0" y="0" width="760" height="388" rx="10" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="1.2"/>
+<text x="380.0" y="28" font-family="DejaVu Sans" font-size="13.5" fill="#0E1F40" text-anchor="middle" font-weight="bold">From company rule to the eve of independence</text>
+<text x="380.0" y="46" font-family="DejaVu Sans" font-size="9.8" fill="#64748B" text-anchor="middle" font-weight="normal">The dates, and the single idea that runs through them: rule by a power that answers to London</text>
+<line x1="40" y1="96" x2="720" y2="96" stroke="#CBD5E1" stroke-width="2.0"/>
+<circle cx="40.0" cy="96" r="6" fill="#D97706"/>
+<text x="40.0" y="78" font-family="DejaVu Sans" font-size="10.6" fill="#D97706" text-anchor="middle" font-weight="bold">1851</text>
+<text x="40.0" y="120" font-family="DejaVu Sans" font-size="8.6" fill="#334155" text-anchor="middle" font-weight="normal">Bombardment of</text>
+<text x="40.0" y="133" font-family="DejaVu Sans" font-size="8.6" fill="#334155" text-anchor="middle" font-weight="normal">Lagos</text>
+<circle cx="137.14285714285714" cy="96" r="6" fill="#D97706"/>
+<text x="137.14285714285714" y="78" font-family="DejaVu Sans" font-size="10.6" fill="#D97706" text-anchor="middle" font-weight="bold">1861</text>
+<text x="137.14285714285714" y="120" font-family="DejaVu Sans" font-size="8.6" fill="#334155" text-anchor="middle" font-weight="normal">Lagos annexed as</text>
+<text x="137.14285714285714" y="133" font-family="DejaVu Sans" font-size="8.6" fill="#334155" text-anchor="middle" font-weight="normal">a colony</text>
+<circle cx="234.28571428571428" cy="96" r="6" fill="#2563EB"/>
+<text x="234.28571428571428" y="78" font-family="DejaVu Sans" font-size="10.6" fill="#2563EB" text-anchor="middle" font-weight="bold">1886</text>
+<text x="234.28571428571428" y="120" font-family="DejaVu Sans" font-size="8.6" fill="#334155" text-anchor="middle" font-weight="normal">Royal Niger</text>
+<text x="234.28571428571428" y="133" font-family="DejaVu Sans" font-size="8.6" fill="#334155" text-anchor="middle" font-weight="normal">Company charter</text>
+<circle cx="331.42857142857144" cy="96" r="6" fill="#2563EB"/>
+<text x="331.42857142857144" y="78" font-family="DejaVu Sans" font-size="10.6" fill="#2563EB" text-anchor="middle" font-weight="bold">1900</text>
+<text x="331.42857142857144" y="120" font-family="DejaVu Sans" font-size="8.6" fill="#334155" text-anchor="middle" font-weight="normal">Protectorates</text>
+<text x="331.42857142857144" y="133" font-family="DejaVu Sans" font-size="8.6" fill="#334155" text-anchor="middle" font-weight="normal">proclaimed</text>
+<circle cx="428.57142857142856" cy="96" r="6" fill="#008751"/>
+<text x="428.57142857142856" y="78" font-family="DejaVu Sans" font-size="10.6" fill="#008751" text-anchor="middle" font-weight="bold">1906</text>
+<text x="428.57142857142856" y="120" font-family="DejaVu Sans" font-size="8.6" fill="#334155" text-anchor="middle" font-weight="normal">Colony and</text>
+<text x="428.57142857142856" y="133" font-family="DejaVu Sans" font-size="8.6" fill="#334155" text-anchor="middle" font-weight="normal">protectorate</text>
+<text x="428.57142857142856" y="146" font-family="DejaVu Sans" font-size="8.6" fill="#334155" text-anchor="middle" font-weight="normal">united</text>
+<circle cx="525.7142857142857" cy="96" r="6" fill="#008751"/>
+<text x="525.7142857142857" y="78" font-family="DejaVu Sans" font-size="10.6" fill="#008751" text-anchor="middle" font-weight="bold">1914</text>
+<text x="525.7142857142857" y="120" font-family="DejaVu Sans" font-size="8.6" fill="#334155" text-anchor="middle" font-weight="normal">Amalgamation;</text>
+<text x="525.7142857142857" y="133" font-family="DejaVu Sans" font-size="8.6" fill="#334155" text-anchor="middle" font-weight="normal">indirect rule</text>
+<circle cx="622.8571428571429" cy="96" r="6" fill="#7C3AED"/>
+<text x="622.8571428571429" y="78" font-family="DejaVu Sans" font-size="10.6" fill="#7C3AED" text-anchor="middle" font-weight="bold">1922</text>
+<text x="622.8571428571429" y="120" font-family="DejaVu Sans" font-size="8.6" fill="#334155" text-anchor="middle" font-weight="normal">Clifford</text>
+<text x="622.8571428571429" y="133" font-family="DejaVu Sans" font-size="8.6" fill="#334155" text-anchor="middle" font-weight="normal">Constitution;</text>
+<text x="622.8571428571429" y="146" font-family="DejaVu Sans" font-size="8.6" fill="#334155" text-anchor="middle" font-weight="normal">elective</text>
+<text x="622.8571428571429" y="159" font-family="DejaVu Sans" font-size="8.6" fill="#334155" text-anchor="middle" font-weight="normal">principle</text>
+<circle cx="720.0" cy="96" r="6" fill="#7C3AED"/>
+<text x="720.0" y="78" font-family="DejaVu Sans" font-size="10.6" fill="#7C3AED" text-anchor="middle" font-weight="bold">1946</text>
+<text x="720.0" y="120" font-family="DejaVu Sans" font-size="8.6" fill="#334155" text-anchor="middle" font-weight="normal">Richards</text>
+<text x="720.0" y="133" font-family="DejaVu Sans" font-size="8.6" fill="#334155" text-anchor="middle" font-weight="normal">Constitution;</text>
+<text x="720.0" y="146" font-family="DejaVu Sans" font-size="8.6" fill="#334155" text-anchor="middle" font-weight="normal">regions</text>
+<rect x="18" y="200" width="350" height="176" rx="9" fill="#FEE2E2" stroke="#DC2626" stroke-width="1.5"/>
+<text x="193" y="224" font-family="DejaVu Sans" font-size="9.6" fill="#DC2626" text-anchor="middle" font-weight="bold">INDIRECT RULE — WHY IT HELD IN THE NORTH</text>
+<text x="193" y="248" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="middle" font-weight="normal">A recognised emir already collected tax, kept order</text>
+<text x="193" y="267" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="middle" font-weight="normal">and judged by a written law.</text>
+<text x="193" y="286" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="middle" font-weight="normal">The British ruled through him, kept the courts</text>
+<text x="193" y="305" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="middle" font-weight="normal">and the treasury, and left the rest intact.</text>
+<text x="193" y="324" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="middle" font-weight="normal">Native authorities became the local state.</text>
+<rect x="392" y="200" width="350" height="176" rx="9" fill="#DBEAFE" stroke="#2563EB" stroke-width="1.5"/>
+<text x="567" y="224" font-family="DejaVu Sans" font-size="9.6" fill="#2563EB" text-anchor="middle" font-weight="bold">AND WHY IT BROKE IN THE EAST</text>
+<text x="567" y="248" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="middle" font-weight="normal">There was no paramount chief to rule through,</text>
+<text x="567" y="267" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="middle" font-weight="normal">so the British invented Warrant Chiefs.</text>
+<text x="567" y="286" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="middle" font-weight="normal">They had no legitimacy, they taxed by force,</text>
+<text x="567" y="305" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="middle" font-weight="normal">and in 1929 the women's war removed them.</text>
+<text x="567" y="324" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="middle" font-weight="normal">The Aba riots ended the system in Igboland.</text>
+</svg>

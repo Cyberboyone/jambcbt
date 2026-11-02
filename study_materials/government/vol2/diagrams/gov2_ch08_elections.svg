@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 392" width="760" height="392">
+  <defs>
+    <marker id="ag" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#008751"/>
+    </marker>
+    <marker id="an" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#0E1F40"/>
+    </marker>
+    <marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#D97706"/>
+    </marker>
+    <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#DC2626"/>
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="760" height="392" fill="#FFFFFF"/>
+<rect x="0" y="0" width="760" height="392" rx="10" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="1.2"/>
+<text x="380.0" y="28" font-family="DejaVu Sans" font-size="13.5" fill="#0E1F40" text-anchor="middle" font-weight="bold">The electoral cycle, and where it is attacked</text>
+<text x="380.0" y="46" font-family="DejaVu Sans" font-size="9.8" fill="#64748B" text-anchor="middle" font-weight="normal">Seven stages between the register and the tribunal: every rigging question is one of them</text>
+<rect x="18" y="70" width="300" height="32" rx="6" fill="#FFFFFF" stroke="#008751" stroke-width="1.3"/>
+<text x="30" y="84" font-family="DejaVu Sans" font-size="9.2" fill="#008751" text-anchor="start" font-weight="bold">1. REGISTRATION</text>
+<text x="30" y="96" font-family="DejaVu Sans" font-size="8.4" fill="#334155" text-anchor="start" font-weight="normal">the voter register; PVCs</text>
+<line x1="322" y1="86" x2="340.7" y2="86.0" stroke="#CBD5E1" stroke-width="1.3"/><polygon points="350.0,86.0 340.7,89.5 340.7,82.5" fill="#CBD5E1"/>
+<rect x="18" y="110" width="300" height="32" rx="6" fill="#FFFFFF" stroke="#008751" stroke-width="1.3"/>
+<text x="30" y="124" font-family="DejaVu Sans" font-size="9.2" fill="#008751" text-anchor="start" font-weight="bold">2. NOMINATION</text>
+<text x="30" y="136" font-family="DejaVu Sans" font-size="8.4" fill="#334155" text-anchor="start" font-weight="normal">party primaries; nominations</text>
+<line x1="322" y1="126" x2="340.7" y2="126.0" stroke="#CBD5E1" stroke-width="1.3"/><polygon points="350.0,126.0 340.7,129.5 340.7,122.5" fill="#CBD5E1"/>
+<rect x="18" y="150" width="300" height="32" rx="6" fill="#FFFFFF" stroke="#008751" stroke-width="1.3"/>
+<text x="30" y="164" font-family="DejaVu Sans" font-size="9.2" fill="#008751" text-anchor="start" font-weight="bold">3. CAMPAIGN</text>
+<text x="30" y="176" font-family="DejaVu Sans" font-size="8.4" fill="#334155" text-anchor="start" font-weight="normal">rallies, media, spending limits</text>
+<line x1="322" y1="166" x2="340.7" y2="166.0" stroke="#CBD5E1" stroke-width="1.3"/><polygon points="350.0,166.0 340.7,169.5 340.7,162.5" fill="#CBD5E1"/>
+<rect x="18" y="190" width="300" height="32" rx="6" fill="#FFFFFF" stroke="#2563EB" stroke-width="1.3"/>
+<text x="30" y="204" font-family="DejaVu Sans" font-size="9.2" fill="#2563EB" text-anchor="start" font-weight="bold">4. ACCREDITATION</text>
+<text x="30" y="216" font-family="DejaVu Sans" font-size="8.4" fill="#334155" text-anchor="start" font-weight="normal">the voter is verified</text>
+<line x1="322" y1="206" x2="340.7" y2="206.0" stroke="#CBD5E1" stroke-width="1.3"/><polygon points="350.0,206.0 340.7,209.5 340.7,202.5" fill="#CBD5E1"/>
+<rect x="18" y="230" width="300" height="32" rx="6" fill="#FFFFFF" stroke="#2563EB" stroke-width="1.3"/>
+<text x="30" y="244" font-family="DejaVu Sans" font-size="9.2" fill="#2563EB" text-anchor="start" font-weight="bold">5. VOTING</text>
+<text x="30" y="256" font-family="DejaVu Sans" font-size="8.4" fill="#334155" text-anchor="start" font-weight="normal">the ballot is cast and counted</text>
+<line x1="322" y1="246" x2="340.7" y2="246.0" stroke="#CBD5E1" stroke-width="1.3"/><polygon points="350.0,246.0 340.7,249.5 340.7,242.5" fill="#CBD5E1"/>
+<rect x="18" y="270" width="300" height="32" rx="6" fill="#FFFFFF" stroke="#2563EB" stroke-width="1.3"/>
+<text x="30" y="284" font-family="DejaVu Sans" font-size="9.2" fill="#2563EB" text-anchor="start" font-weight="bold">6. COLLATION</text>
+<text x="30" y="296" font-family="DejaVu Sans" font-size="8.4" fill="#334155" text-anchor="start" font-weight="normal">results transmitted and declared</text>
+<line x1="322" y1="286" x2="340.7" y2="286.0" stroke="#CBD5E1" stroke-width="1.3"/><polygon points="350.0,286.0 340.7,289.5 340.7,282.5" fill="#CBD5E1"/>
+<rect x="18" y="310" width="300" height="32" rx="6" fill="#FFFFFF" stroke="#D97706" stroke-width="1.3"/>
+<text x="30" y="324" font-family="DejaVu Sans" font-size="9.2" fill="#D97706" text-anchor="start" font-weight="bold">7. PETITION</text>
+<text x="30" y="336" font-family="DejaVu Sans" font-size="8.4" fill="#334155" text-anchor="start" font-weight="normal">the tribunal and the courts</text>
+<line x1="322" y1="326" x2="340.7" y2="326.0" stroke="#CBD5E1" stroke-width="1.3"/><polygon points="350.0,326.0 340.7,329.5 340.7,322.5" fill="#CBD5E1"/>
+<rect x="354" y="66" width="388" height="150" rx="9" fill="#ECFDF5" stroke="#008751" stroke-width="1.5"/>
+<text x="548" y="90" font-family="DejaVu Sans" font-size="13" fill="#008751" text-anchor="middle" font-weight="bold">INEC</text>
+<text x="548" y="112" font-family="DejaVu Sans" font-size="8.8" fill="#334155" text-anchor="middle" font-weight="normal">Independent National Electoral Commission</text>
+<text x="548" y="134" font-family="DejaVu Sans" font-size="8.8" fill="#334155" text-anchor="middle" font-weight="normal">Registers voters, prints and keeps the ballot</text>
+<text x="548" y="149" font-family="DejaVu Sans" font-size="8.8" fill="#334155" text-anchor="middle" font-weight="normal">papers, accredits observers, conducts the poll</text>
+<text x="548" y="164" font-family="DejaVu Sans" font-size="8.8" fill="#334155" text-anchor="middle" font-weight="normal">and declares the result. Its independence is</text>
+<text x="548" y="179" font-family="DejaVu Sans" font-size="8.8" fill="#334155" text-anchor="middle" font-weight="normal">the first question in every fairness item.</text>
+<rect x="354" y="226" width="388" height="150" rx="9" fill="#FEE2E2" stroke="#DC2626" stroke-width="1.5"/>
+<text x="548" y="250" font-family="DejaVu Sans" font-size="9.4" fill="#DC2626" text-anchor="middle" font-weight="bold">THE FOUR CLASSIC ATTACKS</text>
+<text x="548" y="272" font-family="DejaVu Sans" font-size="8.8" fill="#334155" text-anchor="middle" font-weight="normal">the register is padded or a candidate's</text>
+<text x="548" y="288" font-family="DejaVu Sans" font-size="8.8" fill="#334155" text-anchor="middle" font-weight="normal">stronghold is left out;</text>
+<text x="548" y="304" font-family="DejaVu Sans" font-size="8.8" fill="#334155" text-anchor="middle" font-weight="normal">ballot papers are printed in excess;</text>
+<text x="548" y="320" font-family="DejaVu Sans" font-size="8.8" fill="#334155" text-anchor="middle" font-weight="normal">results are collated under duress;</text>
+<text x="548" y="336" font-family="DejaVu Sans" font-size="8.8" fill="#334155" text-anchor="middle" font-weight="normal">the tribunal is asked to decide what the</text>
+<text x="548" y="352" font-family="DejaVu Sans" font-size="8.8" fill="#334155" text-anchor="middle" font-weight="normal">voter decided.</text>
+</svg>

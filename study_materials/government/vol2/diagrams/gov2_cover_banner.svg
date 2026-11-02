@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 220" width="760" height="220">
+  <defs>
+    <marker id="ag" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#008751"/>
+    </marker>
+    <marker id="an" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#0E1F40"/>
+    </marker>
+    <marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#D97706"/>
+    </marker>
+    <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#DC2626"/>
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="760" height="220" fill="#ECFDF5"/>
+<rect x="0" y="0" width="760" height="220" rx="10" fill="#ECFDF5" stroke="#008751" stroke-width="1.2"/>
+<text x="380" y="28" font-family="DejaVu Sans" font-size="13.5" fill="#0E1F40" text-anchor="middle" font-weight="bold">Eight chapters, one state — village republic to ballot box</text>
+<text x="380" y="46" font-family="DejaVu Sans" font-size="9.6" fill="#64748B" text-anchor="middle" font-weight="normal">The Nigerian story in depth: dates, regimes, institutions and the machinery of government</text>
+<rect x="20.0" y="62.0" width="170.0" height="58.0" rx="7" fill="#FFFFFF" stroke="#D97706" stroke-width="1.6"/>
+<rect x="20.0" y="62.0" width="170.0" height="5" rx="2.5" fill="#D97706"/>
+<text x="105.0" y="86.0" font-family="DejaVu Sans" font-size="9" fill="#0E1F40" text-anchor="middle" font-weight="bold">Pre-Colonial</text>
+<text x="105.0" y="99.0" font-family="DejaVu Sans" font-size="9" fill="#0E1F40" text-anchor="middle" font-weight="bold">Administration</text>
+<rect x="200.0" y="62.0" width="170.0" height="58.0" rx="7" fill="#FFFFFF" stroke="#2563EB" stroke-width="1.6"/>
+<rect x="200.0" y="62.0" width="170.0" height="5" rx="2.5" fill="#2563EB"/>
+<text x="285.0" y="86.0" font-family="DejaVu Sans" font-size="9" fill="#0E1F40" text-anchor="middle" font-weight="bold">Colonial</text>
+<text x="285.0" y="99.0" font-family="DejaVu Sans" font-size="9" fill="#0E1F40" text-anchor="middle" font-weight="bold">Rule</text>
+<rect x="380.0" y="62.0" width="170.0" height="58.0" rx="7" fill="#FFFFFF" stroke="#008751" stroke-width="1.6"/>
+<rect x="380.0" y="62.0" width="170.0" height="5" rx="2.5" fill="#008751"/>
+<text x="465.0" y="86.0" font-family="DejaVu Sans" font-size="9" fill="#0E1F40" text-anchor="middle" font-weight="bold">Nationalism</text>
+<text x="465.0" y="99.0" font-family="DejaVu Sans" font-size="9" fill="#0E1F40" text-anchor="middle" font-weight="bold">&amp; Independence</text>
+<rect x="560.0" y="62.0" width="170.0" height="58.0" rx="7" fill="#FFFFFF" stroke="#7C3AED" stroke-width="1.6"/>
+<rect x="560.0" y="62.0" width="170.0" height="5" rx="2.5" fill="#7C3AED"/>
+<text x="645.0" y="86.0" font-family="DejaVu Sans" font-size="9" fill="#0E1F40" text-anchor="middle" font-weight="bold">Federalism</text>
+<text x="645.0" y="99.0" font-family="DejaVu Sans" font-size="9" fill="#0E1F40" text-anchor="middle" font-weight="bold">in Practice</text>
+<rect x="20.0" y="132.0" width="170.0" height="58.0" rx="7" fill="#FFFFFF" stroke="#DC2626" stroke-width="1.6"/>
+<rect x="20.0" y="132.0" width="170.0" height="5" rx="2.5" fill="#DC2626"/>
+<text x="105.0" y="156.0" font-family="DejaVu Sans" font-size="9" fill="#0E1F40" text-anchor="middle" font-weight="bold">The Military</text>
+<text x="105.0" y="169.0" font-family="DejaVu Sans" font-size="9" fill="#0E1F40" text-anchor="middle" font-weight="bold">in Politics</text>
+<rect x="200.0" y="132.0" width="170.0" height="58.0" rx="7" fill="#FFFFFF" stroke="#2563EB" stroke-width="1.6"/>
+<rect x="200.0" y="132.0" width="170.0" height="5" rx="2.5" fill="#2563EB"/>
+<text x="285.0" y="156.0" font-family="DejaVu Sans" font-size="9" fill="#0E1F40" text-anchor="middle" font-weight="bold">Public</text>
+<text x="285.0" y="169.0" font-family="DejaVu Sans" font-size="9" fill="#0E1F40" text-anchor="middle" font-weight="bold">Administration</text>
+<rect x="380.0" y="132.0" width="170.0" height="58.0" rx="7" fill="#FFFFFF" stroke="#008751" stroke-width="1.6"/>
+<rect x="380.0" y="132.0" width="170.0" height="5" rx="2.5" fill="#008751"/>
+<text x="465.0" y="156.0" font-family="DejaVu Sans" font-size="9" fill="#0E1F40" text-anchor="middle" font-weight="bold">Foreign</text>
+<text x="465.0" y="169.0" font-family="DejaVu Sans" font-size="9" fill="#0E1F40" text-anchor="middle" font-weight="bold">Policy</text>
+<rect x="560.0" y="132.0" width="170.0" height="58.0" rx="7" fill="#FFFFFF" stroke="#D97706" stroke-width="1.6"/>
+<rect x="560.0" y="132.0" width="170.0" height="5" rx="2.5" fill="#D97706"/>
+<text x="645.0" y="156.0" font-family="DejaVu Sans" font-size="9" fill="#0E1F40" text-anchor="middle" font-weight="bold">Elections &amp;</text>
+<text x="645.0" y="169.0" font-family="DejaVu Sans" font-size="9" fill="#0E1F40" text-anchor="middle" font-weight="bold">Administration</text>
+</svg>

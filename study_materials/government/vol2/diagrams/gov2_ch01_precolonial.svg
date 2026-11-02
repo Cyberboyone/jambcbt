@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 386" width="760" height="386">
+  <defs>
+    <marker id="ag" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#008751"/>
+    </marker>
+    <marker id="an" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#0E1F40"/>
+    </marker>
+    <marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#D97706"/>
+    </marker>
+    <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#DC2626"/>
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="760" height="386" fill="#FFFFFF"/>
+<rect x="0" y="0" width="760" height="386" rx="10" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="1.2"/>
+<text x="380.0" y="28" font-family="DejaVu Sans" font-size="13.5" fill="#0E1F40" text-anchor="middle" font-weight="bold">Three systems of rule before the colonial state</text>
+<text x="380.0" y="46" font-family="DejaVu Sans" font-size="9.8" fill="#64748B" text-anchor="middle" font-weight="normal">Different institutions, the same two questions: who governs, and what limits the ruler?</text>
+<rect x="18" y="66" width="228" height="226" rx="9" fill="#FEF3C7" stroke="#D97706" stroke-width="1.6"/>
+<rect x="18" y="66" width="228" height="6" rx="3" fill="#D97706" stroke="#D97706" stroke-width="1.0"/>
+<text x="132" y="92" font-family="DejaVu Sans" font-size="10.4" fill="#D97706" text-anchor="middle" font-weight="bold">THE EMIRATE</text>
+<text x="132" y="110" font-family="DejaVu Sans" font-size="9.0" fill="#334155" text-anchor="middle" font-weight="normal" font-style="italic">Hausa–Fulani, after 1804</text>
+<text x="132" y="132.0" font-family="DejaVu Sans" font-size="9.2" fill="#0E1F40" text-anchor="middle" font-weight="normal">Emir at the head, advised by</text>
+<text x="132" y="149.5" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="middle" font-weight="normal">the Emirate Council</text>
+<text x="132" y="167.0" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="middle" font-weight="normal">District and village heads</text>
+<text x="132" y="184.5" font-family="DejaVu Sans" font-size="9.2" fill="#0E1F40" text-anchor="middle" font-weight="normal">below him</text>
+<text x="132" y="202.0" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="middle" font-weight="normal">Alkali courts apply the</text>
+<text x="132" y="219.5" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="middle" font-weight="normal">Sharia</text>
+<text x="132" y="237.0" font-family="DejaVu Sans" font-size="9.2" fill="#0E1F40" text-anchor="middle" font-weight="bold">Limits: the council, the</text>
+<text x="132" y="254.5" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="middle" font-weight="normal">scholars and the caliphate</text>
+<rect x="266" y="66" width="228" height="226" rx="9" fill="#DBEAFE" stroke="#2563EB" stroke-width="1.6"/>
+<rect x="266" y="66" width="228" height="6" rx="3" fill="#2563EB" stroke="#2563EB" stroke-width="1.0"/>
+<text x="380" y="92" font-family="DejaVu Sans" font-size="10.4" fill="#2563EB" text-anchor="middle" font-weight="bold">THE YORUBA CHIEFTAINCY</text>
+<text x="380" y="110" font-family="DejaVu Sans" font-size="9.0" fill="#334155" text-anchor="middle" font-weight="normal" font-style="italic">Oyo, Ife and the towns</text>
+<text x="380" y="132.0" font-family="DejaVu Sans" font-size="9.2" fill="#0E1F40" text-anchor="middle" font-weight="normal">Oba in council, not alone</text>
+<text x="380" y="149.5" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="middle" font-weight="normal">The Oyomesi may reject him</text>
+<text x="380" y="167.0" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="middle" font-weight="normal">Balogun commands the army</text>
+<text x="380" y="184.5" font-family="DejaVu Sans" font-size="9.2" fill="#0E1F40" text-anchor="middle" font-weight="normal">Women's and traders' guilds</text>
+<text x="380" y="202.0" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="middle" font-weight="normal">Checks: the council, the</text>
+<text x="380" y="219.5" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="middle" font-weight="normal">guilds and the oracles</text>
+<text x="380" y="237.0" font-family="DejaVu Sans" font-size="9.2" fill="#0E1F40" text-anchor="middle" font-weight="bold">A bad Oba could be asked</text>
+<text x="380" y="254.5" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="middle" font-weight="normal">to die — the ultimate check</text>
+<rect x="514" y="66" width="228" height="226" rx="9" fill="#EDE9FE" stroke="#7C3AED" stroke-width="1.6"/>
+<rect x="514" y="66" width="228" height="6" rx="3" fill="#7C3AED" stroke="#7C3AED" stroke-width="1.0"/>
+<text x="628" y="92" font-family="DejaVu Sans" font-size="10.4" fill="#7C3AED" text-anchor="middle" font-weight="bold">THE IGBO VILLAGE REPUBLIC</text>
+<text x="628" y="110" font-family="DejaVu Sans" font-size="9.0" fill="#334155" text-anchor="middle" font-weight="normal" font-style="italic">Igboland, acephalous</text>
+<text x="628" y="132.0" font-family="DejaVu Sans" font-size="9.2" fill="#0E1F40" text-anchor="middle" font-weight="normal">No single ruler at all</text>
+<text x="628" y="149.5" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="middle" font-weight="normal">The council of elders</text>
+<text x="628" y="167.0" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="middle" font-weight="normal">The age grades and the Ozo</text>
+<text x="628" y="184.5" font-family="DejaVu Sans" font-size="9.2" fill="#0E1F40" text-anchor="middle" font-weight="normal">title society</text>
+<text x="628" y="202.0" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="middle" font-weight="normal">The Oracle and the market</text>
+<text x="628" y="219.5" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="middle" font-weight="normal">association</text>
+<text x="628" y="237.0" font-family="DejaVu Sans" font-size="9.2" fill="#0E1F40" text-anchor="middle" font-weight="bold">Limits: consensus, kinship</text>
+<text x="628" y="254.5" font-family="DejaVu Sans" font-size="9.2" fill="#334155" text-anchor="middle" font-weight="normal">and the assembly</text>
+<rect x="18" y="306" width="724" height="66" rx="8" fill="#ECFDF5" stroke="#008751" stroke-width="1.4"/>
+<text x="380" y="328" font-family="DejaVu Sans" font-size="10.2" fill="#008751" text-anchor="middle" font-weight="bold">What the colonial power found, and used</text>
+<text x="380" y="348" font-family="DejaVu Sans" font-size="9.4" fill="#334155" text-anchor="middle" font-weight="normal">Emirs and Obas already ruled through a hierarchy, so they could be ruled through: that is why indirect rule</text>
+<text x="380" y="363" font-family="DejaVu Sans" font-size="9.4" fill="#334155" text-anchor="middle" font-weight="normal">was imposed where chieftaincy was strong, and why it broke down where nobody ruled alone.</text>
+</svg>
