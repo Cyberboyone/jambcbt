@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 340" width="760" height="340">
+  <defs>
+    <marker id="ag" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#008751"/>
+    </marker>
+    <marker id="an" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#0E1F40"/>
+    </marker>
+    <marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#D97706"/>
+    </marker>
+    <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#DC2626"/>
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="760" height="340" fill="#FFFFFF"/>
+<text x="380" y="24" font-family="DejaVu Sans" font-size="12.5" fill="#0E1F40" text-anchor="middle" font-weight="bold">The Proud King: the fall is the middle, the lesson is the end</text>
+<rect x="-2" y="92" width="124" height="84" rx="8" fill="#FFFFFF" stroke="#2563EB" stroke-width="1.5"/>
+<rect x="-2" y="92" width="124" height="5" rx="2.5" fill="#2563EB"/>
+<text x="60" y="118" font-family="DejaVu Sans" font-size="9.6" fill="#0E1F40" text-anchor="middle" font-weight="bold">KING</text>
+<text x="60" y="138" font-family="DejaVu Sans" font-size="7.2" fill="#334155" text-anchor="middle" font-weight="normal">boasts: "Am I not God"</text>
+<line x1="126" y1="134" x2="164" y2="134" stroke="#CBD5E1" stroke-width="1.4" marker-end="url(#ag)"/>
+<rect x="168" y="92" width="124" height="84" rx="8" fill="#FFFFFF" stroke="#7C3AED" stroke-width="1.5"/>
+<rect x="168" y="92" width="124" height="5" rx="2.5" fill="#7C3AED"/>
+<text x="230" y="118" font-family="DejaVu Sans" font-size="9.6" fill="#0E1F40" text-anchor="middle" font-weight="bold">BATH</text>
+<text x="230" y="138" font-family="DejaVu Sans" font-size="7.2" fill="#334155" text-anchor="middle" font-weight="normal">clothes and horse taken</text>
+<line x1="296" y1="134" x2="334" y2="134" stroke="#CBD5E1" stroke-width="1.4" marker-end="url(#ag)"/>
+<rect x="338" y="92" width="124" height="84" rx="8" fill="#FFFFFF" stroke="#DC2626" stroke-width="1.5"/>
+<rect x="338" y="92" width="124" height="5" rx="2.5" fill="#DC2626"/>
+<text x="400" y="118" font-family="DejaVu Sans" font-size="9.6" fill="#0E1F40" text-anchor="middle" font-weight="bold">OUTCAST</text>
+<text x="400" y="138" font-family="DejaVu Sans" font-size="7.2" fill="#334155" text-anchor="middle" font-weight="normal">porter, ranger, duke, qu</text>
+<text x="400" y="150" font-family="DejaVu Sans" font-size="7.2" fill="#334155" text-anchor="middle" font-weight="normal">een: none know him</text>
+<line x1="466" y1="134" x2="504" y2="134" stroke="#CBD5E1" stroke-width="1.4" marker-end="url(#ag)"/>
+<rect x="508" y="92" width="124" height="84" rx="8" fill="#FFFFFF" stroke="#D97706" stroke-width="1.5"/>
+<rect x="508" y="92" width="124" height="5" rx="2.5" fill="#D97706"/>
+<text x="570" y="118" font-family="DejaVu Sans" font-size="9.6" fill="#0E1F40" text-anchor="middle" font-weight="bold">BEGGAR</text>
+<text x="570" y="138" font-family="DejaVu Sans" font-size="7.2" fill="#334155" text-anchor="middle" font-weight="normal">prays: "give me back mys</text>
+<text x="570" y="150" font-family="DejaVu Sans" font-size="7.2" fill="#334155" text-anchor="middle" font-weight="normal">elf again"</text>
+<line x1="636" y1="134" x2="634" y2="134" stroke="#CBD5E1" stroke-width="1.4" marker-end="url(#ag)"/>
+<rect x="638" y="92" width="124" height="84" rx="8" fill="#FFFFFF" stroke="#008751" stroke-width="1.5"/>
+<rect x="638" y="92" width="124" height="5" rx="2.5" fill="#008751"/>
+<text x="700" y="118" font-family="DejaVu Sans" font-size="9.6" fill="#0E1F40" text-anchor="middle" font-weight="bold">RESTORED</text>
+<text x="700" y="138" font-family="DejaVu Sans" font-size="7.2" fill="#334155" text-anchor="middle" font-weight="normal">the angel returns the th</text>
+<text x="700" y="150" font-family="DejaVu Sans" font-size="7.2" fill="#334155" text-anchor="middle" font-weight="normal">rone</text>
+<path d="M 60 200 Q 200 300 380 240 Q 560 180 700 196" fill="none" stroke="#DC2626" stroke-width="2" stroke-linecap="round" stroke-dasharray="4 4"/>
+<text x="380" y="300" font-family="DejaVu Sans" font-size="8.6" fill="#DC2626" text-anchor="middle" font-weight="normal" font-style="italic">the descent: status stripped a stage at a time</text>
+<rect x="40" y="312" width="680" height="24" rx="6" fill="#ECFDF5" stroke="#008751" stroke-width="1.0"/>
+<text x="380" y="328" font-family="DejaVu Sans" font-size="8.4" fill="#334155" text-anchor="middle" font-weight="normal">Rhyme royal: seven-line stanzas, ababbcc, roughly 850 lines. A narrative, not a lyric.</text>
+</svg>

@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 232" width="760" height="232">
+  <defs>
+    <marker id="ag" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#008751"/>
+    </marker>
+    <marker id="an" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#0E1F40"/>
+    </marker>
+    <marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#D97706"/>
+    </marker>
+    <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#DC2626"/>
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="760" height="232" fill="#FFFFFF"/>
+<rect x="0" y="0" width="760" height="232" rx="12" fill="#FFFFFF" stroke="#7C3AED" stroke-width="1.6"/>
+<rect x="0" y="0" width="760" height="8" rx="4" fill="#7C3AED"/>
+<text x="24" y="36" font-family="DejaVu Sans" font-size="8.6" fill="#7C3AED" text-anchor="start" font-weight="bold">CHAPTER 3</text>
+<text x="24" y="58" font-family="DejaVu Sans" font-size="14.5" fill="#0E1F40" text-anchor="start" font-weight="bold">Ambush — Gbemisola Adeoti</text>
+<circle cx="30" cy="88" r="3.2" fill="#7C3AED"/>
+<text x="42" y="92" font-family="DejaVu Sans" font-size="8.8" fill="#0E1F40" text-anchor="start" font-weight="bold">Form</text>
+<text x="230" y="92" font-family="DejaVu Sans" font-size="8.6" fill="#334155" text-anchor="start" font-weight="normal">four stanzas, 21 lines, run-on lines</text>
+<circle cx="30" cy="114" r="3.2" fill="#7C3AED"/>
+<text x="42" y="118" font-family="DejaVu Sans" font-size="8.8" fill="#0E1F40" text-anchor="start" font-weight="bold">Three metaphors</text>
+<text x="230" y="118" font-family="DejaVu Sans" font-size="8.6" fill="#334155" text-anchor="start" font-weight="normal">whale (water), tiger (land), hawk (air)</text>
+<circle cx="30" cy="140" r="3.2" fill="#7C3AED"/>
+<text x="42" y="144" font-family="DejaVu Sans" font-size="8.8" fill="#0E1F40" text-anchor="start" font-weight="bold">The pun</text>
+<text x="230" y="144" font-family="DejaVu Sans" font-size="8.6" fill="#334155" text-anchor="start" font-weight="normal">blue Peter, all Peters, petered out desires</text>
+<circle cx="30" cy="166" r="3.2" fill="#7C3AED"/>
+<text x="42" y="170" font-family="DejaVu Sans" font-size="8.8" fill="#0E1F40" text-anchor="start" font-weight="bold">The turn</text>
+<text x="230" y="170" font-family="DejaVu Sans" font-size="8.6" fill="#334155" text-anchor="start" font-weight="normal">from victims to those who still set out</text>
+<circle cx="30" cy="192" r="3.2" fill="#7C3AED"/>
+<text x="42" y="196" font-family="DejaVu Sans" font-size="8.8" fill="#0E1F40" text-anchor="start" font-weight="bold">Theme</text>
+<text x="230" y="196" font-family="DejaVu Sans" font-size="8.6" fill="#334155" text-anchor="start" font-weight="normal">the state as predator, hope as ambush</text>
+</svg>

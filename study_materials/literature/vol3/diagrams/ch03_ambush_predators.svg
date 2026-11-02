@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 320" width="760" height="320">
+  <defs>
+    <marker id="ag" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#008751"/>
+    </marker>
+    <marker id="an" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#0E1F40"/>
+    </marker>
+    <marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#D97706"/>
+    </marker>
+    <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#DC2626"/>
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="760" height="320" fill="#FFFFFF"/>
+<text x="380" y="24" font-family="DejaVu Sans" font-size="12.5" fill="#0E1F40" text-anchor="middle" font-weight="bold">Ambush: three predators, three elements, one road</text>
+<rect x="40" y="56" width="210" height="150" rx="8" fill="#FFFFFF" stroke="#2563EB" stroke-width="1.5"/>
+<rect x="40" y="56" width="210" height="5" rx="2.5" fill="#2563EB"/>
+<text x="145" y="82" font-family="DejaVu Sans" font-size="10.6" fill="#0E1F40" text-anchor="middle" font-weight="bold">THE WHALE</text>
+<text x="145" y="100" font-family="DejaVu Sans" font-size="8.6" fill="#2563EB" text-anchor="middle" font-weight="bold">water</text>
+<text x="145" y="130" font-family="DejaVu Sans" font-size="8.3" fill="#334155" text-anchor="middle" font-weight="normal" font-style="italic">swallows the sinker,</text>
+<text x="145" y="148" font-family="DejaVu Sans" font-size="8.3" fill="#334155" text-anchor="middle" font-weight="normal" font-style="italic">with hook, line and bait</text>
+<line x1="145" y1="206" x2="380" y2="240" stroke="#2563EB" stroke-width="1.4" marker-end="url(#ag)"/>
+<rect x="270" y="56" width="210" height="150" rx="8" fill="#FFFFFF" stroke="#D97706" stroke-width="1.5"/>
+<rect x="270" y="56" width="210" height="5" rx="2.5" fill="#D97706"/>
+<text x="375" y="82" font-family="DejaVu Sans" font-size="10.6" fill="#0E1F40" text-anchor="middle" font-weight="bold">THE TIGER</text>
+<text x="375" y="100" font-family="DejaVu Sans" font-size="8.6" fill="#D97706" text-anchor="middle" font-weight="bold">land</text>
+<text x="375" y="130" font-family="DejaVu Sans" font-size="8.3" fill="#334155" text-anchor="middle" font-weight="normal" font-style="italic">cries deep in the glade</text>
+<text x="375" y="148" font-family="DejaVu Sans" font-size="8.3" fill="#334155" text-anchor="middle" font-weight="normal" font-style="italic">while infants shudder home</text>
+<line x1="375" y1="206" x2="380" y2="240" stroke="#D97706" stroke-width="1.4" marker-end="url(#ag)"/>
+<rect x="500" y="56" width="210" height="150" rx="8" fill="#FFFFFF" stroke="#7C3AED" stroke-width="1.5"/>
+<rect x="500" y="56" width="210" height="5" rx="2.5" fill="#7C3AED"/>
+<text x="605" y="82" font-family="DejaVu Sans" font-size="10.6" fill="#0E1F40" text-anchor="middle" font-weight="bold">THE HAWK</text>
+<text x="605" y="100" font-family="DejaVu Sans" font-size="8.6" fill="#7C3AED" text-anchor="middle" font-weight="bold">air</text>
+<text x="605" y="130" font-family="DejaVu Sans" font-size="8.3" fill="#334155" text-anchor="middle" font-weight="normal" font-style="italic">courts unceasing disaster</text>
+<text x="605" y="148" font-family="DejaVu Sans" font-size="8.3" fill="#334155" text-anchor="middle" font-weight="normal" font-style="italic">as it hovers and hoots</text>
+<line x1="605" y1="206" x2="380" y2="240" stroke="#7C3AED" stroke-width="1.4" marker-end="url(#ag)"/>
+<rect x="180" y="244" width="400" height="56" rx="8" fill="#ECFDF5" stroke="#008751" stroke-width="1.4"/>
+<text x="380" y="266" font-family="DejaVu Sans" font-size="10.4" fill="#008751" text-anchor="middle" font-weight="bold">THE LAND, WAITING</text>
+<text x="380" y="286" font-family="DejaVu Sans" font-size="7.8" fill="#334155" text-anchor="middle" font-weight="normal" font-style="italic">"awaiting in ambush / those who point away from a direction / where nothing happens"</text>
+<text x="380" y="316" font-family="DejaVu Sans" font-size="8.6" fill="#64748B" text-anchor="middle" font-weight="normal" font-style="italic">Every element is covered: no route out of the country escapes the country.</text>
+</svg>

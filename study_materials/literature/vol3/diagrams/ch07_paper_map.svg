@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 300" width="760" height="300">
+  <defs>
+    <marker id="ag" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#008751"/>
+    </marker>
+    <marker id="an" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#0E1F40"/>
+    </marker>
+    <marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#D97706"/>
+    </marker>
+    <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#DC2626"/>
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="760" height="300" fill="#FFFFFF"/>
+<text x="380" y="24" font-family="DejaVu Sans" font-size="12.5" fill="#0E1F40" text-anchor="middle" font-weight="bold">One paper, sixty questions, sixty minutes</text>
+<rect x="40" y="62" width="132.0" height="54" rx="6" fill="#FFFFFF" stroke="#2563EB" stroke-width="1.4"/>
+<rect x="40" y="62" width="132.0" height="5" rx="2.5" fill="#2563EB"/>
+<text x="106.0" y="84" font-family="DejaVu Sans" font-size="7.8" fill="#0E1F40" text-anchor="middle" font-weight="bold">UNSEEN POEM</text>
+<text x="106.0" y="104" font-family="DejaVu Sans" font-size="12" fill="#2563EB" text-anchor="middle" font-weight="bold">12</text>
+<rect x="176.0" y="62" width="109.33333333333333" height="54" rx="6" fill="#FFFFFF" stroke="#008751" stroke-width="1.4"/>
+<rect x="176.0" y="62" width="109.33333333333333" height="5" rx="2.5" fill="#008751"/>
+<text x="230.66666666666666" y="84" font-family="DejaVu Sans" font-size="7.8" fill="#0E1F40" text-anchor="middle" font-weight="bold">VANITY</text>
+<text x="230.66666666666666" y="104" font-family="DejaVu Sans" font-size="12" fill="#008751" text-anchor="middle" font-weight="bold">10</text>
+<rect x="289.3333333333333" y="62" width="109.33333333333333" height="54" rx="6" fill="#FFFFFF" stroke="#7C3AED" stroke-width="1.4"/>
+<rect x="289.3333333333333" y="62" width="109.33333333333333" height="5" rx="2.5" fill="#7C3AED"/>
+<text x="344.0" y="84" font-family="DejaVu Sans" font-size="7.8" fill="#0E1F40" text-anchor="middle" font-weight="bold">AMBUSH</text>
+<text x="344.0" y="104" font-family="DejaVu Sans" font-size="12" fill="#7C3AED" text-anchor="middle" font-weight="bold">10</text>
+<rect x="402.66666666666663" y="62" width="109.33333333333333" height="54" rx="6" fill="#FFFFFF" stroke="#D97706" stroke-width="1.4"/>
+<rect x="402.66666666666663" y="62" width="109.33333333333333" height="5" rx="2.5" fill="#D97706"/>
+<text x="457.3333333333333" y="84" font-family="DejaVu Sans" font-size="7.8" fill="#0E1F40" text-anchor="middle" font-weight="bold">ANVIL</text>
+<text x="457.3333333333333" y="104" font-family="DejaVu Sans" font-size="12" fill="#D97706" text-anchor="middle" font-weight="bold">10</text>
+<rect x="516.0" y="62" width="86.66666666666667" height="54" rx="6" fill="#FFFFFF" stroke="#008751" stroke-width="1.4"/>
+<rect x="516.0" y="62" width="86.66666666666667" height="5" rx="2.5" fill="#008751"/>
+<text x="559.3333333333334" y="84" font-family="DejaVu Sans" font-size="7.8" fill="#0E1F40" text-anchor="middle" font-weight="bold">CROSSING</text>
+<text x="559.3333333333334" y="104" font-family="DejaVu Sans" font-size="12" fill="#008751" text-anchor="middle" font-weight="bold">8</text>
+<rect x="606.6666666666666" y="62" width="109.33333333333333" height="54" rx="6" fill="#FFFFFF" stroke="#DC2626" stroke-width="1.4"/>
+<rect x="606.6666666666666" y="62" width="109.33333333333333" height="5" rx="2.5" fill="#DC2626"/>
+<text x="661.3333333333333" y="84" font-family="DejaVu Sans" font-size="7.8" fill="#0E1F40" text-anchor="middle" font-weight="bold">PROUD KING</text>
+<text x="661.3333333333333" y="104" font-family="DejaVu Sans" font-size="12" fill="#DC2626" text-anchor="middle" font-weight="bold">10</text>
+<text x="380" y="140" font-family="DejaVu Sans" font-size="8.6" fill="#64748B" text-anchor="middle" font-weight="normal" font-style="italic">questions, in the proportions of the real paper</text>
+<rect x="40" y="162" width="680" height="112" rx="8" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="1.1"/>
+<text x="380" y="184" font-family="DejaVu Sans" font-size="10" fill="#0E1F40" text-anchor="middle" font-weight="bold">The sixty minutes</text>
+<text x="80" y="206" font-family="DejaVu Sans" font-size="7.8" fill="#008751" text-anchor="start" font-weight="bold">0–2</text>
+<text x="140" y="206" font-family="DejaVu Sans" font-size="8.2" fill="#334155" text-anchor="start" font-weight="normal">read the unseen poem twice</text>
+<text x="80" y="220" font-family="DejaVu Sans" font-size="7.8" fill="#008751" text-anchor="start" font-weight="bold">2–14</text>
+<text x="140" y="220" font-family="DejaVu Sans" font-size="8.2" fill="#334155" text-anchor="start" font-weight="normal">unseen questions</text>
+<text x="80" y="234" font-family="DejaVu Sans" font-size="7.8" fill="#008751" text-anchor="start" font-weight="bold">14–44</text>
+<text x="140" y="234" font-family="DejaVu Sans" font-size="8.2" fill="#334155" text-anchor="start" font-weight="normal">the five prescribed blocks, six minutes each</text>
+<text x="80" y="248" font-family="DejaVu Sans" font-size="7.8" fill="#008751" text-anchor="start" font-weight="bold">44–56</text>
+<text x="140" y="248" font-family="DejaVu Sans" font-size="8.2" fill="#334155" text-anchor="start" font-weight="normal">flagged questions</text>
+<text x="80" y="262" font-family="DejaVu Sans" font-size="7.8" fill="#008751" text-anchor="start" font-weight="bold">56–60</text>
+<text x="140" y="262" font-family="DejaVu Sans" font-size="8.2" fill="#334155" text-anchor="start" font-weight="normal">transfer and check every number</text>
+<text x="380" y="292" font-family="DejaVu Sans" font-size="8.6" fill="#64748B" text-anchor="middle" font-weight="normal" font-style="italic">A poem question is won in the first twenty seconds: locate the stanza, then answer.</text>
+</svg>

@@ -20,7 +20,7 @@ full papers.
 |---|---|---|---|
 | 1 | The Principles | the three genres and the levels of reading; drama — types, plot, technique; prose — point of view, characterisation, setting, structure, types; poetry — the line, metre, rhyme and sound, image and symbol, types; devices; unseen appreciation; two mocks; four practice banks | **delivered — 179 pp** |
 | 2 | The Drama and the Prose | the set-text method; the bank; character and theme; *Othello* and *Native Son* modelled in full; dossiers for *Harvest of Corruption*, *Faceless* and *Lonely Days*; comparison and the exam hall | **delivered — 165 pp** |
-| 3 | The Poems and the Mock Papers | the five prescribed poems line by line (*Vanity*, *Ambush*, *The Anvil and the Hammer*, *Crossing the Bar*, *The Proud King*), a quotation bank, and four full 60-question papers | planned |
+| 3 | The Poems and the Mock Papers | the five prescribed poems line by line (*Vanity*, *Ambush*, *The Anvil and the Hammer*, *Crossing the Bar*, *The Proud King*), a quotation bank, a verse-terms glossary, and four full 60-question papers | **delivered — 189 pp** |
 
 The 2026 prescribed texts, as set by the syllabus: drama — *Harvest of Corruption*
 (Frank Ogodo Ogbeche) and *Othello* (Shakespeare); prose — *Faceless* (Amma Darko),
@@ -119,6 +119,13 @@ than a quarter of the run plus two, and no run of four identical keys), and the 
 and the bank are balanced the same way, so the key cannot be guessed from its shape.
 
 ## Where the next volume starts
+
+Volume 3 was built from this specification and is delivered: 189 pp, 4.35 MB, 0 Typst warnings,
+`_toc.typ` 176 rows matching the PDF outline exactly, 16 figures, 280 drill questions, 120 bank
+questions and four 60-question papers (640 questions in all). Chapter anchors 7, 21, 35, 49, 63,
+77, 92; papers 106, 116, 126, 136; appendices 146, 148, 165, 171, 174, 176, 178, 180, 183, 185, 187.
+Build: `python diagrams_gen/generate_diagrams.py` → `python tools/check_figs.py` →
+`python tools/drills_lit3.py` → `python tools/papers_lit3.py` → `python build.py`.
 
 Volume 3 takes the five prescribed poems — *Vanity*, *Ambush*, *The Anvil and the Hammer*,
 *Crossing the Bar* and *The Proud King* — line by line, with a quotation slip for each,

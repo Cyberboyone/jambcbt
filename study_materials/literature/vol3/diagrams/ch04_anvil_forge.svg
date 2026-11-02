@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 330" width="760" height="330">
+  <defs>
+    <marker id="ag" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#008751"/>
+    </marker>
+    <marker id="an" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#0E1F40"/>
+    </marker>
+    <marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#D97706"/>
+    </marker>
+    <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#DC2626"/>
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="760" height="330" fill="#FFFFFF"/>
+<text x="380" y="24" font-family="DejaVu Sans" font-size="12.5" fill="#0E1F40" text-anchor="middle" font-weight="bold">The Anvil and the Hammer: one poem, two workshops</text>
+<rect x="40" y="52" width="320" height="210" rx="8" fill="#FFFFFF" stroke="#2563EB" stroke-width="1.4"/>
+<rect x="40" y="52" width="320" height="5" rx="2.5" fill="#2563EB"/>
+<text x="200" y="78" font-family="DejaVu Sans" font-size="10" fill="#0E1F40" text-anchor="middle" font-weight="bold">STANZA ONE — THE FORGE</text>
+<text x="56" y="102" font-family="DejaVu Sans" font-size="8.4" fill="#2563EB" text-anchor="start" font-weight="bold">caught</text>
+<text x="196" y="102" font-family="DejaVu Sans" font-size="8.2" fill="#334155" text-anchor="start" font-weight="normal">between anvil and hammer</text>
+<text x="56" y="128" font-family="DejaVu Sans" font-size="8.4" fill="#2563EB" text-anchor="start" font-weight="bold">forging house</text>
+<text x="196" y="128" font-family="DejaVu Sans" font-size="8.2" fill="#334155" text-anchor="start" font-weight="normal">of a new life</text>
+<text x="56" y="154" font-family="DejaVu Sans" font-size="8.4" fill="#2563EB" text-anchor="start" font-weight="bold">pangs</text>
+<text x="196" y="154" font-family="DejaVu Sans" font-size="8.2" fill="#334155" text-anchor="start" font-weight="normal">transformed into new songs</text>
+<text x="56" y="180" font-family="DejaVu Sans" font-size="8.4" fill="#2563EB" text-anchor="start" font-weight="bold">trappings of the past</text>
+<text x="196" y="180" font-family="DejaVu Sans" font-size="8.2" fill="#334155" text-anchor="start" font-weight="normal">tender, tenuous, sisal, goat's blood</text>
+<text x="56" y="206" font-family="DejaVu Sans" font-size="8.4" fill="#2563EB" text-anchor="start" font-weight="bold">paved streets</text>
+<text x="196" y="206" font-family="DejaVu Sans" font-size="8.2" fill="#334155" text-anchor="start" font-weight="normal">"flimsy glories"</text>
+<text x="56" y="232" font-family="DejaVu Sans" font-size="8.4" fill="#2563EB" text-anchor="start" font-weight="bold">new dialectic</text>
+<text x="196" y="232" font-family="DejaVu Sans" font-size="8.2" fill="#334155" text-anchor="start" font-weight="normal">"jargon" on the outlaw's hill</text>
+<rect x="400" y="52" width="320" height="210" rx="8" fill="#FFFFFF" stroke="#008751" stroke-width="1.4"/>
+<rect x="400" y="52" width="320" height="5" rx="2.5" fill="#008751"/>
+<text x="560" y="78" font-family="DejaVu Sans" font-size="10" fill="#0E1F40" text-anchor="middle" font-weight="bold">STANZA TWO — THE SEWING</text>
+<text x="416" y="102" font-family="DejaVu Sans" font-size="8.4" fill="#008751" text-anchor="start" font-weight="bold">"Sew the old days"</text>
+<text x="556" y="102" font-family="DejaVu Sans" font-size="8.2" fill="#334155" text-anchor="start" font-weight="normal">the prayer to the fathers</text>
+<text x="416" y="128" font-family="DejaVu Sans" font-size="8.4" fill="#008751" text-anchor="start" font-weight="bold">"under our new garment"</text>
+<text x="556" y="128" font-family="DejaVu Sans" font-size="8.2" fill="#334155" text-anchor="start" font-weight="normal">tradition worn inside modernity</text>
+<text x="416" y="154" font-family="DejaVu Sans" font-size="8.4" fill="#008751" text-anchor="start" font-weight="bold">"whirlpool"</text>
+<text x="556" y="154" font-family="DejaVu Sans" font-size="8.2" fill="#334155" text-anchor="start" font-weight="normal">the rivers' estuary: many influences</text>
+<text x="416" y="180" font-family="DejaVu Sans" font-size="8.4" fill="#008751" text-anchor="start" font-weight="bold">"snatches from their tunes"</text>
+<text x="556" y="180" font-family="DejaVu Sans" font-size="8.2" fill="#334155" text-anchor="start" font-weight="normal">borrowed music, new flags</text>
+<text x="416" y="206" font-family="DejaVu Sans" font-size="8.4" fill="#008751" text-anchor="start" font-weight="bold">"our songs"</text>
+<text x="556" y="206" font-family="DejaVu Sans" font-size="8.2" fill="#334155" text-anchor="start" font-weight="normal">the voice that survives</text>
+<text x="416" y="232" font-family="DejaVu Sans" font-size="8.4" fill="#008751" text-anchor="start" font-weight="bold">"splash and moan of the sea"</text>
+<text x="556" y="232" font-family="DejaVu Sans" font-size="8.2" fill="#334155" text-anchor="start" font-weight="normal">the ending: still in motion</text>
+<rect x="40" y="274" width="680" height="40" rx="6" fill="#ECFDF5" stroke="#008751" stroke-width="1.1"/>
+<text x="380" y="292" font-family="DejaVu Sans" font-size="8.8" fill="#0E1F40" text-anchor="middle" font-weight="normal">The hammer shapes the metal; the needle joins the cloth. One poem, two kinds of making.</text>
+<text x="380" y="306" font-family="DejaVu Sans" font-size="8.2" fill="#64748B" text-anchor="middle" font-weight="normal" font-style="italic">That is the argument: neither culture is thrown away, and neither is worn alone.</text>
+</svg>
