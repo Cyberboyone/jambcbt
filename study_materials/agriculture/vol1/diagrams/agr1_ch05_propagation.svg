@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 272" width="760" height="272">
+  <defs>
+    <marker id="ag" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#008751"/>
+    </marker>
+    <marker id="an" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#0E1F40"/>
+    </marker>
+    <marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#D97706"/>
+    </marker>
+    <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#DC2626"/>
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="760" height="272" fill="#ECFDF5"/>
+<text x="380" y="22" font-family="DejaVu Sans" font-size="12.6" fill="#0E1F40" text-anchor="middle" font-weight="bold">Two ways to make a new plant, and what each one is for</text>
+<rect x="12" y="34" width="360" height="226" rx="8" fill="#FFFFFF" stroke="#008751" stroke-width="1.4"/>
+<text x="192" y="54" font-family="DejaVu Sans" font-size="9.6" fill="#008751" text-anchor="middle" font-weight="bold">SEXUAL — FROM SEED</text>
+<rect x="36" y="74" width="90" height="40" rx="5" fill="#ECFDF5" stroke="#008751" stroke-width="1.0"/>
+<text x="81" y="98" font-family="DejaVu Sans" font-size="8.6" fill="#0E1F40" text-anchor="middle" font-weight="normal">seed</text>
+<rect x="150" y="74" width="90" height="40" rx="5" fill="#ECFDF5" stroke="#008751" stroke-width="1.0"/>
+<text x="195" y="98" font-family="DejaVu Sans" font-size="8.6" fill="#0E1F40" text-anchor="middle" font-weight="normal">seedling</text>
+<rect x="264" y="74" width="90" height="40" rx="5" fill="#ECFDF5" stroke="#008751" stroke-width="1.0"/>
+<text x="309" y="98" font-family="DejaVu Sans" font-size="8.6" fill="#0E1F40" text-anchor="middle" font-weight="normal">tree</text>
+<line x1="126" y1="94" x2="150" y2="94" stroke="#008751" stroke-width="1.3" marker-end="url(#ag)"/>
+<line x1="240" y1="94" x2="264" y2="94" stroke="#008751" stroke-width="1.3" marker-end="url(#ag)"/>
+<text x="36" y="136" font-family="DejaVu Sans" font-size="8.0" fill="#334155" text-anchor="start" font-weight="normal">+ cheap; seed travels and stores</text>
+<text x="36" y="158" font-family="DejaVu Sans" font-size="8.0" fill="#334155" text-anchor="start" font-weight="normal">+ a tap root, so drought is survived</text>
+<text x="36" y="180" font-family="DejaVu Sans" font-size="8.0" fill="#334155" text-anchor="start" font-weight="normal">+ new varieties come from seed</text>
+<text x="36" y="202" font-family="DejaVu Sans" font-size="8.0" fill="#DC2626" text-anchor="start" font-weight="normal">− slow to bear; the fruit may differ</text>
+<text x="36" y="224" font-family="DejaVu Sans" font-size="8.0" fill="#DC2626" text-anchor="start" font-weight="normal">− seed must be viable and clean</text>
+<rect x="388" y="34" width="360" height="226" rx="8" fill="#FFFFFF" stroke="#7C3AED" stroke-width="1.4"/>
+<text x="568" y="54" font-family="DejaVu Sans" font-size="9.6" fill="#7C3AED" text-anchor="middle" font-weight="bold">ASEXUAL — FROM A PIECE</text>
+<rect x="404" y="76" width="328" height="36" rx="5" fill="#EDE9FE" stroke="#7C3AED" stroke-width="1.0"/>
+<text x="418" y="91" font-family="DejaVu Sans" font-size="8.8" fill="#0E1F40" text-anchor="start" font-weight="bold">cutting</text>
+<text x="418" y="105" font-family="DejaVu Sans" font-size="7.8" fill="#334155" text-anchor="start" font-weight="normal">a stem or leaf root — cassava, sugar cane</text>
+<rect x="404" y="120" width="328" height="36" rx="5" fill="#EDE9FE" stroke="#7C3AED" stroke-width="1.0"/>
+<text x="418" y="135" font-family="DejaVu Sans" font-size="8.8" fill="#0E1F40" text-anchor="start" font-weight="bold">layering</text>
+<text x="418" y="149" font-family="DejaVu Sans" font-size="7.8" fill="#334155" text-anchor="start" font-weight="normal">a branch roots in place — guava, citrus</text>
+<rect x="404" y="164" width="328" height="36" rx="5" fill="#EDE9FE" stroke="#7C3AED" stroke-width="1.0"/>
+<text x="418" y="179" font-family="DejaVu Sans" font-size="8.8" fill="#0E1F40" text-anchor="start" font-weight="bold">budding / grafting</text>
+<text x="418" y="193" font-family="DejaVu Sans" font-size="7.8" fill="#334155" text-anchor="start" font-weight="normal">a scion on a rootstock — citrus, mango, rubber</text>
+<rect x="404" y="208" width="328" height="36" rx="5" fill="#EDE9FE" stroke="#7C3AED" stroke-width="1.0"/>
+<text x="418" y="223" font-family="DejaVu Sans" font-size="8.8" fill="#0E1F40" text-anchor="start" font-weight="bold">suckers, tubers, rhizomes</text>
+<text x="418" y="237" font-family="DejaVu Sans" font-size="7.8" fill="#334155" text-anchor="start" font-weight="normal">an underground part — banana, yam, cocoyam</text>
+<text x="568" y="252" font-family="DejaVu Sans" font-size="7.8" fill="#64748B" text-anchor="middle" font-weight="normal">true to type, early, and one plant becomes many</text>
+</svg>

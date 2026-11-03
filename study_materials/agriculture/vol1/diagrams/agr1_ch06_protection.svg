@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 264" width="760" height="264">
+  <defs>
+    <marker id="ag" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#008751"/>
+    </marker>
+    <marker id="an" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#0E1F40"/>
+    </marker>
+    <marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#D97706"/>
+    </marker>
+    <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#DC2626"/>
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="760" height="264" fill="#ECFDF5"/>
+<text x="380" y="22" font-family="DejaVu Sans" font-size="12.6" fill="#0E1F40" text-anchor="middle" font-weight="bold">The disease triangle, and the four ways to break it</text>
+<rect x="12" y="34" width="330" height="218" rx="8" fill="#FFFFFF" stroke="#DC2626" stroke-width="1.4"/>
+<text x="177" y="54" font-family="DejaVu Sans" font-size="9.6" fill="#DC2626" text-anchor="middle" font-weight="bold">THE TRIANGLE</text>
+<rect x="111" y="58" width="132" height="48" rx="6" fill="#FEE2E2" stroke="#DC2626" stroke-width="1.1"/>
+<text x="177" y="78" font-family="DejaVu Sans" font-size="8.8" fill="#0E1F40" text-anchor="middle" font-weight="bold">HOST</text>
+<text x="177" y="94" font-family="DejaVu Sans" font-size="7.4" fill="#334155" text-anchor="middle" font-weight="normal">a susceptible crop</text>
+<rect x="30" y="172" width="132" height="48" rx="6" fill="#FEE2E2" stroke="#DC2626" stroke-width="1.1"/>
+<text x="96" y="192" font-family="DejaVu Sans" font-size="8.8" fill="#0E1F40" text-anchor="middle" font-weight="bold">AGENT</text>
+<text x="96" y="208" font-family="DejaVu Sans" font-size="7.4" fill="#334155" text-anchor="middle" font-weight="normal">pest, fungus, weed</text>
+<rect x="192" y="172" width="132" height="48" rx="6" fill="#FEE2E2" stroke="#DC2626" stroke-width="1.1"/>
+<text x="258" y="192" font-family="DejaVu Sans" font-size="8.8" fill="#0E1F40" text-anchor="middle" font-weight="bold">ENVIRONMENT</text>
+<text x="258" y="208" font-family="DejaVu Sans" font-size="7.4" fill="#334155" text-anchor="middle" font-weight="normal">moisture, heat, shade</text>
+<line x1="177" y1="108" x2="108" y2="172" stroke="#DC2626" stroke-width="1.2" stroke-dasharray="4 3"/>
+<line x1="177" y1="108" x2="246" y2="172" stroke="#DC2626" stroke-width="1.2" stroke-dasharray="4 3"/>
+<line x1="126" y1="196" x2="228" y2="196" stroke="#DC2626" stroke-width="1.2" stroke-dasharray="4 3"/>
+<text x="177" y="240" font-family="DejaVu Sans" font-size="7.8" fill="#64748B" text-anchor="middle" font-weight="normal">remove one side and the disease cannot spread</text>
+<rect x="354" y="34" width="394" height="218" rx="8" fill="#FFFFFF" stroke="#008751" stroke-width="1.4"/>
+<text x="551" y="54" font-family="DejaVu Sans" font-size="9.6" fill="#008751" text-anchor="middle" font-weight="bold">THE FOUR CONTROLS</text>
+<rect x="370" y="74" width="362" height="34" rx="5" fill="#ECFDF5" stroke="#008751" stroke-width="1.0"/>
+<text x="384" y="88" font-family="DejaVu Sans" font-size="8.8" fill="#0E1F40" text-anchor="start" font-weight="bold">Cultural</text>
+<text x="384" y="101" font-family="DejaVu Sans" font-size="7.8" fill="#334155" text-anchor="start" font-weight="normal">rotation, clean seed, right spacing, destroy refuse</text>
+<rect x="370" y="114" width="362" height="34" rx="5" fill="#ECFDF5" stroke="#008751" stroke-width="1.0"/>
+<text x="384" y="128" font-family="DejaVu Sans" font-size="8.8" fill="#0E1F40" text-anchor="start" font-weight="bold">Biological</text>
+<text x="384" y="141" font-family="DejaVu Sans" font-size="7.8" fill="#334155" text-anchor="start" font-weight="normal">natural enemies, resistant varieties</text>
+<rect x="370" y="154" width="362" height="34" rx="5" fill="#ECFDF5" stroke="#008751" stroke-width="1.0"/>
+<text x="384" y="168" font-family="DejaVu Sans" font-size="8.8" fill="#0E1F40" text-anchor="start" font-weight="bold">Chemical</text>
+<text x="384" y="181" font-family="DejaVu Sans" font-size="7.8" fill="#334155" text-anchor="start" font-weight="normal">the right pesticide, dose and interval</text>
+<rect x="370" y="194" width="362" height="34" rx="5" fill="#ECFDF5" stroke="#008751" stroke-width="1.0"/>
+<text x="384" y="208" font-family="DejaVu Sans" font-size="8.8" fill="#0E1F40" text-anchor="start" font-weight="bold">Physical / mechanical</text>
+<text x="384" y="221" font-family="DejaVu Sans" font-size="7.8" fill="#334155" text-anchor="start" font-weight="normal">traps, hand-picking, heat treatment</text>
+<text x="551" y="240" font-family="DejaVu Sans" font-size="8" fill="#008751" text-anchor="middle" font-weight="bold">IPM: all four together, chemical last</text>
+</svg>

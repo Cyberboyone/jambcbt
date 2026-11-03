@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 232" width="760" height="232">
+  <defs>
+    <marker id="ag" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#008751"/>
+    </marker>
+    <marker id="an" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#0E1F40"/>
+    </marker>
+    <marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#D97706"/>
+    </marker>
+    <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#DC2626"/>
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="760" height="232" fill="#ECFDF5"/>
+<text x="380" y="22" font-family="DejaVu Sans" font-size="12.6" fill="#0E1F40" text-anchor="middle" font-weight="bold">Where the harvest is lost, and what stops each loss</text>
+<rect x="12" y="44" width="138" height="92" rx="7" fill="#FFFFFF" stroke="#008751" stroke-width="1.4"/>
+<rect x="12" y="44" width="138" height="5" rx="2.5" fill="#008751"/>
+<text x="81" y="68" font-family="DejaVu Sans" font-size="9.0" fill="#008751" text-anchor="middle" font-weight="bold">HARVEST</text>
+<text x="81" y="88" font-family="DejaVu Sans" font-size="12.0" fill="#0E1F40" text-anchor="middle" font-weight="bold">5–10%</text>
+<text x="81" y="106" font-family="DejaVu Sans" font-size="7.4" fill="#64748B" text-anchor="middle" font-weight="normal">lost</text>
+<text x="81" y="158" font-family="DejaVu Sans" font-size="7.2" fill="#334155" text-anchor="middle" font-weight="normal">at the right maturity; dry hands; clean bags</text>
+<line x1="150" y1="90" x2="162" y2="90" stroke="#64748B" stroke-width="1.4" marker-end="url(#an)"/>
+<rect x="162" y="44" width="138" height="92" rx="7" fill="#FFFFFF" stroke="#2563EB" stroke-width="1.4"/>
+<rect x="162" y="44" width="138" height="5" rx="2.5" fill="#2563EB"/>
+<text x="231" y="68" font-family="DejaVu Sans" font-size="9.0" fill="#2563EB" text-anchor="middle" font-weight="bold">THRESHING</text>
+<text x="231" y="88" font-family="DejaVu Sans" font-size="12.0" fill="#0E1F40" text-anchor="middle" font-weight="bold">5–15%</text>
+<text x="231" y="106" font-family="DejaVu Sans" font-size="7.4" fill="#64748B" text-anchor="middle" font-weight="normal">lost</text>
+<text x="231" y="158" font-family="DejaVu Sans" font-size="7.2" fill="#334155" text-anchor="middle" font-weight="normal">a clean floor; a tarpaulin, not the road</text>
+<line x1="300" y1="90" x2="312" y2="90" stroke="#64748B" stroke-width="1.4" marker-end="url(#an)"/>
+<rect x="312" y="44" width="138" height="92" rx="7" fill="#FFFFFF" stroke="#D97706" stroke-width="1.4"/>
+<rect x="312" y="44" width="138" height="5" rx="2.5" fill="#D97706"/>
+<text x="381" y="68" font-family="DejaVu Sans" font-size="9.0" fill="#D97706" text-anchor="middle" font-weight="bold">DRYING</text>
+<text x="381" y="88" font-family="DejaVu Sans" font-size="12.0" fill="#0E1F40" text-anchor="middle" font-weight="bold">10–20%</text>
+<text x="381" y="106" font-family="DejaVu Sans" font-size="7.4" fill="#64748B" text-anchor="middle" font-weight="normal">lost</text>
+<text x="381" y="158" font-family="DejaVu Sans" font-size="7.2" fill="#334155" text-anchor="middle" font-weight="normal">to 12–13% moisture; sun or a dryer</text>
+<line x1="450" y1="90" x2="462" y2="90" stroke="#64748B" stroke-width="1.4" marker-end="url(#an)"/>
+<rect x="462" y="44" width="138" height="92" rx="7" fill="#FFFFFF" stroke="#7C3AED" stroke-width="1.4"/>
+<rect x="462" y="44" width="138" height="5" rx="2.5" fill="#7C3AED"/>
+<text x="531" y="68" font-family="DejaVu Sans" font-size="9.0" fill="#7C3AED" text-anchor="middle" font-weight="bold">STORAGE</text>
+<text x="531" y="88" font-family="DejaVu Sans" font-size="12.0" fill="#0E1F40" text-anchor="middle" font-weight="bold">15–30%</text>
+<text x="531" y="106" font-family="DejaVu Sans" font-size="7.4" fill="#64748B" text-anchor="middle" font-weight="normal">lost</text>
+<text x="531" y="158" font-family="DejaVu Sans" font-size="7.2" fill="#334155" text-anchor="middle" font-weight="normal">a dry, cool, sealed store; fumigate</text>
+<line x1="600" y1="90" x2="612" y2="90" stroke="#64748B" stroke-width="1.4" marker-end="url(#an)"/>
+<rect x="612" y="44" width="138" height="92" rx="7" fill="#FFFFFF" stroke="#DC2626" stroke-width="1.4"/>
+<rect x="612" y="44" width="138" height="5" rx="2.5" fill="#DC2626"/>
+<text x="681" y="68" font-family="DejaVu Sans" font-size="9.0" fill="#DC2626" text-anchor="middle" font-weight="bold">TRANSPORT</text>
+<text x="681" y="88" font-family="DejaVu Sans" font-size="12.0" fill="#0E1F40" text-anchor="middle" font-weight="bold">5–10%</text>
+<text x="681" y="106" font-family="DejaVu Sans" font-size="7.4" fill="#64748B" text-anchor="middle" font-weight="normal">lost</text>
+<text x="681" y="158" font-family="DejaVu Sans" font-size="7.2" fill="#334155" text-anchor="middle" font-weight="normal">dry loads, covered, not overloaded</text>
+<rect x="12" y="176" width="736" height="44" rx="7" fill="#ECFDF5" stroke="#008751" stroke-width="1.2"/>
+<text x="380" y="196" font-family="DejaVu Sans" font-size="8.6" fill="#0E1F40" text-anchor="middle" font-weight="normal">a third of a Nigerian harvest is lost between the field and the plate —</text>
+<text x="380" y="210" font-family="DejaVu Sans" font-size="8.6" fill="#008751" text-anchor="middle" font-weight="bold">which is a harvest already grown, and simply thrown away</text>
+</svg>

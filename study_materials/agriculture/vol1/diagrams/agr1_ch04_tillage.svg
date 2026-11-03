@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 244" width="760" height="244">
+  <defs>
+    <marker id="ag" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#008751"/>
+    </marker>
+    <marker id="an" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#0E1F40"/>
+    </marker>
+    <marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#D97706"/>
+    </marker>
+    <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#DC2626"/>
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="760" height="244" fill="#ECFDF5"/>
+<text x="380" y="22" font-family="DejaVu Sans" font-size="12.6" fill="#0E1F40" text-anchor="middle" font-weight="bold">The sequence of land preparation, and what each pass does</text>
+<rect x="12" y="44" width="138" height="76" rx="7" fill="#FFFFFF" stroke="#008751" stroke-width="1.4"/>
+<rect x="12" y="44" width="138" height="5" rx="2.5" fill="#008751"/>
+<text x="81" y="70" font-family="DejaVu Sans" font-size="9.2" fill="#008751" text-anchor="middle" font-weight="bold">1  CLEARING</text>
+<text x="81" y="90" font-family="DejaVu Sans" font-size="7.6" fill="#334155" text-anchor="middle" font-weight="normal">bush, stumps and trash removed</text>
+<line x1="150" y1="82" x2="162" y2="82" stroke="#64748B" stroke-width="1.4" marker-end="url(#an)"/>
+<rect x="162" y="44" width="138" height="76" rx="7" fill="#FFFFFF" stroke="#2563EB" stroke-width="1.4"/>
+<rect x="162" y="44" width="138" height="5" rx="2.5" fill="#2563EB"/>
+<text x="231" y="70" font-family="DejaVu Sans" font-size="9.2" fill="#2563EB" text-anchor="middle" font-weight="bold">2  PLOUGHING</text>
+<text x="231" y="90" font-family="DejaVu Sans" font-size="7.6" fill="#334155" text-anchor="middle" font-weight="normal">primary tillage, 15–25 cm deep</text>
+<line x1="300" y1="82" x2="312" y2="82" stroke="#64748B" stroke-width="1.4" marker-end="url(#an)"/>
+<rect x="312" y="44" width="138" height="76" rx="7" fill="#FFFFFF" stroke="#7C3AED" stroke-width="1.4"/>
+<rect x="312" y="44" width="138" height="5" rx="2.5" fill="#7C3AED"/>
+<text x="381" y="70" font-family="DejaVu Sans" font-size="9.2" fill="#7C3AED" text-anchor="middle" font-weight="bold">3  HARROWING</text>
+<text x="381" y="90" font-family="DejaVu Sans" font-size="7.6" fill="#334155" text-anchor="middle" font-weight="normal">secondary tillage, breaks the clods</text>
+<line x1="450" y1="82" x2="462" y2="82" stroke="#64748B" stroke-width="1.4" marker-end="url(#an)"/>
+<rect x="462" y="44" width="138" height="76" rx="7" fill="#FFFFFF" stroke="#D97706" stroke-width="1.4"/>
+<rect x="462" y="44" width="138" height="5" rx="2.5" fill="#D97706"/>
+<text x="531" y="70" font-family="DejaVu Sans" font-size="9.2" fill="#D97706" text-anchor="middle" font-weight="bold">4  LEVELLING</text>
+<text x="531" y="90" font-family="DejaVu Sans" font-size="7.6" fill="#334155" text-anchor="middle" font-weight="normal">the surface dressed for water and seed</text>
+<line x1="600" y1="82" x2="612" y2="82" stroke="#64748B" stroke-width="1.4" marker-end="url(#an)"/>
+<rect x="612" y="44" width="138" height="76" rx="7" fill="#FFFFFF" stroke="#008751" stroke-width="1.4"/>
+<rect x="612" y="44" width="138" height="5" rx="2.5" fill="#008751"/>
+<text x="681" y="70" font-family="DejaVu Sans" font-size="9.2" fill="#008751" text-anchor="middle" font-weight="bold">5  PLANTING</text>
+<text x="681" y="90" font-family="DejaVu Sans" font-size="7.6" fill="#334155" text-anchor="middle" font-weight="normal">seed or seedling put at the right depth</text>
+<rect x="12" y="136" width="736" height="96" rx="8" fill="#FFFFFF" stroke="#008751" stroke-width="1.2"/>
+<text x="32" y="158" font-family="DejaVu Sans" font-size="9.0" fill="#008751" text-anchor="start" font-weight="bold">WHY IT MATTERS</text>
+<text x="32" y="182" font-family="DejaVu Sans" font-size="8.2" fill="#0E1F40" text-anchor="start" font-weight="bold">a fine tilth —</text>
+<text x="110" y="182" font-family="DejaVu Sans" font-size="8.2" fill="#334155" text-anchor="start" font-weight="normal">lets the seed touch moist soil and the root push through</text>
+<text x="392" y="182" font-family="DejaVu Sans" font-size="8.2" fill="#0E1F40" text-anchor="start" font-weight="bold">no hard pan —</text>
+<text x="470" y="182" font-family="DejaVu Sans" font-size="8.2" fill="#334155" text-anchor="start" font-weight="normal">a plough pan at 20 cm stops roots and holds water</text>
+<text x="32" y="208" font-family="DejaVu Sans" font-size="8.2" fill="#0E1F40" text-anchor="start" font-weight="bold">level ground —</text>
+<text x="110" y="208" font-family="DejaVu Sans" font-size="8.2" fill="#334155" text-anchor="start" font-weight="normal">water spreads evenly; no ponding, no wash</text>
+<text x="392" y="208" font-family="DejaVu Sans" font-size="8.2" fill="#0E1F40" text-anchor="start" font-weight="bold">early timing —</text>
+<text x="470" y="208" font-family="DejaVu Sans" font-size="8.2" fill="#334155" text-anchor="start" font-weight="normal">plant with the first reliable rain, not after it</text>
+</svg>

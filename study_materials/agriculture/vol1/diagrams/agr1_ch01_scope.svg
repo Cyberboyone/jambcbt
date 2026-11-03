@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 254" width="760" height="254">
+  <defs>
+    <marker id="ag" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#008751"/>
+    </marker>
+    <marker id="an" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#0E1F40"/>
+    </marker>
+    <marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#D97706"/>
+    </marker>
+    <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#DC2626"/>
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="760" height="254" fill="#ECFDF5"/>
+<text x="380" y="22" font-family="DejaVu Sans" font-size="12.6" fill="#0E1F40" text-anchor="middle" font-weight="bold">The four branches, and the chain from seed to market</text>
+<rect x="12" y="34" width="380" height="208" rx="8" fill="#FFFFFF" stroke="#008751" stroke-width="1.4"/>
+<text x="202" y="54" font-family="DejaVu Sans" font-size="9.6" fill="#008751" text-anchor="middle" font-weight="bold">THE FOUR BRANCHES</text>
+<rect x="28" y="72" width="168" height="64" rx="6" fill="#ECFDF5" stroke="#008751" stroke-width="1.2"/>
+<text x="112" y="96" font-family="DejaVu Sans" font-size="9.6" fill="#0E1F40" text-anchor="middle" font-weight="bold">Crop science</text>
+<text x="112" y="114" font-family="DejaVu Sans" font-size="8.2" fill="#334155" text-anchor="middle" font-weight="normal">what to plant, when, and how</text>
+<rect x="208" y="72" width="168" height="64" rx="6" fill="#DBEAFE" stroke="#2563EB" stroke-width="1.2"/>
+<text x="292" y="96" font-family="DejaVu Sans" font-size="9.6" fill="#0E1F40" text-anchor="middle" font-weight="bold">Animal science</text>
+<text x="292" y="114" font-family="DejaVu Sans" font-size="8.2" fill="#334155" text-anchor="middle" font-weight="normal">breeding, feeding and health</text>
+<rect x="28" y="150" width="168" height="64" rx="6" fill="#FEF3C7" stroke="#D97706" stroke-width="1.2"/>
+<text x="112" y="174" font-family="DejaVu Sans" font-size="9.6" fill="#0E1F40" text-anchor="middle" font-weight="bold">Soil science</text>
+<text x="112" y="192" font-family="DejaVu Sans" font-size="8.2" fill="#334155" text-anchor="middle" font-weight="normal">the medium that feeds the plant</text>
+<rect x="208" y="150" width="168" height="64" rx="6" fill="#EDE9FE" stroke="#7C3AED" stroke-width="1.2"/>
+<text x="292" y="174" font-family="DejaVu Sans" font-size="9.6" fill="#0E1F40" text-anchor="middle" font-weight="bold">Economics &amp; extension</text>
+<text x="292" y="192" font-family="DejaVu Sans" font-size="8.2" fill="#334155" text-anchor="middle" font-weight="normal">cost, market and advice</text>
+<rect x="404" y="34" width="344" height="208" rx="8" fill="#FFFFFF" stroke="#2563EB" stroke-width="1.4"/>
+<text x="576" y="54" font-family="DejaVu Sans" font-size="9.6" fill="#2563EB" text-anchor="middle" font-weight="bold">THE VALUE CHAIN</text>
+<rect x="430" y="76" width="290" height="24" rx="4" fill="#DBEAFE" stroke="#2563EB" stroke-width="0.9"/>
+<text x="575" y="92" font-family="DejaVu Sans" font-size="8.8" fill="#0E1F40" text-anchor="middle" font-weight="bold">production</text>
+<line x1="575" y1="100" x2="575" y2="108" stroke="#2563EB" stroke-width="1.2" marker-end="url(#an)"/>
+<rect x="430" y="108" width="290" height="24" rx="4" fill="#DBEAFE" stroke="#2563EB" stroke-width="0.9"/>
+<text x="575" y="124" font-family="DejaVu Sans" font-size="8.8" fill="#0E1F40" text-anchor="middle" font-weight="bold">processing</text>
+<line x1="575" y1="132" x2="575" y2="140" stroke="#2563EB" stroke-width="1.2" marker-end="url(#an)"/>
+<rect x="430" y="140" width="290" height="24" rx="4" fill="#DBEAFE" stroke="#2563EB" stroke-width="0.9"/>
+<text x="575" y="156" font-family="DejaVu Sans" font-size="8.8" fill="#0E1F40" text-anchor="middle" font-weight="bold">storage</text>
+<line x1="575" y1="164" x2="575" y2="172" stroke="#2563EB" stroke-width="1.2" marker-end="url(#an)"/>
+<rect x="430" y="172" width="290" height="24" rx="4" fill="#DBEAFE" stroke="#2563EB" stroke-width="0.9"/>
+<text x="575" y="188" font-family="DejaVu Sans" font-size="8.8" fill="#0E1F40" text-anchor="middle" font-weight="bold">marketing</text>
+<line x1="575" y1="196" x2="575" y2="204" stroke="#2563EB" stroke-width="1.2" marker-end="url(#an)"/>
+<rect x="430" y="204" width="290" height="24" rx="4" fill="#DBEAFE" stroke="#2563EB" stroke-width="0.9"/>
+<text x="575" y="220" font-family="DejaVu Sans" font-size="8.8" fill="#0E1F40" text-anchor="middle" font-weight="bold">consumption</text>
+<text x="576" y="232" font-family="DejaVu Sans" font-size="8" fill="#64748B" text-anchor="middle" font-weight="normal">value is added at every link</text>
+</svg>
