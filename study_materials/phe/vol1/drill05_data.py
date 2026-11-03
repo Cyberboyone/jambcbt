@@ -1,0 +1,47 @@
+"""Original fitness and conditioning drill; first option is correct."""
+RAW = '''
+Physical fitness is commonly described using|several different components|a single test that measures every component perfectly|a single component with no skill-related aspects|the same fixed score for every activity|Fitness includes multiple health-related and skill-related components.
+Cardiorespiratory endurance concerns|supporting sustained activity through heart, lung and circulatory function|the range of motion at one joint|the maximum force in one brief contraction|the ability to react to a starting signal|Cardiorespiratory endurance concerns sustaining activity using the circulatory and respiratory systems.
+Muscular strength concerns|the force a muscle or group can exert|the ability to sustain repeated contractions only|the range of motion at a joint|the delay before a response to a stimulus|Strength concerns force production.
+Muscular endurance concerns|sustaining or repeating muscular effort|the maximum force produced once only|the range of motion at a joint|the time taken to respond to a signal|Muscular endurance concerns sustained or repeated effort.
+Flexibility concerns|range of movement at a joint|the maximum force produced by a muscle|the rate at which a stimulus is detected|the number of exercise sessions per week|Flexibility concerns joint range of movement.
+Body composition describes|proportions of body tissues|only total body mass without reference to tissue|only joint range of motion|only the rate of movement|Body composition describes proportions of body tissues.
+Body composition alone|is not a complete measure of an individual's health|determines every aspect of health on its own|replaces all individual medical assessment|identifies a universal training plan|Health cannot be fully assessed from one body-composition measure.
+Agility commonly involves|changing direction effectively|sustaining a static posture without movement|maximum force without reference to movement|body-tissue proportions|Agility involves effective changes of direction.
+Balance commonly involves|maintaining or controlling body position|the ability to change direction rapidly only|the maximum muscular force in one attempt|the interval between stimulus and response|Balance concerns control of body position.
+Coordination commonly involves|combining movements effectively|the proportion of different body tissues|the maximum distance travelled in one step|the number of weekly sessions|Coordination concerns organising movements effectively.
+Speed is a skill-related component concerning|how quickly a movement or task can be performed|the range of movement available at a joint|the proportion of different body tissues|the number of sessions in a training plan|Speed concerns how quickly an action is performed.
+Reaction time concerns|the time taken to respond to a stimulus|the duration of a sustained activity|the force produced by one contraction|the range of motion at a joint|Reaction time concerns the delay between a stimulus and response.
+Power is commonly associated with|producing force rapidly|sustaining a low-intensity effort indefinitely|producing force without reference to time|measuring the proportion of body tissues|Power relates to force produced at speed.
+Strength and muscular endurance|describe different qualities that can overlap in a task|are identical in every respect|can never both contribute to one task|cannot be assessed using any physical activity|Strength and endurance describe different aspects of muscular performance.
+The principle of specificity means|training relates to the intended goal or activity|all people require the same exercise|recovery is never part of training|any test automatically diagnoses disease|Specificity relates training to the intended goal.
+Progression means|changing demands gradually and appropriately|increasing demands without considering the person|eliminating all recovery|making random changes unrelated to the goal|Progression adjusts demands appropriately over time.
+Recovery is|part of an overall training plan|unnecessary in all training programmes|a guarantee that injury cannot occur|a substitute for an appropriate training stimulus|Recovery is part of an appropriately planned training process.
+Reversibility describes|loss of some adaptations when training is reduced or stopped|an adaptation that always remains unchanged after training stops|a gradual increase in range of motion|the direction in which blood travels in an artery|Some training adaptations can diminish when training is reduced or stopped.
+The FITT framework includes|frequency, intensity, time and type|frequency, injury, training and technique|force, intensity, tissue and transport|frequency, intervals, timing and testing|FITT stands for frequency, intensity, time and type.
+In FITT, frequency means|how often activity occurs|how demanding the activity is|the kind of activity|the duration of each session|Frequency is how often an activity occurs.
+In FITT, intensity means|how demanding the activity is|how often activity is performed|the duration of each session|the kind of activity selected|Intensity concerns the demand of an activity.
+In FITT, time refers to|duration|frequency of sessions|effort or difficulty|kind of activity selected|Time refers to the duration of activity.
+In FITT, type refers to|the kind of activity|duration of the session|how often sessions occur|effort or difficulty|Type is the kind of activity chosen.
+FITT is best understood as|a planning framework, not a universal prescription|a fixed plan suitable for every person|a medical diagnosis made without assessment|a substitute for defining an individual goal|Appropriate FITT values depend on the person and goal.
+A suitable preparation before an activity can|help prepare for an activity|guarantee no injury|replace all recovery|remove the need to inspect equipment|A suitable warm-up can prepare for activity but cannot eliminate every risk.
+A fitness test should|match the quality it is intended to assess|be selected without reference to the intended quality|ignore participant safety|always be used as a medical diagnosis|A test should suit the component or goal being assessed.
+When repeating a fitness test, consistent procedures help|make results more comparable|eliminate all measurement error|guarantee a medical diagnosis|remove the need for consent|Consistent conditions help interpret changes in results.
+A change in a test result may reflect|procedure, fatigue, measurement error or performance|only a guaranteed change in health|only the weather in every situation|a measurement that requires no interpretation|Multiple factors can affect test results.
+A fitness test result alone|is not automatically a medical diagnosis|always identifies a specific disease|replaces qualified clinical assessment|is identical in every participant|Fitness measurements need interpretation in context.
+During exercise a person experiences concerning symptoms. They should|stop and seek appropriate help|continue regardless of symptoms|assume pain is always required for progress|rely solely on a generic training chart|Concerning symptoms should be taken seriously.
+Suitable training depends on|the individual, goal and context|one universal plan regardless of goals|fitness goals without considering current ability|training loads without recovery|People differ in experience, goals and circumstances.
+A plan for a specific activity should consider|skills and demands relevant to that activity|only an unrelated activity with different demands|the same load for everyone regardless of goal|no practice of relevant skills|Specificity means relating training to the intended activity.
+Increasing activity without allowing suitable recovery|may be inappropriate for the individual|always guarantees improvement|eliminates the risk of injury|is appropriate for everyone regardless of fatigue|Training demands and recovery should be balanced appropriately.
+A repeated effort test is most directly related to|muscular endurance|maximum force in a single effort only|joint range of motion alone|the interval before responding to a stimulus|Repeated effort is relevant to muscular endurance.
+A movement involving rapid direction change draws on|agility|balance without any change of direction|muscular strength without movement speed|body composition|Agility involves effective changes of direction.
+Maintaining a stable position draws on|balance|agility without control of body position|body composition|the duration of a session|Balance involves maintaining or controlling position.
+Combining arm and leg actions effectively draws on|coordination|the proportion of body tissues|the duration of recovery|the number of weekly sessions|Coordination involves effective combination of movements.
+Training adaptations may diminish after a prolonged reduction in activity. This illustrates|reversibility|specificity|progression|overload|Reversibility describes loss of some adaptations after training is reduced or stopped.
+Changing duration from 20 to 25 minutes changes which FITT dimension?|time|type|frequency|intensity|Duration is the time dimension.
+Choosing walking instead of cycling changes which FITT dimension?|type|time|frequency|intensity|The kind of activity is the type dimension.
+'''
+ITEMS = []
+for line in RAW.strip().splitlines():
+    stem, correct, wrong1, wrong2, wrong3, explanation = line.split('|')
+    ITEMS.append((stem, (correct, wrong1, wrong2, wrong3), explanation))

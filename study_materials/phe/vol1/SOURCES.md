@@ -1,0 +1,10 @@
+# PHE Volume 1 — selected source and rule checks
+
+The series plan records the syllabus caveat: this is an editorial study guide, and the current official JAMB syllabus and institutional subject requirements must be checked separately. The following references support selected sport-rule passages, not every claim in the book. Rules and competition formats can change.
+
+- World Athletics, Competition and Technical Rules (2022), technical rules 18 and 24: https://worldathletics.org/download/download?filename=febae412-b673-4523-8321-e1ed092421dc.pdf&urlslug=C2.1 — torso finish and baton position at takeover. Amendments: https://worldathletics.org/download/download?filename=18cd8c27-73d6-42eb-8f3d-48f8edffaa15.pdf&urlslug=Competition+and+Technical+Rule+Amendments+August+2023. Check the current edition for actual events.
+- IFAB, Laws of the Game 2026/27, Law 3: https://www.thefa.com/-/media/files/thefaportal/governance-docs/laws-of-the-game/2026-27/law-3---the-players.ashx — maximum eleven including a goalkeeper. Relevant IFAB Laws 9–12 and 15–17 should be consulted for ball out of play, scoring, offside and restarts: https://www.theifab.com/laws/latest/.
+- FIVB official volleyball rules, 2021–2024, rules 7.3, 9.1 and 14.4: https://www.fivb.com/wp-content/uploads/2024/03/FIVB-Volleyball_Rules_2021_2024_pe.pdf — six players and three team hits in addition to a block. Check current rules for actual events.
+- Badminton scoring change, Reuters report (25 April 2026): https://www.reuters.com/sports/world-body-approves-switch-3x15-scoring-system-january-2027-2026-04-25/; Xinhua (26 April 2026) reports the 4 January 2027 date, two-point condition and 21-point cap: http://english.news.cn/20260426/1b4f8a0ad0fc41c6ad59b7eca2c34c2e/c.html. These are secondary reports of the BWF announcement, not a primary rulebook verification; check current BWF laws and event regulations.
+
+The sports passages are educational summaries and not complete rules. Other chapters, questions, health statements and newer rules still need independent subject-matter review before publication.
