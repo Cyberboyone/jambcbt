@@ -16,6 +16,8 @@ INCLUDES.extend(('paper1.typ', 'paper2.typ', 'rapid_fire.typ', 'bank120.typ', 'a
 
 
 def main():
+    output = HERE / 'JAMB_PHE_Volume1_The_Body_Fitness_and_Sport.pdf'
+    output.unlink(missing_ok=True)
     missing = [name for name in INCLUDES if not (HERE / name).is_file()]
     if missing:
         print('Cannot build a complete volume; missing: ' + ', '.join(missing), file=sys.stderr)
@@ -32,11 +34,11 @@ def main():
                       + ''.join(f'#include "{name}"\n' for name in INCLUDES), encoding='utf-8')
     if not (HERE / '_toc.typ').exists():
         write_toc([])
-    output = HERE / 'JAMB_PHE_Volume1_The_Body_Fitness_and_Sport.pdf'
     previous = None
     for _ in range(8):
         pdf, warnings = typst.compile_with_warnings(str(driver), root=str(HERE))
         if warnings:
+            output.unlink(missing_ok=True)
             for warning in warnings:
                 print(warning, file=sys.stderr)
             return 1
@@ -55,6 +57,7 @@ def main():
             print('Mechanical checks do not replace independent content review.')
             return 0
         previous = current
+    output.unlink(missing_ok=True)
     raise RuntimeError('Contents did not converge within eight passes')
 
 

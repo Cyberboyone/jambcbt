@@ -57,3 +57,7 @@ All eight chapter drills and both timed papers have had an initial distractor pa
 ### Latest build
 
 All eight drills, both papers and all eight master-bank sets received an initial distractor pass. The current build regenerates the question files, converges the contents and runs the audit; it removes the output if that audit fails. Latest result: 121 pages, zero Typst warnings, 116 synchronized contents entries, 520 exactly distinct stems, answer keys checked against source with balanced positions, no short pages by the automated threshold, and no detected horizontal overflow. The chapter openers and focus radars are unbreakable and headings are kept with following content. Some concepts recur across sets despite distinct wording, and these automated checks cannot establish subject accuracy, exam-level difficulty or absence of every visual widow. This is an independent study resource, not an official syllabus or past-paper publication.
+
+Volume 1 was committed as `19b3d2e`, pushed and uploaded to Drive as `1oIJ-v4bCW9TdcQiilaZIpZW_jDMHHQcy`. Volume 2 source planning has begun in `vol2/PLAN.md`; no Volume 2 PDF exists yet.
+
+Volume 1 cover correction: the original cover title wrapped awkwardly and extended past the page edge. The corrected source and rebuilt PDF use an explicit line break; its mechanical audit now checks cover text too. Corrected Drive copy `1dMXPyaO8ca01MWfwfQErGJMmfG8ijYZ0` supersedes the earlier copy, which remains in Drive. Volume 2 is now mechanically audited; see `vol2/PLAN.md` for the scope and limitations.

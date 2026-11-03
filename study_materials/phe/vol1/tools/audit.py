@@ -70,7 +70,10 @@ def main():
     short, outside = [], []
     with pymupdf.open(PDF) as doc:
         for number, page in enumerate(doc, 1):
-            if number == 1:  # The cover has its own edge-to-edge design.
+            if number == 1:  # Background can bleed; cover text may not.
+                cover = page.get_text('blocks')
+                if any(b[0] < 20 or b[2] > page.rect.width - 20 or b[1] < 20 or b[3] > page.rect.height - 20 for b in cover):
+                    outside.append(number)
                 continue
             body = [b for b in page.get_text('blocks') if 40 < b[1] < page.rect.height - 40]
             if max((b[3] for b in body), default=0) < page.rect.height * .70:

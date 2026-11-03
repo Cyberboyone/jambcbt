@@ -6,7 +6,7 @@
   #align(center)[
     #text(font: "DejaVu Sans", size: 10pt, weight: "bold", fill: rgb("#A7F3D0"))[JAMB CBT MASTER STUDY SERIES]
     #v(35pt)
-    #text(font: "DejaVu Sans", size: 31pt, weight: "bold", fill: white)[PHYSICAL AND HEALTH EDUCATION]
+    #text(font: "DejaVu Sans", size: 27pt, weight: "bold", fill: white)[PHYSICAL AND HEALTH \ EDUCATION]
     #v(10pt)
     #text(font: "DejaVu Sans", size: 15pt, weight: "bold", fill: rgb("#6EE7B7"))[VOLUME 1]
     #v(18pt)

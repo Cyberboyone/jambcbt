@@ -1,0 +1,18 @@
+#import "template.typ": *
+#show: setup-book.with(subject: "PHYSICAL AND HEALTH EDUCATION", volume-num: 2, volume-title: "Personal and Community Health — INCOMPLETE PROOF")
+#include "ch01_personal.typ"
+#include "drill_ch01.typ"
+#include "ch02_nutrition.typ"
+#include "drill_ch02.typ"
+#include "ch03_substances.typ"
+#include "drill_ch03.typ"
+#include "ch04_environment.typ"
+#include "drill_ch04.typ"
+#include "ch05_infection.typ"
+#include "drill_ch05.typ"
+#include "ch06_noncommunicable.typ"
+#include "drill_ch06.typ"
+#include "ch07_firstaid.typ"
+#include "drill_ch07.typ"
+#include "ch08_family.typ"
+#include "drill_ch08.typ"
