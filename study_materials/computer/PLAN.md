@@ -25,10 +25,10 @@ Appendices: A rapid-fire recall; B master bank and explanations; C consolidated
 keys; D formulas and data; E practical skills; F glossary; G model answers; H
 study plan; I comparison tables; J trap file.
 
-## Volume 2 — planned
+## Volume 2 — complete: Problem Solving, Programming and Digital Society
 
 Problem solving, programming, artificial intelligence, robotics, computing security,
-ethics and career prospects. The division is an editorial plan, not a claim that
+ethics and career prospects are covered in this volume. The division is an editorial plan, not a claim that
 JAMB assigns those topics to two examinations. Volume 1 is not a complete guide to
 the entire Computer Studies syllabus by itself.
 
@@ -54,3 +54,20 @@ python tools/audit.py
 non-converging contents. The audit checks question-pool counts, exact duplicate
 stems, answer data, contents synchronisation and text-frame/short-page geometry.
 It does not replace subject-matter review. Generated PDFs are ignored by Git.
+
+## Volume 2 chapters
+
+| Chapter | Topic | Status |
+| --- | --- | --- |
+| 1 | Problem solving, algorithms and flowcharts | Complete with 40-item drill |
+| 2 | Programming languages and program structure | Complete with 40-item drill |
+| 3 | Program development and the system life cycle | Complete with 40-item drill |
+| 4 | Artificial intelligence and its applications | Complete with 40-item drill |
+| 5 | Robotics and control systems | Complete with 40-item drill |
+| 6 | Cybersecurity and data protection | Complete with 40-item drill |
+| 7 | Ethics, human issues and responsible computing | Complete with 40-item drill |
+| 8 | Computing careers and practical revision | Complete with 40-item drill |
+
+Volume 2: 127 pages, eight chapters with 40-question drills, two 40-question timed papers, 120-question master bank with explanations, and appendices A–J. The 520 question stems are distinct. The master bank has 15 items per chapter; the first four sets emphasise tracing, arithmetic, boundary testing and model accuracy. These are original practice items, not represented as past JAMB questions.
+
+Volume 2 rebuild: install `vol2/requirements.txt`, then run `python vol2/render_drills.py`, `python vol2/render_papers.py`, `python vol2/render_bank.py`, `python vol2/build.py`, and `python vol2/tools/audit.py`. `_fit.json` controls solution spacing; `_toc.typ` is baked from the PDF outline. The release build rejects missing sections, warnings or a non-converging contents page. The audit checks counts, exact duplicate stems, answer data, contents and basic text geometry; it does not replace subject-matter review.
