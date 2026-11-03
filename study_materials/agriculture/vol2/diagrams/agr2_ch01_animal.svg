@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 324" width="760" height="324">
+  <defs>
+    <marker id="ag" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#008751"/>
+    </marker>
+    <marker id="an" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#0E1F40"/>
+    </marker>
+    <marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#D97706"/>
+    </marker>
+    <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#DC2626"/>
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="760" height="324" fill="#ECFDF5"/>
+<text x="380" y="22" font-family="DejaVu Sans" font-size="12.6" fill="#0E1F40" text-anchor="middle" font-weight="bold">How the farm animal is classified, and how it is kept</text>
+<rect x="12" y="34" width="360" height="226" rx="8" fill="#FFFFFF" stroke="#008751" stroke-width="1.4"/>
+<text x="192" y="54" font-family="DejaVu Sans" font-size="9.6" fill="#008751" text-anchor="middle" font-weight="bold">CLASSIFYING THE FARM ANIMAL</text>
+<rect x="26" y="70" width="164" height="72" rx="6" fill="#ECFDF5" stroke="#008751" stroke-width="1.2"/>
+<text x="108" y="96" font-family="DejaVu Sans" font-size="9.4" fill="#0E1F40" text-anchor="middle" font-weight="bold">Ruminant</text>
+<text x="108" y="116" font-family="DejaVu Sans" font-size="7.8" fill="#334155" text-anchor="middle" font-weight="normal">cattle, sheep, goat — four stomachs</text>
+<rect x="202" y="70" width="164" height="72" rx="6" fill="#DBEAFE" stroke="#2563EB" stroke-width="1.2"/>
+<text x="284" y="96" font-family="DejaVu Sans" font-size="9.4" fill="#0E1F40" text-anchor="middle" font-weight="bold">Monogastric</text>
+<text x="284" y="116" font-family="DejaVu Sans" font-size="7.8" fill="#334155" text-anchor="middle" font-weight="normal">pig, rabbit, fowl — one stomach</text>
+<rect x="26" y="156" width="164" height="72" rx="6" fill="#FEF3C7" stroke="#D97706" stroke-width="1.2"/>
+<text x="108" y="182" font-family="DejaVu Sans" font-size="9.4" fill="#0E1F40" text-anchor="middle" font-weight="bold">Poultry</text>
+<text x="108" y="202" font-family="DejaVu Sans" font-size="7.8" fill="#334155" text-anchor="middle" font-weight="normal">fowl, turkey, duck — beak and gizzard</text>
+<rect x="202" y="156" width="164" height="72" rx="6" fill="#EDE9FE" stroke="#7C3AED" stroke-width="1.2"/>
+<text x="284" y="182" font-family="DejaVu Sans" font-size="9.4" fill="#0E1F40" text-anchor="middle" font-weight="bold">Aquatic</text>
+<text x="284" y="202" font-family="DejaVu Sans" font-size="7.8" fill="#334155" text-anchor="middle" font-weight="normal">catfish, tilapia — gills and fins</text>
+<rect x="384" y="34" width="364" height="226" rx="8" fill="#FFFFFF" stroke="#2563EB" stroke-width="1.4"/>
+<text x="566" y="54" font-family="DejaVu Sans" font-size="9.6" fill="#2563EB" text-anchor="middle" font-weight="bold">THE FIVE SYSTEMS OF PRODUCTION</text>
+<rect x="396" y="74" width="340" height="32" rx="5" fill="#F8FAFC" stroke="#CBD5E1" stroke-width="1.0"/>
+<text x="410" y="88" font-family="DejaVu Sans" font-size="8.6" fill="#0E1F40" text-anchor="start" font-weight="bold">Intensive</text>
+<text x="410" y="100" font-family="DejaVu Sans" font-size="7.4" fill="#334155" text-anchor="start" font-weight="normal">housed, fed, controlled — poultry battery, piggery</text>
+<rect x="396" y="110" width="340" height="32" rx="5" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="1.0"/>
+<text x="410" y="124" font-family="DejaVu Sans" font-size="8.6" fill="#0E1F40" text-anchor="start" font-weight="bold">Semi-intensive</text>
+<text x="410" y="136" font-family="DejaVu Sans" font-size="7.4" fill="#334155" text-anchor="start" font-weight="normal">housed and grazed — village poultry, goat</text>
+<rect x="396" y="146" width="340" height="32" rx="5" fill="#F8FAFC" stroke="#CBD5E1" stroke-width="1.0"/>
+<text x="410" y="160" font-family="DejaVu Sans" font-size="8.6" fill="#0E1F40" text-anchor="start" font-weight="bold">Extensive</text>
+<text x="410" y="172" font-family="DejaVu Sans" font-size="7.4" fill="#334155" text-anchor="start" font-weight="normal">free range, natural pasture — nomadic cattle</text>
+<rect x="396" y="182" width="340" height="32" rx="5" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="1.0"/>
+<text x="410" y="196" font-family="DejaVu Sans" font-size="8.6" fill="#0E1F40" text-anchor="start" font-weight="bold">Mixed</text>
+<text x="410" y="208" font-family="DejaVu Sans" font-size="7.4" fill="#334155" text-anchor="start" font-weight="normal">animals plus crops — most Nigerian smallholdings</text>
+<rect x="396" y="218" width="340" height="32" rx="5" fill="#F8FAFC" stroke="#CBD5E1" stroke-width="1.0"/>
+<text x="410" y="232" font-family="DejaVu Sans" font-size="8.6" fill="#0E1F40" text-anchor="start" font-weight="bold">Ranching</text>
+<text x="410" y="244" font-family="DejaVu Sans" font-size="7.4" fill="#334155" text-anchor="start" font-weight="normal">fenced range, managed herd — the modern cattle ranch</text>
+<rect x="12" y="272" width="736" height="40" rx="7" fill="#ECFDF5" stroke="#008751" stroke-width="1.2"/>
+<text x="380" y="290" font-family="DejaVu Sans" font-size="8.4" fill="#0E1F40" text-anchor="middle" font-weight="normal">the animal converts what the farm cannot sell — grass, crop residue, household waste —</text>
+<text x="380" y="303" font-family="DejaVu Sans" font-size="8.4" fill="#008751" text-anchor="middle" font-weight="bold">into protein, manure and draught power</text>
+</svg>

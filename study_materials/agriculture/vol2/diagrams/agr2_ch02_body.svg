@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 348" width="760" height="348">
+  <defs>
+    <marker id="ag" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#008751"/>
+    </marker>
+    <marker id="an" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#0E1F40"/>
+    </marker>
+    <marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#D97706"/>
+    </marker>
+    <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#DC2626"/>
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="760" height="348" fill="#ECFDF5"/>
+<text x="380" y="22" font-family="DejaVu Sans" font-size="12.6" fill="#0E1F40" text-anchor="middle" font-weight="bold">Two digestive plans, and what each one can eat</text>
+<rect x="12" y="34" width="360" height="250" rx="8" fill="#FFFFFF" stroke="#008751" stroke-width="1.4"/>
+<text x="192" y="54" font-family="DejaVu Sans" font-size="9.4" fill="#008751" text-anchor="middle" font-weight="bold">THE RUMINANT — FOUR COMPARTMENTS</text>
+<rect x="26" y="70" width="332" height="32" rx="5" fill="#ECFDF5" stroke="#008751" stroke-width="1.0"/>
+<text x="40" y="84" font-family="DejaVu Sans" font-size="8.6" fill="#0E1F40" text-anchor="start" font-weight="bold">Rumen</text>
+<text x="40" y="96" font-family="DejaVu Sans" font-size="7.4" fill="#334155" text-anchor="start" font-weight="normal">fermentation vat; bacteria digest fibre</text>
+<rect x="26" y="106" width="332" height="32" rx="5" fill="#ECFDF5" stroke="#008751" stroke-width="1.0"/>
+<text x="40" y="120" font-family="DejaVu Sans" font-size="8.6" fill="#0E1F40" text-anchor="start" font-weight="bold">Reticulum</text>
+<text x="40" y="132" font-family="DejaVu Sans" font-size="7.4" fill="#334155" text-anchor="start" font-weight="normal">sorts the feed; the hardware stomach</text>
+<rect x="26" y="142" width="332" height="32" rx="5" fill="#ECFDF5" stroke="#008751" stroke-width="1.0"/>
+<text x="40" y="156" font-family="DejaVu Sans" font-size="8.6" fill="#0E1F40" text-anchor="start" font-weight="bold">Omasum</text>
+<text x="40" y="168" font-family="DejaVu Sans" font-size="7.4" fill="#334155" text-anchor="start" font-weight="normal">absorbs water; grinds the cud</text>
+<rect x="26" y="178" width="332" height="32" rx="5" fill="#ECFDF5" stroke="#008751" stroke-width="1.0"/>
+<text x="40" y="192" font-family="DejaVu Sans" font-size="8.6" fill="#0E1F40" text-anchor="start" font-weight="bold">Abomasum</text>
+<text x="40" y="204" font-family="DejaVu Sans" font-size="7.4" fill="#334155" text-anchor="start" font-weight="normal">the true stomach; acid digestion</text>
+<rect x="26" y="214" width="332" height="32" rx="5" fill="#DBEAFE" stroke="#2563EB" stroke-width="1.0"/>
+<text x="40" y="228" font-family="DejaVu Sans" font-size="8.6" fill="#0E1F40" text-anchor="start" font-weight="bold">Small intestine</text>
+<text x="40" y="240" font-family="DejaVu Sans" font-size="7.4" fill="#334155" text-anchor="start" font-weight="normal">absorbs the nutrients</text>
+<rect x="26" y="250" width="332" height="32" rx="5" fill="#DBEAFE" stroke="#2563EB" stroke-width="1.0"/>
+<text x="40" y="264" font-family="DejaVu Sans" font-size="8.6" fill="#0E1F40" text-anchor="start" font-weight="bold">Caecum and colon</text>
+<text x="40" y="276" font-family="DejaVu Sans" font-size="7.4" fill="#334155" text-anchor="start" font-weight="normal">water recovery</text>
+<rect x="384" y="34" width="364" height="250" rx="8" fill="#FFFFFF" stroke="#2563EB" stroke-width="1.4"/>
+<text x="566" y="54" font-family="DejaVu Sans" font-size="9.4" fill="#2563EB" text-anchor="middle" font-weight="bold">THE MONOGASTRIC AND THE FOWL</text>
+<rect x="398" y="70" width="336" height="32" rx="5" fill="#F8FAFC" stroke="#2563EB" stroke-width="1.0"/>
+<text x="412" y="84" font-family="DejaVu Sans" font-size="8.6" fill="#0E1F40" text-anchor="start" font-weight="bold">Oesophagus</text>
+<text x="412" y="96" font-family="DejaVu Sans" font-size="7.4" fill="#334155" text-anchor="start" font-weight="normal">carries feed to the stomach</text>
+<rect x="398" y="106" width="336" height="32" rx="5" fill="#F8FAFC" stroke="#2563EB" stroke-width="1.0"/>
+<text x="412" y="120" font-family="DejaVu Sans" font-size="8.6" fill="#0E1F40" text-anchor="start" font-weight="bold">Stomach</text>
+<text x="412" y="132" font-family="DejaVu Sans" font-size="7.4" fill="#334155" text-anchor="start" font-weight="normal">acid and enzymes digest protein</text>
+<rect x="398" y="142" width="336" height="32" rx="5" fill="#F8FAFC" stroke="#2563EB" stroke-width="1.0"/>
+<text x="412" y="156" font-family="DejaVu Sans" font-size="8.6" fill="#0E1F40" text-anchor="start" font-weight="bold">Small intestine</text>
+<text x="412" y="168" font-family="DejaVu Sans" font-size="7.4" fill="#334155" text-anchor="start" font-weight="normal">the main site of absorption</text>
+<rect x="398" y="178" width="336" height="32" rx="5" fill="#F8FAFC" stroke="#2563EB" stroke-width="1.0"/>
+<text x="412" y="192" font-family="DejaVu Sans" font-size="8.6" fill="#0E1F40" text-anchor="start" font-weight="bold">Caecum</text>
+<text x="412" y="204" font-family="DejaVu Sans" font-size="7.4" fill="#334155" text-anchor="start" font-weight="normal">ferments only a little fibre</text>
+<rect x="398" y="214" width="336" height="32" rx="5" fill="#F8FAFC" stroke="#2563EB" stroke-width="1.0"/>
+<text x="412" y="228" font-family="DejaVu Sans" font-size="8.6" fill="#0E1F40" text-anchor="start" font-weight="bold">Colon</text>
+<text x="412" y="240" font-family="DejaVu Sans" font-size="7.4" fill="#334155" text-anchor="start" font-weight="normal">water is recovered; droppings form</text>
+<rect x="398" y="256" width="336" height="44" rx="6" fill="#FEF3C7" stroke="#D97706" stroke-width="1.1"/>
+<text x="566" y="274" font-family="DejaVu Sans" font-size="8.4" fill="#D97706" text-anchor="middle" font-weight="bold">THE FOWL ADDS TWO ORGANS</text>
+<text x="566" y="290" font-family="DejaVu Sans" font-size="7.6" fill="#334155" text-anchor="middle" font-weight="normal">crop stores feed; gizzard grinds it with grit</text>
+<rect x="12" y="296" width="736" height="40" rx="7" fill="#ECFDF5" stroke="#008751" stroke-width="1.2"/>
+<text x="380" y="314" font-family="DejaVu Sans" font-size="8.4" fill="#0E1F40" text-anchor="middle" font-weight="normal">the ruminant eats grass the monogastric cannot, because its bacteria do the digesting for it;</text>
+<text x="380" y="327" font-family="DejaVu Sans" font-size="8.4" fill="#008751" text-anchor="middle" font-weight="bold">the pig and the fowl need concentrated feed, and compete with man for grain</text>
+</svg>

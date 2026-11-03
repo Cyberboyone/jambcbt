@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 344" width="760" height="344">
+  <defs>
+    <marker id="ag" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#008751"/>
+    </marker>
+    <marker id="an" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#0E1F40"/>
+    </marker>
+    <marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#D97706"/>
+    </marker>
+    <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#DC2626"/>
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="760" height="344" fill="#ECFDF5"/>
+<text x="380" y="22" font-family="DejaVu Sans" font-size="12.6" fill="#0E1F40" text-anchor="middle" font-weight="bold">How advice reaches the farm, and how policy reaches the farmer</text>
+<rect x="12" y="34" width="360" height="210" rx="8" fill="#FFFFFF" stroke="#008751" stroke-width="1.4"/>
+<text x="192" y="54" font-family="DejaVu Sans" font-size="9.6" fill="#008751" text-anchor="middle" font-weight="bold">THE EXTENSION CHAIN</text>
+<rect x="26" y="74" width="332" height="30" rx="5" fill="#ECFDF5" stroke="#008751" stroke-width="1.0"/>
+<text x="40" y="87" font-family="DejaVu Sans" font-size="8.4" fill="#0E1F40" text-anchor="start" font-weight="bold">Research</text>
+<text x="150" y="87" font-family="DejaVu Sans" font-size="7.2" fill="#334155" text-anchor="start" font-weight="normal">the improved variety or practice</text>
+<text x="40" y="99" font-family="DejaVu Sans" font-size="7.0" fill="#334155" text-anchor="middle" font-weight="normal"></text>
+<rect x="26" y="106" width="332" height="30" rx="5" fill="#FFFFFF" stroke="#008751" stroke-width="1.0"/>
+<text x="40" y="119" font-family="DejaVu Sans" font-size="8.4" fill="#0E1F40" text-anchor="start" font-weight="bold">Extension agent</text>
+<text x="150" y="119" font-family="DejaVu Sans" font-size="7.2" fill="#334155" text-anchor="start" font-weight="normal">trial, demonstration, advice</text>
+<text x="40" y="131" font-family="DejaVu Sans" font-size="7.0" fill="#334155" text-anchor="middle" font-weight="normal"></text>
+<rect x="26" y="138" width="332" height="30" rx="5" fill="#ECFDF5" stroke="#008751" stroke-width="1.0"/>
+<text x="40" y="151" font-family="DejaVu Sans" font-size="8.4" fill="#0E1F40" text-anchor="start" font-weight="bold">Contact farmer</text>
+<text x="150" y="151" font-family="DejaVu Sans" font-size="7.2" fill="#334155" text-anchor="start" font-weight="normal">the early adopter the village trusts</text>
+<text x="40" y="163" font-family="DejaVu Sans" font-size="7.0" fill="#334155" text-anchor="middle" font-weight="normal"></text>
+<rect x="26" y="170" width="332" height="30" rx="5" fill="#FFFFFF" stroke="#008751" stroke-width="1.0"/>
+<text x="40" y="183" font-family="DejaVu Sans" font-size="8.4" fill="#0E1F40" text-anchor="start" font-weight="bold">Farmer groups</text>
+<text x="150" y="183" font-family="DejaVu Sans" font-size="7.2" fill="#334155" text-anchor="start" font-weight="normal">the method spreads by example</text>
+<text x="40" y="195" font-family="DejaVu Sans" font-size="7.0" fill="#334155" text-anchor="middle" font-weight="normal"></text>
+<rect x="26" y="202" width="332" height="30" rx="5" fill="#ECFDF5" stroke="#008751" stroke-width="1.0"/>
+<text x="40" y="215" font-family="DejaVu Sans" font-size="8.4" fill="#0E1F40" text-anchor="start" font-weight="bold">Feedback</text>
+<text x="150" y="215" font-family="DejaVu Sans" font-size="7.2" fill="#334155" text-anchor="start" font-weight="normal">the farmer's problem returns to research</text>
+<text x="40" y="227" font-family="DejaVu Sans" font-size="7.0" fill="#334155" text-anchor="middle" font-weight="normal"></text>
+<rect x="384" y="34" width="364" height="210" rx="8" fill="#FFFFFF" stroke="#2563EB" stroke-width="1.4"/>
+<text x="566" y="54" font-family="DejaVu Sans" font-size="9.6" fill="#2563EB" text-anchor="middle" font-weight="bold">THE METHODS OF EXTENSION</text>
+<rect x="398" y="74" width="336" height="32" rx="5" fill="#FFFFFF" stroke="#2563EB" stroke-width="1.0"/>
+<text x="412" y="88" font-family="DejaVu Sans" font-size="8.4" fill="#0E1F40" text-anchor="start" font-weight="bold">Individual</text>
+<text x="412" y="100" font-family="DejaVu Sans" font-size="7.2" fill="#334155" text-anchor="start" font-weight="normal">farm visit, office call, phone</text>
+<rect x="398" y="108" width="336" height="32" rx="5" fill="#FFFFFF" stroke="#2563EB" stroke-width="1.0"/>
+<text x="412" y="122" font-family="DejaVu Sans" font-size="8.4" fill="#0E1F40" text-anchor="start" font-weight="bold">Group</text>
+<text x="412" y="134" font-family="DejaVu Sans" font-size="7.2" fill="#334155" text-anchor="start" font-weight="normal">meeting, demonstration, field day</text>
+<rect x="398" y="142" width="336" height="32" rx="5" fill="#FFFFFF" stroke="#2563EB" stroke-width="1.0"/>
+<text x="412" y="156" font-family="DejaVu Sans" font-size="8.4" fill="#0E1F40" text-anchor="start" font-weight="bold">Mass</text>
+<text x="412" y="168" font-family="DejaVu Sans" font-size="7.2" fill="#334155" text-anchor="start" font-weight="normal">radio, television, poster, leaflet</text>
+<rect x="398" y="176" width="336" height="32" rx="5" fill="#FFFFFF" stroke="#2563EB" stroke-width="1.0"/>
+<text x="412" y="190" font-family="DejaVu Sans" font-size="8.4" fill="#0E1F40" text-anchor="start" font-weight="bold">Result demonstration</text>
+<text x="412" y="202" font-family="DejaVu Sans" font-size="7.2" fill="#334155" text-anchor="start" font-weight="normal">the plot the farmer can see</text>
+<rect x="398" y="210" width="336" height="32" rx="5" fill="#FFFFFF" stroke="#2563EB" stroke-width="1.0"/>
+<text x="412" y="224" font-family="DejaVu Sans" font-size="8.4" fill="#0E1F40" text-anchor="start" font-weight="bold">Method demonstration</text>
+<text x="412" y="236" font-family="DejaVu Sans" font-size="7.2" fill="#334155" text-anchor="start" font-weight="normal">the skill the farmer can copy</text>
+<rect x="12" y="254" width="736" height="76" rx="7" fill="#ECFDF5" stroke="#008751" stroke-width="1.2"/>
+<text x="380" y="274" font-family="DejaVu Sans" font-size="8.6" fill="#008751" text-anchor="middle" font-weight="bold">THE POLICY LADDER — FROM THE FARM TO THE MINISTRY</text>
+<text x="380" y="292" font-family="DejaVu Sans" font-size="8.2" fill="#0E1F40" text-anchor="middle" font-weight="normal">credit · subsidy · guaranteed price · extension · research · storage · insurance · market</text>
+<text x="380" y="310" font-family="DejaVu Sans" font-size="7.8" fill="#64748B" text-anchor="middle" font-weight="normal">every policy in the syllabus is one rung of this ladder, and every one is judged by whether the farmer climbs</text>
+</svg>

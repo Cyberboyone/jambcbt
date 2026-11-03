@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 356" width="760" height="356">
+  <defs>
+    <marker id="ag" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#008751"/>
+    </marker>
+    <marker id="an" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#0E1F40"/>
+    </marker>
+    <marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#D97706"/>
+    </marker>
+    <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#DC2626"/>
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="760" height="356" fill="#ECFDF5"/>
+<text x="380" y="22" font-family="DejaVu Sans" font-size="12.6" fill="#0E1F40" text-anchor="middle" font-weight="bold">From the farm gate to the balance sheet</text>
+<rect x="14" y="40" width="136" height="96" rx="7" fill="#FFFFFF" stroke="#008751" stroke-width="1.4"/>
+<rect x="14" y="40" width="136" height="5" rx="2.5" fill="#008751"/>
+<text x="82" y="66" font-family="DejaVu Sans" font-size="8.8" fill="#008751" text-anchor="middle" font-weight="bold">Source</text>
+<text x="82" y="80" font-family="DejaVu Sans" font-size="8.8" fill="#008751" text-anchor="middle" font-weight="bold">documents</text>
+<text x="82" y="100" font-family="DejaVu Sans" font-size="7.2" fill="#334155" text-anchor="middle" font-weight="normal">receipt, invoice,</text>
+<text x="82" y="112" font-family="DejaVu Sans" font-size="7.2" fill="#334155" text-anchor="middle" font-weight="normal">waybill, wage sheet</text>
+<line x1="150" y1="88" x2="162" y2="88" stroke="#64748B" stroke-width="1.4" marker-end="url(#an)"/>
+<rect x="162" y="40" width="136" height="96" rx="7" fill="#FFFFFF" stroke="#2563EB" stroke-width="1.4"/>
+<rect x="162" y="40" width="136" height="5" rx="2.5" fill="#2563EB"/>
+<text x="230" y="66" font-family="DejaVu Sans" font-size="8.8" fill="#2563EB" text-anchor="middle" font-weight="bold">Books of</text>
+<text x="230" y="80" font-family="DejaVu Sans" font-size="8.8" fill="#2563EB" text-anchor="middle" font-weight="bold">account</text>
+<text x="230" y="100" font-family="DejaVu Sans" font-size="7.2" fill="#334155" text-anchor="middle" font-weight="normal">cash book, ledger,</text>
+<text x="230" y="112" font-family="DejaVu Sans" font-size="7.2" fill="#334155" text-anchor="middle" font-weight="normal">inventory, labour</text>
+<line x1="298" y1="88" x2="310" y2="88" stroke="#64748B" stroke-width="1.4" marker-end="url(#an)"/>
+<rect x="310" y="40" width="136" height="96" rx="7" fill="#FFFFFF" stroke="#D97706" stroke-width="1.4"/>
+<rect x="310" y="40" width="136" height="5" rx="2.5" fill="#D97706"/>
+<text x="378" y="66" font-family="DejaVu Sans" font-size="8.8" fill="#D97706" text-anchor="middle" font-weight="bold">Trial</text>
+<text x="378" y="80" font-family="DejaVu Sans" font-size="8.8" fill="#D97706" text-anchor="middle" font-weight="bold">balance</text>
+<text x="378" y="100" font-family="DejaVu Sans" font-size="7.2" fill="#334155" text-anchor="middle" font-weight="normal">the two columns</text>
+<text x="378" y="112" font-family="DejaVu Sans" font-size="7.2" fill="#334155" text-anchor="middle" font-weight="normal">that must agree</text>
+<line x1="446" y1="88" x2="458" y2="88" stroke="#64748B" stroke-width="1.4" marker-end="url(#an)"/>
+<rect x="458" y="40" width="136" height="96" rx="7" fill="#FFFFFF" stroke="#7C3AED" stroke-width="1.4"/>
+<rect x="458" y="40" width="136" height="5" rx="2.5" fill="#7C3AED"/>
+<text x="526" y="66" font-family="DejaVu Sans" font-size="8.8" fill="#7C3AED" text-anchor="middle" font-weight="bold">Statements</text>
+<text x="526" y="100" font-family="DejaVu Sans" font-size="7.2" fill="#334155" text-anchor="middle" font-weight="normal">profit and loss,</text>
+<text x="526" y="112" font-family="DejaVu Sans" font-size="7.2" fill="#334155" text-anchor="middle" font-weight="normal">balance sheet</text>
+<line x1="594" y1="88" x2="606" y2="88" stroke="#64748B" stroke-width="1.4" marker-end="url(#an)"/>
+<rect x="606" y="40" width="136" height="96" rx="7" fill="#FFFFFF" stroke="#DC2626" stroke-width="1.4"/>
+<rect x="606" y="40" width="136" height="5" rx="2.5" fill="#DC2626"/>
+<text x="674" y="66" font-family="DejaVu Sans" font-size="8.8" fill="#DC2626" text-anchor="middle" font-weight="bold">Decision</text>
+<text x="674" y="100" font-family="DejaVu Sans" font-size="7.2" fill="#334155" text-anchor="middle" font-weight="normal">plant more, borrow,</text>
+<text x="674" y="112" font-family="DejaVu Sans" font-size="7.2" fill="#334155" text-anchor="middle" font-weight="normal">buy or sell</text>
+<rect x="12" y="150" width="360" height="146" rx="8" fill="#FFFFFF" stroke="#008751" stroke-width="1.4"/>
+<text x="192" y="170" font-family="DejaVu Sans" font-size="9.4" fill="#008751" text-anchor="middle" font-weight="bold">THE THREE STATEMENTS</text>
+<text x="28" y="190" font-family="DejaVu Sans" font-size="8.2" fill="#0E1F40" text-anchor="start" font-weight="bold">Profit and loss</text>
+<text x="150" y="190" font-family="DejaVu Sans" font-size="7.4" fill="#334155" text-anchor="start" font-weight="normal">revenue − cost = profit or loss</text>
+<text x="28" y="220" font-family="DejaVu Sans" font-size="8.2" fill="#0E1F40" text-anchor="start" font-weight="bold">Balance sheet</text>
+<text x="150" y="220" font-family="DejaVu Sans" font-size="7.4" fill="#334155" text-anchor="start" font-weight="normal">assets = liabilities + capital</text>
+<text x="28" y="250" font-family="DejaVu Sans" font-size="8.2" fill="#0E1F40" text-anchor="start" font-weight="bold">Cash flow</text>
+<text x="150" y="250" font-family="DejaVu Sans" font-size="7.4" fill="#334155" text-anchor="start" font-weight="normal">money in − money out, month by month</text>
+<rect x="384" y="150" width="364" height="146" rx="8" fill="#FFFFFF" stroke="#D97706" stroke-width="1.4"/>
+<text x="566" y="170" font-family="DejaVu Sans" font-size="9.0" fill="#D97706" text-anchor="middle" font-weight="bold">THE FOUR FIGURES THE PAPER ASKS FOR</text>
+<text x="398" y="190" font-family="DejaVu Sans" font-size="8.2" fill="#0E1F40" text-anchor="start" font-weight="bold">Gross margin</text>
+<text x="506" y="190" font-family="DejaVu Sans" font-size="7.4" fill="#334155" text-anchor="start" font-weight="normal">output − variable cost</text>
+<text x="398" y="216" font-family="DejaVu Sans" font-size="8.2" fill="#0E1F40" text-anchor="start" font-weight="bold">Depreciation</text>
+<text x="506" y="216" font-family="DejaVu Sans" font-size="7.4" fill="#334155" text-anchor="start" font-weight="normal">(cost − salvage) ÷ useful years</text>
+<text x="398" y="242" font-family="DejaVu Sans" font-size="8.2" fill="#0E1F40" text-anchor="start" font-weight="bold">Return on capital</text>
+<text x="506" y="242" font-family="DejaVu Sans" font-size="7.4" fill="#334155" text-anchor="start" font-weight="normal">profit ÷ capital × 100</text>
+<text x="398" y="268" font-family="DejaVu Sans" font-size="8.2" fill="#0E1F40" text-anchor="start" font-weight="bold">Break-even</text>
+<text x="506" y="268" font-family="DejaVu Sans" font-size="7.4" fill="#334155" text-anchor="start" font-weight="normal">fixed cost ÷ gross margin per unit</text>
+<rect x="12" y="306" width="736" height="40" rx="7" fill="#ECFDF5" stroke="#008751" stroke-width="1.2"/>
+<text x="380" y="324" font-family="DejaVu Sans" font-size="8.4" fill="#0E1F40" text-anchor="middle" font-weight="normal">records are not kept for the taxman; they are kept so the farmer can tell a good season from a lucky one</text>
+<text x="380" y="337" font-family="DejaVu Sans" font-size="8.4" fill="#008751" text-anchor="middle" font-weight="bold">and a profitable enterprise from one that only looks busy</text>
+</svg>

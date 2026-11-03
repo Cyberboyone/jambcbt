@@ -16,7 +16,7 @@ one side, the animal and the business on the other. Volume 1 is the plant half.
 | Vol. | Title | Coverage | Status |
 |---|---|---|---|
 | 1 | The Soil and the Crop | the scope of agriculture; rocks, soil formation and soil properties; fertility, manure and fertiliser; land preparation and cultural practice; propagation and nursery; pests, diseases and weeds; the crops of Nigeria; harvest, storage and marketing | **delivered — 190 pp** |
-| 2 | The Animal and the Farm Business | livestock production; animal nutrition and health; fisheries and forestry; farm records and accounts; extension and cooperatives; agricultural policy and marketing institutions | planned |
+| 2 | The Animal and the Farm Business | livestock production; animal nutrition and health; fisheries and forestry; farm records and accounts; extension and cooperatives; agricultural policy and marketing institutions | **delivered — 178 pp** |
 
 ## Volume 1 — chapter table
 
@@ -37,11 +37,30 @@ C (consolidated keys), D (the figures file), E (the farm calendar), F (the
 definitions file), G (model answers), H (the eight-week plan), I (the comparison
 tables), J (the trap file).
 
+## Volume 2 — chapter table
+
+| Ch | Title | Sections |
+|----|-------|----------|
+| 1 | The Animal on the Farm | why the farm keeps animals; classification by stomach, use and name; the five systems; local and exotic breeds; the problems of the industry; the arithmetic of the herd; worked questions; two-minute set; drill |
+| 2 | The Body of the Farm Animal | why the stomach comes first; the four compartments; the monogastric and the fowl; digestion and absorption; the reproductive system and the cycle; the other systems; worked questions; two-minute set; drill |
+| 3 | Animal Nutrition and Feeding | the six nutrients; the four classes of feed; what decides the requirement; the Pearson square; feeding practice; the poisons in the feed; worked questions; two-minute set; drill |
+| 4 | Animal Health and Disease Control | the healthy animal and the sick one; the triangle and how disease travels; viral diseases; bacterial diseases; protozoan and parasitic diseases; the control programme; worked questions; two-minute set; drill |
+| 5 | Livestock Production and Management | poultry; cattle; sheep and goats; pigs, rabbits and micro-livestock; breeding and selection; worked questions; two-minute set; drill |
+| 6 | Fisheries and Forestry | why fish and forest; fish and the systems that farm them; building and running a pond; harvesting and preservation; the forest and its products; agroforestry and conservation; worked questions; two-minute set; drill |
+| 7 | Farm Records and Accounts | why a farm keeps records; the four families of record; depreciation and valuation; the three statements; the decision figures; worked questions; two-minute set; drill |
+| 8 | Extension, Cooperatives and Policy | what extension is; the methods and the aids; the cooperative society; marketing institutions; policy and the agencies; credit and insurance; worked questions; two-minute set; drill |
+
+Volume 2 back matter repeats the same ten appendices, retargeted: A (60 rapid-fire
+pairs), B (the 120-question master bank), C (consolidated keys), D (the figures
+file), E (the farm calendar), F (the definitions file), G (model answers), H (the
+eight-week plan), I (the comparison tables), J (the trap file).
+
 ## Question pools
 
 | Volume | Drills | Papers | Bank | Total |
 |---|---|---|---|---|
 | 1 | 320 | 80 | 120 | **520** |
+| 2 | 320 | 80 | 120 | **520** |
 
 Every item is disjoint from every other item in its volume, and every item carries
 a written solution that names the reason the distractors fail. The duplicate-stem
@@ -49,13 +68,14 @@ audit is run over the whole compiled PDF, not over the sources.
 
 ## Build
 
-From `study_materials/agriculture/vol1/`:
+From `study_materials/agriculture/vol1/` (and the same, with `agr2` in the
+script names, from `vol2/`):
 
 ```bash
 /home/user/jambcbt/.venv/bin/python diagrams_gen/generate_diagrams.py   # 17 SVGs
 /home/user/jambcbt/.venv/bin/python tools/check_figs.py
-/home/user/jambcbt/.venv/bin/python tools/drills_agr1.py                # drill_ch01–08.typ
-/home/user/jambcbt/.venv/bin/python tools/papers_agr1.py                # paper1–2, bank120, answer_keys
+/home/user/jambcbt/.venv/bin/python tools/drills_agr1.py                # drill_ch01–08.typ   (drills_agr2.py in vol2)
+/home/user/jambcbt/.venv/bin/python tools/papers_agr1.py                # paper1–2, bank120, answer_keys  (papers_agr2.py in vol2)
 /home/user/jambcbt/.venv/bin/python build.py                            # PDF, contents baked
 /home/user/jambcbt/.venv/bin/python tools/audit.py <pdf>                # TOC, margins, stems, thin pages
 ```

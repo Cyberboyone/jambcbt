@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 338" width="760" height="338">
+  <defs>
+    <marker id="ag" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#008751"/>
+    </marker>
+    <marker id="an" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#0E1F40"/>
+    </marker>
+    <marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#D97706"/>
+    </marker>
+    <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#DC2626"/>
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="760" height="338" fill="#ECFDF5"/>
+<text x="380" y="22" font-family="DejaVu Sans" font-size="12.6" fill="#0E1F40" text-anchor="middle" font-weight="bold">A pond in section, and a farm that keeps its trees</text>
+<rect x="12" y="34" width="360" height="240" rx="8" fill="#FFFFFF" stroke="#2563EB" stroke-width="1.4"/>
+<text x="192" y="54" font-family="DejaVu Sans" font-size="9.4" fill="#2563EB" text-anchor="middle" font-weight="bold">THE FISH POND IN SECTION</text>
+<rect x="26" y="96" width="332" height="96" rx="4" fill="#DBEAFE" stroke="#2563EB" stroke-width="1.2"/>
+<path d="M 26 192 L 26 150 Q 192 108 358 150 L 358 192 Z" fill="#93C5FD" stroke="#2563EB" stroke-width="1.2"/>
+<text x="192" y="176" font-family="DejaVu Sans" font-size="8.2" fill="#0E1F40" text-anchor="middle" font-weight="bold">water 1.0–1.5 m deep</text>
+<line x1="26" y1="96" x2="358" y2="96" stroke="#2563EB" stroke-width="1.4"/>
+<text x="192" y="90" font-family="DejaVu Sans" font-size="7.2" fill="#64748B" text-anchor="middle" font-weight="normal">water surface — the inlet and the outlet at opposite ends</text>
+<text x="70" y="120" font-family="DejaVu Sans" font-size="7.4" fill="#008751" text-anchor="middle" font-weight="bold">inlet</text>
+<text x="316" y="120" font-family="DejaVu Sans" font-size="7.4" fill="#DC2626" text-anchor="middle" font-weight="bold">outlet</text>
+<rect x="26" y="192" width="332" height="18" rx="3" fill="#D6D3D1" stroke="#CBD5E1" stroke-width="1.0"/>
+<text x="192" y="205" font-family="DejaVu Sans" font-size="7.2" fill="#334155" text-anchor="middle" font-weight="normal">clay or concrete bottom, drained to one corner</text>
+<text x="192" y="230" font-family="DejaVu Sans" font-size="7.8" fill="#008751" text-anchor="middle" font-weight="bold">stock 5–10 fingerlings per m²; feed 3 % of body weight daily</text>
+<text x="192" y="244" font-family="DejaVu Sans" font-size="7.4" fill="#334155" text-anchor="middle" font-weight="normal">test the water: green is good, muddy is not, scum means too much feed</text>
+<text x="192" y="258" font-family="DejaVu Sans" font-size="7.4" fill="#334155" text-anchor="middle" font-weight="normal">harvest by draining, or by seining with a net at 6–8 months</text>
+<rect x="384" y="34" width="364" height="240" rx="8" fill="#FFFFFF" stroke="#008751" stroke-width="1.4"/>
+<text x="566" y="54" font-family="DejaVu Sans" font-size="9.2" fill="#008751" text-anchor="middle" font-weight="bold">THE FARM WITH TREES — AGROFORESTRY</text>
+<rect x="396" y="70" width="340" height="40" rx="5" fill="#ECFDF5" stroke="#008751" stroke-width="1.0"/>
+<text x="566" y="88" font-family="DejaVu Sans" font-size="7.6" fill="#0E1F40" text-anchor="middle" font-weight="normal">trees on the boundary — windbreak, fodder, poles</text>
+<text x="566" y="102" font-family="DejaVu Sans" font-size="7.0" fill="#334155" text-anchor="middle" font-weight="normal">e.g. neem, cashew, Leucaena, Gmelina</text>
+<rect x="396" y="116" width="340" height="40" rx="5" fill="#FEF3C7" stroke="#D97706" stroke-width="1.0"/>
+<text x="566" y="134" font-family="DejaVu Sans" font-size="7.6" fill="#0E1F40" text-anchor="middle" font-weight="normal">alley cropping — maize between rows of trees</text>
+<text x="566" y="148" font-family="DejaVu Sans" font-size="7.0" fill="#334155" text-anchor="middle" font-weight="normal">prunings mulch the crop and return nitrogen</text>
+<rect x="396" y="162" width="340" height="40" rx="5" fill="#DBEAFE" stroke="#2563EB" stroke-width="1.0"/>
+<text x="566" y="180" font-family="DejaVu Sans" font-size="7.6" fill="#0E1F40" text-anchor="middle" font-weight="normal">woodlot — fuel, poles and charcoal</text>
+<text x="566" y="194" font-family="DejaVu Sans" font-size="7.0" fill="#334155" text-anchor="middle" font-weight="normal">a crop the farmer plants for ten years, not ten weeks</text>
+<rect x="396" y="208" width="340" height="56" rx="5" fill="#EDE9FE" stroke="#7C3AED" stroke-width="1.0"/>
+<text x="566" y="226" font-family="DejaVu Sans" font-size="8.0" fill="#7C3AED" text-anchor="middle" font-weight="bold">THE FOREST ESTATE</text>
+<text x="566" y="240" font-family="DejaVu Sans" font-size="7.2" fill="#334155" text-anchor="middle" font-weight="normal">reserve · plantation · community forest —</text>
+<text x="566" y="252" font-family="DejaVu Sans" font-size="7.2" fill="#334155" text-anchor="middle" font-weight="normal">protected for timber, water, wildlife and carbon</text>
+<rect x="12" y="286" width="736" height="40" rx="7" fill="#ECFDF5" stroke="#008751" stroke-width="1.2"/>
+<text x="380" y="304" font-family="DejaVu Sans" font-size="8.4" fill="#0E1F40" text-anchor="middle" font-weight="normal">a fish pond and a woodlot are both a store of capital: the first pays in months, the second in years,</text>
+<text x="380" y="317" font-family="DejaVu Sans" font-size="8.4" fill="#008751" text-anchor="middle" font-weight="bold">and both need the same thing the crop needs — water, care and a market</text>
+</svg>
